@@ -1,0 +1,936 @@
+1
+00:00:01,020 --> 00:00:03,820
+O Universo Observável é um lugar grande,
+
+2
+00:00:03,820 --> 00:00:06,960
+que esteve aí por cerca de 13 bilhões de anos.
+
+3
+00:00:06,960 --> 00:00:09,360
+Até 2 trilhões de galáxias,
+
+4
+00:00:09,360 --> 00:00:13,020
+feitas de algo como 20 mil bilhões de bilhões de estrelas,
+
+5
+00:00:13,020 --> 00:00:15,060
+cercam nossa galáxia natal.
+
+6
+00:00:15,495 --> 00:00:18,225
+Apenas na Via Láctea, cientistas assumem
+
+7
+00:00:18,225 --> 00:00:21,235
+que existem uns 40 bilhões de planetas como a Terra
+
+8
+00:00:21,235 --> 00:00:23,935
+na zona habitável de suas estrelas.
+
+9
+00:00:24,285 --> 00:00:27,455
+Quando olhamos para estes números, é difícil imaginar
+
+10
+00:00:27,455 --> 00:00:29,165
+que não há mais ninguém lá fora.
+
+11
+00:00:29,935 --> 00:00:33,055
+Mudaria nossa percepção de nós mesmos para sempre
+
+12
+00:00:33,060 --> 00:00:35,000
+se achássemos "outros".
+
+13
+00:00:35,300 --> 00:00:38,360
+Só saber que este vasto lugar não está morto
+
+14
+00:00:38,360 --> 00:00:40,700
+viraria nossa perspectiva para fora
+
+15
+00:00:40,700 --> 00:00:43,880
+e poderia nos ajudar a superar nossas rivalidades irrelevantes.
+
+16
+00:00:44,240 --> 00:00:47,840
+Mas antes de procurarmos nossos novos melhores amigos, ou piores inimigos,
+
+17
+00:00:47,840 --> 00:00:49,740
+temos um problema para solucionar.
+
+18
+00:00:49,740 --> 00:00:51,500
+Pelo que estamos realmente procurando?
+
+19
+00:00:52,320 --> 00:00:57,660
+*Música de abertura*
+
+20
+00:00:57,660 --> 00:00:59,040
+~ Kurzgesagt - Em Poucas Palavras ~
+
+21
+00:01:00,420 --> 00:01:02,120
+Em um Universo tão grande e velho,
+
+22
+00:01:02,420 --> 00:01:04,480
+temos que assumir que civilizações
+
+23
+00:01:04,480 --> 00:01:06,620
+nascem com milhões de anos de distância entre si
+
+24
+00:01:06,760 --> 00:01:09,360
+e se desenvolvem em diferentes direções e velocidades.
+
+25
+00:01:09,700 --> 00:01:12,840
+Então, não estamos apenas encarando distâncias de
+
+26
+00:01:12,840 --> 00:01:15,200
+dezenas até centenas de milhares de anos-luz,
+
+27
+00:01:15,200 --> 00:01:17,280
+estamos procurando por uma civilização
+
+28
+00:01:17,300 --> 00:01:20,060
+variando de homens das cavernas até seres superavançados.
+
+29
+00:01:20,460 --> 00:01:22,700
+Então, precisamos de um enquadramento conceitual
+
+30
+00:01:22,700 --> 00:01:24,700
+para nos permitir pensar melhor,
+
+31
+00:01:24,700 --> 00:01:26,700
+que nos permitem procurar direito.
+
+32
+00:01:27,160 --> 00:01:30,740
+Existem regras universais que espécies inteligentes seguem?
+
+33
+00:01:31,640 --> 00:01:34,780
+Atualmente, o tamanho da nossa amostra civilizatória é de apenas 1,
+
+34
+00:01:34,900 --> 00:01:37,180
+então podemos fazer suposições incorretas,
+
+35
+00:01:37,180 --> 00:01:39,280
+baseadas unicamente em nós mesmos.
+
+36
+00:01:39,400 --> 00:01:41,900
+Ainda assim, é melhor que nada.
+
+37
+00:01:41,900 --> 00:01:46,540
+Sabemos que humanos começaram com nada além de amarras e mãos que podiam fazer ferramentas.
+
+38
+00:01:46,540 --> 00:01:49,040
+Sabemos que humanos são curiosos,
+
+39
+00:01:49,040 --> 00:01:52,920
+competitivos, gananciosos por recursos e expansionistas.
+
+40
+00:01:53,300 --> 00:01:55,900
+Quanto mais nossos ancestrais tinham estas características,
+
+41
+00:01:55,900 --> 00:01:59,140
+mais bem-sucedidos eles foram no jogo da construção de civilizações.
+
+42
+00:01:59,595 --> 00:02:02,935
+Se tornar um com a Natureza é legal, mas não leva
+
+43
+00:02:02,935 --> 00:02:06,345
+à sistemas de irrigação, ou pólvora, ou cidades.
+
+44
+00:02:06,420 --> 00:02:08,520
+Então, é razoável assumir que
+
+45
+00:02:08,639 --> 00:02:11,240
+alienígenas capazes de dominar seu planeta natal
+
+46
+00:02:11,240 --> 00:02:13,100
+também têm estas qualidades.
+
+47
+00:02:13,300 --> 00:02:16,540
+E, se aliens têm que seguir as mesmas leis da Física,
+
+48
+00:02:16,660 --> 00:02:19,600
+então há uma medida eficiente para o progresso:
+
+49
+00:02:19,600 --> 00:02:20,820
+O Consumo de energia.
+
+50
+00:02:21,400 --> 00:02:24,260
+O progresso humano pode ser medido bem precisamente
+
+51
+00:02:24,285 --> 00:02:27,035
+pela quantidade de energia que extraímos do ambiente
+
+52
+00:02:27,075 --> 00:02:29,375
+e como a fizemos útil para criar coisas.
+
+53
+00:02:29,480 --> 00:02:32,980
+Começamos com músculos, até que aprendemos a controlar o fogo.
+
+54
+00:02:33,640 --> 00:02:37,360
+Então, fizemos máquinas que usam energia cinética da água e do vento.
+
+55
+00:02:37,360 --> 00:02:39,220
+À medida que nossas máquinas ficaram melhores
+
+56
+00:02:39,220 --> 00:02:41,620
+e nosso conhecimento sobre materiais se expandiu,
+
+57
+00:02:41,620 --> 00:02:43,720
+começamos a extrair a energia concentrada
+
+58
+00:02:43,720 --> 00:02:46,080
+de plantas mortas que retiramos do solo.
+
+59
+00:02:46,660 --> 00:02:49,200
+À medida que nosso consumo de energia cresceu exponencialmente,
+
+60
+00:02:49,205 --> 00:02:51,715
+também cresceram as habilidades de nossa civilização.
+
+61
+00:02:52,140 --> 00:02:54,480
+Entre 1800 e 2015,
+
+62
+00:02:54,480 --> 00:02:57,300
+o tamanho da população cresceu em sete vezes,
+
+63
+00:02:57,300 --> 00:03:01,180
+enquanto a humanidade passou a consumir 25 vezes mais energia.
+
+64
+00:03:01,600 --> 00:03:05,440
+É provável que este processo continue até o futuro distante.
+
+65
+00:03:06,200 --> 00:03:09,220
+Baseados nestes fatos, o cientista Nikolai Kardashev
+
+66
+00:03:09,220 --> 00:03:12,380
+desenvolveu um método de categorizar civilizações
+
+67
+00:03:12,380 --> 00:03:15,440
+de habitantes das cavernas até divindades governando galáxias:
+
+68
+00:03:15,680 --> 00:03:17,120
+a Escala de Kardashev,
+
+69
+00:03:17,120 --> 00:03:20,640
+um método de hierarquizar civilizações pelo seu consumo de energia.
+
+70
+00:03:21,015 --> 00:03:23,805
+A escala tem sido refinada e expandida
+
+71
+00:03:23,805 --> 00:03:25,760
+através das décadas mas, no geral,
+
+72
+00:03:25,760 --> 00:03:28,900
+ela coloca as civilizações em 4 diferentes categorias.
+
+73
+00:03:29,205 --> 00:03:31,135
+Uma civilização do tipo 1
+
+74
+00:03:31,135 --> 00:03:34,235
+é capaz de utilizar a energia disponível em seu planeta natal.
+
+75
+00:03:34,745 --> 00:03:36,415
+Uma civilização tipo 2
+
+76
+00:03:36,420 --> 00:03:39,380
+é capaz de utilizar a energia disponível em sua estrela
+
+77
+00:03:39,380 --> 00:03:40,720
+e sistema planetário.
+
+78
+00:03:41,200 --> 00:03:44,160
+Uma civilização tipo 3 é capaz de utilizar
+
+79
+00:03:44,180 --> 00:03:46,800
+a energia disponível na sua galáxia.
+
+80
+00:03:46,900 --> 00:03:50,600
+Uma civilização tipo 4 é capaz de utilizar a energia disponível
+
+81
+00:03:50,600 --> 00:03:52,140
+em múltiplas galáxias.
+
+82
+00:03:53,095 --> 00:03:56,005
+Estes níveis estão separados por ordens de magnitude.
+
+83
+00:03:56,100 --> 00:03:58,520
+É como comparar uma colônia de formigas
+
+84
+00:03:58,520 --> 00:04:00,240
+a uma área metropolitana humana.
+
+85
+00:04:00,620 --> 00:04:01,380
+Para formigas,
+
+86
+00:04:01,380 --> 00:04:05,300
+somos tão complexos e poderosos que podíamos ser deuses.
+
+87
+00:04:05,440 --> 00:04:07,360
+Então, para tornar a escala mais útil,
+
+88
+00:04:07,360 --> 00:04:08,800
+precisamos de subcategorias.
+
+89
+00:04:09,080 --> 00:04:11,080
+Na extremidade inferior do espectro,
+
+90
+00:04:11,080 --> 00:04:14,035
+existem civilizações do tipo 0 ao tipo 1.
+
+91
+00:04:14,040 --> 00:04:15,760
+Qualquer coisa desde caçadores-coletores
+
+92
+00:04:15,760 --> 00:04:19,459
+até algo que podemos alcançar nos próximos séculos.
+
+93
+00:04:19,459 --> 00:04:22,560
+Estas podem, na verdade, serem abundantes na Via Láctea.
+
+94
+00:04:23,040 --> 00:04:27,500
+Mas uma civilização que não está ativamente transmitindo sinais de rádio ao espaço
+
+95
+00:04:27,500 --> 00:04:30,280
+pode estar tão perto quanto nosso mais próximo vizinho estelar
+
+96
+00:04:30,460 --> 00:04:32,000
+o sistema de Alfa Centauri,
+
+97
+00:04:32,000 --> 00:04:34,940
+e não teríamos como perceber sua existência.
+
+98
+00:04:35,575 --> 00:04:38,645
+Mas, mesmo se eles transmitiram sinais de rádio como nós transmitimos,
+
+99
+00:04:38,645 --> 00:04:41,060
+pode não servir de tanta ajuda.
+
+100
+00:04:41,120 --> 00:04:42,640
+Em uma escala interestelar,
+
+101
+00:04:42,640 --> 00:04:45,160
+a humanidade é praticamente invisível.
+
+102
+00:04:45,840 --> 00:04:49,920
+Nossos sinais podem se estender por impressionantes 200 anos-luz,
+
+103
+00:04:49,920 --> 00:04:53,020
+mas isso é apenas uma pequena fração da Via Láctea.
+
+104
+00:04:53,900 --> 00:04:56,040
+E, mesmo se alguém estivesse ouvindo,
+
+105
+00:04:56,040 --> 00:04:59,440
+após alguns anos-luz, nossos sinais decaem em ruído -
+
+106
+00:04:59,440 --> 00:05:02,880
+impossível de identificar como fonte de uma espécie inteligente.
+
+107
+00:05:03,640 --> 00:05:07,340
+Hoje, a humanidade está aproximadamente em 0,75.
+
+108
+00:05:07,560 --> 00:05:09,520
+Nós temos alterado o nosso planeta;
+
+109
+00:05:09,520 --> 00:05:12,895
+criamos enormes estruturas, mineramos e escavamos montanhas,
+
+110
+00:05:12,900 --> 00:05:15,680
+removemos florestas tropicais e drenamos pântanos.
+
+111
+00:05:15,900 --> 00:05:18,775
+Criamos rios e lagos, e mudamos a composição
+
+112
+00:05:18,780 --> 00:05:20,800
+e temperatura da nossa atmosfera.
+
+113
+00:05:21,200 --> 00:05:24,915
+Se o progresso continuar e não tornarmos a Terra inabitável,
+
+114
+00:05:24,915 --> 00:05:27,985
+seremos uma civilização tipo 1 completa
+
+115
+00:05:27,985 --> 00:05:29,795
+dentro de alguns séculos.
+
+116
+00:05:30,260 --> 00:05:34,060
+Qualquer civilização que chega ao tipo 1 está motivada a olhar para fora,
+
+117
+00:05:34,060 --> 00:05:36,180
+porque provavelmente ainda é curiosa,
+
+118
+00:05:36,180 --> 00:05:38,560
+competitiva, gananciosa e expansionista.
+
+119
+00:05:39,340 --> 00:05:42,440
+O próximo passo razoável para a transição ao tipo 2
+
+120
+00:05:42,465 --> 00:05:45,855
+é tentar alterar e minerar outros planetas e corpos celestes.
+
+121
+00:05:46,135 --> 00:05:48,565
+Isso pode começar com postos avançados no espaço,
+
+122
+00:05:48,565 --> 00:05:51,385
+a transição para infraestrutura e indústrias nas proximidades do planeta natal,
+
+123
+00:05:51,385 --> 00:05:54,980
+mudança para as colônias e termina com a terraformação de outros planetas,
+
+124
+00:05:55,080 --> 00:05:58,000
+ao mudar sua atmosfera, sua rotação ou posição.
+
+125
+00:05:58,640 --> 00:06:02,320
+À medida que uma civilização se expande e usa cada vez mais coisas e espaço,
+
+126
+00:06:02,320 --> 00:06:04,655
+seu consumo de energia sobe na escala com eles.
+
+127
+00:06:04,660 --> 00:06:07,880
+Então, em algum momento, eles podem arquitetar o maior projeto
+
+128
+00:06:07,880 --> 00:06:10,560
+que uma civilização de baixo nível 2 pode assumir:
+
+129
+00:06:10,960 --> 00:06:14,800
+Extrair a energia de sua estrela, ao construir uma Esfera de Dyson.
+
+130
+00:06:15,320 --> 00:06:18,395
+Assim que esta megaestrutura é finalizada, a energia tornou-se
+
+131
+00:06:18,400 --> 00:06:22,520
+praticamente ilimitada para moldar o seu sistema natal à sua vontade.
+
+132
+00:06:23,040 --> 00:06:24,580
+Se eles ainda são curiosos,
+
+133
+00:06:24,580 --> 00:06:27,035
+competitivos, gananciosos e expansionistas,
+
+134
+00:06:27,035 --> 00:06:30,045
+e agora tem completo controle sobre seu sistema natal,
+
+135
+00:06:30,045 --> 00:06:33,405
+infraestrutura estelar posicionada e a produção energética de uma estrela,
+
+136
+00:06:33,655 --> 00:06:36,335
+a próxima fronteira se desloca para outras estrelas,
+
+137
+00:06:36,335 --> 00:06:37,335
+a anos-luz de distância.
+
+138
+00:06:37,865 --> 00:06:40,895
+Para uma civilização do tipo 2, a distância até outras estrelas pode ser entendida
+
+139
+00:06:40,900 --> 00:06:44,460
+como entendemos a distância da Terra a Plutão hoje.
+
+140
+00:06:44,940 --> 00:06:47,960
+Tecnicamente ao nosso alcance, mas apenas com imensos investimentos
+
+141
+00:06:47,965 --> 00:06:50,925
+em termos de tempo, genialidade e recursos.
+
+142
+00:06:51,535 --> 00:06:54,495
+Isso começa a transição para o tipo 3.
+
+143
+00:06:54,720 --> 00:06:56,760
+Este passo está tão distante à nossa frente
+
+144
+00:06:56,760 --> 00:07:00,540
+que se torna difícil imaginar como serão exatamente os desafios
+
+145
+00:07:00,540 --> 00:07:01,960
+e como eles serão solucionados.
+
+146
+00:07:02,200 --> 00:07:05,440
+Serão capazes de achar uma solução para as vastas distâncias
+
+147
+00:07:05,440 --> 00:07:08,120
+e tempos de viagem de centenas ou milhares de anos?
+
+148
+00:07:08,600 --> 00:07:11,240
+Serão capazes de se comunicar em manter compartilhados
+
+149
+00:07:11,240 --> 00:07:14,680
+a cultura e a biologia entre colônias afastadas ao longo de anos-luz?
+
+150
+00:07:15,400 --> 00:07:18,760
+Ou se separarão em diferentes civilizações do tipo 2?
+
+151
+00:07:18,760 --> 00:07:21,100
+Talvez, até mesmo diferentes espécies?
+
+152
+00:07:21,620 --> 00:07:24,660
+Existem desafios mortais entre as estrelas?
+
+153
+00:07:25,020 --> 00:07:27,860
+Então, quanto mais próxima do tipo 3 uma civilização está,
+
+154
+00:07:27,860 --> 00:07:31,360
+mais difícil é imaginar como ela realmente seria.
+
+155
+00:07:31,440 --> 00:07:34,120
+Eles podem descobrir uma nova Física, podem entender
+
+156
+00:07:34,120 --> 00:07:36,600
+e controlar matéria e energia escuras
+
+157
+00:07:36,600 --> 00:07:39,420
+ou serem capazes de viajar mais rápido que a luz.
+
+158
+00:07:39,660 --> 00:07:42,160
+Podemos ser incapazes de assimilar suas motivações,
+
+159
+00:07:42,160 --> 00:07:43,860
+tecnologia e ações.
+
+160
+00:07:44,380 --> 00:07:47,445
+Humanos são as formigas, tentando entender
+
+161
+00:07:47,445 --> 00:07:49,415
+a área metropolitana galáctica.
+
+162
+00:07:49,765 --> 00:07:52,665
+Uma civilização de alto nível 2 já pode
+
+163
+00:07:52,665 --> 00:07:55,985
+considerar a humanidade primitiva demais até mesmo para conversar.
+
+164
+00:07:56,285 --> 00:07:59,285
+Uma civilização do tipo 3 pode pensar sobre nós
+
+165
+00:07:59,285 --> 00:08:01,925
+o que pensamos das bactérias vivendo no formigueiro.
+
+166
+00:08:02,320 --> 00:08:04,780
+Talvez não nos considerariem nem como seres conscientes,
+
+167
+00:08:04,780 --> 00:08:06,660
+ou a nossa sobrevivência como irrelevante.
+
+168
+00:08:07,060 --> 00:08:08,560
+Só podemos rezar
+
+169
+00:08:08,560 --> 00:08:10,220
+para que sejam deuses legais.
+
+170
+00:08:11,240 --> 00:08:13,520
+Mas a escala não termina necessariamente aqui;
+
+171
+00:08:14,080 --> 00:08:18,260
+Alguns cientistas sugerem a existência de civilizações do tipo 4 e 5,
+
+172
+00:08:18,260 --> 00:08:20,960
+cuja influência se estende por aglomerados galácticos
+
+173
+00:08:20,960 --> 00:08:22,060
+ou superaglomerados -
+
+174
+00:08:22,200 --> 00:08:26,180
+estruturas compreendendo milhares de galáxias e trilhões de estrelas.
+
+175
+00:08:26,840 --> 00:08:30,340
+Ultimamente, pode existir o tipo Ômega de civilização,
+
+176
+00:08:30,360 --> 00:08:32,940
+capaz de manipular o Universo inteiro
+
+177
+00:08:32,940 --> 00:08:34,440
+e possivelmente outros.
+
+178
+00:08:34,640 --> 00:08:39,780
+Civilizações tipo Ômega podem ser os reais criadores do nosso Universo,
+
+179
+00:08:39,780 --> 00:08:41,960
+por razões além de nossa compreensão.
+
+180
+00:08:42,059 --> 00:08:43,879
+Talvez eles estivessem só entediados ¯\_(ツ)_/¯
+
+181
+00:08:44,560 --> 00:08:46,940
+Por mais defeituosa que esta classificação possa ser,
+
+182
+00:08:46,940 --> 00:08:50,600
+esse experimento mental já nos diz coisas interessantes.
+
+183
+00:08:51,140 --> 00:08:55,380
+Se nossa ideia sobre a natureza de espécies que formam civilizações interestelares
+
+184
+00:08:55,440 --> 00:08:58,200
+está mais ou menos correta, então podemos ter bastante certeza
+
+185
+00:08:58,260 --> 00:09:02,580
+de que não existem civilizações do tipo 3 ou além vivendo próximas da Via Láctea.
+
+186
+00:09:03,400 --> 00:09:06,615
+A influência deles seria, com grande chance, tão abrangente,
+
+187
+00:09:06,620 --> 00:09:09,040
+e a tecnologia deles tão superior à nossa,
+
+188
+00:09:09,040 --> 00:09:10,460
+que não poderíamos deixar de notá-los.
+
+189
+00:09:10,840 --> 00:09:13,540
+A galáxia iria se iluminar com atividade
+
+190
+00:09:13,540 --> 00:09:15,340
+em milhares de sistemas estelares.
+
+191
+00:09:15,900 --> 00:09:18,420
+Devemos ser capazes de ver ou detectar seus artefatos,
+
+192
+00:09:18,420 --> 00:09:21,140
+ou movimentos entre diferentes partes de seu império.
+
+193
+00:09:21,640 --> 00:09:25,080
+Mesmo se uma civilização tipo 3 chegou a existir no passado,
+
+194
+00:09:25,080 --> 00:09:27,120
+e morreu de maneira misteriosa,
+
+195
+00:09:27,400 --> 00:09:31,140
+deveríamos detectar alguns dos restos de seu império.
+
+196
+00:09:31,340 --> 00:09:33,960
+Mas, quando cientistas olharam, eles não encontraram
+
+197
+00:09:34,000 --> 00:09:37,535
+restos de estrelas ceifadas, megastruturas decaindo,
+
+198
+00:09:37,535 --> 00:09:40,845
+ou cicatrizes de grandes guerras interestelares.
+
+199
+00:09:40,960 --> 00:09:44,000
+Então, elas provavelmente não estão lá, e nunca estiveram.
+
+200
+00:09:44,580 --> 00:09:46,660
+De certa perspectiva, isso é bem triste,
+
+201
+00:09:46,660 --> 00:09:48,220
+mas também bastante reconfortante.
+
+202
+00:09:48,580 --> 00:09:52,500
+Isso deixa a galáxia para nós e outros iguais a nós.
+
+203
+00:09:53,420 --> 00:09:56,335
+Então, as civilizações mais promissoras de se procurar
+
+204
+00:09:56,340 --> 00:10:00,560
+devem estar dentro do espectro do tipo 1,5 até 2,5.
+
+205
+00:10:01,060 --> 00:10:04,700
+Eles não seriam avançados demais para se entender ou entender suas motivações.
+
+206
+00:10:05,240 --> 00:10:07,800
+Eles podem ter finalizado suas primeiras megaestruturas,
+
+207
+00:10:07,800 --> 00:10:10,915
+e podem estar no processo de mover coisas entre as estrelas
+
+208
+00:10:10,915 --> 00:10:14,125
+e transmitindo enormes quantidades de informação ao espaço
+
+209
+00:10:14,125 --> 00:10:16,180
+por acidente ou de propósito.
+
+210
+00:10:16,660 --> 00:10:20,780
+Eles provavelmente também olhariam para as estrelas e procurariam por outros.
+
+211
+00:10:20,840 --> 00:10:23,140
+Novamente, talvez tenhamos entendido tudo errado.
+
+212
+00:10:23,200 --> 00:10:26,205
+Talvez o progresso para o tipo 2 não signifique
+
+213
+00:10:26,205 --> 00:10:31,800
+a expansão para além, e a humanidade ainda é imatura demais para imaginar outra coisa.
+
+214
+00:10:32,680 --> 00:10:36,620
+Por enquanto, tudo o que sabemos é que não vimos ninguém ainda;
+
+215
+00:10:36,740 --> 00:10:39,500
+mas, nós só começamos a procurar.
+
+216
+00:10:41,645 --> 00:10:44,355
+Até que finalmente encontremos super alienígenas amigáveis,
+
+217
+00:10:44,355 --> 00:10:47,375
+e podemos pedi-los para nos explicar as leis do universo,
+
+218
+00:10:47,380 --> 00:10:50,280
+a maioria de nós precisa de se contentar com aprender por nós mesmos.
+
+219
+00:10:50,740 --> 00:10:53,320
+Esteja você voltando para a escola, deixando sua casa pela primeira vez,
+
+220
+00:10:53,320 --> 00:10:55,400
+ou se está só entrando em uma nova fase da sua vida,
+
+221
+00:10:55,520 --> 00:10:58,840
+nossa loja está lotada e pronta para todas as suas necessidades de volta às aulas.
+
+222
+00:10:59,340 --> 00:11:01,740
+Cadernos e blocos de notas para organizar o seu trabalho;
+
+223
+00:11:01,775 --> 00:11:04,425
+adesivos e canecas para deixarem tudo bonito;
+
+224
+00:11:04,425 --> 00:11:07,185
+muitos e muitos pôsteres para tornar seu dormitório ou quarto
+
+225
+00:11:07,185 --> 00:11:10,040
+um inspirador oásis de conhecimento.
+
+226
+00:11:10,040 --> 00:11:12,540
+Temos novas camisas e, pela primeira vez,
+
+227
+00:11:12,540 --> 00:11:14,560
+um suéter Kurzgesagt da Terra.
+
+228
+00:11:14,860 --> 00:11:18,160
+Todos estes produtos são desenhados e produzidos com amor,
+
+229
+00:11:18,160 --> 00:11:20,340
+pelos merch birbs da Kurzgesagt.
+
+230
+00:11:20,620 --> 00:11:22,960
+Nossas mercadorias são o jeito mais fácil de apoiar o que fazemos
+
+231
+00:11:22,960 --> 00:11:25,380
+e manter nossos vídeos gratuitos para todos.
+
+232
+00:11:25,380 --> 00:11:26,960
+Obrigado por assitir!!
+
+233
+00:11:28,100 --> 00:11:29,860
+*Música de fechamento*
+
+234
+00:11:30,480 --> 00:11:32,480
+~ Legendas: Português (Brasil) - por StipulateVenus ~
+
