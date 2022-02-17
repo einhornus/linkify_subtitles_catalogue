@@ -41,6 +41,13 @@
    "zh-Hans_gt.srt",
    "zh-Hant_gt.srt",
    "zh_hm.srt"
+  ],
+  "language": "en",
+  "link": "https://www.youtube.com/watch?v=lheapd7bgLA"
+ },
+ "Trash": {
+  "srt": [
+   "ru_gn.srt"
   ]
  },
  "Винни Пух\\1": {
