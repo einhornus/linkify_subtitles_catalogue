@@ -1,123 +1,184 @@
 {
-  "Asterix\\Asterix and Cleopatra": {
-    "srt": [
-      "en_dl.srt",
-      "fr_hm.srt"
-    ],
-    "lsubs": [
-      "fr_en.lsubs",
-      "fr_rw.lsubs"
-    ],
-    "language": "fr",
-    "link": "https://www.youtube.com/watch?v=DlJc2JvDCL0"
-  },
-  "enchufetv\\Types of Students": {
-    "srt": [
-      "en_gt.srt",
-      "es_hm.srt"
-    ],
-    "language": "es",
-    "link": "https://www.youtube.com/watch?v=X8Q4vPKDMpk"
-  },
-  "Kurzgesagt\\What Happens if the Moon Crashes into Earth": {
-    "srt": [
-      "ar_gt.srt",
-      "ar_hm.srt",
-      "de_gt.srt",
-      "en_gt.srt",
-      "en_hm.srt",
-      "es_gt.srt",
-      "fr_gt.srt",
-      "it_gt.srt",
-      "ja_gt.srt",
-      "ko_gt.srt",
-      "nl_gt.srt",
-      "pl_gt.srt",
-      "pt_gt.srt",
-      "ru_gt.srt",
-      "th_gt.srt",
-      "th_hm.srt",
-      "tr_gt.srt",
-      "zh-Hans_gt.srt",
-      "zh-Hant_gt.srt",
-      "zh_hm.srt"
-    ],
-    "language": "en",
-    "link": "https://www.youtube.com/watch?v=lheapd7bgLA"
-  },
-  "Trash": {
-    "srt": [
-      "ru_gn.srt"
-    ]
-  },
-  "Винни Пух\\1": {
-    "srt": [
-      "en_dl.srt",
-      "en_hm.srt",
-      "ru_hm.srt"
-    ],
-    "language": "ru",
-    "link": "https://www.youtube.com/watch?v=cWhrlPEzAng",
-    "lsubs": [
-      "ru_en.lsubs",
-      "ru_rw.lsubs"
-    ]
-  },
-  "Иван Васильевич меняет профессию": {
-    "srt": [
-      "de_hm.srt",
-      "en_dl.srt",
-      "en_hm.srt",
-      "es_hm.srt",
-      "fr_hm.srt",
-      "ko_hm.srt",
-      "pl_hm.srt",
-      "pt_hm.srt",
-      "ru_gn.srt",
-      "ru_hm.srt",
-      "ru_ua.srt"
-    ],
-    "language": "ru",
-    "link": "https://www.youtube.com/watch?v=a50qT9bW2Qo",
-    "lsubs": [
-      "ru_en.lsubs",
-      "ru_rw.lsubs"
-    ]
-  },
-  "ИронияСудьбы\\1": {
-    "srt": [
-      "en_ya.srt",
-      "ru_hm.srt"
-    ],
-    "language": "ru",
-    "link": "https://www.youtube.com/watch?v=lVpmZnRIMKs",
-    "lsubs": [
-      "ru_en.lsubs",
-      "ru_rw.lsubs"
-    ]
-  },
-  "ИронияСудьбы\\2": {
-    "srt": [
-      "en_ya.srt",
-      "ru_hm.srt"
-    ],
-    "language": "ru",
-    "link": "https://www.youtube.com/watch?v=5TmGPeowN-0",
-    "lsubs": [
-      "ru_en.lsubs",
-      "ru_rw.lsubs"
-    ]
-  },
-  "КарликНос": {
-    "srt": [
-      "en_dl.srt",
-      "ru_hm.srt"
-    ],
-    "language": "ru",
-    "link": "https://www.youtube.com/watch?v=ZjvCMWjBwHo",
-    "lsubs": [
-      "ru_en.lsubs",
-      "ru_rw.lsubs"
-    ]
-  }
+ "Asterix\\Asterix and Cleopatra": {
+  "srt": [
+   "en_dl.srt",
+   "fr_hm.srt"
+  ],
+  "lsubs": [
+   "fr_en.lsubs",
+   "fr_rw.lsubs"
+  ],
+  "language": "fr",
+  "link": "https://www.youtube.com/watch?v=DlJc2JvDCL0"
+ },
+ "enchufetv\\Types of Students": {
+  "srt": [
+   "en_gt.srt",
+   "es_hm.srt"
+  ],
+  "lsubs": [
+   "es_en.lsubs",
+   "es_rw.lsubs"
+  ],
+  "language": "es",
+  "link": "https://www.youtube.com/watch?v=X8Q4vPKDMpk"
+ },
+ "Kurzgesagt\\What Happens if the Moon Crashes into Earth": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_gn.srt",
+   "en_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "zh_gt.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "link": "https://www.youtube.com/watch?v=lheapd7bgLA"
+ },
+ "Kurzgesagt\\Why we should not look for aliens": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_gn.srt",
+   "en_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh-Hans_gt.srt",
+   "zh-Hant_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "link": "https://www.youtube.com/watch?v=xAUJYP8tnRE"
+ },
+ "Trash": {
+  "srt": [
+   "ru_gn.srt"
+  ]
+ },
+ "Винни Пух\\1": {
+  "srt": [
+   "en_dl.srt",
+   "en_hm.srt",
+   "ru_hm.srt"
+  ],
+  "language": "ru",
+  "link": "https://www.youtube.com/watch?v=gT13BAAbGyA",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Гуссарская баллада": {
+  "srt": [
+   "en_dl.srt",
+   "ru_hm.srt"
+  ],
+  "language": "ru",
+  "link": "https://www.youtube.com/watch?v=929O4WzLRDg",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Иван Васильевич меняет профессию": {
+  "srt": [
+   "en_dl.srt",
+   "en_hm.srt",
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
+  ],
+  "language": "ru",
+  "link": "https://www.youtube.com/watch?v=a50qT9bW2Qo",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Ирония Судьбы\\1": {
+  "srt": [
+   "en_ya.srt",
+   "ru_hm.srt"
+  ],
+  "language": "ru",
+  "link": "https://www.youtube.com/watch?v=lVpmZnRIMKs",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Ирония Судьбы\\2": {
+  "srt": [
+   "en_ya.srt",
+   "ru_hm.srt"
+  ],
+  "language": "ru",
+  "link": "https://www.youtube.com/watch?v=5TmGPeowN-0",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Карлик Нос": {
+  "srt": [
+   "en_dl.srt",
+   "ru_hm.srt"
+  ],
+  "language": "ru",
+  "link": "https://www.youtube.com/watch?v=ZjvCMWjBwHo",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ }
 }
