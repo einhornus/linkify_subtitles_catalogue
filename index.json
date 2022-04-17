@@ -11,6 +11,29 @@
   "language": "fr",
   "link": "https://www.youtube.com/watch?v=DlJc2JvDCL0"
  },
+ "Bizim": {
+  "srt": [
+   "en_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "tr",
+  "link": "https://www.netflix.com/watch/81354496",
+  "lsubs": [
+   "tr_en.lsubs"
+  ]
+ },
+ "Deliha": {
+  "srt": [
+   "en_gt.srt",
+   "en_hm.srt",
+   "tr_hm.srt"
+  ],
+  "language": "tr",
+  "link": "https://www.netflix.com/watch/80134330",
+  "lsubs": [
+   "tr_en.lsubs"
+  ]
+ },
  "enchufetv\\Types of Students": {
   "srt": [
    "en_gt.srt",
@@ -100,6 +123,19 @@
   "language": "en",
   "link": "https://www.youtube.com/watch?v=xAUJYP8tnRE"
  },
+ "Recep": {
+  "srt": [
+   "en_gt.srt",
+   "en_hm.srt",
+   "tr_hm.srt"
+  ],
+  "language": "tr",
+  "link": "https://www.netflix.com/watch/80038526",
+  "lsubs": [
+   "tr_en.lsubs",
+   "tr_rw.lsubs"
+  ]
+ },
  "Trash": {
   "srt": [
    "ru_gn.srt"
@@ -164,6 +200,41 @@
   ],
   "language": "ru",
   "link": "https://www.youtube.com/watch?v=5TmGPeowN-0",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Кавказская пленница": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_dl.srt",
+   "en_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gn.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "ru_ua.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_gt.srt"
+  ],
+  "language": "ru",
+  "link": "https://www.youtube.com/watch?v=P2_sjEURwgo",
   "lsubs": [
    "ru_en.lsubs",
    "ru_rw.lsubs"
