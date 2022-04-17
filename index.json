@@ -136,23 +136,9 @@
    "tr_rw.lsubs"
   ]
  },
- "Trash": {
-  "srt": [
-   "ru_gn.srt"
-  ]
- },
  "Винни Пух\\1": {
-  "srt": [
-   "en_dl.srt",
-   "en_hm.srt",
-   "ru_hm.srt"
-  ],
   "language": "ru",
-  "link": "https://www.youtube.com/watch?v=gT13BAAbGyA",
-  "lsubs": [
-   "ru_en.lsubs",
-   "ru_rw.lsubs"
-  ]
+  "link": "https://www.youtube.com/watch?v=gT13BAAbGyA"
  },
  "Гуссарская баллада": {
   "srt": [
@@ -207,31 +193,12 @@
  },
  "Кавказская пленница": {
   "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
    "en_dl.srt",
-   "en_gt.srt",
    "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ja_hm.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
    "ru_gn.srt",
    "ru_gt.srt",
    "ru_hm.srt",
-   "ru_ua.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "tr_hm.srt",
-   "zh_gt.srt"
+   "ru_ua.srt"
   ],
   "language": "ru",
   "link": "https://www.youtube.com/watch?v=P2_sjEURwgo",
