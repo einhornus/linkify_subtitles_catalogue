@@ -1,0 +1,856 @@
+1
+00:00:00,900 --> 00:00:04,219
+İnsan bedeninin
+limitlerinden kurtulma arzusu,
+
+2
+00:00:04,220 --> 00:00:07,169
+...insanlık tarihinin kendisi
+kadar eskilere dayanmaktadır.
+
+3
+00:00:07,170 --> 00:00:09,739
+Sadece fizik kanunlarına
+tabi bir şekilde,
+
+4
+00:00:09,740 --> 00:00:12,049
+...ucu bucağı olmayan bir
+evrende yaşamaktayız.
+
+5
+00:00:12,050 --> 00:00:14,069
+Fakat buna rağmen bilinçlerimiz...
+
+6
+00:00:14,070 --> 00:00:18,059
+...etten yapılma fani makinelerde
+hapsolmuş bulunmakta.
+
+7
+00:00:18,060 --> 00:00:21,309
+Nefes kesici yenilikler
+ve ilerlemeler sayesinde,
+
+8
+00:00:21,310 --> 00:00:27,469
+...et torbalarımızdan kurtulup zihinlerimizi
+dijital bir ütopyaya aktarma fikri,
+
+9
+00:00:27,470 --> 00:00:31,139
+...artık hiç olmadığı kadar
+mümkün görünüyor.
+
+10
+00:00:31,140 --> 00:00:35,749
+Hatta buna, evrim sürecimizin
+bir sonraki adımı bile denebilir.
+
+11
+00:00:35,750 --> 00:00:42,619
+Zihin transferi ve dijital ölümsüzlük kavramları,
+Cyberpunk 2077'nin ana temaları arasında yer alıyor.
+
+12
+00:00:42,620 --> 00:00:48,449
+Oyun, teknolojinin çok ilerlediği
+ve bunun insanlık için ne anlama
+gelebileceğine tanık olduğumuz...
+
+13
+00:00:48,450 --> 00:00:51,799
+...gelecekteki bir
+distopyada geçiyor.
+
+14
+00:00:51,800 --> 00:00:59,379
+CD Projekt Red, geçen yıl bizden bu konuyla ilgili bir
+video yapmamızı rica ettiğinde hemen işe koyulduk.
+
+15
+00:00:59,380 --> 00:01:02,239
+O hâlde gelin bu konuyu
+birlikte irdeleyelim:
+
+16
+00:01:02,240 --> 00:01:06,399
+Zihninizi bir bilgisayara aktarmak
+sahiden de mümkün müdür?
+
+17
+00:01:06,400 --> 00:01:09,269
+Şey, o iş biraz karışık...
+
+18
+00:01:09,270 --> 00:01:12,389
+Türkçe Çeviri:
+Bilinmiyor
+
+19
+00:01:12,390 --> 00:01:17,309
+Düzenleme ve en son hâl:
+@yigithan.kilinc
+
+20
+00:01:17,310 --> 00:01:20,179
+Tam olarak neyi aktaracağız?
+
+21
+00:01:20,180 --> 00:01:24,189
+Zihin, tarif etmesi güç
+kavramlardan birisidir.
+
+22
+00:01:24,190 --> 00:01:28,119
+Bilinciniz ile zekânızın ortak kabiliyetleri;
+yani akılda bir şeyleri canlandırabilmenizi,
+
+23
+00:01:28,120 --> 00:01:32,249
+...bir şeyleri ayırt edebilmenizi ve rüya
+görebilmenizi sağlayan şey olduğu düşünülmekte.
+
+24
+00:01:32,250 --> 00:01:36,779
+Zihin transferi ise, iç dünyanızın kopyalanarak
+bilincinizin simülasyonunu oluşturmak için...
+
+25
+00:01:36,780 --> 00:01:42,059
+...bir bilgisayara aktarılmasını
+kapsayan varsayımsal bir kavramdır.
+
+26
+00:01:42,060 --> 00:01:46,219
+Ancak, bu terimi tanımlamak
+bile gittikçe ve hızla zorlaşıyor.
+
+27
+00:01:46,220 --> 00:01:50,769
+Zihin transferinin mümkün olup
+olmadığı, 3 varsayıma dayanmaktadır:
+
+28
+00:01:50,770 --> 00:01:52,659
+İlk varsayım:
+Fizikselcilik
+
+29
+00:01:52,660 --> 00:01:57,909
+Zihniniz; beyninizin yapısında,
+diziliminde ve biyokimyasında yer alır.
+
+30
+00:01:57,910 --> 00:02:02,699
+Zihne dair her şeyin beyinde bulunduğu
+görüşüne "fizikselcilik" denir...
+
+31
+00:02:02,700 --> 00:02:06,989
+...ve buna göre konuyu doğa yasaları
+bağlamında ele almamız gerekir.
+
+32
+00:02:06,990 --> 00:02:08,969
+İkinci varsayım:
+Taranabilirlik
+
+33
+00:02:08,970 --> 00:02:11,809
+Gün gelecek, beyni
+tamamen çözeceğiz...
+
+34
+00:02:11,810 --> 00:02:18,019
+...ve zihnin dijital kopyasını yaratmak için beyni taklit
+edebilmemizi sağlayacak teknolojiye sahip olacağız.
+
+35
+00:02:18,020 --> 00:02:20,119
+Üçüncü varsayım:
+Hesaplanabilirlik
+
+36
+00:02:20,120 --> 00:02:25,949
+Zihniniz, bilgisayar yazılıma bağlanabilir, bu da
+zihnin hesaplanabilir olduğu anlamına gelir.
+
+37
+00:02:25,950 --> 00:02:34,489
+Bilinç dahil, beyinde yer alan her bir fiziksel kısım,
+çok kod gerektirse dahi tam olarak kopyalanabilir.
+
+38
+00:02:34,490 --> 00:02:38,869
+Tüm bu varsayımlar, bilim insanları ve
+düşünürlerce öne sürülmüş ve tepki çekmiştir,
+
+39
+00:02:38,870 --> 00:02:42,129
+...ve hâlâ da hararetli tartışmaların
+odak noktası olmayı sürdürmektedirler.
+
+40
+00:02:42,130 --> 00:02:48,779
+Yanıtlanmamış bunca temel soru varken, konuyu
+birilerinin sinirlerine dokunmadan ele almak zordur.
+
+41
+00:02:48,780 --> 00:02:50,409
+Tarafınız ne olursa olsun,
+
+42
+00:02:50,410 --> 00:02:54,829
+...konu zihin transferinden açıldığında
+başlangıç noktası her zaman beyindir.
+
+43
+00:02:54,830 --> 00:02:57,889
+KISACA BEYİN
+
+44
+00:02:57,890 --> 00:03:03,449
+Beyin, bilinen en karmaşık biyolojik yapıdır ve
+kendine adanmış bir videoyu kesinlikle hak ediyor,
+
+45
+00:03:03,450 --> 00:03:06,849
+...haydi beyne kısaca bir göz atalım.
+
+46
+00:03:06,850 --> 00:03:12,259
+Yaklaşık 100 milyar nöron, yaklaşık
+1 katrilyon bağlantıyla birbirine bağlanır,
+
+47
+00:03:12,260 --> 00:03:15,879
+...bunlar her saniye 1000
+kadar sinyal gönderir,
+
+48
+00:03:15,880 --> 00:03:20,449
+...ki bu da, günlük yaşamınızın her saniyesinde
+1 katrilyon olay yaşanıyor demektir!
+
+49
+00:03:20,450 --> 00:03:22,209
+İş nöronlarla da bitmez,
+
+50
+00:03:22,210 --> 00:03:28,089
+...farklı işlevleri ve çeşitleri olan milyarlarca
+yardımcı ve bağışık hücre de bulunur.
+
+51
+00:03:28,090 --> 00:03:29,559
+Makro düzeyde beyin,
+
+52
+00:03:29,560 --> 00:03:32,359
+...soluk alma ile kalp atışından tutun,
+
+53
+00:03:32,360 --> 00:03:38,019
+...hareket kontrolü ile istemsiz reflekslere
+kadar farklı işlevlere sahip kısımlara bölünebilir.
+
+54
+00:03:38,020 --> 00:03:42,549
+Beynin dış tabakasında bulunan en
+gelişmiş kısmı olan neokortekste...
+
+55
+00:03:42,550 --> 00:03:48,639
+...anılarımız, planlama, düşünme, tasarlama,
+umut etme ve hayal kurma yetilerimiz yer alır.
+
+56
+00:03:48,640 --> 00:03:53,869
+Beynin "sizi siz yapan" kısmının tam
+olarak nerede yer aldığı bilinmiyor.
+
+57
+00:03:53,870 --> 00:03:58,539
+"Precuneus korteksi" gibi kısımların bilinç
+üzerinde büyük etkileri olduğu biliniyor,
+
+58
+00:03:58,540 --> 00:04:04,389
+...ancak, birçok kısım tek başlarına yapamadıkları
+işlemleri yerine getirmek için ortaklaşa çalışabiliyor.
+
+59
+00:04:04,390 --> 00:04:08,189
+Beyni meydana getiren parçaların da
+basit yapıda oldukları söylenemez.
+
+60
+00:04:08,190 --> 00:04:13,019
+Nöronlar yalnızca bağlantılardan ibaret
+değildir, bilgiyi değiştirip işleyebilirler.
+
+61
+00:04:13,020 --> 00:04:16,919
+Sinyalleri bir nörondan
+diğerine geçiren sinapslar ise,
+
+62
+00:04:16,920 --> 00:04:22,639
+...kendilerini dış etkilere açan ve yüzlerce
+kimyasal sinyal alabilen reseptörlerden oluşur.
+
+63
+00:04:22,640 --> 00:04:25,249
+Bunların nasıl çalıştığına
+dair temel bilgilere sahibiz...
+
+64
+00:04:25,250 --> 00:04:28,689
+...ve işleyişlerini, küçük çaplı da olsa
+kesin olarak tahmin edebiliyoruz,
+
+65
+00:04:28,690 --> 00:04:32,329
+...ancak, beyinde sinir
+sinyallerinden fazlası var.
+
+66
+00:04:32,330 --> 00:04:39,609
+Ruh hâlimizi etkileyen serotonin, ya da öğrenmemizi
+sağlayan histamin gibi hormonlar büyük role sahip.
+
+67
+00:04:39,610 --> 00:04:44,769
+Kalp sinirlerinden bağırsak bakterilerine,
+vücudumuzun diğer kısımları da beyni etkiler.
+
+68
+00:04:44,770 --> 00:04:51,069
+Başlangıçta bayağı karmaşık görünen sistem, daha
+fazlasını öğrendikçe çok daha karmaşık bir hâle geliyor.
+
+69
+00:04:51,070 --> 00:04:56,249
+Birbirine çılgınca bağlı bu hücre, et ve kimyasal
+yığınını bilgisayar ortamına taşımak için...
+
+70
+00:04:56,250 --> 00:05:01,989
+...dijital dünyada simüle edebileceğimiz bir
+modele, yani bir tür taramaya ihtiyacımız var.
+
+71
+00:05:01,990 --> 00:05:02,819
+Maalesef ki,
+
+72
+00:05:02,820 --> 00:05:05,729
+...fMRI (Fonksiyonel Manyetik Rezonans Görüntüleme)
+makinesi gibi tarama teknolojileri,
+
+73
+00:05:05,730 --> 00:05:08,659
+...henüz bunu gerçekleştirebilmek
+için yeterince gelişmiş değil.
+
+74
+00:05:08,660 --> 00:05:11,849
+Fakat, ümit vadeden bir
+başka yöntem mevcut:
+
+75
+00:05:11,850 --> 00:05:17,139
+Beyni, küçük parçalara bölüp yüksek
+çözünürlüklü elektron mikroskobuyla tarayarak...
+
+76
+00:05:17,140 --> 00:05:21,409
+...hücreler ile bağlantılarının
+tam haritasını çıkarmak.
+
+77
+00:05:21,410 --> 00:05:29,749
+Bilim insanları, 2019'da 1 mm³ fare beyninin haritasını
+çıkardılar, boyutu hemen hemen bir kum tanesi kadardı.
+
+78
+00:05:29,750 --> 00:05:37,049
+100 bin nöron, 1 milyar sinaps ve
+4 kilometrelik sinir lifinden oluşuyordu.
+
+79
+00:05:37,050 --> 00:05:41,599
+Bu beyin parçacığı tam
+25 bin dilime bölündü.
+
+80
+00:05:41,600 --> 00:05:48,179
+5 elektron mikroskobu, beş ay boyunca durmadan
+çalışarak 100 milyondan fazla görüntü elde etti.
+
+81
+00:05:48,180 --> 00:05:52,489
+Görüntülerin 3 boyutlu modelini
+oluşturmak ise tam üç ay sürdü.
+
+82
+00:05:52,490 --> 00:05:57,879
+Tamamlanmış veri seti, 2 milyon GB'lık
+bulut depolama alanını doldurdu.
+
+83
+00:05:57,880 --> 00:06:02,479
+İnsan beyninin tamamını taramak için ise, bu
+işlemi 1 milyon kez tekrar etmemiz gerekir,
+
+84
+00:06:02,480 --> 00:06:05,079
+...ki bu da, söylemesi
+kolay yapması zordur.
+
+85
+00:06:05,080 --> 00:06:07,969
+Daha da kötüsü, beyni doğru
+şekilde simüle edebilmek için,
+
+86
+00:06:07,970 --> 00:06:13,249
+...hücre düzeyindeki bütün işlemleri
+gerçekleştiren milyarlarca temel proteini...
+
+87
+00:06:13,250 --> 00:06:19,329
+...veya molekülleri teker teker incelememizi sağlayacak
+daha küçük yapıların haritasını çıkarmamız gerekebilir.
+
+88
+00:06:19,330 --> 00:06:25,979
+Bu da, dünyadaki bütün veri depolarının
+kapasitesini aşacak miktarda veri yaratabilir.
+
+89
+00:06:25,980 --> 00:06:29,569
+BEYİN SUYUNDAN BİLİNÇ ŞARABINA
+
+90
+00:06:29,570 --> 00:06:37,419
+Bütün bunlar yetmezmiş gibi asıl sorun, beynin sabit
+modelini nasıl etkin hâle getirebileceğimizde yatmakta.
+
+91
+00:06:37,420 --> 00:06:40,809
+Elimizde, en küçük sinapslara
+kadar taramalar olsa bile;
+
+92
+00:06:40,810 --> 00:06:46,589
+...bağlantı şemasını canlandırabilmek,
+bu sabit yapıya hayat verebilmek,
+
+93
+00:06:46,590 --> 00:06:49,629
+...kimyasal bağlantı yasalarıyla
+yenilik getirebilmek...
+
+94
+00:06:49,630 --> 00:06:53,269
+...ve simülasyonu harekete geçirebilmek için
+elektrodinamik yasaları ve kurallarına ihtiyacımız var.
+
+95
+00:06:53,270 --> 00:07:00,819
+Böylece; mikrosaniyelerce var olabilen, zamanla
+evrilen, düşünen, görüp harekete geçebilen...
+
+96
+00:07:00,820 --> 00:07:03,259
+...dinamik ve aktif bir
+beyin elde edebiliriz.
+
+97
+00:07:03,260 --> 00:07:07,959
+Gerçek şu ki, bunu başarabileceğimizin
+mümkün olup olmadığını bilmiyoruz.
+
+98
+00:07:07,960 --> 00:07:12,639
+Teknolojimizin gerçek zihinler
+yaratmayı sağlayabileceğini de...
+
+99
+00:07:12,640 --> 00:07:16,039
+Bütün bunlar, problemin
+doğasına dayanmakta:
+
+100
+00:07:16,040 --> 00:07:20,859
+Beynin ve zihnin karmaşık yapısını çözmek
+için daha gidecek çok mu yolumuz var?
+
+101
+00:07:20,860 --> 00:07:24,709
+Yoksa, hiç çözemeyeceğimiz
+kadar karmaşık bir yapıdalar mı?
+
+102
+00:07:24,710 --> 00:07:31,679
+En kötü ihtimalle bilinç, beynin kısımlarından
+fazlası ve bizler bunu henüz çözebilmiş değiliz.
+
+103
+00:07:31,680 --> 00:07:36,199
+Hatta öyle karmaşık olabilir ki, daha
+iyi taramalarla bile çözemeyebiliriz.
+
+104
+00:07:36,200 --> 00:07:42,709
+İçindeki malzemelerini bilmek, iyi bir bilinç
+pastası yapabilmemiz için yeterli olmayabilir.
+
+105
+00:07:42,710 --> 00:07:47,699
+Şu anda, elimizde somut bilimsel sonuçlar ve nihai
+hedefimiz var ve bu gayet iyi bir başlangıç noktası,
+
+106
+00:07:47,700 --> 00:07:54,759
+...ancak, gerçek simülasyona giden yol puslu
+olup çok fazla yenilik ve araştırma gerektirmekte.
+
+107
+00:07:54,760 --> 00:08:00,549
+İnsanoğlu, tarih boyunca ilerlemenin
+gidişatını tahmin etmede hep çuvallamıştır.
+
+108
+00:08:00,550 --> 00:08:05,369
+En iyi ihtimalle mesele, yapılması gerekeni
+yapıp en uygun çözümleri bulmaktan ibarettir.
+
+109
+00:08:05,370 --> 00:08:09,779
+Her bir hücreyi, en küçük atomuna
+kadar simüle etmemiz gerekmeyebilir.
+
+110
+00:08:09,780 --> 00:08:14,399
+Bunun yerine, daha az sayıda ve basit
+sistemler yardımıyla beyni taklit edebilecek...
+
+111
+00:08:14,400 --> 00:08:20,579
+...olasılıksal modeller sayesinde
+süreci kolaylaştırmak mümkün olabilir.
+
+112
+00:08:20,580 --> 00:08:25,439
+Yani beynimiz ile bilincimizi, insan zihnini
+kopyalayabilecek kadar iyi anlayabilecek miyiz...
+
+113
+00:08:25,440 --> 00:08:27,519
+...henüz belli değil.
+
+114
+00:08:27,520 --> 00:08:30,709
+Yine de, bilim gerçektir ve
+peşinden gitmeye değer.
+
+115
+00:08:30,710 --> 00:08:36,178
+En azından, kendimiz hakkında bir sürü şey
+öğrenebilir ve birçok yeni teknoloji geliştirebiliriz.
+
+116
+00:08:36,179 --> 00:08:43,759
+Başarılı olursak, zihin transferi işlemi hızla gelişen
+bilgisayar teknolojisiyle pekâlâ mümkün olabilir.
+
+117
+00:08:43,760 --> 00:08:52,239
+Sonuçları; insanlık ve kâinattaki geleceğimiz için son
+derece muazzam, ürpertici ve harikulade olacaktır.
+
+118
+00:08:52,240 --> 00:08:54,269
+KOPYA
+
+119
+00:08:54,270 --> 00:08:58,229
+Başarılı zihin transferi, aslında
+bir nevi ölümsüzlük demektir.
+
+120
+00:08:58,230 --> 00:09:03,949
+Kopyanız, hasar görmediği veya silinmediği
+müddetçe var olmaya devam edeceksiniz.
+
+121
+00:09:03,950 --> 00:09:10,749
+Tabii tarama, muhtemel pek çok ihtimalden
+birinden dolayı bozulursa zihniniz de bozulabilir.
+
+122
+00:09:10,750 --> 00:09:17,199
+Sonsuza dek acı çekebilir, paranoya hâlinde olabilir
+veya da psikotik krizin pençesinde kalabilirsiniz.
+
+123
+00:09:17,200 --> 00:09:22,079
+Bu dijital zihnin gerçekten de siz olup
+olmadığı ise içinden çıkılmaz bir mesele,
+
+124
+00:09:22,080 --> 00:09:27,799
+...şimdilik, dijital zihninizin en azından sizin
+gibi hissettiğini varsaymakla yetineceğiz.
+
+125
+00:09:27,800 --> 00:09:31,209
+Peki zihin transferi, hayata
+bakışınızı nasıl değiştirebilir?
+
+126
+00:09:31,210 --> 00:09:35,909
+Ölümün mutlak son olmadığını bilmek,
+daha güvende hissetmenizi mi sağlar?
+
+127
+00:09:35,910 --> 00:09:41,639
+Yoksa, zihniniz kopyalanmadan ölmemek
+için çok daha dikkatli olmanız mı gerekir?
+
+128
+00:09:41,640 --> 00:09:44,559
+Şayet tarama teknolojisi
+yeterince ilerlerse,
+
+129
+00:09:44,560 --> 00:09:49,949
+...organik ve dijital versiyonlarınız
+bir arada var olabilir.
+
+130
+00:09:49,950 --> 00:09:57,499
+Biyolojik ömrünüzü daha zevkli ve kopyanızın geleceğini
+daha güvenli kılarak birbirinize destek bile olabilirsiniz.
+
+131
+00:09:57,500 --> 00:10:05,039
+Ne olursa olsun, zihin kopyanız dijital
+gözlerini yepyeni bir hayata açacaktır.
+
+132
+00:10:05,040 --> 00:10:09,649
+İşlevsel bir bedene sahip olmak aslında
+gayet iyidir ve buna bayağı alışkınsınızdır.
+
+133
+00:10:09,650 --> 00:10:12,619
+Yemek, sevgi, acı, yorgunluk;
+
+134
+00:10:12,620 --> 00:10:16,069
+...bunların her biri hayatlarımızın
+ayrılmaz birer parçasıdır.
+
+135
+00:10:16,070 --> 00:10:20,319
+Ancak hepsi, en nihayetinde beyninizde
+yanıp sönen nöronların eserleridir.
+
+136
+00:10:20,320 --> 00:10:26,649
+Başka bir bedende yaşamayı da tercih edebilirsiniz,
+fakat dijital zihin için bu bir zorunluluk sayılmayabilir.
+
+137
+00:10:26,650 --> 00:10:31,419
+Bir tuşa basarak elde edebildiğinizde,
+aşık olmanın pek bir anlamı kalmayabilir.
+
+138
+00:10:31,420 --> 00:10:36,549
+Bunun yerine, yepyeni olağanüstü
+deneyimlerin arayışına girebilirsiniz.
+
+139
+00:10:36,550 --> 00:10:38,919
+Mesela Güneş'in
+yüzeyinde yürüyebilirsiniz,
+
+140
+00:10:38,920 --> 00:10:43,499
+...sıkıcı ayları ileri sarabilirsiniz,
+
+141
+00:10:43,500 --> 00:10:46,789
+...ya da, geçmişin bir
+simülasyonunu deneyimleyebilirsiniz.
+
+142
+00:10:46,790 --> 00:10:54,169
+Bu özgür bırakılmış formda var olduğunuz
+sürece bakış açınız ve öncelikleriniz değişecektir.
+
+143
+00:10:54,170 --> 00:10:56,139
+Uzun süre var olan dijital zihinler,
+
+144
+00:10:56,140 --> 00:11:02,509
+...kendileri hakkında daha fazla bilgiye sahip olup
+en sonunda kendilerini bile değiştirilebilecekler.
+
+145
+00:11:02,510 --> 00:11:06,149
+Bu, sizi rahatsız eden bir anıyı
+silmek kadar basit bir şey olabilir.
+
+146
+00:11:06,150 --> 00:11:12,049
+Kindarlık, bağımlılık ya da tembellik gibi
+kişilik özelliklerinizi değiştirebilirsiniz.
+
+147
+00:11:12,050 --> 00:11:17,329
+Biyolojik kısıtlamalar olmadığından,
+kabiliyetleriniz teknoloji ilerledikçe gelişebilir,
+
+148
+00:11:17,330 --> 00:11:24,429
+...öncelikleriniz veya hedeflerinizse, hâlâ hayattaysa gerçek
+beyninize gittikçe daha yabancı gelmeye başlayabilir.
+
+149
+00:11:24,430 --> 00:11:28,979
+Dijital ölümsüzlüğün gerçek
+potansiyeline ulaşmak zaman alacaktır.
+
+150
+00:11:28,980 --> 00:11:33,089
+Tamamlaması ömür boyu
+sürecek projelere başlayabilirsiniz.
+
+151
+00:11:33,090 --> 00:11:39,749
+Bilim insanları, olağanüstü miktarlarda bilgi
+birikimine sahip olup çığır açıcı keşiflerde bulunabilir.
+
+152
+00:11:39,750 --> 00:11:42,769
+Maceraperestler, ufak uzay
+gemilerine kendilerini aktarabilir...
+
+153
+00:11:42,770 --> 00:11:50,009
+...ve binlerce sene boyunca zamanı
+durdurup yıldızlara yolculuk edebilirler.
+
+154
+00:11:50,010 --> 00:11:59,869
+Tabii her dijital zihin insanlık yararına çalışacak diye
+bir şey yok, zira etten-kemikten bizlerin hâli ortada.
+
+155
+00:11:59,870 --> 00:12:01,789
+Bazı kişiler, güç ve diğerlerine
+söz geçirme peşinde koşacak...
+
+156
+00:12:01,790 --> 00:12:05,649
+...ve imparatorluklar kurma uğruna
+sonsuza dek mücadele edecektir.
+
+157
+00:12:05,650 --> 00:12:09,419
+Diğerleri de, bulabildikleri
+kadar kaynağa el koyarak...
+
+158
+00:12:09,420 --> 00:12:13,039
+...aynı şeyin peşindeki diğer
+zihinlerle mücadeleye girecektir.
+
+159
+00:12:13,040 --> 00:12:18,409
+Ömürleri uzadıkça, sıradan etten
+varlıklara karşı sempatileri de azalabilir.
+
+160
+00:12:18,410 --> 00:12:23,289
+Peki ya, yalanlar ve palavralarla
+uydurdukları dinleri...
+
+161
+00:12:23,290 --> 00:12:27,409
+...asırlar içerisinde büyütüp yayacak
+ölümsüz tarikat liderlerine ne demeli?
+
+162
+00:12:27,410 --> 00:12:30,109
+Ya da belki bunların hiçbiri
+gerçekleşmeyecektir.
+
+163
+00:12:30,110 --> 00:12:33,449
+Belki de, zihinlerimiz
+ölümsüzlüğe uygun değildir...
+
+164
+00:12:33,450 --> 00:12:43,089
+...ve dijital zihinler, uzun bir ömür sürüp istedikleri
+her şeyi yaptıktan sonra inzivaya çekilecektir.
+
+165
+00:12:43,090 --> 00:12:48,059
+Kendi kendini geliştiren zihinlerin, asırlarca
+yahut binlerce senelik boş vakitlerinde...
+
+166
+00:12:48,060 --> 00:12:54,449
+...iyi veya kötü neler yapabileceğini
+tahmin etmek oldukça zordur.
+
+167
+00:12:54,450 --> 00:13:10,649
+Zihin transferi, mucizeleri ve korkunç yanlarıyla mevcut teknolojik imkânlarımızın çok ötesinde olsa da, şu aralar zamanınızın bir bölümünü ayırarak Cyberpunk 2077'de Night City sokaklarına dökülüp böyle bir geleceğin nasıl olabileceğine dair bir fikir edinebilirsiniz.
+
+168
+00:13:10,650 --> 00:13:20,269
+Cyberpunk 2077, Witcher'ın yaratıcısı olan CD
+Projekt Red tarafından geliştirilmiş ve son yılların
+en çok beklenen oyunları arasında yerini almıştır.
+
+169
+00:13:20,270 --> 00:13:30,389
+Akıl almaz teknolojierin insanlığı yeni baştan
+tanımladığı karanlık bir distopyayla yüzleşmeye
+hazır olun. Sürükleyici hikâyesiyle şaşırtıcı
+derecede büyük bir dünyanın parçası olabilirsiniz.
+
+170
+00:13:30,390 --> 00:13:36,609
+Biz oyunu henüz oynamadık, ama siz bu
+videoyu izlerken muhtemelen oynuyor olacağız.
+
+171
+00:13:36,610 --> 00:13:45,819
+CD Projekt Red'in yaptıkları yapacaklarının
+teminatıysa, o zaman bu oyun kesin muhteşem
+olacak, ki zaten bu yüzden iş birliğine tamam
+deyip de bu videoya bu kadar mesai harcadık.
+
+172
+00:13:45,820 --> 00:13:45,999
+:D
+
+173
+00:13:46,000 --> 00:13:45,999
+Merak ettiyseniz bir göz atın deriz.
+
+174
+00:13:46,000 --> 00:13:49,260
+Merak ettiyseniz bir göz atın deriz.
+

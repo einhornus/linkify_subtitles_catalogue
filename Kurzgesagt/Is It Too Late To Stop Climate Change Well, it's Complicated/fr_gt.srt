@@ -1,0 +1,624 @@
+1
+00:00:01,100 --> 00:00:03,259
+Le changement climatique, c'est trop.
+
+2
+00:00:03,260 --> 00:00:05,199
+Il n'y a pas de bonnes nouvelles ici.
+
+3
+00:00:05,200 --> 00:00:08,399
+Seulement des graphiques qui deviennent de plus en plus intimidants.
+
+4
+00:00:08,400 --> 00:00:11,539
+Presque chaque année, l'un des terribles records est battu.
+
+5
+00:00:11,540 --> 00:00:13,539
+De la chaleur insupportable
+
+6
+00:00:13,540 --> 00:00:15,579
+avant la fonte rapide des glaciers.
+
+7
+00:00:15,580 --> 00:00:17,019
+C'est sans fin
+
+8
+00:00:17,020 --> 00:00:19,059
+et sans pitié.
+
+9
+00:00:19,060 --> 00:00:21,639
+Nous savons depuis des décennies que le changement climatique rapide
+
+10
+00:00:21,640 --> 00:00:25,659
+provient des gaz à effet de serre.
+
+11
+00:00:25,660 --> 00:00:29,179
+Mais, au lieu de décliner, en 2019, le monde a jeté
+
+12
+00:00:29,180 --> 00:00:33,319
+50% de plus qu'en 2000.
+
+13
+00:00:33,320 --> 00:00:35,859
+Et les émissions continuent d'augmenter.
+
+14
+00:00:35,860 --> 00:00:37,159
+Pourquoi?
+
+15
+00:00:37,160 --> 00:00:41,599
+Pourquoi est-il si difficile d'arrêter simplement les émissions de gaz à effet de serre ?
+
+16
+00:00:41,600 --> 00:00:49,599
+[Introduction Kurzgesagt]
+
+17
+00:00:49,600 --> 00:00:54,099
+Nos émissions collectives peuvent être représentées par quatre facteurs
+
+18
+00:00:54,100 --> 00:00:56,099
+et leurs relations les uns avec les autres.
+
+19
+00:00:56,100 --> 00:00:58,399
+Deux d'entre eux expliquent pourquoi le monde
+
+20
+00:00:58,400 --> 00:01:00,779
+Les émissions de CO2 continuent d'augmenter
+
+21
+00:01:00,780 --> 00:01:04,119
+et deux autres - comment pouvons-nous l'arrêter.
+
+22
+00:01:04,120 --> 00:01:05,639
+Population
+
+23
+00:01:05,640 --> 00:01:07,099
+La croissance économique
+
+24
+00:01:07,100 --> 00:01:08,819
+consommation d'énergie
+
+25
+00:01:08,820 --> 00:01:12,539
+et Émissions par unité d'énergie produite.
+
+26
+00:01:12,540 --> 00:01:16,059
+Premier facteur : la population
+
+27
+00:01:16,060 --> 00:01:19,299
+Les gens ont besoin de nourriture, d'abris, de vêtements,
+
+28
+00:01:19,300 --> 00:01:24,139
+ils veulent aussi un iPhone de luxe et un Cheeseburger à 1 $.
+
+29
+00:01:24,140 --> 00:01:29,579
+Plus il y a de personnes, plus il y a d'émissions de CO2 - une équation très simple.
+
+30
+00:01:29,580 --> 00:01:33,299
+La population mondiale augmente et, selon l'ONU, elle continuera
+
+31
+00:01:33,300 --> 00:01:40,119
+à ~11 milliards en 2100, soit 40% de plus que l'actuel.
+
+32
+00:01:40,120 --> 00:01:46,159
+La seule façon de ralentir la croissance est d'investir dans les soins de santé, l'accès à la contraception et l'éducation
+
+33
+00:01:46,160 --> 00:01:48,239
+dans les pays développés.
+
+34
+00:01:48,240 --> 00:01:50,239
+Mais, même avec des investissements sérieux,
+
+35
+00:01:50,240 --> 00:01:55,099
+il faudra plusieurs décennies pour que l'effet de la baisse de la natalité se manifeste.
+
+36
+00:01:55,100 --> 00:01:59,059
+Ainsi, la population continuera de croître dans un avenir prévisible,
+
+37
+00:01:59,060 --> 00:02:05,259
+et par conséquent, les émissions totales de CO2 augmenteront au cours des prochaines décennies.
+
+38
+00:02:05,260 --> 00:02:09,119
+Deuxième facteur : croissance économique ou prospérité
+
+39
+00:02:09,120 --> 00:02:11,679
+Et ce n'est pas seulement une question de chiffres.
+
+40
+00:02:11,680 --> 00:02:17,019
+Plus nous sommes riches et développés, plus notre mode de vie produit d'émissions.
+
+41
+00:02:17,020 --> 00:02:22,919
+Le programmeur moyen aux États-Unis laisse derrière lui plus de CO2 que 50 agriculteurs en Ouganda.
+
+42
+00:02:22,920 --> 00:02:26,279
+La richesse mondiale augmente presque partout.
+
+43
+00:02:26,280 --> 00:02:29,739
+Et, bien qu'elle soit loin d'être uniformément répartie, la croissance économique
+
+44
+00:02:29,740 --> 00:02:32,059
+conduit à des niveaux de vie plus élevés
+
+45
+00:02:32,060 --> 00:02:37,259
+et la réduction de la pauvreté sans espoir dans l'histoire de toute l'humanité.
+
+46
+00:02:37,260 --> 00:02:40,739
+La croissance économique est devenue le mantra dominant de l'économie mondiale,
+
+47
+00:02:40,740 --> 00:02:44,079
+quel que soit leur système politique.
+
+48
+00:02:44,080 --> 00:02:49,139
+Il est peu probable que les pays riches abandonnent de sitôt le concept de croissance économique.
+
+49
+00:02:49,140 --> 00:02:53,879
+Mais, même s'ils refusent, les pays en développement veulent aussi s'enrichir.
+
+50
+00:02:53,880 --> 00:02:58,219
+Pour des milliards de personnes, la fin de la croissance économique signifiera probablement être pauvre,
+
+51
+00:02:58,220 --> 00:03:02,999
+et par conséquent, les pays en développement ne veulent pas arrêter la croissance de leurs économies.
+
+52
+00:03:03,000 --> 00:03:06,679
+De manière générale, nous pouvons être sûrs que la croissance en tant qu'idéologie
+
+53
+00:03:06,680 --> 00:03:10,199
+ne va nulle part de sitôt.
+
+54
+00:03:10,200 --> 00:03:14,659
+De plus en plus de pays et de citoyens du monde entier s'enrichissent,
+
+55
+00:03:14,660 --> 00:03:18,599
+tandis que les pays riches continueront à accumuler leur richesse.
+
+56
+00:03:18,600 --> 00:03:22,559
+Plusieurs signes montrent que la croissance peut être découplée des émissions de CO2.
+
+57
+00:03:22,560 --> 00:03:24,879
+mais nous en sommes encore loin.
+
+58
+00:03:24,880 --> 00:03:26,799
+Par conséquent,
+
+59
+00:03:26,800 --> 00:03:29,719
+Les émissions de CO2 continueront d'augmenter.
+
+60
+00:03:29,720 --> 00:03:33,739
+Bon. Jusqu'à présent, nous avons appris qu'en raison de l'augmentation de la population et de la croissance économique,
+
+61
+00:03:33,740 --> 00:03:37,199
+Les émissions de CO2 vont augmenter,
+
+62
+00:03:37,200 --> 00:03:40,179
+ce qui est exactement le contraire de ce qui devrait se passer.
+
+63
+00:03:40,180 --> 00:03:44,739
+Nous devons ralentir, nous y habituer et ensuite réduire les émissions actuelles.
+
+64
+00:03:44,740 --> 00:03:49,659
+Les deux facteurs suivants décrivent comment nous pouvons réellement le faire.
+
+65
+00:03:49,660 --> 00:03:52,999
+Troisième facteur : la consommation d'énergie
+
+66
+00:03:53,000 --> 00:03:57,079
+La consommation d'énergie décrit l'efficacité avec laquelle nous consommons l'énergie.
+
+67
+00:03:57,080 --> 00:04:02,859
+Un vendeur de nourriture dans un village du Brésil brûlerait du charbon tandis qu'un vendeur similaire en France
+
+68
+00:04:02,860 --> 00:04:06,399
+peut utiliser une cuisinière à induction alimentée par l'énergie atomique.
+
+69
+00:04:06,400 --> 00:04:09,019
+Ce dernier est beaucoup plus efficace.
+
+70
+00:04:09,020 --> 00:04:13,559
+Plus quelque chose est efficace, moins nous avons besoin d'énergie pour faire quelque chose,
+
+71
+00:04:13,560 --> 00:04:17,799
+Qu'il s'agisse d'éclairer une métropole ou de cuisiner du shawarma.
+
+72
+00:04:17,800 --> 00:04:23,319
+Donc, rendre la technologie plus efficace et inventer une organisation plus efficace de notre société
+
+73
+00:04:23,320 --> 00:04:28,959
+- des moyens importants pour réduire la dépendance du monde moderne au CO2.
+
+74
+00:04:28,960 --> 00:04:32,779
+Cela peut signifier tout, de la réduction de la consommation d'énergie à l'intelligence artificielle,
+
+75
+00:04:32,780 --> 00:04:36,279
+la transition vers les transports électriques et l'électrification de l'industrie,
+
+76
+00:04:36,280 --> 00:04:38,999
+ou la production de béton durable.
+
+77
+00:04:39,000 --> 00:04:42,339
+Les possibilités d'amélioration sont presque illimitées.
+
+78
+00:04:42,340 --> 00:04:45,999
+Un champ non labouré pour l'ingéniosité humaine.
+
+79
+00:04:46,000 --> 00:04:49,819
+Mais nous savons que l'augmentation de l'efficacité seule ne suffira pas.
+
+80
+00:04:49,820 --> 00:04:52,399
+Pour trois raisons :
+
+81
+00:04:52,400 --> 00:04:55,619
+Premier - Effet de rebond direct
+
+82
+00:04:55,620 --> 00:04:58,359
+Cela signifie que lorsque quelque chose devient plus efficace,
+
+83
+00:04:58,360 --> 00:05:01,979
+il est plus utilisé et l'efficacité globale augmente
+
+84
+00:05:01,980 --> 00:05:06,239
+n'entraîne pas un déclin aussi impressionnant qu'on pourrait le penser.
+
+85
+00:05:06,240 --> 00:05:13,139
+Ou pire, quand une plus grande efficacité pousse les gens à utiliser encore plus de ressources.
+
+86
+00:05:13,140 --> 00:05:15,219
+À mesure que la consommation de carburant des avions devient plus efficace,
+
+87
+00:05:15,220 --> 00:05:19,779
+les prix des billets baissent et de plus en plus de gens prennent l'avion.
+
+88
+00:05:19,780 --> 00:05:21,779
+Ainsi, l'amélioration de l'efficacité
+
+89
+00:05:21,780 --> 00:05:25,799
+ne réduit pas automatiquement la consommation globale d'énergie.
+
+90
+00:05:25,800 --> 00:05:29,259
+Il peut y avoir un effet inverse.
+
+91
+00:05:29,260 --> 00:05:32,099
+Deuxième - Effet de rebond indirect
+
+92
+00:05:32,100 --> 00:05:36,939
+Parfois, lorsque vous économisez de l'argent sur quelque chose qui devient plus efficace, vous pouvez le dépenser ailleurs.
+
+93
+00:05:36,940 --> 00:05:41,239
+Par exemple, si vous achetez une voiture à faible consommation de carburant, vous économisez du carburant
+
+94
+00:05:41,240 --> 00:05:44,039
+et se retrouver avec beaucoup d'argent sur le compte bancaire,
+
+95
+00:05:44,040 --> 00:05:47,459
+que vous passez en vacances en achetant un billet d'avion.
+
+96
+00:05:47,460 --> 00:05:48,779
+Finalement,
+
+97
+00:05:48,780 --> 00:05:54,279
+vous pouvez même augmenter vos émissions de CO2 malgré l'achat d'une voiture à faible kilométrage.
+
+98
+00:05:54,280 --> 00:05:58,659
+Troisième - Plus vous optimisez l'efficacité,
+
+99
+00:05:58,660 --> 00:06:02,339
+plus il devient difficile et coûteux de le rendre encore plus efficace.
+
+100
+00:06:02,340 --> 00:06:05,779
+Par conséquent, avec le temps, le retour sur investissement ralentira.
+
+101
+00:06:05,780 --> 00:06:10,219
+Et, avec de nombreuses technologies, nous travaillons déjà assez efficacement.
+
+102
+00:06:10,220 --> 00:06:13,479
+Mais, quelle que soit l'efficacité de nos économies,
+
+103
+00:06:13,480 --> 00:06:17,879
+tant que nous aurons besoin d'au moins un peu d'énergie, nous aurons des émissions.
+
+104
+00:06:17,880 --> 00:06:22,839
+L'efficacité seule ne créera pas un "monde zéro émission".
+
+105
+00:06:22,840 --> 00:06:25,959
+Cela nous amène au dernier facteur.
+
+106
+00:06:25,960 --> 00:06:32,979
+Quatrième - Émissions de CO2 par unité d'énergie ou "l'empreinte carbone mondiale de l'humanité".
+
+107
+00:06:32,980 --> 00:06:35,779
+empreinte carbone
+
+108
+00:06:35,780 --> 00:06:38,879
+est le CO2 émis par unité d'énergie produite.
+
+109
+00:06:38,880 --> 00:06:42,339
+Par exemple, une centrale au charbon produit beaucoup, beaucoup plus de CO2,
+
+110
+00:06:42,340 --> 00:06:44,339
+qu'une centrale solaire pour la même unité d'énergie
+
+111
+00:06:44,340 --> 00:06:46,539
+cette relation est très claire.
+
+112
+00:06:46,540 --> 00:06:51,479
+Plus nous brûlons de combustibles fossiles, plus nos émissions de CO2 sont élevées.
+
+113
+00:06:51,480 --> 00:06:55,559
+Les combustibles fossiles sont le plus grand levier dont l'humanité dispose actuellement.
+
+114
+00:06:55,560 --> 00:07:02,099
+Bien sûr, il est impossible de fermer des centrales au charbon et au pétrole sans plonger la société dans le chaos.
+
+115
+00:07:02,100 --> 00:07:06,799
+mais la réalité est que nous n'en faisons pas assez pour garder les combustibles fossiles dans le sol
+
+116
+00:07:06,800 --> 00:07:09,499
+et utiliser des alternatives à faible émission de carbone.
+
+117
+00:07:09,500 --> 00:07:14,779
+Nous devons faire deux choses pour accélérer l'abandon des combustibles fossiles.
+
+118
+00:07:14,780 --> 00:07:20,139
+Premièrement, nous devons utiliser les technologies modernes dont nous disposons.
+
+119
+00:07:20,140 --> 00:07:23,979
+Il y a beaucoup de choses que nous pouvons faire incroyablement rapidement.
+
+120
+00:07:23,980 --> 00:07:26,679
+Nous pouvons utiliser l'énergie nucléaire plus longtemps
+
+121
+00:07:26,680 --> 00:07:29,679
+Nous pouvons réduire les subventions aux combustibles fossiles,
+
+122
+00:07:29,680 --> 00:07:31,879
+et les canaliser vers des sources d'énergie renouvelables.
+
+123
+00:07:31,880 --> 00:07:34,219
+Nous pouvons être durs sur les émissions de carbone,
+
+124
+00:07:34,220 --> 00:07:40,439
+et l'augmenter chaque année pour créer des initiatives fortes pour la transition des industries mondiales.
+
+125
+00:07:40,440 --> 00:07:46,039
+Nous pouvons renforcer la rigueur des normes d'efficacité énergétique et pour tous les types de constructions neuves,
+
+126
+00:07:46,040 --> 00:07:49,419
+nous pouvons nous éloigner des véhicules à combustible fossile.
+
+127
+00:07:49,420 --> 00:07:54,139
+Ensuite, nous devons également inventer de nouvelles technologies meilleures.
+
+128
+00:07:54,140 --> 00:07:59,619
+Sans nouvelles technologies et innovations, il sera impossible de parvenir à un "monde zéro émission"
+
+129
+00:07:59,620 --> 00:08:02,639
+Qu'il s'agisse de technologies telles que la capture du carbone,
+
+130
+00:08:02,640 --> 00:08:05,039
+ou centrales nucléaires de nouvelle génération,
+
+131
+00:08:05,040 --> 00:08:09,579
+aux nouvelles batteries qui révolutionneront le stockage d'énergie à partir de sources renouvelables
+
+132
+00:08:09,580 --> 00:08:14,119
+mais l'innovation prend du temps, des années et des décennies
+
+133
+00:08:14,120 --> 00:08:16,579
+et nous n'avons pas le temps.
+
+134
+00:08:16,580 --> 00:08:20,139
+Chaque année, nous continuons à libérer de plus en plus de carbone dans l'atmosphère.
+
+135
+00:08:20,140 --> 00:08:23,719
+Cela signifie que nous ne pouvons pas compter uniquement sur l'innovation.
+
+136
+00:08:23,720 --> 00:08:29,899
+Nous devons trouver des moyens de réduire les émissions aujourd'hui tout en inventant ce dont nous avons besoin à l'avenir.
+
+137
+00:08:29,900 --> 00:08:35,619
+Moins nous brûlerons de fossiles dans les prochaines années, plus nous accorderons de temps à l'innovation ;
+
+138
+00:08:35,620 --> 00:08:39,459
+Plus nous construisons d'infrastructures à faible émission de carbone aujourd'hui, plus nous pouvons
+
+139
+00:08:39,460 --> 00:08:43,899
+compenser la croissance économique et les personnes nées aujourd'hui ;
+
+140
+00:08:43,900 --> 00:08:47,519
+Plus nous arrêtons de construire de centrales au charbon,
+
+141
+00:08:47,520 --> 00:08:50,399
+moins nous économisons de CO2.
+
+142
+00:08:50,400 --> 00:08:55,999
+Ni l'innovation ni les sources alternatives que nous utilisons ne peuvent résoudre le changement climatique brutal.
+
+143
+00:08:56,000 --> 00:09:03,179
+Mais l'innovation, associée à un abandon décisif des combustibles fossiles, là où c'est possible aujourd'hui, peut y arriver.
+
+144
+00:09:03,180 --> 00:09:06,599
+Prévenir le changement climatique sera difficile.
+
+145
+00:09:06,600 --> 00:09:09,439
+Nous devons tenir compte des besoins de milliards de personnes
+
+146
+00:09:09,440 --> 00:09:14,659
+et la réalité est qu'actuellement, la société utilise principalement des sources fossiles.
+
+147
+00:09:14,660 --> 00:09:20,099
+Cela ne changera pas du jour au lendemain, mais il doit être changé le plus rapidement possible.
+
+148
+00:09:20,100 --> 00:09:24,379
+C'est encore très, très réel.
+
+149
+00:09:24,380 --> 00:09:29,739
+Nous examinerons différents aspects du changement climatique et comment le résoudre dans les vidéos suivantes.
+
+150
+00:09:29,740 --> 00:09:32,759
+Faites-moi savoir ce que vous aimeriez savoir sur
+
+151
+00:09:32,760 --> 00:09:36,619
+ici sur YouTube ou rejoignez-nous sur notre subreddit.
+
+152
+00:09:36,620 --> 00:09:41,159
+Cette vidéo fait partie d'une série sur le changement climatique sponsorisée par "Breakthrough Energy"
+
+153
+00:09:41,160 --> 00:09:45,539
+Une coalition fondée par Bill Gates qui travaille à accroître les investissements énergétiques
+
+154
+00:09:45,540 --> 00:09:49,379
+et soutenir les innovations qui mèneront le monde vers un monde sans carbone.
+
+155
+00:09:49,380 --> 00:09:53,119
+Remerciements également à l'équipe "World in Data"
+
+156
+00:09:53,120 --> 00:09:55,120
+pour nous aider avec les données et la recherche.
+

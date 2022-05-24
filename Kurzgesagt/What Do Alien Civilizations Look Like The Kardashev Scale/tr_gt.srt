@@ -1,0 +1,792 @@
+1
+00:00:01,100 --> 00:00:07,259
+Gözlemlenebilir bir evren,
+13 milyar yıldan fazla süredir var olan büyük bir yerdir.  20.000 milyar milyar
+
+2
+00:00:07,260 --> 00:00:13,119
+yıldızdan oluşan iki trilyona kadar galaksi,
+
+
+3
+00:00:13,120 --> 00:00:15,679
+ana galaksimizi çevreliyor.
+
+4
+00:00:15,680 --> 00:00:17,079
+Bilim adamları, yalnızca Samanyolu'nda, yıldızlarının yaşanabilir bölgesinde
+
+5
+00:00:17,080 --> 00:00:21,399
+yaklaşık
+40 milyar dünya benzeri
+
+6
+00:00:21,400 --> 00:00:24,319
+gezegen olduğunu varsayıyorlar.
+
+7
+00:00:24,320 --> 00:00:30,079
+Bu sayılara baktığımızda,
+dışarıda kimsenin olmadığını hayal etmek zor.
+
+8
+00:00:30,080 --> 00:00:35,259
+Başkalarını bulsaydık, kendimizle ilgili algımızı sonsuza kadar değiştirirdi
+.
+
+9
+00:00:35,260 --> 00:00:40,559
+Bu uçsuz bucaksız yerin ölü olmadığını bilmek
+bile bakış açımızı dışa doğru kaydırır
+
+10
+00:00:40,560 --> 00:00:44,119
+ve
+alakasız kavgalarımızı aşmamıza yardımcı olabilir.
+
+11
+00:00:44,120 --> 00:00:47,919
+Ancak
+yeni en iyi arkadaşlarımızı veya en kötü düşmanlarımızı aramadan
+
+12
+00:00:47,920 --> 00:00:52,439
+önce çözmemiz gereken bir problemimiz var:
+Aslında ne arıyoruz?
+
+13
+00:00:52,440 --> 00:01:00,619
+[Kurzgesagt giriş]
+
+14
+00:01:00,620 --> 00:01:02,259
+Bu kadar büyük ve eski bir evrende,
+
+15
+00:01:02,260 --> 00:01:06,719
+medeniyetlerin
+birbirinden milyonlarca yıl ayrı başladığını
+
+16
+00:01:06,720 --> 00:01:09,839
+, farklı yönlerde ve hızlarda geliştiğini varsaymak zorundayız.
+
+17
+00:01:09,840 --> 00:01:15,359
+Yani sadece
+düzinelerce ila yüzbinlerce ışıkyılı mesafelere
+
+18
+00:01:15,360 --> 00:01:20,439
+bakmıyoruz
+, mağara adamlarından süper gelişmişlere kadar uzanan bir medeniyet arıyoruz.
+
+19
+00:01:20,440 --> 00:01:24,699
+Dolayısıyla,
+daha iyi
+
+20
+00:01:24,700 --> 00:01:27,099
+arama yapabilmemizi sağlayan daha iyi düşünceleri düşünmemizi sağlayacak kavramsal bir çerçeveye ihtiyacımız var.
+
+21
+00:01:27,100 --> 00:01:31,519
+
+Akıllı türlerin izlediği evrensel kurallar var mı?
+
+22
+00:01:31,520 --> 00:01:34,879
+Şu anda uygarlık örneklem büyüklüğümüz yalnızca bir,
+
+23
+00:01:34,880 --> 00:01:39,439
+bu nedenle
+yalnızca kendimize dayalı olarak yanlış varsayımlarda bulunabiliriz.
+
+24
+00:01:39,440 --> 00:01:41,839
+Yine de hiç yoktan iyidir.
+
+25
+00:01:41,840 --> 00:01:47,039
+İnsanların
+, aletler yapabilecek akıl ve ellerden başka bir şeyle yola çıktığını biliyoruz.
+
+26
+00:01:47,040 --> 00:01:53,299
+İnsanların meraklı, rekabetçi
+, kaynaklar için açgözlü ve yayılmacı olduğunu biliyoruz.
+
+27
+00:01:53,300 --> 00:01:55,799
+Atalarımız bu niteliklerden ne
+
+28
+00:01:55,800 --> 00:01:59,759
+kadar fazlasına sahipse
+, medeniyet kurma oyununda o kadar başarılı oluyorlardı.
+
+29
+00:01:59,760 --> 00:02:01,519
+Doğayla bir olmak güzel
+
+30
+00:02:01,520 --> 00:02:06,639
+ama
+sulama sistemlerine, barutlara ya da şehirlere giden yol değil.
+
+31
+00:02:06,640 --> 00:02:13,279
+Dolayısıyla
+, ana gezegenlerini ele geçirebilecek uzaylıların da bu niteliklere sahip olduğunu varsaymak mantıklıdır.
+
+32
+00:02:13,280 --> 00:02:16,639
+Ve eğer uzaylılar
+aynı fizik yasalarına uymak zorundaysa,
+
+33
+00:02:16,640 --> 00:02:21,399
+o zaman ilerleme için ölçülebilir bir ölçü vardır:
+Enerji kullanımı.
+
+34
+00:02:21,400 --> 00:02:26,939
+İnsan gelişimi
+, çevremizden ne kadar enerji çektiğimiz
+
+35
+00:02:26,940 --> 00:02:29,599
+ve onu bir
+şeyler yapmak için nasıl kullanılabilir hale getirdiğimiz ile çok kesin olarak ölçülebilir.
+
+36
+00:02:29,600 --> 00:02:33,439
+
+Ateşi kontrol etmeyi öğrenene kadar kaslarla başladık.
+
+37
+00:02:33,440 --> 00:02:37,679
+Sonra
+sudan ve rüzgardan kinetik enerji kullanan makineler yaptık.
+
+38
+00:02:37,680 --> 00:02:41,539
+Makinelerimiz daha iyi hale geldikçe
+ve malzeme bilgimiz genişledikçe,
+
+39
+00:02:41,540 --> 00:02:46,719
+
+topraktan kazdığımız ölü bitkilerden gelen konsantre enerjiyi kullanmaya başladık.
+
+40
+00:02:46,720 --> 00:02:52,239
+Enerji tüketimimiz katlanarak büyüdükçe,
+uygarlığımızın yetenekleri de arttı.
+
+41
+00:02:52,240 --> 00:02:57,219
+1800 ile 2015 yılları arasında
+nüfus yedi kat
+
+42
+00:02:57,220 --> 00:03:01,679
+artarken, insanlık
+25 kat daha fazla enerji tüketiyordu.
+
+43
+00:03:01,680 --> 00:03:06,279
+Bu
+sürecin uzak gelecekte devam etmesi muhtemeldir.
+
+44
+00:03:06,280 --> 00:03:15,519
+Bu gerçeklere dayanarak, bilim adamı Nikolai Kardashev
+, mağara sakinlerinden galaksilere hükmeden tanrılara kadar medeniyetleri sınıflandırmak için bir yöntem geliştirdi
+
+45
+00:03:15,520 --> 00:03:21,019
+: Kardashev Ölçeği;
+medeniyetleri enerji kullanımlarına göre sıralama yöntemi.
+
+46
+00:03:21,020 --> 00:03:24,839
+Ölçek, on yıllar boyunca iyileştirildi ve
+genişletildi,
+
+47
+00:03:24,840 --> 00:03:29,359
+ancak genel olarak
+medeniyetleri dört farklı kategoriye koyuyor.
+
+48
+00:03:29,360 --> 00:03:34,799
+Tip 1 uygarlık,
+kendi gezegenlerinin mevcut enerjisini kullanabilir.
+
+49
+00:03:34,800 --> 00:03:41,359
+Tip 2 uygarlık,
+yıldız ve gezegen sistemlerinin mevcut enerjisini kullanabilir.
+
+50
+00:03:41,360 --> 00:03:46,639
+Tip 3 medeniyet,
+galaksilerinin mevcut enerjisini kullanabilir.
+
+51
+00:03:46,640 --> 00:03:52,959
+Tip 4 uygarlığı,
+birden fazla galaksinin mevcut enerjisini kullanabilir.
+
+52
+00:03:52,960 --> 00:03:56,239
+Bu seviyeler büyüklük sıralarına göre farklılık gösterir.
+
+53
+00:03:56,240 --> 00:04:00,479
+Bir karınca
+kolonisini bir insan metropol bölgesiyle karşılaştırmak gibi.
+
+54
+00:04:00,480 --> 00:04:05,359
+Karıncalar için çok karmaşık ve güçlüyüz,
+tanrı da olabiliriz.
+
+55
+00:04:05,360 --> 00:04:09,439
+Bu yüzden ölçeği daha kullanışlı hale getirmek için
+alt kategorilere ihtiyacımız var.
+
+56
+00:04:09,440 --> 00:04:14,079
+Yelpazenin alt ucunda
+, Tip 0 ila Tip 1 uygarlıklar vardır:
+
+57
+00:04:14,080 --> 00:04:19,419
+Avcı-toplayıcılardan
+önümüzdeki birkaç yüz yılda başarabileceğimiz bir şeye kadar.
+
+58
+00:04:19,420 --> 00:04:23,019
+Bunlar aslında
+Samanyolu'nda bol miktarda olabilir.
+
+59
+00:04:23,020 --> 00:04:27,699
+Ancak
+radyo sinyallerini aktif olarak uzaya iletmeyen bir uygarlık,
+
+60
+00:04:27,700 --> 00:04:31,959
+en yakın yıldız
+komşumuz Alpha Centauri sistemi kadar yakın olabilir
+
+61
+00:04:31,960 --> 00:04:35,599
+ve
+onların var olduklarını anlamamızın hiçbir yolu olmazdı.
+
+62
+00:04:35,600 --> 00:04:41,079
+Ama bizim gibi radyo sinyallerini iletseler
+bile çok yardımcı olmayabilirler.
+
+63
+00:04:41,080 --> 00:04:45,839
+Yıldızlararası ölçekte,
+insanlık neredeyse görünmezdir.
+
+64
+00:04:45,840 --> 00:04:49,919
+Sinyallerimiz
+etkileyici bir 200 ışıkyılı boyunca uzanabilir,
+
+65
+00:04:49,920 --> 00:04:53,839
+ancak bu Samanyolu'nun sadece küçük bir
+kısmı.
+
+66
+00:04:53,840 --> 00:04:55,999
+Ve birileri dinliyor olsa bile,
+
+67
+00:04:56,000 --> 00:04:59,399
+birkaç ışıkyılı sonra
+sinyallerimiz gürültüye dönüşüyor,
+
+68
+00:04:59,400 --> 00:05:03,439
+
+akıllı bir türün kaynağı olarak tanımlanması imkansız.
+
+69
+00:05:03,440 --> 00:05:07,679
+Bugün insanlık yaklaşık 0.75 seviyesinde yer alıyor.
+
+70
+00:05:07,680 --> 00:05:09,539
+Gezegenimizi değiştirdik
+
+71
+00:05:09,540 --> 00:05:12,879
+: devasa yapılar yarattık,
+dağları mayınladık ve soyduk,
+
+72
+00:05:12,880 --> 00:05:15,799
+yağmur ormanlarını kaldırdık ve bataklıkları kuruttuk.
+
+73
+00:05:15,800 --> 00:05:17,559
+Nehirler ve göller yarattık ve atmosferin
+
+74
+00:05:17,560 --> 00:05:21,119
+bileşimini ve sıcaklığını değiştirdik
+.
+
+75
+00:05:21,120 --> 00:05:24,899
+İlerleme devam ederse
+ve Dünya'yı yaşanmaz hale getirmezsek, önümüzdeki birkaç yüz yıl içinde
+
+76
+00:05:24,900 --> 00:05:30,359
+tam bir Tip 1 uygarlığı olacağız
+.
+
+77
+00:05:30,360 --> 00:05:34,119
+Tip 1 haline gelen herhangi bir uygarlık
+dışarıya bakmak zorundadır,
+
+78
+00:05:34,120 --> 00:05:39,199
+çünkü muhtemelen hala meraklı,
+rekabetçi, açgözlü ve yayılmacıdır.
+
+79
+00:05:39,200 --> 00:05:46,319
+Tip 2'ye geçişe yönelik bir sonraki makul adım
+, diğer gezegenleri ve cisimleri değiştirmeye ve mayınlamaya çalışmaktır.
+
+80
+00:05:46,320 --> 00:05:51,879
+Bu, uzaydaki ileri karakollarla başlayabilir
+, ana gezegenin yakınındaki altyapıya ve endüstrilere
+
+81
+00:05:51,880 --> 00:05:55,079
+geçişle başlayabilir, kolonilere geçebilir
+
+
+82
+00:05:55,080 --> 00:05:58,499
+ve atmosferlerini,
+dönüşlerini veya konumlarını değiştirerek diğer gezegenleri dünya haline getirmekle sona erebilir.
+
+83
+00:05:58,500 --> 00:06:02,279
+Bir uygarlık genişledikçe ve
+giderek daha fazla malzeme ve alan kullandıkça
+
+84
+00:06:02,280 --> 00:06:04,859
+, enerji tüketimi de onlarla birlikte ölçeklenir,
+
+85
+00:06:04,860 --> 00:06:10,879
+bu nedenle bir noktada,
+daha düşük bir Tip 2 uygarlığın üstlenebileceği en büyük projeye başlayabilirler: bir
+
+86
+00:06:10,880 --> 00:06:15,439
+yıldız inşa ederek yıldızlarının enerjisini kullanmak.
+Dyson Sürüsü.
+
+87
+00:06:15,440 --> 00:06:17,379
+Bu mega yapı bittiğinde,
+
+88
+00:06:17,380 --> 00:06:23,039
+
+ev sistemini uygun gördükleri şekilde şekillendirmek için enerji pratik olarak sınırsız hale geldi.
+
+89
+00:06:23,040 --> 00:06:26,939
+Hâlâ meraklı, rekabetçi,
+açgözlü ve yayılmacıysalar
+
+90
+00:06:26,940 --> 00:06:29,999
+ve şimdi
+kendi ev sistemleri
+
+91
+00:06:30,000 --> 00:06:33,519
+, yerinde yıldız altyapısı
+ve bir yıldızın enerji üretimi üzerinde tam kontrole sahiplerse, bir
+
+92
+00:06:33,520 --> 00:06:37,799
+sonraki sınır
+ışık yılları uzaktaki diğer yıldızlara geçer.
+
+93
+00:06:37,800 --> 00:06:39,479
+Tip 2 bir uygarlık için,
+
+94
+00:06:39,480 --> 00:06:44,959
+diğer yıldızlara
+olan uzaklık, Dünya ile Plüton arasındaki mesafenin bize bugün yaptığı gibi gelebilir:
+
+95
+00:06:44,960 --> 00:06:46,239
+Teknik olarak erişilebilir,
+
+96
+00:06:46,240 --> 00:06:51,519
+ancak yalnızca
+zaman, yaratıcılık ve kaynaklar açısından muazzam yatırımlarla.
+
+97
+00:06:51,520 --> 00:06:54,659
+Bu,
+Tip 3'e geçişlerini başlatır.
+
+98
+00:06:54,660 --> 00:06:56,619
+Bu adım bizi o kadar aşar
+
+99
+00:06:56,620 --> 00:07:00,519
+ki,
+bu zorlukların tam olarak
+
+100
+00:07:00,520 --> 00:07:02,239
+nasıl görüneceğini ve nasıl çözüleceğini hayal etmek zorlaşır.
+
+101
+00:07:02,240 --> 00:07:05,459
+Yüzlerce, binlerce yıllık
+uçsuz bucaksız mesafelere
+
+102
+00:07:05,460 --> 00:07:08,579
+ve yolculuk sürelerine bir çözüm bulabilecekler
+mi?  Işık yılı
+
+103
+00:07:08,580 --> 00:07:15,359
+arayla koloniler arasında iletişim kurabilecek ve ortak bir
+kültür ve biyolojiyi sürdürebilecekler mi?
+
+104
+00:07:15,360 --> 00:07:18,939
+Yoksa
+ayrı Tip 2 medeniyetlere mi bölünecekler?
+
+105
+00:07:18,940 --> 00:07:21,679
+Belki de farklı türler?
+
+106
+00:07:21,680 --> 00:07:25,219
+Yıldızlar arasında ölümcül zorluklar var mı?
+
+107
+00:07:25,220 --> 00:07:27,739
+Yani bir tür Tip 3'e ne kadar yaklaşırsa, gerçekte neye
+
+108
+00:07:27,740 --> 00:07:31,319
+benzediğini anlamak o kadar zorlaşıyor
+.
+
+109
+00:07:31,320 --> 00:07:36,559
+Yeni fizik keşfedebilir,
+karanlık maddeyi ve enerjiyi anlayıp kontrol edebilir
+
+110
+00:07:36,560 --> 00:07:39,519
+veya ışıktan daha hızlı seyahat edebilirler.
+
+111
+00:07:39,520 --> 00:07:44,359
+
+Motiflerini, teknolojilerini ve eylemlerini kavrayamayabiliriz.
+
+112
+00:07:44,360 --> 00:07:49,919
+İnsanlar
+, galaktik metropol alanını anlamaya çalışan karıncalardır.
+
+113
+00:07:49,920 --> 00:07:56,479
+Yüksek bir Tip 2 uygarlığı,
+insanlığı konuşamayacak kadar ilkel olarak görebilir.
+
+114
+00:07:56,480 --> 00:08:02,399
+Tip 3 uygarlık
+, karınca yuvası üzerinde yaşayan bakteriler hakkında bizim hissettiğimiz gibi hissedebilir.
+
+115
+00:08:02,400 --> 00:08:07,119
+Belki bizi bilinçli
+ya da hayatta kalmamızla ilgili olduğunu bile düşünmezler.
+
+116
+00:08:07,120 --> 00:08:11,279
+Sadece onların iyi tanrılar olmaları için dua edebiliriz.
+
+117
+00:08:11,280 --> 00:08:14,079
+Ancak ölçek mutlaka burada bitmiyor.
+
+118
+00:08:14,080 --> 00:08:18,299
+Bazı bilim adamları
+
+
+119
+00:08:18,300 --> 00:08:22,139
+, etkisi
+galaksi kümeleri veya üstkümeler,
+
+120
+00:08:22,140 --> 00:08:26,879
+binlerce galaksi
+ve trilyonlarca yıldızdan oluşan yapılar üzerinde uzanan Tip 4 ve Tip 5 medeniyetler olabileceğini öne sürüyorlar.
+
+121
+00:08:26,880 --> 00:08:30,419
+Nihayetinde, tüm evreni ve muhtemelen başkalarını manipüle edebilen
+bir Tip Omega uygarlığı
+
+122
+00:08:30,420 --> 00:08:34,639
+
+olabilir.
+
+123
+00:08:34,640 --> 00:08:39,678
+Omega tipi medeniyetler
+, kavrayışımızın ötesindeki nedenlerle evrenimizin gerçek yaratıcıları olabilir
+
+124
+00:08:39,679 --> 00:08:42,158
+.
+
+125
+00:08:42,159 --> 00:08:44,639
+Belki de sadece sıkıldılar.
+
+126
+00:08:44,640 --> 00:08:46,919
+Bu sınıflandırma ne kadar kusurlu olursa olsun,
+
+127
+00:08:46,920 --> 00:08:51,039
+bu düşünce deneyi
+şimdiden bize ilginç şeyler anlatıyor.
+
+128
+00:08:51,040 --> 00:08:56,699
+Yıldızlararası uygarlıkları oluşturan türlerin doğası hakkındaki fikirlerimiz
+bir bakıma doğruysa,
+
+129
+00:08:56,700 --> 00:09:03,279
+
+Samanyolu yakınlarında Tip 3 ve ötesinde hiçbir uygarlık olmadığından oldukça emin olabiliriz.
+
+130
+00:09:03,280 --> 00:09:06,619
+Etkileri
+muhtemelen her şeyi kapsayıcı olacak
+
+131
+00:09:06,620 --> 00:09:10,879
+ve teknolojileri bizimkinin çok üzerinde olacak ve
+onları gözden kaçıramazdık.
+
+132
+00:09:10,880 --> 00:09:15,759
+Galaksi
+, binlerce yıldız sistemindeki etkinlikleriyle yanıp sönmelidir.
+
+133
+00:09:15,760 --> 00:09:21,799
+Eserlerini veya imparatorluklarının farklı kısımları arasındaki hareketlerini görebilir veya tespit edebilmeliyiz
+.
+
+134
+00:09:21,800 --> 00:09:27,379
+Geçmişte bir Tip 3 uygarlığı var olmuş
+ve gizemli bir ölümle ölmüş olsa bile
+
+135
+00:09:27,380 --> 00:09:31,439
+
+, imparatorluklarının bazı kalıntılarını tespit edebilmemiz gerekir.
+
+136
+00:09:31,440 --> 00:09:35,719
+Ancak bilim adamları baktıklarında,
+hasat edilmiş yıldızların kalıntılarını,
+
+137
+00:09:35,720 --> 00:09:41,139
+çürüyen mega yapıların
+veya büyük yıldızlararası savaşların izlerini bulamadılar.
+
+138
+00:09:41,140 --> 00:09:44,559
+Yani büyük ihtimalle orada değiller
+ve hiç olmadılar.
+
+139
+00:09:44,560 --> 00:09:48,719
+Bu bir anlamda çok üzücü
+ama aynı zamanda çok güven verici.
+
+140
+00:09:48,720 --> 00:09:53,599
+Galaksiyi bize ve
+bize benzeyenlere bırakır.
+
+141
+00:09:53,600 --> 00:10:01,159
+Bu nedenle, aranacak en umut verici medeniyetler
+, Tip 1.5'ten Tip 2.5'e kadar olan yelpazede bir yerde olabilir.
+
+142
+00:10:01,160 --> 00:10:05,359
+Onları ve amaçlarını anlamayacak kadar ileri düzeyde olmazlardı
+.
+
+143
+00:10:05,360 --> 00:10:07,759
+İlk mega yapılarını bitirmiş
+
+144
+00:10:07,760 --> 00:10:10,959
+olabilirler ve
+yıldızlar arasında personel taşıma, yanlışlıkla veya bilerek uzaya
+
+145
+00:10:10,960 --> 00:10:14,159
+muazzam miktarda bilgi aktarma sürecinde olabilirler
+
+
+146
+00:10:14,160 --> 00:10:16,639
+.
+
+147
+00:10:16,640 --> 00:10:20,799
+Muhtemelen yıldızlara
+da bakarlar ve başkalarını ararlardı.
+
+148
+00:10:20,800 --> 00:10:23,359
+Sonra tekrar, belki de her şeyi yanlış anladık.
+
+149
+00:10:23,360 --> 00:10:27,559
+Belki Tip 2'ye ilerlemek
+, dışa doğru genişlemek anlamına gelmez
+
+150
+00:10:27,560 --> 00:10:32,719
+ve insanlık hala
+başka türlü hayal edemeyecek kadar olgunlaşmamıştır.
+
+151
+00:10:32,720 --> 00:10:36,799
+Şimdilik, gerçekten bildiğimiz tek şey,
+henüz kimseyi görmediğimiz.
+
+152
+00:10:36,800 --> 00:10:41,759
+Ancak daha yeni aramaya başladık.
+
+153
+00:10:41,760 --> 00:10:47,479
+Sonunda arkadaş canlısı süper uzaylılar bulana
+ve onlardan evrenin kurallarını bize açıklamalarını isteyene kadar
+
+154
+00:10:47,480 --> 00:10:50,639
+, çoğumuz bir
+şeyler öğrenmekle yetinmek zorundayız.
+
+155
+00:10:50,640 --> 00:10:53,239
+İster ilk kez evden ayrılarak okula dönüyor olun, ister
+
+
+156
+00:10:53,240 --> 00:10:55,519
+
+hayatınızda yeni bir döneme giriyor olun,
+
+157
+00:10:55,520 --> 00:10:59,339
+mağazamız
+tüm okula dönüş ihtiyaçlarınız için dolu ve hazır.  Çalışmalarınızı düzenlemek için
+
+158
+00:10:59,340 --> 00:11:01,939
+defterler ve not defterleri
+,
+
+159
+00:11:01,940 --> 00:11:04,399
+
+her şeyin güzel görünmesini sağlamak için çıkartmalar ve kupalar
+
+160
+00:11:04,400 --> 00:11:10,079
+, yurt veya odanızı
+ilham verici bir bilgi vahasına dönüştürmek için çok sayıda poster.
+
+161
+00:11:10,080 --> 00:11:14,959
+Yeni gömleklerimiz ve ilk kez
+bir Kurzgesagt Earth kazağımız var.
+
+162
+00:11:14,960 --> 00:11:20,559
+Bu ürünlerin tümü
+, Kurzgesagt ticari birb'ler tarafından sevgiyle tasarlanmış ve üretilmiştir.
+
+163
+00:11:20,560 --> 00:11:25,519
+Ürünümüz, yaptığımız işi desteklemenin
+ve videolarımızı herkes için ücretsiz tutmanın en kolay yoludur.
+
+164
+00:11:25,520 --> 00:11:28,499
+İzlediğiniz için teşekkürler.
+
+165
+00:11:28,500 --> 00:11:38,059
+*ördek gürültüsü*
+
+166
+00:11:38,060 --> 00:11:40,600
+Altyazılar:
+Bruno Andre Fernandes Ortega ve diğerleri
+

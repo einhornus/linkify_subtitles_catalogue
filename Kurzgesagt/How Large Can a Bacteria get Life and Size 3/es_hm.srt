@@ -1,0 +1,536 @@
+1
+00:00:01,010 --> 00:00:06,629
+Dentro y fuera, dentro y fuera.
+
+2
+00:00:06,630 --> 00:00:14,558
+Mantenerse vivo se trata de hacer cosas. En este mismo segundo, sus células están quemando moléculas de glucosa con oxígeno
+
+3
+00:00:14,559 --> 00:00:20,129
+para hacer que la energía esté disponible, lo que lo mantiene vivo por otro momento precioso.
+
+4
+00:00:20,130 --> 00:00:23,665
+Para llevar el oxígeno a sus células, está respirando.
+
+5
+00:00:23,666 --> 00:00:30,979
+Respirar es una respuesta a un problema muy difícil: ¿cómo se obtienen los recursos que necesitan sus células para sobrevivir,
+
+6
+00:00:30,980 --> 00:00:37,308
+desde el exterior hasta el interior de sus células? Todo ser vivo tiene que resolver este problema
+
+7
+00:00:37,309 --> 00:00:44,158
+y la solución es sorprendentemente diferente dependiendo de uno de los reguladores más importantes de la vida: el
+
+8
+00:00:44,159 --> 00:00:45,158
+tamaño.
+
+9
+00:00:45,159 --> 00:00:47,439
+Como hemos comentado en otros vídeos:
+
+10
+00:00:47,440 --> 00:00:53,409
+A distintas escalas, las leyes físicas del universo tienen distintas consecuencias para sus habitantes.
+
+11
+00:00:53,410 --> 00:01:00,062
+Cosas simples como la temperatura, la microgravedad o la tensión superficial pueden no importarle o ser un peligro mortal
+
+12
+00:01:00,063 --> 00:01:02,709
+, dependiendo de su tamaño.
+
+13
+00:01:02,710 --> 00:01:06,169
+Los seres vivos necesitan muchos materiales diferentes para mantenerse en movimiento.
+
+14
+00:01:06,170 --> 00:01:11,071
+Y de alguna manera necesitan transportarlos desde afuera hacia adentro.
+
+15
+00:01:11,072 --> 00:01:19,055
+Este fue un gran problema para las primeras cosas a punto de estar vivo, porque hacer cualquier cosa en nuestro universo requiere energía.
+
+16
+00:01:19,056 --> 00:01:24,754
+Y los primeros seres vivos en la tierra no tenían la abundancia de herramientas y técnicas disponibles
+
+17
+00:01:24,755 --> 00:01:27,519
+que tiene la vida hoy después de miles de millones de años de evolución.
+
+18
+00:01:27,520 --> 00:01:33,949
+Así que desde el principio, la vida necesitaba encontrar una manera de obtener cosas buenas dentro
+
+19
+00:01:33,950 --> 00:01:37,979
+y cosas malas fuera de sí misma sin usar energía.
+
+20
+00:01:37,980 --> 00:01:42,539
+Afortunadamente, las primeras formas de vida fueron muy, muy pequeñas.
+
+21
+00:01:42,540 --> 00:01:47,619
+Y debido a que eran tan pequeños, pudieron utilizar una forma de transporte libre
+
+22
+00:01:47,620 --> 00:01:51,562
+que se basaba en una ley física llamada difusión.
+
+23
+00:01:51,563 --> 00:01:57,760
+La difusión es la regla del universo según la cual las moléculas, especialmente en líquidos o gases,
+
+24
+00:01:57,761 --> 00:02:01,280
+se mueven constantemente en todas direcciones.
+
+25
+00:02:01,281 --> 00:02:07,065
+Y debido a que se mueven y chocan entre sí y con otras moléculas, tienden a extenderse.
+
+26
+00:02:07,066 --> 00:02:12,774
+Por ejemplo, si dejas caer un terrón de azúcar en agua, entonces hay mucha azúcar en un lugar
+
+27
+00:02:12,775 --> 00:02:15,773
+y en otro lugar no hay nada.
+
+28
+00:02:15,774 --> 00:02:21,479
+A medida que las moléculas de azúcar se disuelven en el agua, comenzarán a chocar aleatoriamente contra las moléculas de agua
+
+29
+00:02:21,480 --> 00:02:23,358
+y otras moléculas de azúcar.
+
+30
+00:02:23,359 --> 00:02:30,241
+Lentamente, todas las moléculas de azúcar se extenderán y formarán múltiples fases de diferentes concentraciones.
+
+31
+00:02:30,242 --> 00:02:35,798
+Estos movimientos aleatorios continúan sin cesar, hasta que en algún momento el azúcar se esparcirá
+
+32
+00:02:35,799 --> 00:02:37,818
+uniformemente en el agua.
+
+33
+00:02:37,819 --> 00:02:44,009
+Lo bueno de la difusión es que la vida puede usarla gratis, no requiere energía.
+
+34
+00:02:44,010 --> 00:02:50,850
+Y la vida ama las cosas gratis. Entonces, toda la vida en la tierra se basa en la difusión.
+
+35
+00:02:50,851 --> 00:02:58,497
+Miremos al ser vivo más pequeño de la tierra, una bacteria. Concretamente sus superficies.
+
+36
+00:02:58,498 --> 00:03:02,458
+Las membranas celulares permiten la difusión de ciertas moléculas.
+
+37
+00:03:02,459 --> 00:03:08,248
+Esta bacteria específica consume oxígeno para vivir, mientras que en el interior se produce dióxido de carbono
+
+38
+00:03:08,249 --> 00:03:10,233
+como producto de desecho.
+
+39
+00:03:10,234 --> 00:03:16,466
+Entonces, dentro de la bacteria no hay mucho oxígeno, sino mucho dióxido de carbono.
+
+40
+00:03:16,467 --> 00:03:22,929
+Debido a la difusión, estas moléculas eventualmente se extenderán de manera uniforme, por lo que el dióxido de carbono se difunde,
+
+41
+00:03:22,930 --> 00:03:27,708
+mientras que el oxígeno se repone constantemente desde el exterior.
+
+42
+00:03:27,709 --> 00:03:31,958
+Pero este tipo de "respiración" solo funciona para el mundo muy pequeño.
+
+43
+00:03:31,959 --> 00:03:37,272
+Para bacterias, amebas o sus células y algunos animales muy pequeños.
+
+44
+00:03:37,273 --> 00:03:41,979
+Los insectos, por ejemplo, tienen una fina red de tráquea, túneles con un gradiente de presión,
+
+45
+00:03:41,980 --> 00:03:47,339
+donde el aire puede difundirse muy lentamente e intercambiar gases con las células de los insectos.
+
+46
+00:03:47,340 --> 00:03:51,208
+Pero incluso los insectos parecen ser capaces de contraer su tráquea
+
+47
+00:03:51,209 --> 00:03:57,098
+y al menos algunos incluso tienen órganos respiratorios especializados como espiráculos y bolsas de aire.
+
+48
+00:03:57,099 --> 00:04:02,751
+A determinadas escalas, la difusión es demasiado lenta para mantener vivas las células.
+
+49
+00:04:02,752 --> 00:04:08,589
+El problema fundamental es que el intercambio con el medio ambiente solo puede ocurrir en la superficie
+
+50
+00:04:08,590 --> 00:04:14,999
+y la difusión de materiales solo puede sostener una cierta cantidad de adentro.
+
+51
+00:04:15,000 --> 00:04:21,549
+Los seres vivos diminutos tienen solo un poco de interior o volumen y mucho exterior
+
+52
+00:04:21,550 --> 00:04:23,833
+o superficie.
+
+53
+00:04:23,834 --> 00:04:28,223
+Pero, ¿y si quisiéramos crear una bacteria del tamaño de una ballena azul
+
+54
+00:04:28,224 --> 00:04:32,096
+y tuviéramos una máquina de ampliación muy conveniente?
+
+55
+00:04:32,097 --> 00:04:35,729
+Lamentablemente, la ley del cubo cuadrado nos arruinaría.
+
+56
+00:04:35,730 --> 00:04:39,539
+En pocas palabras, significa que si haces algo diez veces más grande,
+
+57
+00:04:39,540 --> 00:04:48,859
+su exterior o superficie aumentaría en 100, pero su interior, o volumen, aumentaría 1000 veces.
+
+58
+00:04:48,860 --> 00:04:53,309
+Si comparamos la bacteria Pseudomonas aeruginosa con una ballena azul,
+
+59
+00:04:53,310 --> 00:05:00,629
+vemos que la bacteria tiene 10.000.000 de veces más superficie en relación a su volumen que la ballena.
+
+60
+00:05:00,630 --> 00:05:05,633
+La bacteria tiene muchas partes externas, mientras que la ballena tiene muchas partes internas.
+
+61
+00:05:05,634 --> 00:05:12,092
+Si hacemos una bacteria del tamaño de una ballena, nuestra bacteria gigante ahora tiene demasiado interior
+
+62
+00:05:12,093 --> 00:05:15,869
+y la mayor parte de su interior está ahora muy lejos de su superficie.
+
+63
+00:05:15,870 --> 00:05:21,885
+El oxígeno que necesita nuestra bacteria nunca llegaría al interior antes de quedarse sin oxígeno.
+
+64
+00:05:21,886 --> 00:05:29,429
+Nuestra bacteria gigante simplemente moriría. Aún así, ser más grande tiene muchas ventajas.
+
+65
+00:05:29,430 --> 00:05:33,929
+De ser más difícil de comer a hacer que sea más fácil comer a los demás.
+
+66
+00:05:33,930 --> 00:05:40,269
+Pero el tamaño de las células está limitado por la distancia que el oxígeno y los nutrientes pueden difundirse eficazmente
+
+67
+00:05:40,270 --> 00:05:43,503
+para proporcionar al interior suficientes recursos.
+
+68
+00:05:43,504 --> 00:05:48,989
+Así que la vida evitó este problema formando estructuras multicelulares:
+
+69
+00:05:48,990 --> 00:05:52,949
+seres compuestos de muchas células en lugar de una.
+
+70
+00:05:52,950 --> 00:05:59,549
+Porque la difusión funciona mejor si tiene muchas unidades pequeñas en lugar de una mucho más grande.
+
+71
+00:05:59,550 --> 00:06:04,877
+Con el tiempo los compañeros de celda comenzaron a compartir trabajo y especializarse.
+
+72
+00:06:04,878 --> 00:06:11,979
+Algunas células se concentraron en sentir el medio ambiente, otras en la digestión, otras en el movimiento.
+
+73
+00:06:11,980 --> 00:06:14,049
+Pero eso todavía no fue suficiente.
+
+74
+00:06:14,050 --> 00:06:18,090
+El problema de la difusión y la producción superficial y de energía se mantuvo,
+
+75
+00:06:18,091 --> 00:06:22,779
+limitando el tamaño que podían alcanzar estas primeras formas de vida multicelulares.
+
+76
+00:06:22,780 --> 00:06:25,339
+Entonces, para volverse aún más grande, la
+
+77
+00:06:25,340 --> 00:06:32,153
+vida resolvió el problema de la difusión al tener agujeros y cuevas y túneles y plegándose sobre sí misma,
+
+78
+00:06:32,154 --> 00:06:36,423
+para que la difusión pudiera ocurrir fácilmente en cada una de las células.
+
+79
+00:06:36,424 --> 00:06:43,997
+Tómate a ti mismo: Lo que consideras tu exterior, tu piel, tiene una superficie de unos 2 metros cuadrados.
+
+80
+00:06:43,998 --> 00:06:48,769
+Pero sus pulmones tienen una superficie de unos 70 metros cuadrados.
+
+81
+00:06:48,770 --> 00:06:54,373
+No son como globos, son más como esponjas llenas de muchos globos pequeños apretados,
+
+82
+00:06:54,374 --> 00:06:56,749
+rodeados de vasos sanguíneos.
+
+83
+00:06:56,750 --> 00:07:01,659
+Cuando inhalas, todos estos pequeños globos se llenan de aire fresco.
+
+84
+00:07:01,660 --> 00:07:05,659
+La sangre llena de CO2 se bombea alrededor de los globos.
+
+85
+00:07:05,660 --> 00:07:09,319
+Y luego ocurre la magia de la difusión.
+
+86
+00:07:09,320 --> 00:07:14,309
+El oxígeno se difunde en la sangre, donde es recogido por los glóbulos rojos.
+
+87
+00:07:14,310 --> 00:07:21,019
+Y el CO2 se difunde fuera de la sangre hacia los pulmones, donde se puede exhalar nuevamente.
+
+88
+00:07:21,020 --> 00:07:25,839
+Luego, su sangre transporta sangre rica en oxígeno a los rincones más lejanos de su cuerpo
+
+89
+00:07:25,840 --> 00:07:28,432
+y recoge los desechos de CO2.
+
+90
+00:07:28,433 --> 00:07:32,399
+La difusión en el cuerpo es efectiva aproximadamente a un milímetro,
+
+91
+00:07:32,400 --> 00:07:38,179
+por lo que cada célula de su cuerpo está como máximo a un milímetro de distancia de un vaso sanguíneo.
+
+92
+00:07:38,180 --> 00:07:44,487
+Así que los animales de tamaño mediano como tú necesitan muchos vasos sanguíneos para llegar a todas las células del cuerpo.
+
+93
+00:07:44,488 --> 00:07:49,279
+Su cuerpo tiene alrededor de 100.000 kilómetros de capilares solamente,
+
+94
+00:07:49,280 --> 00:07:55,558
+el más pequeño de sus vasos sanguíneos, con una superficie de alrededor de 1000 metros cuadrados.
+
+95
+00:07:55,559 --> 00:08:00,989
+Esto es cierto para todas las partes de ti que desean intercambiar algo con el mundo exterior.
+
+96
+00:08:00,990 --> 00:08:04,429
+Su cuerpo necesita superficies para absorber los nutrientes de su comida,
+
+97
+00:08:04,430 --> 00:08:10,309
+por lo que su intestino tiene la superficie de media cancha de bádminton, aproximadamente 40 metros cuadrados.
+
+98
+00:08:10,310 --> 00:08:14,449
+Cuanto más grande seas, más superficies ocultas necesitarás.
+
+99
+00:08:14,450 --> 00:08:19,249
+Toma un árbol. Su forma de mantenerse con vida es crear azúcar a partir del aire y la luz solar.
+
+100
+00:08:19,250 --> 00:08:22,929
+Por lo que necesita la mayor superficie posible.
+
+101
+00:08:22,930 --> 00:08:28,779
+Un naranjo de dos mil hojas tiene una superficie foliar de 200 metros cuadrados.
+
+102
+00:08:28,780 --> 00:08:36,069
+Pero la superficie dentro de las hojas donde realmente ocurre la difusión es de 6000 metros cuadrados.
+
+103
+00:08:36,070 --> 00:08:40,509
+Lo mismo ocurre con las raíces, donde el agua se difunde del suelo en innumerables pelos diminutos que
+
+104
+00:08:40,510 --> 00:08:43,298
+maximizan la superficie.
+
+105
+00:08:43,299 --> 00:08:50,456
+¡Las raíces de un metro cuadrado de césped suman alrededor de 350 metros cuadrados de superficie!
+
+106
+00:08:50,457 --> 00:08:57,544
+Si miramos la impresionante diversidad de vida en este planeta, parece que todo es bastante diferente.
+
+107
+00:08:57,545 --> 00:08:59,668
+Y es.
+
+108
+00:08:59,669 --> 00:09:07,772
+Pero algunos principios básicos son los mismos para todos y no han cambiado significativamente durante miles de millones de años,
+
+109
+00:09:07,773 --> 00:09:11,636
+si nos fijamos en lo muy muy pequeño o lo muy muy grande: los
+
+110
+00:09:11,637 --> 00:09:21,529
+desechos salen y entra combustible fresco. Los animales grandes solo necesitan una gran cantidad de complejos fontanería para hacerlo posible.
+
+111
+00:09:21,530 --> 00:09:27,469
+El combustible fresco es algo que todos podemos usar de vez en cuando, especialmente para nuestra creatividad.
+
+112
+00:09:27,470 --> 00:09:33,479
+Todo lo que realmente se necesita es probar algo nuevo y tenemos la oportunidad perfecta para comenzar:
+
+113
+00:09:33,480 --> 00:09:39,019
+nos asociamos con Skillshare, una comunidad de aprendizaje en línea que ofrece cursos sobre casi cualquier habilidad creativa,
+
+114
+00:09:39,020 --> 00:09:43,419
+como diseño, ilustración, animación, fotografía y cocina.
+
+115
+00:09:43,420 --> 00:09:46,569
+Tienen miles de cursos que comienzan en todos los niveles,
+
+116
+00:09:46,570 --> 00:09:50,299
+por lo que dondequiera que se encuentre ahora, habrá algo para usted.
+
+117
+00:09:50,300 --> 00:09:53,989
+Tal vez quieras mirar detrás de escena de nuestras animaciones, por ejemplo:
+
+118
+00:09:53,990 --> 00:09:57,939
+hicimos un par de clases de Skillshare que te enseñan cómo animamos escenas de nuestros videos
+
+119
+00:09:57,940 --> 00:10:01,379
+con clases de video lecciones y proyectos prácticos.
+
+120
+00:10:01,380 --> 00:10:04,069
+O si prefiere mirar primero la ilustración, le recomendamos
+
+121
+00:10:04,070 --> 00:10:08,339
+Adobe Illustrator: Level Up Your Colors de Hayden Aube.
+
+122
+00:10:08,340 --> 00:10:13,369
+Pero lo que elijas primero no importa mucho, lo importante es comenzar,
+
+123
+00:10:13,370 --> 00:10:15,609
+divertirte y obtener nueva inspiración.
+
+124
+00:10:15,610 --> 00:10:20,883
+El acceso ilimitado a todas las clases cuesta solo diez dólares al mes con una membresía premium anual.
+
+125
+00:10:20,884 --> 00:10:26,065
+Y los primeros 1000 espectadores de kurzgesagt que hagan clic en el enlace de la descripción reciben un regalo especial:
+
+126
+00:10:26,066 --> 00:10:29,209
+obtendrás una prueba gratuita de Skillshare Premium.
+
+127
+00:10:29,210 --> 00:10:35,811
+Si quieres salir de tu rutina explorando una nueva habilidad y apoyando a kurzgesagt, pruébalo.
+
+128
+00:10:35,812 --> 00:10:39,579
+Y tenemos algo más para que su experiencia de aprendizaje sea realmente perfecta: ¡
+
+129
+00:10:39,580 --> 00:10:41,899
+nuestro nuevo cuaderno Ocean Explorer!
+
+130
+00:10:41,900 --> 00:10:46,839
+Tiene hermosas letras brillantes y 4 páginas infográficas ilustradas en el interior,
+
+131
+00:10:46,840 --> 00:10:49,529
+que lo llevarán a un viaje bajo el mar.
+
+132
+00:10:49,530 --> 00:10:53,249
+El compañero perfecto para todas sus necesidades de toma de notas,
+
+133
+00:10:53,250 --> 00:10:56,889
+diseñado y producido con amor por kurzgesagt merch birbs.
+
+134
+00:10:56,890 --> 00:10:59,026
+¡Gracias por ver!
+

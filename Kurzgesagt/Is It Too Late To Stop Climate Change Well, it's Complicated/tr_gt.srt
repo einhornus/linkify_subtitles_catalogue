@@ -1,0 +1,628 @@
+1
+00:00:01,480 --> 00:00:03,639
+İklim değişikliği hemen hemen aynı.
+
+2
+00:00:03,640 --> 00:00:05,359
+asla iyi haber olmaz
+
+3
+00:00:05,360 --> 00:00:08,739
+sadece gitgide daha da kızaran ve öfkelenen grafikler.
+
+4
+00:00:08,740 --> 00:00:11,319
+Neredeyse her yıl korkunç bir rekor kırıyor,
+
+5
+00:00:11,320 --> 00:00:15,139
+en yoğun ısı dalgalarından buzulların en hızlı erimesine kadar.
+
+6
+00:00:15,140 --> 00:00:18,919
+Bitmiyor ve merhameti yok.
+
+7
+00:00:18,920 --> 00:00:25,139
+On yıllardır hızlı iklim değişikliğinin sera gazlarının emisyonundan kaynaklandığını biliyoruz.
+
+8
+00:00:25,140 --> 00:00:33,279
+Ancak 2019'da dünya, emisyonları azaltmak yerine bir önceki yıla göre %50 daha fazla CO2 salıyordu.
+
+9
+00:00:33,280 --> 00:00:36,099
+Ve emisyonlar hala artıyor.
+
+10
+00:00:36,100 --> 00:00:37,319
+Nedenini merak ediyorum?
+
+11
+00:00:37,320 --> 00:00:41,539
+Bu gazları yaymayı durdurmak neden bu kadar zor?
+
+12
+00:00:41,540 --> 00:00:46,779
+*Açılış teması*
+
+13
+00:00:46,780 --> 00:00:49,739
+~ Kurzgesagt: Özetle ~
+
+14
+00:00:49,740 --> 00:00:56,499
+Kolektif CO2 emisyonlarımız, 4 faktörün ve bunların birbirleriyle olan ilişkilerinin bir ürünü olarak ifade edilebilir:
+
+15
+00:00:56,500 --> 00:01:00,579
+Bunlardan ikisi, dünya emisyonlarının neden hala büyüdüğünü açıklıyor,
+
+16
+00:01:00,580 --> 00:01:04,318
+ve iki tanesi bize onu nasıl durduracağımızı söylüyor.
+
+17
+00:01:04,319 --> 00:01:05,699
+popülasyon boyutu,
+
+18
+00:01:05,700 --> 00:01:07,279
+ekonomik büyüme,
+
+19
+00:01:07,280 --> 00:01:08,759
+enerji yoğunluğu,
+
+20
+00:01:08,760 --> 00:01:12,579
+ve üretilen enerji birimi başına emisyonlar.
+
+21
+00:01:12,580 --> 00:01:16,259
+Birincisi: nüfus artışı.
+
+22
+00:01:16,260 --> 00:01:19,459
+İnsanların yiyeceğe, eve, giysiye ihtiyacı var.
+
+23
+00:01:19,460 --> 00:01:21,739
+ve lüks ürünler talep ediyorlar -
+
+24
+00:01:21,740 --> 00:01:24,719
+I-phone'lardan 1 dolarlık çizburgerlere.
+
+25
+00:01:24,720 --> 00:01:29,759
+Daha fazla insan, daha yüksek CO2 emisyonu. Bu çok basit bir denklem.
+
+26
+00:01:29,760 --> 00:01:33,059
+Küresel nüfus artıyor ve BM'ye göre,
+
+27
+00:01:33,060 --> 00:01:36,639
+2100 yılına kadar yaklaşık 11 milyara yerleşecek,
+
+28
+00:01:36,640 --> 00:01:40,059
+bu da bugünkünden %40 daha fazla demektir.
+
+29
+00:01:40,060 --> 00:01:43,539
+Bu büyümeyi yavaşlatmanın tek yolu halk sağlığına yapılan yatırımlardır.
+
+30
+00:01:43,540 --> 00:01:48,379
+gelişmekte olan ülkelerde doğum kontrol yöntemlerine ve eğitime erişim.
+
+31
+00:01:48,380 --> 00:01:51,479
+Ancak büyük yatırımlarla bile, birkaç on yıl alacaktı.
+
+32
+00:01:51,480 --> 00:01:55,319
+Düşük doğurganlık oranlarının etkilerinin ortaya çıkması için.
+
+33
+00:01:55,320 --> 00:01:59,019
+Dolayısıyla nüfus, öngörülebilir gelecekte artmaya devam edecek.
+
+34
+00:01:59,020 --> 00:02:01,979
+ve sonuç olarak, küresel CO2 emisyonları
+
+35
+00:02:01,980 --> 00:02:05,279
+önümüzdeki birkaç on yıl içinde artacaktır.
+
+36
+00:02:05,280 --> 00:02:09,279
+İki numara: Büyüme ya da zenginleşme.
+
+37
+00:02:09,280 --> 00:02:11,659
+Ama bu sadece sayılarımızla ilgili değil;
+
+38
+00:02:11,660 --> 00:02:16,999
+ne kadar zengin ve gelişmişsek, yaşam tarzımız o kadar fazla emisyon üretir.
+
+39
+00:02:17,000 --> 00:02:22,939
+ABD'deki bir programcı, 50 Ugandalı çiftçiden daha büyük bir CO2 ayak izine sahip.
+
+40
+00:02:22,940 --> 00:02:26,259
+Dünyanın zenginliği hemen hemen her yerde büyüyor.
+
+41
+00:02:26,260 --> 00:02:28,959
+Ve adil bir dağıtımdan uzak olmasına rağmen,
+
+42
+00:02:28,960 --> 00:02:32,119
+ekonomik büyüme daha yüksek yaşam standartlarına yol açtı
+
+43
+00:02:32,120 --> 00:02:37,239
+ve insanlık tarihindeki aşırı yoksulluktaki en büyük azalma.
+
+44
+00:02:37,240 --> 00:02:40,619
+"Büyüme" dünya ekonomilerinin baskın mantrası haline geldi,
+
+45
+00:02:40,620 --> 00:02:44,139
+hangi siyasi sisteme sahip olurlarsa olsunlar.
+
+46
+00:02:44,140 --> 00:02:49,179
+Zengin ülkelerin büyüme kavramından yakın zamanda vazgeçmeleri pek olası değildir;
+
+47
+00:02:49,180 --> 00:02:53,899
+ama vazgeçseler bile gelişmekte olan ülkeler de zengin olmak istiyor.
+
+48
+00:02:53,900 --> 00:02:58,279
+Milyarlarca insan için büyümeyi sona erdirmek, muhtemelen yoksul kalmak anlamına gelir.
+
+49
+00:02:58,280 --> 00:03:02,939
+bu nedenle gelişmekte olan ülkeler ekonomilerinin büyümesini durdurmak istemiyorlar.
+
+50
+00:03:02,940 --> 00:03:06,819
+Genel olarak, büyümenin yol gösterici bir ekonomik ideoloji olduğundan emin olabiliriz.
+
+51
+00:03:06,820 --> 00:03:10,079
+bizi yakın zamanda bırakmayacak.
+
+52
+00:03:10,080 --> 00:03:14,459
+Dünyada daha fazla ülke ve vatandaş büyüyecek ve daha zengin olacak,
+
+53
+00:03:14,460 --> 00:03:18,699
+zengin ekonomiler servetlerini büyütmeye devam ederken.
+
+54
+00:03:18,700 --> 00:03:22,739
+Büyümenin CO2 emisyonlarından ayrıştırılabileceğine dair bazı işaretler var.
+
+55
+00:03:22,740 --> 00:03:24,959
+ama henüz buna yakın değiliz.
+
+56
+00:03:24,960 --> 00:03:29,719
+Bu büyümenin bir sonucu olarak, CO2 emisyonları artacaktır.
+
+57
+00:03:29,720 --> 00:03:31,219
+TAMAM. Şimdiye kadar öğrendik ki
+
+58
+00:03:31,220 --> 00:03:33,699
+nüfus ve ekonomik büyüme nedeniyle
+
+59
+00:03:33,700 --> 00:03:37,279
+insanlığın CO2 emisyonları artacak -
+
+60
+00:03:37,280 --> 00:03:39,799
+olması gerekenin tam tersi.
+
+61
+00:03:39,800 --> 00:03:45,059
+Yavaşlamamız, zirveye çıkmamız ve ardından yıllık emisyonları azaltmamız gerekiyor.
+
+62
+00:03:45,060 --> 00:03:49,699
+Sonraki iki faktör, bunu gerçekten nasıl yapabileceğimizi açıklar:
+
+63
+00:03:49,700 --> 00:03:53,019
+Üç numara: Enerji yoğunluğu.
+
+64
+00:03:53,020 --> 00:03:57,059
+Enerji yoğunluğu, enerjiyi ne kadar verimli kullandığımızı tanımlar.
+
+65
+00:03:57,060 --> 00:04:00,939
+Brezilya'nın kırsalında bir sokak barbeküsü, kavurma için kömür yakabilir,
+
+66
+00:04:00,940 --> 00:04:06,339
+Fransa'daki bir sokak satıcısı ise nükleer enerjiyle dolu bir indüksiyon ocağı kullanabilir.
+
+67
+00:04:06,340 --> 00:04:09,019
+İkincisi çok daha verimlidir ¯\_(ツ)_/¯
+
+68
+00:04:09,020 --> 00:04:13,599
+Öğe ne kadar verimli olursa, bir şeyi başarmak için o kadar az enerji gerekir -
+
+69
+00:04:13,600 --> 00:04:17,919
+ister bir metropol alanı tedarik ediyor, ister kebap ızgarası.
+
+70
+00:04:17,920 --> 00:04:23,459
+Böylece teknolojimizi verimli hale getirmek ve toplumlarımızı organize etmek için daha verimli yollar bulmak
+
+71
+00:04:23,460 --> 00:04:29,079
+modern dünyanın CO2 bağımlılığını azaltmanın en önemli yollarından biridir.
+
+72
+00:04:29,080 --> 00:04:32,759
+Bunun, yapay zeka ile enerji tüketimini azaltmaktan, birkaç anlamı olabilir.
+
+73
+00:04:32,760 --> 00:04:36,059
+ulaşım ve sanayi sektörlerinin elektrifikasyonu,
+
+74
+00:04:36,060 --> 00:04:38,999
+veya sürdürülebilir beton üretimi.
+
+75
+00:04:39,000 --> 00:04:42,119
+İyileştirme fırsatları neredeyse sınırsızdır,
+
+76
+00:04:42,120 --> 00:04:45,899
+ve insan dehası vahşi koşabilir.
+
+77
+00:04:45,900 --> 00:04:49,899
+Ancak verimliliği artırmanın tek başına yeterli olmayacağını biliyoruz,
+
+78
+00:04:49,900 --> 00:04:52,579
+çoğunlukla üç nedenden dolayı:
+
+79
+00:04:52,580 --> 00:04:55,699
+1/3 - Doğrudan Yankı Etkileri.
+
+80
+00:04:55,700 --> 00:04:58,259
+Bu, bir şey daha verimli hale gelir gelmez,
+
+81
+00:04:58,260 --> 00:05:00,659
+bu "bir şey" daha çok kullanılır, genel olarak,
+
+82
+00:05:00,660 --> 00:05:06,219
+daha yüksek verimlilik, düşünüldüğü kadar anlamlı bir azalma sağlamaz.
+
+83
+00:05:06,220 --> 00:05:13,119
+Ya da daha kötüsü: bazen daha fazla verimlilik, insanların bu kaynağı daha az kullanmasını değil, daha fazlasını kullanmasını sağlar.
+
+84
+00:05:13,120 --> 00:05:16,779
+Uçaklar daha yakıt verimli hale geldikçe, bilet fiyatları düştü.
+
+85
+00:05:16,780 --> 00:05:19,879
+ve daha fazla insan uçakla seyahat etmeye başladı.
+
+86
+00:05:19,880 --> 00:05:25,879
+Dolayısıyla işleri daha verimli hale getirmek, otomatik olarak toplamda daha az enerji harcaması anlamına gelmez.
+
+87
+00:05:25,880 --> 00:05:28,839
+Hatta tam tersi etki de yapabilir.
+
+88
+00:05:28,840 --> 00:05:32,239
+2/3 - Dolaylı Yankı Etkileri.
+
+89
+00:05:32,240 --> 00:05:37,099
+Bazen verimli bir şey kullanarak tasarruf ettiğinizde, onu başka bir şeye harcayabilirsiniz.
+
+90
+00:05:37,100 --> 00:05:39,959
+Örneğin, yakıt tasarruflu bir araba satın alırsanız,
+
+91
+00:05:39,960 --> 00:05:44,059
+yakıt maliyetlerinden tasarruf edersiniz ve banka hesabınızda daha fazla tasarruf sağlarsınız,
+
+92
+00:05:44,060 --> 00:05:47,519
+uçakla bir tatil gezisinde geçirebileceğiniz
+
+93
+00:05:47,520 --> 00:05:51,099
+Sonuç olarak, daha fazla CO2 salabilirsiniz,
+
+94
+00:05:51,100 --> 00:05:54,399
+hatta daha verimli bir arabaya sahip olmak.
+
+95
+00:05:54,400 --> 00:05:55,479
+3/3 - Daha Düşük Yatırım Getirisi
+
+96
+00:05:55,480 --> 00:05:56,579
+En sonunda,
+
+97
+00:05:56,580 --> 00:05:58,579
+Verimliliğe ne kadar çok yatırım yaparsanız,
+
+98
+00:05:58,580 --> 00:06:02,559
+daha verimli hale gelmek daha zor ve daha pahalı hale gelir.
+
+99
+00:06:02,560 --> 00:06:06,039
+Böylece, zamanla, yatırım getirisi düşer -
+
+100
+00:06:06,040 --> 00:06:10,599
+ve birçok teknolojiyle zaten çok verimliyiz.
+
+101
+00:06:10,600 --> 00:06:13,579
+Ama tasarruflarımızı ne kadar verimli yaparsak yapalım,
+
+102
+00:06:13,580 --> 00:06:18,279
+biraz enerjiye ihtiyacımız varken, emisyonlarımız olacak.
+
+103
+00:06:18,280 --> 00:06:22,879
+Verimlilik tek başına karbonsuz bir dünya yaratmaz.
+
+104
+00:06:22,880 --> 00:06:26,299
+Bu bizi son faktörümüze getiriyor:
+
+105
+00:06:26,300 --> 00:06:33,379
+Dördüncüsü: Tüketilen enerji birimi başına CO2 emisyonları veya küresel karbon ayak izimiz.
+
+106
+00:06:33,380 --> 00:06:35,699
+İnsanlığın küresel karbon ayak izi
+
+107
+00:06:35,700 --> 00:06:39,259
+üretilen enerji birimi başına salınan CO2 miktarıdır.
+
+108
+00:06:39,260 --> 00:06:44,779
+Örneğin, kömür santralleri birim enerji başına güneş enerjisinden çok, çok daha fazla CO2 salmaktadır.
+
+109
+00:06:44,780 --> 00:06:47,039
+Bu ilişki çok nettir;
+
+110
+00:06:47,040 --> 00:06:51,719
+Ne kadar çok fosil yakıt yakarsak, CO2 miktarımız o kadar fazla olur.
+
+111
+00:06:51,720 --> 00:06:55,659
+Fosil yakıtlar, şu anda insanlığın sahip olduğu en büyük kaldıraçtır.
+
+112
+00:06:55,660 --> 00:06:59,359
+Kömür ve petrolü bir gecede kapatmak elbette mümkün değil,
+
+113
+00:06:59,360 --> 00:07:02,219
+insanlığı kaosa sürüklemeden.
+
+114
+00:07:02,220 --> 00:07:06,699
+Ama gerçek şu ki, yaptığımız şey fosil yakıtları yerin altında tutacak kadar yakına gelmiyor.
+
+115
+00:07:06,700 --> 00:07:09,319
+ve düşük CO2 alternatifleri kullanın.
+
+116
+00:07:09,320 --> 00:07:14,939
+Fosil yakıtlardan bu geçiş için iki şey yapmamız gerekiyor.
+
+117
+00:07:14,940 --> 00:07:20,219
+Öncelikle bugün sahip olduğumuz kaldıraçları günümüz teknolojisiyle kullanmamız gerekiyor.
+
+118
+00:07:20,220 --> 00:07:23,439
+Çok hızlı yapabileceğimiz birçok şey var:
+
+119
+00:07:23,440 --> 00:07:26,819
+nükleer santralleri daha uzun süre çevrimiçi tutabiliriz;
+
+120
+00:07:26,820 --> 00:07:32,039
+fosil yakıt endüstrisinden sübvansiyonları kesebilir ve yenilenebilir enerjileri hedefleyebiliriz;
+
+121
+00:07:32,040 --> 00:07:36,099
+CO2 emisyonları için daha fazla ücret talep edebilir ve fiyatı her yıl yükseltebiliriz,
+
+122
+00:07:36,100 --> 00:07:40,559
+dünya endüstrilerini geçiş yapmaya teşvik etmek;
+
+123
+00:07:40,560 --> 00:07:46,339
+enerji verimliliği ve her türlü yeni inşaat için katı standartları uygulayabiliriz;
+
+124
+00:07:46,340 --> 00:07:49,659
+araçları alkole/benzine bırakabiliriz.
+
+125
+00:07:49,660 --> 00:07:54,319
+O zaman yeni ve daha iyi teknolojiler de icat etmemiz gerekiyor.
+
+126
+00:07:54,320 --> 00:08:00,119
+Yeni teknolojiler ve inovasyon olmadan karbonsuz bir dünya elde etmek imkansız olurdu.
+
+127
+00:08:00,120 --> 00:08:05,099
+ister karbon yakalama gibi teknolojilerle, ister yeni nesil nükleer santrallerle,
+
+128
+00:08:05,100 --> 00:08:09,679
+yenilenebilir enerji depolamada devrim yaratacak pillere.
+
+129
+00:08:09,680 --> 00:08:13,999
+Ancak yenilik zaman alır; yıllar ve on yıllar.
+
+130
+00:08:14,000 --> 00:08:16,639
+Ve o zamanımız yok.
+
+131
+00:08:16,640 --> 00:08:19,819
+Her yıl atmosfere daha fazla karbon eklemeye devam ediyoruz.
+
+132
+00:08:19,820 --> 00:08:23,559
+Bu, yalnızca inovasyona güvenmeye devam edemeyeceğimiz anlamına gelir.
+
+133
+00:08:23,560 --> 00:08:26,539
+Şimdi emisyonları azaltmanın yollarını bulmalıyız,
+
+134
+00:08:26,540 --> 00:08:29,599
+gelecekte ihtiyaç duyacağımız şeyleri icat ederken.
+
+135
+00:08:29,600 --> 00:08:32,399
+Önümüzdeki birkaç yıl içinde ne kadar az fosil yakıt yakarsak,
+
+136
+00:08:32,400 --> 00:08:35,619
+Bize yetişmek için yeniliklere daha fazla zaman ayıracağız.
+
+137
+00:08:35,620 --> 00:08:38,719
+Bugün inşa ettiğimiz daha düşük karbonlu enerji altyapısı,
+
+138
+00:08:38,720 --> 00:08:44,158
+ekonomik büyümeyi ve bugün doğan insanları o kadar çok telafi edebiliriz.
+
+139
+00:08:44,159 --> 00:08:47,539
+İnşaat halindeki daha çok kömür santralinin tamamlanmasını önledikçe,
+
+140
+00:08:47,540 --> 00:08:50,499
+daha fazla CO2 "tasarruf ediyoruz".
+
+141
+00:08:50,500 --> 00:08:56,419
+Ne inovasyon ne de bugün kullandığımız alternatifler tek başına hızlı iklim değişikliğini çözemez.
+
+142
+00:08:56,420 --> 00:09:01,659
+Ancak inovasyon, bugün fosil yakıtlardan mümkün olduğunca kararlı bir şekilde uzaklaşmayla birleştiğinde,
+
+143
+00:09:01,660 --> 00:09:03,199
+yapabilir.
+
+144
+00:09:03,200 --> 00:09:06,579
+İklim değişikliğini çözmek zor olacak.
+
+145
+00:09:06,580 --> 00:09:11,439
+Milyarlarca insanın ihtiyaçlarını ve şu anda şu gerçeği göz önünde bulundurmalıyız:
+
+146
+00:09:11,440 --> 00:09:15,079
+toplum esas olarak fosil yakıtlarla çalışır.
+
+147
+00:09:15,080 --> 00:09:20,259
+Bu bir gecede değişmeyecek, ancak mümkün olan en kısa sürede değişmesi gerekiyor.
+
+148
+00:09:20,260 --> 00:09:25,159
+Ve hala kesinlikle mümkün.
+
+149
+00:09:25,160 --> 00:09:29,759
+Diğer videolarda iklim değişikliğinin farklı yönlerine ve bununla nasıl başa çıkılacağına bakacağız.
+
+150
+00:09:29,760 --> 00:09:33,239
+Bize ne tür bir şey hakkında daha fazla bilgi edinmek istediğinizi söyleyin -
+
+151
+00:09:33,240 --> 00:09:36,819
+burada Youtube'da veya subreddit'imizde bize katılın.
+
+152
+00:09:36,820 --> 00:09:40,999
+Bu video, Breakthrough Energy tarafından desteklenen iklim değişikliğiyle ilgili bir dizinin parçasıdır -
+
+153
+00:09:41,000 --> 00:09:45,379
+temiz enerji yatırımlarını genişletmek için çalışan Bill Gates tarafından kurulan bir koalisyon
+
+154
+00:09:45,380 --> 00:09:49,879
+ve dünyayı sıfıra yakın karbon emisyonuna taşıyacak yenilikleri desteklemek.
+
+155
+00:09:49,880 --> 00:09:56,059
+Ayrıca veri ve araştırma konusunda bize yardımcı olan Our World in Data ekibine özellikle teşekkür ederiz.
+
+156
+00:09:56,060 --> 00:09:58,059
+*kapanış teması*
+
+157
+00:09:58,060 --> 00:10:05,540
+~ Altyazılar: Portekizce (Brezilya) - StipulateVenus tarafından ~
+

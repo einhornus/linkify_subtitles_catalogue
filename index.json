@@ -46,6 +46,43 @@
   "language": "es",
   "link": "https://www.youtube.com/watch?v=X8Q4vPKDMpk"
  },
+ "Kurzgesagt\\...And We'll Do it Again": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=XFqn3uy238E"
+ },
  "Kurzgesagt\\Are There Lost Alien Civilizations in Our Past": {
   "srt": [
    "ar_gt.srt",
@@ -63,7 +100,6 @@
    "nl_gt.srt",
    "pl_gt.srt",
    "pt_gt.srt",
-   "ru_dl.srt",
    "ru_gt.srt",
    "th_gt.srt",
    "th_hm.srt",
@@ -132,6 +168,133 @@
   ],
   "link": "https://www.youtube.com/watch?v=yiw6_JakZFc"
  },
+ "Kurzgesagt\\Can You Upload Your Mind and Live Forever": {
+  "srt": [
+   "de_hm.srt",
+   "es_hm.srt",
+   "fr_hm.srt",
+   "it_hm.srt",
+   "ja_hm.srt",
+   "ko_hm.srt",
+   "pl_hm.srt",
+   "pt_hm.srt",
+   "ru_hm.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=4b33NTAuF5E"
+ },
+ "Kurzgesagt\\Could Solar Storms Destroy Civilization Solar Flares and Coronal Mass Ejections": {
+  "srt": [
+   "ar_hm.srt",
+   "de_hm.srt",
+   "es_hm.srt",
+   "fr_hm.srt",
+   "it_hm.srt",
+   "ja_hm.srt",
+   "ko_hm.srt",
+   "nl_hm.srt",
+   "pl_hm.srt",
+   "pt_hm.srt",
+   "ru_hm.srt",
+   "th_hm.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=oHHSSJDJ4oo"
+ },
+ "Kurzgesagt\\Do we Need Nuclear Energy to Stop Climate Change": {
+  "srt": [
+   "it_hm.srt",
+   "ja_hm.srt",
+   "ko_hm.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=EhAemz1v7dQ"
+ },
+ "Kurzgesagt\\Geoengineering  A Horrible Idea We Might Have to Do": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=dSu5sXmsur4"
+ },
+ "Kurzgesagt\\How Large Can a Bacteria get Life and Size 3": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_gt.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=E1KkQrFEl2I"
+ },
  "Kurzgesagt\\How the immune system actually works": {
   "srt": [
    "ar_gt.srt",
@@ -165,6 +328,10 @@
    "zh_hm.srt"
   ],
   "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
    "en_ru.lsubs",
    "en_rw.lsubs"
   ],
@@ -179,11 +346,11 @@
   "srt": [
    "ar_gt.srt",
    "de_gt.srt",
-   "en_gn.srt",
    "en_gt.srt",
    "en_hm.srt",
    "es_gt.srt",
    "fr_gt.srt",
+   "fr_hm.srt",
    "it_gt.srt",
    "ja_gt.srt",
    "ja_hm.srt",
@@ -199,10 +366,13 @@
    "th_hm.srt",
    "tr_gt.srt",
    "tr_hm.srt",
-   "zh_gt.srt",
    "zh_hm.srt"
   ],
   "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
    "en_ru.lsubs",
    "en_rw.lsubs"
   ],
@@ -212,6 +382,37 @@
    "Kurzgesagt"
   ],
   "link": "https://www.youtube.com/watch?v=G-WO-z-QuWI"
+ },
+ "Kurzgesagt\\Is It Too Late To Stop Climate Change Well, it's Complicated": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_gt.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=wbR-5mHI6bo"
  },
  "Kurzgesagt\\Is Meat Really that Bad": {
   "srt": [
@@ -253,6 +454,92 @@
   ],
   "link": "https://www.youtube.com/watch?v=F1Hq8eVOMHs"
  },
+ "Kurzgesagt\\Military Kingdoms of Feykar Ants": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=B3QTAgHlwEg"
+ },
+ "Kurzgesagt\\The 12,021 Human Era Calendar": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=xxFqPNPJuU8"
+ },
  "Kurzgesagt\\The day the dinosaurs died": {
   "srt": [
    "ar_gt.srt",
@@ -282,6 +569,10 @@
    "zh_gt.srt"
   ],
   "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
    "en_ru.lsubs",
    "en_rw.lsubs"
   ],
@@ -322,6 +613,10 @@
    "zh_hm.srt"
   ],
   "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
    "en_ru.lsubs",
    "en_rw.lsubs"
   ],
@@ -333,6 +628,123 @@
    "Kurzgesagt"
   ],
   "link": "https://www.youtube.com/watch?v=0FH9cgRhQ-k"
+ },
+ "Kurzgesagt\\The Largest Star in the Universe – Size Comparison": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=3mnSDifDSxQ"
+ },
+ "Kurzgesagt\\The Limited Edition Dinosaur Calendar – Now And Then Never Again": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=Nv4Nk4AAgk8"
+ },
+ "Kurzgesagt\\The Most Horrible Parasite  Brain Eating Amoeba": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=7OPg-ksxZ4Y"
  },
  "Kurzgesagt\\This virus should not exist": {
   "srt": [
@@ -362,6 +774,10 @@
    "zh_gt.srt"
   ],
   "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
    "en_ru.lsubs",
    "en_rw.lsubs"
   ],
@@ -371,6 +787,135 @@
    "Kurzgesagt"
   ],
   "link": "https://www.youtube.com/watch?v=1-NxodiGPCU"
+ },
+ "Kurzgesagt\\TRUE Limits Of Humanity – The Final Border We Will Never Cross": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=uzkD5SeuwzM"
+ },
+ "Kurzgesagt\\Two Chapters From Our New Book – Exclusive Preview!": {
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=0FRVx_c9T0c"
+ },
+ "Kurzgesagt\\Unlimited Resources From Space – Asteroid Mining": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=y8XvQNt26KI"
+ },
+ "Kurzgesagt\\We WILL Fix Climate Change!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=LxgMdjyw8uw"
  },
  "Kurzgesagt\\What are you doing with your life": {
   "srt": [
@@ -400,6 +945,10 @@
    "zh_hm.srt"
   ],
   "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
    "en_ru.lsubs",
    "en_rw.lsubs"
   ],
@@ -452,6 +1001,51 @@
   ],
   "link": "https://www.youtube.com/watch?v=xaQJbozY_Is"
  },
+ "Kurzgesagt\\What Do Alien Civilizations Look Like The Kardashev Scale": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=rhFK5_Nx9xY"
+ },
  "Kurzgesagt\\What Happens if the Moon Crashes into Earth": {
   "srt": [
    "ar_gt.srt",
@@ -495,6 +1089,276 @@
    "Kurzgesagt"
   ],
   "link": "https://www.youtube.com/watch?v=lheapd7bgLA"
+ },
+ "Kurzgesagt\\What If Earth got Kicked Out of the Solar System Rogue Earth": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=gLZJlf5rHVs"
+ },
+ "Kurzgesagt\\What if the World turned to Gold - The Gold Apocalypse": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=VB_GWz25B3Q"
+ },
+ "Kurzgesagt\\What if We Nuke the Moon": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=qEfPBt9dU60"
+ },
+ "Kurzgesagt\\What If You Fall into a Black Hole": {
+  "lsubs": [
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_rw.lsubs"
+  ],
+  "srt": [
+   "en_hm.srt",
+   "es_hm.srt",
+   "fr_hm.srt",
+   "ja_hm.srt",
+   "ko_hm.srt",
+   "nl_hm.srt",
+   "pt_hm.srt",
+   "th_hm.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=QqsLTNkzvaY"
+ },
+ "Kurzgesagt\\What Is Intelligence Where Does it Begin": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=ck4RGeoHFko"
+ },
+ "Kurzgesagt\\When Time Became History - The Human Era": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=CWu29PRCUvQ"
+ },
+ "Kurzgesagt\\Who Is Responsible For Climate Change – Who Needs To Fix It": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=ipVxxxqwBQw"
  },
  "Kurzgesagt\\Why we should not look for aliens": {
   "srt": [
@@ -542,6 +1406,47 @@
   ],
   "link": "https://www.youtube.com/watch?v=xAUJYP8tnRE"
  },
+ "Kurzgesagt\\Worst Nuclear Accidents in History": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=Jzfpyo-q-RM"
+ },
  "Kurzgesagt\\You Are Immune Against Every Disease": {
   "srt": [
    "ar_gt.srt",
@@ -581,6 +1486,42 @@
    "Biology"
   ],
   "link": "https://www.youtube.com/watch?v=LmpuerlbJu0"
+ },
+ "Kurzgesagt\\You Are Not Where You Think You Are": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Kurzgesagt"
+  ],
+  "link": "https://www.youtube.com/watch?v=Pj-h6MEgE7I"
  },
  "Recep": {
   "srt": [
