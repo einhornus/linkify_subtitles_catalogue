@@ -1,0 +1,476 @@
+1
+00:00:01,380 --> 00:00:04,979
+Podstawową walutą w naszym wszechświecie jest energia.
+
+2
+00:00:04,980 --> 00:00:09,739
+Oświetla nasze domy, pozwala nam uprawiać jedzenie oraz zasila nasze komputery.
+
+3
+00:00:09,740 --> 00:00:11,199
+Możemy ją otrzymać na wiele sposobów - spalając paliwa kopalne
+
+4
+00:00:11,200 --> 00:00:12,919
+Możemy ją otrzymać na wiele sposobów - spalając paliwa kopalne
+
+5
+00:00:12,920 --> 00:00:14,219
+rozszczepiając atomy lub dzięki promieniom słonecznym uderzającym w ogniwa fotowoltaiczne.
+
+6
+00:00:14,220 --> 00:00:17,299
+rozszczepiając atomy lub dzięki promieniom słonecznym uderzającym w ogniwa fotowoltaiczne.
+
+7
+00:00:17,300 --> 00:00:19,899
+Każda z tych metod ma swoje minusy
+
+8
+00:00:19,900 --> 00:00:22,279
+paliwa kopalne są bardzo toksyczne
+
+9
+00:00:22,280 --> 00:00:25,139
+odpady nuklearne to ... cóż.... odpady nuklearne
+
+10
+00:00:25,140 --> 00:00:29,499
+oraz nie istnieje wystarczająco dużo baterii zdolnych zmagazynować energię słoneczną na pochmurne dni.
+
+11
+00:00:29,500 --> 00:00:34,279
+A jednak Słońce wydaje się mieć niewyczerpane zapasy ilości darmowej energii.
+
+12
+00:00:34,280 --> 00:00:37,279
+Czy jest to możliwe, abyśmy zbudowali Słońce na Ziemi?
+
+13
+00:00:37,280 --> 00:00:49,079
+Czy można zamknąć gwiazdę w butelce?
+
+14
+00:00:49,080 --> 00:00:52,019
+Słońce świeci dzięki fuzji termojądrowej.
+
+15
+00:00:52,020 --> 00:00:57,679
+W pigułce - fuzja jest termonuklearnym procesem, co oznacza, że składniki reakcji muszą być niewiarygodnie gorące,
+
+16
+00:00:57,680 --> 00:01:05,939
+tak gorące, że elektrony oddzielają się od swoich atomów tworząc plazmę, gdzie nukleony i elektrony poruszają się swobodnie.
+
+17
+00:01:05,940 --> 00:01:10,159
+Jądra atomów odpychają się wzajemnie, ponieważ wszystkie naładowane są dodatnio
+
+18
+00:01:10,160 --> 00:01:14,999
+aby być w stanie przeciwstawić się tej sile - cząstki elementarne muszą poruszać się z olbrzymimi prędkościami,
+
+19
+00:01:15,000 --> 00:01:18,499
+w w tym kontekście: bardzo szybkie znaczy też bardzo gorące
+
+20
+00:01:18,500 --> 00:01:20,919
+miliony stopni.
+
+21
+00:01:20,920 --> 00:01:23,299
+Gwiazdy trochę oszukują aby osiągnąć takie temperatury,
+
+22
+00:01:23,300 --> 00:01:28,639
+są tak olbrzymie, że ciśnienie w ich jądrze generuje ciepło, które powala zbliżyć się jądrom atomowym
+
+23
+00:01:28,640 --> 00:01:35,179
+na tyle, że zaczynają łączyć się w cięższe jądra atomowe i wydzielać energię.
+
+24
+00:01:35,180 --> 00:01:41,019
+To właśnie tą energie naukowcy starają się okiełznać w nowej generacji elektrowni:
+
+25
+00:01:41,020 --> 00:01:42,859
+reaktorze fuzyjnym.
+
+26
+00:01:42,860 --> 00:01:47,919
+Na Ziemi ta toporna metoda byłaby niemożliwa do wykonania,
+
+27
+00:01:47,920 --> 00:01:53,559
+wiec wybudowanie reaktora wymaga od nas sprytu.
+
+28
+00:01:53,560 --> 00:01:58,959
+Na chwilę obecną, naukowcy znają dwie metody wytwarzania plazmy na tyle gorącej aby zachodziła w niej fuzja
+
+29
+00:01:58,960 --> 00:02:01,399
+Pierwsza rodzaj reaktora wykorzystuje pole magnetyczne
+
+30
+00:02:01,400 --> 00:02:06,479
+aby ścisnąć plazmę w komorze o kształcie torusa (donuta), gdzie dochodzi do reakcji.
+
+31
+00:02:06,480 --> 00:02:11,459
+Ten typ reaktora, wiążący plazmę w pułapce magnetycznej jak np. ITER we Francji,
+
+32
+00:02:11,460 --> 00:02:14,879
+używa nadprzewodzących elektromagnesów chłodzonych ciekłym helem
+
+33
+00:02:14,880 --> 00:02:17,559
+do temperatury kilku stopni powyżej zera absolutnego.
+
+34
+00:02:17,560 --> 00:02:21,939
+Oznacza to, że występuje tam największa różnica w temperaturach w znanym nam wszechświecie.
+
+35
+00:02:21,940 --> 00:02:24,839
+Drugi typ, nazywany pułapką bezwładnościową
+
+36
+00:02:24,840 --> 00:02:27,059
+używa impulsów generowanych przez potężne lasery
+
+37
+00:02:27,060 --> 00:02:29,039
+aby nagrzać powierzchnię kulki paliwa
+
+38
+00:02:29,040 --> 00:02:30,259
+doprowadzając do implozji
+
+39
+00:02:30,260 --> 00:02:33,519
+co na chwilę sprawia, że paliwo jest wystarczająco gorące i gęste aby zaszła fuzja.
+
+40
+00:02:33,520 --> 00:02:34,259
+Tak właściwie,
+
+41
+00:02:34,260 --> 00:02:36,439
+jeden z najpotężniejszych laserów na świecie
+
+42
+00:02:36,440 --> 00:02:38,539
+jest używany do eksperymentów z fuzją
+
+43
+00:02:38,540 --> 00:02:41,839
+w Narodowym Zakładzie Zapłonu w USA.
+
+44
+00:02:41,840 --> 00:02:44,639
+Te eksperymenty i im podobne z całego świata
+
+45
+00:02:44,640 --> 00:02:46,839
+na dzień dzisiejszy pozostają tylko eksperymentami.
+
+46
+00:02:46,840 --> 00:02:50,659
+Naukowcy nadal pracują nad tą technologią.
+
+47
+00:02:50,660 --> 00:02:52,579
+I choć potrafią doprowadzić do fuzji,
+
+48
+00:02:52,580 --> 00:02:56,019
+energia użyta do przeprowadzenia eksperymentu
+
+49
+00:02:56,020 --> 00:02:58,299
+jest większa niż wygenerowana z reakcji.
+
+50
+00:02:58,300 --> 00:03:00,279
+Tą technologie czeka jeszcze daleka droga
+
+51
+00:03:00,280 --> 00:03:02,319
+zanim stanie się dostępna komercyjnie,
+
+52
+00:03:02,320 --> 00:03:04,479
+jest też szansa na to, że nie stanie się nigdy
+
+53
+00:03:04,480 --> 00:03:09,199
+Być może nie da się stworzyć wydajnego reaktora fuzyjnego
+
+54
+00:03:09,200 --> 00:03:12,099
+ale - jeśli się to uda, proces będzie tak wydajny,
+
+55
+00:03:12,100 --> 00:03:14,219
+że jedna szklanka wody morskiej
+
+56
+00:03:14,220 --> 00:03:17,779
+dostarczyłaby tyle energii, co spalenie całej beczki ropy
+
+57
+00:03:17,780 --> 00:03:20,399
+w dodatku - bez uwalniania żadnych zanieczyszczeń.
+
+58
+00:03:20,400 --> 00:03:24,179
+Dzieje się tak dlatego, że reaktor używa wodoru lub helu jako paliwa
+
+59
+00:03:24,180 --> 00:03:27,079
+a morska woda jest bogata w wodór.
+
+60
+00:03:27,080 --> 00:03:29,699
+Ale nie każdy rodzaj wodoru się do tego nadaje.
+
+61
+00:03:29,700 --> 00:03:37,039
+Potrzebujemy konkretnych izotopów, z dodatkowymi neutronami. Są to deuter i tryt.
+
+62
+00:03:37,040 --> 00:03:40,039
+Deuter jest stabilny. Możemy go znaleźć w wielkiej ilości w wodzie morskie,
+
+63
+00:03:40,040 --> 00:03:43,459
+ale tryt to inna para kaloszy.
+
+64
+00:03:43,460 --> 00:03:45,459
+Jest radioaktywny, a na Ziemii znajduje się
+
+65
+00:03:45,460 --> 00:03:49,139
+około 12 kilogramów trytu. Głównie w głowicach nuklearnych
+
+66
+00:03:49,140 --> 00:03:51,819
+co sprawia, że jest niesamicie drogi.
+
+67
+00:03:51,820 --> 00:03:56,379
+Potrzebujemy więc innego pierwiastka do fuzji z deuterem, zamiast trytu.
+
+68
+00:03:56,380 --> 00:04:00,319
+Hel-3, izotop helu, może być dobrym zamiennikiem.
+
+69
+00:04:00,320 --> 00:04:01,999
+Niestety,
+
+70
+00:04:02,000 --> 00:04:04,559
+hel-3 też rzadko występuje na Ziemii.
+
+71
+00:04:04,560 --> 00:04:08,559
+Ale odpowiedź na ten problem, może uda znaleźć się na księżycu.
+
+72
+00:04:08,560 --> 00:04:10,219
+Przez miliony lat,
+
+73
+00:04:10,220 --> 00:04:12,219
+wiatr słoneczny naniósł duże ilości
+
+74
+00:04:12,220 --> 00:04:15,039
+helu-3 na księżycu.
+
+75
+00:04:15,040 --> 00:04:17,039
+Zamiast tworzyć hel-3,
+
+76
+00:04:17,040 --> 00:04:18,898
+możemy go wydobywać.
+
+77
+00:04:18,899 --> 00:04:21,398
+Jeśli uda nam się przeczesać pył księżycowy w poszukiwaniu helu-3
+
+78
+00:04:21,399 --> 00:04:25,399
+mielibyśmy ilość paliwa, wystarczającą na tysiące lat
+
+79
+00:04:25,400 --> 00:04:26,659
+To jeszcze jeden argument
+
+80
+00:04:26,660 --> 00:04:27,999
+by umieścić na księżycu bazę.
+
+81
+00:04:28,000 --> 00:04:30,679
+Jeśli do tej pory, nie byliście do tego przekonani.
+
+82
+00:04:30,680 --> 00:04:33,779
+Dobra, więc może zbudowanie mini-słońca
+
+83
+00:04:33,780 --> 00:04:37,419
+brzmi wciąż niebezpiecznie.
+
+84
+00:04:37,420 --> 00:04:42,519
+Ale byłoby ono dużo bezpieczniejsze, niż większość typów elektrowni
+
+85
+00:04:42,520 --> 00:04:44,919
+Reaktor fuzyjny to nie elektrownia atomowa.
+
+86
+00:04:44,920 --> 00:04:46,979
+która, z katastrofalnym skutkiem, może wybuchnąć.
+
+87
+00:04:46,980 --> 00:04:49,139
+Jeśli pojemnik by się rozszczelnił,
+
+88
+00:04:49,140 --> 00:04:53,499
+plazma rozszerzyłaby się i ochłodziła, a cała reakcja by się zatrzymała
+
+89
+00:04:53,500 --> 00:04:57,279
+Mówiąc krótko - fuzja to nie bomba.
+
+90
+00:04:57,280 --> 00:04:59,859
+Wydzielanie radioaktywnego paliwa, np. trytu
+
+91
+00:04:59,860 --> 00:05:02,099
+może być zagrożeniem dla środowiska.
+
+92
+00:05:02,100 --> 00:05:05,499
+Tryt mógłby połączyć się z tlenem, tworząc radioaktywną wodę,
+
+93
+00:05:05,500 --> 00:05:09,059
+która może być niebezpieczna, jeśli przeniknie do środowiska.
+
+94
+00:05:09,060 --> 00:05:13,559
+Na szczęście, w danym momencie w użyciu nie ma więcej niż kilku gramów trytu,
+
+95
+00:05:13,560 --> 00:05:16,519
+więc wyciek szybko by się rozcieńczył
+
+96
+00:05:16,520 --> 00:05:17,799
+Powiedzieliśmy więc, że
+
+97
+00:05:17,800 --> 00:05:19,799
+jest to źródło nieograniczonej energii,
+
+98
+00:05:19,800 --> 00:05:21,699
+nieszkodliwe dla środowiska,
+
+99
+00:05:21,700 --> 00:05:23,559
+w czymś tak powszechnym jak woda.
+
+100
+00:05:23,560 --> 00:05:26,099
+Gdzie tkwi haczyk?
+
+101
+00:05:26,100 --> 00:05:27,179
+W kosztach.
+
+102
+00:05:27,180 --> 00:05:31,239
+Nie jesteśmy pewni, czy fuzja będzie kiedykolwiek opłacalna
+
+103
+00:05:31,240 --> 00:05:32,639
+Nawet jeśli będzie działać,
+
+104
+00:05:32,640 --> 00:05:35,259
+może być zbyt droga by ją zbudować.
+
+105
+00:05:35,260 --> 00:05:36,339
+Największą jednak wadą,
+
+106
+00:05:36,340 --> 00:05:38,439
+jest to, że ta technologia jest niesprawdzona.
+
+107
+00:05:38,440 --> 00:05:40,539
+To zakład o 10 miliardów dolarów.
+
+108
+00:05:40,540 --> 00:05:42,539
+A te środki, mogą być lepiej wykorzystane na innych
+
+109
+00:05:42,540 --> 00:05:43,919
+na inne źródła energii odnawialnej,
+
+110
+00:05:43,920 --> 00:05:46,539
+które już działają.
+
+111
+00:05:46,540 --> 00:05:48,759
+Może powinniśmy ograniczyć straty.
+
+112
+00:05:48,760 --> 00:05:49,979
+A może,
+
+113
+00:05:49,980 --> 00:05:53,439
+jeśli korzyści z nieszkodliwej energii dla wszystkich są nieograniczone,
+
+114
+00:05:53,440 --> 00:05:56,639
+warto zaryzykować?
+
+115
+00:05:56,640 --> 00:05:59,199
+Proces tworzenia naszych filmików zajmuje setki godzin,
+
+116
+00:05:59,200 --> 00:06:02,699
+a jest możliwy dzięki waszemu wsparciu na stronie patreon.com.
+
+117
+00:06:02,700 --> 00:06:04,519
+Jeśli chcesz dowiedzieć się więcej o światowej energetyce,
+
+118
+00:06:04,520 --> 00:06:08,039
+zobacz tą playlistę o energii nuklearnej, hydroszczeliniowaniu i o energii słonecznej.
+
+119
+00:06:08,040 --> 00:06:11,320
+Napiszcie w komentarzach, jeśli są inne zagadnienia, które chcecie abyśmy wytłumaczyli.
+

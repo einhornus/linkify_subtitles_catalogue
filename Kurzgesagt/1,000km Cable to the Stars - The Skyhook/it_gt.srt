@@ -1,0 +1,672 @@
+1
+00:00:01,100 --> 00:00:03,139
+Arrivare nello spazio è difficile.
+
+2
+00:00:03,140 --> 00:00:05,619
+In questo momento è come salire su una montagna
+
+3
+00:00:05,620 --> 00:00:09,019
+su un monociclo, con uno zaino pieno di esplosivo:
+
+4
+00:00:09,020 --> 00:00:11,899
+incredibilmente lento, non puoi trasportare molta roba
+
+5
+00:00:11,900 --> 00:00:13,679
+e potresti morire.
+
+6
+00:00:13,680 --> 00:00:18,099
+Un razzo deve raggiungere una velocità di circa 40.000 km/h
+
+7
+00:00:18,100 --> 00:00:19,699
+per fuggire dalla Terra.
+
+8
+00:00:19,700 --> 00:00:22,979
+Per arrivare a quella velocità, i razzi sono per lo più contenitori
+
+9
+00:00:22,980 --> 00:00:25,979
+di carburante con una piccola punta di carico utile.
+
+10
+00:00:25,980 --> 00:00:28,379
+Questo è un male se vuoi andare su altri pianeti
+
+11
+00:00:28,380 --> 00:00:32,019
+perché hai bisogno di molte cose pesanti se vuoi sopravvivere
+
+12
+00:00:32,020 --> 00:00:34,139
+e forse anche tornare.
+
+13
+00:00:34,140 --> 00:00:37,239
+Quindi c'è un modo per arrivare nello spazio con meno carburante
+
+14
+00:00:37,240 --> 00:00:39,999
+e più carico utile?
+
+15
+00:00:40,000 --> 00:00:48,739
+[Musica introduttiva]
+
+16
+00:00:48,740 --> 00:00:52,319
+Una cosa carina che ha risolto la maggior parte dei nostri problemi di trasporto sulla Terra
+
+17
+00:00:52,320 --> 00:00:54,459
+è quella che tu chiami infrastruttura.
+
+18
+00:00:54,460 --> 00:00:58,459
+Che si tratti di strade per auto, porti per navi o binari per treni,
+
+19
+00:00:58,460 --> 00:01:01,499
+abbiamo reso più facile raggiungere i luoghi.
+
+20
+00:01:01,500 --> 00:01:04,579
+Possiamo applicare la stessa soluzione ai viaggi nello spazio.
+
+21
+00:01:04,580 --> 00:01:07,379
+Le infrastrutture spaziali renderanno
+
+22
+00:01:07,380 --> 00:01:12,299
+più facile ed economico entrare in orbita e raggiungere la Luna, Marte e oltre.
+
+23
+00:01:12,300 --> 00:01:15,999
+Ottimo, ma cos'è esattamente l'infrastruttura spaziale?
+
+24
+00:01:16,000 --> 00:01:17,759
+A differenza di un ascensore terra-spazio,
+
+25
+00:01:17,760 --> 00:01:19,679
+che attualmente è fantascienza,
+
+26
+00:01:19,680 --> 00:01:22,699
+esiste una tecnologia semplice ma promettente
+
+27
+00:01:22,700 --> 00:01:25,999
+che non richiede nuova scienza, materiali magici
+
+28
+00:01:26,000 --> 00:01:27,559
+o ingenti investimenti,
+
+29
+00:01:27,560 --> 00:01:31,059
+e che è già stata testata con successo in orbita:
+
+30
+00:01:31,060 --> 00:01:32,919
+un cavo e un peso,
+
+31
+00:01:32,920 --> 00:01:34,639
+sapere come un vincolo.
+
+32
+00:01:34,640 --> 00:01:38,039
+Il concetto è così semplice, è sorprendente.
+
+33
+00:01:38,040 --> 00:01:39,559
+E se mettessimo legami
+
+34
+00:01:39,560 --> 00:01:42,679
+lunghi centinaia o migliaia di chilometri nello spazio
+
+35
+00:01:42,680 --> 00:01:44,799
+e se i veicoli spaziali li usassero come scale
+
+36
+00:01:44,800 --> 00:01:48,779
+per salire ad altitudini più elevate e guadagnare velocità?
+
+37
+00:01:48,780 --> 00:01:51,619
+Questo concetto è noto come Skyhook.
+
+38
+00:01:51,620 --> 00:01:54,179
+Funziona ancora meglio se lo facciamo girare.
+
+39
+00:01:54,180 --> 00:01:56,419
+Un contrappeso tiene fermo un lungo cavo
+
+40
+00:01:56,420 --> 00:01:58,299
+mentre ruota attorno a un cerchio.
+
+41
+00:01:58,300 --> 00:02:02,399
+Un cavo rotante rallenta la sua punta rispetto al suolo in basso
+
+42
+00:02:02,400 --> 00:02:05,419
+e lo accelera in alto come una catapulta.
+
+43
+00:02:05,420 --> 00:02:08,059
+Ciò significa che puoi trasferire energia dal cavo
+
+44
+00:02:08,060 --> 00:02:11,639
+e ottenere una spinta enorme quando viene rilasciato, più o meno gratuitamente,
+
+45
+00:02:11,640 --> 00:02:14,419
+pari al doppio della velocità di rotazione del cavo.
+
+46
+00:02:14,420 --> 00:02:17,659
+Esistono già fibre specializzate in grado di sopravvivere
+
+47
+00:02:17,660 --> 00:02:21,099
+alle straordinarie sollecitazioni che uno Skyhook dovrebbe affrontare.
+
+48
+00:02:21,100 --> 00:02:24,739
+Per proteggerci da tagli e collisioni da detriti e meteoriti,
+
+49
+00:02:24,740 --> 00:02:28,399
+possiamo infilare il nostro cavo in una rete di fibre ridondanti.
+
+50
+00:02:28,400 --> 00:02:32,099
+Poiché il nostro Skyhook passerebbe sullo stesso punto molte volte al giorno,
+
+51
+00:02:32,100 --> 00:02:35,639
+ciò consentirebbe a piccole navette riutilizzabili di raggiungerlo.
+
+52
+00:02:35,640 --> 00:02:38,139
+Certo, non è così facile.
+
+53
+00:02:38,140 --> 00:02:39,219
+Nel punto più basso,
+
+54
+00:02:39,220 --> 00:02:41,479
+la punta del cavo sfreccia nell'atmosfera
+
+55
+00:02:41,480 --> 00:02:43,779
+a circa 12.000 chilometri orari.
+
+56
+00:02:43,780 --> 00:02:47,179
+A causa dell'atmosfera terrestre non possiamo abbassare troppo lo Skyhook,
+
+57
+00:02:47,180 --> 00:02:49,719
+o diventerà troppo caldo per l'attrito dell'aria.
+
+58
+00:02:49,720 --> 00:02:53,179
+Quindi scenderà a un'altezza compresa tra 80 e 150 km
+
+59
+00:02:53,180 --> 00:02:54,459
+e non inferiore.
+
+60
+00:02:54,460 --> 00:02:58,919
+Per raggiungere questo obiettivo avremo bisogno di veicoli spaziali specializzati in grado di raggiungere il cavo.
+
+61
+00:02:58,920 --> 00:03:00,979
+Anche se questo non è esattamente facile,
+
+62
+00:03:00,980 --> 00:03:03,664
+è comunque molto più economico che ottenere una grande lattina
+
+63
+00:03:03,665 --> 00:03:07,504
+piena di carburante per razzi per andare a 40.000 km/h.
+
+64
+00:03:07,505 --> 00:03:09,999
+Anche catturare la punta sarà una sfida.
+
+65
+00:03:10,000 --> 00:03:13,299
+C'è solo un breve intervallo di tempo da 60 a 90 secondi
+
+66
+00:03:13,300 --> 00:03:15,179
+per trovare una minuscola cosa nel cielo che si
+
+67
+00:03:15,180 --> 00:03:17,159
+muove a mach 12.
+
+68
+00:03:17,160 --> 00:03:20,559
+Per rendere tutto più semplice, la punta potrebbe avere una sorta di lenza
+
+69
+00:03:20,560 --> 00:03:25,599
+lunga un chilometro con un drone di navigazione che aiuta il veicolo spaziale a  Collegare.
+
+70
+00:03:25,600 --> 00:03:28,499
+Un'altra sfida è mantenere il nostro Skyhook in orbita.
+
+71
+00:03:28,500 --> 00:03:31,414
+Man mano che sempre più navi si agganciano ad esso e si sollevano,
+
+72
+00:03:31,415 --> 00:03:34,359
+consumano lo slancio che lo mantiene in posizione.
+
+73
+00:03:34,360 --> 00:03:35,939
+Se non facciamo
+
+74
+00:03:35,940 --> 00:03:39,619
+nulla, rallenterà e si schianterà nell'atmosfera.
+
+75
+00:03:39,620 --> 00:03:42,819
+E qui, possiamo ingannare un po' l'universo.
+
+76
+00:03:42,820 --> 00:03:45,879
+Lo Skyhook è una batteria di energia orbitale.
+
+77
+00:03:45,880 --> 00:03:50,239
+È possibile bilanciare i carichi utili in entrata e in uscita.
+
+78
+00:03:50,240 --> 00:03:53,799
+Le navi in arrivo che portano umani e materiali a casa sulla Terra aggiu
+
+79
+00:03:53,800 --> 00:03:55,219
+gono energia al legame che p
+
+80
+00:03:55,220 --> 00:03:58,359
+ò dare ad altre navi in partenza nello spazio.  In questo 
+
+81
+00:03:58,360 --> 00:04:00,979
+modo il cavo non perde energia.
+
+82
+00:04:00,980 --> 00:04:04,179
+Più lo usiamo, più diventa economico.
+
+83
+00:04:04,180 --> 00:04:06,579
+Se stiamo ancora perdendo energia ad ogni spinta,
+
+84
+00:04:06,580 --> 00:04:09,419
+possiamo recuperarla con piccoli motori elettrici o chimici
+
+85
+00:04:09,420 --> 00:04:11,919
+che correggono regolarmente la posizione dell'attacco.
+
+86
+00:04:11,920 --> 00:04:14,999
+Una serie di cavi, uno attorno alla Terra e uno attorno a Marte,
+
+87
+00:04:15,000 --> 00:04:17,759
+potrebbero effettuare viaggi tra i pianeti veloci, diretti
+
+88
+00:04:17,760 --> 00:04:20,639
+ed economici rispetto ai razzi.
+
+89
+00:04:20,640 --> 00:04:24,219
+Il cavo terrestre si troverebbe in un'orbita terrestre bassa per afferrare persone e carichi utili
+
+90
+00:04:24,220 --> 00:04:25,859
+e lanciarli su Marte.
+
+91
+00:04:25,860 --> 00:04:27,599
+Il legame di Marte li cattura
+
+92
+00:04:27,600 --> 00:04:30,679
+e li rallenta per un atterraggio in superficie.
+
+93
+00:04:30,680 --> 00:04:32,079
+Nella direzione opposta,
+
+94
+00:04:32,080 --> 00:04:35,379
+il cavo potrebbe raccogliere un veicolo che viaggia attraverso la sottile atmosfera di Marte
+
+95
+00:04:35,380 --> 00:04:37,959
+a solo circa 1.000 km/h,
+
+96
+00:04:37,960 --> 00:04:40,319
+non molto più veloce dei nostri aerei di linea sulla Terra,
+
+97
+00:04:40,320 --> 00:04:44,179
+e ributtarlo sulla Terra per essere catturato e abbassato.
+
+98
+00:04:44,180 --> 00:04:47,679
+I collegamenti potrebbero ridurre i viaggi tra i due pianeti da 9
+
+99
+00:04:47,680 --> 00:04:49,539
+mesi a 5 o anche 3
+
+100
+00:04:49,540 --> 00:04:51,639
+e ridurre la scala dei razzi
+
+101
+00:04:51,640 --> 00:04:55,279
+richiesti tra l'84 e il 96 percento.
+
+102
+00:04:55,280 --> 00:04:58,939
+Ancora meglio, le persone potrebbero essere in grado di viaggiare nel lusso relativo,
+
+103
+00:04:58,940 --> 00:05:01,979
+poiché possiamo permetterci di investire nel comfort dei passeggeri.
+
+104
+00:05:01,980 --> 00:05:05,559
+Il viaggio in tether sarebbe un posto di prima classe su Marte.
+
+105
+00:05:05,560 --> 00:05:07,699
+Insieme, i collegamenti intorno alla Terra e a Marte
+
+106
+00:05:07,700 --> 00:05:10,899
+potrebbero fornire la spina dorsale di trasporto rapida ed efficiente in termini di costi
+
+107
+00:05:10,900 --> 00:05:13,679
+che renderebbe i viaggi spaziali convenienti.
+
+108
+00:05:13,680 --> 00:05:15,239
+Ma andiamo oltre.
+
+109
+00:05:15,240 --> 00:05:17,159
+A partire dall'orbita bassa di Marte,
+
+110
+00:05:17,160 --> 00:05:19,999
+un cavo potrebbe spingere le navi verso la cintura degli asteroidi.
+
+111
+00:05:20,000 --> 00:05:23,359
+Il primo velivolo inviato su un nuovo asteroide avrebbe bisogno di razzi per rallentare
+
+112
+00:05:23,360 --> 00:05:24,919
+a destinazione.
+
+113
+00:05:24,920 --> 00:05:27,859
+Gli arrivi successivi potrebbero trovare un legame in attesa di catturarli
+
+114
+00:05:27,860 --> 00:05:29,939
+e rispedirli indietro gratuitamente.
+
+115
+00:05:29,940 --> 00:05:31,859
+Arrivare agli asteroidi a buon mercato
+
+116
+00:05:31,860 --> 00:05:35,779
+è un fattore importante nell'apertura delle risorse del sistema solare.
+
+117
+00:05:35,780 --> 00:05:37,859
+Metalli preziosi e minerali preziosi
+
+118
+00:05:37,860 --> 00:05:42,099
+potrebbero essere consegnati su Marte poche settimane dopo essere stati tagliati fuori dal loro asteroide.
+
+119
+00:05:42,100 --> 00:05:43,939
+Sarebbero i mattoni perfetti
+
+120
+00:05:43,940 --> 00:05:46,819
+per la nostra civiltà interplanetaria.
+
+121
+00:05:46,820 --> 00:05:48,379
+Ma perché fermarsi qui?
+
+122
+00:05:48,380 --> 00:05:50,779
+Le lune di Marte sono molto convenienti.
+
+123
+00:05:50,780 --> 00:05:54,839
+Nessun'altra luna nel sistema solare orbita vicino al loro pianeta.
+
+124
+00:05:54,840 --> 00:05:58,699
+Phobos è così pesante che non dobbiamo preoccuparci di rallentarlo,
+
+125
+00:05:58,700 --> 00:06:00,759
+rendendolo il punto di attacco perfetto
+
+126
+00:06:00,760 --> 00:06:04,499
+per super tether lunghi poco meno di 6.000 km.
+
+127
+00:06:04,500 --> 00:06:07,359
+La punta inferiore volerebbe appena sopra la superficie di Marte
+
+128
+00:06:07,360 --> 00:06:09,219
+e sarebbe molto facile da catturare.
+
+129
+00:06:09,220 --> 00:06:13,379
+La punta superiore può lanciare navi fino a Giove e Saturno.
+
+130
+00:06:13,380 --> 00:06:14,799
+Lo stesso super-tether
+
+131
+00:06:14,800 --> 00:06:18,099
+può anche avvicinare il sistema solare interno.
+
+132
+00:06:18,100 --> 00:06:21,219
+Venere e Mercurio sono a un'unica oscillazione.
+
+133
+00:06:21,220 --> 00:06:24,339
+A differenza di Marte, sono pieni di energia solare
+
+134
+00:06:24,340 --> 00:06:26,699
+e sono ricchi di minerali.
+
+135
+00:06:26,700 --> 00:06:29,519
+A lungo termine, nulla impedisce all'umanità di
+
+136
+00:06:29,520 --> 00:06:32,479
+costruire una rete di trasporto a propellente zero
+
+137
+00:06:32,480 --> 00:06:35,879
+per i pianeti terrestri incentrata sulle lune marziane.
+
+138
+00:06:35,880 --> 00:06:37,859
+I cavi sono una soluzione relativamente economica
+
+139
+00:06:37,860 --> 00:06:41,699
+e sostenibile per rendere i viaggi spaziali accessibili
+
+140
+00:06:41,700 --> 00:06:44,119
+e il resto del sistema solare accessibile
+
+141
+00:06:44,120 --> 00:06:46,839
+per lo sfruttamento e l'esplorazione.
+
+142
+00:06:46,840 --> 00:06:49,979
+Considerando che oggi abbiamo la tecnologia per costruirli,
+
+143
+00:06:49,980 --> 00:06:53,539
+non ci sono davvero buone scuse per aspettare ancora.
+
+144
+00:06:53,540 --> 00:06:56,279
+Parti del sistema solare sono lontane,
+
+145
+00:06:56,280 --> 00:07:00,059
+ma potrebbero essere molto vicine.
+
+146
+00:07:00,060 --> 00:07:02,559
+Parlando di cose che è difficile da raggiungere
+
+147
+00:07:02,560 --> 00:07:04,279
+ma non deve esserlo: la
+
+148
+00:07:04,280 --> 00:07:05,659
+conoscenza.
+
+149
+00:07:05,660 --> 00:07:12,639
+I nostri amici di Brilliant possono collegarti a un universo pieno di idee esplosive e corsi divertenti.
+
+150
+00:07:12,640 --> 00:07:16,119
+Brilliant è un sito Web che ti aiuta ad affrontare la scienza in modo pratico
+
+151
+00:07:16,120 --> 00:07:18,219
+con corsi interattivi di problem solving
+
+152
+00:07:18,220 --> 00:07:21,859
+e problemi quotidiani di matematica, logica e ingegneria.
+
+153
+00:07:21,860 --> 00:07:26,159
+Ogni problema ti offre tutti gli strumenti di cui hai bisogno per risolvere argomenti complessi da solo.
+
+154
+00:07:26,160 --> 00:07:29,679
+È imparare facendo, ma con il cervello invece che con le mani.
+
+155
+00:07:29,680 --> 00:07:33,119
+Usa la tua curiosità per andare a fondo di enigmi e corsi
+
+156
+00:07:33,120 --> 00:07:35,104
+su cose come la meccanica classica, l'
+
+157
+00:07:35,105 --> 00:07:38,739
+astronomia, la fisica gravitazionale e molto altro.
+
+158
+00:07:38,740 --> 00:07:42,679
+Se fai clic sul link nella descrizione o visiti brillante.org/nutshell
+
+159
+00:07:42,680 --> 00:07:46,379
+puoi iscriverti gratuitamente e imparare più cose di quante tu possa immaginare.
+
+160
+00:07:46,380 --> 00:07:49,139
+E c'è una parte in più per i telespettatori di Kurzgesagt:
+
+161
+00:07:49,140 --> 00:07:51,799
+le prime 688 persone che utilizzano il link
+
+162
+00:07:51,800 --> 00:07:54,439
+ottengono uno sconto del 20% sul loro abbonamento annuale
+
+163
+00:07:54,440 --> 00:07:57,079
+che ti consente di visualizzare tutti i problemi quotidiani negli archivi
+
+164
+00:07:57,080 --> 00:07:58,999
+e sbloccare ogni corso.
+
+165
+00:07:59,000 --> 00:08:02,499
+Brilliant ti aiuta a concludere la giornata in modo un po' più intelligente.
+
+166
+00:08:02,500 --> 00:08:05,899
+Potresti rimanere "agganciato" all'esperienza.
+
+167
+00:08:05,900 --> 00:08:12,659
+[Musica finale]
+
+168
+00:08:12,660 --> 00:08:14,000
+[Il cane ulula]
+

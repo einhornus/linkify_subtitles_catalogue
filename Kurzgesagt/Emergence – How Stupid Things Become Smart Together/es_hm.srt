@@ -1,0 +1,500 @@
+1
+00:00:00,700 --> 00:00:02,999
+Una hormiga es bastante tonta.
+
+2
+00:00:03,000 --> 00:00:06,534
+No tiene mucho cerebro, voluntad, ni planes,
+
+3
+00:00:06,535 --> 00:00:09,299
+y aun asi muchas hormigas juntas
+
+4
+00:00:09,300 --> 00:00:10,764
+son inteligentes
+
+5
+00:00:10,765 --> 00:00:14,314
+Una colonia de hormigas puede construir estructuras complejas.
+
+6
+00:00:14,315 --> 00:00:17,074
+Algunas colonias mantienen granjas de hongos,
+
+7
+00:00:17,075 --> 00:00:19,199
+otras cuidan de las larvas
+
+8
+00:00:19,200 --> 00:00:22,524
+pueden hacer guerra, o defenderse.
+
+9
+00:00:22,525 --> 00:00:24,064
+¿Cómo es ésto posible?
+
+10
+00:00:24,065 --> 00:00:28,404
+¿Cómo un montón de cosas tontas pueden hacer cosas inteligentes juntas?
+
+11
+00:00:28,405 --> 00:00:31,199
+Este Fenomeno se llama inteligencia emergente,
+
+12
+00:00:31,200 --> 00:00:36,099
+y es uno de las caracteristicas más fascinantes y misteriosas de nuestro universo.
+
+13
+00:00:36,100 --> 00:00:38,599
+En pocas palabras describe cosas pequeñas
+
+14
+00:00:38,600 --> 00:00:40,499
+formando cosas grandes
+
+15
+00:00:40,500 --> 00:00:43,899
+que tienen diferentes propiedades a la suma de sus partes
+
+16
+00:00:43,900 --> 00:00:48,699
+la inteligencia emergente es complejidad surgiendo de simplicidad,
+
+17
+00:00:48,700 --> 00:00:51,964
+y esta en todas partes.
+
+18
+00:00:51,965 --> 00:01:00,879
+[Intro]
+
+19
+00:01:00,880 --> 00:01:04,679
+El agua tiene propiedades muy diferentes a  las moleculas que la forman,
+
+20
+00:01:04,680 --> 00:01:07,059
+como el concepto de mojado
+
+21
+00:01:07,060 --> 00:01:11,799
+toma por ejemplo la tela mojada, si te acercas lo suficiente , no existe nada mojado
+
+22
+00:01:11,800 --> 00:01:16,159
+Solo hay moleculas alojadas en espacios entre los atomos de la ropa
+
+23
+00:01:16,160 --> 00:01:18,899
+la humedad es una propiedad emergente del agua
+
+24
+00:01:18,900 --> 00:01:24,779
+algo nuevo creado únicamente por la interacción de muchas partes individuales entre las moléculas de agua
+
+25
+00:01:24,780 --> 00:01:33,579
+Y eso es básicamente todo. Varias cosas interactuando bajo ciertas reglas, creando algo por encima y mas alla de ellas mismas
+
+26
+00:01:33,580 --> 00:01:36,624
+resulta asi, que más es diferente
+
+27
+00:01:36,625 --> 00:01:39,099
+esta propiedad diferente es por si misma una cosa nueva,
+
+28
+00:01:39,100 --> 00:01:40,699
+y esa cosa nueva puede juntarse con
+
+29
+00:01:40,700 --> 00:01:43,764
+otras nuevas cosas para repetir el proceso
+
+30
+00:01:43,765 --> 00:01:46,894
+puedes imaginar esto como capas acumuladas una encima de otra,
+
+31
+00:01:46,895 --> 00:01:50,154
+cada capa añade partes más complejas
+
+32
+00:01:50,155 --> 00:01:51,999
+los atomos forman moleculas
+
+33
+00:01:52,000 --> 00:01:55,774
+las moleculas forman proteinas,
+ y las proteinas hacen celulas
+
+34
+00:01:55,775 --> 00:01:59,124
+las celulas hacen organos,
+los organos forman individuos
+
+35
+00:01:59,125 --> 00:02:02,299
+e individuos forman sociedades
+
+36
+00:02:02,300 --> 00:02:05,694
+Pero, ¿cómo puede algo ser más que la suma de sus partes?
+
+37
+00:02:05,695 --> 00:02:09,994
+¿Cómo forman las hormigas el tipo de entidad nublada que es una colonia?
+
+38
+00:02:09,995 --> 00:02:14,059
+Siguiendo un conjunto de reglas que produce orden a través del caos
+
+39
+00:02:14,060 --> 00:02:18,279
+Por ejemplo, miremos como una colonia de hormigas distribuye el trabajo
+
+40
+00:02:18,280 --> 00:02:23,399
+Asumamos que una colonia debe tener 25% de obreras,  25% de resguardo,
+
+41
+00:02:23,400 --> 00:02:26,959
+25% de soldados y 25% de recolectores
+
+42
+00:02:26,960 --> 00:02:29,959
+las hormigas comunican su trabajo actual
+ a través de químicos.
+
+43
+00:02:29,960 --> 00:02:32,799
+Por ejemplo una hormiga obrera, constantemente secreta químicos
+
+44
+00:02:32,800 --> 00:02:35,699
+que dicen "soy una obrera"
+
+45
+00:02:35,700 --> 00:02:39,159
+cuando se encuentran con otras hormigas, se huelen para compartir información.
+
+46
+00:02:39,160 --> 00:02:42,099
+informan su trabajo,
+ y lo que se encuentran realizando
+
+47
+00:02:42,100 --> 00:02:45,199
+Ambas guardan un registro, con quien se encontraron anteriormente
+
+48
+00:02:45,200 --> 00:02:48,824
+Ahora, imagina que un oso hormiguero, mato la mayoria de las recolectoras
+
+49
+00:02:48,825 --> 00:02:52,504
+si esto no se arregla rapidamente la colonia morira de hambre
+
+50
+00:02:52,505 --> 00:02:55,364
+muchas hormigas obreras necesitan cambiar sus trabajos,
+
+51
+00:02:55,365 --> 00:02:57,999
+pero, ¿Cómo le dices esto a miles de ellas?
+
+52
+00:02:58,000 --> 00:03:00,654
+Simple, no lo haces
+
+53
+00:03:00,655 --> 00:03:03,564
+Nuestra hormiga obrera, se encontrara y olerá a otras hormigas,
+
+54
+00:03:03,565 --> 00:03:06,674
+pero no se encontrara ninguna recolectora en absoluto
+
+55
+00:03:06,675 --> 00:03:09,399
+cuenta muy pocas recolectoras
+
+56
+00:03:09,400 --> 00:03:13,999
+hasta que llega a un punto critico, y así cambiara su trabajo
+
+57
+00:03:14,000 --> 00:03:15,999
+la obrera se transformara en una recolectora.
+
+58
+00:03:16,000 --> 00:03:20,879
+otras hormigas harán lo mismo, hasta que haya suficientes recolectoras otra vez.
+
+59
+00:03:20,880 --> 00:03:23,719
+El balance es recuperado, todo por si mismo.
+
+60
+00:03:23,720 --> 00:03:27,459
+las acciones e interacciones de un individuo son al azar.
+
+61
+00:03:27,460 --> 00:03:30,799
+No puedes planear que hormiga se encontrara con quien
+
+62
+00:03:30,800 --> 00:03:32,499
+pero el simple conjunto de reglas
+
+63
+00:03:32,500 --> 00:03:37,319
+es tan elegante que las operaciones de una colonia emergen como una consecuencia
+
+64
+00:03:37,320 --> 00:03:41,999
+En un nivel más fundamental, cientos de millones de complejas moléculas
+
+65
+00:03:42,000 --> 00:03:45,774
+interactúan para mantener una estructura fuerte y sorprendente
+
+66
+00:03:45,775 --> 00:03:50,699
+crea un ser con propiedades muy diferentes a la suma de sus partes muertas
+
+67
+00:03:50,700 --> 00:03:53,904
+La unidad vivas más pequeña: Una célula.
+
+68
+00:03:53,905 --> 00:03:57,004
+Todavía no tenemos una definición clara de qué son las cosas vivas,
+
+69
+00:03:57,005 --> 00:04:01,274
+solo sabemos que emergen de cosas que no lo están.
+
+70
+00:04:01,275 --> 00:04:03,299
+Las células combinadas y cooperando,
+
+71
+00:04:03,300 --> 00:04:06,044
+se especializan y responden el uno al otro
+
+72
+00:04:06,045 --> 00:04:11,194
+y con el tiempo, desarrollan organismos complejos con capacidades notables.
+
+73
+00:04:11,195 --> 00:04:20,234
+Tus brazos, piernas y corazón son un sistema increíblemente complejo y complicado, hecho de trillones de cosas individualmente estúpidas...
+
+74
+00:04:20,235 --> 00:04:21,974
+y aun así respiramos,
+
+75
+00:04:21,975 --> 00:04:25,384
+digerimos y vemos videos de Youtube.
+
+76
+00:04:25,385 --> 00:04:28,154
+¿como saben tus celulas que hacer?
+
+77
+00:04:28,155 --> 00:04:31,344
+Piensa en las células marca-pasos en tu corazón.
+
+78
+00:04:31,345 --> 00:04:34,224
+Miles de millones de ellas necesitan enviar un estimulo
+
+79
+00:04:34,225 --> 00:04:37,604
+en el momento justo para colectivamente crear un latido
+
+80
+00:04:37,605 --> 00:04:40,299
+nuestras celulas intercambian informacion quimica
+
+81
+00:04:40,300 --> 00:04:44,544
+con las demas celulas, para ver que están haciendo, y de ahí decidir qué deben hacer.
+
+82
+00:04:44,545 --> 00:04:47,594
+Si está entre muchas células que están trabajando en la misma tarea,
+
+83
+00:04:47,595 --> 00:04:52,034
+empezara a trabajar en la misma tarea, y se sincronizara con ellas.
+
+84
+00:04:52,035 --> 00:04:54,324
+no hay una mente maestra dando instrucciones.
+
+85
+00:04:54,325 --> 00:04:57,559
+solo unidades simples comunicándose entre ellas,
+
+86
+00:04:57,560 --> 00:05:00,779
+y se desenvuelven dependiendo 
+a las respuestas que reciben.
+
+87
+00:05:00,780 --> 00:05:02,979
+¿Qué hay acerca de nuestra parte más importante?
+
+88
+00:05:02,980 --> 00:05:07,179
+¿Qué es lo que nos hace preguntarnos este tipo de cosas?
+
+89
+00:05:07,180 --> 00:05:12,599
+¿Es nuestra conciencia entonces una inteligencia emergente propiedad de las celulas en nuestro cerebro?
+
+90
+00:05:12,600 --> 00:05:15,584
+Esta pregunta es muy grande y muy importante,
+
+91
+00:05:15,585 --> 00:05:18,194
+y merece su propio video
+
+92
+00:05:18,195 --> 00:05:21,184
+algunas cosas que surgen son dificiles de definir
+
+93
+00:05:21,185 --> 00:05:25,054
+No puedes tocar una colonia de hormigas, 
+solo sus partes
+
+94
+00:05:25,055 --> 00:05:28,424
+No tiene un cerebro, ni una cara, ni un cuerpo
+
+95
+00:05:28,425 --> 00:05:31,624
+y aun así la colonia interactua con el mundo
+
+96
+00:05:31,625 --> 00:05:34,399
+así como las colonias de hormigas surgen de hormigas,
+
+97
+00:05:34,400 --> 00:05:38,379
+cosas surgen de los humanos, como las naciones
+
+98
+00:05:38,380 --> 00:05:41,859
+¿Que es exactamente una nación?
+¿Es su población?
+
+99
+00:05:41,860 --> 00:05:47,959
+¿Son sus instituciones, sus símbolos 
+como su bandera, colores o himnos?
+
+100
+00:05:47,960 --> 00:05:52,859
+¿Las cosas físicas como las ciudades, 
+el territorio que ocupan?
+
+101
+00:05:52,860 --> 00:05:55,799
+todas estas cosas son un flujo
+
+102
+00:05:55,800 --> 00:05:58,359
+Las poblaciones cambian y son remplazadas
+
+103
+00:05:58,360 --> 00:06:02,639
+las instituciones vienen y van, 
+las ciudades pueden ser construidas o abandonadas
+
+104
+00:06:02,640 --> 00:06:06,234
+las fronteras han cambiado todo el tiempo
+ a lo largo de la historia
+
+105
+00:06:06,235 --> 00:06:09,959
+y los simbolos han sido remplazados por nuevos.
+
+106
+00:06:09,960 --> 00:06:15,119
+Una nacion, no tiene rostro, cerebro, ni cuerpo.
+
+107
+00:06:15,120 --> 00:06:17,199
+¿Nuestras naciones no son reales entonces?
+
+108
+00:06:17,200 --> 00:06:20,104
+Por su puesto que lo son, al igual que 
+las colonias de hormigas
+
+109
+00:06:20,105 --> 00:06:22,319
+las naciones interactuan con el mundo
+
+110
+00:06:22,320 --> 00:06:28,499
+Pueden cambiar paisajes, financiar guerras,
+ crecer o ir en declive, o pueden dejar de existir.
+
+111
+00:06:28,500 --> 00:06:33,319
+Pero solo existen, porque muchos humanos
+ interactuan los unos con los otros
+
+112
+00:06:33,320 --> 00:06:35,199
+perno no solo las naciones.
+
+113
+00:06:35,200 --> 00:06:38,799
+Todas las estructuras
+ que nos rodean surgen de nosotros
+
+114
+00:06:38,800 --> 00:06:42,999
+Incluso si no es nuestra intención, estamos constantemente creando
+
+115
+00:06:43,000 --> 00:06:48,059
+Comunidades, Compañias, ciudades, sociedades.
+
+116
+00:06:48,060 --> 00:06:52,199
+Todas estas cosas son entidades que tienen fundamentalmente diferentes propiedades
+
+117
+00:06:52,200 --> 00:06:56,139
+y habilidades que los tontos simios de las que surgieron.
+
+118
+00:06:56,140 --> 00:06:58,699
+No sabemos, porque esto sucede
+
+119
+00:06:58,700 --> 00:07:03,379
+Solo lo observamos, y parece ser una propiedad fundamental de nuestro universo
+
+120
+00:07:03,380 --> 00:07:22,799
+Podría ser la propiedad mas bella
+ y maravillosa de nuestro universo.
+
+121
+00:07:22,800 --> 00:07:23,800
+ 
+

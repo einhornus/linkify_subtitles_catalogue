@@ -1,0 +1,672 @@
+1
+00:00:01,100 --> 00:00:03,139
+Llegar al espacio es difícil.
+
+2
+00:00:03,140 --> 00:00:05,619
+En este momento es como subir una montaña
+
+3
+00:00:05,620 --> 00:00:09,019
+en un monociclo, con una mochila llena de explosivos:
+
+4
+00:00:09,020 --> 00:00:11,899
+increíblemente lento, no puedes transportar muchas cosas
+
+5
+00:00:11,900 --> 00:00:13,679
+y puedes morir.
+
+6
+00:00:13,680 --> 00:00:18,099
+Un cohete necesita alcanzar una velocidad de unos 40.000 km/h
+
+7
+00:00:18,100 --> 00:00:19,699
+para escapar de la Tierra.
+
+8
+00:00:19,700 --> 00:00:22,979
+Para llegar a esa velocidad, los cohetes son en su mayoría contenedores
+
+9
+00:00:22,980 --> 00:00:25,979
+de combustible con una pequeña punta de carga útil.
+
+10
+00:00:25,980 --> 00:00:28,379
+Esto es malo si quieres ir a otros planetas
+
+11
+00:00:28,380 --> 00:00:32,019
+porque necesitas muchas cosas pesadas si quieres sobrevivir
+
+12
+00:00:32,020 --> 00:00:34,139
+y tal vez incluso regresar.
+
+13
+00:00:34,140 --> 00:00:37,239
+Entonces, ¿hay alguna manera de llegar al espacio con menos combustible
+
+14
+00:00:37,240 --> 00:00:39,999
+y más carga útil?
+
+15
+00:00:40,000 --> 00:00:48,739
+[Música de introducción]
+
+16
+00:00:48,740 --> 00:00:52,319
+Una cosa buena que resolvió la mayoría de nuestros problemas de transporte en la Tierra
+
+17
+00:00:52,320 --> 00:00:54,459
+es lo que llamas infraestructura.
+
+18
+00:00:54,460 --> 00:00:58,459
+Ya se trate de carreteras para automóviles, puertos para barcos o rieles para trenes,
+
+19
+00:00:58,460 --> 00:01:01,499
+hemos hecho que sea más fácil llegar a los lugares.
+
+20
+00:01:01,500 --> 00:01:04,579
+Podemos aplicar la misma solución a los viajes espaciales.
+
+21
+00:01:04,580 --> 00:01:07,379
+La infraestructura espacial hará que entrar en órbita
+
+22
+00:01:07,380 --> 00:01:12,299
+y salir a la Luna, Marte y más allá sea más fácil y económico.
+
+23
+00:01:12,300 --> 00:01:15,999
+Genial, pero ¿qué es exactamente la infraestructura espacial?
+
+24
+00:01:16,000 --> 00:01:17,759
+A diferencia de un ascensor Tierra-espacio,
+
+25
+00:01:17,760 --> 00:01:19,679
+que actualmente es ciencia ficción,
+
+26
+00:01:19,680 --> 00:01:22,699
+existe una tecnología simple pero prometedora
+
+27
+00:01:22,700 --> 00:01:25,999
+que no requiere nueva ciencia, materiales mágicos
+
+28
+00:01:26,000 --> 00:01:27,559
+o grandes inversiones,
+
+29
+00:01:27,560 --> 00:01:31,059
+y que ya ha sido probada con éxito en órbita:
+
+30
+00:01:31,060 --> 00:01:32,919
+un cable y un peso,
+
+31
+00:01:32,920 --> 00:01:34,639
+conoce como una atadura.
+
+32
+00:01:34,640 --> 00:01:38,039
+El concepto es tan simple que sorprende.
+
+33
+00:01:38,040 --> 00:01:39,559
+¿Qué pasa si colocamos cables de
+
+34
+00:01:39,560 --> 00:01:42,679
+cientos o miles de kilómetros de largo en el espacio
+
+35
+00:01:42,680 --> 00:01:44,799
+y hacemos que las naves espaciales los usen como escaleras
+
+36
+00:01:44,800 --> 00:01:48,779
+para subir a altitudes más altas y ganar velocidad?
+
+37
+00:01:48,780 --> 00:01:51,619
+Este concepto se conoce como Skyhook.
+
+38
+00:01:51,620 --> 00:01:54,179
+Funciona aún mejor si lo hacemos girar.
+
+39
+00:01:54,180 --> 00:01:56,419
+Un contrapeso sostiene un cable largo en su lugar
+
+40
+00:01:56,420 --> 00:01:58,299
+mientras gira alrededor de un círculo.
+
+41
+00:01:58,300 --> 00:02:02,399
+Una cuerda giratoria reduce la velocidad de su punta en relación con el suelo en la parte inferior
+
+42
+00:02:02,400 --> 00:02:05,419
+y la acelera en la parte superior como una catapulta.
+
+43
+00:02:05,420 --> 00:02:08,059
+Esto significa que puede transferir energía desde la correa
+
+44
+00:02:08,060 --> 00:02:11,639
+y obtener un gran impulso cuando se suelta, más o menos gratis,
+
+45
+00:02:11,640 --> 00:02:14,419
+igual al doble de la velocidad de rotación de la correa.
+
+46
+00:02:14,420 --> 00:02:17,659
+Ya existen fibras especializadas que pueden sobrevivir a
+
+47
+00:02:17,660 --> 00:02:21,099
+las tensiones extraordinarias a las que se enfrentaría un Skyhook.
+
+48
+00:02:21,100 --> 00:02:24,739
+Para protegernos contra cortes y colisiones de escombros y meteoritos,
+
+49
+00:02:24,740 --> 00:02:28,399
+podemos enhebrar nuestra correa en una red de fibras redundantes.
+
+50
+00:02:28,400 --> 00:02:32,099
+Dado que nuestro Skyhook pasaría por el mismo lugar muchas veces al día,
+
+51
+00:02:32,100 --> 00:02:35,639
+esto permitiría que pequeños transbordadores reutilizables lo alcanzaran.
+
+52
+00:02:35,640 --> 00:02:38,139
+Por supuesto, no es tan fácil.
+
+53
+00:02:38,140 --> 00:02:39,219
+En su punto más bajo,
+
+54
+00:02:39,220 --> 00:02:41,479
+la punta de la cuerda atraviesa la atmósfera
+
+55
+00:02:41,480 --> 00:02:43,779
+a unos 12.000 kilómetros por hora.
+
+56
+00:02:43,780 --> 00:02:47,179
+Debido a la atmósfera de la Tierra, no podemos bajar demasiado el Skyhook,
+
+57
+00:02:47,180 --> 00:02:49,719
+o se calentará demasiado por la fricción del aire.
+
+58
+00:02:49,720 --> 00:02:53,179
+Por lo tanto, descenderá a una altura de 80 a 150 km
+
+59
+00:02:53,180 --> 00:02:54,459
+y no más baja.
+
+60
+00:02:54,460 --> 00:02:58,919
+Para igualar esto, necesitaremos una nave espacial especializada que pueda llegar a la atadura.
+
+61
+00:02:58,920 --> 00:03:00,979
+Si bien esto no es exactamente fácil
+
+62
+00:03:00,980 --> 00:03:03,664
+, sigue siendo mucho más barato que llenar una lata grande
+
+63
+00:03:03,665 --> 00:03:07,504
+con combustible para cohetes para ir a 40 000 km/h.
+
+64
+00:03:07,505 --> 00:03:09,999
+Atrapar la punta también será un desafío.
+
+65
+00:03:10,000 --> 00:03:13,299
+Solo hay una pequeña ventana de tiempo de 60 a 90 segundos
+
+66
+00:03:13,300 --> 00:03:15,179
+para encontrar una cosa diminuta en el cielo
+
+67
+00:03:15,180 --> 00:03:17,159
+moviéndose a mach 12.
+
+68
+00:03:17,160 --> 00:03:20,559
+Para hacer esto más fácil, la punta podría tener una especie de hilo de pescar de
+
+69
+00:03:20,560 --> 00:03:25,599
+un kilómetro de largo con un dron de navegación que ayude a la nave espacial a  conectar.
+
+70
+00:03:25,600 --> 00:03:28,499
+Otro desafío es mantener nuestro Skyhook en órbita.
+
+71
+00:03:28,500 --> 00:03:31,414
+A medida que más y más barcos se enganchan a él y se elevan
+
+72
+00:03:31,415 --> 00:03:34,359
+, utilizan el impulso que lo mantiene en su lugar.
+
+73
+00:03:34,360 --> 00:03:35,939
+Si no hacemos
+
+74
+00:03:35,940 --> 00:03:39,619
+nada, disminuirá la velocidad y chocará contra la atmósfera.
+
+75
+00:03:39,620 --> 00:03:42,819
+Y aquí, podemos engañar un poco al universo.
+
+76
+00:03:42,820 --> 00:03:45,879
+El Skyhook es una batería de energía orbital.
+
+77
+00:03:45,880 --> 00:03:50,239
+Es posible equilibrar las cargas útiles que ingresan y se envían.
+
+78
+00:03:50,240 --> 00:03:53,799
+Las naves que llegan y traen humanos y materiales a la Tierra
+
+79
+00:03:53,800 --> 00:03:55,219
+agregan energía a la atadura
+
+80
+00:03:55,220 --> 00:03:58,359
+que puede proporcionar a otras naves que parten hacia el espacio.
+
+81
+00:03:58,360 --> 00:04:00,979
+De esta manera, la correa no pierde energía.
+
+82
+00:04:00,980 --> 00:04:04,179
+Cuanto más lo usamos, más barato sale.
+
+83
+00:04:04,180 --> 00:04:06,579
+Si seguimos perdiendo energía con cada impulso,
+
+84
+00:04:06,580 --> 00:04:09,419
+podemos recuperarla con pequeños motores eléctricos o químicos
+
+85
+00:04:09,420 --> 00:04:11,919
+que corrigen regularmente la posición de la correa.
+
+86
+00:04:11,920 --> 00:04:14,999
+Un conjunto de amarres, uno alrededor de la Tierra y otro alrededor de Marte,
+
+87
+00:04:15,000 --> 00:04:17,759
+podría hacer que los viajes entre los planetas sean rápidos, directos
+
+88
+00:04:17,760 --> 00:04:20,639
+y de bajo costo en comparación con los cohetes.
+
+89
+00:04:20,640 --> 00:04:24,219
+La atadura de la Tierra se ubicaría en la órbita terrestre baja para atrapar personas y cargas útiles
+
+90
+00:04:24,220 --> 00:04:25,859
+y arrojarlas a Marte.
+
+91
+00:04:25,860 --> 00:04:27,599
+La cuerda de Marte los atrapa
+
+92
+00:04:27,600 --> 00:04:30,679
+y los frena para aterrizar en la superficie.
+
+93
+00:04:30,680 --> 00:04:32,079
+En la dirección opuesta,
+
+94
+00:04:32,080 --> 00:04:35,379
+la cuerda podría recoger un vehículo que viaja a través de la delgada atmósfera de Marte
+
+95
+00:04:35,380 --> 00:04:37,959
+a solo unos 1.000 km/h,
+
+96
+00:04:37,960 --> 00:04:40,319
+no mucho más rápido que nuestros aviones en la Tierra,
+
+97
+00:04:40,320 --> 00:04:44,179
+y arrojarlo de regreso a la Tierra para ser atrapado y bajado.
+
+98
+00:04:44,180 --> 00:04:47,679
+Las ataduras podrían acortar los viajes entre ambos planetas de 9
+
+99
+00:04:47,680 --> 00:04:49,539
+meses a 5 o incluso 3,
+
+100
+00:04:49,540 --> 00:04:51,639
+y reducir la escala de los cohetes
+
+101
+00:04:51,640 --> 00:04:55,279
+necesarios entre un 84 y un 96 por ciento.
+
+102
+00:04:55,280 --> 00:04:58,939
+Aún mejor, las personas pueden viajar con relativo lujo,
+
+103
+00:04:58,940 --> 00:05:01,979
+ya que podemos permitirnos invertir en la comodidad de los pasajeros.
+
+104
+00:05:01,980 --> 00:05:05,559
+Los viajes Tether serían asientos de primera clase a Marte.
+
+105
+00:05:05,560 --> 00:05:07,699
+Juntas, las ataduras alrededor de la Tierra y Marte
+
+106
+00:05:07,700 --> 00:05:10,899
+podrían proporcionar la columna vertebral de transporte rápida y rentable
+
+107
+00:05:10,900 --> 00:05:13,679
+que haría que los viajes espaciales fueran asequibles.
+
+108
+00:05:13,680 --> 00:05:15,239
+Pero vayamos más allá.
+
+109
+00:05:15,240 --> 00:05:17,159
+Comenzando desde la órbita baja de Marte,
+
+110
+00:05:17,160 --> 00:05:19,999
+una cuerda podría impulsar naves al cinturón de asteroides.
+
+111
+00:05:20,000 --> 00:05:23,359
+La primera nave enviada a un nuevo asteroide necesitaría cohetes para reducir la velocidad
+
+112
+00:05:23,360 --> 00:05:24,919
+en su destino.
+
+113
+00:05:24,920 --> 00:05:27,859
+Las llegadas posteriores pueden encontrar una cuerda esperando para atraparlos
+
+114
+00:05:27,860 --> 00:05:29,939
+y enviarlos de regreso de forma gratuita.
+
+115
+00:05:29,940 --> 00:05:31,859
+Llegar a los asteroides de forma económica
+
+116
+00:05:31,860 --> 00:05:35,779
+es un factor importante en la apertura de los recursos del sistema solar.
+
+117
+00:05:35,780 --> 00:05:37,859
+Los metales preciosos y los minerales valiosos
+
+118
+00:05:37,860 --> 00:05:42,099
+podrían ser enviados a Marte solo unas semanas después de que fueran eliminados de su asteroide.
+
+119
+00:05:42,100 --> 00:05:43,939
+Serían los bloques de construcción perfectos
+
+120
+00:05:43,940 --> 00:05:46,819
+para nuestra civilización interplanetaria.
+
+121
+00:05:46,820 --> 00:05:48,379
+Pero ¿por qué detenerse aquí?
+
+122
+00:05:48,380 --> 00:05:50,779
+Las lunas de Marte son muy convenientes.
+
+123
+00:05:50,780 --> 00:05:54,839
+Ninguna otra luna en el sistema solar orbita tan cerca de su planeta.
+
+124
+00:05:54,840 --> 00:05:58,699
+Phobos es tan pesado que no tenemos que preocuparnos por ralentizarlo,
+
+125
+00:05:58,700 --> 00:06:00,759
+lo que lo convierte en el punto de unión perfecto
+
+126
+00:06:00,760 --> 00:06:04,499
+para supertethers de poco menos de 6000 km de largo.
+
+127
+00:06:04,500 --> 00:06:07,359
+La punta inferior volaría justo sobre la superficie de Marte
+
+128
+00:06:07,360 --> 00:06:09,219
+y sería muy fácil de atrapar.
+
+129
+00:06:09,220 --> 00:06:13,379
+La punta superior puede lanzar naves hasta Júpiter y Saturno.
+
+130
+00:06:13,380 --> 00:06:14,799
+La misma súper atadura
+
+131
+00:06:14,800 --> 00:06:18,099
+también puede acercar el sistema solar interior.
+
+132
+00:06:18,100 --> 00:06:21,219
+Venus y Mercurio están a un solo columpio de distancia.
+
+133
+00:06:21,220 --> 00:06:24,339
+A diferencia de Marte, están llenos de energía solar
+
+134
+00:06:24,340 --> 00:06:26,699
+y son ricos en minerales.
+
+135
+00:06:26,700 --> 00:06:29,519
+A largo plazo, nada impide que la humanidad
+
+136
+00:06:29,520 --> 00:06:32,479
+construya una red de transporte de propulsión cero
+
+137
+00:06:32,480 --> 00:06:35,879
+para los planetas terrestres centrados en las lunas marcianas.
+
+138
+00:06:35,880 --> 00:06:37,859
+Los tethers son una solución comparativamente barata
+
+139
+00:06:37,860 --> 00:06:41,699
+y sostenible para hacer que los viajes espaciales sean asequibles
+
+140
+00:06:41,700 --> 00:06:44,119
+y que el resto del sistema solar sea accesible
+
+141
+00:06:44,120 --> 00:06:46,839
+para su explotación y exploración.
+
+142
+00:06:46,840 --> 00:06:49,979
+Teniendo en cuenta que tenemos la tecnología para construirlos hoy
+
+143
+00:06:49,980 --> 00:06:53,539
+, realmente no hay una buena excusa para esperar más.
+
+144
+00:06:53,540 --> 00:06:56,279
+Partes del sistema solar están muy lejos,
+
+145
+00:06:56,280 --> 00:07:00,059
+pero podrían estar muy cerca.
+
+146
+00:07:00,060 --> 00:07:02,559
+Hablando de cosas que son difíciles de alcanzar
+
+147
+00:07:02,560 --> 00:07:04,279
+pero que no tienen por qué serlo:
+
+148
+00:07:04,280 --> 00:07:05,659
+conocimiento.
+
+149
+00:07:05,660 --> 00:07:12,639
+Nuestros amigos de Brilliant pueden conectarte con un universo lleno de ideas explosivas y cursos divertidos.
+
+150
+00:07:12,640 --> 00:07:16,119
+Brilliant es un sitio web que te ayuda a abordar la ciencia de una manera práctica
+
+151
+00:07:16,120 --> 00:07:18,219
+con cursos interactivos de resolución de problemas
+
+152
+00:07:18,220 --> 00:07:21,859
+y problemas diarios de matemáticas, lógica e ingeniería.
+
+153
+00:07:21,860 --> 00:07:26,159
+Cada problema te brinda todas las herramientas que necesitas para descifrar temas complejos por ti mismo.
+
+154
+00:07:26,160 --> 00:07:29,679
+Es aprender haciendo, pero con el cerebro en lugar de las manos.
+
+155
+00:07:29,680 --> 00:07:33,119
+Usa tu curiosidad para llegar al fondo de los acertijos y cursos
+
+156
+00:07:33,120 --> 00:07:35,104
+sobre temas como la mecánica clásica, la
+
+157
+00:07:35,105 --> 00:07:38,739
+astronomía, la física gravitacional y mucho más.
+
+158
+00:07:38,740 --> 00:07:42,679
+Si hace clic en el enlace de la descripción o visita
+
+159
+00:07:42,680 --> 00:07:46,379
+bright.org/nutshell, puede registrarse de forma gratuita y aprender más cosas de las que puede imaginar.
+
+160
+00:07:46,380 --> 00:07:49,139
+Y hay una parte adicional para los espectadores de Kurzgesagt:
+
+161
+00:07:49,140 --> 00:07:51,799
+las primeras 688 personas en usar el enlace
+
+162
+00:07:51,800 --> 00:07:54,439
+obtienen un 20 % de descuento en su membresía anual, lo
+
+163
+00:07:54,440 --> 00:07:57,079
+que les permite ver todos los problemas diarios en los archivos
+
+164
+00:07:57,080 --> 00:07:58,999
+y desbloquear todos los cursos.
+
+165
+00:07:59,000 --> 00:08:02,499
+Brilliant te ayuda a terminar tu día un poco más inteligente.
+
+166
+00:08:02,500 --> 00:08:05,899
+Es posible que te "enganches" a la experiencia.
+
+167
+00:08:05,900 --> 00:08:12,659
+[Música Outro]
+
+168
+00:08:12,660 --> 00:08:14,000
+[Aullidos de perro]
+

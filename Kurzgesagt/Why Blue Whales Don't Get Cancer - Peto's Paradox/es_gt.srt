@@ -1,0 +1,668 @@
+1
+00:00:00,000 --> 00:00:03,699
+El cáncer es algo espeluznante y misterioso.
+
+2
+00:00:03,700 --> 00:00:06,859
+En el proceso de tratar de comprenderlo, de mejorar en
+
+3
+00:00:06,860 --> 00:00:09,839
+matarlo, descubrimos una paradoja biológica
+
+4
+00:00:09,840 --> 00:00:13,039
+que sigue sin resolverse hasta el día de hoy.
+
+5
+00:00:13,040 --> 00:00:16,023
+Los animales grandes parecen ser inmunes al cáncer.
+
+6
+00:00:16,024 --> 00:00:19,064
+Lo cual no tiene ningún sentido.  Cuanto más grande es un ser
+
+7
+00:00:19,065 --> 00:00:21,114
+, más cáncer debe tener.
+
+8
+00:00:21,115 --> 00:00:24,184
+Para entender por qué, primero debemos echar un vistazo a
+
+9
+00:00:24,185 --> 00:00:26,004
+la naturaleza del cáncer en sí.
+
+10
+00:00:26,005 --> 00:00:33,704
+[Tema de Kurzgesagt]
+
+11
+00:00:33,705 --> 00:00:36,444
+Nuestras células son robots de proteínas hechos
+
+12
+00:00:36,445 --> 00:00:39,324
+de cientos de millones de partes.
+
+13
+00:00:39,325 --> 00:00:42,274
+Guiados únicamente por reacciones químicas, crean
+
+14
+00:00:42,275 --> 00:00:44,794
+y desmantelan estructuras, sostienen un
+
+15
+00:00:44,795 --> 00:00:47,574
+metabolismo para ganar energía o hacen
+
+16
+00:00:47,575 --> 00:00:49,634
+copias casi perfectas de sí mismos.
+
+17
+00:00:49,635 --> 00:00:52,514
+Llamamos a estas vías de reacciones químicas complejas.
+
+18
+00:00:52,515 --> 00:00:55,354
+Son redes bioquímicas
+
+19
+00:00:55,355 --> 00:00:58,234
+sobre redes, entrelazadas y
+
+20
+00:00:58,235 --> 00:00:59,544
+apiladas unas sobre otras.
+
+21
+00:00:59,545 --> 00:01:02,014
+La mayoría de ellos apenas pueden ser comprendidos por una
+
+22
+00:01:02,015 --> 00:01:05,384
+sola mente humana y, sin embargo, funcionan perfectamente.
+
+23
+00:01:05,385 --> 00:01:08,139
+Hasta que... no lo hacen.
+
+24
+00:01:08,140 --> 00:01:09,199
+Con miles
+
+25
+00:01:09,200 --> 00:01:12,119
+de millones de billones de reacciones, ocurriendo en miles de redes
+
+26
+00:01:12,120 --> 00:01:15,064
+durante muchos años, la pregunta no es si
+
+27
+00:01:15,065 --> 00:01:17,654
+algo saldrá mal, sino cuándo.
+
+28
+00:01:17,655 --> 00:01:20,264
+Los pequeños errores se suman, hasta que la grandiosa
+
+29
+00:01:20,265 --> 00:01:23,124
+maquinaria se corrompe.  Para evitar que esto
+
+30
+00:01:23,125 --> 00:01:26,099
+se salga de control, nuestras células tienen interruptores de apagado
+
+31
+00:01:26,100 --> 00:01:28,494
+que les obligan a suicidarse.
+
+32
+00:01:28,495 --> 00:01:31,454
+Pero estos interruptores automáticos no son infalibles.
+
+33
+00:01:31,455 --> 00:01:34,964
+Si fallan, una célula puede convertirse en una célula cancerosa.
+
+34
+00:01:34,965 --> 00:01:38,614
+La mayoría de ellos son asesinados por el sistema inmunológico muy rápidamente.
+
+35
+00:01:38,615 --> 00:01:41,844
+Pero esto es un juego de números.  Con suficiente tiempo, una célula
+
+36
+00:01:41,845 --> 00:01:44,434
+acumulará suficientes errores, pasará desapercibida y
+
+37
+00:01:44,435 --> 00:01:47,334
+comenzará a hacer más de sí misma.  Todos los
+
+38
+00:01:47,335 --> 00:01:49,714
+animales tienen que lidiar con este problema.
+
+39
+00:01:49,715 --> 00:01:52,354
+En general, las células de diferentes animales
+
+40
+00:01:52,355 --> 00:01:55,404
+tienen el mismo tamaño.  Las células de un ratón
+
+41
+00:01:55,405 --> 00:01:58,704
+no son más pequeñas que las tuyas.  Simplemente tiene menos células en total
+
+42
+00:01:58,705 --> 00:02:00,724
+y una vida útil más corta.
+
+43
+00:02:00,725 --> 00:02:03,224
+Menos células y una vida corta significan una
+
+44
+00:02:03,225 --> 00:02:06,124
+menor probabilidad de que las cosas salgan mal o de que las células
+
+45
+00:02:06,125 --> 00:02:09,144
+muten.  O, al menos, debería significar eso.
+
+46
+00:02:09,145 --> 00:02:11,794
+Los humanos viven unas cincuenta veces más y tienen
+
+47
+00:02:11,795 --> 00:02:14,914
+mil veces más células que los ratones.  Sin embargo, la tasa de
+
+48
+00:02:14,915 --> 00:02:17,424
+cáncer es básicamente la misma en humanos y
+
+49
+00:02:17,425 --> 00:02:20,254
+en ratones.  Aún más extraño, las ballenas azules,
+
+50
+00:02:20,255 --> 00:02:23,284
+con unas tres mil veces más células que los humanos
+
+51
+00:02:23,285 --> 00:02:26,054
+, no parecen tener cáncer en absoluto, en realidad.
+
+52
+00:02:26,055 --> 00:02:28,804
+Esta es la paradoja de Peto: la desconcertante
+
+53
+00:02:28,805 --> 00:02:31,544
+comprensión de que los animales grandes tienen mucho, mucho
+
+54
+00:02:31,545 --> 00:02:34,104
+menos cáncer del que deberían.
+
+55
+00:02:34,105 --> 00:02:37,054
+Los científicos creen que hay dos formas principales de explicar
+
+56
+00:02:37,055 --> 00:02:40,644
+la paradoja: la evolución y los hipertumores.
+
+57
+00:02:40,645 --> 00:02:43,604
+Solución uno: evoluciona o conviértete en una gota
+
+58
+00:02:43,605 --> 00:02:45,214
+de cáncer.
+
+59
+00:02:45,215 --> 00:02:48,244
+A medida que los seres multicelulares se desarrollaron hace seiscientos millones de
+
+60
+00:02:48,245 --> 00:02:51,414
+años, los animales se hicieron cada vez más grandes.
+
+61
+00:02:51,415 --> 00:02:54,294
+Lo que agregó más y más celdas y, por lo tanto, más
+
+62
+00:02:54,295 --> 00:02:57,084
+y más posibilidades de que las celdas pudieran corromperse.
+
+63
+00:02:57,085 --> 00:02:59,894
+Entonces, el colectivo tuvo que invertir en mejores y mejores
+
+64
+00:02:59,895 --> 00:03:03,024
+defensas contra el cáncer.  Los que no se
+
+65
+00:03:03,025 --> 00:03:06,044
+extinguieron.  Pero el cáncer no sucede simplemente, es un
+
+66
+00:03:06,045 --> 00:03:08,784
+proceso que involucra muchos errores individuales
+
+67
+00:03:08,785 --> 00:03:11,424
+y mutaciones en varios genes específicos
+
+68
+00:03:11,425 --> 00:03:13,244
+dentro de la misma célula.
+
+69
+00:03:13,245 --> 00:03:19,364
+Estos genes se denominan protooncogenes y, cuando mutan, son malas noticias.
+
+70
+00:03:19,365 --> 00:03:22,044
+Por ejemplo, con la mutación correcta, una célula
+
+71
+00:03:22,045 --> 00:03:24,699
+perdería su capacidad de matarse a sí misma.
+
+72
+00:03:24,700 --> 00:03:28,014
+Otra mutación, y desarrollará la habilidad de esconderse.
+
+73
+00:03:28,015 --> 00:03:31,564
+Otro, y enviará solicitudes de recursos.
+
+74
+00:03:31,565 --> 00:03:34,294
+Otro, y se multiplicará rápidamente.
+
+75
+00:03:34,295 --> 00:03:37,184
+Sin embargo, estos oncogenes tienen un antagonista.
+
+76
+00:03:37,185 --> 00:03:39,684
+Genes supresores de tumores.
+
+77
+00:03:39,685 --> 00:03:42,264
+Previenen que ocurran estas mutaciones críticas
+
+78
+00:03:42,265 --> 00:03:44,294
+u ordenan que la célula se mate a sí misma
+
+79
+00:03:44,295 --> 00:03:46,374
+si deciden que no se puede reparar.
+
+80
+00:03:46,375 --> 00:03:50,114
+Resulta que los animales grandes tienen un mayor número de ellos.
+
+81
+00:03:50,115 --> 00:03:53,114
+Debido a esto, las células de elefante requieren más mutaciones
+
+82
+00:03:53,115 --> 00:03:56,814
+que las células de ratón para desarrollar un tumor.  No son inmunes,
+
+83
+00:03:56,815 --> 00:03:59,399
+pero son más resistentes.  Esta adaptación
+
+84
+00:03:59,400 --> 00:04:02,664
+probablemente tenga un costo de alguna forma, pero los investigadores
+
+85
+00:04:02,665 --> 00:04:04,354
+aún no están seguros de qué se trata.
+
+86
+00:04:04,355 --> 00:04:07,014
+Tal vez los supresores de tumores hacen que los elefantes envejezcan más rápido más
+
+87
+00:04:07,015 --> 00:04:10,594
+adelante en la vida, o ralentizan la rapidez con que sanan las heridas.
+
+88
+00:04:10,595 --> 00:04:12,484
+Aún no lo sabemos.
+
+89
+00:04:12,485 --> 00:04:15,084
+Pero la solución a la paradoja en realidad puede ser
+
+90
+00:04:15,085 --> 00:04:17,984
+algo diferente: hipertumores.
+
+91
+00:04:17,985 --> 00:04:19,794
+Solución dos:
+
+92
+00:04:19,795 --> 00:04:23,174
+hipertumores.  Sí, en serio.
+
+93
+00:04:23,175 --> 00:04:26,214
+Los hipertumores llevan el nombre de los hiperparásitos: los
+
+94
+00:04:26,215 --> 00:04:29,064
+parásitos de los parásitos.  Los hipertumores
+
+95
+00:04:29,065 --> 00:04:31,234
+son los tumores de los tumores.
+
+96
+00:04:31,235 --> 00:04:34,454
+Se puede pensar en el cáncer como una ruptura en la cooperación.
+
+97
+00:04:34,455 --> 00:04:37,664
+Normalmente, las células trabajan juntas para formar estructuras como
+
+98
+00:04:37,665 --> 00:04:40,994
+órganos, tejidos o elementos del sistema inmunitario.
+
+99
+00:04:40,995 --> 00:04:43,804
+Pero las células cancerosas son egoístas y solo funcionan para
+
+100
+00:04:43,805 --> 00:04:46,934
+su propio beneficio a corto plazo.  Si tienen éxito
+
+101
+00:04:46,935 --> 00:04:49,954
+, forman tumores, enormes colectivos de cáncer que
+
+102
+00:04:49,955 --> 00:04:52,064
+pueden ser muy difíciles de matar.
+
+103
+00:04:52,065 --> 00:04:55,034
+Sin embargo, hacer un tumor es un trabajo duro.
+
+104
+00:04:55,035 --> 00:04:58,064
+Millones o miles de millones de células cancerosas se multiplican rápidamente, lo
+
+105
+00:04:58,065 --> 00:05:00,924
+que requiere muchos recursos y energía.
+
+106
+00:05:00,925 --> 00:05:03,524
+La cantidad de nutrientes que pueden robar del cuerpo se
+
+107
+00:05:03,525 --> 00:05:05,974
+convierte en el factor limitante para el crecimiento.
+
+108
+00:05:05,975 --> 00:05:08,714
+Entonces, las células tumorales engañan al cuerpo para construir nuevos vasos
+
+109
+00:05:08,715 --> 00:05:11,324
+sanguíneos directamente al tumor, para alimentar a
+
+110
+00:05:11,325 --> 00:05:12,944
+la cosa que lo está matando.
+
+111
+00:05:12,945 --> 00:05:15,894
+Y aquí, la naturaleza de las células cancerosas puede convertirse en
+
+112
+00:05:15,895 --> 00:05:17,314
+su propia perdición.
+
+113
+00:05:17,315 --> 00:05:20,304
+Las células cancerosas son intrínsecamente inestables, por lo
+
+114
+00:05:20,305 --> 00:05:23,314
+que pueden continuar mutando, algunas de ellas más rápido
+
+115
+00:05:23,315 --> 00:05:26,494
+que sus compañeros.  Si hacen esto por un tiempo,
+
+116
+00:05:26,495 --> 00:05:31,024
+en algún momento, una de las copias de las copias de la célula cancerosa original
+
+117
+00:05:31,025 --> 00:05:34,164
+podría volver a pensar de repente en sí misma como un individuo y
+
+118
+00:05:34,165 --> 00:05:37,334
+dejar de cooperar.  Lo que significa que, al igual que el cuerpo,
+
+119
+00:05:37,335 --> 00:05:40,294
+el tumor original de repente se convierte en un enemigo,
+
+120
+00:05:40,295 --> 00:05:43,594
+luchando por los mismos nutrientes y recursos escasos.
+
+121
+00:05:43,595 --> 00:05:48,134
+Entonces, las células recién mutadas pueden crear un hipertumor.
+
+122
+00:05:48,135 --> 00:05:50,744
+En lugar de ayudar, cortan el suministro de sangre a
+
+123
+00:05:50,745 --> 00:05:53,154
+sus antiguos amigos, lo que hará que mueran de hambre y
+
+124
+00:05:53,155 --> 00:05:55,299
+maten las células cancerosas originales.
+
+125
+00:05:55,300 --> 00:05:57,604
+El cáncer está matando al cáncer.
+
+126
+00:05:57,605 --> 00:06:00,184
+Este proceso puede repetirse una y otra vez,
+
+127
+00:06:00,185 --> 00:06:02,804
+y esto puede evitar que el cáncer se convierta en un problema
+
+128
+00:06:02,805 --> 00:06:05,844
+para un organismo grande.  Es posible
+
+129
+00:06:05,845 --> 00:06:08,674
+que los grandes tengan más de estos hipertumores de lo que creemos
+
+130
+00:06:08,675 --> 00:06:11,684
+.  Es posible que no se vuelvan lo suficientemente grandes como para notarlo.
+
+131
+00:06:11,685 --> 00:06:13,979
+Lo cual tiene sentido.  Un tumor de dos gramos
+
+132
+00:06:13,980 --> 00:06:17,059
+es el 10% del peso corporal de un ratón, mientras que es menos del
+
+133
+00:06:17,060 --> 00:06:20,199
+0,002% de un ser humano.
+
+134
+00:06:20,200 --> 00:06:23,499
+Y 0.000002%
+
+135
+00:06:23,500 --> 00:06:24,914
+de una ballena azul.
+
+136
+00:06:24,915 --> 00:06:28,004
+Los tres tumores requieren el mismo número de divisiones celulares
+
+137
+00:06:28,005 --> 00:06:31,134
+y tienen el mismo número de células.  Entonces, una vieja ballena azul
+
+138
+00:06:31,135 --> 00:06:34,999
+podría estar llena de pequeños cánceres y simplemente no preocuparse.
+
+139
+00:06:35,000 --> 00:06:38,234
+Hay otras soluciones propuestas para la paradoja de Peto
+
+140
+00:06:38,235 --> 00:06:40,884
+, como diferentes tasas metabólicas o una arquitectura celular diferente
+
+141
+00:06:40,885 --> 00:06:43,719
+.  Pero en este momento, simplemente no lo sabemos.
+
+142
+00:06:43,720 --> 00:06:46,499
+Los científicos están trabajando en el problema.
+
+143
+00:06:46,500 --> 00:06:49,284
+Descubrir cómo los animales grandes son tan resistentes
+
+144
+00:06:49,285 --> 00:06:52,214
+a una de las enfermedades más mortales que conocemos podría abrir el camino
+
+145
+00:06:52,215 --> 00:06:55,964
+a nuevas terapias y tratamientos.
+
+146
+00:06:55,965 --> 00:06:58,754
+El cáncer siempre ha sido un desafío.  Hoy,
+
+147
+00:06:58,755 --> 00:07:01,124
+finalmente estamos comenzando a entenderlo,
+
+148
+00:07:01,125 --> 00:07:04,364
+y al hacerlo, algún día, finalmente podremos
+
+149
+00:07:04,365 --> 00:07:07,184
+superarlo.
+
+150
+00:07:07,185 --> 00:07:10,194
+Este video fue patrocinado por... ¡tú!
+
+151
+00:07:10,195 --> 00:07:13,134
+Si quieres ayudarnos a hacer más, puedes hacerlo apoyándonos en
+
+152
+00:07:13,135 --> 00:07:16,094
+Patreon u obteniendo una de las cosas hermosas que hemos hecho.
+
+153
+00:07:16,095 --> 00:07:18,534
+Como nuestro cuaderno de explorador espacial, con
+
+154
+00:07:18,535 --> 00:07:21,644
+páginas infográficas y cuadrículas únicas para inspirar tu creatividad,
+
+155
+00:07:21,645 --> 00:07:24,324
+o un paquete de carteles infográficos, o la
+
+156
+00:07:24,325 --> 00:07:26,504
+sudadera con capucha Kurzgesagt muy cómoda.
+
+157
+00:07:26,505 --> 00:07:29,699
+O, si te lo perdiste la primera vez, la segunda edición de nuestro diario de gratitud.
+
+158
+00:07:29,700 --> 00:07:32,374
+Dedicamos mucho tiempo y amor a
+
+159
+00:07:32,375 --> 00:07:35,484
+nuestro merchandising porque, al igual que con nuestros videos, solo
+
+160
+00:07:35,485 --> 00:07:38,364
+queremos poner cosas en el mundo con las que nos sentimos bien.
+
+161
+00:07:38,365 --> 00:07:41,584
+Kurzgesagt es un proyecto que, por derecho, no debería funcionar.
+
+162
+00:07:41,585 --> 00:07:44,624
+Los videos como el que acaba de ver tardan meses en terminarse
+
+163
+00:07:44,625 --> 00:07:47,614
+y solo podemos dedicar tanto tiempo gracias a su
+
+164
+00:07:47,615 --> 00:07:50,914
+apoyo directo.  Porque miras y compartes,
+
+165
+00:07:50,915 --> 00:07:52,714
+y porque te importa.
+
+166
+00:07:52,715 --> 00:07:55,524
+Gracias por ver.
+
+167
+00:07:55,525 --> 00:07:56,735
+[Créditos finales]
+

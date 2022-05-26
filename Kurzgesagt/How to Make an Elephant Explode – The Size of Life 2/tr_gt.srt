@@ -1,0 +1,627 @@
+1
+00:00:01,920 --> 00:00:04,259
+Bir fili
+fare boyutuna
+
+2
+00:00:04,260 --> 00:00:06,899
+küçültelim ve fareyi büyütelim ve
+onu bir fil boyutuna getirelim
+
+3
+00:00:06,900 --> 00:00:09,399
+çünkü bu bizim videomuz
+ve ne olacağını görmek istiyoruz.
+
+4
+00:00:09,400 --> 00:00:14,199
+Birincisi: artık minik filimiz etrafta
+tökezliyor ve sonra düşüyor.
+
+5
+00:00:14,200 --> 00:00:17,899
+Minik fil dostum çok soğuktur;
+dakikalar içinde donarak öldü.
+
+6
+00:00:17,900 --> 00:00:22,219
+Dev faremiz
+bir an için çok rahatsız görünüyor ve sonra patlıyor.
+
+7
+00:00:22,220 --> 00:00:24,899
+her yerde sıcak fare içleri bırakarak.
+
+8
+00:00:24,900 --> 00:00:26,379
+Niye ya?
+
+9
+00:00:26,380 --> 00:00:27,799
+Boyut nedeniyle.
+
+10
+00:00:27,800 --> 00:00:30,879
+Olduğumuz boyut için tam olarak çalışacak şekilde optimize
+
+
+11
+00:00:30,880 --> 00:00:33,599
+edildik ve başka herhangi bir ortamda korkunç bir şekilde ölürüz
+.
+
+12
+00:00:33,600 --> 00:00:35,379
+Ama, neden tam olarak?
+
+13
+00:00:35,380 --> 00:00:37,119
+Faremiz neden patlar
+
+14
+00:00:37,120 --> 00:00:50,839
+ve
+çok denersek bunu filimize de yapabilir miyiz?
+
+15
+00:00:50,840 --> 00:00:53,179
+Bu gezegendeki yaşam hücrelere dayalıdır.
+
+16
+00:00:53,180 --> 00:00:54,979
+Hücreler boyut olarak değişir.
+
+17
+00:00:54,980 --> 00:00:58,279
+Ancak tüm türlerde boyutları oldukça benzer
+.
+
+18
+00:00:58,280 --> 00:01:01,139
+Bir mavi balinanın bir sinek kuşundan daha büyük hücreleri yoktur
+,
+
+19
+00:01:01,140 --> 00:01:03,159
+sadece çok daha fazlası vardır.
+
+20
+00:01:03,160 --> 00:01:05,659
+Hücreler hayatta kalmak için çok şey yapmak zorundadır.
+
+21
+00:01:05,660 --> 00:01:07,919
+Ve bunu yapabilmek için enerjiye ihtiyaçları var.
+
+22
+00:01:07,920 --> 00:01:09,379
+Bu enerjiyi elde etmek için
+
+23
+00:01:09,380 --> 00:01:14,159
+hayvan hücreleri, yiyecekleri
+ve oksijeni kullanılabilir kimyasal enerjiye dönüştürür.
+
+24
+00:01:14,160 --> 00:01:16,379
+Bu
+
+25
+00:01:16,380 --> 00:01:18,399
+, hücrenin güç merkezi olan mitokondrimizde gerçekleşir.
+
+26
+00:01:18,400 --> 00:01:22,139
+Hücrenin
+yapması gereken hemen hemen her şey için kullanabileceği minik ATP pilleri yayan küçük kömür motorları gibiler
+
+27
+00:01:22,140 --> 00:01:25,559
+
+.
+
+28
+00:01:25,560 --> 00:01:29,299
+Tıpkı bir motor gibi, mitokondri de
+çalışırken çok ısınır.
+
+29
+00:01:29,300 --> 00:01:30,879
+İnsan deri hücrelerinde,
+
+30
+00:01:30,880 --> 00:01:33,699
+yakıcı 50 santigrat dereceye ulaşırlar.
+
+31
+00:01:33,700 --> 00:01:36,719
+Ve bazı
+
+
+32
+00:01:36,720 --> 00:01:39,399
+hücrelerimizde ısılarını hücreye yayan 2.000'e kadar mitokondri vardır.
+
+33
+00:01:39,400 --> 00:01:42,539
+Yani, hayatta olmak çok fazla ısı üretir.
+
+34
+00:01:42,540 --> 00:01:46,239
+Sahip olduğunuz daha fazla hücre, vücudunuz toplamda daha fazla ısı
+üretir.
+
+35
+00:01:46,240 --> 00:01:49,479
+Vücudumuz
+bu ısıyı kaybetmenin yollarını bulmasaydı
+
+36
+00:01:49,480 --> 00:01:52,559
+, içeriden pişirilir ve ölürdük.
+
+37
+00:01:52,560 --> 00:01:54,719
+Ancak bu, canlılar büyüdükçe bedenlerin değişme şekli nedeniyle daha büyük hayvanlar için bir sorundur
+
+38
+00:01:54,720 --> 00:01:58,539
+
+.
+
+39
+00:01:58,540 --> 00:02:01,419
+Hayvanların
+burada önemli olan 3 özelliği vardır.
+
+40
+00:02:01,420 --> 00:02:03,839
+Uzunlukları, dışları veya
+
+41
+00:02:03,840 --> 00:02:06,019
+derileri ve içleri, organlar,
+
+42
+00:02:06,020 --> 00:02:08,138
+kemikler, umutlar ve hayaller gibi.
+
+43
+00:02:08,139 --> 00:02:11,519
+Kafanızı karıştırmak zor olan şey
+, bir şeyler büyüdüğünde
+
+44
+00:02:11,520 --> 00:02:15,179
+, içlerinin dışlarından daha hızlı büyümesidir.
+
+45
+00:02:15,180 --> 00:02:16,739
+Etli bir küp hayal edin.
+
+46
+00:02:16,740 --> 00:02:18,879
+Kenarlarının uzunluğunu iki katına çıkarırsanız
+
+47
+00:02:18,880 --> 00:02:21,399
+, yüzeyi ve hacmi iki katına çıkmaz.
+
+48
+00:02:21,400 --> 00:02:24,619
+Aslında, yüzey şimdi
+orijinal boyutunun 4 katı
+
+49
+00:02:24,620 --> 00:02:28,259
+ve küpün hacmi
+orijinal boyutunun 8 katı.
+
+50
+00:02:28,260 --> 00:02:30,319
+Buna Kare Küp Yasası denir
+
+51
+00:02:30,320 --> 00:02:33,659
+ve milyarlarca yıldır doğayı rahatsız eder
+.
+
+52
+00:02:33,660 --> 00:02:36,659
+Peki bu neden büyük hayvanlar için bir problem?
+
+53
+00:02:36,660 --> 00:02:40,139
+Çünkü ısı
+bir cismi ancak yüzeyinden terk edebilir.
+
+54
+00:02:40,140 --> 00:02:42,679
+Yani
+faremizi bir fil boyutunda
+
+55
+00:02:42,680 --> 00:02:44,359
+veya 60 kat daha uzun yaparsak, ısı kaybedebileceği
+
+56
+00:02:44,360 --> 00:02:48,419
+3.600 kat daha fazla
+yüzeye sahip olur.
+
+57
+00:02:48,420 --> 00:02:52,099
+Ancak daha fazla ısı üreten trilyonlarca ve trilyonlarca yeni sıcak mitokondri ile dolu 216.000 kat daha fazla hacme sahiptir
+
+58
+00:02:52,100 --> 00:02:55,539
+
+
+
+59
+00:02:55,540 --> 00:02:57,539
+.
+
+60
+00:02:57,540 --> 00:03:00,679
+Çok daha fazla iç;  çok daha fazla cilt değil.
+
+61
+00:03:00,680 --> 00:03:04,639
+Faremiz çok öldü, çok hızlı.
+
+62
+00:03:04,640 --> 00:03:07,559
+Ama filler gibi büyük şeyler var.
+
+63
+00:03:07,560 --> 00:03:10,019
+Peki sıcakla nasıl başa çıkıyorlar?
+
+64
+00:03:10,020 --> 00:03:13,259
+Birincisi, ısının kaçabileceği
+
+
+65
+00:03:13,260 --> 00:03:17,659
+çok fazla yüzeye sahip devasa düz kulaklar gibi enerjiden daha kolay kurtulmanın yollarını geliştirdiler
+.
+
+66
+00:03:17,660 --> 00:03:18,979
+Ama bu yeterli değil.
+
+67
+00:03:18,980 --> 00:03:22,359
+Doğanın çözümü aslında çok zarif.
+
+68
+00:03:22,360 --> 00:03:26,219
+Fil hücreleri, fare hücrelerinden çok, çok
+daha yavaştır.
+
+69
+00:03:26,220 --> 00:03:30,139
+Bir hayvan ne kadar büyükse
+, hücreleri o kadar az aktiftir.
+
+70
+00:03:30,140 --> 00:03:33,119
+Hayvanları
+metabolik hızlarına göre sınıflandırırsak ve
+
+71
+00:03:33,120 --> 00:03:36,299
+bunu toplam kütleleriyle karşılaştırırsak
+, bu açıkça görülebilir.
+
+72
+00:03:36,300 --> 00:03:38,499
+%100 doğru değildir,
+
+73
+00:03:38,500 --> 00:03:40,799
+ancak iyi bir genel kuraldır.
+
+74
+00:03:40,800 --> 00:03:42,959
+Filler
+
+75
+00:03:42,960 --> 00:03:45,479
+trilyonlarca ve trilyonlarca küçük kömür fırınıyla dolu devasa et çuvallarıdır.
+
+76
+00:03:45,480 --> 00:03:48,599
+Böylece, fırınları
+çalışır durumda tutacak kadar aktif tutarlar
+
+77
+00:03:48,600 --> 00:03:50,779
+ve asla tam güçte kalmazlar.
+
+78
+00:03:50,780 --> 00:03:52,999
+Bütün metabolizmaları yavaştır.
+
+79
+00:03:53,000 --> 00:03:55,999
+İşler güzel bir soğuk tempoda ilerliyor.
+
+80
+00:03:56,000 --> 00:03:58,919
+Küçük hayvanların
+tam tersi yöne gitmeleri gerekir.
+
+81
+00:03:58,920 --> 00:04:01,039
+Küçükseniz, çok fazla hacme
+kıyasla çok fazla yüzey alanınız var
+
+82
+00:04:01,040 --> 00:04:03,359
+.
+
+83
+00:04:03,360 --> 00:04:05,219
+Çok fazla hücre fırınınız yok
+
+84
+00:04:05,220 --> 00:04:08,419
+ve ürettikleri ısıyı
+çok hızlı kaybediyorlar.
+
+85
+00:04:08,420 --> 00:04:12,559
+Çok küçük memeliler
+çok uç bir çözüm buldular.
+
+86
+00:04:12,560 --> 00:04:15,839
+
+Dünyadaki en küçük memeli Etrüsk Shrew ile tanışın.
+
+87
+00:04:15,840 --> 00:04:20,259
+Kirpilerle farelerden daha yakın akraba olan köstebek benzeri bir şey
+.
+
+88
+00:04:20,260 --> 00:04:22,479
+4 santimetrelik gövde uzunluğu
+
+89
+00:04:22,480 --> 00:04:26,139
+ile sadece yaklaşık 1.8 gram ağırlığında - bir ataş kadar.
+
+90
+00:04:26,140 --> 00:04:28,539
+Küçük, gülünç bir varlık.
+
+91
+00:04:28,540 --> 00:04:30,819
+Temelde hemen soğur,
+
+92
+00:04:30,820 --> 00:04:33,539
+bu nedenle hücreleri ısınmak için aşırı hızda çalışır.
+
+93
+00:04:33,540 --> 00:04:36,879
+Minik fırınları maksimum kapasitede doldurulur.
+
+94
+00:04:36,880 --> 00:04:39,779
+Kalbi dakikada 1.200 defa
+
+95
+00:04:39,780 --> 00:04:42,419
+çarpar ve dakikada 800 defaya kadar nefes alır.
+
+96
+00:04:42,420 --> 00:04:44,999
+Bu aşırı bir enerji ihtiyacı yaratır.
+
+97
+00:04:45,000 --> 00:04:47,039
+Bu yüzden fare sürekli yemek yemek zorundadır.
+
+98
+00:04:47,040 --> 00:04:51,339
+Yemeksiz sadece 4 saat sonra açlıktan ölür.
+
+99
+00:04:51,340 --> 00:04:52,499
+Ve bir Afrika fili her gün
+
+100
+00:04:52,500 --> 00:04:55,719
+vücut ağırlığının yaklaşık %4'ünü
+yiyecek olarak tüketirken.
+
+101
+00:04:55,720 --> 00:04:58,279
+Kır faremiz hayatta kalabilmek için günde vücut ağırlığının %200'üne ihtiyaç duyar
+
+102
+00:04:58,280 --> 00:05:00,639
+.  Günde bir dakikadan fazla 2.000 Big Mac
+
+103
+00:05:00,640 --> 00:05:03,119
+yemek zorunda olduğunuzu hayal edin
+
+
+104
+00:05:03,120 --> 00:05:04,579
+.
+
+105
+00:05:04,580 --> 00:05:07,619
+Bir süre eğlenceli, ama sonra o kadar değil.
+
+106
+00:05:07,620 --> 00:05:11,399
+Yani, bir santimetre küp kır faresi, bir santimetre küp filden
+40 kat daha fazla yiyeceğe ihtiyaç duyar
+
+107
+00:05:11,400 --> 00:05:13,299
+.
+
+108
+00:05:13,300 --> 00:05:14,659
+Bir filin hücreleri
+
+109
+00:05:14,660 --> 00:05:17,139
+aniden
+bir kır faresinin hücreleri kadar aktif hale gelirse, çılgınca bir
+
+110
+00:05:17,140 --> 00:05:19,999
+
+ısı üretilir.
+
+111
+00:05:20,000 --> 00:05:22,979
+Filin içindeki tüm sıvılar
+aniden kaynamaya başlar.
+
+112
+00:05:22,980 --> 00:05:24,359
+Ve sonra
+
+113
+00:05:24,360 --> 00:05:28,739
+, dumanı tüten
+sıcak yanan fil parçalarının etkileyici bir patlamasıyla patlayacaktı.
+
+114
+00:05:28,740 --> 00:05:31,179
+Gerçekte, bir patlama meydana gelmeden önce
+
+115
+00:05:31,180 --> 00:05:34,359
+
+hücrelerimizi oluşturan proteinler muhtemelen denatüre olur
+
+116
+00:05:34,360 --> 00:05:35,999
+ve ısı üretmeyi bırakırdı.
+
+117
+00:05:36,000 --> 00:05:37,739
+Ancak bir et patlaması,
+
+118
+00:05:37,740 --> 00:05:41,219
+bir fili
+büyük bir sıcak yapışkan maddeye eritmekten çok daha eğlencelidir.
+
+119
+00:05:41,220 --> 00:05:44,899
+Ne olursa olsun, metabolizma hızının ölçeklenmesi
+her yerde olur.
+
+120
+00:05:44,900 --> 00:05:48,719
+
+Hamile kadınlar gibi beklemediğimiz yerlerde bile.
+
+121
+00:05:48,720 --> 00:05:52,079
+Anne karnındaki bebek
+sanki onun bir parçasıymış gibi davranır.
+
+122
+00:05:52,080 --> 00:05:54,919
+Hücreleri, annesinin organları ile aşağı
+yukarı aynı metabolizma hızına
+
+123
+00:05:54,920 --> 00:05:57,639
+, aynı yaşam hızına sahiptir
+.
+
+124
+00:05:57,640 --> 00:06:01,939
+Gerçekten de bir bireyden ziyade daha büyük bir bütünün parçasıdır
+.
+
+125
+00:06:01,940 --> 00:06:04,039
+Artık olmayana kadar.
+
+126
+00:06:04,040 --> 00:06:06,919
+Bir bebek doğduğu anda,
+bir anahtar çevrilir
+
+127
+00:06:06,920 --> 00:06:11,319
+ve tüm iç
+süreçleri hızla hızlanır.
+
+128
+00:06:11,320 --> 00:06:12,879
+Doğumdan 36 saat
+
+129
+00:06:12,880 --> 00:06:17,439
+sonra bebeğin hücreleri,
+kendi büyüklüğündeki bir memeli ile aynı aktivite oranına sahiptir.
+
+130
+00:06:17,440 --> 00:06:20,119
+Bebekler kelimenin tam anlamıyla
+bir
+
+131
+00:06:20,120 --> 00:06:22,679
+organ olmaktan sadece birkaç saat içinde bir birey olmaya geçerler.
+
+132
+00:06:22,680 --> 00:06:26,079
+Ama büyük ve küçük şeylerin
+birbirine çok benzediği bir şey var:
+
+133
+00:06:26,080 --> 00:06:27,779
+Kalp atışları.
+
+134
+00:06:27,780 --> 00:06:31,319
+Memeliler
+, yaşamları boyunca benzer miktarda kalp atışına sahip olma eğilimindedir.
+
+135
+00:06:31,320 --> 00:06:34,119
+Genelde 1 milyar civarında.
+
+136
+00:06:34,120 --> 00:06:36,799
+Bu nedenle, kır faresi ve
+fil çok farklı olsa da,
+
+137
+00:06:36,800 --> 00:06:41,259
+yaşamları boyunca benzer sayıda kalp atışı paylaşırlar
+.
+
+138
+00:06:41,260 --> 00:06:46,139
+Hayat hızları tam tersi
+ve bir şekilde hala aynı.
+
+139
+00:06:46,140 --> 00:06:50,059
+Ve
+sebepsiz yere filleri patlattığımız bir video için.
+
+140
+00:06:50,060 --> 00:06:53,260
+Bu, bulabileceğimiz en romantik
+son.
+

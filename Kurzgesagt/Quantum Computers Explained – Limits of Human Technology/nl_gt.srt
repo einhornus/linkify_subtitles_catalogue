@@ -1,0 +1,442 @@
+1
+00:00:00,000 --> 00:00:00,499
+Quantumcomputers verklaard – Grenzen van menselijke technologie
+
+2
+00:00:00,500 --> 00:00:06,119
+Voor het grootste deel van onze geschiedenis bestond menselijke technologie uit onze hersenen, vuur en scherpe stokken.
+
+3
+00:00:06,120 --> 00:00:10,159
+Terwijl vuur en scherpe stokken energiecentrales en kernwapens werden, is
+
+4
+00:00:10,160 --> 00:00:13,279
+de grootste upgrade onze hersenen overkomen.
+
+5
+00:00:13,280 --> 00:00:17,379
+Sinds de jaren zestig is de kracht van onze hersenmachines exponentieel blijven groeien,
+
+6
+00:00:17,380 --> 00:00:21,939
+waardoor computers tegelijkertijd kleiner en krachtiger konden worden.
+
+7
+00:00:21,940 --> 00:00:25,499
+Maar dit proces staat op het punt zijn fysieke grenzen te bereiken.
+
+8
+00:00:25,500 --> 00:00:28,859
+Computeronderdelen naderen de grootte van een atoom.
+
+9
+00:00:28,860 --> 00:00:33,179
+Om te begrijpen waarom dit een probleem is, moeten we enkele basisprincipes ophelderen.
+
+10
+00:00:33,180 --> 00:00:39,719
+In een notendop - Door Kurzgesagt
+
+11
+00:00:39,720 --> 00:00:42,539
+Een computer bestaat uit zeer eenvoudige componenten
+
+12
+00:00:42,540 --> 00:00:44,219
+die zeer eenvoudige dingen doen.
+
+13
+00:00:44,220 --> 00:00:49,019
+Vertegenwoordigen van gegevens, de middelen om deze te verwerken en controlemechanismen.
+
+14
+00:00:49,020 --> 00:00:54,639
+Computerchips bevatten modules, die logische poorten bevatten, die transistors bevatten.
+
+15
+00:00:54,640 --> 00:00:58,439
+Een transistor is de eenvoudigste vorm van een gegevensprocessor in computers, in
+
+16
+00:00:58,440 --> 00:01:03,259
+feite een schakelaar die de informatie kan blokkeren of de weg kan openen.
+
+17
+00:01:03,260 --> 00:01:06,339
+Deze informatie bestaat uit bits
+
+18
+00:01:06,340 --> 00:01:08,499
+die kunnen worden ingesteld op 0 of 1.
+
+19
+00:01:08,500 --> 00:01:12,999
+Combinaties van verschillende bits worden gebruikt om complexere informatie weer te geven.
+
+20
+00:01:13,000 --> 00:01:17,999
+Transistors worden gecombineerd om logische poorten te creëren die nog steeds heel eenvoudige dingen doen.
+
+21
+00:01:18,000 --> 00:01:25,459
+Een AND-poort verzendt bijvoorbeeld een uitvoer van 1 als alle ingangen 1 zijn en anders een uitvoer van 0.
+
+22
+00:01:25,460 --> 00:01:30,999
+Combinaties van logische poorten vormen uiteindelijk zinvolle modules, bijvoorbeeld voor het optellen van twee getallen.
+
+23
+00:01:31,000 --> 00:01:33,759
+Als je eenmaal kunt optellen, kun je ook vermenigvuldigen,
+
+24
+00:01:33,760 --> 00:01:37,159
+en als je eenmaal kunt vermenigvuldigen, kun je in principe alles doen.
+
+25
+00:01:37,160 --> 00:01:41,039
+Omdat alle basishandelingen letterlijk eenvoudiger zijn dan wiskunde in de eerste klas,
+
+26
+00:01:41,040 --> 00:01:46,079
+kun je je een computer voorstellen als een groep 7-jarigen die echt elementaire wiskundevragen beantwoorden.
+
+27
+00:01:46,080 --> 00:01:48,679
+Een groot aantal van hen kan alles berekenen,
+
+28
+00:01:48,680 --> 00:01:51,339
+van astrofysica tot Zelda.
+
+29
+00:01:51,340 --> 00:01:53,739
+Nu onderdelen echter steeds kleiner worden, maakt de
+
+30
+00:01:53,740 --> 00:01:56,539
+kwantumfysica het lastig.
+
+31
+00:01:56,540 --> 00:01:59,979
+In een notendop, een transistor is slechts een elektrische schakelaar.
+
+32
+00:01:59,980 --> 00:02:03,159
+Elektriciteit zijn elektronen die van de ene plaats naar de andere gaan.
+
+33
+00:02:03,160 --> 00:02:08,359
+Een schakelaar is dus een doorgang die kan voorkomen dat elektronen in één richting bewegen.
+
+34
+00:02:08,360 --> 00:02:12,219
+Tegenwoordig is een typische schaal voor transistors 14 nanometer,
+
+35
+00:02:12,220 --> 00:02:15,519
+wat ongeveer 8 keer kleiner is dan de diameter van het HIV-virus
+
+36
+00:02:15,520 --> 00:02:18,399
+en 500 keer kleiner dan een rode bloedcel.
+
+37
+00:02:18,400 --> 00:02:22,319
+Omdat transistors krimpen tot de grootte van slechts een paar atomen, kunnen
+
+38
+00:02:22,320 --> 00:02:25,919
+elektronen zichzelf naar de andere kant van een geblokkeerde doorgang verplaatsen
+
+39
+00:02:25,920 --> 00:02:28,499
+via een proces dat Quantum Tunneling wordt genoemd.
+
+40
+00:02:28,500 --> 00:02:33,259
+In het kwantumrijk werkt de natuurkunde heel anders dan de voorspelbare manieren die we gewend zijn,
+
+41
+00:02:33,260 --> 00:02:36,859
+en traditionele computers hebben geen zin meer.
+
+42
+00:02:36,860 --> 00:02:41,219
+We naderen een echte fysieke barrière voor onze technologische vooruitgang.
+
+43
+00:02:41,220 --> 00:02:42,899
+Om dit probleem op te lossen,
+
+44
+00:02:42,900 --> 00:02:47,099
+proberen wetenschappers deze ongebruikelijke kwantumeigenschappen in hun voordeel te gebruiken
+
+45
+00:02:47,100 --> 00:02:49,179
+door kwantumcomputers te bouwen.
+
+46
+00:02:49,180 --> 00:02:53,419
+In normale computers zijn bits de kleinste eenheid van informatie.
+
+47
+00:02:53,420 --> 00:02:58,059
+Quantumcomputers gebruiken qubits die ook kunnen worden ingesteld op een van twee waarden.
+
+48
+00:02:58,060 --> 00:03:00,859
+Een qubit kan elk kwantumsysteem met twee niveaus zijn,
+
+49
+00:03:00,860 --> 00:03:04,659
+zoals een spin en een magnetisch veld, of een enkel foton.
+
+50
+00:03:04,660 --> 00:03:07,579
+0 en 1 zijn de mogelijke toestanden van dit systeem,
+
+51
+00:03:07,580 --> 00:03:10,959
+zoals de fotonen horizontale of verticale polarisatie.
+
+52
+00:03:10,960 --> 00:03:14,519
+In de kwantumwereld hoeft de qubit niet slechts een van die te zijn,
+
+53
+00:03:14,520 --> 00:03:17,899
+hij kan in elke verhouding van beide toestanden tegelijk zijn.
+
+54
+00:03:17,900 --> 00:03:19,899
+Dit wordt superpositie genoemd.
+
+55
+00:03:19,900 --> 00:03:24,679
+Maar zodra je de waarde ervan test, bijvoorbeeld door het foton door een filter te sturen
+
+56
+00:03:24,680 --> 00:03:29,139
+, moet het beslissen of het verticaal of horizontaal gepolariseerd is.
+
+57
+00:03:29,140 --> 00:03:31,059
+Dus zolang het niet wordt waargenomen, bevindt
+
+58
+00:03:31,060 --> 00:03:37,139
+de qubit zich in een superpositie van kansen voor 0 en 1, en je kunt niet voorspellen welke het zal zijn.
+
+59
+00:03:37,140 --> 00:03:39,139
+Maar op het moment dat je het meet
+
+60
+00:03:39,140 --> 00:03:42,439
+, stort het in een van de bepaalde toestanden.
+
+61
+00:03:42,440 --> 00:03:44,599
+Superpositie is een gamechanger.
+
+62
+00:03:44,600 --> 00:03:50,379
+Vier klassieke bits kunnen tegelijkertijd in een van de twee tot de macht van vier verschillende configuraties zijn.
+
+63
+00:03:50,380 --> 00:03:54,699
+Dat zijn 16 mogelijke combinaties, waarvan je er maar één kunt gebruiken.
+
+64
+00:03:54,700 --> 00:04:00,379
+Vier qubits in superpositie kunnen echter in al die 16 combinaties tegelijk voorkomen.
+
+65
+00:04:00,380 --> 00:04:04,479
+Dit aantal groeit exponentieel met elke extra qubit.
+
+66
+00:04:04,480 --> 00:04:08,239
+Twintig daarvan kunnen al een miljoen waarden parallel opslaan.
+
+67
+00:04:08,240 --> 00:04:12,879
+Een heel vreemde en niet-intuïtieve eigenschap die qubits kunnen hebben, is verstrengeling,
+
+68
+00:04:12,880 --> 00:04:18,119
+een nauwe verbinding die ervoor zorgt dat elk van de qubits onmiddellijk reageert op een verandering in de toestand van de ander,
+
+69
+00:04:18,120 --> 00:04:20,199
+ongeacht hoe ver ze van elkaar verwijderd zijn.
+
+70
+00:04:20,200 --> 00:04:26,139
+Dit betekent dat bij het meten van slechts één verstrengelde qubit, je direct eigenschappen van zijn partners kunt afleiden
+
+71
+00:04:26,140 --> 00:04:27,679
+zonder te hoeven kijken.
+
+72
+00:04:27,680 --> 00:04:31,159
+Qubit-manipulatie is ook een breinbreker.
+
+73
+00:04:31,160 --> 00:04:36,439
+Een normale logische poort krijgt een eenvoudige set ingangen en produceert één duidelijke output.
+
+74
+00:04:36,440 --> 00:04:41,679
+Een kwantumpoort manipuleert een invoer van superposities, roteert waarschijnlijkheden
+
+75
+00:04:41,680 --> 00:04:44,959
+en produceert een andere superpositie als uitvoer.
+
+76
+00:04:44,960 --> 00:04:51,459
+Dus een kwantumcomputer stelt een aantal qubits op, past kwantumpoorten toe om ze te verstrengelen en kansen te manipuleren,
+
+77
+00:04:51,460 --> 00:04:57,619
+en meet dan uiteindelijk de uitkomst, waarbij superposities worden samengevouwen tot een werkelijke reeks van nullen en enen.
+
+78
+00:04:57,620 --> 00:05:04,219
+Wat dit betekent is dat u alle berekeningen krijgt die mogelijk zijn met uw setup, allemaal tegelijkertijd gedaan.
+
+79
+00:05:04,220 --> 00:05:09,359
+Uiteindelijk kun je maar één van de resultaten meten en het zal waarschijnlijk alleen degene zijn die je wilt,
+
+80
+00:05:09,360 --> 00:05:12,399
+dus het kan zijn dat je het nog een keer moet controleren en het opnieuw moet proberen.
+
+81
+00:05:12,400 --> 00:05:15,959
+Maar door slim gebruik te maken van superpositie en verstrengeling
+
+82
+00:05:15,960 --> 00:05:20,499
+, kan dit exponentieel efficiënter zijn dan ooit mogelijk zou zijn op een normale computer.
+
+83
+00:05:20,500 --> 00:05:25,919
+Dus hoewel kwantumcomputers onze thuiscomputers waarschijnlijk niet zullen vervangen
+
+84
+00:05:25,920 --> 00:05:28,559
+, zijn ze in sommige gebieden enorm superieur.
+
+85
+00:05:28,560 --> 00:05:30,799
+Een daarvan is het zoeken in databases.
+
+86
+00:05:30,800 --> 00:05:35,819
+Om iets in een database te vinden, moet een normale computer mogelijk elk van zijn items testen.
+
+87
+00:05:35,820 --> 00:05:39,099
+Quantumcomputeralgoritmen hebben alleen de vierkantswortel van die tijd nodig,
+
+88
+00:05:39,100 --> 00:05:42,459
+wat voor grote databases een enorm verschil is.
+
+89
+00:05:42,460 --> 00:05:46,639
+Het bekendste gebruik van quantumcomputers verpest de IT-beveiliging.
+
+90
+00:05:46,640 --> 00:05:52,079
+Op dit moment worden uw browse-, e-mail- en bankgegevens beveiligd door een coderingssysteem
+
+91
+00:05:52,080 --> 00:05:56,499
+waarin u iedereen een openbare sleutel geeft om berichten te coderen die alleen u kunt decoderen.
+
+92
+00:05:56,500 --> 00:06:02,119
+Het probleem is dat deze openbare sleutel daadwerkelijk kan worden gebruikt om uw geheime privésleutel te berekenen.
+
+93
+00:06:02,120 --> 00:06:07,559
+Gelukkig zou het doen van de nodige wiskunde op elke normale computer letterlijk jaren van vallen en opstaan
+
+94
+00:06:07,560 --> 00:06:12,439
+.  Maar een kwantumcomputer met exponentiële snelheid zou het in een handomdraai kunnen doen.
+
+95
+00:06:12,440 --> 00:06:15,459
+Een ander echt opwindend nieuw gebruik zijn simulaties.
+
+96
+00:06:15,460 --> 00:06:19,019
+Simulaties van de kwantumwereld zijn zeer intensief met hulpbronnen,
+
+97
+00:06:19,020 --> 00:06:24,019
+en zelfs voor grotere structuren, zoals moleculen, missen ze vaak nauwkeurigheid.
+
+98
+00:06:24,020 --> 00:06:28,339
+Dus waarom zou je kwantumfysica niet simuleren met echte kwantumfysica?
+
+99
+00:06:28,340 --> 00:06:34,319
+Kwantumsimulaties kunnen nieuwe inzichten opleveren over eiwitten die een revolutie teweeg kunnen brengen in de geneeskunde.
+
+100
+00:06:34,320 --> 00:06:38,499
+Op dit moment weten we niet of kwantumcomputers slechts een gespecialiseerd hulpmiddel zullen zijn,
+
+101
+00:06:38,500 --> 00:06:40,759
+of een grote revolutie voor de mensheid.
+
+102
+00:06:40,760 --> 00:06:43,799
+We hebben geen idee waar de grenzen van de technologie liggen,
+
+103
+00:06:43,800 --> 00:06:46,539
+en er is maar één manier om daar achter te komen.
+
+104
+00:06:46,540 --> 00:06:50,619
+Deze video wordt ondersteund door de Australian Academy of Science,
+
+105
+00:06:50,620 --> 00:06:54,439
+die excellentie in de wetenschap promoot en ondersteunt.
+
+106
+00:06:54,440 --> 00:06:58,519
+Kom meer te weten over dit onderwerp en anderen vinden het leuk op
+
+107
+00:06:58,520 --> 00:07:01,959
+nova.org.au Het was geweldig om met hen samen te werken, dus neem een kijkje op hun site!
+
+108
+00:07:01,960 --> 00:07:06,199
+ Onze video's worden ook mogelijk gemaakt door uw steun op patreon.com.
+
+109
+00:07:06,200 --> 00:07:12,979
+Als je ons wilt steunen en deel wilt uitmaken van het Kurzgesagt-vogelleger, bekijk dan onze Patreon-pagina!
+
+110
+00:07:12,980 --> 00:07:15,640
+Ondertitels door James Zhang
+[herzien door Pietro Pasquero]
+[gecorrigeerd door P0ck3tL1nt]
+

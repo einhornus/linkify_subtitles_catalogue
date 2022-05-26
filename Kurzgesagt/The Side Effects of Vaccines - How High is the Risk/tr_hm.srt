@@ -1,0 +1,582 @@
+1
+00:00:00,960 --> 00:00:04,879
+Aşıların hastalıklarla savaşmadaki katkıları meşhurdur.
+
+2
+00:00:04,880 --> 00:00:06,279
+Ancak sayısı artmakta olan bir grup insan,
+
+3
+00:00:06,280 --> 00:00:10,359
+aşıların sağlığımızı korumak yerine, tehlikeye attığını düşünmekte.
+
+4
+00:00:10,360 --> 00:00:18,639
+İnternet; alerjik reaksiyonlar, engelliliğin başlaması ve hatta aşılardan sonra gerçekleşen ölüm haberleriyle dolu.
+
+5
+00:00:18,640 --> 00:00:22,619
+Ve aşıların yan etkisi olabileceği doğrudur.
+
+6
+00:00:22,620 --> 00:00:28,359
+Gelin, aşıların nasıl çalıştığına ve gerçekte ne kadar tehlikeli olduğuna bir bakalım.
+
+7
+00:00:28,360 --> 00:00:32,959
+Çeviri: Berke Öncül
+Düzenleme: Doğan Kırnaz
+
+8
+00:00:32,960 --> 00:00:37,099
+kurzgesagt - özetle
+
+9
+00:00:37,100 --> 00:00:41,379
+Bağışıklık sistemimiz, bünyesinde milyarlarca hücre barındıran karmaşık bir ordudur.
+
+10
+00:00:41,380 --> 00:00:45,719
+Asker hücreler, akıllı hücreler ve silah fabrikaları.
+
+11
+00:00:45,720 --> 00:00:48,339
+Her gün sayısız saldırıya uğrarız,
+
+12
+00:00:48,340 --> 00:00:51,739
+ama bağışıklık sistemimizin askerleri tek başlarına bunun icabına bakar.
+
+13
+00:00:51,740 --> 00:00:53,859
+Bu yüzden, biz bunu fark etmeyiz bile.
+
+14
+00:00:53,860 --> 00:00:59,319
+Eğer bir enfeksiyon ciddileşirse akıllı hücrelerimiz saldırganlar hakkında bilgi toplar,
+
+15
+00:00:59,320 --> 00:01:01,759
+ve silah fabrikalarını aktifleştirir.
+
+16
+00:01:01,760 --> 00:01:04,659
+Silahı biliyorsunuz, Antikorlar.
+
+17
+00:01:04,660 --> 00:01:10,019
+Antikorlar güdümlü füzeler gibidir. İstilacıya karşı savaşmaları için özel olarak üretilirler.
+
+18
+00:01:10,020 --> 00:01:14,319
+Ancak, bu sürecin tamamlanması bir kaç gün alır.
+
+19
+00:01:14,320 --> 00:01:17,939
+Bu da, istilacılara zarar vermeleri için yeterli zamanı sağlar.
+
+20
+00:01:17,940 --> 00:01:22,319
+Yaygın inancın aksine, sizi öldürmeyen şey güçlendirmez.
+
+21
+00:01:22,320 --> 00:01:26,599
+Vücudumuz bu ciddi savaşlara tekrar tekrar girmek istemez.
+
+22
+00:01:26,600 --> 00:01:32,379
+Bu yüzden, bağışıklık sistemimiz zamanla güçlenmek için sıradışı bir yöntem geliştirdi.
+
+23
+00:01:32,380 --> 00:01:36,499
+Eğer ağır silahlarımızı aktif edecek kadar güçlü bir düşmanla savaşırsak,
+
+24
+00:01:36,500 --> 00:01:40,219
+bağışıklık sistemimiz otomatik olarak hafıza hücreleri yaratır.
+
+25
+00:01:40,220 --> 00:01:44,639
+Hafıza hücreleri, vücudumuzda yıllarca derin bir uykuda kalır.
+
+26
+00:01:44,640 --> 00:01:47,919
+Hatırlamaktan başka bir şey yapmazlar.
+
+27
+00:01:47,920 --> 00:01:50,399
+Düşman ikinci kez saldırdığında,
+
+28
+00:01:50,400 --> 00:01:56,559
+uyuyan hafıza hücreleri uyanarak koordineli bir saldırı ve antikor üretimi emri verir.
+
+29
+00:01:56,560 --> 00:02:03,059
+Bu, o kadar hızlı ve etkilidir ki bir kez yendiğiniz enfeksiyonlar sizi bir daha hasta yapamaz.
+
+30
+00:02:03,060 --> 00:02:05,879
+Bu hastalıklara sonsuza kadar bile bağışıklık kazanabilirsiniz.
+
+31
+00:02:05,880 --> 00:02:09,239
+İşte bu yüzden küçük çocuklar sürekli hastadır.
+
+32
+00:02:09,240 --> 00:02:12,019
+Henüz yeteri kadar hafıza hücreleri yoktur,
+
+33
+00:02:12,020 --> 00:02:18,679
+aşı yaptırdığımızda, bu güzel doğal mekanizmayı destekleriz.
+
+34
+00:02:18,680 --> 00:02:21,519
+Aşılar nasıl çalışır?
+
+35
+00:02:21,520 --> 00:02:24,059
+Hafıza hücreleri çok iyi olmasına rağmen,
+
+36
+00:02:24,060 --> 00:02:28,979
+onları enfeksiyon yolu ile kazanmak rahatsızlık verici ve bazen de tehlikelidir.
+
+37
+00:02:28,980 --> 00:02:34,659
+Aşılar, hafıza hücrelerini üretmek için vücudumuzu kandırıp bir hastalığa karşı bağışıklık kazandırma yöntemidir.
+
+38
+00:02:34,660 --> 00:02:37,479
+Aşılar, tehlikeli enfeksiyonlar gibi davranır.
+
+39
+00:02:37,480 --> 00:02:41,419
+Bunu yapmanın bir yolu, istilacıları vücuda zarar vermeyecek şekilde enjekte etmektir.
+
+40
+00:02:41,420 --> 00:02:45,399
+Örneğin, onları öldürebilir yada parçalara ayırabiliriz.
+
+41
+00:02:45,400 --> 00:02:49,819
+Bağışıklık sistemimiz bu tür aşıların üstesinden çok kolay bir şekilde gelir.
+
+42
+00:02:49,820 --> 00:02:57,079
+Bazen, bağışıklık sistemimizi daha fazla hafıza hücresi üretmesi için daha çok çalıştırmamız gerekebilir.
+
+43
+00:02:57,080 --> 00:02:59,499
+Canlı aşılar tehlikeli olabilir.
+
+44
+00:02:59,500 --> 00:03:03,339
+Karşı saldırı yapabilen bir düşman, ölü düşmandan daha büyük bir mücadele gerektirir.
+
+45
+00:03:03,340 --> 00:03:06,719
+Ama, bu aynı zamanda kulağa kötü bir fikir gibi geliyor.
+
+46
+00:03:06,720 --> 00:03:08,859
+Ya mikroplar kazanırsa?
+
+47
+00:03:08,860 --> 00:03:14,039
+Bundan kaçınmak için gerçek mikrobun zayıf kuzeni sayılabilecek bir mikrobu laboratuvarda üretiriz.
+
+48
+00:03:14,040 --> 00:03:19,779
+Bağışıklık sistemini tetikleyerek yeterli miktarda hafıza hücresi üretmesini sağlayacak kadar güçlü bir tane.
+
+49
+00:03:19,780 --> 00:03:23,799
+Pekala, bunlar aşı kullanımının temel prensipleri.
+
+50
+00:03:23,800 --> 00:03:30,359
+Vücudumuzda, bize çok güçlü hastalıklara karşı bağışıklık kazandıran doğal bir reaksiyona neden oluyorlar.
+
+51
+00:03:30,360 --> 00:03:35,919
+Bazıları, grip virüsü gibi o kadar mutasyona uğrar ki her yıl yeni bir aşıya ihtiyacımız olur.
+
+52
+00:03:35,920 --> 00:03:40,719
+Ama, çoğu aşı bizi yıllarca korur , hatta ömür boyu.
+
+53
+00:03:40,720 --> 00:03:43,159
+Ama bunun bir bedeli vardır.
+
+54
+00:03:43,160 --> 00:03:46,599
+Diğer her şey gibi, aşıların da başka bir yüzü var.
+
+55
+00:03:46,600 --> 00:03:48,319
+Yan etkiler.
+
+56
+00:03:48,320 --> 00:03:52,599
+Yan etkileri nelerdir ve çocuğunuzda görülürse ne olur?
+
+57
+00:03:52,600 --> 00:03:55,679
+Aşıların riski.
+
+58
+00:03:55,680 --> 00:04:01,219
+Aşıların yan etkilerini ve hastalıkların etkilerini direkt olarak karşılaştırmak kafa karıştırabilir.
+
+59
+00:04:01,220 --> 00:04:06,259
+Örneğin, Batıda yüz milyonlarca insan kızamığa karşı aşı yaptırdı.
+
+60
+00:04:06,260 --> 00:04:11,219
+Ama, 2018'de sadece Avrupa'da 83,000 kişide kızamık görüldü.
+
+61
+00:04:11,220 --> 00:04:12,999
+Yani sayılar bu kadar farklı olunca,
+
+62
+00:04:13,000 --> 00:04:20,398
+artık fazla görmediğimiz bir hastalığın kötü etkilerine karşı hafif bir yan etki daha korkutucu gelebilir.
+
+63
+00:04:20,399 --> 00:04:23,659
+Kızamık aşısı 1963'de erişilebilir olmadan önce,
+
+64
+00:04:23,660 --> 00:04:28,759
+neredeyse dünyadaki bütün çocuklar hayatının bir döneminde kızamığa yakalanıyordu.
+
+65
+00:04:28,760 --> 00:04:33,899
+1950'lerde yaklaşık olarak 135 milyon vaka görülmüştür.
+
+66
+00:04:33,900 --> 00:04:36,239
+Her yıl.
+
+67
+00:04:36,240 --> 00:04:40,179
+Ama kızamık 2019 yılında da gerçekten tehlikeli mi?
+
+68
+00:04:40,180 --> 00:04:43,339
+Gelişmiş sağlık hizmetimiz ve ileri teknolojimizle bile,
+
+69
+00:04:43,340 --> 00:04:47,399
+aşının yan etkilerine katlanmaya değer mi?
+
+70
+00:04:47,400 --> 00:04:51,039
+Hadi, gerçek sayılara dayanan bir düşünce deneyi yapalım.
+
+71
+00:04:51,040 --> 00:04:54,219
+Diyelim ki, paralel evrende gelişmiş bir ülke olsun.
+
+72
+00:04:54,220 --> 00:04:57,999
+İyi bir sağlık sistemi var ama insanlar aşı olmayı bırakmış.
+
+73
+00:04:58,000 --> 00:05:02,539
+Bu senaryoda, diyelim ki 10 milyon çocuk kızamık kapmış olsun.
+
+74
+00:05:02,540 --> 00:05:04,179
+Ne olur?
+
+75
+00:05:04,180 --> 00:05:10,659
+9 milyon 800 bin kişinin veya %98'inin yüksek ateşi ve çok rahatsız edici kaşıntısı olur.
+
+76
+00:05:10,660 --> 00:05:16,259
+800 bin kişinin veya %8'inin tehlikeli ishali olur.
+
+77
+00:05:16,260 --> 00:05:23,159
+700 bin kişinin veya %7'sinin kalıcı duyma kaybına yol açabilecek kulak enfeksiyonu olur.
+
+78
+00:05:23,160 --> 00:05:27,119
+600 bin çocuk veya %6'sı zatürre geçirir.
+
+79
+00:05:27,120 --> 00:05:29,939
+Kızamığın en tehlikeli etkisi.
+
+80
+00:05:29,940 --> 00:05:33,159
+Bu zatürre tek başına 12 bin çocuğu öldürür.
+
+81
+00:05:33,160 --> 00:05:38,459
+10 bin  kadar çocuk veya çocukların %0.1'i beyin iltihabı geçirir.
+
+82
+00:05:38,460 --> 00:05:44,199
+2,5 bin çocuk veya %0.025'i SSPE geçirir.
+
+83
+00:05:44,200 --> 00:05:49,839
+Kızamığın beyinde kalıp bir kaç yıl sonra öldüren bir hastalık.
+
+84
+00:05:49,840 --> 00:05:57,179
+Toplam olarak 2,5 milyon civarında çocuk, kızamığın bir miktar ciddi etkilerine maruz kalır,
+
+85
+00:05:57,180 --> 00:06:01,519
+ve 20 bin civarında çocuk, kızamık yüzünden ölür.
+
+86
+00:06:01,520 --> 00:06:03,239
+Bu şekilde de bitmeyecek gerçi,
+
+87
+00:06:03,240 --> 00:06:09,799
+kızamığı yenen çocukların bağışıklık sistemi, yenilenmek çok fazla zamana ihtiyaç duyacak şekilde ağır zarar görecek.
+
+88
+00:06:09,800 --> 00:06:13,599
+Diğer hastalıkların zarar vermek için ihtiyaç duyacağı kadar zamana.
+
+89
+00:06:13,600 --> 00:06:20,699
+Bundan başka çocuklarınızın 2 hafta boyunca çok kötü zaman geçireceği neredeyse garantidir.
+
+90
+00:06:20,700 --> 00:06:23,499
+Pekala, peki ya aşılar?
+
+91
+00:06:23,500 --> 00:06:26,579
+Aşıların yan etkilerine bakmamak adil olmaz
+
+92
+00:06:26,580 --> 00:06:32,679
+O yüzden düşünce deneyimizi tekrarlayalım ama bu sefer 10 milyon çocuğu KKK aşısı ile aşılıyalım.
+
+93
+00:06:32,680 --> 00:06:35,519
+Teorik olarak bu sefer ne olurdu?
+
+94
+00:06:35,520 --> 00:06:37,439
+Aşı olduktan sonra,
+
+95
+00:06:37,440 --> 00:06:41,039
+10 milyon çocuktan %10'unun ateşi çıkardı.
+
+96
+00:06:41,040 --> 00:06:44,739
+500 binin veya %5'inin hafif kaşıntısı olurdu.
+
+97
+00:06:44,740 --> 00:06:53,059
+100 kişiye kadar veya 0.001'inin ciddi alerjik reaksiyonu olurdu ve tedavi edilmesi gerekirdi.
+
+98
+00:06:53,060 --> 00:06:59,979
+10 erkek çocuğun veya 0.0001'inin genitalinde yanma olabilir.
+
+99
+00:06:59,980 --> 00:07:08,719
+ve toplamda 10 çocuğun veya  % 0.0001'inin  en ciddi olarak beyin iltihabı geçirebilir.
+
+100
+00:07:08,720 --> 00:07:16,679
+Yani 10 milyon çocuğu aşı ettik ve toplamda 120 civarında kişi bir miktar ciddi yan etki gördü.
+
+101
+00:07:16,680 --> 00:07:22,199
+Gelişmiş bölgelerdeki tedaviler sayesinde neredeyse hepsi iyileşecek.
+
+102
+00:07:22,200 --> 00:07:24,359
+Peki ya otizm?
+
+103
+00:07:24,360 --> 00:07:32,039
+Otizm ve aşıların bağlantısı, tek bir kaynaktan gelmektedir ve sayısızca defa aksi kanıtlanmıştır.
+
+104
+00:07:32,040 --> 00:07:35,339
+Açıklamada okumanız için bir link koyacağız.
+
+105
+00:07:35,340 --> 00:07:41,519
+Ancak diyebiliriz ki aşılar 2019'da otizme sebebiyet vermiyor.
+
+106
+00:07:41,520 --> 00:07:43,879
+Pekala, peki ya ölümler?
+
+107
+00:07:43,880 --> 00:07:50,339
+Aşı olmuş 10 milyon çocuktan birinin bile öleceğini söylemek gerçekten zor.
+
+108
+00:07:50,340 --> 00:07:54,159
+Gerçekten iyice araştırıp, bir sürü farklı uzmanla konuştuk.
+
+109
+00:07:54,160 --> 00:07:56,059
+Eğer objektif raporu göz ardı etseydik,
+
+110
+00:07:56,060 --> 00:08:06,339
+1971'den beri, KKK aşısı yaptırmış yüz milyonlarca çocuktan sadece çok az sayıda dökümante edilmiş vaka bulabilirdik.
+
+111
+00:08:06,340 --> 00:08:15,939
+Kızamık, çocuğunuz için aşının en kötü yan etkisinden bile binlerce kat daha tehlikelidir.
+
+112
+00:08:15,940 --> 00:08:20,419
+Aşının ölümcül yan etkilerini bulabilmek için çok büyük bir büyüteç ile araştırmanız gerekir,
+
+113
+00:08:20,420 --> 00:08:24,339
+ama o şekilde bile onaylanmış vaka bulmanız çok zordur.
+
+114
+00:08:24,340 --> 00:08:28,839
+Kızamıktan kaynaklanan ölüm vakaları gerçektir ve araştırması ise çok kolaydır.
+
+115
+00:08:28,840 --> 00:08:34,619
+Sadece 2017'de dünya çapında 110 bin insan kızamıktan  öldü.
+
+116
+00:08:34,620 --> 00:08:39,259
+İstatistiksel olarak, bugün kızamıktan 300 çocuk ölüyor.
+
+117
+00:08:39,260 --> 00:08:42,239
+Bir tanesi bu video başladıktan sonra oldu.
+
+118
+00:08:42,240 --> 00:08:45,079
+Aşıları emniyet kemerlerine benzetebilirsiniz.
+
+119
+00:08:45,080 --> 00:08:49,179
+Birisinin emniyet kemeri yüzünden öldüğü garip kazalar var mı?
+
+120
+00:08:49,180 --> 00:08:51,019
+Evet, var.
+
+121
+00:08:51,020 --> 00:08:55,479
+Ama kişisel olarak çocuğunuz için emniyet kemeri takmamanın daha güvenli olduğunu mu düşünüyorsunuz?
+
+122
+00:08:55,480 --> 00:08:58,879
+Bir saniye, peki ya çocuğunuzun aşılara alerjisi varsa?
+
+123
+00:08:58,880 --> 00:09:03,599
+Şu ana kadar söylediklerimizin hiçbiri sizin durumunuza uymuyorsa?
+
+124
+00:09:03,600 --> 00:09:08,759
+Bu durumda aşıların en büyük destekçisi siz olmalısınız.
+
+125
+00:09:08,760 --> 00:09:14,319
+Çünkü, eğer çocuğunuz aşı olamıyorsa onu sadece ortak bir girişim koruyabilir.
+
+126
+00:09:14,320 --> 00:09:20,799
+Buna sürü bağışıklığı denir, ve aşı olmamış çocuğunuzu koruyacak tek şeydir.
+
+127
+00:09:20,800 --> 00:09:23,779
+Sürü bağışıklığı, yeteri kadar insan bir hastalığa bağışık olursa
+
+128
+00:09:23,780 --> 00:09:28,339
+o hastalığın yayılamayacağını ve kurbanına gelmeden öleceğini söyler.
+
+129
+00:09:28,340 --> 00:09:35,779
+Ama bunu sadece kızamık hastalığında başarmanız için  çevrenizdeki insanların %95'i aşılı olmalı.
+
+130
+00:09:35,780 --> 00:09:37,839
+Sonuç.
+
+131
+00:09:37,840 --> 00:09:43,319
+Aşılar hakkındaki tartışmanın sorunu birbiri ile alakasız durumların tartışılması.
+
+132
+00:09:43,320 --> 00:09:46,839
+Aşıların iyi yanlarını tartışanlar çalışmalar ve istatistiklerden bahsederken,
+
+133
+00:09:46,840 --> 00:09:52,919
+bunlara karşı çıkan argümanlar, genelde hisler ,anekdotlar ve yanlış bilgilerin karışımı.
+
+134
+00:09:52,920 --> 00:09:56,819
+Ve hisler genelde gerçeklere karşı bağışıktır.
+
+135
+00:09:56,820 --> 00:09:59,179
+Hiç kimseyi ona bağırarak ikna etmeyeceğiz.
+
+136
+00:09:59,180 --> 00:10:04,639
+Ama aşı karşıtı komplolarının ne yaptığı gerçeğini de saklayamayız.
+
+137
+00:10:04,640 --> 00:10:07,944
+Aşı olacak bebekleri, çok küçükken öldürüyorlar.
+
+138
+00:10:07,945 --> 00:10:11,659
+Sadece şanssız olan sağlıklı bir çocuğu öldürüyorlar.
+
+139
+00:10:11,660 --> 00:10:15,959
+Yok oluşun kıyısında olan ciddi hastalıkları geri getiriyorlar.
+
+140
+00:10:15,960 --> 00:10:18,419
+Ve aşıların en büyük yan etkisi ise
+
+141
+00:10:18,420 --> 00:10:20,859
+daha az ölen çocuklar.
+
+142
+00:10:20,860 --> 00:10:24,939
+Aşılar, çoğumuzun çoktan unuttuğu canavarları yok etmek için
+
+143
+00:10:24,940 --> 00:10:28,179
+sahip olduğumuz en iyi araçlardan biri.
+
+144
+00:10:28,180 --> 00:10:34,599
+Canavarları tekrardan getirmeyelim!
+
+145
+00:10:34,600 --> 00:10:42,860
+Bilgilenmeye Devam edin!
+Çeviren:Berke Öncül
+

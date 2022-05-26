@@ -1,0 +1,668 @@
+1
+00:00:00,000 --> 00:00:03,699
+Cancer is a creepy and mysterious thing.
+
+2
+00:00:03,700 --> 00:00:06,859
+In the process of trying to understand it, to get better at killing
+
+3
+00:00:06,860 --> 00:00:09,839
+it, we discovered a biological paradox
+
+4
+00:00:09,840 --> 00:00:13,039
+that remains unsolved to this day.
+
+5
+00:00:13,040 --> 00:00:16,023
+Large animals seem to be immune to cancer.
+
+6
+00:00:16,024 --> 00:00:19,064
+Which doesn't make any sense. The bigger a being,
+
+7
+00:00:19,065 --> 00:00:21,114
+the more cancer it should have.
+
+8
+00:00:21,115 --> 00:00:24,184
+To understand why, we first need to take a look at
+
+9
+00:00:24,185 --> 00:00:26,004
+the nature of cancer itself.
+
+10
+00:00:26,005 --> 00:00:33,704
+[Kurzgesagt Theme]
+
+11
+00:00:33,705 --> 00:00:36,444
+Our cells are protein robots made out
+
+12
+00:00:36,445 --> 00:00:39,324
+of hundreds of millions of parts.
+
+13
+00:00:39,325 --> 00:00:42,274
+Guided only by chemical reactions, they create
+
+14
+00:00:42,275 --> 00:00:44,794
+and dismantle structures, sustain a
+
+15
+00:00:44,795 --> 00:00:47,574
+metabolism to gain energy, or make almost
+
+16
+00:00:47,575 --> 00:00:49,634
+perfect copies of themselves.
+
+17
+00:00:49,635 --> 00:00:52,514
+We call these complex chemical reactions pathways.
+
+18
+00:00:52,515 --> 00:00:55,354
+They are biochemical networks
+
+19
+00:00:55,355 --> 00:00:58,234
+upon networks, intertwined and stacked
+
+20
+00:00:58,235 --> 00:00:59,544
+on top of each other.
+
+21
+00:00:59,545 --> 00:01:02,014
+Most of them can barely be comprehended by a
+
+22
+00:01:02,015 --> 00:01:05,384
+single human mind, and yet they function perfectly.
+
+23
+00:01:05,385 --> 00:01:08,139
+Until... they don't.
+
+24
+00:01:08,140 --> 00:01:09,199
+With billions
+
+25
+00:01:09,200 --> 00:01:12,119
+of trillions of reactions, happening in thousands of networks
+
+26
+00:01:12,120 --> 00:01:15,064
+over many years, the question is not if
+
+27
+00:01:15,065 --> 00:01:17,654
+something will go wrong, but when.
+
+28
+00:01:17,655 --> 00:01:20,264
+Tiny mistakes add up, until the grandiose
+
+29
+00:01:20,265 --> 00:01:23,124
+machinery gets corrupted. To prevent this from
+
+30
+00:01:23,125 --> 00:01:26,099
+getting out of hand, our cells have kill-switches that
+
+31
+00:01:26,100 --> 00:01:28,494
+make them commit suicide.
+
+32
+00:01:28,495 --> 00:01:31,454
+But these kill-switches are not infallible.
+
+33
+00:01:31,455 --> 00:01:34,964
+If they fail, a cell can turn into a cancer cell.
+
+34
+00:01:34,965 --> 00:01:38,614
+Most of them are slain by the immune system very quickly.
+
+35
+00:01:38,615 --> 00:01:41,844
+But this is a numbers game. Given enough time, a cell will
+
+36
+00:01:41,845 --> 00:01:44,434
+accrue enough mistakes, slip by unnoticed, and
+
+37
+00:01:44,435 --> 00:01:47,334
+begin making more of itself. All
+
+38
+00:01:47,335 --> 00:01:49,714
+animals have to deal with this problem.
+
+39
+00:01:49,715 --> 00:01:52,354
+In general, the cells of different animals
+
+40
+00:01:52,355 --> 00:01:55,404
+are the same size. The cells of a mouse
+
+41
+00:01:55,405 --> 00:01:58,704
+aren't smaller than yours. It just has fewer cells in total
+
+42
+00:01:58,705 --> 00:02:00,724
+and a shorter lifespan.
+
+43
+00:02:00,725 --> 00:02:03,224
+Fewer cells and a short life means a
+
+44
+00:02:03,225 --> 00:02:06,124
+lower chance of things going wrong, or cells
+
+45
+00:02:06,125 --> 00:02:09,144
+mutating. Or, at least, it should mean that.
+
+46
+00:02:09,145 --> 00:02:11,794
+Humans live about fifty times longer, and have one
+
+47
+00:02:11,795 --> 00:02:14,914
+thousand times more cells than mice. Yet the rate of
+
+48
+00:02:14,915 --> 00:02:17,424
+cancer is basically the same in humans and
+
+49
+00:02:17,425 --> 00:02:20,254
+in mice. Even weirder, blue whales,
+
+50
+00:02:20,255 --> 00:02:23,284
+with about three thousand times more cells than humans
+
+51
+00:02:23,285 --> 00:02:26,054
+don't seem to get cancer at all, really.
+
+52
+00:02:26,055 --> 00:02:28,804
+This is Peto's Paradox- the baffling
+
+53
+00:02:28,805 --> 00:02:31,544
+realisation that large animals have much, much
+
+54
+00:02:31,545 --> 00:02:34,104
+less cancer than they should.
+
+55
+00:02:34,105 --> 00:02:37,054
+Scientists think there are two main ways of explaining
+
+56
+00:02:37,055 --> 00:02:40,644
+the paradox: evolution, and hypertumours.
+
+57
+00:02:40,645 --> 00:02:43,604
+Solution one: evolve, or become a blob
+
+58
+00:02:43,605 --> 00:02:45,214
+of cancer.
+
+59
+00:02:45,215 --> 00:02:48,244
+As multicellular beings developed six hundred million
+
+60
+00:02:48,245 --> 00:02:51,414
+years ago, animals became bigger, and bigger.
+
+61
+00:02:51,415 --> 00:02:54,294
+Which added more and more cells, and hence, more
+
+62
+00:02:54,295 --> 00:02:57,084
+and more chances that cells could be corrupted.
+
+63
+00:02:57,085 --> 00:02:59,894
+So, the collective had to invest in better and better
+
+64
+00:02:59,895 --> 00:03:03,024
+cancer defenses. The ones that did not died
+
+65
+00:03:03,025 --> 00:03:06,044
+out. But cancer doesn't just happen- it's a
+
+66
+00:03:06,045 --> 00:03:08,784
+process that involves many individual mistakes
+
+67
+00:03:08,785 --> 00:03:11,424
+and mutations in several specific genes
+
+68
+00:03:11,425 --> 00:03:13,244
+within the same cell.
+
+69
+00:03:13,245 --> 00:03:19,364
+These genes are called proto-oncogenes, and when they mutate, it's bad news.
+
+70
+00:03:19,365 --> 00:03:22,044
+For example, with the right mutation, a cell
+
+71
+00:03:22,045 --> 00:03:24,699
+would lose its ability to kill itself.
+
+72
+00:03:24,700 --> 00:03:28,014
+Another mutation, and it will develop the ability to hide.
+
+73
+00:03:28,015 --> 00:03:31,564
+Another, and it will send out calls for resources.
+
+74
+00:03:31,565 --> 00:03:34,294
+Another one, and it will multiply quickly.
+
+75
+00:03:34,295 --> 00:03:37,184
+These oncogenes have an antagonist, though.
+
+76
+00:03:37,185 --> 00:03:39,684
+Tumour suppressor genes.
+
+77
+00:03:39,685 --> 00:03:42,264
+They prevent these critical mutations from happening
+
+78
+00:03:42,265 --> 00:03:44,294
+or order the cell to kill itself
+
+79
+00:03:44,295 --> 00:03:46,374
+if they decide it's beyond repair.
+
+80
+00:03:46,375 --> 00:03:50,114
+It turns out that large animals have an increased number of them.
+
+81
+00:03:50,115 --> 00:03:53,114
+Because of this, elephant cells require more mutations
+
+82
+00:03:53,115 --> 00:03:56,814
+than mice cells to develop a tumour. They are not immune-
+
+83
+00:03:56,815 --> 00:03:59,399
+but more resilient. This adaption
+
+84
+00:03:59,400 --> 00:04:02,664
+probably comes with a cost in some form, but researchers
+
+85
+00:04:02,665 --> 00:04:04,354
+still aren't sure what it is.
+
+86
+00:04:04,355 --> 00:04:07,014
+Maybe tumour suppressors make elephants age quicker
+
+87
+00:04:07,015 --> 00:04:10,594
+later in life, or slow down how quickly injuries heal.
+
+88
+00:04:10,595 --> 00:04:12,484
+We don't know yet.
+
+89
+00:04:12,485 --> 00:04:15,084
+But the solution to the paradox may actually be
+
+90
+00:04:15,085 --> 00:04:17,984
+something different: hypertumours.
+
+91
+00:04:17,985 --> 00:04:19,794
+Solution two:
+
+92
+00:04:19,795 --> 00:04:23,174
+Hypertumours. Yes, really.
+
+93
+00:04:23,175 --> 00:04:26,214
+Hypertumours are named after hyperparasites: the
+
+94
+00:04:26,215 --> 00:04:29,064
+parasites of parasites. Hypertumours
+
+95
+00:04:29,065 --> 00:04:31,234
+are the tumours of tumours.
+
+96
+00:04:31,235 --> 00:04:34,454
+Cancer can be thought of as a breakdown in cooperation.
+
+97
+00:04:34,455 --> 00:04:37,664
+Normally, cells work together to form structures like
+
+98
+00:04:37,665 --> 00:04:40,994
+organs, tissue, or elements of the immune system.
+
+99
+00:04:40,995 --> 00:04:43,804
+But cancer cells are selfish, and only work for
+
+100
+00:04:43,805 --> 00:04:46,934
+their own short-term benefit. If they're successful,
+
+101
+00:04:46,935 --> 00:04:49,954
+they form tumours- huge cancer collectives that
+
+102
+00:04:49,955 --> 00:04:52,064
+can be very hard to kill.
+
+103
+00:04:52,065 --> 00:04:55,034
+Making a tumour is hard work, though.
+
+104
+00:04:55,035 --> 00:04:58,064
+Millions or billions of cancer cells multiply rapidly,
+
+105
+00:04:58,065 --> 00:05:00,924
+which requires a lot of resources and energy.
+
+106
+00:05:00,925 --> 00:05:03,524
+The amount of nutrients they can steal from the body
+
+107
+00:05:03,525 --> 00:05:05,974
+becomes the limiting factor for growth.
+
+108
+00:05:05,975 --> 00:05:08,714
+So the tumour cells trick the body to build new blood
+
+109
+00:05:08,715 --> 00:05:11,324
+vessels directly to the tumour, to feed
+
+110
+00:05:11,325 --> 00:05:12,944
+the thing killing it.
+
+111
+00:05:12,945 --> 00:05:15,894
+And here, the nature of cancer cells may become
+
+112
+00:05:15,895 --> 00:05:17,314
+their own undoing.
+
+113
+00:05:17,315 --> 00:05:20,304
+Cancer cells are inherently unstable, and so
+
+114
+00:05:20,305 --> 00:05:23,314
+they can continue to mutate- some of them faster
+
+115
+00:05:23,315 --> 00:05:26,494
+than their buddies. If they do this for a while,
+
+116
+00:05:26,495 --> 00:05:31,024
+at some point, one of the copies of the copies of the original cancer cell
+
+117
+00:05:31,025 --> 00:05:34,164
+might suddenly think of itself as an individual again, and
+
+118
+00:05:34,165 --> 00:05:37,334
+stop cooperating. Which means, just like the body,
+
+119
+00:05:37,335 --> 00:05:40,294
+the original tumour suddenly becomes an enemy,
+
+120
+00:05:40,295 --> 00:05:43,594
+fighting for the same scarce nutrients and resources.
+
+121
+00:05:43,595 --> 00:05:48,134
+So, the newly mutated cells can create a hypertumour.
+
+122
+00:05:48,135 --> 00:05:50,744
+Instead of helping, they cut off the blood supply to
+
+123
+00:05:50,745 --> 00:05:53,154
+their former buddies, which will starve and
+
+124
+00:05:53,155 --> 00:05:55,299
+kill the original cancer cells.
+
+125
+00:05:55,300 --> 00:05:57,604
+Cancer is killing cancer.
+
+126
+00:05:57,605 --> 00:06:00,184
+This process can repeat over and over,
+
+127
+00:06:00,185 --> 00:06:02,804
+and this may prevent cancer from becoming a problem
+
+128
+00:06:02,805 --> 00:06:05,844
+for a large organism. It is possible
+
+129
+00:06:05,845 --> 00:06:08,674
+that large have more of these hypertumours than we
+
+130
+00:06:08,675 --> 00:06:11,684
+realise. They might just not become big enough to notice.
+
+131
+00:06:11,685 --> 00:06:13,979
+Which makes sense. A two-gram tumour
+
+132
+00:06:13,980 --> 00:06:17,059
+is 10% of a mouse's body weight, while it's less than
+
+133
+00:06:17,060 --> 00:06:20,199
+0.002% of a human.
+
+134
+00:06:20,200 --> 00:06:23,499
+And 0.000002%
+
+135
+00:06:23,500 --> 00:06:24,914
+of a blue whale.
+
+136
+00:06:24,915 --> 00:06:28,004
+All three tumours require the same number of cell divisions,
+
+137
+00:06:28,005 --> 00:06:31,134
+and have the same number of cells. So an old blue whale
+
+138
+00:06:31,135 --> 00:06:34,999
+might be filled with tiny cancers, and just not care.
+
+139
+00:06:35,000 --> 00:06:38,234
+There are other proposed solutions to Peto's Paradox,
+
+140
+00:06:38,235 --> 00:06:40,884
+such as different metabolic rates, or different cellular
+
+141
+00:06:40,885 --> 00:06:43,719
+architecture. But right now, we just don't know.
+
+142
+00:06:43,720 --> 00:06:46,499
+Scientists are working on the problem.
+
+143
+00:06:46,500 --> 00:06:49,284
+Figuring out how large animals are so resilient
+
+144
+00:06:49,285 --> 00:06:52,214
+to one of the most deadly diseases we know could open the path
+
+145
+00:06:52,215 --> 00:06:55,964
+to new therapies and treatments.
+
+146
+00:06:55,965 --> 00:06:58,754
+Cancer has always been a challenge. Today,
+
+147
+00:06:58,755 --> 00:07:01,124
+we are finally beginning to understand it,
+
+148
+00:07:01,125 --> 00:07:04,364
+and by doing so, one day, we might finally
+
+149
+00:07:04,365 --> 00:07:07,184
+overcome it.
+
+150
+00:07:07,185 --> 00:07:10,194
+This video was sponsored by... you!
+
+151
+00:07:10,195 --> 00:07:13,134
+If you want to help us make more, you can do so by supporting us on
+
+152
+00:07:13,135 --> 00:07:16,094
+Patreon, or getting one of the beautiful things we've made.
+
+153
+00:07:16,095 --> 00:07:18,534
+Like our space explorer notebook, with
+
+154
+00:07:18,535 --> 00:07:21,644
+infographic pages and unique grids to inspire your creativity,
+
+155
+00:07:21,645 --> 00:07:24,324
+or an infographic poster bundle, or the very
+
+156
+00:07:24,325 --> 00:07:26,504
+comfy Kurzgesagt hoodie.
+
+157
+00:07:26,505 --> 00:07:29,699
+Or, if you missed it the first time, the second run of our gratitude journal.
+
+158
+00:07:29,700 --> 00:07:32,374
+We put a lot of time and love into
+
+159
+00:07:32,375 --> 00:07:35,484
+our merch, because just like with our videos, we only want
+
+160
+00:07:35,485 --> 00:07:38,364
+to put things into the world that we feel good about.
+
+161
+00:07:38,365 --> 00:07:41,584
+Kurzgesagt is a project that by right, shouldn't really work.
+
+162
+00:07:41,585 --> 00:07:44,624
+Videos like the one you just watched take months to finish
+
+163
+00:07:44,625 --> 00:07:47,614
+and we're only able to put in so much time because of your
+
+164
+00:07:47,615 --> 00:07:50,914
+direct support. Because you watch and share,
+
+165
+00:07:50,915 --> 00:07:52,714
+and because you care.
+
+166
+00:07:52,715 --> 00:07:55,524
+Thank you for watching.
+
+167
+00:07:55,525 --> 00:07:56,735
+[End Credits]
+

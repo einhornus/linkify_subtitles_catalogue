@@ -1,0 +1,640 @@
+1
+00:00:00,090 --> 00:00:04,189
+Od wrogich pustyń, poprzez bezludne wyspy po szczyty najwyższych gór,
+
+2
+00:00:04,190 --> 00:00:08,067
+ludzkość dąży do zajęcia każdej wolnej przestrzeni.
+
+3
+00:00:08,068 --> 00:00:11,689
+Nie jest zaskoczeniem, że przygotowujemy się
+
+4
+00:00:11,690 --> 00:00:13,069
+do postawienia stopy na Marsie,
+
+5
+00:00:13,070 --> 00:00:16,549
+a także założenia pierwszej stałej kolonii poza Ziemią
+
+6
+00:00:16,550 --> 00:00:21,519
+może nawet przekształcając inną planetę w drugi błękitny dom.
+
+7
+00:00:21,520 --> 00:00:22,759
+Nie tak szybko,
+
+8
+00:00:22,760 --> 00:00:25,299
+nim przejdziemy do wspaniałej wizji przyszłości,
+
+9
+00:00:25,300 --> 00:00:28,479
+musimy wpierw zrealizować drugi etap kolonizacji:
+
+10
+00:00:28,480 --> 00:00:30,749
+utworzenie pół-samodzielnych placówek,
+
+11
+00:00:30,750 --> 00:00:33,836
+by przygotować teren na dłuższy pobyt ludzi.
+
+12
+00:00:33,837 --> 00:00:46,709
+Ale dokonanie tego będzie straszne.
+
+13
+00:00:46,710 --> 00:00:51,688
+Nawet dla tak ekspansywnego gatunku jak my, Mars jest ekstremalny.
+
+14
+00:00:51,689 --> 00:00:54,388
+Na pierwszy rzut oka Mars wygląda znajomo
+
+15
+00:00:54,389 --> 00:00:56,549
+polarne czapy lodowe, wielkie doliny,
+
+16
+00:00:56,550 --> 00:00:58,299
+ciekła woda pod powierzchnią,
+
+17
+00:00:58,300 --> 00:01:00,685
+dzień niewiele dłuższy od ziemskiego.
+
+18
+00:01:00,686 --> 00:01:03,119
+Miejsce w sam raz do odwiedzenia.
+
+19
+00:01:03,120 --> 00:01:07,509
+Niestety, Mars to tak naprawdę zimna, radioaktywna pustynia
+
+20
+00:01:07,510 --> 00:01:11,301
+o toksycznej glebie i powietrzu niezdatnym do oddychania.
+
+21
+00:01:11,302 --> 00:01:13,006
+Mars jest okropny.
+
+22
+00:01:13,007 --> 00:01:16,339
+Niemal na pewno nie chcesz się tam wybrać.
+
+23
+00:01:16,340 --> 00:01:20,759
+Życie pionierów, którzy się tam wybiorą będzie niezwykle stresujące,
+
+24
+00:01:20,760 --> 00:01:23,079
+pełne niezwykle wymagających,
+
+25
+00:01:23,080 --> 00:01:25,279
+nigdy dotąd niespotkanych problemów.
+
+26
+00:01:25,280 --> 00:01:28,119
+Jest jednak wielu chętnych podjęcia się takiej pracy
+
+27
+00:01:28,120 --> 00:01:31,599
+i posiadamy technologię, która im to umożliwi.
+
+28
+00:01:31,600 --> 00:01:35,229
+Na potrzeby filmu założymy, że przeprowadzono już misje marsjańskie
+
+29
+00:01:35,230 --> 00:01:37,139
+mające na celu wykryć właściwe miejsce na placówkę,
+
+30
+00:01:37,140 --> 00:01:39,029
+magazynowanie surowców i wyposażenia
+
+31
+00:01:39,030 --> 00:01:40,979
+oraz że istnieje baza na Księżycu
+
+32
+00:01:40,980 --> 00:01:43,680
+służąca za węzeł komunikacyjny dla misji na Marsa.
+
+33
+00:01:43,681 --> 00:01:46,339
+Pierwszym poważnym wyzwaniem naszej placówki
+
+34
+00:01:46,340 --> 00:01:49,652
+jest to, że Mars jest bardzo ubogi w energię.
+
+35
+00:01:49,653 --> 00:01:51,519
+Przez jego odległość od Słońca,
+
+36
+00:01:51,520 --> 00:01:55,324
+dostępna energia słoneczna to zaledwie 40% energii docierającej do Ziemi.
+
+37
+00:01:55,325 --> 00:01:58,949
+Nawet to słabe światło słoneczne jest często blokowane dniami
+
+38
+00:01:58,950 --> 00:02:01,124
+przez potężne burze piaskowe.
+
+39
+00:02:01,125 --> 00:02:04,383
+Sama energia słoneczna prawdopodobnie nie wystarczy.
+
+40
+00:02:04,384 --> 00:02:09,019
+Inne źródła, jak energia wiatrowa czy geotermalna są również nieosiągalne,
+
+41
+00:02:09,020 --> 00:02:14,719
+gdyż atmosfera Marsa jest bardzo rzadka, a wnętrze zbyt zimne.
+
+42
+00:02:14,720 --> 00:02:18,539
+Początkowo, energia jądrowa może być jedynym wyjściem.
+
+43
+00:02:18,540 --> 00:02:22,099
+Jako że Mars nie posiada łatwo dostępnych pierwiastków promieniotwórczych,
+
+44
+00:02:22,100 --> 00:02:25,527
+paliwo jądrowe musi docierać z Ziemi wraz z reaktorem.
+
+45
+00:02:25,528 --> 00:02:30,619
+Jeśli to zadziała, reaktor mógłby zasilić naszą małą siedzibę przez kilka pierwszych lat.
+
+46
+00:02:30,620 --> 00:02:35,196
+Niestety, energia nie na wiele się przyda, jeśli nie będziemy mogli oddychać.
+
+47
+00:02:35,197 --> 00:02:38,529
+Marsjańska atmosfera jest 100 razy rzadsza od ziemskiej,
+
+48
+00:02:38,530 --> 00:02:40,692
+złożona głównie z CO2.
+
+49
+00:02:40,693 --> 00:02:45,429
+Habitaty muszą więc być hermetyczne, wypełnione sztuczną atmosferą
+
+50
+00:02:45,430 --> 00:02:47,529
+z azotu i tlenu
+
+51
+00:02:47,530 --> 00:02:49,479
+Co prowadzi do kolejnych trudności
+
+52
+00:02:49,480 --> 00:02:51,589
+Rogi i płaskie ściany to słabe punkty,
+
+53
+00:02:51,590 --> 00:02:54,459
+zatem habitaty będą posiadały gładkie, zaokrąglone kształty,
+
+54
+00:02:54,460 --> 00:02:59,709
+by wytrzymać naprężenia powstałe z różnicy ciśnień między światem wewnętrznym, a zewnętrznym.
+
+55
+00:02:59,710 --> 00:03:04,319
+Śluzy powietrzne muszą być naprawdę szczelne i działać perfekcyjnie, za każdym razem.
+
+56
+00:03:04,320 --> 00:03:07,659
+Bez silnej magnetosfery czy gęstej atmosfery,
+
+57
+00:03:07,660 --> 00:03:11,120
+połowa promieniowania kosmicznego dociera do powierzchni.
+
+58
+00:03:11,121 --> 00:03:16,839
+Osoba na powierzchni byłaby wystawiona na 50-krotność dawki promieniowania przyjmowanej na Ziemi.
+
+59
+00:03:16,840 --> 00:03:21,119
+Trzy lata na powierzchni Marsa oznaczają przekroczenie limitu dawki promieniowania
+
+60
+00:03:21,120 --> 00:03:24,879
+ustalonej dla astronautów NASA przez ich całą karierę.
+
+61
+00:03:24,880 --> 00:03:28,490
+Ryzyko wystąpienia nowotworu znacznie rośnie.
+
+62
+00:03:28,491 --> 00:03:33,289
+By temu zapobiec, możemy osłonić habitaty grubą warstwą zamarzniętego CO2,
+
+63
+00:03:33,290 --> 00:03:36,252
+który można pozyskać bezpośrednio z atmosfery.
+
+64
+00:03:36,253 --> 00:03:41,084
+Pokrycie suchego lodu metrową warstwą ziemi dodatkowo zwiększy ochronę.
+
+65
+00:03:41,085 --> 00:03:44,104
+Niestety, oznacza to brak jakichkolwiek okien.
+
+66
+00:03:44,105 --> 00:03:48,009
+Od wewnątrz, przestrzeń życiowa będzie się składać głównie z tuneli bez okien.
+
+67
+00:03:48,010 --> 00:03:51,387
+Od zewnątrz, będą niczym kurhany.
+
+68
+00:03:51,388 --> 00:03:54,099
+Nie zatrzyma to całego promieniowania,
+
+69
+00:03:54,100 --> 00:03:58,299
+ale obniży jego poziom na tyle, by dało się przetrwać długie okresy czasu.
+
+70
+00:03:58,300 --> 00:04:02,229
+Nie ochroni to jednak tych, którzy wyjdą na zewnątrz.
+
+71
+00:04:02,230 --> 00:04:06,049
+Więc, zdalnie sterowane roboty będą realizować rutynowe zadania na powierzchni,
+
+72
+00:04:06,050 --> 00:04:08,579
+podczas gdy nasza załoga pozostanie wewnątrz.
+
+73
+00:04:08,580 --> 00:04:11,419
+Warto pozostać w środku z jeszcze jednego powodu:
+
+74
+00:04:11,420 --> 00:04:12,868
+pył marsjański.
+
+75
+00:04:12,869 --> 00:04:14,819
+Jest on znacznie drobniejszy niż na Ziemi,
+
+76
+00:04:14,820 --> 00:04:18,849
+więc może dostać się do środka układów naszych maszyn.
+
+77
+00:04:18,850 --> 00:04:22,759
+Jest bardzo suchy, przez co jest także naładowany elektrostatycznie;
+
+78
+00:04:22,760 --> 00:04:25,399
+czepia się wszystkiego, na przykład kombinezonów.
+
+79
+00:04:25,400 --> 00:04:29,229
+Niemożliwe będzie kompletne uniknięcie pyłu marsjańskiego w naszym habitacie
+
+80
+00:04:29,230 --> 00:04:31,436
+oraz płucach załogi.
+
+81
+00:04:31,437 --> 00:04:37,046
+Jakby tego było mało, w glebie marsjańskiej jest pełno soli nadchloran owych.
+
+82
+00:04:37,047 --> 00:04:39,656
+Nieustanny kontakt z nimi może być śmiertelny.
+
+83
+00:04:39,657 --> 00:04:41,906
+Możemy przezwyciężyć ten problem.
+
+84
+00:04:41,907 --> 00:04:45,949
+Kombinezony, przykładowo, mogą być tak skonstruowane, by nigdy nie znajdowały się wewnątrz bazy,
+
+85
+00:04:45,950 --> 00:04:48,906
+a pozostały przytwierdzone do habitatu od zewnątrz.
+
+86
+00:04:48,907 --> 00:04:50,233
+Tak, świetnie.
+
+87
+00:04:50,234 --> 00:04:54,169
+Skoro ludzie nie muszą martwić się o energię i powietrze
+
+88
+00:04:54,170 --> 00:04:58,119
+oraz raczej nie grożą im nowotwory, musimy ich tylko ich nakarmić.
+
+89
+00:04:58,120 --> 00:05:02,149
+O wodę będzie łątwo, jeśli kolonia znajdzie się w pobliżu biegunów Marsa,
+
+90
+00:05:02,150 --> 00:05:03,921
+dzięki grubym czapom lodowym.
+
+91
+00:05:03,922 --> 00:05:07,409
+Uprawa żywności będzie jednak wyzwaniem.
+
+92
+00:05:07,410 --> 00:05:09,399
+Marsjańskie gleby są zasadowe
+
+93
+00:05:09,400 --> 00:05:14,109
+i pozbawione azotu, kluczowego dla rozwoju roślin.
+
+94
+00:05:14,110 --> 00:05:17,639
+Nim zdołamy cokolwiek wyhodować, musimy odkazić glebę,
+
+95
+00:05:17,640 --> 00:05:20,479
+co jest trudne i kosztowne.
+
+96
+00:05:20,480 --> 00:05:24,569
+Następnie ziemię można użyźnić przetworzonymi odpadami biologicznymi.
+
+97
+00:05:24,570 --> 00:05:28,698
+Zajmie to wiele czasu i będzie wymagać sporo energii.
+
+98
+00:05:28,699 --> 00:05:32,469
+Może więc użyjemy akwaponiki, by hodować ryby i rośliny.
+
+99
+00:05:32,470 --> 00:05:37,210
+Uczyni to dietę astronautów jednocześnie bardziej zróżnicowaną i smaczniejszą.
+
+100
+00:05:37,211 --> 00:05:42,001
+Byłby to ważny psychologiczny bodzieć dla przepracowanej załogi.
+
+101
+00:05:42,002 --> 00:05:45,529
+Wszystko to nie rozwiązuje jednak jednego fundamentalnego problemu:
+
+102
+00:05:45,530 --> 00:05:49,489
+Grawitacja Marsa jest równa 38% grawitacji ziemskiej,
+
+103
+00:05:49,490 --> 00:05:54,849
+co grozi osłabieniem mięśni i kości, a także problemami z układem krążenia.
+
+104
+00:05:54,850 --> 00:05:59,069
+Choć w przyszłości możemy temu zaradzić budując obracające się siedziby,
+
+105
+00:05:59,070 --> 00:06:01,799
+póki co załoga musi żyć w warunkach niskiej grawitacji
+
+106
+00:06:01,800 --> 00:06:05,699
+i sporo ćwiczyć, by spowolnić degradację.
+
+107
+00:06:05,700 --> 00:06:08,999
+Załogi będą prawdopodobnie musiały się zmieniać co kilka lat,
+
+108
+00:06:09,000 --> 00:06:12,499
+pełnych zamknięcia w ciasnej przestrzeni bez okien.
+
+109
+00:06:12,500 --> 00:06:16,279
+Wciąż z tymi samymi ludźmi, wykonując te same zadania dzień za dniem,
+
+110
+00:06:16,280 --> 00:06:18,839
+z niewielką dozą kontaktu ze światem zewnętrznym
+
+111
+00:06:18,840 --> 00:06:21,329
+i mnóstwem zmartwień.
+
+112
+00:06:21,330 --> 00:06:24,379
+Niczym badacze Antarktyki i załogi okrętów podwodnych,
+
+113
+00:06:24,380 --> 00:06:27,039
+zostaną poddani intensywnej analizie psychologicznej,
+
+114
+00:06:27,040 --> 00:06:31,924
+by mieć pewność, że ich wytrzymałość pozwoli im przetrwać lata przy takim stylu życia.
+
+115
+00:06:31,925 --> 00:06:36,749
+Wybudowanie prawdziwej infrastruktury na Marsie będzie niezwykle wyczerpującym zadaniem,
+
+116
+00:06:36,750 --> 00:06:41,089
+takim, które tylko grupa naprawdę oddanych, kompetentnych ludzi zdoła zrealizować.
+
+117
+00:06:41,090 --> 00:06:43,929
+Na szczęście, nie brakuje ich na Ziemi.
+
+118
+00:06:43,930 --> 00:06:45,199
+I oto jest!
+
+119
+00:06:45,200 --> 00:06:49,369
+Niewielka baza marsjańska, która przetrwa co najmniej kilka dekad
+
+120
+00:06:49,370 --> 00:06:52,719
+tak długo jak będzie otrzymywać nieprzerwane dostawy surowców,
+
+121
+00:06:52,720 --> 00:06:56,022
+części, paliwa jądrowego i załóg z Ziemi.
+
+122
+00:06:56,023 --> 00:07:00,369
+Niestety, Marsa i Ziemię dzielą miliony kilometrów,
+
+123
+00:07:00,370 --> 00:07:05,207
+a okresy orbitalne planet oferują wąskie okna transferowe co dwa lata.
+
+124
+00:07:05,208 --> 00:07:07,409
+W przypadku sytuacji awaryjnej,
+
+125
+00:07:07,410 --> 00:07:10,999
+Ziemia nie mogłaby przysłać pomocy przed pojawieniem się następnego okna transferowego.
+
+126
+00:07:11,000 --> 00:07:15,429
+Ratunek mógłby dotrzeć na planetę usianą zwłokami.
+
+127
+00:07:15,430 --> 00:07:19,369
+Zamieszkanie na Marsie będzie największym dotychczasowym wyzwaniem ludzkości.
+
+128
+00:07:19,370 --> 00:07:23,202
+Konieczna jest potworna ilość pracy, by wybudować potrzebną nam podstawową infrastrukturę.
+
+129
+00:07:23,203 --> 00:07:26,633
+Jesteśmy jednak uparci i lubimy ekstremalne wyzwania.
+
+130
+00:07:26,634 --> 00:07:30,859
+Jeśli przebrniemy przez Drugą Fazę kolonizacji, wszystko stanie się możliwe.
+
+131
+00:07:30,860 --> 00:07:33,689
+Miasta rozświetlające mroczną marsjańską noc,
+
+132
+00:07:33,690 --> 00:07:35,669
+węzeł komunikacyjny dla podróży między planetami,
+
+133
+00:07:35,670 --> 00:07:37,529
+pierwsze kroki przemysłu orbitalnego,
+
+134
+00:07:37,530 --> 00:07:41,239
+terraformacja, prawdziwie multiplanetarna przyszłość.
+
+135
+00:07:41,240 --> 00:07:44,389
+Zdobycie Marsa jest ciężkie, ale warte trudu.
+
+136
+00:07:44,390 --> 00:07:48,209
+Jeśli się nam poszczęści, może zdołamy nawet to zobaczyć
+
+137
+00:07:48,210 --> 00:07:51,589
+i dopingować ludzi, którzy podejmą się tego wyzwania
+
+138
+00:07:51,590 --> 00:07:56,109
+dla dobra nas wszystkich.
+
+139
+00:07:56,110 --> 00:07:59,429
+Rozwikływanie trudnych tematów to znakomite uczucie.
+
+140
+00:07:59,430 --> 00:08:02,219
+Zwłaszcza jeśli nie musisz wszystkiego robić samemu.
+
+141
+00:08:02,220 --> 00:08:05,559
+Nasi przyjaciele z Brilliant mogą Ci w tym pomóc!
+
+142
+00:08:05,560 --> 00:08:09,362
+Brilliant to strona poświęcona rozwiązywaniu problemów, z bezpośrednim podejściem.
+
+143
+00:08:09,363 --> 00:08:12,249
+Zamiast po prostu zarzucać Cię zawiłymi koncepcjami,
+
+144
+00:08:12,250 --> 00:08:17,269
+pomogą Ci rozwikłać je krok po kroku i dojść do ciekawych wniosków.
+
+145
+00:08:17,270 --> 00:08:22,867
+W ten sposób, faktycznie uprawiasz naukę, nie tylko o niej słuchasz.
+
+146
+00:08:22,868 --> 00:08:24,529
+Z Brilliant możesz zagłębić się
+
+147
+00:08:24,530 --> 00:08:27,349
+w dziesiątki interesujących kursów i zagadek na takie tematy
+
+148
+00:08:27,350 --> 00:08:30,659
+jak energia słoneczna, grawitacja czy astronomia.
+
+149
+00:08:30,660 --> 00:08:34,678
+Jeśli odwiedzisz brilliant.org/nutshell bądź klikniesz w link w opisie,
+
+150
+00:08:34,679 --> 00:08:37,667
+możesz zapisać się za darmo i poznać mnóstwo nowych rzeczy.
+
+151
+00:08:37,668 --> 00:08:39,829
+Jako bonus dla widzów Kurzgesagt,
+
+152
+00:08:39,830 --> 00:08:45,729
+pierwsze 688 osób otrzyma również 20% zniżki na roczne członkostwo!
+
+153
+00:08:45,730 --> 00:08:48,790
+Z Brilliant możesz zakończyć dzień odrobinę mądrzejszy.
+
+154
+00:08:48,791 --> 00:08:51,249
+Bez martwienia się pyłem marsjańskim.
+
+155
+00:08:51,250 --> 00:08:52,534
+Obiecujemy!
+
+156
+00:08:52,535 --> 00:08:54,318
+Nie wystarczy Ci wiadomości o Marsie?
+
+157
+00:08:54,319 --> 00:08:56,694
+Stworzyliśmy również plakat o tym.
+
+158
+00:08:56,695 --> 00:09:00,489
+Możesz dowiedzieć się więcej na temat trudów związanych z kolonizacją Marsa
+
+159
+00:09:00,490 --> 00:09:02,750
+albo tylko popatrzeć na ten piękny obrazek.
+
+160
+00:09:02,751 --> 00:09:04,000
+Link do niego w opisie.
+

@@ -1,0 +1,672 @@
+1
+00:00:01,100 --> 00:00:03,139
+Der Weg ins Weltall ist schwierig.
+
+2
+00:00:03,140 --> 00:00:05,619
+Im Moment ist es, als würde
+
+3
+00:00:05,620 --> 00:00:09,019
+man mit einem Rucksack voller Sprengstoff auf einem Einrad einen Berg hochfahren:
+
+4
+00:00:09,020 --> 00:00:11,899
+Unglaublich langsam, man kann nicht viel transportieren,
+
+5
+00:00:11,900 --> 00:00:13,679
+und man könnte sterben.
+
+6
+00:00:13,680 --> 00:00:18,099
+Eine Rakete muss eine Geschwindigkeit von etwa 40.000 km/h erreichen
+
+7
+00:00:18,100 --> 00:00:19,699
+, um von der Erde zu entkommen.
+
+8
+00:00:19,700 --> 00:00:22,979
+Um diese Geschwindigkeit zu erreichen, sind Raketen
+
+9
+00:00:22,980 --> 00:00:25,979
+meist Treibstoffbehälter mit einer winzigen Nutzlast.
+
+10
+00:00:25,980 --> 00:00:28,379
+Das ist schlecht, wenn du zu anderen Planeten gehen willst,
+
+11
+00:00:28,380 --> 00:00:32,019
+weil du viel schweres Zeug brauchst, wenn du überleben
+
+12
+00:00:32,020 --> 00:00:34,139
+und vielleicht sogar zurückkommen willst.
+
+13
+00:00:34,140 --> 00:00:37,239
+Gibt es also eine Möglichkeit, mit weniger Treibstoff und mehr Nutzlast ins All zu gelangen
+
+14
+00:00:37,240 --> 00:00:39,999
+?
+
+15
+00:00:40,000 --> 00:00:48,739
+[Intro-Musik]
+
+16
+00:00:48,740 --> 00:00:52,319
+Eine nette Sache, die die meisten unserer Transportprobleme auf der Erde gelöst hat,
+
+17
+00:00:52,320 --> 00:00:54,459
+ist das, was Sie Infrastruktur nennen.
+
+18
+00:00:54,460 --> 00:00:58,459
+Ob Straßen für Autos, Häfen für Schiffe oder Schienen für Züge,
+
+19
+00:00:58,460 --> 00:01:01,499
+wir haben es einfacher gemacht, an Orte zu gelangen.
+
+20
+00:01:01,500 --> 00:01:04,579
+Wir können die gleiche Lösung auf die Raumfahrt anwenden.
+
+21
+00:01:04,580 --> 00:01:07,379
+Die Weltrauminfrastruktur wird es einfacher und billiger machen, in die Umlaufbahn
+
+22
+00:01:07,380 --> 00:01:12,299
+und zum Mond, Mars und darüber hinaus zu gelangen.
+
+23
+00:01:12,300 --> 00:01:15,999
+Toll, aber was genau ist Weltrauminfrastruktur?
+
+24
+00:01:16,000 --> 00:01:17,759
+Im Gegensatz zu einem Erd-Weltraum-Aufzug,
+
+25
+00:01:17,760 --> 00:01:19,679
+der derzeit Science-Fiction ist,
+
+26
+00:01:19,680 --> 00:01:22,699
+gibt es eine einfache, aber vielversprechende Technologie
+
+27
+00:01:22,700 --> 00:01:25,999
+, die keine neue Wissenschaft, magische Materialien
+
+28
+00:01:26,000 --> 00:01:27,559
+oder enorme Investitionen erfordert
+
+29
+00:01:27,560 --> 00:01:31,059
+und die bereits erfolgreich im Orbit getestet wurde:
+
+30
+00:01:31,060 --> 00:01:32,919
+ein Kabel und ein Gewicht,
+
+31
+00:01:32,920 --> 00:01:34,639
+als Leine kennen.
+
+32
+00:01:34,640 --> 00:01:38,039
+Das Konzept ist so einfach, es ist überraschend.
+
+33
+00:01:38,040 --> 00:01:39,559
+Was wäre, wenn wir
+
+34
+00:01:39,560 --> 00:01:42,679
+hunderte oder tausende Kilometer lange Seile in den Weltraum legen
+
+35
+00:01:42,680 --> 00:01:44,799
+und Raumfahrzeuge sie als Leitern benutzen würden
+
+36
+00:01:44,800 --> 00:01:48,779
+, um in größere Höhen zu klettern und an Geschwindigkeit zu gewinnen?
+
+37
+00:01:48,780 --> 00:01:51,619
+Dieses Konzept ist als Skyhook bekannt.
+
+38
+00:01:51,620 --> 00:01:54,179
+Es funktioniert noch besser, wenn wir es drehen lassen.
+
+39
+00:01:54,180 --> 00:01:56,419
+Ein Gegengewicht hält ein langes Kabel an Ort und Stelle,
+
+40
+00:01:56,420 --> 00:01:58,299
+während es sich im Kreis dreht.
+
+41
+00:01:58,300 --> 00:02:02,399
+Ein rotierendes Halteseil verlangsamt seine Spitze relativ zum Boden unten
+
+42
+00:02:02,400 --> 00:02:05,419
+und beschleunigt es oben wie ein Katapult.
+
+43
+00:02:05,420 --> 00:02:08,059
+Dies bedeutet, dass Sie Energie von der Leine übertragen können
+
+44
+00:02:08,060 --> 00:02:11,639
+und beim Loslassen einen massiven Schub erhalten, mehr oder weniger kostenlos,
+
+45
+00:02:11,640 --> 00:02:14,419
+der der doppelten Rotationsgeschwindigkeit der Leine entspricht.
+
+46
+00:02:14,420 --> 00:02:17,659
+Es gibt bereits spezielle Fasern, die
+
+47
+00:02:17,660 --> 00:02:21,099
+den außergewöhnlichen Belastungen standhalten können, denen ein Skyhook ausgesetzt wäre.
+
+48
+00:02:21,100 --> 00:02:24,739
+Zum Schutz vor Schnitten und Zusammenstößen durch Trümmer und Meteoriten
+
+49
+00:02:24,740 --> 00:02:28,399
+können wir unser Halteseil in ein Netz aus überflüssigen Fasern einfädeln.
+
+50
+00:02:28,400 --> 00:02:32,099
+Da unser Skyhook viele Male am Tag über dieselbe Stelle fahren
+
+51
+00:02:32,100 --> 00:02:35,639
+würde, könnten kleine, wiederverwendbare Shuttles ihn einholen.
+
+52
+00:02:35,640 --> 00:02:38,139
+Natürlich ist es nicht so einfach.
+
+53
+00:02:38,140 --> 00:02:39,219
+An ihrem tiefsten Punkt
+
+54
+00:02:39,220 --> 00:02:41,479
+rast die Spitze des Halteseils
+
+55
+00:02:41,480 --> 00:02:43,779
+mit etwa 12.000 Kilometern pro Stunde durch die Atmosphäre.
+
+56
+00:02:43,780 --> 00:02:47,179
+Wegen der Erdatmosphäre können wir den Skyhook nicht zu weit absenken,
+
+57
+00:02:47,180 --> 00:02:49,719
+sonst wird er durch Luftreibung zu heiß.
+
+58
+00:02:49,720 --> 00:02:53,179
+Er wird also auf eine Höhe von 80 bis 150 km absinken
+
+59
+00:02:53,180 --> 00:02:54,459
+und nicht tiefer.
+
+60
+00:02:54,460 --> 00:02:58,919
+Dazu brauchen wir spezialisierte Raumschiffe, die an die Leine gelangen können.
+
+61
+00:02:58,920 --> 00:03:00,979
+Das ist zwar nicht gerade einfach,
+
+62
+00:03:00,980 --> 00:03:03,664
+aber immer noch viel billiger, als eine große
+
+63
+00:03:03,665 --> 00:03:07,504
+Blechdose mit Raketentreibstoff auf 40.000 km/h zu bringen.
+
+64
+00:03:07,505 --> 00:03:09,999
+Das Fangen der Spitze wird auch eine Herausforderung sein.
+
+65
+00:03:10,000 --> 00:03:13,299
+Es gibt nur ein kurzes Zeitfenster von 60 bis 90 Sekunden
+
+66
+00:03:13,300 --> 00:03:15,179
+, um ein winziges Ding am Himmel zu finden, das
+
+67
+00:03:15,180 --> 00:03:17,159
+sich mit Mach 12 bewegt.
+
+68
+00:03:17,160 --> 00:03:20,559
+Um dies zu erleichtern, könnte die Spitze eine Art
+
+69
+00:03:20,560 --> 00:03:25,599
+kilometerlange Angelschnur mit einer Navigationsdrohne haben, die dem Raumschiff dabei hilft  verbinden.
+
+70
+00:03:25,600 --> 00:03:28,499
+Eine weitere Herausforderung besteht darin, unseren Skyhook im Orbit zu halten.
+
+71
+00:03:28,500 --> 00:03:31,414
+Wenn sich immer mehr Schiffe daran festmachen und sich hochziehen
+
+72
+00:03:31,415 --> 00:03:34,359
+, verbrauchen sie den Schwung, der es an Ort und Stelle hält.
+
+73
+00:03:34,360 --> 00:03:35,939
+Wenn wir nichts tun,
+
+74
+00:03:35,940 --> 00:03:39,619
+wird es langsamer und stürzt in die Atmosphäre.
+
+75
+00:03:39,620 --> 00:03:42,819
+Und hier können wir das Universum ein bisschen betrügen.
+
+76
+00:03:42,820 --> 00:03:45,879
+Der Skyhook ist eine Batterie aus orbitaler Energie.
+
+77
+00:03:45,880 --> 00:03:50,239
+Es ist möglich, die ein- und ausgehenden Nutzlasten auszugleichen.
+
+78
+00:03:50,240 --> 00:03:53,799
+Ankommende Schiffe, die Menschen und Materialien nach Hause zur Erde bringen,
+
+79
+00:03:53,800 --> 00:03:55,219
+fügen dem Halteseil Energie hinzu,
+
+80
+00:03:55,220 --> 00:03:58,359
+die es anderen Schiffen geben kann, die in den Weltraum abfliegen.
+
+81
+00:03:58,360 --> 00:04:00,979
+So verliert das Seil keine Energie.
+
+82
+00:04:00,980 --> 00:04:04,179
+Je mehr wir es verwenden, desto billiger wird es.
+
+83
+00:04:04,180 --> 00:04:06,579
+Wenn wir mit jedem Boost immer noch Energie verlieren,
+
+84
+00:04:06,580 --> 00:04:09,419
+können wir sie mit kleinen elektrischen oder chemischen Motoren zurückgewinnen
+
+85
+00:04:09,420 --> 00:04:11,919
+, die regelmäßig die Position des Halteseils korrigieren.
+
+86
+00:04:11,920 --> 00:04:14,999
+Ein Satz Halteseile, eines um die Erde und eines um den Mars,
+
+87
+00:04:15,000 --> 00:04:17,759
+könnte Reisen zwischen den Planeten schnell, unkompliziert
+
+88
+00:04:17,760 --> 00:04:20,639
+und im Vergleich zu Raketen kostengünstig machen.
+
+89
+00:04:20,640 --> 00:04:24,219
+Das Erdseil würde in einer niedrigen Erdumlaufbahn sitzen, um Menschen und Nutzlasten zu greifen
+
+90
+00:04:24,220 --> 00:04:25,859
+und sie zum Mars zu schleudern.
+
+91
+00:04:25,860 --> 00:04:27,599
+Das Marsseil fängt sie auf
+
+92
+00:04:27,600 --> 00:04:30,679
+und verlangsamt sie für eine Landung auf der Oberfläche.
+
+93
+00:04:30,680 --> 00:04:32,079
+In der entgegengesetzten Richtung
+
+94
+00:04:32,080 --> 00:04:35,379
+könnte das Halteseil ein Fahrzeug aufnehmen, das
+
+95
+00:04:35,380 --> 00:04:37,959
+mit nur etwa 1.000 km/h durch die dünne Marsatmosphäre fliegt,
+
+96
+00:04:37,960 --> 00:04:40,319
+nicht viel schneller als unsere Flugzeuge auf der Erde,
+
+97
+00:04:40,320 --> 00:04:44,179
+und es zurück zur Erde schleudern, um eingefangen und heruntergelassen zu werden.
+
+98
+00:04:44,180 --> 00:04:47,679
+Die Seile könnten Reisen zwischen beiden Planeten von 9
+
+99
+00:04:47,680 --> 00:04:49,539
+Monaten auf 5 oder sogar 3 Monate
+
+100
+00:04:49,540 --> 00:04:51,639
+verkürzen und die Größe der erforderlichen Raketen
+
+101
+00:04:51,640 --> 00:04:55,279
+um 84 bis 96 Prozent reduzieren.
+
+102
+00:04:55,280 --> 00:04:58,939
+Besser noch, die Menschen können relativ luxuriös reisen,
+
+103
+00:04:58,940 --> 00:05:01,979
+da wir es uns leisten können, in den Komfort der Passagiere zu investieren.
+
+104
+00:05:01,980 --> 00:05:05,559
+Tether-Reisen wären First-Class-Sitze zum Mars.
+
+105
+00:05:05,560 --> 00:05:07,699
+Zusammen könnten Seile um Erde und
+
+106
+00:05:07,700 --> 00:05:10,899
+Mars das schnelle und kosteneffiziente Transportrückgrat bilden
+
+107
+00:05:10,900 --> 00:05:13,679
+, das die Raumfahrt erschwinglich machen würde.
+
+108
+00:05:13,680 --> 00:05:15,239
+Aber gehen wir weiter.
+
+109
+00:05:15,240 --> 00:05:17,159
+Ausgehend von einer niedrigen Marsumlaufbahn
+
+110
+00:05:17,160 --> 00:05:19,999
+könnte ein Halteseil Schiffe in den Asteroidengürtel bringen.
+
+111
+00:05:20,000 --> 00:05:23,359
+Das erste Schiff, das zu einem neuen Asteroiden geschickt wird, würde Raketen benötigen, um an seinem Ziel langsamer zu werden
+
+112
+00:05:23,360 --> 00:05:24,919
+.
+
+113
+00:05:24,920 --> 00:05:27,859
+Nachfolgende Ankömmlinge finden möglicherweise ein Halteseil, das darauf wartet, sie zu
+
+114
+00:05:27,860 --> 00:05:29,939
+fangen und sie kostenlos zurückzusenden.
+
+115
+00:05:29,940 --> 00:05:31,859
+Billig zu Asteroiden zu gelangen,
+
+116
+00:05:31,860 --> 00:05:35,779
+ist ein wichtiger Faktor bei der Erschließung der Ressourcen des Sonnensystems.
+
+117
+00:05:35,780 --> 00:05:37,859
+Edelmetalle und wertvolle Mineralien
+
+118
+00:05:37,860 --> 00:05:42,099
+könnten nur wenige Wochen, nachdem sie aus ihrem Asteroiden geschnitten wurden, zum Mars geliefert werden.
+
+119
+00:05:42,100 --> 00:05:43,939
+Sie wären die perfekten Bausteine
+
+120
+00:05:43,940 --> 00:05:46,819
+nsere interplanetare Zivil
+
+121
+00:05:46,820 --> 00:05:48,379
+sation.  Aber warum hier aufhören?
+
+122
+00:05:48,380 --> 00:05:50,779
+Marsmonde sind sehr praktisch.
+
+123
+00:05:50,780 --> 00:05:54,839
+Kein anderer Mond im Sonnensystem umkreist seinen Planeten so nah.
+
+124
+00:05:54,840 --> 00:05:58,699
+Phobos ist so schwer, dass wir uns keine Sorgen machen müssen, es zu verlangsamen,
+
+125
+00:05:58,700 --> 00:06:00,759
+was es zum perfekten Befestigungspunkt
+
+126
+00:06:00,760 --> 00:06:04,499
+für knapp 6.000 km lange Super Tether macht.
+
+127
+00:06:04,500 --> 00:06:07,359
+Die untere Spitze würde knapp über der Marsoberfläche fliegen
+
+128
+00:06:07,360 --> 00:06:09,219
+und wäre sehr leicht zu fangen.
+
+129
+00:06:09,220 --> 00:06:13,379
+Die obere Spitze kann Schiffe bis zu Jupiter und Saturn schleudern.
+
+130
+00:06:13,380 --> 00:06:14,799
+Derselbe Super-Tether
+
+131
+00:06:14,800 --> 00:06:18,099
+kann auch das innere Sonnensystem näher bringen.
+
+132
+00:06:18,100 --> 00:06:21,219
+Venus und Merkur sind nur einen Schwung entfernt.
+
+133
+00:06:21,220 --> 00:06:24,339
+Im Gegensatz zum Mars strotzen sie vor Sonnenenergie
+
+134
+00:06:24,340 --> 00:06:26,699
+und sind reich an Mineralien.
+
+135
+00:06:26,700 --> 00:06:29,519
+Langfristig hält nichts die Menschheit davon
+
+136
+00:06:29,520 --> 00:06:32,479
+ab, ein Null-Treibstoff-Transportnetz
+
+137
+00:06:32,480 --> 00:06:35,879
+für die erdähnlichen Planeten aufzubauen, deren Mittelpunkt die Marsmonde sind.
+
+138
+00:06:35,880 --> 00:06:37,859
+Tether sind eine vergleichsweise billige
+
+139
+00:06:37,860 --> 00:06:41,699
+und nachhaltige Lösung, um die Raumfahrt erschwinglich
+
+140
+00:06:41,700 --> 00:06:44,119
+und den Rest des Sonnensystems
+
+141
+00:06:44,120 --> 00:06:46,839
+für die Ausbeutung und Erforschung zugänglich zu machen.
+
+142
+00:06:46,840 --> 00:06:49,979
+Wenn man bedenkt, dass wir heute über die Technologie verfügen, um sie zu bauen,
+
+143
+00:06:49,980 --> 00:06:53,539
+gibt es wirklich keine gute Entschuldigung, noch länger zu warten.
+
+144
+00:06:53,540 --> 00:06:56,279
+Teile des Sonnensystems sind weit entfernt,
+
+145
+00:06:56,280 --> 00:07:00,059
+aber sie könnten sehr nah sein.
+
+146
+00:07:00,060 --> 00:07:02,559
+Apropos Dinge, die schwer zu erreichen sind
+
+147
+00:07:02,560 --> 00:07:04,279
+, aber nicht sein müssen:
+
+148
+00:07:04,280 --> 00:07:05,659
+Wissen.
+
+149
+00:07:05,660 --> 00:07:12,639
+Unsere Freunde von Brilliant können Sie in ein Universum voller explosiver Ideen und unterhaltsamer Kurse entführen.
+
+150
+00:07:12,640 --> 00:07:16,119
+Brilliant ist eine Website, die Ihnen hilft, Wissenschaft auf praktische Weise
+
+151
+00:07:16,120 --> 00:07:18,219
+mit interaktiven Problemlösungskursen
+
+152
+00:07:18,220 --> 00:07:21,859
+und täglichen Problemen in Mathematik, Logik und Ingenieurwesen anzugehen.
+
+153
+00:07:21,860 --> 00:07:26,159
+Jedes Problem gibt Ihnen alle Werkzeuge, die Sie brauchen, um komplexe Themen ganz alleine zu knacken.
+
+154
+00:07:26,160 --> 00:07:29,679
+Es ist Learning by Doing, aber mit Ihrem Gehirn statt mit Ihren Händen.
+
+155
+00:07:29,680 --> 00:07:33,119
+Nutzen Sie Ihre Neugier, um Rätseln und Kursen
+
+156
+00:07:33,120 --> 00:07:35,104
+zu Dingen wie klassischer Mechanik,
+
+157
+00:07:35,105 --> 00:07:38,739
+Astronomie, Gravitationsphysik und vielem mehr auf den Grund zu gehen.
+
+158
+00:07:38,740 --> 00:07:42,679
+Wenn Sie auf den Link in der Beschreibung klicken oder brilliant.org/nutshell besuchen
+
+159
+00:07:42,680 --> 00:07:46,379
+, können Sie sich kostenlos anmelden und mehr erfahren, als Sie sich vorstellen können.
+
+160
+00:07:46,380 --> 00:07:49,139
+Und es gibt einen zusätzlichen Teil für Kurzgesagt-Zuschauer:
+
+161
+00:07:49,140 --> 00:07:51,799
+Die ersten 688 Personen, die den Link verwenden,
+
+162
+00:07:51,800 --> 00:07:54,439
+erhalten 20 % Rabatt auf ihre Jahresmitgliedschaft, mit
+
+163
+00:07:54,440 --> 00:07:57,079
+der Sie alle täglichen Probleme in den Archiven anzeigen
+
+164
+00:07:57,080 --> 00:07:58,999
+und jeden Kurs freischalten können.
+
+165
+00:07:59,000 --> 00:08:02,499
+Brilliant hilft Ihnen, Ihren Tag ein wenig klüger zu beenden.
+
+166
+00:08:02,500 --> 00:08:05,899
+Sie könnten von der Erfahrung "süchtig" werden.
+
+167
+00:08:05,900 --> 00:08:12,659
+[Outro-Musik]
+
+168
+00:08:12,660 --> 00:08:14,000
+[Hund heult]
+

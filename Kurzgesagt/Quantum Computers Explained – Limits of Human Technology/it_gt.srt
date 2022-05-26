@@ -1,0 +1,442 @@
+1
+00:00:00,000 --> 00:00:00,499
+Spiegazione dei computer quantistici: limiti della tecnologia umana
+
+2
+00:00:00,500 --> 00:00:06,119
+Per la maggior parte della nostra storia, la tecnologia umana è consistita nel cervello, nel fuoco e nei bastoncini affilati.
+
+3
+00:00:06,120 --> 00:00:10,159
+Mentre il fuoco e i bastoncini affilati sono diventati centrali elettriche e armi nucleari,
+
+4
+00:00:10,160 --> 00:00:13,279
+il più grande aggiornamento è avvenuto al nostro cervello.
+
+5
+00:00:13,280 --> 00:00:17,379
+Dagli anni '60, la potenza delle nostre macchine cerebrali ha continuato a crescere in modo esponenziale,
+
+6
+00:00:17,380 --> 00:00:21,939
+consentendo ai computer di diventare allo stesso tempo più piccoli e più potenti.
+
+7
+00:00:21,940 --> 00:00:25,499
+Ma questo processo sta per raggiungere i suoi limiti fisici.
+
+8
+00:00:25,500 --> 00:00:28,859
+Le parti del computer si stanno avvicinando alle dimensioni di un atomo.
+
+9
+00:00:28,860 --> 00:00:33,179
+Per capire perché questo è un problema, dobbiamo chiarire alcune nozioni di base.
+
+10
+00:00:33,180 --> 00:00:39,719
+In poche parole - di Kurzgesagt
+
+11
+00:00:39,720 --> 00:00:42,539
+Un computer è composto da componenti
+
+12
+00:00:42,540 --> 00:00:44,219
+molto semplici che fanno cose molto semplici.
+
+13
+00:00:44,220 --> 00:00:49,019
+Rappresentazione dei dati, mezzi per elaborarli e meccanismi di controllo.
+
+14
+00:00:49,020 --> 00:00:54,639
+I chip per computer contengono moduli, che contengono porte logiche, che contengono transistor.
+
+15
+00:00:54,640 --> 00:00:58,439
+Un transistor è la forma più semplice di un processore di dati nei computer,
+
+16
+00:00:58,440 --> 00:01:03,259
+fondamentalmente un interruttore che può bloccare o aprire la strada alle informazioni che arrivano.
+
+17
+00:01:03,260 --> 00:01:06,339
+Queste informazioni sono costituite da bit
+
+18
+00:01:06,340 --> 00:01:08,499
+che possono essere impostati su 0 o 1. Le
+
+19
+00:01:08,500 --> 00:01:12,999
+combinazioni di più bit vengono utilizzate per rappresentare informazioni più complesse.
+
+20
+00:01:13,000 --> 00:01:17,999
+I transistor sono combinati per creare porte logiche che fanno ancora cose molto semplici.
+
+21
+00:01:18,000 --> 00:01:25,459
+Ad esempio, un AND Gate invia un output di 1 se tutti i suoi input sono 1 e un output di 0 in caso contrario.
+
+22
+00:01:25,460 --> 00:01:30,999
+Combinazioni di porte logiche alla fine formano moduli significativi, diciamo, per sommare due numeri.
+
+23
+00:01:31,000 --> 00:01:33,759
+Una volta che puoi aggiungere, puoi anche moltiplicare,
+
+24
+00:01:33,760 --> 00:01:37,159
+e una volta che puoi moltiplicare, puoi praticamente fare qualsiasi cosa.
+
+25
+00:01:37,160 --> 00:01:41,039
+Poiché tutte le operazioni di base sono letteralmente più semplici della matematica di prima elementare,
+
+26
+00:01:41,040 --> 00:01:46,079
+puoi immaginare un computer come un gruppo di bambini di 7 anni che rispondono a domande di matematica davvero basilari.
+
+27
+00:01:46,080 --> 00:01:48,679
+Un gruppo abbastanza grande di loro potrebbe calcolare qualsiasi cosa,
+
+28
+00:01:48,680 --> 00:01:51,339
+dall'astrofisica a Zelda.
+
+29
+00:01:51,340 --> 00:01:53,739
+Tuttavia, con le parti sempre più piccole, la
+
+30
+00:01:53,740 --> 00:01:56,539
+fisica quantistica sta rendendo le cose complicate.
+
+31
+00:01:56,540 --> 00:01:59,979
+In poche parole, un transistor è solo un interruttore elettrico.
+
+32
+00:01:59,980 --> 00:02:03,159
+L'elettricità è costituita da elettroni che si spostano da un luogo all'altro.
+
+33
+00:02:03,160 --> 00:02:08,359
+Quindi, un interruttore è un passaggio che può impedire agli elettroni di muoversi in una direzione.
+
+34
+00:02:08,360 --> 00:02:12,219
+Oggi, una scala tipica per i transistor è di 14 nanometri,
+
+35
+00:02:12,220 --> 00:02:15,519
+che è circa 8 volte inferiore al diametro del virus HIV
+
+36
+00:02:15,520 --> 00:02:18,399
+e 500 volte più piccola di un globulo rosso.
+
+37
+00:02:18,400 --> 00:02:22,319
+Poiché i transistor si stanno riducendo alle dimensioni di pochi atomi, gli
+
+38
+00:02:22,320 --> 00:02:25,919
+elettroni possono semplicemente trasferirsi dall'altra parte di un passaggio bloccato
+
+39
+00:02:25,920 --> 00:02:28,499
+tramite un processo chiamato Quantum Tunneling.
+
+40
+00:02:28,500 --> 00:02:33,259
+Nel regno quantistico, la fisica funziona in modo molto diverso dai modi prevedibili a cui siamo abituati
+
+41
+00:02:33,260 --> 00:02:36,859
+e i computer tradizionali smettono semplicemente di avere un senso.
+
+42
+00:02:36,860 --> 00:02:41,219
+Ci stiamo avvicinando a una vera barriera fisica per il nostro progresso tecnologico.
+
+43
+00:02:41,220 --> 00:02:42,899
+Per risolvere questo problema, gli
+
+44
+00:02:42,900 --> 00:02:47,099
+scienziati stanno cercando di utilizzare queste insolite proprietà quantistiche a loro
+
+45
+00:02:47,100 --> 00:02:49,179
+vantaggio costruendo computer quantistici.
+
+46
+00:02:49,180 --> 00:02:53,419
+Nei normali computer, i bit sono l'unità di informazione più piccola.
+
+47
+00:02:53,420 --> 00:02:58,059
+I computer quantistici utilizzano qubit che possono anche essere impostati su uno di due valori.
+
+48
+00:02:58,060 --> 00:03:00,859
+Un qubit può essere qualsiasi sistema quantistico a due livelli,
+
+49
+00:03:00,860 --> 00:03:04,659
+come uno spin e un campo magnetico, o un singolo fotone.
+
+50
+00:03:04,660 --> 00:03:07,579
+0 e 1 sono i possibili stati di questo sistema,
+
+51
+00:03:07,580 --> 00:03:10,959
+come la polarizzazione orizzontale o verticale dei fotoni.
+
+52
+00:03:10,960 --> 00:03:14,519
+Nel mondo quantistico, il qubit non deve essere solo uno di quelli
+
+53
+00:03:14,520 --> 00:03:17,899
+, può essere in qualsiasi proporzione di entrambi gli stati contemporaneamente.
+
+54
+00:03:17,900 --> 00:03:19,899
+Questo si chiama sovrapposizione.
+
+55
+00:03:19,900 --> 00:03:24,679
+Ma non appena ne verifichi il valore, diciamo, inviando il fotone attraverso un filtro
+
+56
+00:03:24,680 --> 00:03:29,139
+, deve decidere se essere polarizzato verticalmente o orizzontalmente.
+
+57
+00:03:29,140 --> 00:03:31,059
+Quindi, finché non è osservato,
+
+58
+00:03:31,060 --> 00:03:37,139
+il qubit è in una sovrapposizione di probabilità per 0 e 1 e non puoi prevedere quale sarà.
+
+59
+00:03:37,140 --> 00:03:39,139
+Ma nell'istante in cui lo si misura
+
+60
+00:03:39,140 --> 00:03:42,439
+, crolla in uno degli stati definiti.
+
+61
+00:03:42,440 --> 00:03:44,599
+La sovrapposizione è un punto di svolta.
+
+62
+00:03:44,600 --> 00:03:50,379
+Quattro bit classici possono essere in uno di due alla potenza di quattro diverse configurazioni alla volta.
+
+63
+00:03:50,380 --> 00:03:54,699
+Sono 16 possibili combinazioni, di cui puoi usarne solo una.
+
+64
+00:03:54,700 --> 00:04:00,379
+Quattro qubit in sovrapposizione, tuttavia, possono trovarsi in tutte queste 16 combinazioni contemporaneamente.
+
+65
+00:04:00,380 --> 00:04:04,479
+Questo numero cresce esponenzialmente con ogni qubit in più.
+
+66
+00:04:04,480 --> 00:04:08,239
+Venti di loro possono già memorizzare un milione di valori in parallelo.
+
+67
+00:04:08,240 --> 00:04:12,879
+Una proprietà davvero strana e non intuitiva che i qubit possono avere è Entanglement,
+
+68
+00:04:12,880 --> 00:04:18,119
+una stretta connessione che fa reagire istantaneamente ciascuno dei qubit a un cambiamento nello stato dell'altro,
+
+69
+00:04:18,120 --> 00:04:20,199
+non importa quanto siano distanti l'uno dall'altro.
+
+70
+00:04:20,200 --> 00:04:26,139
+Ciò significa che quando si misura un solo qubit entangled, è possibile dedurre direttamente le proprietà dei suoi partner
+
+71
+00:04:26,140 --> 00:04:27,679
+senza dover guardare.
+
+72
+00:04:27,680 --> 00:04:31,159
+Anche la manipolazione del Qubit è una mente.
+
+73
+00:04:31,160 --> 00:04:36,439
+Una normale porta logica ottiene un semplice insieme di ingressi e produce un'uscita definita.
+
+74
+00:04:36,440 --> 00:04:41,679
+Una porta quantistica manipola un input di sovrapposizioni, ruota le probabilità
+
+75
+00:04:41,680 --> 00:04:44,959
+e produce un'altra sovrapposizione come output.
+
+76
+00:04:44,960 --> 00:04:51,459
+Quindi un computer quantistico imposta alcuni qubit, applica porte quantistiche per ingarbugliarli e manipolare le probabilità,
+
+77
+00:04:51,460 --> 00:04:57,619
+quindi alla fine misura il risultato, collassando le sovrapposizioni in una sequenza effettiva di 0 e 1.
+
+78
+00:04:57,620 --> 00:05:04,219
+Ciò significa che ottieni l'intero lotto di calcoli possibili con la tua configurazione, tutti eseguiti contemporaneamente.
+
+79
+00:05:04,220 --> 00:05:09,359
+In definitiva, puoi misurare solo uno dei risultati e probabilmente sarà solo quello che desideri,
+
+80
+00:05:09,360 --> 00:05:12,399
+quindi potresti dover ricontrollare e riprovare.
+
+81
+00:05:12,400 --> 00:05:15,959
+Ma sfruttando abilmente la sovrapposizione e l'entanglement,
+
+82
+00:05:15,960 --> 00:05:20,499
+questo può essere esponenzialmente più efficiente di quanto sarebbe mai possibile su un normale computer.
+
+83
+00:05:20,500 --> 00:05:25,919
+Quindi, mentre i computer quantistici probabilmente non sostituiranno i nostri computer domestici,
+
+84
+00:05:25,920 --> 00:05:28,559
+in alcune aree sono di gran lunga superiori.
+
+85
+00:05:28,560 --> 00:05:30,799
+Uno di questi è la ricerca nel database.
+
+86
+00:05:30,800 --> 00:05:35,819
+Per trovare qualcosa in un database, un normale computer potrebbe dover testare ogni singola voce.
+
+87
+00:05:35,820 --> 00:05:39,099
+Gli algoritmi dei computer quantistici richiedono solo la radice quadrata di quel tempo,
+
+88
+00:05:39,100 --> 00:05:42,459
+che per i database di grandi dimensioni è un'enorme differenza
+
+89
+00:05:42,460 --> 00:05:46,639
+L'uso più famoso dei computer quantistici sta rovinando la sicurezza IT.
+
+90
+00:05:46,640 --> 00:05:52,079
+In questo momento, i tuoi dati di navigazione, e-mail e bancari sono protetti da un sistema di crittografia
+
+91
+00:05:52,080 --> 00:05:56,499
+in cui fornisci a tutti una chiave pubblica per codificare i messaggi che solo tu puoi decodificare.
+
+92
+00:05:56,500 --> 00:06:02,119
+Il problema è che questa chiave pubblica può effettivamente essere utilizzata per calcolare la tua chiave privata segreta.
+
+93
+00:06:02,120 --> 00:06:07,559
+Fortunatamente, fare i calcoli necessari su qualsiasi computer normale richiederebbe letteralmente anni di tentativi ed errori.
+
+94
+00:06:07,560 --> 00:06:12,439
+Ma un computer quantistico con accelerazione esponenziale potrebbe farlo in un attimo.
+
+95
+00:06:12,440 --> 00:06:15,459
+Un altro nuovo utilizzo davvero entusiasmante sono le simulazioni.
+
+96
+00:06:15,460 --> 00:06:19,019
+Le simulazioni del mondo quantistico sono molto intense in termini di risorse
+
+97
+00:06:19,020 --> 00:06:24,019
+e anche per strutture più grandi, come le molecole, spesso mancano di accuratezza.
+
+98
+00:06:24,020 --> 00:06:28,339
+Allora perché non simulare la fisica quantistica con la fisica quantistica reale?
+
+99
+00:06:28,340 --> 00:06:34,319
+Le simulazioni quantistiche potrebbero fornire nuove informazioni sulle proteine che potrebbero rivoluzionare la medic
+
+100
+00:06:34,320 --> 00:06:38,499
+na.  In questo momento, non sappiamo se i computer quantistici saranno solo uno strumento specializzato
+
+101
+00:06:38,500 --> 00:06:40,759
+o una grande rivoluzione per l'umanità.
+
+102
+00:06:40,760 --> 00:06:43,799
+Non abbiamo idea di dove siano i limiti della tecnologia
+
+103
+00:06:43,800 --> 00:06:46,539
+e c'è solo un modo per scoprirlo.
+
+104
+00:06:46,540 --> 00:06:50,619
+Questo video è supportato dall'Accademia australiana delle scienze,
+
+105
+00:06:50,620 --> 00:06:54,439
+che promuove e sostiene l'eccellenza scientifica.
+
+106
+00:06:54,440 --> 00:06:58,519
+Scopri di più su questo argomento e altri simili su nova.org.au
+
+107
+00:06:58,520 --> 00:07:01,959
+È stato un vero spasso lavorare con loro, quindi dai un'occhiata al loro sito!
+
+108
+00:07:01,960 --> 00:07:06,199
+I nostri video sono resi possibili anche dal tuo supporto su patreon.com.
+
+109
+00:07:06,200 --> 00:07:12,979
+Se vuoi sostenerci ed entrare a far parte dell'esercito di uccelli Kurzgesagt, dai un'occhiata alla nostra pagina Patreon!
+
+110
+00:07:12,980 --> 00:07:15,640
+Sottotitoli di James Zhang
+[rivisto da Pietro Pasquero]
+[corretto da P0ck3tL1nt]
+

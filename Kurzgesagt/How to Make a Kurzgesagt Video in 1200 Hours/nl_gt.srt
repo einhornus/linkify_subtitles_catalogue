@@ -1,0 +1,316 @@
+1
+00:00:02,050 --> 00:00:05,798
+Al jaren vragen mensen hoe we onze video's maken.
+
+2
+00:00:05,799 --> 00:00:08,699
+Dus.  laten we het er eindelijk over hebben.
+
+3
+00:00:08,700 --> 00:00:14,099
+Hoe maak je een Kurzgesagt-video in 1.200 uur of meer
+
+4
+00:00:14,100 --> 00:00:19,219
+(Kurzgesagt-intro)
+
+5
+00:00:19,220 --> 00:00:19,859
+Kurzgesagt in een notendop
+
+6
+00:00:19,860 --> 00:00:23,079
+Maar eerst hebben we een onderwerp nodig.
+
+7
+00:00:23,080 --> 00:00:29,379
+Onze lijst met potentiële onderwerpen is al eindeloos en elke keer dat we iets onderzoeken, wordt deze langer.
+
+8
+00:00:29,380 --> 00:00:35,079
+Dus we werken gewoon aan wat we op dat moment spannend vinden.  Dit kan iets serieus,
+
+9
+00:00:35,080 --> 00:00:40,819
+fascinerends, persoonlijks of gewoon heel stom zijn.  De afwisseling is het halve plezier.
+
+10
+00:00:40,820 --> 00:00:48,419
+We willen ingewikkelde zaken op een begrijpelijke manier uitleggen en wetenschappelijke onderwerpen boeiend en mooi maken.
+
+11
+00:00:48,420 --> 00:00:55,869
+Maar we willen ook verhalen vertellen en af en toe uitdrukken hoe we ons voelen over het unive
+
+12
+00:00:55,870 --> 00:00:58,979
+sum.  De basis leggen: Script
+
+13
+00:00:58,980 --> 00:01:05,999
+Ons onderzoek begint met het lezen van boeken of wetenschappelijke artikelen en door te praten met verschillende experts die ons in de goede richting wijzen.
+
+14
+00:01:06,000 --> 00:01:10,659
+We willen een op feiten gebaseerd wereldbeeld hebben en onze video's proberen dat weer te geven.
+
+15
+00:01:10,660 --> 00:01:15,399
+We moeten dus vaak onze kijk op een probleem veranderen terwijl we eraan werken.
+
+16
+00:01:15,400 --> 00:01:19,419
+Meestal beginnen we na een paar weken onderzoek te schrijven.
+
+17
+00:01:19,420 --> 00:01:25,209
+Een script begint met een ruwe eerste versie die vervolgens steeds opnieuw wordt herschreven en bewerkt.
+
+18
+00:01:25,210 --> 00:01:31,508
+Om ervoor te zorgen dat we iets niet verkeerd voorstellen, hebben we experts gevraagd om ons te controleren en te corrigeren.
+
+19
+00:01:31,509 --> 00:01:36,129
+Schrijven is het knelpunt voor onze video's en het is erg moeilijk om het te versnellen.
+
+20
+00:01:36,130 --> 00:01:42,249
+Gewoonlijk duurt het voltooien van een script tussen een paar weken en letterlijk jaren.
+
+21
+00:01:42,250 --> 00:01:45,609
+Laten we visualiseren: illustratie
+
+22
+00:01:45,610 --> 00:01:46,859
+Als het script klaar is,
+
+23
+00:01:46,860 --> 00:01:55,079
+beginnen we met het schetsen van de video.  We proberen visuele metaforen te bedenken, overgangen tussen ideeën, en beslissen welke scènes de meeste aandacht nodig hebben.
+
+24
+00:01:55,080 --> 00:02:00,279
+Gemiddeld moeten 200 panelen worden geïllustreerd in Adobe Illustrator.
+
+25
+00:02:00,280 --> 00:02:08,349
+Hoewel we een illustratiebibliotheek hebben opgebouwd, maken we de meeste illustraties nog steeds helemaal opnieuw om onze video's een meer unieke uitstraling te geven.
+
+26
+00:02:08,350 --> 00:02:14,199
+Het algemene idee is om de juiste afbeeldingen te vinden om de woorden in het script zo duidelijk mogelijk uit te leggen,
+
+27
+00:02:14,200 --> 00:02:17,949
+terwijl je ook interessante dingen hebt om naar te kijken.
+
+28
+00:02:17,950 --> 00:02:22,179
+Ook nemen we hier alle visuele paaseieren op.
+
+29
+00:02:22,180 --> 00:02:28,259
+In totaal besteden twee tot drie illustratoren 8 tot 12 weken aan het illustreren van de video.
+
+30
+00:02:28,260 --> 00:02:31,599
+Nu is het mijn beurt: vertelling
+
+31
+00:02:31,600 --> 00:02:39,939
+Wanneer de hele video is geïllustreerd, wordt de vertelling opgenomen in een kleine opnamestudio op een Neumann TLM 103 microfoon en Pro Tools.
+
+32
+00:02:39,940 --> 00:02:41,669
+Het is belangrijk om de flow vast te houden,
+
+33
+00:02:41,670 --> 00:02:46,749
+dus ik probeer één versie af te krijgen en ga dan terug  door, alinea's en zinnen overnemen
+
+34
+00:02:46,750 --> 00:02:50,738
+totdat ze goed voelen en een volledige versie klaar is.
+
+35
+00:02:50,739 --> 00:02:54,789
+It's Alive: Animation
+
+36
+00:02:54,790 --> 00:02:57,909
+Nu moeten de scènes en audio worden geanimeerd.
+
+37
+00:02:57,910 --> 00:03:04,119
+We brengen dingen in beweging in Adobe After Effects en onlangs zijn we begonnen te experimenteren met Cinema 4D.
+
+38
+00:03:04,120 --> 00:03:08,619
+Het eerste dat u moet doen, is de geïllustreerde scènes uit elkaar halen en ordenen.
+
+39
+00:03:08,620 --> 00:03:13,389
+De honderden of duizenden onderdelen worden vervolgens geïmporteerd in After Effects.
+
+40
+00:03:13,390 --> 00:03:19,189
+Elk personage is opgetuigd, dus we kunnen ze natuurlijker verplaatsen.
+
+41
+00:03:19,190 --> 00:03:26,419
+Afgezien van een paar plug-ins die ons helpen tijd te besparen, is alles wat op het scherm beweegt handmatig verplaatst.
+
+42
+00:03:26,420 --> 00:03:33,139
+Dus twee tot drie animators animeren scène na scène gedurende in totaal ongeveer acht tot tien weken.
+
+43
+00:03:33,140 --> 00:03:37,519
+Eindigen op een hoog niveau: muziek en geluidsontwerp
+
+44
+00:03:37,520 --> 00:03:40,309
+De laatste stap is de muziek.
+
+45
+00:03:40,310 --> 00:03:48,019
+Elk nummer is originele muziek die is gecomponeerd tot de voltooide video om een unieke sfeer te creëren en de belangrijke delen te benad
+
+46
+00:03:48,020 --> 00:03:52,599
+ukken.  Je kunt alle nummers beluisteren op SoundCloud en Spotify.
+
+47
+00:03:52,600 --> 00:03:56,239
+De kers op de taart zijn de geluidseffecten.
+
+48
+00:03:56,240 --> 00:04:02,689
+Velen van jullie zullen ze misschien niet eens echt opmerken, wat jammer is omdat ze echt een extra laag toevoegen.
+
+49
+00:04:02,690 --> 00:04:07,309
+Dus probeer een video met een koptelefoon te bekijken als je de volledige diepte ervan wilt krijgen.
+
+50
+00:04:07,310 --> 00:04:14,799
+Al deze stappen gebeuren parallel, aangezien we meestal in verschillende fasen aan twee tot vier video's tegelijk werken.
+
+51
+00:04:14,800 --> 00:04:18,739
+Wat we nog niet hebben genoemd, zijn de talloze revisies en bewerkingen.
+
+52
+00:04:18,740 --> 00:04:24,479
+Om de paar dagen zitten we bij elkaar en bekijken ons werk en passen het aan totdat het precies goed voelt.
+
+53
+00:04:24,480 --> 00:04:30,099
+En dat is het - minstens 1.200 uur voor een enkele Kurzgesagt-video.
+
+54
+00:04:30,100 --> 00:04:33,939
+Je kunt je voorstellen dat het een raar bedrijfsmodel is om als een groot team duizenden uren video's te maken
+
+55
+00:04:33,940 --> 00:04:37,999
+en ze vervolgens gratis op internet te zetten.
+
+56
+00:04:38,000 --> 00:04:42,039
+Door de jaren heen hebben we op een aantal verschillende dingen vertrouwd om het hoofd boven water te houden.
+
+57
+00:04:42,040 --> 00:04:45,999
+Commercieel werk voor NGO's, startups of bedrijven
+
+58
+00:04:46,000 --> 00:04:49,429
+Sponsoring en subsidies door bedrijven of organisaties.
+
+59
+00:04:49,430 --> 00:04:56,809
+We sloten een deal met Funk van de Duitse publieke omroep om de Duitse zender nieuw leven in te blazen en met Wix om een Spaanse zender te start
+
+60
+00:04:56,810 --> 00:05:00,889
+n.  Maar de realiteit is dat we alleen kunnen doen wat we doen dankzij jou.
+
+61
+00:05:00,890 --> 00:05:06,799
+Onze twee belangrijkste inkomstenbronnen komen verreweg uit uw directe steun,
+
+62
+00:05:06,800 --> 00:05:09,559
+merchandise en Patreon.
+
+63
+00:05:09,560 --> 00:05:12,529
+Dus als je ons wilt helpen het hoofd boven water te houden en meer video's te blijven maken,
+
+64
+00:05:12,530 --> 00:05:21,199
+kun je Kurzgesagt direct steunen door iets moois uit onze winkel te halen, of door een beschermheer te worden en lid te worden van het vogelleger.
+
+65
+00:05:21,200 --> 00:05:27,779
+Voel je echter niet verplicht.  Het bekijken, aanspreken of delen van onze video's helpt ons al veel.
+
+66
+00:05:27,780 --> 00:05:34,169
+Maar als je ons direct wilt steunen, heel erg bedankt.  Je maakt onze video's gratis voor iedereen.
+
+67
+00:05:34,170 --> 00:05:40,159
+Je stelt ons in staat om te oefenen en te verbeteren, om onafhankelijk te blijven en te werken aan ambitieuze projecten
+
+68
+00:05:40,160 --> 00:05:43,709
+die anders te eng of te groot zouden zijn.
+
+69
+00:05:43,710 --> 00:05:46,549
+Kurzgesagt begon niet met een einddoel voor ogen.
+
+70
+00:05:46,550 --> 00:05:54,029
+Het begon als een persoonlijk project omdat het goed voelde om met tijd en liefde iets te maken, en dat is vandaag de dag nog steeds zo.
+
+71
+00:05:54,030 --> 00:05:59,279
+Het maken van deze video's is ons doel.  Elke dag het werk doen en beter worden.
+
+72
+00:05:59,280 --> 00:06:03,149
+Om wetenschap mooi en interessant te maken.
+
+73
+00:06:03,150 --> 00:06:09,389
+Heel erg bedankt dat je zeven jaar bij ons bent gebleven en van onze eerste abonnee tot de tien miljoenste.
+
+74
+00:06:09,390 --> 00:06:14,989
+Deze reis was zo wild en zo leuk, en we kunnen niet wachten om de dingen waar
+
+75
+00:06:14,990 --> 00:06:21,259
+we nu aan werken met jullie te delen;  over een jaar, of misschien twee.
+
+76
+00:06:21,260 --> 00:06:24,859
+We willen nu af en toe dit soort video's maken.
+
+77
+00:06:24,860 --> 00:06:30,739
+Als je ons vragen wilt stellen die je wilt dat wij beantwoorden, dan kan dat op Reddit.  Link in de beschrijving.
+
+78
+00:06:30,740 --> 00:06:37,039
+(Mooie muziek)
+
+79
+00:06:37,040 --> 00:06:46,780
+(Kurzgesagt outro)
+

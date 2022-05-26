@@ -1,0 +1,781 @@
+1
+00:00:01,700 --> 00:00:06,699
+Combien de temps pensez-vous qu'il faudra pour que les machines fassent votre travail mieux que vous ?
+
+2
+00:00:06,700 --> 00:00:11,859
+L'automatisation était vue auparavant comme de grosses machines stupides qui font des tâches répétitives dans les usines.
+
+3
+00:00:11,860 --> 00:00:16,639
+Mais aujourd'hui, elles font atterrir des avions, diagnostiquent des cancers, et vendent des actions.
+
+4
+00:00:16,640 --> 00:00:21,399
+Nous entrons dans un nouvel âge de l'automatisation, sans précédent.
+
+5
+00:00:21,400 --> 00:00:25,819
+Selon une étude de 2013, presque la moitié des emplois des  Etats-Unis
+
+6
+00:00:25,820 --> 00:00:28,679
+pourraient potentiellement être automatisés dans les deux prochaines décennies.
+
+7
+00:00:28,680 --> 00:00:32,298
+Mais attendez, l'automatisation n'a-t-elle pas déjà été parmi nous depuis des décennies ?
+
+8
+00:00:32,299 --> 00:00:33,599
+Qu'est-ce qui diffère cette fois ?
+
+9
+00:00:33,600 --> 00:00:43,019
+*Générique de kurzgesagt*
+
+10
+00:00:43,020 --> 00:00:46,599
+L'innovation dans le passé
+
+11
+00:00:46,600 --> 00:00:49,079
+Avant, les choses étaient simples
+
+12
+00:00:49,080 --> 00:00:52,539
+L'innovation rendait le travail humain plus simple et la productivité grimpait.
+
+13
+00:00:52,540 --> 00:00:55,779
+Ce qui veut dire que plus de biens et de services étaient produits par heure
+
+14
+00:00:55,780 --> 00:00:58,899
+en utilisant la même main d'oeuvre.
+
+15
+00:00:58,900 --> 00:01:03,119
+Cela a détruit beaucoup d'emplois, mais en a aussi créé des meilleurs
+
+16
+00:01:03,120 --> 00:01:06,759
+ce qui était important parce que la population grandissante avait besoin de travail.
+
+17
+00:01:06,760 --> 00:01:10,639
+Donc, pour résumer, plus il y a d'innovation plus grande devient la productivité,
+
+18
+00:01:10,640 --> 00:01:15,159
+moins d'anciens emplois, plus de nouveaux emplois et souvent de meilleure qualité.
+
+19
+00:01:15,160 --> 00:01:18,079
+De manière générale, cela a bien fonctionné pour la majorité des personnes
+
+20
+00:01:18,080 --> 00:01:20,919
+et le niveau de vie s'est amélioré.
+
+21
+00:01:20,920 --> 00:01:24,719
+Il y a une progression claire dans ce que les humains font pour survivre
+
+22
+00:01:24,720 --> 00:01:27,559
+La plus grande partie du temps, nous avons travaillé dans l'agriculture.
+
+23
+00:01:27,560 --> 00:01:28,839
+Avec la Révolution Industrielle,
+
+24
+00:01:28,840 --> 00:01:31,279
+cela a changé pour devenir des emplois de production
+
+25
+00:01:31,280 --> 00:01:33,879
+et avec le développement de l'automatisation,
+
+26
+00:01:33,880 --> 00:01:37,239
+les humains ont développé des emplois de services.
+
+27
+00:01:37,240 --> 00:01:39,639
+Et ensuite, très récemment dans l'histoire de l'humanité,
+
+28
+00:01:39,640 --> 00:01:41,479
+l'âge de l'information est arrivé.
+
+29
+00:01:41,480 --> 00:01:44,239
+Soudainement, les règles ont changé.
+
+30
+00:01:44,240 --> 00:01:49,279
+Nos emplois sont maintenant remplacés par des machines bien plus rapidement que dans le passé.
+
+31
+00:01:49,280 --> 00:01:50,839
+Cela est inquiétant, bien-sûr...
+
+32
+00:01:50,840 --> 00:01:54,279
+Mais l'innovation va clairement nous sauver, n'est-ce pas ?
+
+33
+00:01:54,280 --> 00:01:56,839
+Pendant que les nouvelles industries de l'âge de l'information explosent,
+
+34
+00:01:56,840 --> 00:02:00,519
+elles créent de moins en moins de nouveaux emplois
+
+35
+00:02:00,520 --> 00:02:05,079
+En 1979, General Motors employait plus de 800 000 employés
+
+36
+00:02:05,080 --> 00:02:08,119
+et a généré environ 11 milliards de dollars américains.
+
+37
+00:02:08,120 --> 00:02:11,799
+En 2012, Google a généré à peu près 14 milliards de dollars américains
+
+38
+00:02:11,800 --> 00:02:15,259
+en employant 58,000 personnes.
+
+39
+00:02:15,260 --> 00:02:16,959
+Vous n'allez peut-être pas aimer cette comparaison,
+
+40
+00:02:16,960 --> 00:02:20,499
+mais Google est un exemple de ce qui créait des emplois par le passé.
+
+41
+00:02:20,500 --> 00:02:23,179
+La nouvelle industrie de l'innovation.
+
+42
+00:02:23,180 --> 00:02:25,919
+L'ancienne industrie de l'innovation est à bout de souffle.
+
+43
+00:02:25,920 --> 00:02:27,859
+Prenez l'exemple des voitures
+
+44
+00:02:27,860 --> 00:02:32,119
+Quand elles ont été inventées il y a 100 ans, elles ont créé une énorme industrie.
+
+45
+00:02:32,120 --> 00:02:37,359
+Les voitures ont transformé notre mode de vie, nos infrastructures et nos villes.
+
+46
+00:02:37,360 --> 00:02:41,639
+Des millions de personnes ont trouvé un travail, directement ou indirectement grâce à cette industrie
+
+47
+00:02:41,640 --> 00:02:44,759
+Des décennies d'investissements ont fait perdurer cette dynamique.
+
+48
+00:02:44,760 --> 00:02:47,359
+Aujourd'hui, ce processus est en grande partie arrivé à son terme.
+
+49
+00:02:47,360 --> 00:02:52,119
+L'innovation dans l'industrie automobile ne crée plus autant d'emplois qu'elle ne le faisait auparavant.
+
+50
+00:02:52,120 --> 00:02:54,319
+Bien que les voitures électriques soient formidables,
+
+51
+00:02:54,320 --> 00:02:57,639
+elles ne vont pas créer des millions de nouveaux emplois.
+
+52
+00:02:57,640 --> 00:02:58,379
+Mais ... attendez
+
+53
+00:02:58,380 --> 00:02:59,919
+Qu'en est-il de l'Internet ?
+
+54
+00:02:59,920 --> 00:03:06,679
+Plusieurs experts en technologie argumentent qu'Internet découle de l'invention de l'électricité.
+
+55
+00:03:06,680 --> 00:03:08,419
+Si nous suivons cette comparaison,
+
+56
+00:03:08,420 --> 00:03:11,539
+nous voyons comment notre innovation moderne diffère de  l'ancienne où
+
+57
+00:03:11,540 --> 00:03:13,839
+Internet a créé de nouvelles industries
+
+58
+00:03:13,840 --> 00:03:17,179
+Mais elles n'ont pas créé assez d'emplois pour suivre la croissance de la population
+
+59
+00:03:17,180 --> 00:03:20,499
+ou pour compenser les industries dont l'Internet cause la fermeture.
+
+60
+00:03:20,500 --> 00:03:22,659
+À son pic d'activité en 2004,
+
+61
+00:03:22,660 --> 00:03:28,079
+l'entreprise Blockbuster avaient 84,000 employés et faisaient 6 milliards de dollars Américains de revenus.
+
+62
+00:03:28,080 --> 00:03:34,979
+En 2016, Netflix avait 4,500 employés et générait 9 milliards de dollars Américains de revenus.
+
+63
+00:03:34,980 --> 00:03:36,519
+Ou bien, prenez nous comme exemple:
+
+64
+00:03:36,520 --> 00:03:41,619
+avec une équipe à temps plein de seulement 12 personnes, Kurzgesagt atteint des millions de personnes.
+
+65
+00:03:41,620 --> 00:03:46,339
+Une chaîne de télé avec le même nombre de téléspectateurs nécessite beaucoup plus d'employés.
+
+66
+00:03:46,340 --> 00:03:50,839
+L'innovation à l'âge de l'information ne résulte pas en la création de suffisamment d'emplois nouveaux
+
+67
+00:03:50,840 --> 00:03:52,579
+ce qui est assez mauvais en soit
+
+68
+00:03:52,580 --> 00:03:57,179
+mais maintenant une nouvelle vague d'automatisation et une nouvelle génération de machines
+
+69
+00:03:57,180 --> 00:03:58,839
+est lentement en train de prendre le contrôle.
+
+70
+00:03:58,840 --> 00:04:03,779
+*Un nouveau type de machine*
+
+71
+00:04:03,780 --> 00:04:07,959
+Pour bien comprendre ceci, il faut tout d'abord se comprendre soi-même.
+
+72
+00:04:07,960 --> 00:04:10,839
+Le progrès humain est basé sur la division du travail.
+
+73
+00:04:10,840 --> 00:04:16,319
+Au fil des millénaires, nos emplois sont devenus de plus en plus spécialisés.
+
+74
+00:04:16,320 --> 00:04:18,299
+Même si, maintenant, nos plus intelligentes machines
+
+75
+00:04:18,300 --> 00:04:20,458
+sont mauvaises pour faire des tâches complexes,
+
+76
+00:04:20,459 --> 00:04:25,459
+elles sont extrêmement bonnes pour faire des tâches étroitement définies et prévisibles.
+
+77
+00:04:25,460 --> 00:04:28,359
+C'est ce qui a détruit les emplois en usine.
+
+78
+00:04:28,360 --> 00:04:30,999
+Mais regardez un travail complexe assez longtemps et intensément,
+
+79
+00:04:31,000 --> 00:04:33,759
+et vous constaterez qu'il s'agit vraiment seulement de plusieurs petites tâches
+
+80
+00:04:33,760 --> 00:04:37,559
+étroitement définies et prévisibles l'une à la suite de l'autre.
+
+81
+00:04:37,560 --> 00:04:39,979
+Les machines sont sur le point de devenir si efficaces à
+
+82
+00:04:39,980 --> 00:04:42,899
+briser des travaux complexes en plusieurs tâches prévisibles
+
+83
+00:04:42,900 --> 00:04:46,939
+que beaucoup de gens croient qu'il n'y aura plus de place pour la spécialisation.
+
+84
+00:04:46,940 --> 00:04:51,259
+Nous serons bientôt hors compétition.
+
+85
+00:04:51,260 --> 00:04:53,619
+Les machines numériques font ceci via l'apprentissage automatique,
+
+86
+00:04:53,620 --> 00:04:56,059
+ce qui leur permet d'acquérir de l'information et des habiletés
+
+87
+00:04:56,060 --> 00:04:58,379
+par l'analyse de données.
+
+88
+00:04:58,380 --> 00:05:02,039
+Cela les rend meilleures à quelque chose grâce aux relations qu'elles découvrent.
+
+89
+00:05:02,040 --> 00:05:04,539
+Les machines s'enseignent à elles-mêmes.
+
+90
+00:05:04,540 --> 00:05:07,319
+C'est possible en fournissant beaucoup de données à un ordinateur
+
+91
+00:05:07,320 --> 00:05:10,259
+à propos d'une chose qu'on souhaite améliorer.
+
+92
+00:05:10,260 --> 00:05:13,019
+Montrez à une machine tout ce que vous achetez en ligne,
+
+93
+00:05:13,020 --> 00:05:15,459
+et elle apprendra lentement quoi vous recommander,
+
+94
+00:05:15,460 --> 00:05:18,179
+pour que vous achetiez plus.
+
+95
+00:05:18,180 --> 00:05:21,079
+L'apprentissage automatique atteint de plus en plus son plein potentiel,
+
+96
+00:05:21,080 --> 00:05:23,119
+puisque dans les dernières années, les humains ont commencé à
+
+97
+00:05:23,120 --> 00:05:26,679
+récolter de l'information sur tout.
+
+98
+00:05:26,680 --> 00:05:31,739
+Comportements, modèles météo, registres médicaux, systèmes de communication,
+
+99
+00:05:31,740 --> 00:05:35,759
+des données de voyage, et, bien sûr, des données sur ce qu'on fait au travail.
+
+100
+00:05:35,760 --> 00:05:40,999
+Ce que nous avons créé par accident, c'est une immense bibliothèque que les machines peuvent
+
+101
+00:05:41,000 --> 00:05:44,719
+utiliser pour apprendre comment les humains font les choses et mieux les faire.
+
+102
+00:05:44,720 --> 00:05:48,539
+Ces machines numériques pourraient être les plus grandes tueuses de travail du monde.
+
+103
+00:05:48,540 --> 00:05:51,979
+Elles peuvent se multiplier instantanément et gratuitement.
+
+104
+00:05:51,980 --> 00:05:55,639
+Quand elles s'améliorent, vous n'avez pas besoin d'investir dans de grosses choses en métal,
+
+105
+00:05:55,640 --> 00:05:58,219
+vous pouvez juste utiliser le nouveau code.
+
+106
+00:05:58,220 --> 00:06:03,099
+Et elles ont la capacité de s'améliorer vite...
+A quel point?
+
+107
+00:06:03,100 --> 00:06:06,459
+Si votre travail implique des travaux complexes sur un ordinateur aujourd'hui
+
+108
+00:06:06,460 --> 00:06:11,379
+vous serez peut être sans emploi plus tôt que ceux qui travaillent encore dans des usines.
+
+109
+00:06:11,380 --> 00:06:17,059
+Il y a des exemples actuels réels sur la façon dont cette transition pourrait se produire.
+
+110
+00:06:17,060 --> 00:06:21,099
+Une entreprise de San Francisco offre un logiciel de management de projet pour les grands groupes
+
+111
+00:06:21,100 --> 00:06:25,179
+qui est juste censé éliminer les postes de management moyen.
+
+112
+00:06:25,180 --> 00:06:29,919
+Quand il embauche pour un nouveau projet le logiciel décide d'abord quel emploi peut être automatisé
+
+113
+00:06:29,920 --> 00:06:33,699
+et précisément où il a besoin de vrais humains professionnels
+
+114
+00:06:33,700 --> 00:06:37,959
+pour ensuite assembler une équipe de travailleurs indépendants à travers internet.
+
+115
+00:06:37,960 --> 00:06:42,599
+Le logiciel distribue ensuite des tâches aux humains et contrôle ensuite la qualité du travail,
+
+116
+00:06:42,600 --> 00:06:46,779
+suit les performances individuelles jusqu'à ce que le projet soit terminé.
+
+117
+00:06:46,780 --> 00:06:48,899
+OK, ça n'a pas l'ai si mal
+
+118
+00:06:48,900 --> 00:06:54,079
+Et bien cette machine tue un travail et en créé plusieurs pour les travailleurs indépendants pas vrai?
+
+119
+00:06:54,080 --> 00:06:57,179
+Et bien, tant que les travailleurs complètent leur tâche,
+
+120
+00:06:57,180 --> 00:07:03,139
+des algorithmes d'apprentissage les suivent et récoltent des données sur leur travail et la tâche qu'il représente.
+
+121
+00:07:03,140 --> 00:07:08,559
+Donc ce qui se passe exactement est que les travailleurs indépendants apprennent aux machines comment les remplacer.
+
+122
+00:07:08,560 --> 00:07:12,799
+En moyenne, ce logiciel réduit les coûts de 50% la première année
+
+123
+00:07:12,800 --> 00:07:16,399
+et encore de 25% la deuxième année.
+
+124
+00:07:16,400 --> 00:07:19,819
+C'est seulement un exemple parmi tant d'autres
+
+125
+00:07:19,820 --> 00:07:25,359
+Il y a des machines et des programmes qui se débrouillent aussi bien ou mieux que des humains dans toute sorte de domaines.
+
+126
+00:07:25,360 --> 00:07:29,039
+De pharmacien à analyste, journaliste ou radiologue.
+
+127
+00:07:29,040 --> 00:07:33,879
+Caissier, agent d'accueil ou le travailleur non qualifié qui retourne des burgers.
+
+128
+00:07:33,880 --> 00:07:39,739
+Tous ces emplois ne vont pas disparaître du jour au lendemain mais de moins en moins d'humains les pratiqueront.
+
+129
+00:07:39,740 --> 00:07:42,899
+Nous discuteront de certains cas dans une prochaine vidéo.
+
+130
+00:07:42,900 --> 00:07:47,839
+Mais bon, la disparition d'emploi est mauvaise mais ce n'est que la moitié de l'histoire.
+
+131
+00:07:47,840 --> 00:07:52,199
+Pour rester stable, nous devons bouger très vite.
+
+132
+00:07:52,200 --> 00:07:55,239
+Ce n'est pas assez de substituer  tous les emplois par des nouveaux
+
+133
+00:07:55,240 --> 00:08:00,379
+On doit en générer des nouveaux constamment car la population mondiale augmente
+
+134
+00:08:00,380 --> 00:08:03,299
+Dans le passé, nous avons résolut cela par l'innovation.
+
+135
+00:08:03,300 --> 00:08:09,219
+Mais depuis 1973 les générations de nouveaux emplois aux USA commença à diminuer.
+
+136
+00:08:09,220 --> 00:08:17,379
+Et la première décennie du 21ème siècle était la première où le nombre total d'emplois aux USA n'a pas augmenté.
+
+137
+00:08:17,380 --> 00:08:21,939
+Dans un pays qui doit créer plus de 150 000 nouveaux emplois par mois
+
+138
+00:08:21,940 --> 00:08:26,799
+juste pour s'en sortir avec la croissance de la population c'est une mauvaise nouvelle.
+
+139
+00:08:26,800 --> 00:08:29,639
+Cela commence aussi à affecter les niveaux de vie.
+
+140
+00:08:29,640 --> 00:08:36,639
+Dans le passé, ça paraissait évident qu'avec une production en hausse plus de meilleurs postes seraient créés
+
+141
+00:08:36,640 --> 00:08:39,038
+Mais les chiffres disent autre chose.
+
+142
+00:08:39,039 --> 00:08:45,119
+En 1988 les employés américains ont travaillés un total de 192 milliards d'heures.
+
+143
+00:08:45,120 --> 00:08:50,379
+Au cours des 15 dernières années, la production a augmenté de 42%
+
+144
+00:08:50,380 --> 00:08:58,019
+mais en 2013 le total d'heures travaillées par les américains était toujours de 194 milliards d'heures.
+
+145
+00:08:58,020 --> 00:09:04,459
+Ca veut dire que malgré la production qui augmente drastiquement, des milliers de nouveaux emplois émergent
+
+146
+00:09:04,460 --> 00:09:07,419
+et la population américaine augmentant de plus de 40 millions
+
+147
+00:09:07,420 --> 00:09:12,179
+mais le nombres d'heures n'a pas changé.
+
+148
+00:09:12,180 --> 00:09:16,099
+En même temps, les salaires pour les
+nouveaux diplômés universitaires,
+
+149
+00:09:16,100 --> 00:09:18,099
+aux États-Unis, ont diminué
+cette dernière décennie,
+
+150
+00:09:18,100 --> 00:09:20,699
+tandis que jusqu'à 40 % des
+nouveaux diplômés,
+
+151
+00:09:20,700 --> 00:09:24,999
+sont obligés d'accepter des emplois qui ne nécessitent pas de diplôme.
+
+152
+00:09:25,000 --> 00:09:29,699
+*Conclusion*
+
+153
+00:09:29,700 --> 00:09:32,999
+La productivité est séparé
+du travail humain.
+
+154
+00:09:33,000 --> 00:09:35,499
+La nature de l'innovation
+dans l'âge de l'information est
+
+155
+00:09:35,500 --> 00:09:38,499
+différent de tout, ce que nous avons déjà rencontré.
+
+156
+00:09:38,500 --> 00:09:43,199
+Ce processus a commencé il y a quelques années et est déjà bien engagé
+
+157
+00:09:43,200 --> 00:09:48,899
+même sans nouvelles interruptions, comme les voitures autonomes ou les robots comptables
+
+158
+00:09:48,900 --> 00:09:51,899
+Cela ressemble à l'automatisation mais c'est différent cette fois,
+
+159
+00:09:51,900 --> 00:09:55,699
+Cette fois les machines 
+pourraient vraiment prendre nos emplois.
+
+160
+00:09:55,700 --> 00:09:58,799
+Nos économies sont basées sur
+la prémisse que les gens consomment.
+
+161
+00:09:58,800 --> 00:10:04,199
+Mais si de moins en moins de gens ont un 
+travail convenable, qui fera toute la consommation ?
+
+162
+00:10:04,200 --> 00:10:07,399
+Produisons-nous toujours plus à moindre coût,
+seulement pour arriver à un point où
+
+163
+00:10:07,400 --> 00:10:12,199
+Très peu de gens peuvent effectivement acheter
+tout nos biens et  services?
+
+164
+00:10:12,200 --> 00:10:17,099
+Ou, l'avenir verra-t-il une petite minorité de
+ super riches qui possèdent les machines ...
+
+165
+00:10:17,100 --> 00:10:18,899
+Dominant le reste des notres?
+
+166
+00:10:18,900 --> 00:10:22,279
+Et notre avenir,
+doit-t-il vraiment être sombre?
+
+167
+00:10:22,280 --> 00:10:24,499
+Alors que nous étions assez sombres
+dans cette vidéo,
+
+168
+00:10:24,500 --> 00:10:27,499
+sur certaines choses qui s'avèrent négative...
+
+169
+00:10:27,500 --> 00:10:31,999
+L'ère de l'information et de l'automatisation moderne pourrait être une grande opportunité
+
+170
+00:10:32,000 --> 00:10:36,099
+de changer la société humaine et de réduire de façon drastique la pauvreté et de l'inégalité.
+
+171
+00:10:36,100 --> 00:10:39,399
+Ce pourrait être un
+moment majeur dans l'histoire de l'humanité.
+
+172
+00:10:39,400 --> 00:10:42,399
+Nous parlerons de ce potentiel,
+et des solutions possibles comme
+
+173
+00:10:42,400 --> 00:10:46,699
+un revenu de base universel, en
+Partie 2 de cette série vidéo.
+
+174
+00:10:46,700 --> 00:10:49,299
+Nous devons penser grand et rapide.
+
+175
+00:10:49,300 --> 00:10:53,299
+Parce qu'une chose est 
+sûr, les machines ne viennent pas,
+
+176
+00:10:53,300 --> 00:10:57,099
+Elles sont déjà là.
+
+177
+00:10:57,100 --> 00:10:59,699
+Cette vidéo nous a pris environ 900 heures pour la créer,
+
+178
+00:10:59,700 --> 00:11:02,099
+et nous avons travaillé dessus
+pendant plus de neuf mois.
+
+179
+00:11:02,100 --> 00:11:04,099
+Un projet comme celui-ci ne serait pas possible
+
+180
+00:11:04,100 --> 00:11:06,099
+sans votre soutien sur patreon.com.
+
+181
+00:11:06,100 --> 00:11:09,499
+Si vous voulez nous aider
+ et obtenir un oiseau personnel Kurzgesagt en retour
+
+182
+00:11:09,500 --> 00:11:14,499
+Nous nous sommes basés d'une grande partie de cette vidéo sur
+deux très bons livres:
+
+183
+00:11:14,500 --> 00:11:17,499
+Les deux livres sont The Rise of the Robots et The second machine age
+
+184
+00:11:17,500 --> 00:11:22,499
+et vous pouvez trouver des liens vers les deux livres dans la description de cette vidéo
+
+185
+00:11:22,500 --> 00:11:24,499
+De plus, nous avons fait un petit poster de robot
+
+186
+00:11:24,500 --> 00:11:27,999
+Vous pouvez l'acheter et beaucoup d'autres
+Dans notre boutique DFTBA.
+
+187
+00:11:28,000 --> 00:11:31,499
+Cette vidéo fait partie d'un plus grand
+série sur la technologie
+
+188
+00:11:31,500 --> 00:11:33,999
+qui est déjà en train de changer et
+changer la vie humaine pour toujours.
+
+189
+00:11:34,000 --> 00:11:38,000
+Si vous souhaitez continuer
+à regarder, nous avons quelques playlists.
+

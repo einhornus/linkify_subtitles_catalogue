@@ -1,0 +1,470 @@
+1
+00:00:01,300 --> 00:00:04,999
+Die grundlegende Währung unseres Universums ist Energie.
+
+2
+00:00:05,000 --> 00:00:10,759
+Es beleuchtet unsere Häuser, baut unsere Nahrung an,
+versorgt unsere Computer mit Strom.
+
+3
+00:00:10,760 --> 00:00:12,439
+Wir können es auf viele Arten bekommen:
+
+4
+00:00:12,440 --> 00:00:14,839
+Verbrennen fossiler Brennstoffe, Atome spalten
+
+5
+00:00:14,840 --> 00:00:17,559
+oder Sonnenlicht, das auf Photovoltaik trifft.
+
+6
+00:00:17,560 --> 00:00:19,799
+Aber alles hat eine Kehrseite.
+
+7
+00:00:19,800 --> 00:00:22,059
+Fossile Brennstoffe sind extrem giftig,
+
+8
+00:00:22,060 --> 00:00:25,019
+Atommüll ist … nun, Atommüll,
+
+9
+00:00:25,020 --> 00:00:28,599
+und es gibt noch nicht genug Batterien, um Sonnenlicht für bewölkte Tage zu speichern.
+
+10
+00:00:28,600 --> 00:00:34,399
+Und doch scheint die Sonne praktisch unbegrenzt freie Energie zu haben.
+
+11
+00:00:34,400 --> 00:00:37,299
+Gibt es eine Möglichkeit, eine Sonne auf der Erde zu bauen?
+
+12
+00:00:37,300 --> 00:00:42,659
+Können wir einen Stern abfüllen?
+
+13
+00:00:42,660 --> 00:00:48,999
+[Intro Jingle]
+
+14
+00:00:49,000 --> 00:00:51,919
+Die Sonne scheint wegen der Kernfusion.
+
+15
+00:00:51,920 --> 00:00:55,239
+Kurz gesagt, Fusion ist ein thermonuklearer Prozess.
+
+16
+00:00:55,240 --> 00:00:57,839
+Das bedeutet, dass die Zutaten unglaublich heiß sein müssen.
+
+17
+00:00:57,840 --> 00:01:00,639
+So heiß, dass den Atomen ihre Elektronen entzogen werden. Es entsteht
+
+18
+00:01:00,640 --> 00:01:05,839
+ein Plasma, in dem Kerne und Elektronen frei herumspringen.
+
+19
+00:01:05,840 --> 00:01:08,439
+Da Kerne alle positiv geladen sind,
+
+20
+00:01:08,440 --> 00:01:10,019
+stoßen sie sich gegenseitig ab.
+
+21
+00:01:10,020 --> 00:01:11,939
+Um diese Abstoßung zu überwinden,
+
+22
+00:01:11,940 --> 00:01:14,899
+müssen sich die Teilchen sehr, sehr schnell bewegen.
+
+23
+00:01:14,900 --> 00:01:18,599
+Sehr schnell bedeutet in diesem Zusammenhang „sehr heiß“
+
+24
+00:01:18,600 --> 00:01:20,819
+Millionen von Grad
+
+25
+00:01:20,820 --> 00:01:23,339
+Sterne schummeln, um diese Temperaturen zu erreichen.
+
+26
+00:01:23,340 --> 00:01:26,079
+Sie sind so massiv, dass der Druck in ihren Kernen
+
+27
+00:01:26,080 --> 00:01:28,759
+die Wärme erzeugt, um die Kerne zusammenzupressen,
+
+28
+00:01:28,760 --> 00:01:30,599
+bis sie verschmelzen und verschmelzen,
+
+29
+00:01:30,600 --> 00:01:35,199
+wodurch schwerere Kerne entstehen und dabei Energie freigesetzt wird.
+
+30
+00:01:35,200 --> 00:01:38,699
+Es ist diese Energiefreisetzung, die Wissenschaftler
+
+31
+00:01:38,700 --> 00:01:40,899
+in einer neuen Generation von Kraftwerken,
+
+32
+00:01:40,900 --> 00:01:42,859
+dem Fusionsreaktor, nutzbar machen wollen.
+
+33
+00:01:42,860 --> 00:01:47,839
+Auf der Erde ist es nicht möglich, diese Brute-Force-Methode zu verwenden, um eine Fusion zu erzeugen.
+
+34
+00:01:47,840 --> 00:01:51,579
+Wenn wir also einen Reaktor bauen wollten, der Energie durch Fusion erzeugt,
+
+35
+00:01:51,580 --> 00:01:53,579
+mussten wir schlau werden.
+
+36
+00:01:53,580 --> 00:01:58,899
+Bis heute haben Wissenschaftler zwei Wege erfunden, um Plasmen heiß genug zu machen, um zu verschmelzen:
+
+37
+00:01:58,900 --> 00:02:01,699
+Der erste Reaktortyp verwendet ein Magnetfeld,
+
+38
+00:02:01,700 --> 00:02:03,839
+um ein Plasma in eine ringförmige Kammer zu
+
+39
+00:02:03,840 --> 00:02:06,359
+drücken, in der die Reaktionen stattfinden.
+
+40
+00:02:06,360 --> 00:02:08,839
+Diese magnetischen Einschlussreaktoren
+
+41
+00:02:08,840 --> 00:02:11,419
+wie der I.T.E.R.  Reaktor in Frankreich,
+
+42
+00:02:11,420 --> 00:02:14,659
+Verwenden Sie supraleitende Elektromagnete, die mit flüssigem Helium
+
+43
+00:02:14,660 --> 00:02:17,459
+bis auf wenige Grad vom absoluten Nullpunkt gekühlt werden.
+
+44
+00:02:17,460 --> 00:02:22,059
+Das bedeutet, dass sie einige der größten Temperaturgradienten im bekannten Universum beherbergen.
+
+45
+00:02:22,060 --> 00:02:24,699
+Der zweite Typ namens "Inertial Confinement"
+
+46
+00:02:24,700 --> 00:02:26,899
+verwendet Impulse von Hochleistungslasern,
+
+47
+00:02:26,900 --> 00:02:29,059
+um die Oberfläche eines Brennstoffpellets zu erhitzen und
+
+48
+00:02:29,060 --> 00:02:33,399
+implodiert es, wodurch der Brennstoff kurz heiß und dicht genug wird, um zu schmelzen.
+
+49
+00:02:33,400 --> 00:02:36,419
+Tatsächlich wird einer der leistungsstärksten Laser der Welt
+
+50
+00:02:36,420 --> 00:02:38,499
+für Fusionsexperimente
+
+51
+00:02:38,500 --> 00:02:41,659
+an der National Ignition Facility in den USA verwendet.
+
+52
+00:02:41,660 --> 00:02:44,319
+Diese Experimente und ähnliche Experimente auf der ganzen Welt
+
+53
+00:02:44,320 --> 00:02:46,799
+sind heute nur noch Experimente.
+
+54
+00:02:46,800 --> 00:02:50,639
+Wissenschaftler entwickeln immer noch die Technologie,
+
+55
+00:02:50,640 --> 00:02:52,559
+und obwohl sie eine Fusion erreichen können
+
+56
+00:02:52,560 --> 00:02:55,919
+, kostet es im Moment mehr Energie, das Experiment durchzuführen, als
+
+57
+00:02:55,920 --> 00:02:58,219
+sie in Fusion produzieren.
+
+58
+00:02:58,220 --> 00:03:02,239
+Die Technologie hat noch einen langen Weg vor sich, bevor sie kommerziell rentabel ist,
+
+59
+00:03:02,240 --> 00:03:04,319
+und vielleicht wird sie es nie sein.
+
+60
+00:03:04,320 --> 00:03:09,179
+Es könnte einfach unmöglich sein, einen funktionsfähigen Fusionsreaktor auf der Erde zu bauen,
+
+61
+00:03:09,180 --> 00:03:12,099
+aber wenn er dort ankommt, wird er so effizient sein,
+
+62
+00:03:12,100 --> 00:03:15,359
+dass ein einziges Glas Meerwasser verwendet werden könnte, um
+
+63
+00:03:15,360 --> 00:03:20,359
+so viel Energie zu erzeugen wie das Verbrennen eines Barrels Öl, ohne  Verschwendung zu sprechen.
+
+64
+00:03:20,360 --> 00:03:24,199
+Dies liegt daran, dass
+Fusionsreaktoren Wasserstoff oder Helium als Brennstoff verwenden würden
+
+65
+00:03:24,200 --> 00:03:27,159
+und Meerwasser mit Wasserstoff beladen ist.
+
+66
+00:03:27,160 --> 00:03:29,459
+Aber nicht irgendein Wasserstoff wird es tun.
+
+67
+00:03:29,460 --> 00:03:34,099
+Spezifische Isotope mit zusätzlichen Neutronen namens Deuterium und Tritium
+
+68
+00:03:34,100 --> 00:03:36,379
+werden benötigt, um die richtigen Reaktionen durchzuführen.
+
+69
+00:03:36,380 --> 00:03:40,639
+Deuterium ist stabil und kann im Meerwasser reichlich gefunden werden,
+
+70
+00:03:40,640 --> 00:03:42,999
+obwohl Tritium etwas schwieriger ist.
+
+71
+00:03:43,000 --> 00:03:44,319
+Es ist radioaktiv
+
+72
+00:03:44,320 --> 00:03:47,399
+und es gibt vielleicht nur 20 Kilogramm davon auf der Welt,
+
+73
+00:03:47,400 --> 00:03:49,259
+meistens in Atomsprengköpfen
+
+74
+00:03:49,260 --> 00:03:51,579
+, was es unglaublich teuer macht.
+
+75
+00:03:51,580 --> 00:03:56,319
+Also brauchten wir einen anderen Fusionspartner für Deuterium anstelle von Tritium.
+
+76
+00:03:56,320 --> 00:04:00,599
+Helium-3, ein Isotop von Helium,
+könnte ein großartiger Ersatz sein.
+
+77
+00:04:00,600 --> 00:04:04,439
+Leider ist es auch unglaublich selten auf der Erde.
+
+78
+00:04:04,440 --> 00:04:08,459
+Aber hier könnte der Mond die Antwort haben.
+
+79
+00:04:08,460 --> 00:04:12,639
+Über Milliarden von Jahren hat der Sonnenwind möglicherweise riesige Lagerstätten
+
+80
+00:04:12,640 --> 00:04:15,059
+von Helium-3 auf dem Mond aufgebaut.
+
+81
+00:04:15,060 --> 00:04:19,078
+Anstatt Helium-3 herzustellen, können wir es abbauen.
+
+82
+00:04:19,079 --> 00:04:21,299
+Wenn wir den Mondstaub nach Helium sieben könnten,
+
+83
+00:04:21,300 --> 00:04:25,579
+hätten wir genug Treibstoff, um die ganze Welt Tausende von Jahren lang mit Energie zu versorgen.
+
+84
+00:04:25,580 --> 00:04:30,699
+Ein weiteres Argument für die Einrichtung einer Mondbasis, falls Sie noch nicht überzeugt waren.
+
+85
+00:04:30,700 --> 00:04:33,699
+Ok, vielleicht denkst du, eine Mini-Sonne zu bauen,
+
+86
+00:04:33,700 --> 00:04:37,399
+klingt immer noch irgendwie gefährlich,
+
+87
+00:04:37,400 --> 00:04:42,499
+aber sie wären tatsächlich viel sicherer
+als die meisten anderen Arten von Kraftwerken.
+
+88
+00:04:42,500 --> 00:04:45,119
+Ein Fusionsreaktor ist nicht wie ein Kernkraftwerk,
+
+89
+00:04:45,120 --> 00:04:47,499
+das katastrophal abschmelzen kann.
+
+90
+00:04:47,500 --> 00:04:51,099
+Wenn der Einschluss fehlschlug, würde sich das Plasma ausdehnen und abkühlen,
+
+91
+00:04:51,100 --> 00:04:53,439
+und die Reaktion würde aufhören.
+
+92
+00:04:53,440 --> 00:04:57,259
+Einfach gesagt, es ist keine Bombe.
+
+93
+00:04:57,260 --> 00:04:59,859
+Die Freisetzung von radioaktivem Brennstoff, wie Tritium,
+
+94
+00:04:59,860 --> 00:05:02,019
+könnte eine Bedrohung für die Umwelt darstellen.
+
+95
+00:05:02,020 --> 00:05:05,339
+Tritium könnte sich mit Sauerstoff verbinden, wodurch radioaktives Wasser entsteht,
+
+96
+00:05:05,340 --> 00:05:08,959
+das gefährlich sein könnte, da es in die Umwelt sickert.
+
+97
+00:05:08,960 --> 00:05:13,459
+Glücklicherweise werden zu einem bestimmten Zeitpunkt nicht mehr als ein paar Gramm verwendet.
+
+98
+00:05:13,460 --> 00:05:16,379
+Ein Leck würde sich also schnell verdünnen.
+
+99
+00:05:16,380 --> 00:05:19,719
+Wir haben Ihnen also gerade gesagt, dass in etwas so Einfachem wie Wasser nahezu unbegrenzt Energie vorhanden ist
+
+100
+00:05:19,720 --> 00:05:21,719
+, ohne die Umwelt zu belasten
+
+101
+00:05:21,720 --> 00:05:23,719
+.
+
+102
+00:05:23,720 --> 00:05:26,239
+Also, wo ist der Haken?
+
+103
+00:05:26,240 --> 00:05:31,259
+Kosten.  Wir wissen einfach nicht, ob die Fusionsenergie jemals kommerziell rentabel sein wird.
+
+104
+00:05:31,260 --> 00:05:35,239
+Selbst wenn sie funktionieren, könnten sie zu teuer sein, um sie jemals zu bauen.
+
+105
+00:05:35,240 --> 00:05:38,459
+Der Hauptnachteil ist, dass es sich um eine unbewiesene Technologie handelt.
+
+106
+00:05:38,460 --> 00:05:40,459
+Es ist ein 10-Milliarden-Dollar-Glücksspiel.
+
+107
+00:05:40,460 --> 00:05:43,839
+Und das Geld könnte
+besser für andere saubere Energie ausgegeben werden.
+
+108
+00:05:43,840 --> 00:05:46,339
+Das hat sich bereits bewährt.
+
+109
+00:05:46,340 --> 00:05:48,499
+Vielleicht sollten wir Verluste
+
+110
+00:05:48,500 --> 00:05:53,519
+vermeiden. Oder vielleicht ist es das Risiko wert, wenn die Auszahlung unbegrenzt
+saubere Energie für alle ist
+
+111
+00:05:53,520 --> 00:05:56,859
+.
+
+112
+00:05:56,860 --> 00:05:59,059
+Die Erstellung von Videos wie diesem dauert Hunderte von Stunden
+
+113
+00:05:59,060 --> 00:06:02,519
+und wird durch Ihre Beiträge auf patreon.com ermöglicht.
+
+114
+00:06:02,520 --> 00:06:04,519
+Wenn Sie mehr über globale Energie erfahren möchten, finden Sie
+
+115
+00:06:04,520 --> 00:06:07,619
+hier eine Playlist über Kernenergie, Fracking und Solarenergie.
+
+116
+00:06:07,620 --> 00:06:11,360
+Lassen Sie uns in den Kommentaren wissen, ob es andere Technologien gibt, die wir Ihnen erklären sollen.
+

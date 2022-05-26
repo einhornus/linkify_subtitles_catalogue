@@ -1,0 +1,442 @@
+1
+00:00:00,000 --> 00:00:00,499
+Objaśnienie komputerów kwantowych – granice ludzkiej technologii
+
+2
+00:00:00,500 --> 00:00:06,119
+Przez większość naszej historii ludzka technologia składała się z naszych mózgów, ognia i ostrych patyków.
+
+3
+00:00:06,120 --> 00:00:10,159
+Podczas gdy ogień i ostre patyki stały się elektrowniami i bronią jądrową
+
+4
+00:00:10,160 --> 00:00:13,279
+, największe ulepszenie dokonało się w naszych mózgach.
+
+5
+00:00:13,280 --> 00:00:17,379
+Od lat sześćdziesiątych moc naszych maszyn mózgowych rośnie wykładniczo,
+
+6
+00:00:17,380 --> 00:00:21,939
+dzięki czemu komputery stają się jednocześnie mniejsze i potężniejsze.
+
+7
+00:00:21,940 --> 00:00:25,499
+Ale ten proces niedługo osiągnie swoje fizyczne ograniczenia.
+
+8
+00:00:25,500 --> 00:00:28,859
+Części komputerowe zbliżają się do rozmiarów atomu.
+
+9
+00:00:28,860 --> 00:00:33,179
+Aby zrozumieć, dlaczego jest to problem, musimy wyjaśnić kilka podstaw.
+
+10
+00:00:33,180 --> 00:00:39,719
+W skrócie — Kurzgesagt
+
+11
+00:00:39,720 --> 00:00:42,539
+Komputer składa się z bardzo prostych elementów
+
+12
+00:00:42,540 --> 00:00:44,219
+wykonujących bardzo proste rzeczy.
+
+13
+00:00:44,220 --> 00:00:49,019
+Reprezentowanie danych, sposoby ich przetwarzania oraz mechanizmy kontrolne.
+
+14
+00:00:49,020 --> 00:00:54,639
+Chipy komputerowe zawierają moduły, które zawierają bramki logiczne, które zawierają tranzystory.
+
+15
+00:00:54,640 --> 00:00:58,439
+Tranzystor jest najprostszą formą procesora danych w komputerach, w
+
+16
+00:00:58,440 --> 00:01:03,259
+zasadzie przełącznikiem, który może blokować lub otwierać dostęp do informacji.
+
+17
+00:01:03,260 --> 00:01:06,339
+Ta informacja składa się z bitów,
+
+18
+00:01:06,340 --> 00:01:08,499
+które można ustawić na 0 lub 1.
+
+19
+00:01:08,500 --> 00:01:12,999
+Kombinacje kilku bitów są używane do przedstawiania bardziej złożonych informacji.
+
+20
+00:01:13,000 --> 00:01:17,999
+Tranzystory są łączone w celu stworzenia bramek logicznych, które nadal wykonują bardzo proste rzeczy.
+
+21
+00:01:18,000 --> 00:01:25,459
+Na przykład bramka AND wysyła wyjście 1, jeśli wszystkie jej wejścia mają wartość 1, a wyjście 0 w przeciwnym razie.
+
+22
+00:01:25,460 --> 00:01:30,999
+Kombinacje bramek logicznych ostatecznie tworzą sensowne moduły, powiedzmy, do dodawania dwóch liczb.
+
+23
+00:01:31,000 --> 00:01:33,759
+Kiedy już możesz dodać, możesz również pomnożyć,
+
+24
+00:01:33,760 --> 00:01:37,159
+a kiedy już możesz pomnożyć, możesz w zasadzie zrobić wszystko.
+
+25
+00:01:37,160 --> 00:01:41,039
+Ponieważ wszystkie podstawowe operacje są dosłownie prostsze niż matematyka w pierwszej klasie,
+
+26
+00:01:41,040 --> 00:01:46,079
+możesz sobie wyobrazić komputer jako grupę 7-latków, którzy odpowiadają na naprawdę podstawowe pytania matematyczne.
+
+27
+00:01:46,080 --> 00:01:48,679
+Wystarczająco duża ich grupa może obliczyć wszystko,
+
+28
+00:01:48,680 --> 00:01:51,339
+od astrofizyki po Zeldę.
+
+29
+00:01:51,340 --> 00:01:53,739
+Jednak w miarę jak części stają się coraz mniejsze,
+
+30
+00:01:53,740 --> 00:01:56,539
+fizyka kwantowa utrudnia sprawę.
+
+31
+00:01:56,540 --> 00:01:59,979
+Krótko mówiąc, tranzystor to tylko przełącznik elektryczny.
+
+32
+00:01:59,980 --> 00:02:03,159
+Elektryczność to elektrony przemieszczające się z jednego miejsca do drugiego.
+
+33
+00:02:03,160 --> 00:02:08,359
+Przełącznik jest więc przejściem, które może blokować ruch elektronów w jednym kierunku.
+
+34
+00:02:08,360 --> 00:02:12,219
+Dziś typowa skala dla tranzystorów to 14 nanometrów,
+
+35
+00:02:12,220 --> 00:02:15,519
+czyli około 8 razy mniej niż średnica wirusa HIV
+
+36
+00:02:15,520 --> 00:02:18,399
+i 500 razy mniejsza niż czerwona krwinka.
+
+37
+00:02:18,400 --> 00:02:22,319
+Ponieważ tranzystory kurczą się do rozmiarów zaledwie kilku atomów,
+
+38
+00:02:22,320 --> 00:02:25,919
+elektrony mogą po prostu przenieść się na drugą stronę zablokowanego przejścia
+
+39
+00:02:25,920 --> 00:02:28,499
+w procesie zwanym tunelowaniem kwantowym.
+
+40
+00:02:28,500 --> 00:02:33,259
+W sferze kwantowej fizyka działa zupełnie inaczej niż przewidywalne sposoby, do których przywykliśmy,
+
+41
+00:02:33,260 --> 00:02:36,859
+a tradycyjne komputery po prostu przestają mieć sens.
+
+42
+00:02:36,860 --> 00:02:41,219
+Zbliżamy się do prawdziwej fizycznej bariery dla naszego postępu technologicznego.
+
+43
+00:02:41,220 --> 00:02:42,899
+Aby rozwiązać ten problem,
+
+44
+00:02:42,900 --> 00:02:47,099
+naukowcy próbują wykorzystać te niezwykłe właściwości kwantowe na swoją korzyść
+
+45
+00:02:47,100 --> 00:02:49,179
+, budując komputery kwantowe.
+
+46
+00:02:49,180 --> 00:02:53,419
+W normalnych komputerach bity są najmniejszą jednostką informacji.
+
+47
+00:02:53,420 --> 00:02:58,059
+Komputery kwantowe używają kubitów, które również można ustawić na jedną z dwóch wartości.
+
+48
+00:02:58,060 --> 00:03:00,859
+Kubit może być dowolnym dwupoziomowym układem kwantowym,
+
+49
+00:03:00,860 --> 00:03:04,659
+takim jak spin i pole magnetyczne, lub pojedynczym fotonem.
+
+50
+00:03:04,660 --> 00:03:07,579
+0 i 1 to możliwe stany tego układu,
+
+51
+00:03:07,580 --> 00:03:10,959
+takie jak polaryzacja pozioma lub pionowa fotonów.
+
+52
+00:03:10,960 --> 00:03:14,519
+W świecie kwantowym kubit nie musi być tylko jednym z nich
+
+53
+00:03:14,520 --> 00:03:17,899
+, może znajdować się w dowolnych proporcjach obu stanów jednocześnie.
+
+54
+00:03:17,900 --> 00:03:19,899
+Nazywa się to superpozycją.
+
+55
+00:03:19,900 --> 00:03:24,679
+Ale jak tylko przetestujesz jego wartość, powiedzmy, przepuszczając foton przez filtr
+
+56
+00:03:24,680 --> 00:03:29,139
+, musi on zdecydować, czy będzie spolaryzowany pionowo lub poziomo.
+
+57
+00:03:29,140 --> 00:03:31,059
+Tak długo, jak nie jest obserwowany,
+
+58
+00:03:31,060 --> 00:03:37,139
+kubit jest w superpozycji prawdopodobieństw dla 0 i 1 i nie można przewidzieć, który to będzie.
+
+59
+00:03:37,140 --> 00:03:39,139
+Ale w chwili, gdy
+
+60
+00:03:39,140 --> 00:03:42,439
+ją zmierzysz, zapada się w jeden z określonych stanów.
+
+61
+00:03:42,440 --> 00:03:44,599
+Superpozycja zmienia zasady gry.
+
+62
+00:03:44,600 --> 00:03:50,379
+Cztery klasyczne bity mogą być w jednym z dwóch do potęgi czterech różnych konfiguracji na raz.
+
+63
+00:03:50,380 --> 00:03:54,699
+To 16 możliwych kombinacji, z których możesz użyć tylko jednej.
+
+64
+00:03:54,700 --> 00:04:00,379
+Jednak cztery kubity w superpozycji mogą znajdować się we wszystkich tych 16 kombinacjach naraz.
+
+65
+00:04:00,380 --> 00:04:04,479
+Liczba ta rośnie wykładniczo z każdym dodatkowym kubitem.
+
+66
+00:04:04,480 --> 00:04:08,239
+Dwadzieścia z nich może już równolegle przechowywać milion wartości.
+
+67
+00:04:08,240 --> 00:04:12,879
+Naprawdę dziwną i nieintuicyjną właściwością, jaką mogą mieć kubity, jest Splątanie
+
+68
+00:04:12,880 --> 00:04:18,119
+, bliskie połączenie, które sprawia, że każdy z kubitów natychmiast reaguje na zmianę stanu drugiego, bez w
+
+69
+00:04:18,120 --> 00:04:20,199
+ględu na odległość między nimi.
+
+70
+00:04:20,200 --> 00:04:26,139
+ Oznacza to, że mierząc tylko jeden splątany kubit, możesz bezpośrednio wywnioskować właściwości jego partnerów
+
+71
+00:04:26,140 --> 00:04:27,679
+bez konieczności patrzenia.
+
+72
+00:04:27,680 --> 00:04:31,159
+Manipulacja kubitem jest również manipulatorem umysłu.
+
+73
+00:04:31,160 --> 00:04:36,439
+Normalna bramka logiczna otrzymuje prosty zestaw wejść i wytwarza jedno określone wyjście.
+
+74
+00:04:36,440 --> 00:04:41,679
+Bramka kwantowa manipuluje danymi wejściowymi superpozycji, obraca prawdopodobieństwami
+
+75
+00:04:41,680 --> 00:04:44,959
+i wytwarza kolejną superpozycję jako wynik.
+
+76
+00:04:44,960 --> 00:04:51,459
+Tak więc komputer kwantowy konfiguruje kubity, stosuje bramy kwantowe, aby je splątać i manipulować prawdopodobieństwami,
+
+77
+00:04:51,460 --> 00:04:57,619
+a następnie w końcu mierzy wynik, załamując superpozycje do rzeczywistej sekwencji zer i jedynek.
+
+78
+00:04:57,620 --> 00:05:04,219
+Oznacza to, że otrzymujesz całą masę obliczeń, które są możliwe w Twojej konfiguracji, wszystkie wykonywane w tym samym czasie.
+
+79
+00:05:04,220 --> 00:05:09,359
+Ostatecznie możesz zmierzyć tylko jeden z wyników i prawdopodobnie będzie to tylko ten, który chcesz,
+
+80
+00:05:09,360 --> 00:05:12,399
+więc być może będziesz musiał dwukrotnie sprawdzić i spróbować ponownie.
+
+81
+00:05:12,400 --> 00:05:15,959
+Ale dzięki sprytnemu wykorzystaniu superpozycji i splątania
+
+82
+00:05:15,960 --> 00:05:20,499
+może to być wykładniczo wydajniejsze niż kiedykolwiek byłoby to możliwe na normalnym komputerze.
+
+83
+00:05:20,500 --> 00:05:25,919
+Tak więc, chociaż komputery kwantowe prawdopodobnie nie zastąpią naszych komputerów domowych,
+
+84
+00:05:25,920 --> 00:05:28,559
+w niektórych obszarach są znacznie lepsze.
+
+85
+00:05:28,560 --> 00:05:30,799
+Jednym z nich jest przeszukiwanie baz danych.
+
+86
+00:05:30,800 --> 00:05:35,819
+Aby znaleźć coś w bazie danych, normalny komputer może być zmuszony do przetestowania każdego ze swoich wpisów.
+
+87
+00:05:35,820 --> 00:05:39,099
+Algorytmy komputerów kwantowych potrzebują jedynie pierwiastka kwadratowego z tamtych czasów,
+
+88
+00:05:39,100 --> 00:05:42,459
+co w przypadku dużych baz danych stanowi ogromną różnicę
+
+89
+00:05:42,460 --> 00:05:46,639
+. Najbardziej znanym zastosowaniem komputerów kwantowych jest rujnowanie bezpieczeństwa IT.
+
+90
+00:05:46,640 --> 00:05:52,079
+W tej chwili Twoje przeglądanie, poczta e-mail i dane bankowe są chronione przez system szyfrowania,
+
+91
+00:05:52,080 --> 00:05:56,499
+w którym dajesz każdemu klucz publiczny do kodowania wiadomości, które tylko Ty możesz odszyfrować.
+
+92
+00:05:56,500 --> 00:06:02,119
+Problem polega na tym, że ten klucz publiczny może być faktycznie użyty do obliczenia tajnego klucza prywatnego.
+
+93
+00:06:02,120 --> 00:06:07,559
+Na szczęście wykonanie niezbędnej matematyki na dowolnym normalnym komputerze zajęłoby dosłownie lata prób i błędów.
+
+94
+00:06:07,560 --> 00:06:12,439
+Ale komputer kwantowy z wykładniczym przyspieszeniem mógłby to zrobić w mgnieniu oka.
+
+95
+00:06:12,440 --> 00:06:15,459
+Innym naprawdę ekscytującym nowym zastosowaniem są symulacje.
+
+96
+00:06:15,460 --> 00:06:19,019
+Symulacje świata kwantowego bardzo intensywnie wykorzystują zasoby,
+
+97
+00:06:19,020 --> 00:06:24,019
+a nawet w przypadku większych struktur, takich jak molekuły, często brakuje im dokładności.
+
+98
+00:06:24,020 --> 00:06:28,339
+Dlaczego więc nie symulować fizyki kwantowej z rzeczywistą fizyką kwantową?
+
+99
+00:06:28,340 --> 00:06:34,319
+Symulacje kwantowe mogą dostarczyć nowych informacji na temat białek, które mogą zrewolucjonizować medycynę.
+
+100
+00:06:34,320 --> 00:06:38,499
+W tej chwili nie wiemy, czy komputery kwantowe będą tylko specjalistycznym narzędziem,
+
+101
+00:06:38,500 --> 00:06:40,759
+czy wielką rewolucją dla ludzkości.
+
+102
+00:06:40,760 --> 00:06:43,799
+Nie mamy pojęcia, gdzie są granice technologii,
+
+103
+00:06:43,800 --> 00:06:46,539
+a jest tylko jeden sposób, aby się tego dowiedzieć.
+
+104
+00:06:46,540 --> 00:06:50,619
+Ten film jest wspierany przez Australijską Akademię Nauk,
+
+105
+00:06:50,620 --> 00:06:54,439
+która promuje i wspiera doskonałość w nauce
+
+106
+00:06:54,440 --> 00:06:58,519
+Dowiedz się więcej na ten temat i inne podobne na
+
+107
+00:06:58,520 --> 00:07:01,959
+nova.org.au Praca z nimi była świetna, więc odwiedź ich stronę!
+
+108
+00:07:01,960 --> 00:07:06,199
+Nasze filmy są również możliwe dzięki Twojemu wsparciu na patreon.com.
+
+109
+00:07:06,200 --> 00:07:12,979
+Jeśli chcesz nas wesprzeć i stać się częścią armii ptaków Kurzgesagt, zajrzyj na naszą stronę Patreon!
+
+110
+00:07:12,980 --> 00:07:15,640
+Napisy autorstwa Jamesa Zhanga
+[poprawione przez Pietro Pasquero]
+[poprawione przez P0ck3tL1nt]
+

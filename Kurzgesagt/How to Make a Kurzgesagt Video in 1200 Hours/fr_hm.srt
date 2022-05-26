@@ -1,0 +1,317 @@
+1
+00:00:02,040 --> 00:00:05,799
+Depuis des années, nos spectateurs nous demandent comment nous réalisons nos vidéos.
+
+2
+00:00:05,800 --> 00:00:08,959
+Alors, parlons-en une bonne fois pour toutes !
+
+3
+00:00:08,960 --> 00:00:14,099
+Comment réaliser une vidéo de Kurzgesagt en 1200 heures ou plus
+
+4
+00:00:14,100 --> 00:00:19,219
+(Intro de Kurzgesagt)
+
+5
+00:00:19,220 --> 00:00:19,859
+Kurzgesagt, en bref
+
+6
+00:00:19,860 --> 00:00:23,079
+Pour commencer, il nous faut un sujet.
+
+7
+00:00:23,080 --> 00:00:29,379
+Notre liste de sujets potentiels est déjà sans fin, et chaque fois que nous faisons une recherche sur un sujet, elle s'allonge.
+
+8
+00:00:29,380 --> 00:00:35,079
+Alors, nous choisissons un sujet que nous trouvons intéressant sur le moment. Ça peut être quelque chose de sérieux,
+
+9
+00:00:35,080 --> 00:00:40,819
+de fascinant, de personnel, ou juste vraiment bête. La moitié du plaisir, c'est la variété.
+
+10
+00:00:40,820 --> 00:00:48,419
+Nous voulons vulgariser des sujets complexes et rendre des sujets scientifiques passionnants et beaux.
+
+11
+00:00:48,420 --> 00:00:55,859
+Mais nous voulons aussi raconter des histoires et exprimer notre ressenti par rapport à l'univers, de temps en temps.
+
+12
+00:00:55,860 --> 00:00:58,979
+Posons les fondations : le scénario
+
+13
+00:00:58,980 --> 00:01:05,999
+Notre recherche commence par la lecture de livres ou d'articles scientifiques et en parlant avec différents experts qui nous indiquent la bonne direction.
+
+14
+00:01:06,000 --> 00:01:10,659
+Nous voulons avoir une vision du monde basée sur des faits et nos vidéos tentent de refléter cela.
+
+15
+00:01:10,660 --> 00:01:15,399
+Nous devons donc souvent changer nos points de vue sur un problème pendant que nous travaillons dessus.
+
+16
+00:01:15,400 --> 00:01:19,419
+En général, nous commençons à écrire au bout de quelques semaines de recherche.
+
+17
+00:01:19,420 --> 00:01:25,199
+Un scénario commence avec une première ébauche qui est sans cesse réécrite et améliorée.
+
+18
+00:01:25,200 --> 00:01:31,499
+Pour être sûrs de ne pas représenter faussement quelque chose, nous demandons à des experts de vérifier les faits et de nous corriger.
+
+19
+00:01:31,500 --> 00:01:36,119
+L'écriture est ce qui prend le plus de temps, et il est très dur d'accélérer ce processus.
+
+20
+00:01:36,120 --> 00:01:42,239
+D'habitude, il faut entre quelques semaines et littéralement des années pour finir un scénario.
+
+21
+00:01:42,240 --> 00:01:45,599
+Visualisons : l'illustration
+
+22
+00:01:45,600 --> 00:01:49,059
+Quand le scénario est prêt, nous commençons l'esquisse de la vidéo.
+
+23
+00:01:49,060 --> 00:01:55,079
+Nous essayons de penser à des métaphores visuelles, à des transitions entre les idées, et nous décidons quelles scènes méritent la plus grande attention.
+
+24
+00:01:55,080 --> 00:02:00,279
+En moyenne, 200 illustrations animées doivent être créées sur Adode Illustrator.
+
+25
+00:02:00,280 --> 00:02:08,339
+Bien que nous ayons construit une bibliothèque d'illustrations, nous continuons d'en créer de nouvelles pour que chacune de nos vidéos soit unique.
+
+26
+00:02:08,340 --> 00:02:14,199
+L'idée générale est de trouver les bonnes images pour illustrer le script afin de rendre l'explication la plus claire possible,
+
+27
+00:02:14,200 --> 00:02:17,939
+tout en ayant des choses intéressantes à regarder.
+
+28
+00:02:17,940 --> 00:02:22,179
+C'est aussi ici que l'on ajoute de petites références cachées.
+
+29
+00:02:22,180 --> 00:02:28,259
+Au total, deux à trois dessinateurs passent 8 à 12 semaines pour illustrer la vidéo.
+
+30
+00:02:28,260 --> 00:02:31,599
+C'est à mon tour : la narration
+
+31
+00:02:31,600 --> 00:02:39,939
+Quand toute la vidéo est illustrée, la narration est enregistrée dans un petit studio d'enregistrement sur un microphone Neumann TLM 103 et Pro Tools.
+
+32
+00:02:39,940 --> 00:02:41,669
+C'est important de garder un rythme,
+
+33
+00:02:41,670 --> 00:02:46,739
+donc j'essaie d'obtenir une version complète, puis j'y reviens, je reprends certains paragraphes et certaines phrases
+
+34
+00:02:46,740 --> 00:02:50,739
+jusqu'à ce qu'ils sonnent justes et qu'une version complète soit prête.
+
+35
+00:02:50,740 --> 00:02:54,779
+C'est vivant : l'animation
+
+36
+00:02:54,780 --> 00:02:57,899
+Maintenant, les scènes et le son ont besoin d'être animés.
+
+37
+00:02:57,900 --> 00:03:04,059
+Nous faisons bouger les choses dans Adobe After Effects et récemment, nous avons commencé à tester Cinéma 4D.
+
+38
+00:03:04,060 --> 00:03:08,619
+La première chose à faire est de prendre chacune des scènes illustrées à part et de les organiser.
+
+39
+00:03:08,620 --> 00:03:13,379
+Les centaines ou milliers de parties sont ensuite importées dans After Effects.
+
+40
+00:03:13,380 --> 00:03:18,799
+Chaque personnage est articulé pour que nous puissions les faire bouger plus naturellement.
+
+41
+00:03:18,800 --> 00:03:26,419
+Mis à part quelques plugins qui nous aident à économiser du temps, chaque chose qui bouge à l'écran a été bougée manuellement.
+
+42
+00:03:26,420 --> 00:03:33,139
+Donc, deux à trois animateurs animent les scènes les unes après les autres pendant huit à dix semaines en tout.
+
+43
+00:03:33,140 --> 00:03:37,519
+Pour finir sur une bonne note : la musique et le conception sonore
+
+44
+00:03:37,520 --> 00:03:39,739
+L'étape finale est la musique.
+
+45
+00:03:39,740 --> 00:03:48,019
+Chaque morceau est une musique originale composée pour la vidéo afin de créer une atmosphère unique et d'insister sur les parties importantes.
+
+46
+00:03:48,020 --> 00:03:52,599
+Vous pouvez écouter tous les morceaux sur SoundCloud et Spotify.
+
+47
+00:03:52,600 --> 00:03:56,239
+Les effets sonores sont la cerise sur le gâteau.
+
+48
+00:03:56,240 --> 00:04:02,679
+Beaucoup d'entre vous ne les remarquent peut-être même pas, ce qui est dommage car ils ajoutent vraiment quelque chose.
+
+49
+00:04:02,680 --> 00:04:07,299
+Essayez donc de regarder une vidéo avec un casque si vous voulez en profiter au maximum.
+
+50
+00:04:07,300 --> 00:04:14,799
+Toutes ces étapes ont lieu en parallèle car nous travaillons habituellement sur deux à quatre vidéos en même temps, à différentes étapes.
+
+51
+00:04:14,800 --> 00:04:18,739
+Ce que nous n'avons pas mentionné sont les innombrables révisions et modifications.
+
+52
+00:04:18,740 --> 00:04:24,479
+Tous les deux ou trois jours, nous nous réunissons pour passer notre travail en revue et le peaufiner jusqu'à ce qu'il ait l'air bon.
+
+53
+00:04:24,480 --> 00:04:30,099
+Et ça y est - au moins 1200 heures pour une seule vidéo de Kurzgesagt.
+
+54
+00:04:30,100 --> 00:04:34,339
+Comme vous pouvez l'imaginer, une grande équipe qui fait des vidéos pendant des milliers d'heures
+
+55
+00:04:34,340 --> 00:04:37,999
+pour ensuite les mettre sur Internet gratuitement est un modèle économique étrange.
+
+56
+00:04:38,000 --> 00:04:42,039
+Au cours des années, nous avons compté sur différentes choses pour nous en sortir.
+
+57
+00:04:42,040 --> 00:04:45,999
+Travail commercial pour des ONGs, des startups ou des corporations
+
+58
+00:04:46,000 --> 00:04:49,419
+Parrainages et subventions d'entreprises ou d'organisations.
+
+59
+00:04:49,420 --> 00:04:56,799
+Nous avons conclu un accord avec Funk de la radiodiffusion publique allemande pour relancer la chaîne allemande et avec Wix pour créer une chaîne espagnole.
+
+60
+00:04:56,800 --> 00:05:00,879
+Mais la réalité c'est que nous pouvons faire ce que nous faisons que grâce à vous.
+
+61
+00:05:00,880 --> 00:05:06,799
+Nos deux sources de revenus les plus importantes, de loin, viennent de votre support direct,
+
+62
+00:05:06,800 --> 00:05:09,559
+les goodies et Patreon.
+
+63
+00:05:09,560 --> 00:05:12,519
+Donc si vous voulez nous aider à nous en sortir et à continuer à faire d'autres vidéos,
+
+64
+00:05:12,520 --> 00:05:21,199
+Vous pouvez soutenir directement Kurzgesagt en achetant quelque chose de sympa dans notre boutique ou en devenant un Patreon et rejoindre notre armée d'oiseaux.
+
+65
+00:05:21,200 --> 00:05:27,779
+Cependant, ne vous en sentez pas forcés. Regarder, prendre part, ou partager nos vidéos nous aide déjà beaucoup.
+
+66
+00:05:27,780 --> 00:05:34,159
+Mais si vous voulez nous soutenir directement, merci beaucoup. Vous rendez nos vidéos gratuites pour tous.
+
+67
+00:05:34,160 --> 00:05:40,159
+Vous nous permettez de nous entraîner et de nous améliorer, de rester indépendant et de travailler sur des projets ambitieux
+
+68
+00:05:40,160 --> 00:05:43,699
+qui seraient trop effrayants ou trop grands sinon.
+
+69
+00:05:43,700 --> 00:05:46,539
+Kurzgesagt n'a pas commencé avec un but final en tête.
+
+70
+00:05:46,540 --> 00:05:54,019
+Ça a commencé comme un projet personnel car ça nous faisait du bien de faire quelque chose avec du temps et de l'amour, et c'est toujours vrai aujourd'hui.
+
+71
+00:05:54,020 --> 00:05:59,279
+Faire ces vidéos est notre but. Faire ce travail tous les jours et devenir meilleurs
+
+72
+00:05:59,280 --> 00:06:03,139
+Pour rendre la science belle et intéressante.
+
+73
+00:06:03,140 --> 00:06:09,379
+Merci beaucoup d'être restés avec nous pendant sept ans, de notre premier abonné jusqu'au dix millionième.
+
+74
+00:06:09,380 --> 00:06:14,979
+Ce voyage a été tellement fou et tellement amusant, on a hâte de partager ce sur quoi
+
+75
+00:06:14,980 --> 00:06:21,259
+nous travaillons actuellement; dans un an, ou peut-être deux.
+
+76
+00:06:21,260 --> 00:06:24,859
+Nous voulons désormais faire des vidéos comme celle-ci de temps à autre.
+
+77
+00:06:24,860 --> 00:06:31,719
+Si vous avez des questions auxquelles vous voulez une réponse de notre part, vous pouvez le faire sur Reddit. Lien dans la description.
+
+78
+00:06:31,720 --> 00:06:37,039
+(Musique sympa)
+
+79
+00:06:37,040 --> 00:06:46,780
+(Outro de Kurzgesagt)
+(Sous-titres traduits par RhenaudTheLukark & Gellert_TV)
+

@@ -1,0 +1,321 @@
+1
+00:00:00,000 --> 00:00:06,799
+Pendant longtemps, la technologie humaine était restreinte à notre cerveau, au feu et aux bâtons pointus.
+
+2
+00:00:06,800 --> 00:00:10,379
+Quand le feu et les bâtons pointus sont devenus
+les centrales nucléaires et les bombes atomiques
+
+3
+00:00:10,380 --> 00:00:13,199
+Nos plus belles créations, viennent de nos cerveaux
+
+4
+00:00:13,200 --> 00:00:17,999
+Depuis les années 60,  la puissance de nos ordinateurs ont augmentées exponentiellement
+
+5
+00:00:18,000 --> 00:00:22,579
+leur permettant d'être à la fois plus petit et plus puissant
+
+6
+00:00:22,580 --> 00:00:25,899
+Mais cela atteint ses limites physiques
+
+7
+00:00:25,900 --> 00:00:29,439
+Les composants informatiques se rapprochent de la taille d'un atome
+
+8
+00:00:29,440 --> 00:00:39,939
+Pour comprendre pourquoi c'est un problème,  nous allons éclaircir quelques points.
+
+9
+00:00:39,940 --> 00:00:44,599
+Un ordinateur est fait de composants très basiques faisant de choses très simples
+
+10
+00:00:44,600 --> 00:00:49,139
+représentant les données, les raison des manipulations et des mécanismes de contrôle
+
+11
+00:00:49,140 --> 00:00:54,619
+Les puces électronique sont fait de modules qui sont fait de portes logiques qui sont fait de transistors
+
+12
+00:00:54,620 --> 00:00:58,799
+un transistor est la forme la plus simple d'un traitement de données dans un ordinateur
+
+13
+00:00:58,800 --> 00:01:04,098
+une sorte d'interrupteur qui peut ouvrir ou fermer l'accès aux données y passant
+
+14
+00:01:04,099 --> 00:01:09,119
+cette information est faîtes de bits qui peuvent être des 0 ou des 1
+
+15
+00:01:09,120 --> 00:01:13,439
+des regroupements de bits sont utilisés pour représenter des informations plus complexes
+
+16
+00:01:13,440 --> 00:01:18,439
+Les transistors sont combinés pour former des portes logiques qui restent sur des actions simples
+
+17
+00:01:18,440 --> 00:01:25,679
+Par exemple, une porte ET envoi un 1 si toutes ses entrées sont à 1 sinon, envoi un 0
+
+18
+00:01:25,680 --> 00:01:31,559
+Un arrangement de portes logiques crée des modules qui peuvent additionner des nombres
+
+19
+00:01:31,560 --> 00:01:37,499
+Un fois que tu peux additionner, tu peux aussi multiplier. Et quand tu peux multiplier, tu peux tout faire.
+
+20
+00:01:37,500 --> 00:01:41,479
+Quand toutes les opération basiques sont plus simples que des mathématiques de CP
+
+21
+00:01:41,480 --> 00:01:46,599
+Tu peux imaginer un ordinateur comme un groupe d'enfants de 7 ans répondant à des questions simple de mathématiques
+
+22
+00:01:46,600 --> 00:01:51,339
+Un nombre suffisant grand d'entre eux, peut tout résoudre, de l'astrophysique à zelda
+
+23
+00:01:51,340 --> 00:01:54,079
+Les composants devenant de plus en plus petit,
+
+24
+00:01:54,080 --> 00:01:56,779
+la physique quantique rends les chose compliquées
+
+25
+00:01:56,780 --> 00:02:00,359
+en un mot, un transistor est juste un interrupteur électrique
+
+26
+00:02:00,360 --> 00:02:03,439
+électricité est le mouvement des électrons d'un point à un autre
+
+27
+00:02:03,440 --> 00:02:08,499
+donc un interrupteur est un passage qui peut bloquer les électrons se déplaçant dans une direction
+
+28
+00:02:08,500 --> 00:02:12,259
+aujourd'hui, la taille moyenne d'un transistor est de 14 nanomètres
+
+29
+00:02:12,260 --> 00:02:15,819
+ce qui est 8 fois moins que le diamètre du VIH
+
+30
+00:02:15,820 --> 00:02:19,139
+et 500 fois plus petit qu'un globule rouge
+
+31
+00:02:19,140 --> 00:02:22,539
+comme les transistors rétrécissent  à la taille de quelques atomes
+
+32
+00:02:22,540 --> 00:02:28,899
+les électrons se transfèrent eux-mêmes de l'autre côté du blocage par des tunnels quantiques
+
+33
+00:02:28,900 --> 00:02:37,179
+dans le royaume quantique, la physique fonctionne différemment et les ordinateurs traditionnels sont un peu perdu... (beaucoup)
+
+34
+00:02:37,180 --> 00:02:41,619
+Nous rencontrons une vrai barrière physique au progrès technique
+
+35
+00:02:41,620 --> 00:02:49,819
+Pour résoudre ce problème, les scientifiques essayent d'utiliser cette inhabituelle propriété quantique en créant des ordinateurs quantiques
+
+36
+00:02:49,820 --> 00:02:53,659
+Dans les ordinateurs habituels, les bits sont l'unité la plus petite
+
+37
+00:02:53,660 --> 00:02:58,319
+les ordinateurs quantiques utilisent des qubits qui peuvent être à 0 et/ou 1
+
+38
+00:02:58,320 --> 00:03:04,679
+un qubit peut avoir n'importe quel valeur du système quantique comme il tourne dans un champ magnétique ou un photon
+
+39
+00:03:04,680 --> 00:03:11,279
+0 et 1 sont les valeurs possibles et sont représentées par la polarisation verticale ou horizontale du photon
+
+40
+00:03:11,280 --> 00:03:18,039
+dans le monde quantique, le qubit peut ne pas être dans un seul état mais dans n'importe quelle proportion des 2 états en même temps
+
+41
+00:03:18,040 --> 00:03:20,479
+c'est appelé : la superposition
+
+42
+00:03:20,480 --> 00:03:24,699
+mais dès que tu testes sa valeur, en envoyant le photon dans un filtre
+
+43
+00:03:24,700 --> 00:03:29,439
+le photon doit être polarisé, soit horizontalement, soit verticalement
+
+44
+00:03:29,440 --> 00:03:37,699
+donc du moment qu'il n'est pas observé, il est dans un superposition de probabilité entre 0 et 1, et on ne peut pas prédire le résultat
+
+45
+00:03:37,700 --> 00:03:42,459
+à l'instant où tu le mesures, l'état du qubit est défini
+
+46
+00:03:42,460 --> 00:03:44,979
+la superposition change toute la donne
+
+47
+00:03:44,980 --> 00:03:50,399
+4 bits classiques ont 2 à la puissance 4 différentes configurations
+
+48
+00:03:50,400 --> 00:03:54,979
+cela fait 16 configurations possibles parmi lesquelles tu ne peux en avoir qu'une
+
+49
+00:03:54,980 --> 00:04:00,939
+Pour les qubits, grâce à la superposition ils peuvent avoir toutes les combinaisons en même temps !
+
+50
+00:04:00,940 --> 00:04:04,579
+Ce nombre augmente exponentiellement avec chaque qubit en plus
+
+51
+00:04:04,580 --> 00:04:08,679
+20 d'entre eux peuvent déjà avoir plus d'1 million de possibilités en parallèle
+
+52
+00:04:08,680 --> 00:04:13,179
+Une des étranges propriété que les qubits peuvent avoir, est l'intrication quantique
+
+53
+00:04:13,180 --> 00:04:20,599
+Cela inclus la connexion qu'ont chaque qubits de pouvoir changer d'états en même temps quelque soit la distance
+
+54
+00:04:20,600 --> 00:04:27,979
+Cela veut dire que mesurer 1 qubit intriqué permet de déduire l'état de son qubit partenaire sans regarder
+
+55
+00:04:27,980 --> 00:04:31,179
+La manipulation des qubits est aussi quelque peu déroutante...
+
+56
+00:04:31,180 --> 00:04:36,779
+Une porte logique normale ont un nombre défini d'entrée et produise une sortie définitive.
+
+57
+00:04:36,780 --> 00:04:45,239
+Une porte quantique calcule une entrée de superposition, probabilité de rotation et produit une autre superposition
+
+58
+00:04:45,240 --> 00:04:50,099
+donc un ordinateur quantique [inaudible], y applique des portes quantiques pour les intriquer
+
+59
+00:04:50,100 --> 00:04:58,059
+et manipuler les probabilités pour en mesurer la sortie, transformant la superposition en suite de 0 et de 1
+
+60
+00:04:58,060 --> 00:05:04,659
+Cela veut dire que l'on obtient tout un tas résultats possibles avec votre agencement en même temps.
+
+61
+00:05:04,660 --> 00:05:12,699
+En réalité, vous ne pouvez mesurer qu'un résultat à la fois donc vous devrez certainement réessayer jusqu'au bon
+
+62
+00:05:12,700 --> 00:05:21,719
+Mais, en exploitant intelligemment la superposition et l'intrication, cela serait exponentiellement plus efficace que n'importe quel ordinateur traditionnel
+
+63
+00:05:21,720 --> 00:05:28,519
+Bien que les ordinateur quantique ne remplaceront pas nos ordinateurs actuels, ils sont bien supérieurs dans certains cas
+
+64
+00:05:28,520 --> 00:05:30,799
+Un d'eux est la recherche des bases de données
+
+65
+00:05:30,800 --> 00:05:36,039
+Pour chercher quelque chose, un ordinateur normal doit chercher dans chacun de ses fichiers
+
+66
+00:05:36,040 --> 00:05:39,399
+un algorithme quantique ne mets que la racine carré du temps nécessaire au précédent cas
+
+67
+00:05:39,400 --> 00:05:42,619
+ce qui pour les grande base données crée une énorme différence
+
+68
+00:05:42,620 --> 00:05:47,119
+l'utilisation la plus connue des ordinateurs quantique est la sécurité informatique
+
+69
+00:05:47,120 --> 00:05:52,359
+à ce moment même, informations bancaire sur internet sont sécurisés par un système d'encryption
+
+70
+00:05:52,360 --> 00:05:57,079
+au quel tu donnes une clef publique pour encoder les messages que seul toi peux décoder
+
+71
+00:05:57,080 --> 00:06:02,599
+le problème est que cette clef publique peut être utilisé pour calculer ta clef privé
+
+72
+00:06:02,600 --> 00:06:08,099
+heureusement, faire la totalité des calculs prendrait des années d'échecs
+
+73
+00:06:08,100 --> 00:06:12,539
+mais un ordinateur quantique ayant un vitesse bien supérieur pourrait le faire en un instant
+
+74
+00:06:12,540 --> 00:06:15,819
+une autre utilisation intéressante est la simulation
+
+75
+00:06:15,820 --> 00:06:19,179
+les simulations du monde quantique sont très gourmandes en ressources
+
+76
+00:06:19,180 --> 00:06:24,439
+et même pour de plus grosse structures tel que les molécules, on a souvent très peu de précision
+
+77
+00:06:24,440 --> 00:06:29,099
+alors pourquoi ne pas simuler de la physique quantique avec de la physique quantique ?
+
+78
+00:06:29,100 --> 00:06:34,499
+la simulation quantique pourrait éclaircir le fonctionnement des protéines et aider la médecine
+
+79
+00:06:34,500 --> 00:06:41,139
+Pour le moment nous ne savons pas si l'ordinateur quantique sera un outil très spécialisé où une révolution pour l'humanité
+
+80
+00:06:41,140 --> 00:06:46,100
+nous ne savons pas où sont les limites de la technologie et il n'y a qu'un moyen de le savoir
+

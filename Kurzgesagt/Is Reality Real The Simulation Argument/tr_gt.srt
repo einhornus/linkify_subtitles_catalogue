@@ -1,0 +1,542 @@
+1
+00:00:00,880 --> 00:00:06,319
+Biz insanlar
+, evrenin gerçek doğasını filtrelenmemiş olarak deneyimleyemeyiz.
+
+2
+00:00:06,320 --> 00:00:10,579
+Duyularımız ve beynimiz
+dünyanın sadece bir kısmını işleyebilir.
+
+3
+00:00:10,580 --> 00:00:15,979
+Bu yüzden
+, gerçekliğin gerçek doğasını öğrenmek için kavramları ve araçları kullanmalıyız.
+
+4
+00:00:15,980 --> 00:00:19,599
+Teknolojik ilerleme, yalnızca
+evren hakkındaki bilgimizi genişletmekle kalmadı,
+
+5
+00:00:19,600 --> 00:00:23,459
+aynı zamanda bizi rahatsız edici olasılıkların da farkına varmamızı sağladı.
+
+6
+00:00:23,460 --> 00:00:28,839
+Gelecekte,
+tüm evrenleri simüle etmek mümkün olabilir.
+
+7
+00:00:28,840 --> 00:00:33,679
+Ama bu bir seçenekse,
+bunun zaten olmadığını nasıl bilebiliriz?
+
+8
+00:00:33,680 --> 00:00:38,919
+Ya yaratıcılar değil, yaratımlarsak?
+
+9
+00:00:38,920 --> 00:00:53,359
+Gerçek
+olmamamız ve bunu bilmememiz mümkün mü?
+
+10
+00:00:53,360 --> 00:00:56,179
+Eğer şu anki fizik anlayışımız doğruysa
+
+11
+00:00:56,180 --> 00:01:01,519
+, trilyonlarca ve trilyonlarca şeyle tüm evreni simüle etmek imkansız
+.
+
+12
+00:01:01,520 --> 00:01:03,899
+Ama aslında buna ihtiyacımız da yok.
+
+13
+00:01:03,900 --> 00:01:08,359
+Sadece
+simülasyonumuzun sakinlerini
+
+14
+00:01:08,360 --> 00:01:10,459
+gerçek olduklarını düşünmeleri için kandırmak için yeterli evrene ihtiyacımız var.
+
+15
+00:01:10,460 --> 00:01:12,679
+Kim milyarlarca galaksiye ihtiyaç duyar?
+
+16
+00:01:12,680 --> 00:01:17,699
+Sadece
+deneklerimizin keşfetmesine izin verilen alana ihtiyacımız var.
+
+17
+00:01:17,700 --> 00:01:24,759
+Uçsuz bucaksız evren sadece düz bir izdüşüm olabilir ve bilmelerinin hiçbir yolu olmazdı.
+
+18
+00:01:24,760 --> 00:01:28,159
+Hücreler veya bakteriler gibi küçük şeyler ne olacak?
+
+19
+00:01:28,160 --> 00:01:29,979
+Onlara gerçekten ihtiyacımız yok.
+
+20
+00:01:29,980 --> 00:01:35,219
+Bir mikroskop kullandığınızda,
+gördüğünüz şey anında yaratılabilir.
+
+21
+00:01:35,220 --> 00:01:39,179
+Atomlarla aynı, şu anda oturduğun sandalyenin
+
+
+22
+00:01:39,180 --> 00:01:41,539
+katrilyonlarca atomla simüle edilmesine gerek yok.
+
+23
+00:01:41,540 --> 00:01:43,779
+Sadece en dış katmanına ihtiyacımız
+
+24
+00:01:43,780 --> 00:01:47,959
+var, siz onu açmaya karar verene kadar içi boş olabilir
+.
+
+25
+00:01:47,960 --> 00:01:55,019
+Vücudunuz kabarcıklı şeylerle dolu gibi görünebilir,
+ancak siz açana kadar boş olabilir.
+
+26
+00:01:55,020 --> 00:02:00,859
+Simülasyonumuz için minimum gereksinim
+, yalnızca sanal insanlarımızın bilincidir.
+
+27
+00:02:00,860 --> 00:02:05,059
+Deneklerimizin sadece simülasyonun gerçek olduğunu düşünmesi gerekiyor.
+
+28
+00:02:05,060 --> 00:02:08,779
+Tamam, simüle mi ediliyoruz?
+
+29
+00:02:08,780 --> 00:02:13,479
+Belki, ama
+yerine getirilmesi gereken birkaç koşul var.
+
+30
+00:02:13,480 --> 00:02:19,759
+Açıkçası, bu konu üzerinde yetkimiz yok,
+bu yüzden lütfen söyleyeceğimiz her şeyi bir tuz tuzu ile alın.  Nick Bostrom'un
+
+31
+00:02:19,760 --> 00:02:23,899
+orijinal simülasyon argümanının değiştirilmiş bir versiyonuna dayanarak,
+
+
+32
+00:02:23,900 --> 00:02:26,279
+sizin için beş varsayımımız var.
+
+33
+00:02:26,280 --> 00:02:32,139
+Eğer doğruysa siz sevgili izleyici bir simülasyonun içinde yaşıyorsunuz.
+
+34
+00:02:32,140 --> 00:02:33,539
+Birinci varsayım,
+
+35
+00:02:33,540 --> 00:02:36,899
+bilinci simüle etmek mümkündür
+
+36
+00:02:36,900 --> 00:02:39,419
+Kimse bilincin ne olduğunu bilmiyor.
+
+37
+00:02:39,420 --> 00:02:45,159
+Tartışma uğruna, bir beyni simüle ederek bilinç oluşturabileceğinizi varsayalım.
+
+38
+00:02:45,160 --> 00:02:49,059
+Beyinler oldukça karmaşıktır.
+
+39
+00:02:49,060 --> 00:02:52,559
+Sinapslar arasındaki her etkileşimi
+tek bir işlem olarak sayarsanız
+
+40
+00:02:52,560 --> 00:03:00,299
+, beyniniz saniyede yüz milyon milyar işlem için yaklaşık on üzeri on yedide çalışır.
+
+41
+00:03:00,300 --> 00:03:03,719
+Cömertçe
+
+
+42
+00:03:03,720 --> 00:03:06,599
+, insan bilincinin bir saniyesini simüle etmek için yirmi işlemin gücüne on ihtiyacımız olduğunu varsayalım.
+
+43
+00:03:06,600 --> 00:03:08,999
+Ama biz sadece bir insanı simüle etmek istemiyoruz...
+
+44
+00:03:09,000 --> 00:03:13,639
+Tüm insanlık tarihini bir kerede simüle etmek istiyoruz,
+böylece atlayabiliriz.
+
+45
+00:03:13,640 --> 00:03:18,279
+Ortalama ömrü elli yıl olan iki yüz milyar insanı simüle etmek istediğimizi varsayalım.
+
+46
+00:03:18,280 --> 00:03:21,619
+Bir yıl otuz milyon saniye çarpı elli yıl
+
+47
+00:03:21,620 --> 00:03:23,339
+çarpı iki yüz milyar insan
+
+48
+00:03:23,340 --> 00:03:27,719
+çarpı on üzeri yirmi operasyon gücüne sahiptir.
+
+49
+00:03:27,720 --> 00:03:35,199
+Yani saniyede milyon,
+trilyon, trilyon, trilyon işlemi gerçekleştirebilecek bir bilgisayara ihtiyacımız var.  Gözlemlenebilir evrendeki
+
+50
+00:03:35,200 --> 00:03:39,479
+yıldızlardan daha fazla işlem
+.
+
+51
+00:03:39,480 --> 00:03:42,199
+Böyle bir bilgisayar imkansız.
+
+52
+00:03:42,200 --> 00:03:45,479
+Belki de değildir.
+
+53
+00:03:45,480 --> 00:03:46,819
+İkinci varsayım,
+
+54
+00:03:46,820 --> 00:03:51,099
+teknolojik ilerleme yakın zamanda durmayacak.
+
+55
+00:03:51,100 --> 00:03:55,819
+Teknolojik ilerlemenin şimdiye kadar olduğu gibi devam ettiğini varsayarsak,
+
+
+56
+00:03:55,820 --> 00:04:01,579
+
+bir noktada sınırsız bilgisayar gücüne sahip, galaksiyi kapsayan medeniyetler olabilir.
+
+57
+00:04:01,580 --> 00:04:06,959
+Teknoloji seviyesindeki varlıklar o kadar ileriydi ki
+onları tanrınınkinden zar zor ayırt edebiliyorduk.
+
+58
+00:04:06,960 --> 00:04:12,079
+Milyonlarca, trilyonlarca, trilyonlarca işlemi gerçekleştirebilen bir bilgisayar ciddi bir iştir, ancak aslında bunu halledebilecek
+
+59
+00:04:12,080 --> 00:04:15,999
+bilgisayarlar için kavramlar vardır
+.
+
+60
+00:04:16,000 --> 00:04:18,898
+Matrioshka Beyni
+
+61
+00:04:18,899 --> 00:04:23,299
+, bir yıldızın yörüngesinde dönen
+ve radyasyonuyla beslenen milyarlarca parçadan oluşan teorik bir mega yapıdır.
+
+62
+00:04:23,300 --> 00:04:27,379
+Bu ölçekte bir bilgisayar
+
+
+63
+00:04:27,380 --> 00:04:30,819
+, aynı anda milyonlarca insan bilimini olmasa da binlercesini simüle etmek için yeterli güce sahip olacaktır.
+
+64
+00:04:30,820 --> 00:04:35,759
+İleri teknoloji geleceğin kuantum bilgisayarları gibi diğer teknolojiler, boyutu büyük ölçüde azaltabilir,
+
+65
+00:04:35,760 --> 00:04:41,279
+bu nedenle bunu büyük bir şehir boyutunda veya daha küçük bir yapı ile yapmak mümkün olabilir.
+
+66
+00:04:41,280 --> 00:04:46,219
+Ancak, yalnızca etrafta
+bilgisayarı inşa edecek biri varsa.
+
+67
+00:04:46,220 --> 00:04:47,579
+Üçüncü varsayım,
+
+68
+00:04:47,580 --> 00:04:51,579
+gelişmiş medeniyetler kendilerini yok etmezler.
+
+69
+00:04:51,580 --> 00:04:57,499
+Bütün uygarlıkların kendilerini yok ettiği bir nokta varsa bu tartışma burada biter.
+
+70
+00:04:57,500 --> 00:05:02,839
+Uzaya baktığınızda, milyonlarca yabancı uygarlıkla dolu bir evren olmasını beklersiniz
+,
+
+71
+00:05:02,840 --> 00:05:04,519
+ama biz kimseyi görmüyoruz.
+
+72
+00:05:04,520 --> 00:05:07,859
+Bunun nedeni Büyük Filtreler olabilir.
+
+73
+00:05:07,860 --> 00:05:12,119
+Büyük Filtreler,
+nükleer savaş,
+
+74
+00:05:12,120 --> 00:05:16,259
+asteroitler, iklim değişikliği veya bir kara delik jeneratörü gibi yaşamın üstesinden gelmek zorunda olduğu engellerdir.
+
+75
+00:05:16,260 --> 00:05:21,259
+Hayat doğası gereği kendi kendine zarar veriyorsa,
+simülasyon yoktur.
+
+76
+00:05:21,260 --> 00:05:26,119
+Bunu Fermi Paradox videomuzda daha detaylı anlatıyoruz
+.
+
+77
+00:05:26,120 --> 00:05:27,579
+Dördüncü varsayım,
+
+78
+00:05:27,580 --> 00:05:31,999
+süper gelişmiş uygarlıklar, simülasyonları çalıştırmak istiyor.
+
+79
+00:05:32,000 --> 00:05:37,059
+Post-insan uygarlıklarından
+bahsettiğimizde, neyle
+
+80
+00:05:37,060 --> 00:05:42,359
+uğraştığımızı bilmiyoruz Tanrılar kadar güçlü varlıkların ne
+istediğini bildiğimizi düşünmek oldukça küstahça.
+
+81
+00:05:42,360 --> 00:05:46,199
+Dünyanın en zeki karıncasının
+bir lunaparkın
+
+82
+00:05:46,200 --> 00:05:50,759
+yanında yaşadığını hayal edin, İnsanların ne yaptığını merak ediyor
+, siz de açıklamaya çalışıyorsunuz.
+
+83
+00:05:50,760 --> 00:05:54,239
+Ne yazık ki, karınca anlamıyor.
+
+84
+00:05:54,240 --> 00:05:58,599
+Hız treni,
+kuyrukta bekleme, tatil ve eğlence kavramı,
+
+85
+00:05:58,600 --> 00:06:02,179
+karınca hayatı yaşayan bir karınca için bir anlam ifade etmiyor.
+
+86
+00:06:02,180 --> 00:06:05,139
+Biz ve post-insan için durum aynı,
+
+87
+00:06:05,140 --> 00:06:07,639
+onlara kıyasla bizler karıncayız.
+
+88
+00:06:07,640 --> 00:06:12,859
+Eğlence ya da bilim için simülasyonlar çalıştırmak
+onlar için son derece aptalca bir fikir olabilir.
+
+89
+00:06:12,860 --> 00:06:19,899
+Ancak, herhangi bir nedenle simülasyon çalıştırmak istiyorlarsa ve bir, iki, üç varsayımı da doğrudur,
+
+90
+00:06:19,900 --> 00:06:24,999
+o zaman
+bir simülasyonun içinde yaşıyor olma ihtimaliniz sıfır değildir.
+
+91
+00:06:25,000 --> 00:06:26,539
+Beşinci varsayım,
+
+92
+00:06:26,540 --> 00:06:32,059
+eğer çok sayıda simülasyon varsa,
+muhtemelen bir simülasyonun içindesiniz.
+
+93
+00:06:32,060 --> 00:06:36,619
+Eğer simüle edilmiş medeniyetler varsa
+, muhtemelen birçoğu vardır.
+
+94
+00:06:36,620 --> 00:06:42,339
+Sonuçta, post-insanların pratik olarak sınırsız bilgi işlem gücüne erişimi olduğunu varsayıyoruz.
+
+95
+00:06:42,340 --> 00:06:47,739
+Dolayısıyla, simülasyonlar
+çalıştırırlarsa, milyonlarca hatta milyarlarcasını çalıştırmak uygun olacaktır.
+
+96
+00:06:47,740 --> 00:06:52,939
+Milyarlarca simüle edilmiş evren varsa, muhtemelen trilyonlarca ve trilyonlarca
+
+97
+00:06:52,940 --> 00:06:54,679
+simüle edilmiş bilinçli varlık vardır.
+
+98
+00:06:54,680 --> 00:06:59,099
+bu, şimdiye kadar var olmuş tüm bilinçli varlıkların büyük çoğunluğunun simüle edildiği anlamına gelir
+
+99
+00:06:59,100 --> 00:07:00,959
+.
+
+100
+00:07:00,960 --> 00:07:07,299
+Yani etten yapılmış her bilinçli varlık için,
+bir milyar simüle varlık vardır.
+
+101
+00:07:07,300 --> 00:07:10,559
+Simüle edilip edilmediğimizi bilme
+
+102
+00:07:10,560 --> 00:07:13,659
+şansımız olmadığı için, bu durumda sizin
+dokuz yüz doksan dokuz milyon
+
+103
+00:07:13,660 --> 00:07:18,339
+dokuz yüz doksan dokuz bin dokuz yüz doksan dokuz simüle edilenlerden biri olma ihtimaliniz oldukça yüksek.
+
+104
+00:07:18,340 --> 00:07:22,859
+Yani, gerçeklik olarak kabul ettiğiniz şey, hiç gerçek
+
+105
+00:07:22,860 --> 00:07:24,559
+olmayabilir. Gerçekten...
+
+106
+00:07:24,560 --> 00:07:26,779
+simüle edilmiş olabilirsiniz.
+
+107
+00:07:26,780 --> 00:07:30,819
+Bütün bunlar,
+şu anda gerçekten test edemeyeceğimiz birçok varsayıma dayanıyor
+
+108
+00:07:30,820 --> 00:07:34,719
+Pek çok bilim insanı
+bu düşünce deneyine katılmıyor.
+
+109
+00:07:34,720 --> 00:07:38,299
+Bu yüzden aksaklıklar olup olmayacağını test etmek için evinizi yakmayın
+.
+
+110
+00:07:38,300 --> 00:07:41,999
+Simüle ediliyorsanız, sizin için çok fazla değişiklik yok, sonsuz hiçlikte
+
+111
+00:07:42,000 --> 00:07:44,899
+hızla ilerleyen küçük bir gezegende
+
+
+112
+00:07:44,900 --> 00:07:47,439
+veya bir bilgisayar içinde bir simülasyonda olabilirsiniz.
+
+113
+00:07:47,440 --> 00:07:51,579
+varlığınız
+az ya da çok korkutucu ve tuhaf olmaz.
+
+114
+00:07:51,580 --> 00:07:55,159
+Tek umabileceğimiz, iyi hayatlar yaşamaya
+ve iyi vakit geçirmeye çalışmak.
+
+115
+00:07:55,160 --> 00:07:59,319
+Ve umarız gerçekten
+bir süper bilgisayardaki simülasyonlarsak,
+
+116
+00:07:59,320 --> 00:08:04,299
+hiç kimse güç kablosuna takılmaz.
+
+117
+00:08:04,300 --> 00:08:09,799
+Oh, oh, oh hayır, sanırım simülasyonun fişini çektim
+
+118
+00:08:09,800 --> 00:08:18,259
+Ama ya bunun bir önemi yoksa, ya şu anda birindeysek?  Peki ya simüle edilirseniz?
+
+119
+00:08:18,260 --> 00:08:21,199
+Jake, Vsauce3'te bunu araştırıyor.
+
+120
+00:08:21,200 --> 00:08:33,719
+Videosunu izlemek ve
+kanalına abone olmak için buraya tıklayın.
+
+121
+00:08:33,720 --> 00:08:38,558
+Neden hala buradasın?  Vsauce3'e gidin videoyu izleyin ve abone olun,
+
+122
+00:08:38,559 --> 00:08:40,719
+söz veriyoruz, zaman ayırmaya değer...
+

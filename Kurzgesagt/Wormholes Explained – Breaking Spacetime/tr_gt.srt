@@ -1,0 +1,468 @@
+1
+00:00:01,380 --> 00:00:08,118
+Gerçekte bir solucan deliği gördüyseniz, yuvarlak, küresel, biraz kara delik gibi görünecektir.
+
+2
+00:00:08,119 --> 00:00:13,659
+Diğer taraftan ışık geçer ve size uzak bir yere açılan bir pencere verir.
+
+3
+00:00:13,660 --> 00:00:21,319
+Bir kez geçildiğinde, eski eviniz şimdi o parıldayan küresel pencereye doğru çekilirken diğer taraf tamamen görünür hale gelir.
+
+4
+00:00:21,320 --> 00:00:23,119
+Ama solucan delikleri gerçek mi,
+
+5
+00:00:23,120 --> 00:00:27,299
+yoksa sadece fizik ve matematik olarak gizlenmiş sihir mi?
+
+6
+00:00:27,300 --> 00:00:31,919
+Eğer gerçeklerse, nasıl çalışırlar ve onları nerede bulabiliriz?
+
+7
+00:00:31,920 --> 00:00:41,279
+[Kurzgesagt Giriş
+
+8
+00:00:41,280 --> 00:00:42,779
+] İnsanlık tarihinin çoğunda
+
+9
+00:00:42,780 --> 00:00:49,019
+uzayın oldukça basit olduğunu düşündük;  evrendeki olayların ortaya çıktığı büyük, düz bir sahne.
+
+10
+00:00:49,020 --> 00:00:54,179
+Gezegenleri ve yıldızları indirseniz bile, geriye bir şeyler kalır.
+
+11
+00:00:54,180 --> 00:00:57,719
+O boş sahne uzaydır ve
+
+12
+00:00:57,720 --> 00:01:00,059
+değişmez ve ebedidir.
+
+13
+00:01:00,060 --> 00:01:03,759
+Einstein'ın görelilik kuramı bunu değiştirdi.
+
+14
+00:01:03,760 --> 00:01:10,559
+Uzay ve zamanın birlikte o sahneyi oluşturduğunu ve her yerde aynı olmadıklarını söylüyor.
+
+15
+00:01:10,560 --> 00:01:16,019
+Sahnedeki şeyler sahnenin kendisini etkileyebilir, gerebilir ve bükebilir.
+
+16
+00:01:16,020 --> 00:01:22,739
+Eski sahne, hareket etmeyen bir parke gibiyse, Einstein'ın sahnesi daha çok bir su yatağına benziyor.
+
+17
+00:01:22,740 --> 00:01:31,059
+Bu tür bir elastik boşluk bükülebilir ve hatta belki yırtılabilir ve bir araya getirilebilir, bu da solucan deliklerini mümkün kılabilir.
+
+18
+00:01:31,060 --> 00:01:33,719
+Bakalım 2D olarak nasıl görünecek.
+
+19
+00:01:33,720 --> 00:01:38,319
+Evrenimiz büyük, düz bir levha gibidir, doğru şekilde bükülür,
+
+20
+00:01:38,320 --> 00:01:42,279
+solucan delikleri, neredeyse anında geçebileceğiniz kısa bir köprü ile çok, çok uzak iki noktayı birbirine bağlayabilir
+
+21
+00:01:42,280 --> 00:01:44,919
+.
+
+22
+00:01:44,920 --> 00:01:49,659
+Evrende ışık hızından bile daha hızlı seyahat etmenizi sağlar.
+
+23
+00:01:49,660 --> 00:01:52,479
+Peki solucan deliğini nerede bulabiliriz?
+
+24
+00:01:52,480 --> 00:01:54,999
+Şu anda sadece kağıt üzerinde.
+
+25
+00:01:55,000 --> 00:02:00,559
+Genel görelilik, mümkün olabileceklerini söylüyor, ancak bu, var olmaları gerektiği anlamına gelmiyor.
+
+26
+00:02:00,560 --> 00:02:03,059
+Genel görelilik matematiksel bir teoridir.
+
+27
+00:02:03,060 --> 00:02:09,538
+Bu, pek çok olası yanıtı olan bir denklemler dizisidir, ancak tüm matematikler gerçekliği tanımlamaz.
+
+28
+00:02:09,539 --> 00:02:14,059
+Ancak teorik olarak mümkündür ve farklı türleri vardır.
+
+29
+00:02:14,060 --> 00:02:16,759
+EINSTEIN ROSEN KÖPRÜLERİ Teorikleştirilecek
+
+30
+00:02:16,760 --> 00:02:21,399
+ilk tür solucan delikleri Einstein Rosen Köprüleriydi.
+
+31
+00:02:21,400 --> 00:02:26,239
+Her kara deliği, sonsuz bir paralel evrene açılan bir tür portal olarak tanımlarlar.
+
+32
+00:02:26,240 --> 00:02:28,619
+Onları tekrar 2D olarak resmetmeye çalışalım.
+
+33
+00:02:28,620 --> 00:02:30,379
+Boş uzay zamanı düzdür,
+
+34
+00:02:30,380 --> 00:02:32,759
+ancak üzerindeki nesneler tarafından kavislidir.
+
+35
+00:02:32,760 --> 00:02:37,439
+Bu nesneyi sıkıştırırsak, uzay-zaman onun etrafında daha fazla kıvrılır.
+
+36
+00:02:37,440 --> 00:02:44,599
+Sonunda, uzay-zaman o kadar çarpık hale gelir ki, bir kara deliğe çökmekten başka seçeneği kalmaz.
+
+37
+00:02:44,600 --> 00:02:51,219
+Tek yönlü bir bariyer oluşur: her şeyin girebildiği ama hiçbir şeyin kaçamadığı olay ufku;
+
+38
+00:02:51,220 --> 00:02:54,759
+özündeki tekilliğe sonsuza kadar hapsolmuş.
+
+39
+00:02:54,760 --> 00:02:57,619
+Ama belki burada tekillik yoktur.
+
+40
+00:02:57,620 --> 00:03:02,979
+Bir olasılık, olay ufkunun diğer tarafının yine biraz bizim evrenimize benzemesi,
+
+41
+00:03:02,980 --> 00:03:07,519
+ancak zamanın geriye doğru aktığı yerde baş aşağı yansımasıdır.
+
+42
+00:03:07,520 --> 00:03:11,299
+Evrenimizde her şey kara deliğe düşer.
+
+43
+00:03:11,300 --> 00:03:13,799
+Paralel evrende, geriye doğru zamanla
+
+44
+00:03:13,800 --> 00:03:17,959
+, aynalı kara delik, büyük bir patlama gibi bir şeyler saçıyor.
+
+45
+00:03:17,960 --> 00:03:20,139
+Buna beyaz delik denir.
+
+46
+00:03:20,140 --> 00:03:23,639
+Ne yazık ki, Einstein-rosen köprüleri aslında geçilemez.
+
+47
+00:03:23,640 --> 00:03:29,559
+Karşı evrene geçmek sonsuz bir zaman alır ve ortada kıvrılırlar.
+
+48
+00:03:29,560 --> 00:03:33,979
+Bir kara deliğe girerseniz, beyaz delikten çıkan madde olmazsınız.
+
+49
+00:03:33,980 --> 00:03:36,079
+Sadece ölü olacaksın.
+
+50
+00:03:36,080 --> 00:03:41,259
+Dolayısıyla, kozmosu göz açıp kapayıncaya kadar dolaşmak için insanların farklı türde bir solucan deliğine ihtiyacı var;
+
+51
+00:03:41,260 --> 00:03:44,659
+bir Geçilebilir Solucan Deliği.
+
+52
+00:03:44,660 --> 00:03:47,879
+ÇOK ESKİ SİP TEORİSİ Solucan Delikleri
+
+53
+00:03:47,880 --> 00:03:52,359
+Sicim teorisi veya varyasyonlarından biri evrenimizin doğru tanımıysa,
+
+54
+00:03:52,360 --> 00:03:58,959
+o zaman şanslı olabiliriz ve evrenimiz zaten sayısız solucan deliğinden oluşan karmaşık bir ağa sahip olabilir.
+
+55
+00:03:58,960 --> 00:04:00,519
+Big Bang'den kısa bir süre sonra,
+
+56
+00:04:00,520 --> 00:04:03,839
+evrendeki
+
+57
+00:04:03,840 --> 00:04:07,699
+bir atomdan çok daha küçük ölçekteki Kuantum dalgalanmaları, içinden geçilebilir çok sayıda
+
+58
+00:04:07,700 --> 00:04:09,819
+solucan deliği oluşturmuş olabilir.
+
+59
+00:04:09,820 --> 00:04:13,599
+Bunların içinden kozmik sicimler denilen sicimler geçer.
+
+60
+00:04:13,600 --> 00:04:22,159
+Big Bang'den sonra saniyenin trilyonda birinin milyarda birinin milyarda birinde, bu küçücük solucan deliklerinin uçları ışıkyılı kadar uzağa çekildi;
+
+61
+00:04:22,160 --> 00:04:24,599
+onları evrene saçıyorlar.
+
+62
+00:04:24,600 --> 00:04:26,839
+Solucan delikleri erken evrende yapılmış olsaydı,
+
+63
+00:04:26,840 --> 00:04:33,399
+kozmik sicimlerle ya da başka bir yolla, her şey bitmiş olabilirdi;  sadece keşfedilmeyi bekliyor.
+
+64
+00:04:33,400 --> 00:04:36,819
+Hatta biri sandığımızdan daha yakın olabilir.
+
+65
+00:04:36,820 --> 00:04:40,459
+Dışarıdan bakıldığında kara delikler ve solucan delikleri çok benzer görünebilir;
+
+66
+00:04:40,460 --> 00:04:47,299
+bazı fizikçilerin galaksilerin merkezindeki süper kütleli kara deliklerin aslında solucan delikleri olduğunu öne sürmelerine yol açıyor.
+
+67
+00:04:47,300 --> 00:04:53,139
+Bunu öğrenmek için Samanyolu'nun merkezine kadar gitmek çok zor olacak, ama sorun değil.
+
+68
+00:04:53,140 --> 00:05:00,159
+Elimizi bir solucan deliğine sokmanın eşit derecede zor bir yolu olabilir, bir tane yapmaya çalışabiliriz.
+
+69
+00:05:00,160 --> 00:05:02,719
+MAN YAPIMI wormholes
+
+70
+00:05:02,720 --> 00:05:06,019
+Geçilebilir ve kullanışlı olması için,
+
+71
+00:05:06,020 --> 00:05:08,099
+bir solucan deliğinin sahip olmasını istediğimiz birkaç özellik vardır.
+
+72
+00:05:08,100 --> 00:05:12,219
+İlk olarak, açıkça uzay-zamanın uzak kısımlarına bağlanmalıdır.
+
+73
+00:05:12,220 --> 00:05:15,359
+Yatak odanız ve banyonuz
+
+74
+00:05:15,360 --> 00:05:18,639
+ya da Dünya ve Jüpiter gibi.
+
+75
+00:05:18,640 --> 00:05:23,879
+İkincisi, iki yönlü seyahati engelleyecek herhangi bir olay ufku içermemelidir.
+
+76
+00:05:23,880 --> 00:05:30,099
+Üçüncüsü, yerçekimi kuvvetlerinin yolcuları öldürmemesi için yeterince büyük olmalıdır.
+
+77
+00:05:30,100 --> 00:05:34,159
+Çözmemiz gereken en büyük sorun solucan deliklerimizi açık tutmaktır.
+
+78
+00:05:34,160 --> 00:05:38,319
+Solucan deliklerini nasıl yaparsak yapalım, yerçekimi onları kapatmaya çalışır.
+
+79
+00:05:38,320 --> 00:05:43,859
+Yerçekimi onu sıkıştırmak ve köprüyü kesmek istiyor;  uçlarında sadece kara delikler bırakarak.
+
+80
+00:05:43,860 --> 00:05:49,049
+İster iki ucu bizimkilerde olan, içinden geçilebilir bir solucan deliği, isterse başka bir evrene giden bir solucan deliği
+
+81
+00:05:49,050 --> 00:05:53,138
+olsun, onu açan bir şey olmadıkça kapanmaya çalışacaktır.
+
+82
+00:05:53,139 --> 00:05:57,699
+Çok eski sicim teorisi solucan delikleri için, bu kozmik sicimlerin işidir.
+
+83
+00:05:57,700 --> 00:06:01,619
+İnsan yapımı solucan delikleri için yeni bir malzemeye ihtiyacımız var.
+
+84
+00:06:01,620 --> 00:06:03,559
+Egzotik madde.
+
+85
+00:06:03,560 --> 00:06:07,139
+Bu, dünyada bulduğumuz gibi bir şey değil, hatta antimadde.
+
+86
+00:06:07,140 --> 00:06:14,619
+Daha önce görülmemiş hiçbir şeye benzemeyen çılgın özelliklere sahip, tamamen yeni, farklı ve heyecan verici bir şey.
+
+87
+00:06:14,620 --> 00:06:18,139
+Egzotik madde, kütlesi negatif olan maddelerdir.
+
+88
+00:06:18,140 --> 00:06:23,879
+İnsanlar, gezegenler ve evrendeki diğer her şey gibi pozitif kütle, yerçekimi nedeniyle çekicidir.
+
+89
+00:06:23,880 --> 00:06:27,659
+Ancak negatif kütle itici olurdu;  seni uzaklaştıracaktı.
+
+90
+00:06:27,660 --> 00:06:32,539
+Bu, bir tür anti-yerçekimi yapar, sahne solucan deliklerimizi açar.
+
+91
+00:06:32,540 --> 00:06:41,039
+Ve egzotik madde, uzay-zamanı açmak için, nötron yıldızlarının merkezlerinden bile daha büyük, muazzam bir baskı uygulamalıdır.
+
+92
+00:06:41,040 --> 00:06:46,839
+Egzotik maddeyle uzay-zamanı nasıl uygun görürsek öyle örebiliriz.
+
+93
+00:06:46,840 --> 00:06:53,059
+Bu egzotik madde, uzayın kendisinin boşluğu için bir adayımız bile olabilir.
+
+94
+00:06:53,060 --> 00:06:58,599
+Boş uzaydaki kuantum dalgalanmaları,
+
+95
+00:06:58,600 --> 00:07:01,979
+yalnızca bir an sonra yok edilmeleri için sürekli olarak parçacık ve antiparçacık çiftleri yaratır.
+
+96
+00:07:01,980 --> 00:07:10,779
+Uzayın boşluğu onlarla kaynar ve aradığımız negatif kütleye benzer bir etki yaratmak için onları zaten manipüle edebiliriz.
+
+97
+00:07:10,780 --> 00:07:14,919
+Bunu solucan deliklerimizi stabilize etmek için kullanabiliriz.
+
+98
+00:07:14,920 --> 00:07:21,939
+Bir kez açık tuttuğumuzda, uçlar birlikte başlayacaktı.  Bu yüzden onları ilginç yerlere taşımamız gerekecek.
+
+99
+00:07:21,940 --> 00:07:28,219
+Güneş sistemini kablolayarak başlayabiliriz;  her solucan deliğinin bir ucunu dünyanın yörüngesinde bırakarak.
+
+100
+00:07:28,220 --> 00:07:30,759
+Diğerlerini derin uzaya fırlatabiliriz.
+
+101
+00:07:30,760 --> 00:07:37,359
+Dünya, ışık yıllarına yayılmış geniş bir yıldızlararası insan uygarlığı için bir solucan deliği merkezi olabilir,
+
+102
+00:07:37,360 --> 00:07:40,259
+ancak yalnızca bir solucan deliği uzakta.
+
+103
+00:07:40,260 --> 00:07:43,059
+Ancak solucan deliklerinin karanlık bir tarafı vardır.
+
+104
+00:07:43,060 --> 00:07:50,599
+Tek bir solucan deliği açmak bile, evreni bir nevi temel yollardan kırar, potansiyel olarak zamanda yolculuk paradoksları yaratır
+
+105
+00:07:50,600 --> 00:07:54,579
+ve evrenin nedensel yapısını ihlal eder.
+
+106
+00:07:54,580 --> 00:08:02,499
+Pek çok bilim adamı, bunun sadece onları yapmanın imkansız olduğu anlamına gelmediğini, aynı zamanda onların var olmasının imkansız olduğunu düşünüyor.
+
+107
+00:08:02,500 --> 00:08:08,899
+Yani şimdilik sadece kalplerimizde ve kağıt üzerinde denklemler şeklinde solucan delikleri olduğunu biliyoruz.
+
+108
+00:08:08,900 --> 00:08:13,819
+Evrenle ilgili şeyler hakkında daha fazla bilgi edinmek istediğini biliyoruz, bu yüzden yeni bir şey deniyoruz.
+
+109
+00:08:13,820 --> 00:08:20,379
+Kurzgesagt ve Brilliant, en sevdiğimiz bilim ve uzay şeyleriyle ilgili altı bölümlük bir video dizisinde işbirliği yapıyor.
+
+110
+00:08:20,380 --> 00:08:25,559
+Onların yardımı sayesinde, önümüzdeki altı ay içinde bu kanalda daha fazla video olacak.
+
+111
+00:08:25,560 --> 00:08:30,279
+Kurzgesagt, Brilliant ile bir süredir çalışıyor ve yaptıklarını çok seviyoruz.
+
+112
+00:08:30,280 --> 00:08:34,839
+Özetle Brilliant, zorlu ve büyüleyici problemleri aktif olarak çözerek matematik ve fen becerilerinde uzmanlaşarak ilerlemenize yardımcı olur
+
+113
+00:08:34,840 --> 00:08:38,999
+.
+
+114
+00:08:39,000 --> 00:08:45,439
+Onlarla olan işbirliğimizi desteklemek için, bright.org/nutshell adresini ziyaret edin ve bugün ücretsiz olarak kaydolun.
+
+115
+00:08:45,440 --> 00:08:47,979
+Bağlantıyı kullanan ilk 688 kişi
+
+116
+00:08:47,980 --> 00:09:01,019
+, yıllık premium aboneliklerinde %20 indirim alacak.
+
+117
+00:09:01,020 --> 00:09:11,980
+--SON ALT BAŞLIK DÜZENLEME/OKUMA: WinterPyro
+

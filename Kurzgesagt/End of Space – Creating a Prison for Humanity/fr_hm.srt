@@ -1,0 +1,592 @@
+1
+00:00:01,160 --> 00:00:07,579
+Les voyages dans l'espace sont l'aventure la plus excitante et la plus stimulante que l'humanité ait jamais entreprise.
+
+2
+00:00:07,580 --> 00:00:14,039
+Mais, ironie de l'histoire, plus nous y allons et plus nous risquons de ne plus pouvoir y retourner.
+
+3
+00:00:14,040 --> 00:00:17,719
+A chaque fusée lancée et chaque satellite déployé,
+
+4
+00:00:17,720 --> 00:00:23,679
+nous nous tendons un piège qui devient de plus en plus mortel chaque année.
+
+5
+00:00:23,680 --> 00:00:25,359
+Si par malheur cela arrivait,
+
+6
+00:00:25,360 --> 00:00:29,459
+cela pourrait mettre fin à l'ère spatiale et nous piéger sur notre planète pendant des décennies,
+
+7
+00:00:29,460 --> 00:00:41,139
+voire des siècles.
+
+8
+00:00:41,140 --> 00:00:44,839
+Envoyer quelque chose dans l'espace est incroyablement difficile.
+
+9
+00:00:44,840 --> 00:00:47,719
+Pour ce faire, vous devez vous déplacer très, très rapidement
+
+10
+00:00:47,720 --> 00:00:49,679
+d'abord tout droit vers le haut, afin de quitter l'atmosphère
+
+11
+00:00:49,680 --> 00:00:52,644
+puis, latéralement, pour commencer une sorte de cercle autour de la terre,
+
+12
+00:00:52,645 --> 00:00:54,979
+toujours, très, très rapidement.
+
+13
+00:00:54,980 --> 00:00:56,739
+Si vous réussissez cela,
+
+14
+00:00:56,740 --> 00:00:58,519
+vous pouvez entrer dans l'orbite basse de la Terre.
+
+15
+00:00:58,520 --> 00:01:00,139
+Et une fois en orbite,
+
+16
+00:01:00,140 --> 00:01:02,659
+il est compliqué de quitter cette orbite.
+
+17
+00:01:02,660 --> 00:01:06,059
+A moins qu'il vous reste de l'énergie, vous êtes bloqués ici,
+
+18
+00:01:06,060 --> 00:01:08,539
+tombant autour de la Terre pour toujours.
+
+19
+00:01:08,540 --> 00:01:10,859
+C'est parfait pour les choses qui doivent rester là-haut,
+
+20
+00:01:10,860 --> 00:01:13,519
+comme les stations spatiales et les satellites.
+
+21
+00:01:13,520 --> 00:01:17,459
+C'est pour cela que nous avons déplacé la majeure partie de l'infrastructure spatiale de l'humanité à cet endroit,
+
+22
+00:01:17,460 --> 00:01:20,179
+juste à quelques centaines de kilomètres au-dessus de la surface,
+
+23
+00:01:20,180 --> 00:01:23,659
+juste assez haut pour que l'atmosphère soit si mince
+
+24
+00:01:23,660 --> 00:01:26,279
+que les objets en orbite puissent rester pendant des siècles
+
+25
+00:01:26,280 --> 00:01:30,279
+avant que la résistance de l'air ne les ralentisse assez pour les ramener sur Terre.
+
+26
+00:01:30,280 --> 00:01:34,099
+Mais c'est aussi l'origine de notre piège mortel.
+
+27
+00:01:34,100 --> 00:01:38,499
+Les fusées sont en fait des cylindres métalliques contenant de grandes quantités de carburant.
+
+28
+00:01:38,500 --> 00:01:44,359
+Une fois le carburant utilisé, les réservoirs vides sont lâchés pour alléger la fusée.
+
+29
+00:01:44,360 --> 00:01:48,019
+Certaines parties s'écrasent sur la Terre ou brûlent dans l'atmosphère
+
+30
+00:01:48,020 --> 00:01:53,139
+mais la plupart des pièces inutiles de la fusée restent sur place et commencent à orbiter autour de la planète.
+
+31
+00:01:53,140 --> 00:01:55,379
+Après des décennies de voyage spatial,
+
+32
+00:01:55,380 --> 00:01:59,539
+l'orbite basse de la Terre est un dépotoir de propulseurs vides, de satellites cassés
+
+33
+00:01:59,540 --> 00:02:04,519
+et de millions d'éclats provenant d'essais de missiles et d'explosions.
+
+34
+00:02:04,520 --> 00:02:08,719
+À l'heure actuelle, nous connaissons environ 2600 satellites hors d'usage,
+
+35
+00:02:08,720 --> 00:02:11,259
+10 000 objets plus grands qu'un écran LCD
+
+36
+00:02:11,260 --> 00:02:13,239
+20 000 gros comme une pomme,
+
+37
+00:02:13,240 --> 00:02:15,879
+500 000 pièces de la taille d'une bille
+
+38
+00:02:15,880 --> 00:02:20,839
+et au moins 100 millions de pièces si petites qu'on ne peut les répertorier.
+
+39
+00:02:20,840 --> 00:02:25,399
+Ces débris se déplacent à des vitesses allant jusqu'à 30 000 km/h,
+
+40
+00:02:25,400 --> 00:02:29,079
+faisant le tour de la Terre plusieurs fois par jour.
+
+41
+00:02:29,080 --> 00:02:31,479
+Les vitesses orbitales sont si élevées
+
+42
+00:02:31,480 --> 00:02:34,039
+qu'être frappé par un débris de la taille d'un petit pois
+
+43
+00:02:34,040 --> 00:02:36,339
+revient à être abattu par un canon à plasma :
+
+44
+00:02:36,340 --> 00:02:42,439
+au moment de l'impact, les débris s'évaporent et libèrent suffisamment d'énergie pour percer des trous dans du métal.
+
+45
+00:02:42,440 --> 00:02:44,659
+En résumé, nous avons couvert l'espace autour de notre planète
+
+46
+00:02:44,660 --> 00:02:47,599
+avec des millions d'armes mortelles.
+
+47
+00:02:47,600 --> 00:02:51,159
+Et nous avons également mis un réseau mondial d'infrastructures d'un billion de dollars
+
+48
+00:02:51,160 --> 00:02:52,879
+directement dans la zone de danger.
+
+49
+00:02:52,880 --> 00:02:56,059
+Il accomplit des tâches essentielles au monde moderne :
+
+50
+00:02:56,060 --> 00:02:58,319
+communication dans le monde entier,
+
+51
+00:02:58,320 --> 00:03:00,799
+GPS et systèmes de guidage,
+
+52
+00:03:00,800 --> 00:03:02,719
+collecte de données météorologiques,
+
+53
+00:03:02,720 --> 00:03:07,219
+recherche d'astéroïdes et toutes sortes de découvertes scientifiques.
+
+54
+00:03:07,220 --> 00:03:11,899
+Des choses qui nous manqueraient beaucoup si elles disparaissaient soudainement.
+
+55
+00:03:11,900 --> 00:03:17,019
+Si un seul débris de la taille d'un petit pois touche l'un de nos 1100 satellites en fonctionnement,
+
+56
+00:03:17,020 --> 00:03:20,339
+il serait instantanément détruit.
+
+57
+00:03:20,340 --> 00:03:23,579
+Chaque année, trois ou quatre satellites sont détruits de cette manière.
+
+58
+00:03:23,580 --> 00:03:29,379
+Comme le nombre de satellites et la quantité de débris en orbite devraient décupler au cours de la prochaine décennie,
+
+59
+00:03:29,380 --> 00:03:31,779
+nous approchons un point de bascule.
+
+60
+00:03:31,780 --> 00:03:35,004
+Le pire dans l'espace, ce ne sont pas les déchets eux-mêmes,
+
+61
+00:03:35,005 --> 00:03:38,019
+le pire serait une réaction en chaîne inarrêtable
+
+62
+00:03:38,020 --> 00:03:41,599
+qui transformerait un grand nombre d'objets fonctionnels en déchets,
+
+63
+00:03:41,600 --> 00:03:46,059
+par exemple si deux satellites se percutent dans les conditions adéquates.
+
+64
+00:03:46,060 --> 00:03:49,859
+Si des satellites entrent en collision, ils ne s'arrêteront pas pour ensuite tomber dans l'atmosphère,
+
+65
+00:03:49,860 --> 00:03:52,959
+cela provoquera au contraire un éparpillement dans l'espace.
+
+66
+00:03:52,960 --> 00:03:55,504
+Les vitesses orbitales sont si élevées
+
+67
+00:03:55,505 --> 00:03:57,679
+que les pièces se pulvérisent les unes sur les autres,
+
+68
+00:03:57,680 --> 00:04:01,599
+transformant les deux satellites en nuages de milliers de petites choses
+
+69
+00:04:01,600 --> 00:04:05,339
+encore suffisamment rapides pour détruire d'autres satellites.
+
+70
+00:04:05,340 --> 00:04:09,619
+Cela pourrait déclencher l'effet domino le plus lent et destructeur possible :
+
+71
+00:04:09,620 --> 00:04:12,099
+des collisions en cascade.
+
+72
+00:04:12,100 --> 00:04:16,059
+Comme un tir de fusil à pompe, chaque collision crée davantage de projectiles.
+
+73
+00:04:16,060 --> 00:04:18,338
+Ce qui n'était autrefois qu'une cible minuscule
+
+74
+00:04:18,339 --> 00:04:20,819
+et très peu susceptible d'entrer en contact avec quoi que ce soit
+
+75
+00:04:20,820 --> 00:04:24,219
+devient un véritable mur, avide de destruction.
+
+76
+00:04:24,220 --> 00:04:26,679
+Au fur et à mesure que de plus en plus de satellites sont détruits,
+
+77
+00:04:26,680 --> 00:04:29,119
+la destruction s'accélère de façon exponentielle,
+
+78
+00:04:29,120 --> 00:04:32,639
+détruisant finalement tout ce qui était stationné en orbite.
+
+79
+00:04:32,640 --> 00:04:34,419
+Mais l'espace est très vide,
+
+80
+00:04:34,420 --> 00:04:37,599
+les premières collisions peuvent donc prendre beaucoup de temps à se produire.
+
+81
+00:04:37,600 --> 00:04:40,999
+Le temps qu'on réalise ce qui se passe, il sera trop tard.
+
+82
+00:04:41,000 --> 00:04:44,699
+Une année, un satellite est détruit ; rien de grave.
+
+83
+00:04:44,700 --> 00:04:46,599
+L'année suivante, cinq.
+
+84
+00:04:46,600 --> 00:04:48,759
+L'année d'après, cinquante.
+
+85
+00:04:48,760 --> 00:04:51,199
+Jusqu'à ce qu'il ne reste plus rien.
+
+86
+00:04:51,200 --> 00:04:53,774
+La situation en orbite s'aggrave rapidement
+
+87
+00:04:53,775 --> 00:04:57,004
+et nous avons peut-être déjà dépassé le point de non-retour.
+
+88
+00:04:57,005 --> 00:04:59,439
+Dans 10 ans, l'espace autour de la Terre
+
+89
+00:04:59,440 --> 00:05:03,479
+pourrait ne plus être viable pour des satellites sur le long terme ou des fusées.
+
+90
+00:05:03,480 --> 00:05:06,279
+Le pire des scénarios est terrifiant :
+
+91
+00:05:06,280 --> 00:05:09,419
+un champ de débris composé de centaines de millions de pièces
+
+92
+00:05:09,420 --> 00:05:11,119
+beaucoup trop petites pour être répertoriées,
+
+93
+00:05:11,120 --> 00:05:14,134
+circulant à 30 000 km/h.
+
+94
+00:05:14,135 --> 00:05:17,154
+Cela créerait une barrière mortelle autour de la terre,
+
+95
+00:05:17,155 --> 00:05:20,699
+peut-être trop dangereuse à franchir.
+
+96
+00:05:20,700 --> 00:05:24,839
+Les rêves de bases lunaires, de colonies martiennes ou de voyages dans l'espace
+
+97
+00:05:24,840 --> 00:05:27,199
+pourraient reculer de plusieurs siècles.
+
+98
+00:05:27,200 --> 00:05:29,539
+Et la perte de notre infrastructure spatiale
+
+99
+00:05:29,540 --> 00:05:32,274
+ramènerait une partie de la technologie sur laquelle nous comptons quotidiennement
+
+100
+00:05:32,275 --> 00:05:34,504
+dans les années 1970.
+
+101
+00:05:34,505 --> 00:05:37,574
+Mais il n'est peut-être pas trop tard pour nettoyer nos dégâts.
+
+102
+00:05:37,575 --> 00:05:40,664
+Bien que l'industrie spatiale ait fait des progrès afin d'éviter les débris spatiaux,
+
+103
+00:05:40,665 --> 00:05:42,599
+ceux-ci continuent de croître rapidement
+
+104
+00:05:42,600 --> 00:05:45,239
+et les essais de missiles n'ont pas montré un grand intérêt.
+
+105
+00:05:45,240 --> 00:05:48,919
+Quelques suggestions ont été proposées, certaines farfelues, d'autres plus sérieuses,
+
+106
+00:05:48,920 --> 00:05:52,579
+sur la façon d'enlever rapidement autant de déchets spatiaux mortels que possible
+
+107
+00:05:52,580 --> 00:05:54,979
+sans en créer d'autres dans le processus.
+
+108
+00:05:54,980 --> 00:05:57,359
+Beaucoup d'idées ont été lancées
+
+109
+00:05:57,360 --> 00:06:02,099
+et certaines parmi les plus sérieuses impliquent des missions de capture/retour ;
+
+110
+00:06:02,100 --> 00:06:04,279
+celles-ci sont actuellement à l'essai.
+
+111
+00:06:04,280 --> 00:06:09,839
+L'une des méthodes consiste à s'approcher d'un débris en orbite avec un petit satellite équipé d''un filet.
+
+112
+00:06:09,840 --> 00:06:14,099
+Une fois attrapé, une petite fusée serait utilisée pour l'amener vers la Terre.
+
+113
+00:06:14,100 --> 00:06:18,739
+Les cibles trop grandes pour un filet pourraient être attrapées à l'aide d'un harpon au bout d'un câble.
+
+114
+00:06:18,740 --> 00:06:23,859
+Au lieu de lancer une fusée, le nettoyeur déploierait une grande voile pour produire un frottement atmosphérique
+
+115
+00:06:23,860 --> 00:06:26,379
+et accélérer la déviation de l'orbite.
+
+116
+00:06:26,380 --> 00:06:30,819
+Il y a aussi beaucoup d'autres propositions extravagantes semblant tirées d'un roman de science-fiction.
+
+117
+00:06:30,820 --> 00:06:33,579
+Certaines pourraient utiliser des électro-aimants géants.
+
+118
+00:06:33,580 --> 00:06:38,799
+Ces remorqueurs fonctionneraient en exploitant les composants magnétiques présents à l'intérieur des satellites
+
+119
+00:06:38,800 --> 00:06:44,259
+(qu'ils utilisent pour se stabiliser et s'orienter dans le champ magnétique terrestre).
+
+120
+00:06:44,260 --> 00:06:47,719
+Cela pourrait être plus sûr que les filets et les harpons
+
+121
+00:06:47,720 --> 00:06:50,899
+car il n'y aurait pas besoin d'entrer en contact avec le débris,
+
+122
+00:06:50,900 --> 00:06:56,219
+il n'y aurait donc aucun risque de briser accidentellement la cible en morceaux.
+
+123
+00:06:56,220 --> 00:06:58,099
+Quant aux plus petits débris,
+
+124
+00:06:58,100 --> 00:07:01,719
+les lasers pourraient être la clé pour les pulvériser complètement.
+
+125
+00:07:01,720 --> 00:07:04,659
+Les satellites équipés de lasers n'auraient pas besoin de s'approcher de leur cible,
+
+126
+00:07:04,660 --> 00:07:07,034
+ils pourraient les abattre de loin.
+
+127
+00:07:07,035 --> 00:07:09,899
+Les gros objets ne pourraient pas être totalement détruits de cette façon
+
+128
+00:07:09,900 --> 00:07:11,879
+mais les lasers pourraient être utilisés pour les mettre hors d'état de nuire
+
+129
+00:07:11,880 --> 00:07:14,639
+en en brûlant une petite partie
+
+130
+00:07:14,640 --> 00:07:17,379
+afin de les pousser sur une orbite plus sûre.
+
+131
+00:07:17,380 --> 00:07:22,419
+Quelle que soit la technologie utilisée au final, nous ferions bien de faire quelque chose rapidement
+
+132
+00:07:22,420 --> 00:07:27,559
+avant que cent millions de projectiles ne deviennent un billion et que le piège ne se referme.
+
+133
+00:07:27,560 --> 00:07:31,579
+Si nous n'agissons pas, notre aventure dans l'espace pourrait prendre fin
+
+134
+00:07:31,580 --> 00:07:36,019
+avant même qu'elle n'ait commencé.
+
+135
+00:07:36,020 --> 00:07:41,599
+Si nos jours de rêve d'exploration spatiale sont comptés, utilisons-les à bon escient.
+
+136
+00:07:41,600 --> 00:07:45,619
+L'une des choses sur lesquelles nous aimons le plus passer notre temps est d'en apprendre davantage sur notre univers.
+
+137
+00:07:45,620 --> 00:07:48,659
+Et pour cela, restez connecté.
+
+138
+00:07:48,660 --> 00:07:55,079
+Kurzgesagt et Brilliant collaborent à une série de six vidéos sur nos sujets scientifiques et spatiaux favoris.
+
+139
+00:07:55,080 --> 00:07:57,384
+Kurzgesagt travaille avec Brilliant depuis quelques temps
+
+140
+00:07:57,385 --> 00:08:00,344
+et nous adorons la façon dont ils enseignent les sciences et les mathématiques de façon pratique,
+
+141
+00:08:00,345 --> 00:08:02,784
+en vous guidant pas à pas sur des problèmes,
+
+142
+00:08:02,785 --> 00:08:05,284
+afin que vous puissiez comprendre les concepts sous-jacents,
+
+143
+00:08:05,285 --> 00:08:09,559
+et peut-être un jour utiliser vos connaissances sur des problèmes tels que les débris spatiaux,
+
+144
+00:08:09,560 --> 00:08:12,259
+ou au moins sur vos projets scientifiques, pour commencer.
+
+145
+00:08:12,260 --> 00:08:15,019
+Si vous voulez encore plus de ludo-éducation,
+
+146
+00:08:15,020 --> 00:08:18,104
+allez sur Brilliant.org/nutshell et inscrivez-vous gratuitement.
+
+147
+00:08:18,105 --> 00:08:24,279
+Les 688 premiers à utiliser le lien bénéficient d'une réduction de 20% sur leur abonnement premium annuel
+
+148
+00:08:24,280 --> 00:08:27,180
+et soutiennent également notre collaboration avec Brilliant !
+

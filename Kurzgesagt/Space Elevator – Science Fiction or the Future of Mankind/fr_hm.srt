@@ -1,0 +1,440 @@
+1
+00:00:01,660 --> 00:00:03,819
+Aller dans l'espace est difficile
+
+2
+00:00:03,820 --> 00:00:08,419
+Même si pouvoir voir notre planète depuis l'espace grâce à un moyen simple et peu coûteux serait génial,
+
+3
+00:00:08,420 --> 00:00:09,239
+ 
+
+4
+00:00:09,240 --> 00:00:10,219
+Pour le moment
+
+5
+00:00:10,220 --> 00:00:12,319
+le seul moyen est de devenir astronaute
+
+6
+00:00:12,320 --> 00:00:13,979
+ou milliardaire
+
+7
+00:00:13,980 --> 00:00:16,399
+Mais il existe un concept qui pourrait rendre cela possible
+
+8
+00:00:16,400 --> 00:00:19,719
+Et qui pourrait définir le point de départ pour l'exploration de l'Univers :
+
+9
+00:00:19,720 --> 00:00:21,479
+L'ascenseur spatial
+
+10
+00:00:21,480 --> 00:00:33,159
+Comment marche-t-il exactement ?
+
+11
+00:00:33,160 --> 00:00:36,459
+Pour comprendre comment un ascenseur spatial nous amènerait dans l'espace
+
+12
+00:00:36,460 --> 00:00:39,439
+Nous devrons d'abord comprendre ce qu'est une orbite
+
+13
+00:00:39,440 --> 00:00:42,419
+Être en orbite revient fondamentalement à tomber vers quelque chose
+
+14
+00:00:42,420 --> 00:00:44,919
+en étant suffisamment rapide pour le rater.
+
+15
+00:00:44,920 --> 00:00:46,939
+Si vous lancez une balle sur Terre,
+
+16
+00:00:46,940 --> 00:00:50,059
+elle décrit une trajectoire en arc avant de retomber par terre.
+
+17
+00:00:50,060 --> 00:00:51,239
+Dans l'espace,
+
+18
+00:00:51,240 --> 00:00:53,519
+la gravité agit de manière similaire
+
+19
+00:00:53,520 --> 00:00:55,679
+Mais si vous vous déplacez obliquement (de côté) assez vite
+
+20
+00:00:55,680 --> 00:01:01,699
+La courbe de la Terre fait s'éloigner le sol en dessous de vous aussi rapidement que la gravité vous attire vers le sol
+
+21
+00:01:01,700 --> 00:01:03,939
+Donc pour entrer en orbite autour de la Terre
+
+22
+00:01:03,940 --> 00:01:07,519
+Les fusées doivent s'élever verticalement ET de travers rapidement
+
+23
+00:01:07,520 --> 00:01:09,339
+Au contraire
+
+24
+00:01:09,340 --> 00:01:14,639
+un ascenseur spatial exploiterait l'énergie de la rotation de la Terre pour accélérer la cargaison.
+
+25
+00:01:14,640 --> 00:01:16,999
+Imaginez un enfant faisant tourner un jouet au bout d'une corde
+
+26
+00:01:17,000 --> 00:01:19,259
+avec une fourmi sur la main.
+
+27
+00:01:19,260 --> 00:01:21,239
+Alors que la fourmi escalade la corde,
+
+28
+00:01:21,240 --> 00:01:24,999
+celle-ci se déplace de plus en plus vite.
+
+29
+00:01:25,000 --> 00:01:28,199
+Comparé aux fusées, avec un chargement lancé depuis un ascenseur
+
+30
+00:01:28,200 --> 00:01:30,839
+on a seulement besoin de fournir l'énergie pour bouger verticalement.
+
+31
+00:01:30,840 --> 00:01:34,479
+Le mouvement oblique est ensuite fourni gratuitement par la rotation de la Terre !
+
+32
+00:01:34,480 --> 00:01:38,499
+Mais un ascenseur spatial serait sans aucun doute la structure la plus grande et la plus coûteuse
+
+33
+00:01:38,500 --> 00:01:41,059
+jamais construite par l'humanité.
+
+34
+00:01:41,060 --> 00:01:41,979
+Alors,
+
+35
+00:01:41,980 --> 00:01:43,839
+Est-ce que ça vaudrait le coût ?
+
+36
+00:01:43,840 --> 00:01:46,059
+Tout se résume à une question d'économie.
+
+37
+00:01:46,060 --> 00:01:50,799
+Les fusées consomment d'énorme quantité de carburant, juste pour envoyer des petites livraisons dans l'espace
+
+38
+00:01:50,800 --> 00:01:52,239
+Aux prix actuels,
+
+39
+00:01:52,240 --> 00:01:56,679
+il faut environ 20 000 dollars pour envoyer un seul kilogramme de marchandises dans l'espace.
+
+40
+00:01:56,680 --> 00:01:59,199
+Ce qui fait 1.3 million de dollars pour un humain moyen,
+
+41
+00:01:59,200 --> 00:02:01,599
+40 millions pour une voiture,
+
+42
+00:02:01,600 --> 00:02:04,459
+et des milliards pour la station spatiale internationale.
+
+43
+00:02:04,460 --> 00:02:08,459
+Ces coûts exorbitants constituent une des plus grandes barrières aux vols spatiaux habités.
+
+44
+00:02:08,460 --> 00:02:10,779
+Même avec de grands progrès technologiques
+
+45
+00:02:10,780 --> 00:02:15,359
+Ce coût n'est pas prêt d'être comparable au prix d'un billet d'avion
+
+46
+00:02:15,360 --> 00:02:17,899
+Un ascenseur spatial pourrait résoudre ce problème
+
+47
+00:02:17,900 --> 00:02:19,419
+Après construction,
+
+48
+00:02:19,420 --> 00:02:23,039
+un ascenseur spatial pourrait réduire ce coût de 100 fois
+
+49
+00:02:23,040 --> 00:02:25,339
+Jusqu'à 200 dollars par kilogramme
+
+50
+00:02:25,340 --> 00:02:29,819
+Même un ascenseur spatial "bon marché" coûtant 20 milliards de dollars serait rentable
+
+51
+00:02:29,820 --> 00:02:33,459
+après avoir mis en orbite un million de tonnes de cargaison,
+
+52
+00:02:33,460 --> 00:02:36,459
+l'équivalent d'environ deux stations spatiales internationales
+
+53
+00:02:36,460 --> 00:02:40,039
+Alors, à quoi ressemblerait un ascenseur spatial dans la vraie vie ?
+
+54
+00:02:40,040 --> 00:02:42,779
+Un ascenseur spatial possède quatre composants majeurs
+
+55
+00:02:42,780 --> 00:02:43,599
+Un cable
+
+56
+00:02:43,600 --> 00:02:44,359
+Une attache (ancre)
+
+57
+00:02:44,360 --> 00:02:45,419
+Un contrepoid
+
+58
+00:02:45,420 --> 00:02:46,979
+Et la cabine
+
+59
+00:02:46,980 --> 00:02:50,539
+La partie dit "ascenseur" de la structure comprend le cable et la cabine
+
+60
+00:02:50,540 --> 00:02:53,419
+qui s'étend de la Terre jusqu'à l'espace
+
+61
+00:02:53,420 --> 00:02:56,219
+La cabine ressemble à une cabine d'ascenseur conventionnelle
+
+62
+00:02:56,220 --> 00:02:59,099
+qui se déplace de bas en haut sur le cable
+
+63
+00:02:59,100 --> 00:03:00,959
+à la base, il y aurait l'attache
+
+64
+00:03:00,960 --> 00:03:02,359
+fixant le cable à la terre
+
+65
+00:03:02,360 --> 00:03:04,439
+et un port pour ceux comptant monter
+
+66
+00:03:04,440 --> 00:03:05,439
+À l'extremité on a le contrepoids
+
+67
+00:03:05,440 --> 00:03:07,779
+qui soutient le cable
+
+68
+00:03:07,780 --> 00:03:09,719
+Le câble est solidement arrimé
+
+69
+00:03:09,720 --> 00:03:12,439
+et est gardé tendu grâce au contrepoids,
+
+70
+00:03:12,440 --> 00:03:16,459
+situé à plus de 36 000 km du sol.
+
+71
+00:03:16,460 --> 00:03:19,079
+La station spatiale pourrait même être dans le contrepoids.
+
+72
+00:03:19,080 --> 00:03:22,859
+Un centre de gestion pour l'ascenseur et les missions liées.
+
+73
+00:03:22,860 --> 00:03:25,099
+Mais peut-on en construire un ?
+
+74
+00:03:25,100 --> 00:03:26,619
+Difficile à dire.
+
+75
+00:03:26,620 --> 00:03:28,619
+Le plus gros problème,  c'est le câble.
+
+76
+00:03:28,620 --> 00:03:30,619
+Il doit être léger, ne pas coûter trop cher,
+
+77
+00:03:30,620 --> 00:03:34,339
+Et plus stable que n'importe quel matériau actuel.
+
+78
+00:03:34,340 --> 00:03:38,099
+Il existe des matériaux prometteurs : le graphène ou les nanotubes de diamant,
+
+79
+00:03:38,100 --> 00:03:40,699
+mais même eux risquent de ne pas être assez résistants.
+
+80
+00:03:40,700 --> 00:03:42,879
+Et en plus de devoir être incroyablement résistants,
+
+81
+00:03:42,880 --> 00:03:46,099
+le câble devra aussi supporter la corrosion,
+
+82
+00:03:46,100 --> 00:03:46,999
+les radiations,
+
+83
+00:03:47,000 --> 00:03:49,939
+les micrométéorites et les impacts avec des débris en orbite.
+
+84
+00:03:49,940 --> 00:03:53,279
+De plus, il faudrait plusieurs jours pour arriver en haut.
+
+85
+00:03:53,280 --> 00:03:55,659
+Où trouver l'énergie ?
+
+86
+00:03:55,660 --> 00:03:58,119
+Il en faut une grande quantité.
+
+87
+00:03:58,120 --> 00:04:01,519
+Faudra-t-il construire une centrale nucléaire spécialement dédiée ?
+
+88
+00:04:01,520 --> 00:04:05,199
+Ou le propulse-t-on avec un rayon laser surpuissant installé au sol ?
+
+89
+00:04:05,200 --> 00:04:09,839
+Et où se procure-t-on les matériaux nécessaires à la construction d'un câble de 36 000 km de long ?
+
+90
+00:04:09,840 --> 00:04:11,839
+Est-ce qu'on le fabrique sur Terre pour l'envoyer ensuite dans l'espace ?
+
+91
+00:04:11,840 --> 00:04:15,199
+Où est-ce qu'on le fabrique dans l'espace pour ensuite le laisser descendre jusqu'au sol ?
+
+92
+00:04:15,200 --> 00:04:17,759
+La solution pourrait se trouver dans le minage des astéroïdes.
+
+93
+00:04:17,760 --> 00:04:23,019
+Bref, il reste encore des obstacles majeurs à surmonter.
+
+94
+00:04:23,020 --> 00:04:25,419
+Et un ascenseur spatial n'est pas sans risques.
+
+95
+00:04:25,420 --> 00:04:29,079
+Si le câble venait à se rompre, cela provoquerait une catastrophe sans précédent.
+
+96
+00:04:29,080 --> 00:04:32,459
+S'il casse au niveau de l'ancre, la force exercée par le contrepoids
+
+97
+00:04:32,460 --> 00:04:36,099
+ferait décoller l'ensemble de l'ascenseur qui partirait alors dans l'espace.
+
+98
+00:04:36,100 --> 00:04:40,999
+S'il casse au niveau du contrepoids, le câble tomberait vers la Terre et s'enroulerait autour,
+
+99
+00:04:41,000 --> 00:04:45,979
+Cela serait extrêmement gênant pour de futures mission spatiales.
+
+100
+00:04:45,980 --> 00:04:47,979
+Si l'on commence à construire un ascenseur spatial,
+
+101
+00:04:47,980 --> 00:04:50,739
+on doit réussir du premier coup.
+
+102
+00:04:50,740 --> 00:04:55,599
+Pour ces raisons, des experts ont proposé de construire d'abord un ascenseur sur la lune.
+
+103
+00:04:55,600 --> 00:04:57,899
+La gravité étant plus faible sur la lune que sur la Terre,
+
+104
+00:04:57,900 --> 00:05:02,559
+un matériau moins résistant mais existant déjà pourrait être utilisé pour la construction du câble, comme du kevlar par exemple.
+
+105
+00:05:02,560 --> 00:05:04,519
+Même avec tous ces défis à relever,
+
+106
+00:05:04,520 --> 00:05:07,779
+les bénéfices d'un ascenseur spatial seraient immenses.
+
+107
+00:05:07,780 --> 00:05:12,639
+Cela pourrait marquer les premiers pas vers une transformation de notre civilisation en une civilisation basée sur l'exploration spatiale.
+
+108
+00:05:12,640 --> 00:05:15,139
+Si ça se trouve, on ne construira jamais d'ascenseur spatial,
+
+109
+00:05:15,140 --> 00:05:18,839
+mais les recherches liées à un tel projet pourraient nous faire découvrir énormément de choses.
+
+110
+00:05:18,840 --> 00:05:24,200
+Et quand on parle d'exploration spatiale, on ne peut jamais assez rêver d'un futur glorieux.
+

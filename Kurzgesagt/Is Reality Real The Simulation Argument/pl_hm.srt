@@ -1,0 +1,416 @@
+1
+00:00:00,880 --> 00:00:06,399
+My, ludzie nie potrafimy wyczuć prawdziwej i "nieprzefiltrowanej" natury wszechświata.
+
+2
+00:00:06,400 --> 00:00:10,639
+Nasz mózg i nasze zmysły mogą pojąć tylko ułamek świata,
+
+3
+00:00:10,640 --> 00:00:16,159
+więc musimy używać idei oraz narzędzi, aby móc uczyć się o prawdziwej naturze rzeczywistości.
+
+4
+00:00:16,160 --> 00:00:19,499
+Rozwój technologii nie tylko poszerzył naszą wiedzę o wszechświecie,
+
+5
+00:00:19,500 --> 00:00:23,579
+ale także uświadomił nas o niepokojących możliwościach.
+
+6
+00:00:23,580 --> 00:00:28,919
+W przyszłości możliwe może stać się zasymulowanie całego wszechświata.
+
+7
+00:00:28,920 --> 00:00:30,559
+Ale jeśli jest taka opcja...
+
+8
+00:00:30,560 --> 00:00:33,839
+skąd możemy mieć pewność, że to już się nie wydarzyło?
+
+9
+00:00:33,840 --> 00:00:38,939
+Co jeśli nie jesteśmy twórcami, a dziełem?
+
+10
+00:00:38,940 --> 00:00:43,759
+Czy to możliwe, że nie jesteśmy prawdziwi i nawet o tym nie wiemy?
+
+11
+00:00:43,760 --> 00:00:52,939
+[intro]
+
+12
+00:00:52,940 --> 00:00:55,979
+Jeśli nasze obecne rozumienie fizyki jest poprawne,
+
+13
+00:00:55,980 --> 00:01:01,179
+to niemożliwym jest symulowanie wszechświata z bilionem bilionów rzeczy.
+
+14
+00:01:01,180 --> 00:01:03,639
+Ale i tak nie musimy tego robić.
+
+15
+00:01:03,640 --> 00:01:10,219
+Potrzebujemy tylko tyle wszechświata, żeby móc wmówić naszym mieszkańcom, że są prawdziwi.
+
+16
+00:01:10,220 --> 00:01:17,799
+Kto potrzebuje miliardów galaktyk? Potrzebujemy tylko tych miejsc, które nasze obiekty mogą odkrywać.
+
+17
+00:01:17,800 --> 00:01:24,439
+[Vsauce 3] Wszechświat mógłby być tylko płaskim tłem, a oni nigdy by się o tym nie dowiedzieli.
+
+18
+00:01:24,440 --> 00:01:27,859
+Co z małymi rzeczami jak komórki lub bakterie?
+
+19
+00:01:27,860 --> 00:01:35,079
+Nie potrzebujemy ich. Kiedy używasz mikroskopu mogłyby być po prostu wygenerowane.
+
+20
+00:01:35,080 --> 00:01:41,319
+Tak samo z atomami. Krzesło, na którym siedzisz nie musi mieć trylionów symulowanych atomów.
+
+21
+00:01:41,320 --> 00:01:47,719
+Potrzebujemy tylko zewnętrznej warstwy. Może być puste w środku, dopóki nie zdecydujesz się go złamać.
+
+22
+00:01:47,720 --> 00:01:54,739
+Twoje ciało może wydawać się pełne pływających rzeczy, ale może być puste dopóki go nie otworzysz.
+
+23
+00:01:54,740 --> 00:02:00,619
+Minimalnym wymogiem naszej symulacji to tylko świadomość naszych wirtualnych ludzi.
+
+24
+00:02:00,620 --> 00:02:05,059
+Nasze objekty muszą tylko myśleć, że symulacja jest prawdziwa.
+
+25
+00:02:05,060 --> 00:02:08,739
+Ok, więc czy żyjemy w symulacji?
+
+26
+00:02:08,740 --> 00:02:13,479
+Może, ale najpierw musimy spełnić kilka warunków.
+
+27
+00:02:13,480 --> 00:02:19,539
+Oczywiście nie mamy tu żadnego autorytetu, więc bierzcie to wszystko z przymrużeniem oka.
+
+28
+00:02:19,540 --> 00:02:26,179
+Bazując na zmodyfikowanej wersji argumentu symulacji Nick'a Bostrom'a, mamy pięć założeń.
+
+29
+00:02:26,180 --> 00:02:31,999
+Jeśli są prawdziwe, wtedy ty, drogi widzu, żyjesz w symulacji.
+
+30
+00:02:32,000 --> 00:02:36,899
+Założenie 1. Możliwe jest zasymulowanie świadomości.
+
+31
+00:02:36,900 --> 00:02:38,919
+Nikt nie wie czym jest świadomość,
+
+32
+00:02:38,920 --> 00:02:44,999
+ale dla uproszczenia załóżmy, że możesz wygenerować świadomość symulując mózg.
+
+33
+00:02:45,000 --> 00:02:48,719
+Mózgi są dość skomplikowane.
+
+34
+00:02:48,720 --> 00:02:52,399
+[Vsauce 3] Jeśli każdą interakcję między synapsami liczysz jako jedną operację,
+
+35
+00:02:52,400 --> 00:02:55,339
+to twój mózg przeprowadza około 10 do potęgi 17.
+
+36
+00:02:55,340 --> 00:03:00,319
+lub inaczej 100 milionów miliardów operacji na sekundę.
+
+37
+00:03:00,320 --> 00:03:06,199
+Załóżmy, że potrzebujemy 10^20 operacji, żeby wygenerować 1 sekundę ludzkiej świadomości.
+
+38
+00:03:06,200 --> 00:03:13,379
+Ale nie chcemy wygenerować tylko jednego człowieka, a całą historie ludzkości, by móc się przemieszczać.
+
+39
+00:03:13,380 --> 00:03:18,059
+Powiedzmy, że chcemy wygenerować 200 miliardów ludzi ze średnią długością życia - 50 lat.
+
+40
+00:03:18,060 --> 00:03:27,279
+Jeden rok ma 30 milionów sekund razy 50 lat razy 200 miliardów ludzi razy 10^20 operacji.
+
+41
+00:03:27,280 --> 00:03:34,979
+Więc potrzebujemy komputera zdolnego utrzymać milion bilion bilion bilion operacji na sekundę.
+
+42
+00:03:34,980 --> 00:03:39,179
+Więcej obliczeń niż gwiazd w obserwowalnym wszechświecie.
+
+43
+00:03:39,180 --> 00:03:42,199
+Taki komputer jest niemożliwy do stworzenia.
+
+44
+00:03:42,200 --> 00:03:45,059
+Albo i jest...
+
+45
+00:03:45,060 --> 00:03:51,019
+Założenie 2. Technologia nie przestanie się rozwijać.
+
+46
+00:03:51,020 --> 00:03:55,799
+Jeśli założymy, że rozwój technologiczny będzie trwał podobnie jak trwa teraz,
+
+47
+00:03:55,800 --> 00:04:01,459
+to w pewnym momencie mogą powstać cywilizacje rozległe na całe galaktyki z nielimitowaną mocą obliczeniową.
+
+48
+00:04:01,460 --> 00:04:06,999
+Istoty na takim poziome technologicznym, że trudno byłoby odróżnić ich od bogów.
+
+49
+00:04:07,000 --> 00:04:11,979
+Komputery. które mogą przetwarzać milion bilion bilion bilion operacji to poważna sprawa,
+
+50
+00:04:11,980 --> 00:04:16,059
+ale istnieją rzeczywiste koncepty takich komputerów.
+
+51
+00:04:16,060 --> 00:04:21,379
+Np.: Mózg-Matrioszka - teoretyczna mega-struktura, stworzona z miliardów części orbitujących gwiazdę
+
+52
+00:04:21,380 --> 00:04:23,419
+i "karmiących się" jej promieniowaniem.
+
+53
+00:04:23,420 --> 00:04:30,679
+Taki komputer mógłby symulować tysiące lub nawet miliony ludzkości w tym samym czasie.
+
+54
+00:04:30,680 --> 00:04:35,159
+Inne technologie, takie jak przyszłościowe komputery kwantowe mogą tak zmniejszyć rozmiar,
+
+55
+00:04:35,160 --> 00:04:41,359
+że możliwe będzie zrobienie tego budowlą wielkości dużego miasta lub nawet mniejszą.
+
+56
+00:04:41,360 --> 00:04:46,279
+Ale nadal ktoś musi zbudować taki komputer.
+
+57
+00:04:46,280 --> 00:04:51,619
+Założenie 3. Zaawansowane cywilizacje nie niszczą same siebie.
+
+58
+00:04:51,620 --> 00:04:57,499
+Jeśli w którymś momencie wszystkie cywilizację dochodzą do samozagłady, koniec dyskusji!
+
+59
+00:04:57,500 --> 00:05:02,799
+Patrząc w kosmos oczekujesz wszechświata pełnego milionów cywilizacji,
+
+60
+00:05:02,800 --> 00:05:07,899
+ale nikogo nie widać. Powodem mogą być Wielkie Filtry.
+
+61
+00:05:07,900 --> 00:05:12,199
+Wielkie Filtry to bariery, które życie musi pokonać. Np.: wojna nuklearna,
+
+62
+00:05:12,200 --> 00:05:16,339
+asteroidy, zmiana klimatu, generator czarnych dziur.
+
+63
+00:05:16,340 --> 00:05:21,219
+Jeśli życie zawsze samo się kończy, to nie ma żadnych symulacji.
+
+64
+00:05:21,220 --> 00:05:26,219
+Wyjaśniliśmy to dokładnie w naszym filmie o paradoksie Fermi'ego.
+
+65
+00:05:26,220 --> 00:05:32,059
+Założenie 4. Super-zaawansowane cywilizacje chcą przeprowadzać symulacje.
+
+66
+00:05:32,060 --> 00:05:36,799
+Gdy mówimy o nadludzkich cywilizacjach, nie wiemy do końca z czym mamy do czynienia.
+
+67
+00:05:36,800 --> 00:05:42,359
+Mówienie, że wiemy czego chcą tak potężne istoty jest aroganckie.
+
+68
+00:05:42,360 --> 00:05:46,079
+Wyobraź sobie najmądrzejszą mrówkę na Ziemi żyjącą koło wesołego miasteczka.
+
+69
+00:05:46,080 --> 00:05:50,839
+Jest ciekawa co robią ludzie, więc próbujesz jej to wytłumaczyć.
+
+70
+00:05:50,840 --> 00:05:54,299
+Niestety, mrówka nie rozumie.
+
+71
+00:05:54,300 --> 00:06:02,239
+Koncept kolejek górskich, stania w kolejkach, wakacji i zabawy nie ma sensu dla mrówki i jej mrówczego życia.
+
+72
+00:06:02,240 --> 00:06:05,219
+Tak samo jest z nami i nadludzkimi istotami.
+
+73
+00:06:05,220 --> 00:06:07,639
+W porównaniu z nimi jesteśmy mrówkami.
+
+74
+00:06:07,640 --> 00:06:12,859
+Utrzymywanie symulacji dla zabawy lub nauki może być dla nich głupim pomysłem.
+
+75
+00:06:12,860 --> 00:06:17,299
+Ale... jeśli chcieliby przeprowadzić symulacje z jakichkolwiek powodów
+
+76
+00:06:17,300 --> 00:06:25,099
+i założenia 1, 2, 3 są prawdziwe - wtedy istnieje szansa, że żyjesz w symulacji.
+
+77
+00:06:25,100 --> 00:06:32,039
+Założenie 5. Jeśli jest wiele symulacji, to prawdopodobnie żyjesz w symulacji.
+
+78
+00:06:32,040 --> 00:06:34,519
+Jeśli istnieją symulowane cywilizacje,
+
+79
+00:06:34,520 --> 00:06:39,719
+to prawdopodobnie jest ich wiele. W końcu zakładamy, że nadludzkie istoty mają dostęp
+
+80
+00:06:39,720 --> 00:06:47,859
+do nielimitowanej mocy obliczeniowej, więc jeśli mają swoje symulacje to mają ich miliony albo i miliardy.
+
+81
+00:06:47,860 --> 00:06:52,699
+Jeśli istnieją miliardy symulowanych wszechświatów, istnieją biliony bilionów
+
+82
+00:06:52,700 --> 00:07:01,079
+symulowanych świadomości, co oznaczałoby, że większość kiedykolwiek żyjących istot to symulacje.
+
+83
+00:07:01,080 --> 00:07:07,059
+Więc, na każdą istotę z krwi i kości przypada miliard symulowanych.
+
+84
+00:07:07,060 --> 00:07:09,739
+[Vsauce 3] Jako iż nie mamy żadnego sposobu sprawdzenia czy jesteśmy symulowani...
+
+85
+00:07:09,740 --> 00:07:17,299
+czy też nie, szansa że jesteś jedną z 999.999.999 symulacji...
+
+86
+00:07:17,300 --> 00:07:22,819
+jest duża, więc to co uznajesz za "prawdziwe" może w ogóle nie być prawdziwe.
+
+87
+00:07:22,820 --> 00:07:24,699
+Możesz być...
+
+88
+00:07:24,700 --> 00:07:26,599
+symulowany.
+
+89
+00:07:26,600 --> 00:07:30,659
+To wszystko polega na wielu założeniach, których nie możemy teraz sprawdzić,
+
+90
+00:07:30,660 --> 00:07:34,639
+więc wielu naukowców nie zgadza się z tym eksperymentem myślowym.
+
+91
+00:07:34,640 --> 00:07:38,359
+Więc nie pal swojego domu szukając błędów w symulacji.
+
+92
+00:07:38,360 --> 00:07:42,039
+Jeśli jesteś symulowany, nie dużo zmieni się w twoim życiu.
+
+93
+00:07:42,040 --> 00:07:44,899
+Możesz być na małej planecie pędzącą przez wieczną nicość
+
+94
+00:07:44,900 --> 00:07:47,499
+albo symulacją komputerową.
+
+95
+00:07:47,500 --> 00:07:51,699
+Twoje istnienie nie staje się straszniejsze lub dziwniejsze.
+
+96
+00:07:51,700 --> 00:07:55,239
+Wszystko co możemy zrobić to przeżyć dobre życie i dobrze się bawić.
+
+97
+00:07:55,240 --> 00:07:59,299
+I mieć nadzieję, że jeśli rzeczywiście żyjemy w symulacji...
+
+98
+00:07:59,300 --> 00:08:04,379
+nikt nie potknie się o kabel zasilania.
+
+99
+00:08:04,380 --> 00:08:09,799
+O! O nie! Chyba właśnie odłączyłem symulację!
+
+100
+00:08:09,800 --> 00:08:16,019
+Ale co jeśli to bez znaczenia? Co jeśli żyjesz teraz w jednej? Co jeśli jesteś...
+
+101
+00:08:16,020 --> 00:08:18,179
+symulowany?
+
+102
+00:08:18,180 --> 00:08:24,279
+Jake na kanale Vsauce 3 właśnie to omawia. Kliknij tu, aby zobaczyć jego wideo i zasubskrybować jego kanał.
+
+103
+00:08:24,280 --> 00:08:33,459
+Napisy: Hubert Zimny (AppleCat)
+
+104
+00:08:33,460 --> 00:08:40,500
+Co tu jeszcze robisz? Przejdź na Vsauce 3, obejrzyj film i zasubskrybuj. Obiecamy, to warte twojego czasu!
+

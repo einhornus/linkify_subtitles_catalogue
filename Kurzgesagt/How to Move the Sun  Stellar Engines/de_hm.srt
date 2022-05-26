@@ -1,0 +1,652 @@
+1
+00:00:00,660 --> 00:00:03,719
+Im Universum steht nichts still.
+
+2
+00:00:03,720 --> 00:00:07,579
+In der Milchstraße umkreisen Millionen von Sternen das galaktische Zentrum.
+
+3
+00:00:07,580 --> 00:00:10,379
+Einige - wie unsere Sonne - sind recht beständig,
+
+4
+00:00:10,380 --> 00:00:14,759
+bleiben im Schnitt 30.000 Lichtjahre vom Zentrum entfernt
+
+5
+00:00:14,760 --> 00:00:19,379
+und brauchen für einen vollen Orbit etwa 230 Millionen Jahre.
+
+6
+00:00:19,380 --> 00:00:21,894
+Allerdings gleicht dieser Tanz keinem geordneten Ballett -
+
+7
+00:00:21,895 --> 00:00:25,244
+eher einer Eislaufbahn voller angetrunkener Kleinkinder.
+
+8
+00:00:25,245 --> 00:00:28,404
+Dieses Chaos machen aus der Galaxie einen gefährlichen Ort.
+
+9
+00:00:28,405 --> 00:00:31,454
+Unsere solare Nachbarschaft ist einer stetigen Veränderung unterworfen
+
+10
+00:00:31,455 --> 00:00:34,924
+und die Sterne bewegen sich mit Hunderten Kilometern pro Sekunde.
+
+11
+00:00:34,925 --> 00:00:37,964
+Nur die schieren Entfernungen zwischen den Objekten
+
+12
+00:00:37,965 --> 00:00:40,559
+schützen uns vor den Gefahren dort draußen.
+
+13
+00:00:40,560 --> 00:00:43,859
+Leider könnte uns das Glück in der Zukunft verlassen:
+
+14
+00:00:43,860 --> 00:00:47,579
+Irgendwann könnten wir die Supernovaexplosion eines sterbenden Sternes erleben.
+
+15
+00:00:47,580 --> 00:00:52,439
+Oder den Vorbeiflug eines massiven Objektes, der die Erde mit Asteroidenschauern überzieht.
+
+16
+00:00:52,440 --> 00:00:56,319
+Sollte es jemals zu so etwas kommen,  wüssten wir im Idealfall Tausende,
+
+17
+00:00:56,320 --> 00:00:59,339
+wenn nicht Millionen von Jahren vorher.
+
+18
+00:00:59,340 --> 00:01:02,119
+Und dennoch könnten wir nichts dagegen unternehmen.
+
+19
+00:01:02,120 --> 00:01:13,319
+Es sei denn, wir bewegten unser komplettes Sonnensystem aus der Schusslinie.
+
+20
+00:01:13,320 --> 00:01:16,399
+ 
+
+21
+00:01:16,400 --> 00:01:20,479
+Um unser Sonnensystem zu bewegen, brauchen wir einen Stellaren Motor,
+
+22
+00:01:20,480 --> 00:01:24,479
+eine Megastruktur, mit der man einen Stern durch die Galaxie lenken kann.
+
+23
+00:01:24,480 --> 00:01:27,479
+Es ist eines der Dinge, die von einer weiterentwickelten Zivilisation
+
+24
+00:01:27,480 --> 00:01:30,559
+mit Technologien auf Dysonsphären - Level gebaut werden könnte,
+
+25
+00:01:30,560 --> 00:01:34,119
+die sich mit ihrer Zukunft in einigen Millionen Jahren beschäftigt.
+
+26
+00:01:34,120 --> 00:01:39,979
+Aber wie sollen wir die Hunderttausende Objekte in unserem Sonnensystem überhaupt bewegen?
+
+27
+00:01:39,980 --> 00:01:43,019
+Glücklicherweise müssen wir uns damit nicht aufhalten.
+
+28
+00:01:43,020 --> 00:01:46,979
+Wir müssen nur die Sonne bewegen. Alles Andere ist per Gravitation mit Ihr verbunden
+
+29
+00:01:46,980 --> 00:01:51,199
+und folgt Ihr, wohin sie sich auch bewegen mag.
+
+30
+00:01:51,200 --> 00:01:55,919
+Es gibt unzählige Ideen davon, wie ein stellarer Motor aussehen oder funktionieren könnte.
+
+31
+00:01:55,920 --> 00:01:58,999
+Wie haben uns zwei ausgesucht, die unserem physikalischen Verständnis entsprechen
+
+32
+00:01:59,000 --> 00:02:01,519
+und theoretisch gebaut werden könnten.
+
+33
+00:02:01,520 --> 00:02:07,299
+Die einfachste Art eines stellaren Motors ist das "Shkadov Triebwerk" - ein gigantischer Spiegel.
+
+34
+00:02:07,300 --> 00:02:10,254
+Er arbeitet nach den Grundlagen der Raketentechnik.
+
+35
+00:02:10,255 --> 00:02:11,834
+Genauso wie normaler Brennstoff
+
+36
+00:02:11,835 --> 00:02:15,404
+besitzen die Photonen, die als Sonnenstrahlung abgegeben werden, einen Impuls.
+
+37
+00:02:15,405 --> 00:02:18,624
+Nicht viel, aber immerhin etwas. Wenn nun
+
+38
+00:02:18,625 --> 00:02:21,474
+beispielsweise ein Astronaut im Raum eine Taschenlampe einschaltete,
+
+39
+00:02:21,475 --> 00:02:24,754
+würde er fortgetrieben. Sehr, sehr langsam.
+
+40
+00:02:24,755 --> 00:02:27,884
+Ein stellarer Motor würde ein wenig effizienter als eine Taschenlampe arbeiten,
+
+41
+00:02:27,885 --> 00:02:31,894
+denn die Sonne produziert Unmengen von Photonen.
+
+42
+00:02:31,895 --> 00:02:35,274
+Die Grundidee hinter dem "Shkadov Triebwerk" ist es, mehr als
+
+43
+00:02:35,275 --> 00:02:37,944
+die Hälfte der Sonnestrahlung zu reflektieren um Schub zu erzeugen
+
+44
+00:02:37,945 --> 00:02:41,344
+und die Sonne langsam an den Ort zu treiben, den wir ihr bestimmt haben.
+
+45
+00:02:41,345 --> 00:02:44,114
+Damit das "Shkadov Triebwer" korrekt arbeiten kann, muss es
+
+46
+00:02:44,115 --> 00:02:47,944
+an einem Fixpunkt gehalten werden und darf die Sonne nicht umrunden.
+
+47
+00:02:47,945 --> 00:02:51,019
+Doch auch wenn die Anziehungskraft der Sonne versuchen wird, es anzuziehen,
+
+48
+00:02:51,020 --> 00:02:55,239
+wird der Spiegel durch den Strahlungsdruck der Sonne auf Abstand gehalten.
+
+49
+00:02:55,240 --> 00:02:58,279
+Das bedeutet, der Spiegel muss sehr leicht sein
+
+50
+00:02:58,280 --> 00:03:00,999
+und aus einer einen Mikrometer dicken Reflektionsfolie gemacht werden,
+
+51
+00:03:01,000 --> 00:03:03,459
+die aus Aluminiumlegierungen besteht.
+
+52
+00:03:03,460 --> 00:03:06,319
+Auch die Form des Spiegels ist wichtig.
+
+53
+00:03:06,320 --> 00:03:09,639
+Die Sonne in eine riesige Halbkugel zu hüllen würde nicht funktionieren,
+
+54
+00:03:09,640 --> 00:03:12,884
+denn so würde Licht wieder zur Sonne gelangen, sie weiter anheizen
+
+55
+00:03:12,885 --> 00:03:15,824
+und allerhand unangenehmer Probleme hervorrufen.
+
+56
+00:03:15,825 --> 00:03:18,824
+Stattdessen nutzen wie einen Parabolspiegel, der
+
+57
+00:03:18,825 --> 00:03:21,834
+den Großteil der Sonnenstrahlen um die Sonne herum in die selbe Richtung abstrahlt
+
+58
+00:03:21,835 --> 00:03:23,954
+und so den Schub maximiert.
+
+59
+00:03:23,955 --> 00:03:26,659
+Um zu verhindern, aus Versehen die Erde zu verbrennen oder einzufrieren,
+
+60
+00:03:26,660 --> 00:03:29,499
+weil sie zu viel oder zu wenig Sonnenlicht abbekommt, ist
+
+61
+00:03:29,500 --> 00:03:34,019
+der einzig sichere Platz für den Bau des Triebwerkes über den Polregionen der Sonne.
+
+62
+00:03:34,020 --> 00:03:37,879
+Das bedeutet, dass wir die Sonne nur vertikal zur Achse des Sonnensystems
+
+63
+00:03:37,880 --> 00:03:42,999
+und in einer einzigen Richtung innerhalb der Milchstraße bewegen können, was unsere Reiseziele etwas einschränkt
+
+64
+00:03:43,000 --> 00:03:45,214
+Aber damit wäre es auch schon getan.
+
+65
+00:03:45,215 --> 00:03:48,484
+Für eine Zivilisation, die eine Dysonsphäre erbauen kann
+
+66
+00:03:48,485 --> 00:03:51,744
+wäre so etwas ein relativ einfaches Unterfangen.
+
+67
+00:03:51,745 --> 00:03:56,034
+Nicht kompliziert - nur sehr schwer zu bauen.
+
+68
+00:03:56,035 --> 00:03:58,374
+Bei vollem Schub könnte das  Sonnensystem
+
+69
+00:03:58,375 --> 00:04:01,384
+wahrscheinlich um etwa 100 Lichtjahren in
+
+70
+00:04:01,385 --> 00:04:04,579
+einem Zeitraum von 230 Millionen Jahren verschoben werden.
+
+71
+00:04:04,580 --> 00:04:10,379
+In ein paar Billionen Jahren gäbe uns diese Methode nahezu vollständige Kontrolle der Sonnenumlaufbahn innerhalb der Galaxie
+
+72
+00:04:10,380 --> 00:04:13,279
+Aber auf kurze Sicht könnte dies nicht schnell genug sein, um erfolgreich
+
+73
+00:04:13,280 --> 00:04:15,374
+einer tödlichen Supernova ausweichen zu können.
+
+74
+00:04:15,375 --> 00:04:18,213
+Aus diesem Grund glauben wir, das geht noch besser.
+
+75
+00:04:18,214 --> 00:04:21,023
+Also fragten wir unseren befreundeten Astrophysiker,
+
+76
+00:04:21,024 --> 00:04:23,624
+ob er für dieses Video einen schnelleren
+
+77
+00:04:23,625 --> 00:04:25,394
+stellaren Motor erfinden könnte.
+
+78
+00:04:25,395 --> 00:04:28,214
+Das tat er, und schrieb eine Abhandlung darüber, die
+
+79
+00:04:28,215 --> 00:04:30,874
+in einem wissenschaftlichen Magazin veröffentlicht wurde.
+
+80
+00:04:30,875 --> 00:04:34,614
+Ihr findet den Artikel in unseren Quellenangaben.
+
+81
+00:04:34,615 --> 00:04:37,644
+Wir werden unseren neuen stellaren Motor
+
+82
+00:04:37,645 --> 00:04:39,374
+"Caplan Triebwerk" nennen.
+
+83
+00:04:39,375 --> 00:04:41,994
+Im Grunde funktioniert es wie eine ganz normale Rakete:
+
+84
+00:04:41,995 --> 00:04:45,264
+schiebe Dich mit dem Verbrennungsprodukt in die entgegengesetzte Richtung.
+
+85
+00:04:45,265 --> 00:04:48,224
+Es handelt sich um eine riesige, plattformartige Raumstation,
+
+86
+00:04:48,225 --> 00:04:51,274
+die, angetrieben von einer Dysonsphäre Material von der Sonne abzweigt,
+
+87
+00:04:51,275 --> 00:04:52,674
+um Kernfusionen durchzuführen.
+
+88
+00:04:52,675 --> 00:04:55,559
+Sie gibt einen Partikelstrahl mit etwa einem Prozent der Lichtgeschwindigkeit
+
+89
+00:04:55,560 --> 00:04:59,399
+ab, der aus dem Sonnensystem herausstrahlt.
+
+90
+00:04:59,400 --> 00:05:02,304
+Ein zweiter Strahl schiebt die Sonne mit -
+
+91
+00:05:02,305 --> 00:05:03,854
+wie ein Schlepperboot.
+
+92
+00:05:03,855 --> 00:05:06,924
+Das "Caplan Triebwerk" benötigt eine Unmenge an Treibstoff - Millionen Tonnen
+
+93
+00:05:06,925 --> 00:05:08,754
+Treibstoff pro Sekunde.
+
+94
+00:05:08,755 --> 00:05:11,554
+Um den Treibstoff einzusammeln, benutzt unser Triebwerk riesige
+
+95
+00:05:11,555 --> 00:05:14,799
+elektromagnetische Felder, um Wasserstoff und Helium aus dem
+
+96
+00:05:14,800 --> 00:05:19,299
+Sonnenwind in den Motor zu leiten.
+
+97
+00:05:19,300 --> 00:05:22,699
+Allerdings reichen die Sonnenwinde als alleiniger Treibstoff nicht aus.
+
+98
+00:05:22,700 --> 00:05:25,254
+Und deshalb brauchen wir die Dysonsphäre.
+
+99
+00:05:25,255 --> 00:05:28,059
+Mit ihrer Hilfe kann Sonnenlicht wieder zurück zur
+
+100
+00:05:28,060 --> 00:05:29,999
+Sonnenoberfläche reflektiert werden.
+
+101
+00:05:30,000 --> 00:05:32,959
+Damit werden kleine Areale auf unglaubliche Temperaturen erhitzt
+
+102
+00:05:32,960 --> 00:05:36,179
+und Milliarden Tonnen an Materie von der Sonne abgehoben.
+
+103
+00:05:36,180 --> 00:05:38,499
+Dieses Material kann gesammelt und in
+
+104
+00:05:38,500 --> 00:05:42,399
+Wasserstoff sowie Helium getrennt werden.
+
+105
+00:05:42,400 --> 00:05:47,119
+Das Helium wird mit unglaublicher Wucht in thermonuklearen Fusionsreaktoren "verbrannt".
+
+106
+00:05:47,120 --> 00:05:50,254
+Ein Strahl radioaktiven Sauerstoffs mit einer Temperatur von
+
+107
+00:05:50,255 --> 00:05:53,234
+beinahe einer Million Grad wird abgegeben und dient so als
+
+108
+00:05:53,235 --> 00:05:56,444
+Hauptantrieb für unseren stellaren Motor.
+
+109
+00:05:56,445 --> 00:05:59,674
+Um zu verhinder, dass der Motor in die Sonne stürzt,
+
+110
+00:05:59,675 --> 00:06:02,024
+muss er sich ausbalancieren.
+
+111
+00:06:02,025 --> 00:06:04,874
+Dazu beschleunigen wir den gesammelten Wasserstoff
+
+112
+00:06:04,875 --> 00:06:07,474
+mittels elektromagnetischer Felder aus Teilchenbeschleunigern
+
+113
+00:06:07,475 --> 00:06:11,204
+und schießen ihn als Partikelstrahl zurück zur Sonne.
+
+114
+00:06:11,205 --> 00:06:14,054
+Dies stabilisiert das Triebwerk und leitet den gewonnenen Schub
+
+115
+00:06:14,055 --> 00:06:16,914
+unseres Motors zurück zur Sonne.
+
+116
+00:06:16,915 --> 00:06:19,724
+Dieser Motor kann die Sonne in nur etwa einer Millionen Jahren
+
+117
+00:06:19,725 --> 00:06:22,764
+um ungefähr 50 Lichtjahre verschieben - mehr als genug
+
+118
+00:06:22,765 --> 00:06:25,179
+um einer drohenden Supernova zu entkommen.
+
+119
+00:06:25,180 --> 00:06:28,059
+Bei vollem Schub kann unser Sonnensystem
+
+120
+00:06:28,060 --> 00:06:30,579
+innerhalb von 10 Millionen Jahren
+
+121
+00:06:30,580 --> 00:06:32,824
+einen komplett gegenläufigen Orbit einnehmen.
+
+122
+00:06:32,825 --> 00:06:36,344
+Aber .. Moment mal: verbrauchen wir dadurch nicht unsere Sonne?
+
+123
+00:06:36,345 --> 00:06:39,579
+Zum Glück ist unsere Sonne ein so massiver Körper,
+
+124
+00:06:39,580 --> 00:06:42,879
+dass selbst Milliarden von Tonnen an verbrauchtem Material kaum ins Gewicht fallen.
+
+125
+00:06:42,880 --> 00:06:47,199
+Im Grunde könnte solch eine Megastruktur die Lebensdauer der Sonne sogar verlängern,
+
+126
+00:06:47,200 --> 00:06:50,359
+denn Sterne mit geringerer Masse brennen schneller aus.
+
+127
+00:06:50,360 --> 00:06:52,119
+So wird unser Sonnensystem für weitere
+
+128
+00:06:52,120 --> 00:06:55,004
+Milliarden von Jahren bewohnbar bleiben.
+
+129
+00:06:55,005 --> 00:06:57,759
+Mit einem "Caplan Triebwerk" könnten wir aus unserem kompletten Sonnensystem
+
+130
+00:06:57,760 --> 00:07:00,839
+unser eigenes, eigenständiges Raumschiff machen.
+
+131
+00:07:00,840 --> 00:07:04,064
+Zum Beispiel könnten wir rückwärts durch die Milchstraße reisen
+
+132
+00:07:04,065 --> 00:07:06,064
+und Hunderte, ja Tausende anderer Sonnensysteme koloniesieren,
+
+133
+00:07:06,065 --> 00:07:08,619
+während wir an ihnen vorüber reisen.
+
+134
+00:07:08,620 --> 00:07:12,034
+Es wäre sogar möglich, ganz aus der Galaxie zu flüchten
+
+135
+00:07:12,035 --> 00:07:14,879
+und über die Milchstraße hinaus zu reisen.
+
+136
+00:07:14,880 --> 00:07:17,779
+Stellare Motoren sind die Art Maschinen, die von Zivilisationen gebaut werden, welche
+
+137
+00:07:17,780 --> 00:07:20,659
+nicht in Zeiträumen von Jahren oder Jahrzehnten,
+
+138
+00:07:20,660 --> 00:07:22,999
+sondern Äonen denken.
+
+139
+00:07:23,000 --> 00:07:25,594
+Und da wir wissen, dass unsere Sonne irgendwann verlöschen wird
+
+140
+00:07:25,595 --> 00:07:28,594
+könnte ein stellarer Motor den in ferner Zukunft folgenden Generationen
+
+141
+00:07:28,595 --> 00:07:31,674
+der Menschheit die Möglichkeit geben, andere Sterne zu bereisen, ohne auch nur
+
+142
+00:07:31,675 --> 00:07:34,894
+einmal in den grausigen, dunklen Abgrund des
+
+143
+00:07:34,895 --> 00:07:38,004
+interstellaren Raumes eintauchen zu müssen.
+
+144
+00:07:38,005 --> 00:07:40,984
+Bis wir einen stellaren Motor bauen, treiben wir jedoch herum
+
+145
+00:07:40,985 --> 00:07:44,314
+und sind den Launen der galaktischen See ausgesetzt
+
+146
+00:07:44,315 --> 00:07:47,274
+Wir mögen den uns aufgetanen Weg nicht gutheissen,
+
+147
+00:07:47,275 --> 00:07:50,339
+doch vielleicht werden unsere Nachfahren die Segel setzen
+
+148
+00:07:50,340 --> 00:07:56,019
+und die folgenden Milliarden Jahre als interstellare Spezies verbringen
+
+149
+00:07:56,020 --> 00:07:59,019
+Dies war das unser letztes Video für das Jahr 2019
+
+150
+00:07:59,020 --> 00:08:01,519
+in der Ära der Menschheit.
+
+151
+00:08:01,520 --> 00:08:04,254
+Und was für ein Jahr das war. So viel passierte
+
+152
+00:08:04,255 --> 00:08:07,594
+so vielen Leuten an so vielen Orten.
+
+153
+00:08:07,595 --> 00:08:11,074
+Kalender und Feiertage sind nur Einbildungen
+
+154
+00:08:11,075 --> 00:08:13,419
+aber sie helfen uns, unsere Leben in Abschnitte zu unterteilen
+
+155
+00:08:13,420 --> 00:08:15,639
+die unser Hirn begreifen kann.
+
+156
+00:08:15,640 --> 00:08:18,644
+Wir verlassen das Jahr 2019 mit einer seltsamen Mischung
+
+157
+00:08:18,645 --> 00:08:21,139
+aus Enttäuschung und Hoffnung.
+
+158
+00:08:21,140 --> 00:08:23,864
+Die Welt ist ziemlich kaputt, aber
+
+159
+00:08:23,865 --> 00:08:27,239
+wir können sie reparieren. In ein paar Tagen wird dieses Jahr vorüber sein.
+
+160
+00:08:27,240 --> 00:08:29,979
+Und wir bekommen eine neue Chance.
+
+161
+00:08:29,980 --> 00:08:33,119
+Danke, dass Ihr unsere Videos angeschaut habt. Und dafür, uns
+
+162
+00:08:33,120 --> 00:08:34,879
+für so viele Jahre zu begleiten.
+
+163
+00:08:34,880 --> 00:08:37,260
+2020 sehen wir uns wieder.
+

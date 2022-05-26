@@ -1,0 +1,396 @@
+1
+00:00:01,180 --> 00:00:07,799
+Le terrorisme est vraiment effrayant. Surtout quand il se passe près de chez nous et non dans un endroit lointain.
+
+2
+00:00:07,800 --> 00:00:11,879
+Personne n'aime être effrayé et nous étions pressés de faire disparaître cette peur.
+
+3
+00:00:11,880 --> 00:00:14,499
+Alors nous avons demandé plus de sécurité.
+
+4
+00:00:14,500 --> 00:00:19,699
+Dans la dernière décennie, il est devenu de plus en plus normal pour les libertés civiles d'être érodées
+
+5
+00:00:19,700 --> 00:00:22,959
+et pour les agences gouvernementales d'espionner les citoyens.
+
+6
+00:00:22,960 --> 00:00:25,759
+De collecter et de stocker ces informations personnelles.
+
+7
+00:00:25,760 --> 00:00:30,999
+Qu'importe que vous soyez plus pour la politique de droite ou de gauche, cela nous touche tous.
+
+8
+00:00:31,000 --> 00:00:34,999
+C'est pourquoi nous devons jeter un œil sur les données, et nous demander honnêtement :
+
+9
+00:00:35,000 --> 00:00:47,959
+Tout ceci a-t-il réellement amélioré notre sécurité ?
+
+10
+00:00:47,960 --> 00:00:49,719
+A la suite du 11septembre,
+
+11
+00:00:49,720 --> 00:00:53,639
+le gouvernement américain conclut que la loi n'avait pas évolué aussi rapidement que la technologie.
+
+12
+00:00:53,640 --> 00:01:00,159
+Il créa le programme de surveillance terroriste, initialement dans le but d'intercepter les communications liées à Al-Qaïda.
+
+13
+00:01:00,160 --> 00:01:03,819
+Les officiels étaient certains que si le programme avait été mis en place avant le 9/11,
+
+14
+00:01:03,820 --> 00:01:05,899
+les pirates de l'air auraient pu être arrêtés.
+
+15
+00:01:05,900 --> 00:01:10,599
+Mais rapidement, les nouveaux outils furent aussi utilisés pour prouver la culpabilité par association.
+
+16
+00:01:10,600 --> 00:01:16,419
+Le F.B.I. utilisa les archives de l'immigration pour identifier les ressortissants étrangers arabes et  musulmans aux États-Unis.
+
+17
+00:01:16,420 --> 00:01:20,119
+Sur ce principe, 80 000 individus ont dû s'inscrire
+
+18
+00:01:20,120 --> 00:01:22,979
+8 000 autres ont été soumis à des interviews du F.B.I.
+
+19
+00:01:22,980 --> 00:01:25,919
+et plus de 5 000 ont été incarcérés en détention préventive.
+
+20
+00:01:25,920 --> 00:01:27,959
+Pas un seul terroriste ne fut découvert...
+
+21
+00:01:27,960 --> 00:01:33,299
+...dans ce qui fût appelé la campagne nationale de catalogage ethnique la plus agressive depuis la Seconde Guerre Mondiale.
+
+22
+00:01:33,300 --> 00:01:39,139
+La collecte et le stockage de données personnelles systématique des citoyens pour les agences gouvernementales
+
+23
+00:01:39,140 --> 00:01:43,019
+a été rendu clair par la fuite des documents de Snowden en 2013.
+
+24
+00:01:43,020 --> 00:01:48,239
+Ils montrèrent à quel point la N.S.A. peut demander des informations sur les utilisateurs à des firmes comme Microsoft ou Google
+
+25
+00:01:48,240 --> 00:01:51,739
+en plus de leurs acquisitions quotidiennes de données sur le trafic internet civil
+
+26
+00:01:51,740 --> 00:01:54,579
+comme le contenu des e-mails et les listes de contacts.
+
+27
+00:01:54,580 --> 00:01:57,259
+Ainsi, au lieu de se focaliser sur les criminels
+
+28
+00:01:57,260 --> 00:02:00,199
+les gouvernements tournent de plus en plus leur attention vers...
+
+29
+00:02:00,200 --> 00:02:01,679
+...tout le monde.
+
+30
+00:02:01,680 --> 00:02:04,099
+Mais si vous cherchez une aiguille dans une botte de foin,
+
+31
+00:02:04,100 --> 00:02:08,698
+ajouter plus de foin à la botte ne va pas simplifier la recherche de l'aiguille.
+
+32
+00:02:08,699 --> 00:02:12,359
+Dans le pays, tous les succès récents annoncés par la N.S.A
+
+33
+00:02:12,360 --> 00:02:14,819
+sont venus de surveillances classiques des cibles.
+
+34
+00:02:14,820 --> 00:02:16,139
+Malgré de grands espoirs,
+
+35
+00:02:16,140 --> 00:02:20,059
+le programme de surveillance de la N.S.A. n'as pas stoppé une seule attaque de terrorisme majeur.
+
+36
+00:02:20,060 --> 00:02:25,259
+Par exemple, un des terroriste du Marathon de Boston était déjà une cible du F.B.I.
+
+37
+00:02:25,260 --> 00:02:28,779
+Ainsi, ce dont nous avons besoin n'est pas encore plus de données aléatoires,
+
+38
+00:02:28,780 --> 00:02:32,619
+mais de meilleurs moyens de compréhension et d'utilisation des informations dont nous disposons.
+
+39
+00:02:32,620 --> 00:02:36,359
+Les agences d'espionnages cherchent également à entraver le chiffrement.
+
+40
+00:02:36,360 --> 00:02:37,739
+Au début de 2016,
+
+41
+00:02:37,740 --> 00:02:43,159
+le F.B.I. demanda à Apple de créer un programme "backdoor" pour désactiver le chiffrement de l'iPhone d'un terroriste.
+
+42
+00:02:43,160 --> 00:02:45,059
+Apple a refusé publiquement,
+
+43
+00:02:45,060 --> 00:02:50,539
+non seulement parce que cet outil pourrait être utilisé pour affaiblir définitivement l'intimité de citoyens respectueux des lois du monde entier,
+
+44
+00:02:50,540 --> 00:02:52,759
+mais aussi par crainte de laisser le champ libre au gouvernement
+
+45
+00:02:52,760 --> 00:02:56,399
+qui pourrait alors demander l'accès à des technologies utilisées par des milliards de personnes.
+
+46
+00:02:56,400 --> 00:03:00,099
+Une crainte partagée par les experts de la sécurité et par les cryptographes.
+
+47
+00:03:00,100 --> 00:03:01,599
+Quelques semaines plus tard
+
+48
+00:03:01,600 --> 00:03:04,919
+le F.B.I. révéla qu'ils avaient piraté le téléphone eux-même,
+
+49
+00:03:04,920 --> 00:03:08,679
+admettant simplement avoir menti au public sur le besoin d'une "backdoor".
+
+50
+00:03:08,680 --> 00:03:14,199
+Ce qui soulève la question du degré de confiance que l'on peut accorder aux agences d'espionnage dans le débat sur l'intimité et la sécurité.
+
+51
+00:03:14,200 --> 00:03:19,879
+Considérant surtout que la N.S.A.,  par exemple, a déjà la capacité d'activer le microphone de votre iPhone
+
+52
+00:03:19,880 --> 00:03:23,559
+ou d'activer la caméra de votre ordinateur portable, sans que vous ne le remarquiez.
+
+53
+00:03:23,560 --> 00:03:26,199
+Les inquiétudes à ce sujet sont souvent accueillies par l'argument suivant:
+
+54
+00:03:26,200 --> 00:03:29,219
+"Si vous n'avez rien à cacher, vous n'avez rien à craindre."
+
+55
+00:03:29,220 --> 00:03:32,819
+Mais ce raisonnement ne fait que créer un climat d'oppression.
+
+56
+00:03:32,820 --> 00:03:35,579
+Vouloir garder certaines parties de votre vie privée
+
+57
+00:03:35,580 --> 00:03:38,159
+Ne veut pas dire que vous faites quelque chose de mal.
+
+58
+00:03:38,160 --> 00:03:40,539
+En ce moment, nous vivons dans une démocratie.
+
+59
+00:03:40,540 --> 00:03:44,259
+Mais imaginez les dégâts que la mauvaise personne pourrait faire avec toutes nos données
+
+60
+00:03:44,260 --> 00:03:47,339
+et un accès aussi facile à nos machines.
+
+61
+00:03:47,340 --> 00:03:54,359
+Les lois anti-terrorisme permettent aux autorités d'enquêter et de punir les crimes non reliés au terrorisme plus agressivement.
+
+62
+00:03:54,360 --> 00:03:58,199
+Si vous donnez aux forces de l'ordre des outils puissants, elles les utiliseront.
+
+63
+00:03:58,200 --> 00:04:01,079
+C'est pour ça que la surveillance démocratique est si importante.
+
+64
+00:04:01,080 --> 00:04:03,959
+Même si ces outils et ces lois ne sont pas utilisées contre vous aujourd'hui
+
+65
+00:04:03,960 --> 00:04:05,999
+ils pourraient l'être demain.
+
+66
+00:04:06,000 --> 00:04:07,159
+Par exemple :
+
+67
+00:04:07,160 --> 00:04:09,819
+à la suite de les attaques de Novembre 2015 à Paris
+
+68
+00:04:09,820 --> 00:04:13,199
+la France a élargi ses lois contre le terrorisme, pourtant déjà bien fournies
+
+69
+00:04:13,200 --> 00:04:18,458
+en donnant aux forces de l'ordre de plus grands pouvoirs pour conduire des saisies de maisons et placer des personnes sous détention à domicile.
+
+70
+00:04:18,459 --> 00:04:23,059
+En quelques semaines, des preuves que ces pouvoirs étaient utilisés pour des buts non louables apparurent,
+
+71
+00:04:23,060 --> 00:04:25,979
+comme réprimer des manifestations sur le changement climatique.
+
+72
+00:04:25,980 --> 00:04:32,719
+Les gouvernements d'Espagne, de Hongrie et de Pologne ont introduit des lois plus restrictives sur la liberté de réunion et d'expression.
+
+73
+00:04:32,720 --> 00:04:34,979
+La liberté d'expression et de la presse en Turquie
+
+74
+00:04:34,980 --> 00:04:41,259
+ont été sérieusement sapées pendant les dernières années avec des individus condamnées à la prison pour avoir critiqué le gouvernement.
+
+75
+00:04:41,260 --> 00:04:44,999
+Rien de tout cela ne nous aide à combattre activement le terrorisme.
+
+76
+00:04:45,000 --> 00:04:48,579
+La motivation derrière tout ça est peut être bonne, même noble
+
+77
+00:04:48,580 --> 00:04:51,879
+Mais si nous laissons le gouvernement élu limiter notre liberté personnelle
+
+78
+00:04:51,880 --> 00:04:53,919
+alors les terroristes auront gagné.
+
+79
+00:04:53,920 --> 00:04:56,219
+Encore pire, si nous ne sommes pas prudents
+
+80
+00:04:56,220 --> 00:04:59,699
+nous pourrions progressivement évoluer vers un état de surveillance
+
+81
+00:04:59,700 --> 00:05:01,879
+Les données sont très claires,
+
+82
+00:05:01,880 --> 00:05:04,699
+l'érosion des droits et la surveillance de masse
+
+83
+00:05:04,700 --> 00:05:07,639
+n'a pas engendré de succès significatif jusqu'ici
+
+84
+00:05:07,640 --> 00:05:10,779
+alors que cela a changé la nature de notre société.
+
+85
+00:05:10,780 --> 00:05:13,699
+Le terrorisme est un problème compliqué...
+
+86
+00:05:13,700 --> 00:05:16,139
+...sans solution simple.
+
+87
+00:05:16,140 --> 00:05:20,999
+Aucun opérateur de sécurité peut empêcher quelques personnes de construire une bombe dans leur cave.
+
+88
+00:05:21,000 --> 00:05:24,299
+Nous devrions garder le principe de proportionnalité à l'esprit.
+
+89
+00:05:24,300 --> 00:05:30,039
+Créer des clés-maîtresses pour accéder à des millions de téléphones est différent de fouiller une maison.
+
+90
+00:05:30,040 --> 00:05:31,419
+Dans la plupart des pays
+
+91
+00:05:31,420 --> 00:05:35,979
+la loi permet un grand spectre d'actions, incluant la surveillance ciblée.
+
+92
+00:05:35,980 --> 00:05:40,739
+Pour tirer profit de ce potentiel déjà existant, nous avons besoin de meilleures coopérations internationales.
+
+93
+00:05:40,740 --> 00:05:44,139
+Et plus de sécurité efficace et de politiques étrangères.
+
+94
+00:05:44,140 --> 00:05:46,379
+De meilleures applications de nos lois actuelles
+
+95
+00:05:46,380 --> 00:05:50,159
+plutôt que de nouvelles, plus strictes, qui amoindrissent nos libertés.
+
+96
+00:05:50,160 --> 00:05:54,559
+Ne laissons pas, par peur, laisser se faire la destruction de ce dont nous sommes le plus fier :
+
+97
+00:05:54,560 --> 00:06:00,279
+la démocratie, nos droits fondamentaux et nos libertés.
+
+98
+00:06:00,280 --> 00:06:04,139
+Cette vidéo a été rendue possible par votre support sur Patreon.com
+
+99
+00:06:04,140 --> 00:06:07,380
+et la Plateforme des Libertés Européennes, Liberties.eu
+

@@ -1,0 +1,456 @@
+1
+00:00:01,440 --> 00:00:05,099
+De fundamentele valuta van ons universum is energie.
+
+2
+00:00:05,100 --> 00:00:10,839
+Energie zorgt voor licht, zorgt voor onze oogsten, en drijft onze computers aan
+
+3
+00:00:10,840 --> 00:00:12,719
+We kunnen het op vele manieren bemachtigen:
+
+4
+00:00:12,720 --> 00:00:17,619
+Fossiele brandstoffen verbranden,  atomen splijten of door middel van zonnecellen
+
+5
+00:00:17,620 --> 00:00:20,179
+Maar aan alles zit een nadeel.
+
+6
+00:00:20,180 --> 00:00:22,519
+Fossiele brandstoffen zijn erg giftig,
+
+7
+00:00:22,520 --> 00:00:25,139
+nuclear afval is... Nou ja... Nucleair afval,
+
+8
+00:00:25,140 --> 00:00:29,579
+en er zijn nog niet genoeg batterijen om zonlicht op te slaan voor regenachtige dagen.
+
+9
+00:00:29,580 --> 00:00:34,419
+En toch lijkt de zon oneindig veel gratis energie te hebben.
+
+10
+00:00:34,420 --> 00:00:37,339
+Is er een manier waarop we een zon op de aarde kunnen bouwen?
+
+11
+00:00:37,340 --> 00:00:49,099
+Kunnen wij een ster in een fles bewaren?
+
+12
+00:00:49,100 --> 00:00:51,879
+De zon schijnt door nucleaire fusie.
+
+13
+00:00:51,880 --> 00:00:54,579
+Kort gezegd, fusie is een thermonucleair proces.
+
+14
+00:00:54,580 --> 00:00:57,299
+Betekende dat de ingrediënten extreem heet moeten zijn,
+
+15
+00:00:57,300 --> 00:01:00,859
+heet genoeg om de atomen te beroven van hun elektronen.
+
+16
+00:01:00,860 --> 00:01:05,959
+Hierdoor ontstaat een plasma waarin nucleï en elektroden vrij rondstuiteren.
+
+17
+00:01:05,960 --> 00:01:09,919
+Omdat protonen allemaal positief geladen zijn, stoten ze elkaar af.
+
+18
+00:01:09,920 --> 00:01:11,979
+Om deze afstoting te overwinnen
+
+19
+00:01:11,980 --> 00:01:14,679
+moeten de deeltjes heel snel bewegen.
+
+20
+00:01:14,680 --> 00:01:18,619
+In deze context betekent heel snel, heel heet.
+
+21
+00:01:18,620 --> 00:01:20,659
+Wel miljoenen graden.
+
+22
+00:01:20,660 --> 00:01:23,159
+Sterren spelen vals om deze temperaturen te bereiken.
+
+23
+00:01:23,160 --> 00:01:25,899
+Ze zijn zo groot dat de druk in hun kernen
+
+24
+00:01:25,900 --> 00:01:28,659
+de warmte genereert die nodig is om de nucleï samen te persen
+
+25
+00:01:28,660 --> 00:01:30,779
+totdat ze samensmelten en fuseren
+
+26
+00:01:30,780 --> 00:01:35,239
+waardoor zwaardere nucleï worden gevormd en in het proces ook energie wordt afgegeven.
+
+27
+00:01:35,240 --> 00:01:38,759
+Het is deze energie-afgifte die wetenschappers hopen te gebruiken
+
+28
+00:01:38,760 --> 00:01:40,759
+in een nieuwe generatie van energiecentrales:
+
+29
+00:01:40,760 --> 00:01:42,899
+de fusiereactor.
+
+30
+00:01:42,900 --> 00:01:47,799
+Op aarde is het niet mogelijk om deze hardhandige manier toe te passen om fusie te laten plaatsvinden
+
+31
+00:01:47,800 --> 00:01:51,479
+dus als we een generator willen bouwen die energie opwekt door fusie
+
+32
+00:01:51,480 --> 00:01:53,339
+moeten we het slim spelen.
+
+33
+00:01:53,340 --> 00:01:56,039
+Tot op heden hebben wetenschappers twee methodes ontwikkeld
+
+34
+00:01:56,040 --> 00:01:58,999
+om plasma heet genoeg te krijgen om fusie plaats te laten vinden.
+
+35
+00:01:59,000 --> 00:02:01,499
+De eerste soort reactor gebruikt een magnetisch veld
+
+36
+00:02:01,500 --> 00:02:03,939
+om het plasma in een donut-vormige kamer te persen
+
+37
+00:02:03,940 --> 00:02:06,359
+waar de reacties plaatsvinden.
+
+38
+00:02:06,360 --> 00:02:08,939
+Deze magnetische begrenzingsreactoren
+
+39
+00:02:08,940 --> 00:02:11,199
+zoals de ITER reactor in Frankrijk
+
+40
+00:02:11,200 --> 00:02:14,799
+gebruiken supergeleidende elektromagneten gekoeld met vloeibaar helium
+
+41
+00:02:14,800 --> 00:02:17,339
+tot een paar graden boven het absolute nulpunt.
+
+42
+00:02:17,340 --> 00:02:21,959
+Dit betekent dat ze één van de grootste temperatuurverschillen hebben in het bekende universum.
+
+43
+00:02:21,960 --> 00:02:24,759
+het tweede type, genaamd inertiale begrenzing
+
+44
+00:02:24,760 --> 00:02:27,079
+gebruikt pulsen van supersterke lasers
+
+45
+00:02:27,080 --> 00:02:28,979
+om het oppervlak van een eenheid brandstof te verhitten
+
+46
+00:02:28,980 --> 00:02:33,219
+waardoor het implodeert en een korte tijd heet en dicht genoeg is om te fuseren.
+
+47
+00:02:33,220 --> 00:02:36,499
+Een van de krachtigste lasers in de wereld
+
+48
+00:02:36,500 --> 00:02:41,499
+wordt gebruikt voor fusie-experimenten in de National Ignition Facility in de VS.
+
+49
+00:02:41,500 --> 00:02:44,579
+Deze en vergelijkbare experimenten over de hele wereld
+
+50
+00:02:44,580 --> 00:02:46,579
+zijn vandaag de dag alleen experimenten.
+
+51
+00:02:46,580 --> 00:02:50,799
+wetenschappers zijn nog bezig met het ontwikkelen van de technologie.
+
+52
+00:02:50,800 --> 00:02:52,559
+Alhoewel ze fusie kunnen laten plaatsvinden
+
+53
+00:02:52,560 --> 00:02:55,719
+kost het momenteel meer energie om de experimenten uit te voeren
+
+54
+00:02:55,720 --> 00:02:58,259
+dan ze opleveren door fusie.
+
+55
+00:02:58,260 --> 00:03:02,099
+De methode heeft een lange weg af te leggen voordat het commercieel haalbaar is.
+
+56
+00:03:02,100 --> 00:03:04,499
+En misschien gebeurt dat ook wel nooit.
+
+57
+00:03:04,500 --> 00:03:09,239
+Het is misschien gewoon onmogelijk om een winstgevende fusiereactor te maken op aarde.
+
+58
+00:03:09,240 --> 00:03:10,579
+Maar als we zo ver komen
+
+59
+00:03:10,580 --> 00:03:13,639
+zou het zo efficiënt zijn dat één glas zeewater
+
+60
+00:03:13,640 --> 00:03:17,859
+gebruikt kan worden om evenveel energie te produceren als het verbranden van een een vat olie
+
+61
+00:03:17,860 --> 00:03:20,299
+zonder noemenswaardige afvalstoffen.
+
+62
+00:03:20,300 --> 00:03:24,359
+Dit is omdat fusiereactoren waterstof of helium als brandstof gebruiken.
+
+63
+00:03:24,360 --> 00:03:27,179
+En zeewater zit vol met waterstof.
+
+64
+00:03:27,180 --> 00:03:29,659
+Maar niet zomaar elk waterstofje is geschikt.
+
+65
+00:03:29,660 --> 00:03:33,979
+Specifieke isotopen met extra neutronen, Deuterium en Tritium,
+
+66
+00:03:33,980 --> 00:03:36,739
+zijn nodig om de juiste reacties tot stand te brengen.
+
+67
+00:03:36,740 --> 00:03:40,859
+Deuterium is stabiel en kan in overvloed gevonden worden in zeewater.
+
+68
+00:03:40,860 --> 00:03:43,219
+Tritium echter, is wat lastiger.
+
+69
+00:03:43,220 --> 00:03:44,199
+Het is radioactief,
+
+70
+00:03:44,200 --> 00:03:47,619
+en er zou maar 20kg van kunnen zijn op aarde;
+
+71
+00:03:47,620 --> 00:03:49,259
+hoofdzakelijk in kernkoppen
+
+72
+00:03:49,260 --> 00:03:51,659
+waardoor het ongelooflijk duur is.
+
+73
+00:03:51,660 --> 00:03:56,439
+Dus we zouden een andere fusiemaatje voor Deuterium nodig kunnen hebben, in plaats van Tritium.
+
+74
+00:03:56,440 --> 00:04:00,699
+Helium-3, een isotoop van Helium, zou een goede vervanger kunnen zijn.
+
+75
+00:04:00,700 --> 00:04:04,479
+Helaas is dat ook ongelooflijk zeldzaam op aarde.
+
+76
+00:04:04,480 --> 00:04:08,679
+Maar hier zou de maan het antwoord kunnen bieden.
+
+77
+00:04:08,680 --> 00:04:11,059
+Gedurende miljarden jaren zouden zonnewinden
+
+78
+00:04:11,060 --> 00:04:14,879
+enorme voorraden Helium-3 opgebouwd kunnen hebben op de maan.
+
+79
+00:04:14,880 --> 00:04:19,159
+In plaats van Helium-3 te maken, kunnen we het mijnen.
+
+80
+00:04:19,160 --> 00:04:21,439
+Als we Helium-3 uit het maanstof zouden kunnen zeven,
+
+81
+00:04:21,440 --> 00:04:25,559
+hebben we genoeg brandstof om de hele wereld voor duizenden jaren van energie te voorzien.
+
+82
+00:04:25,560 --> 00:04:30,879
+Nog een argument om een basis op de maan te bouwen, mocht je nog niet overtuigd zijn.
+
+83
+00:04:30,880 --> 00:04:37,319
+Misschien denk je dat een mini-zon bouwen nog steeds behoorlijk gevaarlijk klinkt.
+
+84
+00:04:37,320 --> 00:04:42,559
+Maar het zou eigenlijk veel veiliger zijn dan de meeste andere energiecentrales.
+
+85
+00:04:42,560 --> 00:04:45,139
+Een fusiereactor is niet zoals een kerncentrale,
+
+86
+00:04:45,140 --> 00:04:47,439
+die voor een kernramp zou kunnen zorgen.
+
+87
+00:04:47,440 --> 00:04:51,279
+Als de behuizing niet meer zou werken, zou het plasma uitzetten en afkoelen
+
+88
+00:04:51,280 --> 00:04:53,279
+en zou de reactie aflopen.
+
+89
+00:04:53,280 --> 00:04:57,259
+Kortom, het is geen bom.
+
+90
+00:04:57,260 --> 00:04:59,839
+De uitstoot van radioactieve brandstof, zoals Tritium
+
+91
+00:04:59,840 --> 00:05:01,919
+kan een gevaar vormen voor het milieu.
+
+92
+00:05:01,920 --> 00:05:05,099
+Tritium kan binden met zuurstof waardoor radioactief water ontstaat
+
+93
+00:05:05,100 --> 00:05:08,959
+wat gevaarlijk kan zijn als het in het milieu terechtkomt.
+
+94
+00:05:08,960 --> 00:05:13,499
+Gelukkig is er nooit meer dan een paar gram tritium in gebruik op elk gegeven moment
+
+95
+00:05:13,500 --> 00:05:16,599
+dus een lek zou snel verdund zijn.
+
+96
+00:05:16,600 --> 00:05:20,019
+Er is dus oneindig veel energie te verkrijgen
+
+97
+00:05:20,020 --> 00:05:21,879
+dat niet ten koste gaat aan het mileu
+
+98
+00:05:21,880 --> 00:05:24,019
+in iets simpels als water.
+
+99
+00:05:24,020 --> 00:05:26,299
+Waar schuilt een addertje onder het gras?
+
+100
+00:05:26,300 --> 00:05:27,119
+Geld.
+
+101
+00:05:27,120 --> 00:05:31,339
+We weten simpelweg niet of fusie-energie ooit voor winst kan zorgen.
+
+102
+00:05:31,340 --> 00:05:35,339
+Zelfs als het zou werken, zou het te duur kunnen zijn.
+
+103
+00:05:35,340 --> 00:05:38,479
+Het grootste nadeel is dat het onbewezen technologie is.
+
+104
+00:05:38,480 --> 00:05:40,759
+Het is een gok van tien miljoen dollar.
+
+105
+00:05:40,760 --> 00:05:44,119
+Dat geld is wellicht beter besteed aan andere schone energiebronnen
+
+106
+00:05:44,120 --> 00:05:46,499
+die zich al bewezen hebben.
+
+107
+00:05:46,500 --> 00:05:48,759
+Misschien moeten we ons verlies nemen
+
+108
+00:05:48,760 --> 00:05:53,699
+of misschien, als het oneindig schone energie voor iedereen oplevert,
+
+109
+00:05:53,700 --> 00:05:56,779
+is het een gok waard.
+
+110
+00:05:56,780 --> 00:05:59,179
+Video's als deze kosten honderden uren om te maken
+
+111
+00:05:59,180 --> 00:06:02,619
+en worden mogelijk gemaakt door jullie bijdragen via Patreon.com.
+
+112
+00:06:02,620 --> 00:06:04,599
+Als je meer te weten wil komen over wereldwijde energie
+
+113
+00:06:04,600 --> 00:06:07,979
+is hier een playlist over nucleaire energie, schalie-olie, en zonne-energie.
+
+114
+00:06:07,980 --> 00:06:11,080
+Laat in de reacties weten welke technologieën je wil dat wij je uitleggen.
+

@@ -1,0 +1,580 @@
+1
+00:00:00,000 --> 00:00:02,449
+Tarihimizin çoğunda, insan teknolojisi
+
+2
+00:00:02,450 --> 00:00:06,729
+beyinlerimizden, ateşten ve
+mızraklardan meydana geldi.
+
+3
+00:00:06,730 --> 00:00:10,479
+Ateş ve mızraklar, enerji santralleri ve
+nükleer silahlara dönüşürken
+
+4
+00:00:10,480 --> 00:00:13,520
+en büyük gelişme beynimize oldu.
+
+5
+00:00:13,521 --> 00:00:17,676
+1960'lardan beri, beyin makinelerimizin
+güçleri üslü şekilde büyümeye devam ederek
+
+6
+00:00:17,677 --> 00:00:22,242
+bilgisayarların aynı anda hem daha küçük
+hem de daha hızlı olmalarını sağladı.
+
+7
+00:00:22,243 --> 00:00:25,799
+Ama bu işlem fiziksel sınırlarına ulaşmak
+üzere.
+
+8
+00:00:25,800 --> 00:00:28,886
+Bilgisayar parçaları bir atomun boyutuna
+yaklaşıyor.
+
+9
+00:00:28,887 --> 00:00:32,965
+Bunun neden bir sorun olduğunu anlamak
+için, bazı temel kavramlara bakmalıyız.
+
+10
+00:00:32,966 --> 00:00:38,665
+(Jenerik)
+Özetle - Kurzgesagt tarafından
+
+11
+00:00:38,666 --> 00:00:42,535
+Bir bilgisayar çok basit şeyleri yapan çok
+basit parçalardan oluşmuştur.
+
+12
+00:00:42,536 --> 00:00:48,522
+Bu parçalar bilgiyi sunar, işler ve
+mekanizmaları kontrol eder.
+
+13
+00:00:48,523 --> 00:00:50,472
+Bilgisayar çipleri modüller içerir,
+
+14
+00:00:50,473 --> 00:00:54,522
+bu modüller mantık kapılarını ve
+mantık kapıları da transistörleri içerir.
+
+15
+00:00:54,523 --> 00:00:58,509
+Bir transistör bilgisayarlardaki
+bilgi işlemcisinin en basit formudur.
+
+16
+00:00:58,510 --> 00:01:03,147
+Temel olarak, gelen bilginin yolunu açıp
+kapatabilen bir anahtar işlevi görür.
+
+17
+00:01:03,148 --> 00:01:08,594
+Bu bilgi "sıfır" veya "bir" olarak
+ayarlanabilen "bit"lerden oluşur.
+
+18
+00:01:08,595 --> 00:01:13,548
+Bitlerin kombinasyonları da daha 
+karmaşık bilgileri temsil etmede kullanılır.
+
+19
+00:01:13,549 --> 00:01:18,145
+Transistörler, basit şeyler yapan mantık 
+kapıları oluşturmak için bir araya gelirler.
+
+20
+00:01:18,146 --> 00:01:22,784
+Örneğin, bir "VE" kapısının tüm girişleri
+bir ise çıktısı bir olur,
+
+21
+00:01:22,785 --> 00:01:25,574
+ve tam tersi durumunda sıfır olur.
+
+22
+00:01:25,575 --> 00:01:29,264
+Mantık geçitlerinin birleşimleri nihayet
+anlamlı modüller meydana getirir,
+
+23
+00:01:29,265 --> 00:01:31,367
+örneğin, iki sayıyı toplamak için.
+
+24
+00:01:31,368 --> 00:01:35,367
+Toplamaya yapabildiğinizde çarpma da
+yapabilirsiniz, ve çarpmaya yapabildiğinizde de
+
+25
+00:01:35,368 --> 00:01:37,410
+esasen her şeyi yapabilirsiniz.
+
+26
+00:01:37,411 --> 00:01:41,015
+Tüm temel işlemler tam anlamıyla
+birinci sınıf matematiğinden daha basit
+
+27
+00:01:41,016 --> 00:01:44,075
+olduğu için, bir bilgisayarı çok basit
+matematik soruları cevaplayan
+
+28
+00:01:44,076 --> 00:01:46,876
+bir grup yedi yaşındaki çocuk olarak
+hayal edebilirsiniz.
+
+29
+00:01:46,877 --> 00:01:50,876
+Yeterince büyük bir grubu astrofizikten
+Zelda'ya her şeyi hesaplayabilir.
+
+30
+00:01:50,877 --> 00:01:56,496
+Ancak, parçalar sürekli küçüldükçe
+kuantum fiziği olayı zorlaştırır.
+
+31
+00:01:56,497 --> 00:01:59,856
+Özetle, bir transistör sadece bir
+elektrik düğmesidir.
+
+32
+00:01:59,857 --> 00:02:03,296
+Elektrik elektronların bir yerden başka bir
+yere hareket etmesidir,
+
+33
+00:02:03,297 --> 00:02:08,476
+böylece düğme elektronların tek yönde
+hareket etmesini engelleyebilen bir geçittir.
+
+34
+00:02:08,477 --> 00:02:11,861
+Bugün, transistörlerin tipik boyutu
+14 nanometredir,
+
+35
+00:02:11,862 --> 00:02:15,721
+bu da HIV Virüsünün çapından
+sekiz kat,
+
+36
+00:02:15,722 --> 00:02:18,721
+ve de bir beyaz kan hücresinden 500
+kat daha küçüktür.
+
+37
+00:02:18,722 --> 00:02:21,380
+Transistörler birkaç atom
+boyutuna küçüldükçe elektronlar kendilerini
+
+38
+00:02:21,381 --> 00:02:25,380
+(Burada gücün yok!)
+engellenmiş bir yolun diğer tarafına
+kuantum tünelleme denilen bir
+
+39
+00:02:25,381 --> 00:02:27,950
+yöntemle transfer edebilir.
+
+40
+00:02:27,951 --> 00:02:31,950
+(Merhaba dostum! Naber?)
+Kuantum dünyasında, fizik alıştığımız
+tahmin edilebilir şekillerden farklı işler
+
+41
+00:02:31,951 --> 00:02:36,910
+(Çark savaşlarına tam olarak ne kadar alışkınsın?) (Ne...?)
+ve geleneksel bilgisayarlar artık
+mantıklı gelmez.
+
+42
+00:02:36,911 --> 00:02:40,901
+Teknolojik ilerlememizin önündeki
+gerçek bir fiziksel duvara yaklaşıyoruz.
+
+43
+00:02:40,902 --> 00:02:44,901
+Bu sorunu çözmek için, bilim insanları
+kuantum bilgisayarları inşa ederek
+
+44
+00:02:44,902 --> 00:02:49,751
+bu olağandışı kuantum özelliklerini
+kendi lehlerine çevirmeyi deniyorlar.
+
+45
+00:02:49,752 --> 00:02:53,735
+Normal bilgisayarlarda bitler bilginin
+en küçük birimidir.
+
+46
+00:02:53,736 --> 00:02:58,265
+Kuantum bilgisayarları iki değerden birine ayarlanabilen kübitler kullanır.
+
+47
+00:02:58,266 --> 00:03:02,257
+Bir kübit herhangi bir iki düzeyli
+kuantum sistemi olabilir,
+
+48
+00:03:02,258 --> 00:03:04,697
+manyetik alandaki bir
+dönüş veya bir foton gibi.
+
+49
+00:03:04,698 --> 00:03:08,127
+Fotonun yatay veya düşey polarizasyonu
+gibi,
+
+50
+00:03:08,128 --> 00:03:10,987
+sıfır ve bir bu sistemin muhtemel
+durumlarıdır.
+
+51
+00:03:10,988 --> 00:03:14,987
+Kuantum dünyasında, kübit bunlardan
+sadece biri olmak zorunda değildir,
+
+52
+00:03:14,988 --> 00:03:18,067
+aynı anda iki durumdan da bir miktar
+olabilir.
+
+53
+00:03:18,068 --> 00:03:20,647
+Buna süperpozisyon denmektedir.
+
+54
+00:03:20,648 --> 00:03:24,647
+Ancak siz değerini, mesela fotonu
+bir filtreden geçirerek test ettikten sonra
+
+55
+00:03:24,648 --> 00:03:28,647
+fotonun yatay veya düşey polarizasyondan
+birini seçmesi gerekir.
+
+56
+00:03:28,648 --> 00:03:32,647
+İzlenmediği sürece kübit sıfır ve bir
+ihtimallerininden oluşan bir
+
+57
+00:03:32,648 --> 00:03:36,647
+süperpozisyonun içindedir, ve hangisi
+olacağını tahmin edemezsiniz.
+
+58
+00:03:36,648 --> 00:03:41,787
+Ama ölçtüğünüz anda iki belirli
+durumdan birine geçer.
+
+59
+00:03:41,788 --> 00:03:45,167
+Süperpozisyon burada bir
+oyun değiştiricidir.
+
+60
+00:03:45,168 --> 00:03:50,127
+Dört klasik bit tek seferde iki üzeri dört
+farklı durumun birinde bulunabilir.
+
+61
+00:03:50,128 --> 00:03:54,127
+Bu 16 muhtemel kombinasyon eder, bunlardan
+tek seferde birini kullanabilirsiniz.
+
+62
+00:03:54,128 --> 00:04:00,177
+Ancak süperpozisyon halindeki dört kübit, aynı anda 
+bu 16 kombinasyonun hepsinde bulunabilir!
+
+63
+00:04:00,178 --> 00:04:04,177
+Bu sayı eklenen her kübit için üslü
+şekilde artar.
+
+64
+00:04:04,178 --> 00:04:08,177
+Yirmi tanesi aynı anda bir milyon
+değer saklayabilir.
+
+65
+00:04:08,178 --> 00:04:12,177
+Kübitlerin sezgisel olmayan gerçekten
+tuhaf başka bir özelliği de
+
+66
+00:04:12,178 --> 00:04:16,177
+dolanık olmalarıdır; bu kübitlerin ne
+kadar uzakta olursa olsun
+
+67
+00:04:16,178 --> 00:04:20,177
+herhangi birinin aynı anda diğerinin durumuna
+da tepki göstermesini sağlayan yakın bir bağlantıdır.
+
+68
+00:04:20,178 --> 00:04:24,177
+Bunun anlamı tek bir dolanık
+kübiti ölçtüğünüzde eşlerine bakmadan
+
+69
+00:04:24,178 --> 00:04:28,177
+bu kübitin özelliklerini direkt
+bir şekilde anlayabilirsiniz.
+
+70
+00:04:28,178 --> 00:04:31,197
+(Çok... fazla... bilgi...)
+Kübit manipülasyonu da kafa karıştırıcı bir şeydir.
+
+71
+00:04:31,198 --> 00:04:34,427
+Normal bir mantık kapısı
+girişlerin basit bir kümesini
+
+72
+00:04:34,428 --> 00:04:36,987
+alır ve tek bir belirli sonuç çıkarır.
+
+73
+00:04:36,988 --> 00:04:40,077
+Bir kuantum kapısı süperpozisyonların
+girişini yönlendirir, ihtimalleri
+
+74
+00:04:40,078 --> 00:04:44,997
+dolanır ve sonuç olarak başka bir
+süperpozisyon çıkarır.
+
+75
+00:04:44,998 --> 00:04:48,997
+Yani bir kuantum bilgisayarı birkaç kübit
+ayarlar, ihtimalleri yönlendirmek
+
+76
+00:04:48,998 --> 00:04:52,997
+ve onları dolanık hale getirmek
+için geçitleri uygular ve sonra süperpozisyonları
+
+77
+00:04:52,998 --> 00:04:57,927
+sıfır ve birlere çevirerek nihayet
+sonucu çıkarır.
+
+78
+00:04:57,928 --> 00:05:04,367
+Bunun anlamı var olan sisteminizle hepsi
+aynı anda yapılan bir sürü hesap alırsınız.
+
+79
+00:05:04,368 --> 00:05:08,367
+Sonunda çıkan tüm sonuçların sadece birini
+ölçebilirsiniz ve bu sadece muhtemelen
+
+80
+00:05:08,368 --> 00:05:12,367
+istediğiniz sonuçtur, yani sağlamasını
+alıp tekrar denemeniz gerekebilir.
+
+81
+00:05:12,368 --> 00:05:16,957
+Ama süperpozisyon ve dolanıklığın
+ince noktalarını zekice açığa vurarak bu olay
+
+82
+00:05:16,958 --> 00:05:21,907
+normal bir bilgisayarda yapılabileceğinden
+katbekat daha etkili yapabilir.
+
+83
+00:05:21,908 --> 00:05:25,887
+Kuantum bilgisayarları muhtemelen
+evimizdeki bilgisayarların yerini alamayacak fakat
+
+84
+00:05:25,888 --> 00:05:29,247
+bazı alanlarda oldukça üstünlük sağlamaktadır.
+
+85
+00:05:29,248 --> 00:05:31,217
+(Hangisi benim favorim?)
+Bunlardan biri veritabanı aramasıdır.
+
+86
+00:05:31,218 --> 00:05:32,767
+(Bu değil...)
+Bir veritabanında birşeyi bulabilmek
+için,
+
+87
+00:05:32,768 --> 00:05:35,597
+(Bu değil...) (...)
+normal bir bilgisayar verilerin her birini
+teker teker test etmek zorunda kalabilir.
+
+88
+00:05:35,598 --> 00:05:39,247
+(Hangisi benim favorim?) (..?) (!!!) (Oha, bu hızlıydı)
+Kuantum algoritmaları bu zamanın
+sadece kareköküne ihtiyaç duyarlar
+
+89
+00:05:39,248 --> 00:05:42,797
+ve büyük veribankaları için bu çok büyük
+bir fark eder.
+
+90
+00:05:42,798 --> 00:05:46,797
+Kuantum bilgisayarlarının en meşhur 
+kullanım alanı BT güvenliğini mahvetmektir.
+
+91
+00:05:46,798 --> 00:05:50,797
+Şu anda, tarama, e-posta ve bankacılık
+bilgileriniz herkese verdiğiniz açık bir
+
+92
+00:05:50,798 --> 00:05:54,447
+anahtarla sadece sizin çözebileceğiniz
+mesajları oluşturan bir şifreleme yöntemi
+
+93
+00:05:54,448 --> 00:05:56,867
+sayesinde korunmaktadır.
+
+94
+00:05:56,868 --> 00:06:01,957
+Sorun bu açık anahtar aslında sizin
+özel anahtarınızı hesaplamak için kullanılabilir.
+
+95
+00:06:01,958 --> 00:06:05,957
+Ne şanslı ki bunu normal bir bilgisayarda
+yapmak tam anlamıyla deneme ve yanılmayla
+
+96
+00:06:05,958 --> 00:06:07,637
+geçen yıllar sürer.
+
+97
+00:06:07,638 --> 00:06:10,887
+(Kolay oyun...)
+Ancak üslü hızlarda çalışan
+bir kuantum bilgisayarında
+
+98
+00:06:10,888 --> 00:06:12,769
+(...kolay hayat.)
+bunu kolaylıkla yapabilirsiniz.
+
+99
+00:06:12,770 --> 00:06:15,999
+Diğer bir heyecan verici yeni kullanım
+alanı ise simülasyonlardır.
+
+100
+00:06:16,000 --> 00:06:19,529
+Kuantum dünyalarının simülasyonları
+çok fazla sistem gücüne gereksinim duyar,
+
+101
+00:06:19,530 --> 00:06:24,129
+(Bu benim iç karmaşıklığımı yansıtmıyor!)
+ve moleküller gibi çok daha büyük
+yapılarda sıkça kesinlikten noksandırlar.
+
+102
+00:06:24,130 --> 00:06:28,129
+O zaman neden kuantum fiziğini
+gerçek kuantum fiziğiyle simüle etmeyelim?
+
+103
+00:06:28,130 --> 00:06:32,129
+Kuantum simülasyonları proteinlerle ilgili
+ilaçlarda devrim yapmamızı sağlayacak
+
+104
+00:06:32,130 --> 00:06:34,599
+bilgiler kazanmamızı sağlayabilir.
+
+105
+00:06:34,600 --> 00:06:38,599
+(Beyler, bu ineğe bakın!)
+Şu anda kuantum bilgisayarlarının
+sadece özel alanlarda çalışan bir
+
+106
+00:06:38,600 --> 00:06:41,099
+araç mı yoksa insanlık için büyük bir
+devrim mi olacağını bilemiyoruz.
+
+107
+00:06:41,100 --> 00:06:44,549
+Sınırların nerede olduğuyla ilgili
+hiçbir fikrimiz yok, ve bulmanın sadece
+
+108
+00:06:44,550 --> 00:06:47,478
+tek yolu var!
+
+109
+00:06:47,479 --> 00:06:51,478
+Bu video Avusturalya Bilim Akademisi
+tarafından desteklenmiştir,
+
+110
+00:06:51,479 --> 00:06:54,078
+onlar da bilimde mükemmeliği destekleyip
+yayan bir kuruluştur.
+
+111
+00:06:54,079 --> 00:06:57,678
+Bu konu ve benzer diğer konuları
+http://nova.org.au/ adresinden daha
+
+112
+00:06:57,679 --> 00:06:59,118
+fazla öğrenebilirsiniz.
+
+113
+00:06:59,119 --> 00:07:01,978
+Onlarla çalışmak harikaydı, yani
+sitelerine bir bakın!
+
+114
+00:07:01,979 --> 00:07:05,978
+Videolarımız ayrıca patreon.com 'daki
+desteklerinizle mümkün olabilmiştir.
+
+115
+00:07:05,979 --> 00:07:09,978
+Eğer bizi destekleyip Kurzgesagt kuş
+ordusunun bir parçası olmak istiyorsanız
+
+116
+00:07:09,979 --> 00:07:12,660
+Patreon sayfamıza bir göz atın!
+
+117
+00:07:12,661 --> 00:07:15,760
+Türkçe çeviriyi yapan: ArdyArd https://goo.gl/YjJNcg
+
+118
+00:07:15,761 --> 00:07:17,000
+Subtitles by the Amara.org community
+

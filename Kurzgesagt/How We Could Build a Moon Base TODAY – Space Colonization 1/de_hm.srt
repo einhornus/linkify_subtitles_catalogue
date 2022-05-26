@@ -1,0 +1,721 @@
+1
+00:00:01,080 --> 00:00:05,079
+Die Menschheit träumt seit jeher davon, die Erde zu verlassen und durch die Galaxie zu reisen.
+
+2
+00:00:05,080 --> 00:00:07,879
+Allerdings sind wir dafür zu früh geboren.
+
+3
+00:00:07,880 --> 00:00:09,979
+Oder?
+
+4
+00:00:09,980 --> 00:00:11,379
+Die Wahrheit ist:
+
+5
+00:00:11,380 --> 00:00:15,179
+Wir könnten beginnen unsere Träume zu verwirklichen, indem wir heute eine Mondbasis bauen.
+
+6
+00:00:15,180 --> 00:00:17,764
+Wir haben tatsächlich schon die nötige Technologie
+
+7
+00:00:17,765 --> 00:00:20,559
+und aktuelle Schätzungen der NASA und von Privatunternehmen besagen,
+
+8
+00:00:20,560 --> 00:00:26,039
+es könnte für 20 bis 40 Milliarden Dollar in einem Zeitraum von 10 Jahren durchgeführt werden.
+
+9
+00:00:26,040 --> 00:00:29,114
+Der Preis entspricht ungefähr dem der ISS (International Space Station)
+
+10
+00:00:29,115 --> 00:00:32,774
+oder dem Haushaltsüberschuss von Deutschland im Jahre 2017.
+
+11
+00:00:32,775 --> 00:00:36,004
+Kein wirklich besonders großes Investment.
+
+12
+00:00:36,005 --> 00:00:38,314
+Der Erfolg wäre riesig.
+
+13
+00:00:38,315 --> 00:00:41,359
+Der Mond ist ein Sandkasten, um neue Technologien zu entwickeln
+
+14
+00:00:41,360 --> 00:00:44,419
+und seine grenzenlosen Ressourcen auszuschöpfen.
+
+15
+00:00:44,420 --> 00:00:46,439
+Es würde ein neues Weltraumrennen starten
+
+16
+00:00:46,440 --> 00:00:50,724
+und die Basis schaffen, uns im Sonnensystem und darüber hinaus auszubreiten.
+
+17
+00:00:50,725 --> 00:00:54,999
+Es würden eine Menge neuer Technologien entwickelt werden, die uns auf der Erde nützlich sind,
+
+18
+00:00:55,000 --> 00:00:57,299
+und wir würden alle daran teilhaben.
+
+19
+00:00:57,300 --> 00:00:59,499
+Also warum machen wir´s nicht?
+
+20
+00:00:59,500 --> 00:01:02,999
+Nun, leider ist es schwierig Regierung dazu zu bringen,
+
+21
+00:01:03,000 --> 00:01:06,654
+sich für Langzeitinvestitionen in die Zukunft der Menschheit zu interessieren.
+
+22
+00:01:06,655 --> 00:01:09,204
+Stellen wir uns mal vor, wir würden es dennoch tun:
+
+23
+00:01:09,205 --> 00:01:10,764
+Wenn wir heute beginnen,
+
+24
+00:01:10,765 --> 00:01:13,999
+wie würden wir eine Mondbasis bauen?
+
+25
+00:01:14,000 --> 00:01:22,639
+[Intro of Kurzgesagt]
+
+26
+00:01:22,640 --> 00:01:25,144
+Während unserer gesamten Geschichte
+
+27
+00:01:25,145 --> 00:01:26,679
+geschahen Kolonisationen in Phasen:
+
+28
+00:01:26,680 --> 00:01:30,379
+In der ersten Phase des Zeitalters der Entdeckungen, z.B. der neuen Welt,
+
+29
+00:01:30,380 --> 00:01:35,619
+finanzierten europäische Monarchen Expeditionen, um neues Land zu kartieren, zu erforschen und Besitzanspruch darauf zu erheben.
+
+30
+00:01:35,620 --> 00:01:38,659
+Sie stellten ihre Flagge auf und errichteten
+ein Lager,
+
+31
+00:01:38,660 --> 00:01:41,159
+aber sie blieben nicht.
+
+32
+00:01:41,160 --> 00:01:45,739
+In der zweiten Phase errichteten kleine Gesandtschaften Stützpunkte und gründeten Siedlungen,
+
+33
+00:01:45,740 --> 00:01:49,099
+die immer noch sehr von Hilfslieferungen aus ihrem Heimatland abhängig waren.
+
+34
+00:01:49,100 --> 00:01:53,919
+Einige schlugen fehl, aber andere überlebten und begründeten eine dauerhafte Präsenz.
+
+35
+00:01:53,920 --> 00:01:56,404
+Erst in der dritten Phase entstand
+
+36
+00:01:56,405 --> 00:01:59,594
+eine echte Kolonie, in die Händler und Handwerker auswandern,
+
+37
+00:01:59,595 --> 00:02:02,594
+neuen Reichtum und Chancen für sich und ihre Familien erschaffen
+
+38
+00:02:02,595 --> 00:02:05,364
+und dann riesige Reichtümer zurück in
+
+39
+00:02:05,365 --> 00:02:08,219
+ihr Ursprungsland senden konnten.
+
+40
+00:02:08,220 --> 00:02:09,959
+Wenn wir den Mond kolonisieren,
+
+41
+00:02:09,960 --> 00:02:12,119
+werden wir die selben drei Phasen durchlaufen.
+
+42
+00:02:12,120 --> 00:02:16,999
+Dieses Mal allerdings, ohne währenddessen Millionen von Menschen umzubringen.
+
+43
+00:02:17,000 --> 00:02:20,374
+Der Mond ist kein einladender Platz für Lebewesen.
+
+44
+00:02:20,375 --> 00:02:23,499
+Ein Mondtag dauert 29 Erdtage
+
+45
+00:02:23,500 --> 00:02:25,939
+mit einer Temperaturdifferenz von circa 300 °C
+
+46
+00:02:25,940 --> 00:02:28,599
+zwischen Sonnenlicht und Schattenseite.
+
+47
+00:02:28,600 --> 00:02:32,179
+Es gibt keine Atmosphäre, die uns vor Meteoriten, großen und kleinen,
+
+48
+00:02:32,180 --> 00:02:33,899
+oder kosmischer Strahlung schützt.
+
+49
+00:02:33,900 --> 00:02:38,899
+Schlimmer noch, die Mondoberfläche ist bedeckt mit einer Schicht aus unangenehm schartigem Staub.
+
+50
+00:02:38,900 --> 00:02:40,719
+Der Mond ist schwierig.
+
+51
+00:02:40,720 --> 00:02:43,239
+Aber wir sind gut darin,schwierige Aufgaben zu meistern.
+
+52
+00:02:43,240 --> 00:02:45,719
+In der ersten Phase der Mondkolonisation
+
+53
+00:02:45,720 --> 00:02:49,919
+haben unsere Entdecker bewiesen, dass eine Kolonisation möglich ist.
+
+54
+00:02:49,920 --> 00:02:53,499
+Diese Phase begann vor 60 Jahren mit den Apollo Missionen.
+
+55
+00:02:53,500 --> 00:02:58,119
+Seitdem haben Satelliten wie der "American Lunar Reconnaissance Orbiter" (amerikaniche Monderkundungssonde) den Mond kartiert,
+
+56
+00:02:58,120 --> 00:03:01,739
+während Rover (Mondfahrzeuge) wie der chinesische Yutu die Zusammensetzung der Mondoberfläche
+
+57
+00:03:01,740 --> 00:03:04,799
+nach Wasser, Eis und Metallen untersucht haben.
+
+58
+00:03:04,800 --> 00:03:07,339
+Phase 1 ist mehr oder weniger abgeschlossen.
+
+59
+00:03:07,340 --> 00:03:10,399
+Wir wissen, was wir wissen müssen, um in Phase 2 einzutreten.
+
+60
+00:03:10,400 --> 00:03:14,164
+In der zweiten Phase werden Astronauten die erste Mondbasis bauen
+
+61
+00:03:14,165 --> 00:03:16,759
+und das könnte heute beginnen.
+
+62
+00:03:16,760 --> 00:03:20,224
+Die erste kleine Mondbasis könnte innerhalb eines Jahrzehnts fertiggestellt werden.
+
+63
+00:03:20,225 --> 00:03:22,664
+Die erste Nation, die diese Basis errichtet,
+
+64
+00:03:22,665 --> 00:03:25,854
+entspricht der Nation, die vor 500 Jahren Aussenstützpunkte
+
+65
+00:03:25,855 --> 00:03:28,494
+in der neuen Welt erschuf.
+
+66
+00:03:28,495 --> 00:03:31,484
+Es ist teuer, Raketen zum Mond zu schicken.
+
+67
+00:03:31,485 --> 00:03:34,534
+Deshalb werden wir so wenig wie möglich schicken.
+
+68
+00:03:34,535 --> 00:03:37,124
+Die Basis wird leicht sein: Kaum schwerer als aufblasbare Unterkünfte
+
+69
+00:03:37,125 --> 00:03:39,324
+für Gruppen von nicht mehr als 12 Personen.
+
+70
+00:03:39,325 --> 00:03:41,974
+Sie werden dort aufgestellt werden, wo es einen natürlichen Schutz gibt.
+
+71
+00:03:41,975 --> 00:03:44,784
+Hierfür wären Höhlen wie unterirdische Lavatunnel eine Option
+
+72
+00:03:44,785 --> 00:03:47,254
+oder Krater nahe an den Polen,
+
+73
+00:03:47,255 --> 00:03:50,034
+wo die Tage 6 Monate lang sind.
+
+74
+00:03:50,035 --> 00:03:52,639
+Diese Astronauten werden nicht lange bleiben.
+
+75
+00:03:52,640 --> 00:03:55,479
+Der Standort wird wahrscheinlich zwischen den Missionen verlassen werden,
+
+76
+00:03:55,480 --> 00:03:59,294
+denn Solarpanele können keinen Strom während der Mondnacht generieren.
+
+77
+00:03:59,295 --> 00:04:02,254
+Aber sie schaffen die Grundlage, die es dem Menschen ermöglicht,
+
+78
+00:04:02,255 --> 00:04:03,704
+dauerhaft auf dem Mond leben zu können.
+
+79
+00:04:03,705 --> 00:04:06,704
+Unsere erste Mannschaft wird aus Wissenschaftlern und Ingenieuren bestehen,
+
+80
+00:04:06,705 --> 00:04:09,484
+die die Zusammensetzung des Mondes untersuchen und
+
+81
+00:04:09,485 --> 00:04:12,504
+deren Experimente Wege erforschen werden, das verfügbare Mondmaterial zu nutzen,
+
+82
+00:04:12,505 --> 00:04:17,939
+wie z.B. das Mond-Eis zu reinigen um daraus Wasser zu gewinnen, das der Mensch nutzen kann.
+
+83
+00:04:17,940 --> 00:04:20,759
+Und Wasser ist wichtig für weit mehr als nur zum Trinken.
+
+84
+00:04:20,760 --> 00:04:24,274
+Man kann mit ihm versuchen, essbare Pflanzen aufzuziehen.
+
+85
+00:04:24,275 --> 00:04:27,184
+Wasserstoffbrennstoffzellen werden die Energie für die lange Nacht speichern
+
+86
+00:04:27,185 --> 00:04:29,939
+und so die Tage für die Astronauten verlängern.
+
+87
+00:04:29,940 --> 00:04:34,039
+Und am allerwichtigsten: Wasser kann in Wasserstoff (H²) und Sauerstoff (O²) gespalten werden:
+
+88
+00:04:34,040 --> 00:04:37,124
+Raketentreibstoff!
+
+89
+00:04:37,125 --> 00:04:40,394
+Wenn man Wasser vom Mond sammelt und es in den Orbit schickt,
+
+90
+00:04:40,395 --> 00:04:42,704
+wird diese Mondbasis ein orbitales Depot darstellen,
+
+91
+00:04:42,705 --> 00:04:45,579
+wo Raketen wissenschaftlicher Missionen zum Mars und zum äußeren Sonnensystem
+
+92
+00:04:45,580 --> 00:04:48,079
+auftanken können.
+
+93
+00:04:48,080 --> 00:04:53,639
+Im Vergleich zur Erde ist es viel einfacher und billiger, etwas vom Mond aus in dessen Orbit zu bringen.
+
+94
+00:04:53,640 --> 00:04:58,199
+Den Mars zu kolonisieren mag bedeuten, vom Mond aus zu starten.
+
+95
+00:04:58,200 --> 00:05:01,754
+Allerdings ist dies keine echte Kolonie,  noch nicht.
+
+96
+00:05:01,755 --> 00:05:04,574
+Die Basis wird verlassen werden, wenn die Finanzierung aufhört.
+
+97
+00:05:04,575 --> 00:05:07,674
+Wenn wir wollen, dass unsere Basis die dritte Phase erreicht und zu einer echten Kolonie wird,
+
+98
+00:05:07,675 --> 00:05:10,639
+muss sie selbstversorgend werden, indem sie sich selbst
+
+99
+00:05:10,640 --> 00:05:14,979
+durch Exporte zur Erde unterstützt.
+
+100
+00:05:14,980 --> 00:05:20,739
+Nun kommen auch Privatunternehmen, um an den Mondressourcen zu verdienen, und Dienstleister.
+
+101
+00:05:20,740 --> 00:05:26,159
+Wenn es billiger ist, Raketentreibstoff im All zu produzieren, woran können sie sonst noch reich werden?
+
+102
+00:05:26,160 --> 00:05:28,279
+Sie könnten wertvolle Metalle extrahieren,
+
+103
+00:05:28,280 --> 00:05:33,024
+die reichlich in Impaktkratern vorkommen, sowie andere Rohstoffe wie Regolith.
+
+104
+00:05:33,025 --> 00:05:36,419
+Eine vielversprechende Möglichkeit ist der Abbau von ³He (Helium 3),
+
+105
+00:05:36,420 --> 00:05:40,199
+ein Isotop, das eines Tages in Fusionsreaktoren verwendet werden könnte.
+
+106
+00:05:40,200 --> 00:05:45,419
+Danach forscht gerade das chinesische Mondforschungsprogramm.
+
+107
+00:05:45,420 --> 00:05:48,684
+Zukunftige Kolonisten könnten dann ³He (Helium 3) zurück zur Erde exportieren.
+
+108
+00:05:48,685 --> 00:05:52,524
+um uns mit billiger und reiner Kernfusionskraft zu versorgen.
+
+109
+00:05:52,525 --> 00:05:55,959
+Asteroiden könnten in den Mondorbit gezogen und abgebaut werden.
+
+110
+00:05:55,960 --> 00:05:58,119
+Mit kommerziellen Exporten zur Erde
+
+111
+00:05:58,120 --> 00:06:00,459
+ist die Mondkolonie in ihrer dritten Phase angelangt,
+
+112
+00:06:00,460 --> 00:06:04,059
+selbstversorgend und wirtschaftlich produktiv..
+
+113
+00:06:04,060 --> 00:06:07,919
+Unsere Basis wird nun Mondmaterial als Baustoff für ihre Projekte verwenden,
+
+114
+00:06:07,920 --> 00:06:09,534
+wenn sie weiter wachsen soll.
+
+115
+00:06:09,535 --> 00:06:12,234
+Glücklicherweise enthält der Mondboden alle
+
+116
+00:06:12,235 --> 00:06:14,399
+nötigen Bestandteile, um Beton herzustellen.
+
+117
+00:06:14,400 --> 00:06:18,319
+Roboter zur Rohstoffgewinnung können den Mondstaub auf organische Moleküle untersuchen und
+
+118
+00:06:18,320 --> 00:06:20,659
+diese könnten verwendet werden, um große Bauwerke zu errichten,
+
+119
+00:06:20,660 --> 00:06:23,039
+die viel zu schwer sind, als dass sie von der Erde aus herauf gebracht werden könnten.
+
+120
+00:06:23,040 --> 00:06:25,239
+Mit den fortschreitenden Möglichkeiten der 3D-Drucker
+
+121
+00:06:25,240 --> 00:06:30,759
+wird es möglich sein fast alles andere herzustellen, was die Mannschaft benötigt.
+
+122
+00:06:30,760 --> 00:06:35,699
+Es ist schwierig vorherzusagen, wann genau die Kolonie selbsterhaltend werden wird.
+
+123
+00:06:35,700 --> 00:06:36,899
+Wachstum geschieht nach und nach,
+
+124
+00:06:36,900 --> 00:06:39,079
+Experimente werden durch Industrien ersetzt
+
+125
+00:06:39,080 --> 00:06:44,484
+und die Bevölkerung wächst kontinuierlich um Hunderte an.
+
+126
+00:06:44,485 --> 00:06:47,724
+Ingenieure, Piloten und Unternehmer, von Ländern und Unternehmen gesandt, werden da sein.
+
+127
+00:06:47,725 --> 00:06:51,214
+Ingenieure, Piloten und Unternehmer, von Ländern und Unternehmen gesandt, werden da sein.
+
+128
+00:06:51,215 --> 00:06:53,799
+Zwei dieser Menschen werden einen Durchbruch erzielen.
+
+129
+00:06:53,800 --> 00:06:56,339
+Nicht wissenschaftlich, aber sozial.
+
+130
+00:06:56,340 --> 00:06:59,704
+Sie werden das erste extraterrestrische (=außerirdische) Kind haben.
+
+131
+00:06:59,705 --> 00:07:01,614
+Während der gesamten Geschichte
+
+132
+00:07:01,615 --> 00:07:04,344
+wurde die Geburt des ersten Kindes als der Moment gefeiert, als der Samen einer Kolonie
+
+133
+00:07:04,345 --> 00:07:07,804
+endlich und unwiderruflich Wurzeln schlug.
+
+134
+00:07:07,805 --> 00:07:10,854
+Hier bedeutet das, dass der Mond nicht nur ein Arbeitsplatz für Wissenschaftler und Ingenieure ist,
+
+135
+00:07:10,855 --> 00:07:13,844
+sondern ein Platz für Menschen, um zu leben und eine Familie zu gründen.
+
+136
+00:07:13,845 --> 00:07:16,414
+sondern ein Platz für Menschen, um zu leben und eine Familie zu gründen.
+
+137
+00:07:16,415 --> 00:07:19,464
+Wenn dieser Übergang geschafft ist, wächst die Kolonie sehr schnell.
+
+138
+00:07:19,465 --> 00:07:22,234
+Es werden mehr Häuser und Schulen und  Farmen gebaut, sowie alle Dinge, die zur Erhaltung einer wachsenden Bevölkerung  nötig sind,
+
+139
+00:07:22,235 --> 00:07:26,414
+Es werden mehr Häuser und Schulen und  Farmen gebaut, sowie alle Dinge, die zur Erhaltung einer wachsenden Bevölkerung nötig sind.
+
+140
+00:07:26,415 --> 00:07:29,444
+Mit dem Wachstum der Kolonie werden jede Menge neuer Technologien entwickelt, um sie zu versorgen.
+
+141
+00:07:29,445 --> 00:07:31,919
+Mit dem Wachstum der Kolonie werden jede Menge neuer Technologien entwickelt, um sie zu versorgen.
+
+142
+00:07:31,920 --> 00:07:35,639
+Vielleicht entwickeln sie Pflanzen, die effizient Kohlenstoffdioxid (CO2) recyceln
+
+143
+00:07:35,640 --> 00:07:38,019
+oder welche, die mit nur sehr wenig Wasser wachsen.
+
+144
+00:07:38,020 --> 00:07:42,479
+Vielleicht erfinden sie Wege, 100% ihres Abfalls zu recyclen und wieder zu verwenden,
+
+145
+00:07:42,480 --> 00:07:45,979
+also Technologien, die extrem wertvoll für die Erde sind.
+
+146
+00:07:45,980 --> 00:07:49,999
+Sie könnten sogar den ersten Weltraumlift im Sonnensystem bauen.
+
+147
+00:07:50,000 --> 00:07:54,139
+Mit einem Weltraumaufzug könnten Astronauten und Rohmaterialien
+
+148
+00:07:54,140 --> 00:07:59,399
+vom Mondorbit hin und her transportiert werden, ohne Raketen benutzen zu müssen.
+
+149
+00:07:59,400 --> 00:08:05,579
+Der Mond könnte Ausgangspunkt für wirtschaftliche Unternehmungen sein, deren Ausmaß wir uns heute noch gar nicht vorstellen können.
+
+150
+00:08:05,580 --> 00:08:09,619
+Schwer zu sagen, wer die Kolonie an diesem Punkt besitzen wird.
+
+151
+00:08:09,620 --> 00:08:13,559
+Wird der erste Mensch, der auf dem Mond geboren wurde, die Staatsbürgerschaft seiner Eltern haben?
+
+152
+00:08:13,560 --> 00:08:18,939
+Oder wird eine neue Generation zu einer neuen "Mondgesellschaft"  zusammenwachsen?
+
+153
+00:08:18,940 --> 00:08:21,999
+Und wenn die derzeit gültigen Verträge, die keiner Nation erlauben den Mond zu besitzen, zwangsläufig neu verhandelt werden,
+
+154
+00:08:22,000 --> 00:08:24,419
+werden dann die Kolonisten mit am Verhandlungstisch sitzen?
+
+155
+00:08:24,420 --> 00:08:28,319
+werden dann die Kolonisten mit am Verhandlungstisch sitzen?
+
+156
+00:08:28,320 --> 00:08:31,819
+Werden sie die Unabhängigkeit von der Erde erklären?
+
+157
+00:08:31,820 --> 00:08:33,119
+Was auch immer geschieht,
+
+158
+00:08:33,120 --> 00:08:37,158
+der Mond ist ein perfekter Sandkasten um zu erfahren, wie das Sonnensystem kolonisiert werden kann, und
+
+159
+00:08:37,159 --> 00:08:39,619
+das perfekte Projekt Nationen zu vereinen.
+
+160
+00:08:39,620 --> 00:08:43,139
+Und es ist der einzige Weg, unserer Art das Überleben zu garantieren,
+
+161
+00:08:43,140 --> 00:08:45,619
+falls etwas Tragisches mit der Erde passiert.
+
+162
+00:08:45,620 --> 00:08:48,319
+Wenn wir jemals die Milchstraße kolonisieren wollen,
+
+163
+00:08:48,320 --> 00:08:50,554
+werden wir irgendwo beginnen müssen.
+
+164
+00:08:50,555 --> 00:08:52,614
+Also, warum nicht dort?
+
+165
+00:08:52,615 --> 00:08:58,759
+Warum nicht jetzt?
+
+166
+00:08:58,760 --> 00:09:01,599
+Leider kannst du nicht einfach in ein Raumschiff springen
+
+167
+00:09:01,600 --> 00:09:03,479
+und jetzt sofort zum Mond fliegen,
+
+168
+00:09:03,480 --> 00:09:07,859
+aber du kannst weitere interessante Dinge über den Weltraum und unser Universum erfahren.
+
+169
+00:09:07,860 --> 00:09:10,259
+Und wir können dir dabei sogar behilflich sein.
+
+170
+00:09:10,260 --> 00:09:13,819
+Kurzgesagt und Brillant arbeiten an einer 6-teiligen Videoserie
+
+171
+00:09:13,820 --> 00:09:16,899
+über unsere beliebten Themen Wissenschaft und Weltraum zusammen.
+
+172
+00:09:16,900 --> 00:09:19,559
+Kurzgesagt hat nun schon eine Zeit lang mit Brilliant zusammengearbeitet
+
+173
+00:09:19,560 --> 00:09:21,419
+und wir lieben das, was sie machen.
+
+174
+00:09:21,420 --> 00:09:25,179
+Kurzgesagt, Brilliant lehrt Wissenschaft + Mathe leicht verständlich,
+
+175
+00:09:25,180 --> 00:09:31,219
+indem du Rätsel selber löst und Konzepte verstehst, anstatt nur Fakten auswendig zu lernen.
+
+176
+00:09:31,220 --> 00:09:33,659
+Wenn du gerne wie ein Wissenschaftler denken möchtest,
+
+177
+00:09:33,660 --> 00:09:37,039
+geh rüber zu brilliant.org/nutshell und melde dich kostenfrei an.
+
+178
+00:09:37,040 --> 00:09:42,359
+Die ersten 698, die den Link nutzen, erhalten die premium Jahresmitgliedschaft mit 20% Rabatt und
+
+179
+00:09:42,360 --> 00:09:47,059
+unterstützen zudem unsere Zusammenarbeit mit Brilliant.
+
+180
+00:09:47,060 --> 00:09:48,280
+[Abspann]
+

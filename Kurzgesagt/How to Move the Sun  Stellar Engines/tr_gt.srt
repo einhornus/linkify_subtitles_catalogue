@@ -1,0 +1,356 @@
+1
+00:00:00,020 --> 00:00:07,979
+Evrendeki hiçbir şey statik değildir.  Samanyolu'nda milyarlarca yıldız galaktik merkezin yörüngesinde döner.
+
+2
+00:00:07,980 --> 00:00:12,099
+Güneşimiz gibi bazıları oldukça tutarlıdır, galaktik merkezden yaklaşık
+
+3
+00:00:12,100 --> 00:00:19,179
+30.000 ışıkyılı uzaklıkta yer alır ve her 230 milyon yılda bir yörüngesini tamamlar.
+
+4
+00:00:19,180 --> 00:00:25,139
+Bu dans düzenli bir bale değil, daha çok sarhoş bebeklerle dolu bir buz pateni pisti gibi.
+
+5
+00:00:25,140 --> 00:00:28,079
+Bu kaos galaksiyi tehlikeli hale getirir.
+
+6
+00:00:28,080 --> 00:00:34,779
+Güneş mahallemiz, her saniye yüzlerce kilometre hareket eden yıldızlarla sürekli değişiyor.
+
+7
+00:00:34,780 --> 00:00:40,419
+Sadece nesneler arasındaki geniş mesafeler bizi dışarıdaki tehlikelerden korur.
+
+8
+00:00:40,420 --> 00:00:44,639
+Ama ileride şanssız olabiliriz.  Bir noktada
+
+9
+00:00:44,640 --> 00:00:52,119
+, süpernovaya giden bir yıldızla veya yanından geçen ve Dünya'ya asteroit yağdıran devasa bir nesneyle karşılaşabiliriz.
+
+10
+00:00:52,120 --> 00:00:58,919
+Böyle bir şey olsaydı, muhtemelen milyonlarca yıl olmasa da binlerce yıl önceden haberdar olurduk.
+
+11
+00:00:58,920 --> 00:01:03,259
+Ama yine de pek bir şey yapamadık.
+
+12
+00:01:03,260 --> 00:01:08,699
+Tüm güneş sistemimizi yoldan çekmedikçe.
+
+13
+00:01:08,700 --> 00:01:16,659
+[Snazzy Kurzgesagt giriş müziği
+
+14
+00:01:16,660 --> 00:01:18,359
+] Güneş sistemini hareket
+
+15
+00:01:18,360 --> 00:01:25,319
+ettirmek için bir yıldız motoruna, galakside bir yıldızı yönlendirmek için kullanılan bir mega yapıya ihtiyacımız var.  Milyonlarca yıl önceden geleceklerini düşünen
+
+16
+00:01:25,320 --> 00:01:29,859
+Dyson küre düzeyinde teknolojiye sahip gelişmiş bir uygarlık tarafından inşa edilebilecek
+
+17
+00:01:29,860 --> 00:01:33,899
+türden bir şey.
+
+18
+00:01:33,900 --> 00:01:39,479
+Fakat güneş sistemindeki yüz binlerce nesneyi nasıl hareket ettirebiliriz?
+
+19
+00:01:39,480 --> 00:01:42,359
+İyi haber şu ki, bunların hepsini görmezden gelebiliriz.
+
+20
+00:01:42,360 --> 00:01:50,919
+Sadece Güneş'i hareket ettirmemiz gerekiyor;  diğer tüm şeyler ona yerçekimi ile yapıştırılmıştır ve nereye gitmeye karar verirse versin onu takip edecektir.
+
+21
+00:01:50,920 --> 00:01:55,809
+Bir yıldız motorunun nasıl görünebileceği ve nasıl çalışacağı hakkında birçok fikir var.
+
+22
+00:01:55,810 --> 00:02:01,329
+Mevcut fizik anlayışımıza dayanarak teoride oluşturulabilecek iki tane seçtik.
+
+23
+00:02:01,330 --> 00:02:07,059
+En basit yıldız motoru türü, dev bir ayna olan Shkadov iticisidir.
+
+24
+00:02:07,060 --> 00:02:10,269
+Bir roketle aynı prensipte çalışır.
+
+25
+00:02:10,270 --> 00:02:17,529
+Roket yakıtı gibi, güneş radyasyonu olarak salınan fotonlar da momentum taşır, çok değil, biraz.
+
+26
+00:02:17,530 --> 00:02:25,029
+Örneğin, bir astronot uzayda bir el fenerini açarsa, onları çok çok yavaş bir şekilde geriye doğru itecektir.
+
+27
+00:02:25,030 --> 00:02:31,569
+Bir yıldız motoru, bir el fenerinden biraz daha iyi çalışır çünkü Güneş çok fazla foton üretir.
+
+28
+00:02:31,570 --> 00:02:36,399
+Shkadov iticisinin temel fikri, itme oluşturmak için güneş radyasyonunun yarısına kadar yansıtmak
+
+29
+00:02:36,400 --> 00:02:41,048
+ve Güneş'i gitmesini istediğimiz yere yavaşça itmektir.
+
+30
+00:02:41,049 --> 00:02:47,798
+Shkadov iticisinin çalışması için, Güneş'in yörüngesinde değil, aynı yerde tutulması gerekir.
+
+31
+00:02:47,799 --> 00:02:55,029
+Güneş'in yerçekimi onu içeri çekmeye çalışsa da, aynayı destekleyen radyasyon basıncı tarafından desteklenecektir.
+
+32
+00:02:55,030 --> 00:03:03,279
+Bu, aynanın alüminyum alaşımları gibi malzemelerden yapılmış mikron ince yansıtıcı folyodan yapılmış çok hafif olması gerektiği anlamına gelir.
+
+33
+00:03:03,280 --> 00:03:06,219
+Aynanın şekli de önemlidir
+
+34
+00:03:06,220 --> 00:03:12,199
+, Güneş'i dev bir küresel kabukla sarmak işe yaramaz çünkü bu, ışığı yeniden Güneş'e odaklar,
+
+35
+00:03:12,200 --> 00:03:15,939
+ısıtır ve her türlü tatsız sorun yaratır.
+
+36
+00:03:15,940 --> 00:03:23,769
+Bunun yerine, fotonların çoğunu Güneş'in etrafına ve aynı yönde gönderen ve itmeyi maksimize eden bir parabol kullanıyoruz.
+
+37
+00:03:23,770 --> 00:03:28,779
+Çok fazla veya çok az güneş ışığı ile Dünya'nın kazara yanmasını veya donmasını önlemek için,
+
+38
+00:03:28,780 --> 00:03:33,539
+bir Shkadov iticisini inşa etmek için tek güvenli yer Güneş'in kutuplarının üzeridir.
+
+39
+00:03:33,540 --> 00:03:39,779
+Bu, Güneş'i yalnızca güneş sistemi düzleminde dikey olarak ve Samanyolu'nda bir yönde hareket ettirebileceğimiz anlamına gelir,
+
+40
+00:03:39,780 --> 00:03:42,539
+bu da seyahat seçeneklerimizi azaltır.
+
+41
+00:03:42,540 --> 00:03:45,119
+Ama temelde bu.
+
+42
+00:03:45,120 --> 00:03:51,879
+Dyson Küresi inşa edebilen bir uygarlık için bu nispeten basit bir çabadır.
+
+43
+00:03:51,880 --> 00:03:56,019
+Karmaşık değil, sadece inşa etmek çok zor.
+
+44
+00:03:56,020 --> 00:04:04,379
+Tam gazda, güneş sistemi muhtemelen 230 milyon yılda yaklaşık yüz ışıkyılı hareket ettirilebilir.
+
+45
+00:04:04,380 --> 00:04:10,199
+Birkaç milyar yıl boyunca, bize güneşin galaksideki yörüngesi üzerinde neredeyse tam kontrol sağlıyor.
+
+46
+00:04:10,200 --> 00:04:18,539
+Ancak kısa vadede bu, ölümcül bir süpernovadan kaçmak için yeterince hızlı olmayabilir.  Bu yüzden daha iyisini yapabileceğimizi düşündük.
+
+47
+00:04:18,540 --> 00:04:25,259
+Astrofizikçi arkadaşımıza bu video için daha hızlı bir yıldız motoru tasarlayıp tasarlayamadığını sorduk.
+
+48
+00:04:25,260 --> 00:04:30,599
+Bu konuda hakemli bir dergide yayınlanan bir makale yazdı ve yazdı.
+
+49
+00:04:30,600 --> 00:04:34,539
+Kaynaklar belgemizde bulabilirsiniz.
+
+50
+00:04:34,540 --> 00:04:38,979
+Yeni yıldız motorumuzda Caplan iticisini arayacağız.
+
+51
+00:04:38,980 --> 00:04:45,069
+Geleneksel bir rokete çok benziyor: Kendinizi diğer tarafa itmek için egzozu bir yoldan çekin.
+
+52
+00:04:45,070 --> 00:04:52,179
+Nükleer füzyona güç sağlamak için Güneş'ten madde toplayan bir Dyson küresi tarafından desteklenen büyük bir uzay istasyonu platformu.
+
+53
+00:04:52,180 --> 00:04:59,739
+Güneş sisteminden ışık hızının yaklaşık yüzde 1'i oranında çok hızlı bir parçacık jeti fırlatır.
+
+54
+00:04:59,740 --> 00:05:03,309
+İkinci bir jet, Güneş'i bir römorkör gibi iter.
+
+55
+00:05:03,310 --> 00:05:08,499
+Caplan iticisi çok fazla yakıt gerektirir, saniyede milyonlarca ton.
+
+56
+00:05:08,500 --> 00:05:11,979
+Bu yakıtı toplamak
+
+57
+00:05:11,980 --> 00:05:19,119
+için iticimiz, güneş rüzgarından motora hidrojen ve helyum göndermek için çok büyük elektromanyetik alanlar kullanır.
+
+58
+00:05:19,120 --> 00:05:25,359
+Ancak güneş rüzgarı tek başına yeterli yakıt sağlamaz ve Dyson küresi burada devreye girer.
+
+59
+00:05:25,360 --> 00:05:29,799
+Gücünü kullanarak güneş ışığı Güneş'in yüzeyine yeniden odaklanabilir.
+
+60
+00:05:29,800 --> 00:05:35,979
+Bu, küçük bölgeleri aşırı sıcaklıklara kadar ısıtır ve Güneş'ten milyarlarca ton kütleyi kaldırır.
+
+61
+00:05:35,980 --> 00:05:42,069
+Bu kütle toplanabilir ve hidrojen ve helyuma ayrılabilir.
+
+62
+00:05:42,070 --> 00:05:48,159
+Helyum, termonükleer füzyon reaktörlerinde patlayarak yakılır.
+
+63
+00:05:48,160 --> 00:05:56,319
+Yaklaşık bir milyar derecelik bir sıcaklıktaki bir Radyoaktif oksijen jeti dışarı atılır ve yıldız motorumuzdan birincil tahrik kaynağımız olur.
+
+64
+00:05:56,320 --> 00:06:01,809
+Motorun Güneş'e çarpmasını önlemek için kendini dengelemesi gerekiyor.
+
+65
+00:06:01,810 --> 00:06:02,679
+Bunu yapmak için
+
+66
+00:06:02,680 --> 00:06:10,959
+, parçacık hızlandırıcıları kullanarak elektromanyetik alanlarla toplanan hidrojeni hızlandırır ve Güneş'e bir jet fırlatırız.
+
+67
+00:06:10,960 --> 00:06:16,899
+Bu, iticiyi dengeler ve motorumuzun itiş gücünü Güneş'e geri aktarır.
+
+68
+00:06:16,900 --> 00:06:25,329
+Bir milyon yıl gibi kısa bir sürede, bu motor Güneş'i 50 ışıkyılı kadar hareket ettirebilir, bu da bir süpernovayı atlatmak için fazlasıyla yeterli.
+
+69
+00:06:25,330 --> 00:06:32,589
+Tam gazda, güneş sistemi 10 milyon yıl içinde galaktik yörüngesinde tamamen yeniden yönlendirilebilir.
+
+70
+00:06:32,590 --> 00:06:36,459
+Ama bekleyin, Güneş'i bu şekilde mi kullanacağız?
+
+71
+00:06:36,460 --> 00:06:43,059
+Neyse ki Güneş o kadar büyük ki milyarlarca ton malzeme bile yüzeyi zar zor çizebiliyor.
+
+72
+00:06:43,060 --> 00:06:48,859
+Aslında, bu mega yapı aslında Güneşimizin ömrünü uzatacaktır, çünkü daha düşük kütleli yıldızlar
+
+73
+00:06:48,860 --> 00:06:54,919
+daha yavaş yanarak güneş sistemini milyarlarca yıl daha yaşanabilir halde tutar.
+
+74
+00:06:54,920 --> 00:07:00,439
+Bir Caplan iticisiyle tüm güneş sistemini uzay gemimize dönüştürebiliriz.
+
+75
+00:07:00,440 --> 00:07:04,039
+Örneğin, galakside geriye doğru yörüngede
+
+76
+00:07:04,040 --> 00:07:08,359
+dönerek ve yanlarından geçerken yüzlerce veya binlerce yıldızı kolonize ederek.
+
+77
+00:07:08,360 --> 00:07:15,019
+Hatta galaksiden tamamen kaçmak ve Samanyolu'nun ötesine geçmek bile mümkün olabilir.
+
+78
+00:07:15,020 --> 00:07:22,999
+Yıldız motorları, medeniyetlerin yıllar veya on yıllar değil, çağlar üzerinden düşünerek inşa ettiği türden makinelerdir.
+
+79
+00:07:23,000 --> 00:07:30,299
+Güneşimizin bir gün öleceğini bildiğimiz için, bir yıldız motoru, insanların uzak gelecekteki torunlarının
+
+80
+00:07:30,300 --> 00:07:38,079
+, yıldızlararası uzayın korkunç karanlık uçurumuna girmeden başka yıldızlara seyahat etmelerine izin verebilir.
+
+81
+00:07:38,080 --> 00:07:44,209
+Bir yıldız motoru yapana kadar, başıboş ve Galaktik denizin kaprislerine tabiyiz.
+
+82
+00:07:44,210 --> 00:07:47,059
+Bizi nereye götürdüğünü beğenmeyebiliriz.
+
+83
+00:07:47,060 --> 00:07:55,819
+Belki de torunlarımız milyonlarca yıl boyunca yelken açıp yıldızlararası bir tür haline gelecekler.
+
+84
+00:07:55,820 --> 00:08:02,979
+Bu, insanlık çağının 12.019 yılı için son videomuzdu ve nasıl bir yıldı.
+
+85
+00:08:02,980 --> 00:08:07,668
+Her yerde, pek çok farklı insana çok fazla şey oldu.
+
+86
+00:08:07,669 --> 00:08:15,559
+Takvimler ve tatiller sadece hayal ürünüdür, ancak hayatımızı beynimizin kaldırabileceği parçalara ayırmamıza yardımcı olurlar.
+
+87
+00:08:15,560 --> 00:08:22,579
+12.019'u tuhaf bir hayal kırıklığı ve umut karışımıyla geride bırakıyoruz.  Dünya berbat durumda
+
+88
+00:08:22,580 --> 00:08:29,959
+ama biz düzeltebiliriz.  Birkaç gün içinde bu yıl sona erecek ve tekrar deneyeceğiz.
+
+89
+00:08:29,960 --> 00:08:37,180
+Videolarımızı izlediğiniz ve bunca yıldır burada kaldığınız için teşekkür ederiz.  12.020'de görüşmek üzere.
+

@@ -1,0 +1,468 @@
+1
+00:00:01,380 --> 00:00:08,118
+Se você visse um buraco de minhoca na realidade, ele pareceria redondo, esférico, um pouco como um buraco negro.
+
+2
+00:00:08,119 --> 00:00:13,659
+A luz do outro lado passa e lhe dá uma janela para um lugar distante.
+
+3
+00:00:13,660 --> 00:00:21,319
+Uma vez cruzado, o outro lado fica totalmente à vista com sua antiga casa agora recuando para aquela janela esférica cintilante.
+
+4
+00:00:21,320 --> 00:00:23,119
+Mas os buracos de minhoca são reais
+
+5
+00:00:23,120 --> 00:00:27,299
+ou são apenas mágica disfarçada de física e matemática?
+
+6
+00:00:27,300 --> 00:00:31,919
+Se são reais, como funcionam e onde podemos encontrá-los?
+
+7
+00:00:31,920 --> 00:00:41,279
+[Kurzgesagt Intro]
+
+8
+00:00:41,280 --> 00:00:42,779
+Durante a maior parte da história humana,
+
+9
+00:00:42,780 --> 00:00:49,019
+pensamos que o espaço era bem simples;  um grande palco plano onde os eventos do universo se desenrolam.
+
+10
+00:00:49,020 --> 00:00:54,179
+Mesmo se você derrubar o conjunto de planetas e estrelas, ainda resta algo.
+
+11
+00:00:54,180 --> 00:00:57,719
+Esse palco vazio é o espaço e existe,
+
+12
+00:00:57,720 --> 00:01:00,059
+imutável e eterno.
+
+13
+00:01:00,060 --> 00:01:03,759
+A teoria da relatividade de Einstein mudou isso.
+
+14
+00:01:03,760 --> 00:01:10,559
+Diz que o espaço e o tempo compõem esse palco juntos, e eles não são os mesmos em todos os lugares.
+
+15
+00:01:10,560 --> 00:01:16,019
+As coisas no palco podem afetar o próprio palco, esticando-o e deformando-o.
+
+16
+00:01:16,020 --> 00:01:22,739
+Se o antigo palco era como madeira dura imóvel, o palco de Einstein é mais como um colchão d'água.
+
+17
+00:01:22,740 --> 00:01:31,059
+Esse tipo de espaço elástico pode ser dobrado e talvez até rasgado e remendado, o que poderia tornar possíveis os buracos de minhoca.
+
+18
+00:01:31,060 --> 00:01:33,719
+Vamos ver como isso ficaria em 2D.
+
+19
+00:01:33,720 --> 00:01:38,319
+Nosso universo é como uma grande folha plana, dobrada da maneira certa,
+
+20
+00:01:38,320 --> 00:01:42,279
+buracos de minhoca podem conectar dois pontos muito, muito distantes com uma ponte curta
+
+21
+00:01:42,280 --> 00:01:44,919
+que você pode cruzar quase instantaneamente.
+
+22
+00:01:44,920 --> 00:01:49,659
+Permitindo que você viaje pelo universo ainda mais rápido que a velocidade da luz.
+
+23
+00:01:49,660 --> 00:01:52,479
+Então, onde podemos encontrar um buraco de minhoca?
+
+24
+00:01:52,480 --> 00:01:54,999
+Atualmente, apenas em papel.
+
+25
+00:01:55,000 --> 00:02:00,559
+A relatividade geral diz que eles podem ser possíveis, mas isso não significa que eles tenham que existir.
+
+26
+00:02:00,560 --> 00:02:03,059
+A relatividade geral é uma teoria matemática.
+
+27
+00:02:03,060 --> 00:02:09,538
+É um conjunto de equações que tem muitas respostas possíveis, mas nem toda matemática descreve a realidade.
+
+28
+00:02:09,539 --> 00:02:14,059
+Mas eles são teoricamente possíveis e existem diferentes tipos.
+
+29
+00:02:14,060 --> 00:02:16,759
+PONTES DE EINSTEIN ROSEN
+
+30
+00:02:16,760 --> 00:02:21,399
+O primeiro tipo de buraco de minhoca a ser teorizado foram as pontes de Einstein Rosen.
+
+31
+00:02:21,400 --> 00:02:26,239
+Eles descrevem cada buraco negro como uma espécie de portal para um universo paralelo infinito.
+
+32
+00:02:26,240 --> 00:02:28,619
+Vamos tentar imaginá-los em 2D novamente.
+
+33
+00:02:28,620 --> 00:02:30,379
+O espaço-tempo vazio é plano,
+
+34
+00:02:30,380 --> 00:02:32,759
+mas curvado por objetos nele.
+
+35
+00:02:32,760 --> 00:02:37,439
+Se comprimirmos esse objeto, o espaço-tempo fica mais curvado em torno dele.
+
+36
+00:02:37,440 --> 00:02:44,599
+Eventualmente, o espaço-tempo se torna tão deformado que não tem escolha a não ser entrar em colapso em um buraco negro.
+
+37
+00:02:44,600 --> 00:02:51,219
+Uma barreira de mão única se forma: o horizonte de eventos, no qual qualquer coisa pode entrar, mas nada pode escapar;
+
+38
+00:02:51,220 --> 00:02:54,759
+preso para sempre na singularidade em seu núcleo.
+
+39
+00:02:54,760 --> 00:02:57,619
+Mas talvez não haja nenhuma singularidade aqui.
+
+40
+00:02:57,620 --> 00:03:02,979
+Uma possibilidade é que o outro lado do horizonte de eventos se pareça um pouco com o nosso universo novamente,
+
+41
+00:03:02,980 --> 00:03:07,519
+mas espelhado de cabeça para baixo, onde o tempo corre para trás.
+
+42
+00:03:07,520 --> 00:03:11,299
+Em nosso universo as coisas caem no buraco negro.
+
+43
+00:03:11,300 --> 00:03:13,799
+No universo paralelo, com o tempo para trás,
+
+44
+00:03:13,800 --> 00:03:17,959
+o buraco negro espelhado está expelindo coisas um pouco como um big bang.
+
+45
+00:03:17,960 --> 00:03:20,139
+Isso é chamado de buraco branco.
+
+46
+00:03:20,140 --> 00:03:23,639
+Infelizmente, as pontes de Einstein-rosen não podem ser cruzadas.
+
+47
+00:03:23,640 --> 00:03:29,559
+Leva uma quantidade infinita de tempo para atravessar para o universo oposto e eles se fecham no meio.
+
+48
+00:03:29,560 --> 00:03:33,979
+Se você entrar em um buraco negro, você não se tornará a coisa que sai do buraco branco.
+
+49
+00:03:33,980 --> 00:03:36,079
+Você só vai se tornar morto.
+
+50
+00:03:36,080 --> 00:03:41,259
+Assim, para viajar pelo cosmos em um piscar de olhos, os humanos precisam de um tipo diferente de buraco de minhoca;
+
+51
+00:03:41,260 --> 00:03:44,659
+um buraco de minhoca atravessável.
+
+52
+00:03:44,660 --> 00:03:47,879
+BURACOS DE VERMELHA MUITO ANTIGOS DA TEORIA DAS CORDAS
+
+53
+00:03:47,880 --> 00:03:52,359
+Se a teoria das cordas ou uma de suas variações é a descrição correta do nosso universo,
+
+54
+00:03:52,360 --> 00:03:58,959
+então podemos ter sorte e nosso universo pode até já ter uma teia emaranhada de incontáveis buracos de minho
+
+55
+00:03:58,960 --> 00:04:00,519
+a.  Logo após o Big Bang, as
+
+56
+00:04:00,520 --> 00:04:03,839
+flutuações quânticas no universo nas menores escalas
+
+57
+00:04:03,840 --> 00:04:07,699
+muito menores do que um átomo podem ter criado muitos, muitos
+
+58
+00:04:07,700 --> 00:04:09,819
+buracos de minhoca atravessáveis.
+
+59
+00:04:09,820 --> 00:04:13,599
+Enfiadas por elas estão cordas, chamadas cordas cósmicas.
+
+60
+00:04:13,600 --> 00:04:22,159
+No primeiro bilionésimo de trilionésimo de segundo após o Big Bang, as extremidades desses minúsculos buracos de minhoca foram separados por anos-luz;
+
+61
+00:04:22,160 --> 00:04:24,599
+espalhando-os pelo universo.
+
+62
+00:04:24,600 --> 00:04:26,839
+Se os buracos de minhoca fossem feitos no início do universo,
+
+63
+00:04:26,840 --> 00:04:33,399
+seja com cordas cósmicas ou de alguma outra forma, eles poderiam ter acabado;  apenas esperando para ser descoberto.
+
+64
+00:04:33,400 --> 00:04:36,819
+Um pode até estar mais perto do que imaginamos.
+
+65
+00:04:36,820 --> 00:04:40,459
+Do lado de fora, buracos negros e buracos de minhoca podem parecer muito semelhantes;
+
+66
+00:04:40,460 --> 00:04:47,299
+levando alguns físicos a sugerir que os buracos negros supermassivos no centro das galáxias são na verdade buracos de minhoca.
+
+67
+00:04:47,300 --> 00:04:53,139
+Será muito difícil ir até o centro da Via Láctea para descobrir, mas tudo bem.
+
+68
+00:04:53,140 --> 00:05:00,159
+Pode haver uma maneira igualmente extremamente difícil de colocar as mãos em um buraco de minhoca, podemos tentar fazer um.
+
+69
+00:05:00,160 --> 00:05:02,719
+BURACOS DE minhoca
+
+70
+00:05:02,720 --> 00:05:06,019
+Para ser transitável e útil, existem algumas propriedades
+
+71
+00:05:06,020 --> 00:05:08,099
+que queremos que um buraco de minhoca tenha.
+
+72
+00:05:08,100 --> 00:05:12,219
+Primeiro, ele deve obviamente se conectar a partes distantes do espaço-tempo.
+
+73
+00:05:12,220 --> 00:05:15,359
+Como o seu quarto e o banheiro,
+
+74
+00:05:15,360 --> 00:05:18,639
+ou a Terra e Júpiter.
+
+75
+00:05:18,640 --> 00:05:23,879
+Em segundo lugar, não deve conter horizontes de eventos, o que bloquearia a viagem nos dois sentidos.
+
+76
+00:05:23,880 --> 00:05:30,099
+Terceiro, deve ser suficientemente dimensionado para que as forças gravitacionais não matem os viajantes humanos.
+
+77
+00:05:30,100 --> 00:05:34,159
+O maior problema que temos que resolver é manter nossos buracos de minhoca abertos.
+
+78
+00:05:34,160 --> 00:05:38,319
+Não importa como fazemos buracos de minhoca, a gravidade tenta fechá-los.
+
+79
+00:05:38,320 --> 00:05:43,859
+A gravidade quer fechá-la e cortar a ponte;  deixando apenas buracos negros nas extremidades.
+
+80
+00:05:43,860 --> 00:05:49,049
+Seja um buraco de minhoca atravessável com ambas as extremidades no nosso, ou um buraco de minhoca para outro universo,
+
+81
+00:05:49,050 --> 00:05:53,138
+ele tentará se fechar a menos que tenhamos algo que o mantenha aberto.
+
+82
+00:05:53,139 --> 00:05:57,699
+Para buracos de minhoca muito antigos da teoria das cordas, esse é o trabalho das cordas cósmicas.
+
+83
+00:05:57,700 --> 00:06:01,619
+Para buracos de minhoca feitos pelo homem, precisamos de um novo ingrediente.
+
+84
+00:06:01,620 --> 00:06:03,559
+Matéria exótica.
+
+85
+00:06:03,560 --> 00:06:07,139
+Isso não é nada parecido com o que encontramos na Terra, ou mesmo antimatéria.
+
+86
+00:06:07,140 --> 00:06:14,619
+É algo totalmente novo e diferente e excitante, com propriedades loucas como nada que já foi visto antes.
+
+87
+00:06:14,620 --> 00:06:18,139
+Matéria exótica é aquela que tem massa negativa.
+
+88
+00:06:18,140 --> 00:06:23,879
+Massa positiva como pessoas e planetas e tudo mais no universo, é atraente por causa da gravidade.
+
+89
+00:06:23,880 --> 00:06:27,659
+Mas a massa negativa seria repulsiva;  isso o afastaria.
+
+90
+00:06:27,660 --> 00:06:32,539
+Isso faz com que uma espécie de antigravidade os adereços abram nossos buracos de minhoca.
+
+91
+00:06:32,540 --> 00:06:41,039
+E a matéria exótica deve exercer uma pressão enorme para abrir o espaço-tempo, maior ainda do que a pressão dos centros das estrelas de nêutrons.
+
+92
+00:06:41,040 --> 00:06:46,839
+Com matéria exótica, poderíamos tecer o espaço-tempo da maneira que acharmos melhor.
+
+93
+00:06:46,840 --> 00:06:53,059
+Podemos até ter um candidato para essa matéria exótica, o próprio vácuo do espaço.
+
+94
+00:06:53,060 --> 00:06:58,599
+As flutuações quânticas no espaço vazio estão constantemente criando pares de partículas e antipartículas,
+
+95
+00:06:58,600 --> 00:07:01,979
+apenas para serem aniquiladas um instante depois.
+
+96
+00:07:01,980 --> 00:07:10,779
+O vácuo do espaço está fervendo com eles, e já podemos manipulá-los para produzir um efeito semelhante à massa negativa que estamos procurando.
+
+97
+00:07:10,780 --> 00:07:14,919
+Podemos usar isso para estabilizar nossos buracos de minhoca.
+
+98
+00:07:14,920 --> 00:07:21,939
+Uma vez que a mantivessemos aberta, as pontas começariam juntas.  Então, teríamos que movê-los para lugares interessantes.
+
+99
+00:07:21,940 --> 00:07:28,219
+Poderíamos começar conectando o sistema solar;  deixando uma extremidade de cada buraco de minhoca em órbita ao redor da Terra.
+
+100
+00:07:28,220 --> 00:07:30,759
+Poderíamos lançar outros no espaço profundo.
+
+101
+00:07:30,760 --> 00:07:37,359
+A Terra poderia ser um centro de buraco de minhoca para uma vasta civilização humana interestelar espalhada por anos-luz,
+
+102
+00:07:37,360 --> 00:07:40,259
+mas apenas a um buraco de minhoca de distância.
+
+103
+00:07:40,260 --> 00:07:43,059
+No entanto, os buracos de minhoca têm um lado escuro.
+
+104
+00:07:43,060 --> 00:07:50,599
+Mesmo abrindo um único buraco de minhoca, meio que quebra o universo de maneiras fundamentais, potencialmente criando paradoxos de viagem no tempo
+
+105
+00:07:50,600 --> 00:07:54,579
+e violando a estrutura causal do universo.
+
+106
+00:07:54,580 --> 00:08:02,499
+Muitos cientistas pensam que isso não significa apenas que eles deveriam ser impossíveis de fazer, mas que é impossível para eles existirem.
+
+107
+00:08:02,500 --> 00:08:08,899
+Então, por enquanto, só sabemos que existem buracos de minhoca em nossos corações, e no papel na forma de equações.
+
+108
+00:08:08,900 --> 00:08:13,819
+Sabemos que você quer saber mais sobre coisas do universo, então estamos tentando algo novo.
+
+109
+00:08:13,820 --> 00:08:20,379
+Kurzgesagt e Brilliant estão colaborando em uma série de vídeos de seis partes sobre nossa ciência favorita e coisas espaciais.
+
+110
+00:08:20,380 --> 00:08:25,559
+Graças à ajuda deles, haverá mais vídeos neste canal nos próximos seis meses.
+
+111
+00:08:25,560 --> 00:08:30,279
+Kurzgesagt trabalha com a Brilliant há algum tempo e adoramos o que eles estão fazendo.
+
+112
+00:08:30,280 --> 00:08:34,839
+Em poucas palavras, Brilliant ajuda você a progredir, dominando habilidades matemáticas e científicas,
+
+113
+00:08:34,840 --> 00:08:38,999
+resolvendo ativamente problemas desafiadores e fascinantes.
+
+114
+00:08:39,000 --> 00:08:45,439
+Para apoiar nossa colaboração com eles, visite bright.org/nutshell e inscreva-se gratuitamente hoje mesmo.
+
+115
+00:08:45,440 --> 00:08:47,979
+As primeiras 688 pessoas que usarem o link
+
+116
+00:08:47,980 --> 00:09:01,019
+terão 20% de desconto na assinatura premium anual.
+
+117
+00:09:01,020 --> 00:09:11,980
+-- EDITAL DE LEGENDA FINAL/LER POR: WinterPyro
+

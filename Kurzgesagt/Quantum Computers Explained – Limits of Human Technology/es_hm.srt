@@ -1,0 +1,548 @@
+1
+00:00:00,000 --> 00:00:01,759
+Durante la mayor parte de nuestra historia
+
+2
+00:00:01,760 --> 00:00:06,739
+la tecnología humana consistió en nuestros cerebros, fuego y palos afilados.
+
+3
+00:00:06,740 --> 00:00:10,699
+Mientras que el fuego y los palos afilados se convirtieron en plantas de energía y armas nucleares
+
+4
+00:00:10,700 --> 00:00:13,379
+la más grande mejora le ha ocurrido a nuestros cerebros.
+
+5
+00:00:13,380 --> 00:00:18,039
+Desde los años 60's, el poder de nuestros cerebros artificiales ha mantenido un crecimiento exponencial
+
+6
+00:00:18,040 --> 00:00:22,639
+permitiendo a las computadoras volverse más pequeñas y más poderosas al mismo tiempo.
+
+7
+00:00:22,640 --> 00:00:25,699
+Pero este proceso está a punto de alcanzar sus límites físicos.
+
+8
+00:00:25,700 --> 00:00:29,079
+Las partes de las computadoras se aproximan al tamaño de un átomo.
+
+9
+00:00:29,080 --> 00:00:40,019
+Para entender por qué esto es un problema, debemos explicar lo más básico.
+
+10
+00:00:40,020 --> 00:00:42,299
+Una computadora está hecha de componentes muy simples
+
+11
+00:00:42,300 --> 00:00:45,519
+los cuáles hacen cosas muy sencillas, representando datos
+
+12
+00:00:45,520 --> 00:00:48,779
+los medios para procesarla y mecanismos de control.
+
+13
+00:00:48,780 --> 00:00:51,419
+Los chips de una computadora contienen módulos,
+
+14
+00:00:51,420 --> 00:00:52,679
+los cuáles contienen puertas lógicas,
+
+15
+00:00:52,680 --> 00:00:54,739
+las que contienen transistores.
+
+16
+00:00:54,740 --> 00:00:58,639
+El transistor es la forma más simple de procesamiento de datos en las computadoras,
+
+17
+00:00:58,640 --> 00:01:03,959
+y son básicamente interruptores que bloquean o permiten el paso de información entrante.
+
+18
+00:01:03,960 --> 00:01:09,359
+Esta información está compuesta por "bits" a los cuáles se les es asignado un "cero" o un "uno".
+
+19
+00:01:09,360 --> 00:01:13,479
+Las combinaciones de muchos bits son usadas para representar información más compleja.
+
+20
+00:01:13,480 --> 00:01:16,439
+Los transistores son combinados para crear puertas lógicas,
+
+21
+00:01:16,440 --> 00:01:18,199
+las cuáles aún realizan cosas muy sencillas.
+
+22
+00:01:18,200 --> 00:01:19,019
+Por ejemplo:
+
+23
+00:01:19,020 --> 00:01:23,379
+Una compuerta "AND" manda una salida de 1 sólo si sus dos entradas son 1,
+
+24
+00:01:23,380 --> 00:01:25,819
+y una salida de 0 en caso contrario.
+
+25
+00:01:25,820 --> 00:01:29,379
+Las combinaciones de compuertas lógicas finalmente forman módulos significativos
+
+26
+00:01:29,380 --> 00:01:31,559
+digamos, para sumar dos números.
+
+27
+00:01:31,560 --> 00:01:34,019
+Una vez que se logra sumar, se logra multiplicar
+
+28
+00:01:34,020 --> 00:01:37,539
+y una vez que puedes multiplicar, básicamente puedes hacer lo que sea.
+
+29
+00:01:37,540 --> 00:01:41,279
+Como todas las operaciones básicas son literalmente más simples que las matemáticas de primer grado
+
+30
+00:01:41,280 --> 00:01:44,219
+es posible imaginar a una computadora como un grupo de niños de 7 años
+
+31
+00:01:44,220 --> 00:01:46,699
+respondiendo preguntas matemáticas realmente básicas.
+
+32
+00:01:46,700 --> 00:01:49,079
+Otro montón de ellos, suficientemente grande, podría calcular lo que sea
+
+33
+00:01:49,080 --> 00:01:51,399
+desde astrofísica, hasta Zelda.
+
+34
+00:01:51,400 --> 00:01:54,119
+Sin embargo, con estas partes volviéndose cada vez más pequeñas
+
+35
+00:01:54,120 --> 00:01:56,759
+la física cuántica está volviendo las cosas un poco problemáticas.
+
+36
+00:01:56,760 --> 00:02:00,359
+En resumen: Un transistor es sólo un interruptor eléctrico.
+
+37
+00:02:00,360 --> 00:02:03,479
+La electricidad, son electrones moviéndose de un lugar a otro
+
+38
+00:02:03,480 --> 00:02:08,379
+así que un interruptor, es un pasaje que puede bloquear el movimiento de electrones en una dirección.
+
+39
+00:02:08,380 --> 00:02:12,199
+Hoy día, la escala típica para los transistores es de 14 nanómetros
+
+40
+00:02:12,200 --> 00:02:15,919
+lo que representa 8 veces menos que el diámetro del virus del VIH
+
+41
+00:02:15,920 --> 00:02:19,179
+y 500 veces más pequeño que los glóbulos rojos.
+
+42
+00:02:19,180 --> 00:02:22,599
+Conforme los transistores se encogen al tamaño de sólo algunos átomos
+
+43
+00:02:22,600 --> 00:02:26,259
+los electrones simplemente se transfieren a sí mismos al otro lado del camino bloqueado
+
+44
+00:02:26,260 --> 00:02:28,779
+por medio de un proceso llamado "el efecto túnel".
+
+45
+00:02:28,780 --> 00:02:32,479
+En el reino de la cuántica, la física funciona muy diferente a la forma predecible
+
+46
+00:02:32,480 --> 00:02:33,579
+a la que estamos acostumbrados
+
+47
+00:02:33,580 --> 00:02:37,179
+y las computadoras tradicionales simplemente no hacen sentido.
+
+48
+00:02:37,180 --> 00:02:41,779
+Nos estamos acercando a una barrera física real para nuestro progreso tecnológico.
+
+49
+00:02:41,780 --> 00:02:46,199
+Para resolver este problema, los científicos están tratando de usar propiedades cuánticas inusuales
+
+50
+00:02:46,200 --> 00:02:49,779
+en su propio beneficio, al construir computadoras cuánticas.
+
+51
+00:02:49,780 --> 00:02:53,679
+En las computadoras normales, los bits son las unidades más pequeñas de información.
+
+52
+00:02:53,680 --> 00:02:58,339
+Las computadoras cuánticas usan "qubits", los cuales también pueden tener uno de esos dos valores.
+
+53
+00:02:58,340 --> 00:03:00,959
+Un qubit puede ser cualquier sistema cuántico de dos niveles
+
+54
+00:03:00,960 --> 00:03:03,119
+tal como un "spin" en un campo electromagnético
+
+55
+00:03:03,120 --> 00:03:04,679
+o un único fotón.
+
+56
+00:03:04,680 --> 00:03:07,819
+"0" y "1" son los posibles estados del sistema
+
+57
+00:03:07,820 --> 00:03:11,299
+tal como la polarización horizontal o vertical de un fotón.
+
+58
+00:03:11,300 --> 00:03:14,859
+En el mundo cuántico, el qubit no tiene que estar sólo en uno de esos valores
+
+59
+00:03:14,860 --> 00:03:17,999
+sino que puede estar en cualquier proporción de ambos estados al mismo tiempo.
+
+60
+00:03:18,000 --> 00:03:20,419
+Esto es llamado "superposición".
+
+61
+00:03:20,420 --> 00:03:24,759
+Pero tan pronto como pruebas su valor, digamos, al mandar al fotón a través de un filtro
+
+62
+00:03:24,760 --> 00:03:29,359
+tendrá que decidir estar vertical, u horizontalmente polarizado.
+
+63
+00:03:29,360 --> 00:03:33,859
+Así que, mientras no sea observado, el qubit es una superposición de probabilidades
+
+64
+00:03:33,860 --> 00:03:37,519
+para "0" ó "1", y puedes predecir cuál es el que podría ser...
+
+65
+00:03:37,520 --> 00:03:42,459
+Pero en el instante en el que lo mides, colapsa en uno de los estados definitivos.
+
+66
+00:03:42,460 --> 00:03:45,259
+La superposición, es una tramposa.
+
+67
+00:03:45,260 --> 00:03:49,239
+Para los bits clásicos se puede estar en una de dos, para un par en cuatro configuraciones diferentes
+
+68
+00:03:49,240 --> 00:03:50,459
+al mismo tiempo.
+
+69
+00:03:50,460 --> 00:03:55,039
+Eso son 16 posibles combinaciones de las cuáles podemos ocupar sólo una.
+
+70
+00:03:55,040 --> 00:03:57,339
+Para los qubits en superposición, sin embargo,
+
+71
+00:03:57,340 --> 00:04:00,959
+se es posible estar en todas esas 16 combinaciones al mismo tiempo
+
+72
+00:04:00,960 --> 00:04:04,539
+Este número crece exponencialmente con cada qubit extra.
+
+73
+00:04:04,540 --> 00:04:08,819
+Veinte de ellos pueden almacenar 1 millón de valores en paralelo.
+
+74
+00:04:08,820 --> 00:04:11,819
+Una propiedad realmente extraña y nada intuitiva que los qubits pueden tener
+
+75
+00:04:11,820 --> 00:04:15,359
+es el "entrelazamiento", una estrecha conexión que hace a los qubits
+
+76
+00:04:15,360 --> 00:04:18,319
+reaccionar al cambio de otros instantáneamente,
+
+77
+00:04:18,320 --> 00:04:20,679
+no importando qué tan lejos estén separados.
+
+78
+00:04:20,680 --> 00:04:23,639
+Esto significa que cuando se mide sólo un qubit entrelazado,
+
+79
+00:04:23,640 --> 00:04:28,059
+se pueden deducir directamente las propiedades de sus compañeros, sin siquiera tener que mirar.
+
+80
+00:04:28,060 --> 00:04:31,159
+La manipulación de qubits es un dolor de cabeza, también.
+
+81
+00:04:31,160 --> 00:04:34,099
+Una compuerta lógica normal, obtiene un conjunto simple de entradas
+
+82
+00:04:34,100 --> 00:04:36,699
+y produce una salida definitiva.
+
+83
+00:04:36,700 --> 00:04:40,179
+Una compuerta cuántica, manipula una entrada de superposiciones,
+
+84
+00:04:40,180 --> 00:04:41,879
+rota probabilidades,
+
+85
+00:04:41,880 --> 00:04:45,459
+y produce otra superposición como salida.
+
+86
+00:04:45,460 --> 00:04:48,239
+Así que en las computadoras cuánticas tienen a unos cuantos grupos de qubits,
+
+87
+00:04:48,240 --> 00:04:51,739
+a los que les aplica compuertas cuánticas para entrelazarlos y manipular probabilidades
+
+88
+00:04:51,740 --> 00:04:55,219
+y finalmente miden su resultado, colapsando superposiciones
+
+89
+00:04:55,220 --> 00:04:58,059
+a una secuencia de ceros y unos...
+
+90
+00:04:58,060 --> 00:05:01,899
+Lo que esto significa es que obtienes el montón completo de cálculos que son posibles
+
+91
+00:05:01,900 --> 00:05:04,739
+con tu configuración, y todo hecho al mismo tiempo.
+
+92
+00:05:04,740 --> 00:05:07,239
+En última instancia, puedes medir sólo uno de los resultados
+
+93
+00:05:07,240 --> 00:05:09,659
+y podría ser únicamente el que quieres,
+
+94
+00:05:09,660 --> 00:05:12,819
+así que podrías revisar nuevamente e intentar de nuevo.
+
+95
+00:05:12,820 --> 00:05:16,159
+Pero, explotar inteligentemente la superposición y el entrelazamiento,
+
+96
+00:05:16,160 --> 00:05:21,799
+puede ser exponencialmente más eficiente de lo que jamás sería en una computadora normal.
+
+97
+00:05:21,800 --> 00:05:23,939
+Así que bien, aunque probablemente las computadoras cuánticas
+
+98
+00:05:23,940 --> 00:05:25,799
+no remplazarían a nuestras computadoras domésticas,
+
+99
+00:05:25,800 --> 00:05:28,839
+en algunas áreas son vastamente superiores.
+
+100
+00:05:28,840 --> 00:05:30,959
+Una de ellas, es la búsqueda en bases de datos.
+
+101
+00:05:30,960 --> 00:05:32,539
+Para encontrar algo en una base de datos,
+
+102
+00:05:32,540 --> 00:05:36,079
+una computadora normal podría tener que comprobar cada uno de sus registros.
+
+103
+00:05:36,080 --> 00:05:39,359
+Los algoritmos cuánticos necesitan sólo la raíz cuadrada de ese tiempo,
+
+104
+00:05:39,360 --> 00:05:42,779
+lo que para bases de datos grandes, es una enorme diferencia.
+
+105
+00:05:42,780 --> 00:05:44,939
+El uso más famoso de computadoras cuánticas
+
+106
+00:05:44,940 --> 00:05:47,259
+es la aplicación de seguridad informática.
+
+107
+00:05:47,260 --> 00:05:50,079
+Justo ahora, tu navegación, envío de correo electrónico y datos bancarios
+
+108
+00:05:50,080 --> 00:05:52,399
+son mantenidos a salvo por un sistema de encriptación
+
+109
+00:05:52,400 --> 00:05:54,219
+en el cuál le das a todos una clave pública
+
+110
+00:05:54,220 --> 00:05:57,119
+para codificar los mensajes que sólo tú puedes decodificar.
+
+111
+00:05:57,120 --> 00:05:59,799
+El problema es que esta clave pública puede ser de hecho usada
+
+112
+00:05:59,800 --> 00:06:02,619
+para calcular tu clave secreta privada.
+
+113
+00:06:02,620 --> 00:06:05,779
+Afortunadamente, realizar las matemáticas necesarias en cualquier computadora normal
+
+114
+00:06:05,780 --> 00:06:08,159
+podría tomar años de prueba y error.
+
+115
+00:06:08,160 --> 00:06:10,899
+Pero una computadora cuántica con aceleración exponencial,
+
+116
+00:06:10,900 --> 00:06:12,619
+podría realizarlo en un instante.
+
+117
+00:06:12,620 --> 00:06:15,859
+Otro uso realmente excitante son las simulaciones.
+
+118
+00:06:15,860 --> 00:06:19,239
+Las simulaciones del mundo cuántico requieren el uso de muchos recursos
+
+119
+00:06:19,240 --> 00:06:22,459
+e incluso para estructuras más grandes, como las moléculas,
+
+120
+00:06:22,460 --> 00:06:24,619
+presentan fallas de precisión.
+
+121
+00:06:24,620 --> 00:06:29,139
+Así que, ¿por qué no simular física cuántica con física cuántica?
+
+122
+00:06:29,140 --> 00:06:32,219
+Las simulaciones cuánticas pueden proveer nuevos conocimientos para las proteínas
+
+123
+00:06:32,220 --> 00:06:34,439
+que podrían revolucionar la medicina.
+
+124
+00:06:34,440 --> 00:06:37,179
+De momento no sabemos si las computadoras cuánticas serían sólo
+
+125
+00:06:37,180 --> 00:06:41,179
+una herramienta especializada, o una gran revolución para la humanidad.
+
+126
+00:06:41,180 --> 00:06:44,019
+No tenemos ni idea de dónde residen los límites de la tecnología
+
+127
+00:06:44,020 --> 00:06:47,679
+y sólo existe una manera de averiguarlo.
+
+128
+00:06:47,680 --> 00:06:50,819
+Este video es apoyado por la Academia de Ciencias Australiana,
+
+129
+00:06:50,820 --> 00:06:54,419
+que promueve y apoya la excelencia en las ciencias.
+
+130
+00:06:54,420 --> 00:06:57,059
+Conoce más sobre este y otros temas en
+
+131
+00:06:57,060 --> 00:06:58,919
+nova.org.au.
+
+132
+00:06:58,920 --> 00:07:02,459
+Fue un placer trabajar con ellos, así que visítenlos en su página web.
+
+133
+00:07:02,460 --> 00:07:05,019
+Nuestros videos también son posibles gracias a tu apoyo en
+
+134
+00:07:05,020 --> 00:07:06,679
+patreon.com.
+
+135
+00:07:06,680 --> 00:07:10,779
+Si quieres apoyarnos y formar parte de la Armada de Pájaros de Kurzgesagt,
+
+136
+00:07:10,780 --> 00:07:12,779
+checa nuestra página en Patreon.
+
+137
+00:07:12,780 --> 00:07:13,280
+*** Traducido a Español Latinoamérica por Luis Valdés & Alexandra Tello***
+

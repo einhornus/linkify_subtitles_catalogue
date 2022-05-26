@@ -1,0 +1,872 @@
+1
+00:00:01,120 --> 00:00:03,839
+Wyobraź sobie, że urodziłeś się w latach 80.
+
+2
+00:00:03,840 --> 00:00:06,939
+i ktoś by ci powiedział, że komputery przejmą wszystko
+
+3
+00:00:06,940 --> 00:00:10,359
+od zakupów do randek, czy giełdy
+
+4
+00:00:10,360 --> 00:00:14,259
+że miliony ludzi będą połączeni poprzez rodzaj sieci
+
+5
+00:00:14,260 --> 00:00:19,799
+że będziesz posiadać urządzenie przenośnie o rzędy wielkości potężniejsze od super komputerów
+
+6
+00:00:19,800 --> 00:00:23,479
+wydawało by się to być absurdem, ale to wszystko się stało
+
+7
+00:00:23,480 --> 00:00:27,999
+science fiction stało się naszą rzeczywistością i nawet się nad tym nie zastanawiamy
+
+8
+00:00:28,000 --> 00:00:31,319
+jesteśmy teraz w podobnym miejscu z inżynierią genetyczną
+
+9
+00:00:31,320 --> 00:00:33,699
+Więc porozmawiajmy o tym
+
+10
+00:00:33,700 --> 00:00:36,339
+Skąd się to wzięło, co teraz robimy
+
+11
+00:00:36,340 --> 00:00:52,259
+oraz o ostatnim przełomie który zmieni to jak żyjemy i co uważamy za normalne na zawsze
+
+12
+00:00:52,260 --> 00:00:56,219
+*Bardzo krótka i niepełna historia modyfikacji genów*
+
+13
+00:00:56,220 --> 00:00:59,899
+Ludzie modyfikowali życie od tysięcy lat
+
+14
+00:00:59,900 --> 00:01:04,579
+poprzez dokładną selekcję wzmocniliśmy przydatne cechy u zwierząt i roślin
+
+15
+00:01:04,580 --> 00:01:08,359
+staliśmy się w tym dobrzy ale nigdy do końca nie rozumieliśmy jak to działa
+
+16
+00:01:08,360 --> 00:01:13,919
+dopóki nie odkryliśmy kwasu deoksyrybonukleinowego - DNA
+
+17
+00:01:13,920 --> 00:01:20,639
+skomplikowany molekuł który ma za zadanie pilnować funkcji życiowych i reprodukcji która ma utrzymać wszystko przy życiu
+
+18
+00:01:20,640 --> 00:01:28,479
+Informacja jest zakodowana w strukturze molekuły, cztery nukleotydy są podstawą i tworzą kod który przenosi instrukcje
+
+19
+00:01:28,480 --> 00:01:32,679
+wystarczy zmienić instrukcje aby zmienić istotę która nosi ją w sobie
+
+20
+00:01:32,680 --> 00:01:36,439
+kiedy tylko DNA zostało odkryte, naukowcy próbowali majstrować przy nim
+
+21
+00:01:36,440 --> 00:01:43,359
+w 1960 roku naukowcy bombardowali rośliny promieniowaniem by wywołać losowe mutacje w kodzie genetycznym
+
+22
+00:01:43,360 --> 00:01:47,079
+pomysł był taki aby uzyskać użyteczne odmiany roślin czystym przypadkim
+
+23
+00:01:47,080 --> 00:01:49,759
+czasami to naprawdę działało
+
+24
+00:01:49,760 --> 00:01:56,639
+w latach 70-tych naukowcy wstrzykiwali fragmenty DNA do bakterii, roślin i zwierząt by je badać i modyfikować
+
+25
+00:01:56,640 --> 00:02:00,599
+dla rozwoju badań, medycyny, rolnictwa i dla zabawy
+
+26
+00:02:00,600 --> 00:02:04,239
+najwcześniejsze genetycznie zmodyfikowane zwierzę urodziło się w 1974
+
+27
+00:02:04,240 --> 00:02:09,079
+robiąc z myszy standardowe narzędzie do badań, ratując tym miliony żyć
+
+28
+00:02:09,080 --> 00:02:15,199
+we wczesnych latach 80-tych przyszła komercjalizacja, pierwszy patent został wydany za mikroby zdolne pochłaniać olej
+
+29
+00:02:15,200 --> 00:02:20,719
+dziś produkujemy wiele chemikaliów z wyhodowanego życia jak ratujące życie czynniki krzepnięcia
+
+30
+00:02:20,720 --> 00:02:22,719
+hormony wzrostu lub insulinę
+
+31
+00:02:22,720 --> 00:02:26,639
+przed tem wszystkie te rzeczy musieliśmy wyciągać z organów zwierząt
+
+32
+00:02:26,640 --> 00:02:30,319
+pierwsza żywność zmodyfikowana w laboratorium weszła do sprzedaży w 1994
+
+33
+00:02:30,320 --> 00:02:34,319
+zachowujący smak pomidor, pomidor obdarzony znacznie dłuższym życiem na półce
+
+34
+00:02:34,320 --> 00:02:38,599
+gdzie dodatkowy gen tłumił budowanie enzymów gnilnych
+
+35
+00:02:38,600 --> 00:02:43,999
+lecz żywność genetycznie modyfikowana i kontrowersje wokół niej zasługuje na osobny film
+
+36
+00:02:44,000 --> 00:02:47,839
+w roku 1990 był również krótki epizod związany z modyfikacją ludzkiego genomu
+
+37
+00:02:47,840 --> 00:02:53,839
+by wyleczyć niepłodność matki, dzieci zostały poczęte z informacji genetycznych od trzech ludzi
+
+38
+00:02:53,840 --> 00:02:58,199
+czyniąc ich pierwszymi ludzi w dziejach posiadających trzech genetycznych rodziców
+
+39
+00:02:58,200 --> 00:03:04,639
+dzisiaj mamy super umięśnione świnie, szybko rosnące łososie, bezpióre kurczaki i przezroczyste żaby
+
+40
+00:03:04,640 --> 00:03:07,479
+dla zabawy zrobiliśmy ryby świecące w ciemności
+
+41
+00:03:07,480 --> 00:03:11,559
+fluorescencyjny "danio pręgowany" dostępny jest za mniej niż 10 dolarów
+
+42
+00:03:11,560 --> 00:03:17,359
+wszystko to jest jak na razie bardzo imponujące, lecz do niedawna edytowanie genów było bardzo drogie
+
+43
+00:03:17,360 --> 00:03:20,159
+skomplikowane i zabierało dużo czasu
+
+44
+00:03:20,160 --> 00:03:25,519
+to się teraz zmieniło, wraz z nową rewolucyjną technologią, wchodzącą teraz na scenę
+
+45
+00:03:25,520 --> 00:03:27,039
+CRISPR
+
+46
+00:03:27,040 --> 00:03:31,159
+w ciągu nocy koszt modyfikacji zmalał o 99%
+
+47
+00:03:31,160 --> 00:03:36,559
+zamiast roku, potrzeba kilku tygodni by przeprowadzić eksperymenty i w zasadzie każdy kto ma laboratorium
+
+48
+00:03:36,560 --> 00:03:38,279
+może je przeprowadzić
+
+49
+00:03:38,280 --> 00:03:42,159
+Ciężko jest ocenić jak wielką technologiczną rewolucją CRISPR jest
+
+50
+00:03:42,160 --> 00:03:46,079
+dosłownie ma on potencjał aby zmienić ludzkość na zawsze
+
+51
+00:03:46,080 --> 00:03:50,719
+dlaczego ta nagła rewolucja powstała i jak ona działa
+
+52
+00:03:50,720 --> 00:03:54,639
+* Niektóre grupy po prostu nie nadążają - Najstarsza wojna na świecie *
+
+53
+00:03:54,640 --> 00:03:58,999
+bakterie i wirusy walczą ze sobą od początku istnienia
+
+54
+00:03:59,000 --> 00:04:07,199
+tak zwane bakteriofagi lub po prostu fagi polują na bakterie, w oceanie fagi zabijają ich 40% każdego dnia
+
+55
+00:04:07,200 --> 00:04:10,759
+fagi dokonują tego poprzez umieszczenie swojego kodu genetycznego wewnątrz bakterii
+
+56
+00:04:10,760 --> 00:04:13,519
+i przejęcie jej w celu użycia jako fabryki
+
+57
+00:04:13,520 --> 00:04:16,639
+bakterie próbują się opierać, lecz w większości przypadków zawodzą,
+
+58
+00:04:16,640 --> 00:04:19,239
+ponieważ ich narzędzia obronne są zbyt słabe
+
+59
+00:04:19,240 --> 00:04:21,999
+lecz czasami bakterie przeżywają atak
+
+60
+00:04:22,000 --> 00:04:27,679
+tylko w takim przypadku mogą uruchomić najbardziej efektywny system anty-wirusowy
+
+61
+00:04:27,680 --> 00:04:34,319
+zachowują cząstkę DNA wirusa w swoim własnym kodzie genetycznym w archiwum DNA zwanym "crisper"
+
+62
+00:04:34,320 --> 00:04:37,439
+tutaj jest bezpiecznie przechowywane dopóki nie będzie znowu potrzebne
+
+63
+00:04:37,440 --> 00:04:42,999
+kiedy wirus atakuje ponownie, bakteria szybko wykonuje kopię RNA z archiwum DNA
+
+64
+00:04:43,000 --> 00:04:47,359
+i uzbraja tajną broń - białko o nazwie CAS9
+
+65
+00:04:47,360 --> 00:04:52,199
+białko teraz skanuje wnętrze bakterii w poszukiwaniu oznak wirusowego intruza
+
+66
+00:04:52,200 --> 00:04:56,839
+poprzez porównywanie każdej cząstki DNA którą znajdzie z próbką z archiwum
+
+67
+00:04:56,840 --> 00:05:02,159
+kiedy znajdzie w 100% idealne dopasowanie, zostaje aktywowane i wycina DNA wirusa
+
+68
+00:05:02,160 --> 00:05:05,799
+czyniąc je bezużytecznym, w ten sposób broniąc bakterii przed atakiem
+
+69
+00:05:05,800 --> 00:05:12,039
+co jest wyjątkowe to to że CAS9 jest bardzo precyzyjne, zupełnie jak chirurg DNA
+
+70
+00:05:12,040 --> 00:05:17,439
+rewolucja zaczęła się wtedy kiedy naukowcy odkryli że system CRISPR jest programowalny
+
+71
+00:05:17,440 --> 00:05:22,879
+możesz po prostu dać mu kopie DNA które chcesz zmodyfikować i włożyć system do żywej komórki
+
+72
+00:05:22,880 --> 00:05:28,799
+jeśli poprzednie techniki genetycznej manipulacji były jak mapa, CRISPR jest jak system GPS
+
+73
+00:05:28,800 --> 00:05:34,319
+pomijając jego precyzje, to że jest tani i łatwy, CRISPR daje możliwość modyfikacji żyjących komórek
+
+74
+00:05:34,320 --> 00:05:39,319
+by włączać i wyłączać geny, namierzać i badać konkretne sekwencje DNA
+
+75
+00:05:39,320 --> 00:05:41,479
+działa on również na każdy typ komórek
+
+76
+00:05:41,480 --> 00:05:45,759
+mikroorganizmy, rośliny, zwierzęta lub ludzi
+
+77
+00:05:45,760 --> 00:05:51,559
+pomijając rewolucję CRISPR wciąż jest dla naukowców narzędziem pierwszej generacji
+
+78
+00:05:51,560 --> 00:05:55,959
+bardziej precyzyjne narzędzia już zostały stworzone i użyte tak jak mówiliśmy
+
+79
+00:05:55,960 --> 00:05:59,839
+* Bądźmy przez chwilę optymistyczni - Koniec chorób? *
+
+80
+00:05:59,840 --> 00:06:06,239
+w 2015 naukowcy użyli CRISPR do wycięcia wirusa HIV z żywych komórek pacjenta w laboratorium
+
+81
+00:06:06,240 --> 00:06:08,239
+dowodząc że jest to możliwe
+
+82
+00:06:08,240 --> 00:06:15,679
+tylko rok później, wykonali projekt o większej skali ze szczurami posiadającymi wirus HIV w prawie każdej komórce ciała
+
+83
+00:06:15,680 --> 00:06:22,999
+poprzez wstrzyknięcie CRISPR w szczurzy ogon były w stanie usunąć więcej niż 50% wirusa z komórek w całym organizmie
+
+84
+00:06:23,000 --> 00:06:27,239
+w przeciągu paru dekad terapia CRISPR może leczyć HIV
+
+85
+00:06:27,240 --> 00:06:32,039
+i inne retrowirusy - wirusy które ukrywają się w środku ludzkiego DNA jak opryszczka
+
+86
+00:06:32,040 --> 00:06:34,639
+mogą zostać wytępione tą metodą
+
+87
+00:06:34,640 --> 00:06:38,879
+CRISPR mógłby również pokonać jednego z naszych najgorszych wrogów - raka
+
+88
+00:06:38,880 --> 00:06:42,399
+Rak występuje kiedy komórka nie chcę umrzeć i podtrzymuje rozmnażanie
+
+89
+00:06:42,400 --> 00:06:45,079
+jednocześnie ukrywając się przed układem odpornościowym
+
+90
+00:06:45,080 --> 00:06:49,999
+CRISPR daje nam środki do edycji naszych komórek odpornościowych i sprawiania że będą lepszymi łowcami raka
+
+91
+00:06:50,000 --> 00:06:55,679
+pozbycie się raka mogłoby oznaczać kilka zastrzyków, kilku tysięcy twoich własnych komórek
+
+92
+00:06:55,680 --> 00:06:59,559
+które zostały ulepszone w laboratorium by wyleczyć cię na dobre
+
+93
+00:06:59,560 --> 00:07:05,999
+pierwsze próby kliniczne kuracji CRISPR w leczeniu raka na ludziach zostały dopuszczone na początku 2016 roku w Stanach Zjednoczonych
+
+94
+00:07:06,000 --> 00:07:10,519
+nie cały miesiąc później chińscy naukowcy ogłosili że będą leczyć pacjentów z rakiem płuc
+
+95
+00:07:10,520 --> 00:07:14,079
+zmodyfikowanymi komórkami układu odpornościowego metodą CRISPR w sierpniu 2016
+
+96
+00:07:14,080 --> 00:07:16,759
+wydarzenia szybko nabierają temp
+
+97
+00:07:16,760 --> 00:07:18,999
+następnie choroby neuro-genetyczne
+
+98
+00:07:19,000 --> 00:07:25,679
+są ich tysiące, od ledwo denerwujących, do śmiertelnych lub zapowiadających dziesięciolecia cierpienia
+
+99
+00:07:25,680 --> 00:07:30,079
+z tak potężną bronią taką jak CRISPR, być może będziemy w stanie z tym skończyć
+
+100
+00:07:30,080 --> 00:07:36,119
+ponad 3000 chorób genetycznych jest spowodowanych przez jedną niepoprawną literę w DNA
+
+101
+00:07:36,120 --> 00:07:43,679
+już budujemy zmodyfikowane wersje CAS9 które są w stanie zmienić jedną literę lecząc chorobę w komórce
+
+102
+00:07:43,680 --> 00:07:48,199
+w ciągu dekady lub dwóch być może będziemy mogli leczyć tysiące chorób na zawsze
+
+103
+00:07:48,200 --> 00:07:51,479
+lecz wszystkie te medyczne zabiegi mają jedną wspólną cechę
+
+104
+00:07:51,480 --> 00:07:55,079
+są ograniczone do jednostki i umierają razem z nią
+
+105
+00:07:55,080 --> 00:07:59,479
+chyba że użyjemy ich na komórkach reprodukcyjnych lub bardzo wczesnych zarodkach
+
+106
+00:07:59,480 --> 00:08:03,199
+lecz CRISPR może i prawdopodobnie będzie używany do znacznie większych celów
+
+107
+00:08:03,200 --> 00:08:05,239
+tworzenia zmodyfikowanych ludzi
+
+108
+00:08:05,240 --> 00:08:06,879
+zaprojektowanych dzieci
+
+109
+00:08:06,880 --> 00:08:11,639
+i będzie oznaczać stopniowe lecz nieodwracalne zmiany ludzkiego genomu
+
+110
+00:08:11,640 --> 00:08:16,959
+* Forma podąża za funkcją - Projektowanie dzieci *
+
+111
+00:08:16,960 --> 00:08:20,719
+środki by edytować genom ludzkiego zarodka już istnieją
+
+112
+00:08:20,720 --> 00:08:23,879
+chociaż technologia wciąż jest na bardzo wczesnych stadiach
+
+113
+00:08:23,880 --> 00:08:27,239
+została zastosowana już 2 razy
+
+114
+00:08:27,240 --> 00:08:32,038
+w 2015 i 2016 roku chińscy naukowcy eksperymentowali z ludzkimi zarodkami
+
+115
+00:08:32,039 --> 00:08:35,558
+i odnieśli częściowy sukces za drugim razem
+
+116
+00:08:35,559 --> 00:08:39,359
+pokazali ogromne wyzwania przed którymi stoimy w kwestii edycji ludzkiego genomu
+
+117
+00:08:39,360 --> 00:08:42,639
+lecz również to że naukowcy pracują nad ich rozwiązaniem
+
+118
+00:08:42,640 --> 00:08:45,239
+to tak jak z komputerami w latach 70-tych
+
+119
+00:08:45,240 --> 00:08:48,239
+będą lepsze komputery
+
+120
+00:08:48,240 --> 00:08:53,399
+niezależnie od twoich osobistych odczuć dotyczących inżynierii genetycznej - będzie ona mieć ciebie wpływ
+
+121
+00:08:53,400 --> 00:08:56,479
+zmodyfikowani ludzie mogą zmienić genom całego gatunku
+
+122
+00:08:56,480 --> 00:09:01,159
+ponieważ ich zmodyfikowane cechy będą przekazane ich dzieciom i będą rozprzestrzeniać się przez generacje
+
+123
+00:09:01,160 --> 00:09:04,399
+powoli modyfikując całą pulę genów ludzkości
+
+124
+00:09:04,400 --> 00:09:09,039
+zacznie się powoli, pierwsze zaprojektowane dzieci nie będą przeprojektowane
+
+125
+00:09:09,040 --> 00:09:14,359
+najprawdopodobniej zostaną stworzone aby wyeliminować śmiertelne choroby genetyczne istniejące w rodzinie
+
+126
+00:09:14,360 --> 00:09:17,079
+wraz z postępem technologii i jej wyrafinowaniem
+
+127
+00:09:17,080 --> 00:09:21,839
+coraz więcej ludzi może twierdzić że nie używanie modyfikacji genetycznej jest nie etyczne
+
+128
+00:09:21,840 --> 00:09:27,479
+ponieważ skazuje dzieci na cierpienie i śmierć której można zapobiec, odmawia się im leczenia
+
+129
+00:09:27,480 --> 00:09:33,399
+lecz jak tylko urodzi się pierwsze zmodyfikowane dziecko, drzwi zostaną otwarte i nie będą mogły być już zamknięte
+
+130
+00:09:33,400 --> 00:09:36,599
+na początku próżne cechy będą zostawione w spokoju
+
+131
+00:09:36,600 --> 00:09:39,439
+lecz gdy genetyczne modyfikacje staną się bardziej akceptowalne
+
+132
+00:09:39,440 --> 00:09:44,159
+i nasza wiedza o kodze genetycznym zostanie poszerzona pokusa będzie rosnąć
+
+133
+00:09:44,160 --> 00:09:47,319
+jeśli zrobimy nasze potomstwo odporne na czynniki zewnętrzne
+
+134
+00:09:47,320 --> 00:09:50,519
+dlaczego nie dać im również ulepszonego metabolizmu
+
+135
+00:09:50,520 --> 00:09:55,599
+dlaczego nie dać im idealnego wzroku lub wzrostu albo muskulatury
+
+136
+00:09:55,600 --> 00:10:00,319
+pełnych włosów, dlaczego nie dać mu wyjątkowej inteligencji
+
+137
+00:10:00,320 --> 00:10:06,719
+wielkie zmiany są dokonywane w wyniku osobistych decyzji milionów osób które się akumulują
+
+138
+00:10:06,720 --> 00:10:12,159
+to jest równia pochyła, zmodyfikowani ludzie mogą stać się nowym standardem
+
+139
+00:10:12,160 --> 00:10:15,719
+jak tylko inżynieria stanie się czymś normalnym, a nasza wiedza polepszy się
+
+140
+00:10:15,720 --> 00:10:20,119
+moglibyśmy rozwiązać jeden największy czynnik ryzyka śmiertelności - starzenie
+
+141
+00:10:20,120 --> 00:10:26,199
+dwie trzecie ze 150 tyś ludzi którzy dziś umrą, umrą z przyczyn powiązanych z wiekiem
+
+142
+00:10:26,200 --> 00:10:30,279
+obecnie myślimy że starzenie się jest powodowane nagromadzeniem uszkodzeń nas samych
+
+143
+00:10:30,280 --> 00:10:35,679
+takich jak uszkodzenia DNA i odpowiedzialność organizmu za ich naprawę z upływem czasu
+
+144
+00:10:35,680 --> 00:10:38,799
+lecz są także geny odpowiedzialne bezpośrednio za starzenie
+
+145
+00:10:38,800 --> 00:10:41,719
+kombinacja inżynierii genetycznej i innych terapi
+
+146
+00:10:41,720 --> 00:10:46,079
+mogłyby zatrzymać lub zwolnić starzenie, może nawet je odwrócić
+
+147
+00:10:46,080 --> 00:10:49,519
+znamy w naturze zwierzęta które są odporne na starzenie
+
+148
+00:10:49,520 --> 00:10:53,599
+może moglibyśmy nawet pożyczyć od nich kilka genów
+
+149
+00:10:53,600 --> 00:10:59,799
+niektórzy naukowcy nawet myślą że biologiczne starzenie się mogłoby stać się czymś co przestanie mieć znaczenie
+
+150
+00:10:59,800 --> 00:11:01,519
+ciągle byśmy umierali w pewnym momencie
+
+151
+00:11:01,520 --> 00:11:04,719
+ale zamiast robić to w szpitali w wieku 90 lat
+
+152
+00:11:04,720 --> 00:11:08,479
+moglibyśmy spędzić kilka tysięcy lat z naszymi ukochanymi
+
+153
+00:11:08,480 --> 00:11:11,999
+badania nad tym są w powijakach
+
+154
+00:11:12,000 --> 00:11:16,319
+i wielu naukowców słusznie podchodzi sceptycznie do końca starzenia
+
+155
+00:11:16,320 --> 00:11:20,879
+wyzwanie jest ogromne i być może jest nieosiągalne
+
+156
+00:11:20,880 --> 00:11:27,119
+ale jest wyobrażalne, że ludzie żyjący dzisiaj mogą być pierwszymi beneficjentami efektywnej terapii przeciw starzeniu
+
+157
+00:11:27,120 --> 00:11:32,879
+jedyne czego możemy potrzebować to kogoś kto przekona jakiegoś mądrego miliardera, aby zrobił z tego kolejny problem do rozwiązania
+
+158
+00:11:32,880 --> 00:11:37,679
+na dużą skalę, moglibyśmy rozwiązać dużo problemów mając zmodyfikowaną populację
+
+159
+00:11:37,680 --> 00:11:41,279
+zmodyfikowanie ludzi mogliby być lepiej przystosowanie do radzenia sobie z wysokoenergetyczną żywnością
+
+160
+00:11:41,280 --> 00:11:44,879
+eliminując wiele chorób cywilizacyjnych jak otyłość
+
+161
+00:11:44,880 --> 00:11:47,319
+w posiadaniu zmodyfikowanego układu odpornościowego
+
+162
+00:11:47,320 --> 00:11:49,079
+z biblioteką potencjalnych zagrożeń
+
+163
+00:11:49,080 --> 00:11:53,039
+moglibyśmy stać się odporni na większość prześladujących nas obecnie chorób
+
+164
+00:11:53,040 --> 00:11:58,719
+nawet wybiegając dalej w przyszłość, moglibyśmy stworzyć ludzi potrafiących przetrwać długie loty kosmiczne
+
+165
+00:11:58,720 --> 00:12:01,999
+mogących sprostać warunkom panujących na innych planetach
+
+166
+00:12:02,000 --> 00:12:07,559
+co byłoby bardzo pomocne w utrzymaniu nas przy życiu w naszym wrogim wszechświecie
+
+167
+00:12:07,560 --> 00:12:11,479
+* Nie ma nic złego w postępie, ale - Kilka ziaren soli *
+
+168
+00:12:11,480 --> 00:12:17,399
+wciąż czeka na nas kilka dużych wyzwań, niektóre technologiczne, niektóre etyczne
+
+169
+00:12:17,400 --> 00:12:22,559
+wielu z was oglądając ten film czuje się niezręcznie i boi się że stworzymy świat w którym odrzucamy
+
+170
+00:12:22,560 --> 00:12:27,919
+niedoskonałych ludzi i selekcjonujemy cechy i wartości bazując na naszym wyobrażeniu co jest zdrowe
+
+171
+00:12:27,920 --> 00:12:34,479
+rzecz w tym że już teraz żyjemy w takim świecie. Testy na dziesiątki chorób genetycznych lub komplikacji
+
+172
+00:12:34,480 --> 00:12:38,679
+stały się standardem dla kobiet w ciąży w większości świata
+
+173
+00:12:38,680 --> 00:12:44,439
+często samo podejrzenie skazy genetycznej, moze prowadzić do przerwania ciąży
+
+174
+00:12:44,440 --> 00:12:48,919
+Na przykład zespół downa - jeden z najczęściej spotykanych defektów genetycznych
+
+175
+00:12:48,920 --> 00:12:54,279
+W Europie, około 93% wszystkich ciąż gdzie jest wykryty jest przerywanych
+
+176
+00:12:54,280 --> 00:12:57,359
+decyzja o przerwaniu ciąży jest niezwykle osobista
+
+177
+00:12:57,360 --> 00:13:01,199
+ale ważne jest żebyśmy przyznali że żyjemy w świecie gdzie dokonujemy wstępnej selekcji ludzi bazując
+
+178
+00:13:01,200 --> 00:13:03,159
+na ich stanie zdrowia
+
+179
+00:13:03,160 --> 00:13:08,239
+Nie ma także sensu udawać że to się zmieni, musimy więc działać ostrożnie i z szacunkiem
+
+180
+00:13:08,240 --> 00:13:12,639
+ulepszając technologię dzięki której będziemy mogli robić więcej i więcej selekcji
+
+181
+00:13:12,640 --> 00:13:15,079
+lecz nic z tych rzeczy nie stanie się prędko
+
+182
+00:13:15,080 --> 00:13:20,079
+tak potężny jak jest CRISPR i w zasadzie jest, lecz nie jest jeszcze nieomylny
+
+183
+00:13:20,080 --> 00:13:21,719
+błędne edycje wciąż się zdarzają
+
+184
+00:13:21,720 --> 00:13:26,639
+tak samo jak zdarzają się nieznane błędy które mogą wystąpić gdziekolwiek w DNA i mogą zostać niezauważone
+
+185
+00:13:26,640 --> 00:13:30,479
+edycja genów może skutkować zamierzonym rezultatem wyłączając chorobę
+
+186
+00:13:30,480 --> 00:13:34,159
+lecz może również niechcący zainicjować niechciane zmiany
+
+187
+00:13:34,160 --> 00:13:40,799
+po prostu nie wiemy jeszcze wystarczająco dużo o skomplikowaniu współpracy naszych genów aby uniknąć nieprzewidzianych skutków
+
+188
+00:13:40,800 --> 00:13:46,679
+praca nad dokładnością i monitorowaniem naszych działań jest głównym zmartwieniem przed rozpoczęciem pierwszych testów na ludziach
+
+189
+00:13:46,680 --> 00:13:52,159
+a skoro omówiliśmy możliwe pozytywną przyszłość, są też ciemniejsze wizje
+
+190
+00:13:52,160 --> 00:13:57,119
+Wyobraź sobie co kraj taki jak Korea Północna mógłby zrobić gdyby posiedli technologię taką jak inżynieria genetyczna
+
+191
+00:13:57,120 --> 00:14:02,679
+Władza mogłaby zacementować swoje panowanie na zawsze wykonując edycje genów na osobach
+
+192
+00:14:02,680 --> 00:14:07,559
+co mogłoby powstrzymać reżim totalitarny przed stworzeniem armii zmodyfikowanych super żołnierzy?
+
+193
+00:14:07,560 --> 00:14:10,159
+Czy to możliwe w teorii?
+
+194
+00:14:10,160 --> 00:14:15,759
+Scenariusze jak ten wybiegają bardzo daleko w przyszłość. O ile kiedykolwiek będą w ogóle możliwe
+
+195
+00:14:15,760 --> 00:14:20,639
+lecz podstawowy dowód koncepcji dla takiej inżynierii genetycznej istnieje już dziś
+
+196
+00:14:20,640 --> 00:14:23,399
+technologia naprawdę jest tak potężna
+
+197
+00:14:23,400 --> 00:14:30,319
+może to być kuszący powód by zakazać edycji genów i powiązanych badań co z pewnością byłoby błędem
+
+198
+00:14:30,320 --> 00:14:33,679
+Zakazywanie ludzkiej inżynierii genetycznej prowadziłoby tylko do wędrówki tej nauki
+
+199
+00:14:33,680 --> 00:14:38,359
+do miejsca z sądownictwem i zasadami z którymi nie czulibyśmy się dobrze
+
+200
+00:14:38,360 --> 00:14:42,839
+tylko poprzez uczestnictwo możemy być pewni, że przyszłe badanie prowadzone są z uwagą
+
+201
+00:14:42,840 --> 00:14:45,839
+rozsądkiem, pod nadzorem i transparentnie
+
+202
+00:14:45,840 --> 00:14:49,959
+* Zwińmy to wszystko - Wnioski *
+
+203
+00:14:49,960 --> 00:14:52,119
+Czy czujesz się teraz niezręcznie?
+
+204
+00:14:52,120 --> 00:14:54,279
+Większość z nas ma z nimi jakiś problem
+
+205
+00:14:54,280 --> 00:14:56,399
+W przyszłości która leży przed nami
+
+206
+00:14:56,400 --> 00:14:59,199
+czy bylibyśmy dopuszczeni do istnienia?
+
+207
+00:14:59,200 --> 00:15:04,399
+technologia na pewno jest trochę przerażająca, ale mamy dużo do zdobycia a inżynieria genetyczna
+
+208
+00:15:04,400 --> 00:15:09,599
+może być naturalnym krokiem ewolucji inteligentnych gatunków we wszechświecie
+
+209
+00:15:09,600 --> 00:15:16,639
+Moglibyśmy zakończyć choroby, moglibyśmy wydłużyć nasze szacowane życie o wieki i wyruszyć do gwiazd
+
+210
+00:15:16,640 --> 00:15:19,879
+Nie ma potrzeby by myśleć w małych kategoriach kiedy przechodzimy do tego wątku
+
+211
+00:15:19,880 --> 00:15:25,039
+Jaka by nie była twoja opinia o inżynierii genetycznej przyszłość nadchodzi bez względu na wszystko
+
+212
+00:15:25,040 --> 00:15:29,999
+co było szalonym science fiction niedługo stanie sie naszą nową rzeczywistością
+
+213
+00:15:30,000 --> 00:15:38,519
+rzeczywistością pełną możliwości i wyzwań
+
+214
+00:15:38,520 --> 00:15:42,639
+Filmy jak ten nie były by możliwe gdyby nie dotacje od widzów za pośrednictwem strony patreon.com
+
+215
+00:15:42,640 --> 00:15:48,279
+Jeśli chcesz nasz wesprzeć w szerzeniu skomplikowanych rzeczy i może zdobyć swojego własnego ptaszka w zamian możesz to tutaj zrobić.
+
+216
+00:15:48,280 --> 00:15:53,079
+Jeśli chcesz się dowiedzieć więcej o CRISPR, umieściliśmy źródła i artykuły w opisie.
+
+217
+00:15:53,080 --> 00:15:55,839
+Więcej filmów o tej tematyce pojawi się wkrótce
+
+218
+00:15:55,840 --> 00:15:59,160
+Jeśli chcesz być powiadomiony kiedy to się stanie możesz śledzić nas tutaj
+

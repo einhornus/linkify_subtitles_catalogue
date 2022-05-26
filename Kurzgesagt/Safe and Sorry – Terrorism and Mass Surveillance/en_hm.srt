@@ -1,0 +1,536 @@
+1
+00:00:00,999 --> 00:00:04,930
+Terrorism is very scary, especially
+when it happens close to home
+
+2
+00:00:04,931 --> 00:00:07,760
+and not in some faraway place.
+
+3
+00:00:07,761 --> 00:00:11,946
+Nobody likes to be afraid, and we were
+eager to make the fear go away.
+
+4
+00:00:11,947 --> 00:00:14,856
+So we demanded more security.
+
+5
+00:00:14,857 --> 00:00:17,551
+In the last decade, it’s become
+increasingly normal
+
+6
+00:00:17,552 --> 00:00:22,331
+for civil liberties to be eroded and for
+government agencies to spy on citizens,
+
+7
+00:00:22,332 --> 00:00:25,938
+to collect and store
+their personal information.
+
+8
+00:00:25,939 --> 00:00:29,044
+Regardless of whether you’re a fan of
+right- or left-wing policies,
+
+9
+00:00:29,045 --> 00:00:31,107
+this affects every one of us.
+
+10
+00:00:31,108 --> 00:00:34,818
+So we have to take a look at the data
+and ask ourselves honestly,
+
+11
+00:00:34,819 --> 00:00:47,988
+“Has all of this actually made us safer?”
+
+12
+00:00:47,989 --> 00:00:50,939
+In the aftermath of 9/11,
+the US government concluded
+
+13
+00:00:50,940 --> 00:00:53,807
+that the law had not
+kept pace with technology.
+
+14
+00:00:53,808 --> 00:00:55,977
+It created the
+Terrorist Surveillance Program
+
+15
+00:00:55,978 --> 00:01:00,202
+initially to intercept communications
+linked to al-Qaeda.
+
+16
+00:01:00,203 --> 00:01:03,573
+Officials were confident that if the
+program had been in place before 9/11,
+
+17
+00:01:03,574 --> 00:01:06,263
+the hijackers could have been stopped.
+
+18
+00:01:06,264 --> 00:01:10,781
+But soon the new powers were also used
+to prove guilt by association.
+
+19
+00:01:10,782 --> 00:01:13,500
+The FBI used immigration
+records to identify
+
+20
+00:01:13,501 --> 00:01:16,525
+Arab and Muslim foreign
+nationals in the US.
+
+21
+00:01:16,526 --> 00:01:19,984
+On this basis, 80,000 individuals
+were required to register,
+
+22
+00:01:19,985 --> 00:01:22,815
+another 8,000 were called in
+for FBI interviews,
+
+23
+00:01:22,816 --> 00:01:25,839
+and more that 5,000 locked up
+in preventive detention.
+
+24
+00:01:25,840 --> 00:01:28,648
+Not one terrorist was found in
+what’s been called
+
+25
+00:01:28,649 --> 00:01:31,481
+the most aggressive national
+campaign of ethnic profiling
+
+26
+00:01:31,482 --> 00:01:33,605
+since World War II.
+
+27
+00:01:33,606 --> 00:01:36,369
+How commonplace it’s since become
+for government agencies
+
+28
+00:01:36,370 --> 00:01:38,969
+to collect and store
+the personal data of citizens
+
+29
+00:01:38,970 --> 00:01:43,060
+was made plain by the leak of
+the Snowden documents in 2013.
+
+30
+00:01:43,061 --> 00:01:45,456
+They showed how the NSA
+can demand information
+
+31
+00:01:45,457 --> 00:01:48,091
+about users from firms
+like Microsoft or Google
+
+32
+00:01:48,092 --> 00:01:51,736
+in addition to their daily collection of
+data from civilian internet traffic
+
+33
+00:01:51,737 --> 00:01:54,835
+such as email content and contact lists.
+
+34
+00:01:54,836 --> 00:01:57,031
+So, instead of focusing on criminals,
+
+35
+00:01:57,032 --> 00:02:01,843
+governments are increasingly
+turning their attention to everyone.
+
+36
+00:02:01,844 --> 00:02:03,846
+But if you are looking
+for a needle in a haystack,
+
+37
+00:02:03,847 --> 00:02:08,775
+adding more hay to the stack isn’t going
+to make it any easier to find the needle.
+
+38
+00:02:08,776 --> 00:02:12,140
+On the contrary, every recent success
+announced by the NSA
+
+39
+00:02:12,141 --> 00:02:14,882
+has come from classic target surveillance.
+
+40
+00:02:14,883 --> 00:02:17,469
+Despite high hopes,
+the NSA surveillance program
+
+41
+00:02:17,470 --> 00:02:20,098
+has not stopped any
+major terror attack.
+
+42
+00:02:20,099 --> 00:02:25,364
+For instance, one of the Boston Marathon
+bombers was already a target of the FBI.
+
+43
+00:02:25,365 --> 00:02:28,464
+So what we need is not even
+more random data,
+
+44
+00:02:28,465 --> 00:02:32,806
+but better ways to understand and
+use the information we have.
+
+45
+00:02:32,807 --> 00:02:36,528
+Spy agenices are also pushing
+to cripple encryption.
+
+46
+00:02:36,529 --> 00:02:40,351
+In early 2016, the FBI asked Apple
+to produce a backdoor program
+
+47
+00:02:40,352 --> 00:02:43,370
+to disable the encryption
+of a terrorist’s iPhone.
+
+48
+00:02:43,371 --> 00:02:47,547
+Apple publicly declined, not only because
+this tool could be used to permanently
+
+49
+00:02:47,548 --> 00:02:50,463
+weaken the privacy of
+law-abiding citizens worldwide,
+
+50
+00:02:50,464 --> 00:02:53,643
+but fearing to open the floodgates for
+governments requesting access
+
+51
+00:02:53,644 --> 00:02:55,990
+to a technology used
+by billions of people,
+
+52
+00:02:55,991 --> 00:03:00,530
+a fear shared by security
+experts and cryptographers.
+
+53
+00:03:00,531 --> 00:03:04,810
+A few weeks later, the FBI revealed that
+they had hacked the phone themselves,
+
+54
+00:03:04,811 --> 00:03:08,331
+basically admitting that they lied to
+the public about the need for a backdoor,
+
+55
+00:03:08,332 --> 00:03:11,409
+which questions how trustworthy
+spy agencies are
+
+56
+00:03:11,410 --> 00:03:13,695
+in the debate about privacy and security,
+
+57
+00:03:13,696 --> 00:03:17,916
+especially considering that the NSA,
+for example, already has the capability
+
+58
+00:03:17,917 --> 00:03:21,595
+to turn on your iPhone microphone
+or activate your laptop camera
+
+59
+00:03:21,596 --> 00:03:23,669
+without you noticing.
+
+60
+00:03:23,670 --> 00:03:26,048
+Concerns about this are often met
+with the argument,
+
+61
+00:03:26,049 --> 00:03:29,344
+“If you have nothing to hide,
+you have nothing to fear.”
+
+62
+00:03:29,345 --> 00:03:33,112
+But this reasoning only creates
+a climate of oppression.
+
+63
+00:03:33,113 --> 00:03:35,398
+Wanting to keep certain parts
+of your life private
+
+64
+00:03:35,399 --> 00:03:38,161
+doesn’t mean you’re
+doing anything wrong.
+
+65
+00:03:38,162 --> 00:03:40,578
+Right now, we live in a democracy.
+
+66
+00:03:40,579 --> 00:03:44,055
+But imagine the damage the wrong person
+could do with all our data
+
+67
+00:03:44,056 --> 00:03:47,482
+and such easy access to our devices.
+
+68
+00:03:47,483 --> 00:03:51,103
+Anti-terrorism laws allow the authorities
+to investigate and punish
+
+69
+00:03:51,104 --> 00:03:54,522
+non-terrorism-related crimes
+more aggressively.
+
+70
+00:03:54,523 --> 00:03:58,203
+If you give law enforcement powerful
+tools, they will use them.
+
+71
+00:03:58,204 --> 00:04:00,902
+That’s why democratic oversight
+is so important:
+
+72
+00:04:00,903 --> 00:04:03,804
+even if those tools and laws aren’t
+used against you today,
+
+73
+00:04:03,805 --> 00:04:06,098
+they might be tomorrow.
+
+74
+00:04:06,099 --> 00:04:09,556
+For example, following
+the November 2015 Paris attacks,
+
+75
+00:04:09,557 --> 00:04:13,028
+France expanded its already
+extensive anti-terrorism laws
+
+76
+00:04:13,029 --> 00:04:16,116
+by giving law enforcement greater
+powers to conduct house raids
+
+77
+00:04:16,117 --> 00:04:18,545
+and place people under house arrest.
+
+78
+00:04:18,546 --> 00:04:21,530
+Within weeks, evidence emerged that
+these powers were being used
+
+79
+00:04:21,531 --> 00:04:26,293
+for unintended purposes, such as
+quashing climate change protests.
+
+80
+00:04:26,294 --> 00:04:28,638
+The governments of Spain,
+Hungary, and Poland
+
+81
+00:04:28,639 --> 00:04:32,700
+have introduced more restrictive laws
+on the freedom of assembly and speech.
+
+82
+00:04:32,701 --> 00:04:34,938
+Freedom of expression
+and the press in Turkey
+
+83
+00:04:34,939 --> 00:04:37,592
+has been seriously undermined
+in the last few years,
+
+84
+00:04:37,593 --> 00:04:41,287
+with people sentenced to prison
+for criticizing the government.
+
+85
+00:04:41,288 --> 00:04:45,125
+None of this is effectively
+helping us fight terrorism.
+
+86
+00:04:45,126 --> 00:04:48,394
+The motivation behind this
+might be good, even noble,
+
+87
+00:04:48,395 --> 00:04:51,657
+but if we let our elected governments
+limit our personal freedom,
+
+88
+00:04:51,658 --> 00:04:54,055
+the terrorists are winning.
+
+89
+00:04:54,056 --> 00:04:56,149
+What’s worse, if we’re not careful,
+
+90
+00:04:56,150 --> 00:04:59,974
+we might slowly move
+towards a surveillance state.
+
+91
+00:04:59,975 --> 00:05:04,595
+The data is pretty clear: the erosion of
+rights, along with mass surveillance,
+
+92
+00:05:04,596 --> 00:05:07,468
+hasn’t led to significant
+successes so far,
+
+93
+00:05:07,469 --> 00:05:10,899
+but it has changed
+the nature of our society.
+
+94
+00:05:10,900 --> 00:05:14,085
+Terrorism is a complicated problem…
+
+95
+00:05:14,086 --> 00:05:16,308
+…without simple solutions.
+
+96
+00:05:16,309 --> 00:05:18,654
+No security apparatus
+can prevent a few guys
+
+97
+00:05:18,655 --> 00:05:21,080
+from building a bomb in their basement.
+
+98
+00:05:21,081 --> 00:05:24,410
+We should keep the principle
+of proportionality in mind.
+
+99
+00:05:24,411 --> 00:05:27,077
+Creating master keys to
+enter millions of phones
+
+100
+00:05:27,078 --> 00:05:30,292
+is not the same as
+searching a single house.
+
+101
+00:05:30,293 --> 00:05:33,725
+In most countries, the law already
+permits a wide range of actions,
+
+102
+00:05:33,726 --> 00:05:36,051
+including targeted surveillance.
+
+103
+00:05:36,052 --> 00:05:38,561
+To take full advantage of
+this existing potential,
+
+104
+00:05:38,562 --> 00:05:40,580
+we need better international cooperation
+
+105
+00:05:40,581 --> 00:05:43,616
+and more effective security
+and foreign policies,
+
+106
+00:05:43,617 --> 00:05:48,306
+better application of our present laws
+instead of new and stricter ones
+
+107
+00:05:48,307 --> 00:05:50,449
+that undermine our freedom.
+
+108
+00:05:50,450 --> 00:05:54,343
+Let us not, out of fear, destroy
+what we are most proud of:
+
+109
+00:05:54,344 --> 00:06:00,421
+democracy and our fundamental
+rights and liberties.
+
+110
+00:06:00,422 --> 00:06:03,837
+This video was made possible
+by your support on Patreon.com
+
+111
+00:06:03,838 --> 00:06:10,999
+and the European Liberties Platform,
+.
+
+112
+00:06:11,000 --> 00:06:14,000
+Subtitles by the Amara.org community
+

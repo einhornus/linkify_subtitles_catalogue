@@ -1,0 +1,364 @@
+1
+00:00:00,020 --> 00:00:07,979
+Nada no universo é estático.  Na Via Láctea, bilhões de estrelas orbitam o centro galáctico.
+
+2
+00:00:07,980 --> 00:00:12,099
+Alguns, como o nosso Sol, são bastante consistentes, mantendo uma distância de cerca de
+
+3
+00:00:12,100 --> 00:00:19,179
+30.000 anos-luz do centro galáctico, completando uma órbita a cada 230 milhões de anos.
+
+4
+00:00:19,180 --> 00:00:25,139
+Esta dança não é um balé ordenado, mais como uma pista de patinação cheia de crianças bêbadas.
+
+5
+00:00:25,140 --> 00:00:28,079
+Este caos torna a galáxia perigosa.
+
+6
+00:00:28,080 --> 00:00:34,779
+Nossa vizinhança solar está mudando constantemente, com estrelas se movendo centenas de quilômetros a cada segundo.
+
+7
+00:00:34,780 --> 00:00:40,419
+Apenas as vastas distâncias entre os objetos nos protegem dos perigos lá fora.
+
+8
+00:00:40,420 --> 00:00:44,639
+Mas podemos ter azar no futuro.  Em algum momento,
+
+9
+00:00:44,640 --> 00:00:52,119
+podemos encontrar uma estrela se transformando em supernova ou um objeto massivo passando e cobrindo a Terra com asteroides.
+
+10
+00:00:52,120 --> 00:00:58,919
+Se algo assim acontecesse, provavelmente saberíamos com milhares, senão milhões de anos de antecedência.
+
+11
+00:00:58,920 --> 00:01:01,999
+Mas ainda não podíamos fazer muito sobre isso.
+
+12
+00:01:02,000 --> 00:01:03,259
+A menos
+
+13
+00:01:03,260 --> 00:01:08,699
+que tiremos todo o nosso sistema solar do caminho.
+
+14
+00:01:08,700 --> 00:01:16,659
+[Música de introdução do Snazzy Kurzgesagt]
+
+15
+00:01:16,660 --> 00:01:18,359
+Para mover o sistema solar,
+
+16
+00:01:18,360 --> 00:01:25,319
+precisamos de um motor estelar, uma megaestrutura usada para guiar uma estrela pela galáxia.  É o tipo de coisa
+
+17
+00:01:25,320 --> 00:01:29,859
+que pode ser construída por uma civilização avançada com tecnologia de nível de esfera Dyson
+
+18
+00:01:29,860 --> 00:01:33,899
+que está pensando em seu futuro milhões de anos antes do tempo.
+
+19
+00:01:33,900 --> 00:01:39,479
+Mas como podemos mover as centenas de milhares de objetos no sistema solar?
+
+20
+00:01:39,480 --> 00:01:42,359
+A boa notícia é que podemos ignorar tudo isso.
+
+21
+00:01:42,360 --> 00:01:50,919
+Só precisamos mover o Sol;  todas as outras coisas estão coladas a ela pela gravidade e a seguirão onde quer que ela decida ir.
+
+22
+00:01:50,920 --> 00:01:55,809
+Há muitas ideias sobre como um motor estelar pode ser e como ele funcionaria.
+
+23
+00:01:55,810 --> 00:02:01,329
+Escolhemos dois, baseados em nossa compreensão atual da física, que podem ser construídos em teoria.
+
+24
+00:02:01,330 --> 00:02:07,059
+O tipo mais simples de motor estelar é o propulsor Shkadov, um espelho gigante.
+
+25
+00:02:07,060 --> 00:02:10,269
+Funciona com o mesmo princípio de um foguete.
+
+26
+00:02:10,270 --> 00:02:17,529
+Como combustível de foguete, os fótons liberados como radiação solar carregam impulso, não muito, mas um pouco.
+
+27
+00:02:17,530 --> 00:02:25,029
+Por exemplo, se um astronauta acendesse uma lanterna no espaço, ela os empurraria para trás muito lentamente.
+
+28
+00:02:25,030 --> 00:02:31,569
+Um motor estelar funcionará um pouco melhor do que uma lanterna porque o Sol produz muitos fótons.
+
+29
+00:02:31,570 --> 00:02:36,399
+A ideia básica do propulsor Shkadov é refletir até metade da radiação solar
+
+30
+00:02:36,400 --> 00:02:41,048
+para criar impulso e empurrar lentamente o Sol para onde queremos que ele vá.
+
+31
+00:02:41,049 --> 00:02:47,798
+Para que o propulsor Shkadov funcione, ele deve ser mantido no mesmo lugar, não orbitando o Sol.
+
+32
+00:02:47,799 --> 00:02:55,029
+Embora a gravidade do Sol tente puxá-lo, ele seria suportado pela pressão da radiação que sustenta o espelho.
+
+33
+00:02:55,030 --> 00:03:03,279
+Isso significa que o espelho teria que ser muito leve, feito de uma folha refletora de mícrons de materiais como ligas de alumínio.
+
+34
+00:03:03,280 --> 00:03:06,219
+A forma do espelho também é importante,
+
+35
+00:03:06,220 --> 00:03:12,199
+envolver o Sol em uma concha esférica gigante não funcionaria porque isso redirecionaria a luz de volta ao Sol,
+
+36
+00:03:12,200 --> 00:03:15,939
+aquecendo-o e criando todos os tipos de problemas desagradáveis.
+
+37
+00:03:15,940 --> 00:03:23,769
+Em vez disso, usamos uma parábola, que envia a maioria dos fótons ao redor do Sol e na mesma direção, o que maximiza o empuxo.
+
+38
+00:03:23,770 --> 00:03:28,779
+Para evitar queimar ou congelar acidentalmente a Terra com muita ou pouca luz solar,
+
+39
+00:03:28,780 --> 00:03:33,539
+o único lugar seguro para construir um propulsor Shkadov é sobre os pólos do Sol.
+
+40
+00:03:33,540 --> 00:03:39,779
+Isso significa que só podemos mover o Sol verticalmente no plano do sistema solar e em uma direção na Via Láctea, o
+
+41
+00:03:39,780 --> 00:03:42,539
+que limita nossas opções de viagem.
+
+42
+00:03:42,540 --> 00:03:45,119
+Mas é basicamente isso.
+
+43
+00:03:45,120 --> 00:03:51,879
+Para uma civilização capaz de construir uma Esfera Dyson, este é um empreendimento relativamente simples.
+
+44
+00:03:51,880 --> 00:03:56,019
+Não é complicado, apenas muito difícil de construir.
+
+45
+00:03:56,020 --> 00:04:04,379
+A todo vapor, o sistema solar provavelmente poderia ser movido cerca de cem anos-luz ao longo de 230 milhões de anos.
+
+46
+00:04:04,380 --> 00:04:10,199
+Ao longo de alguns bilhões de anos, ela nos dá controle quase completo sobre a órbita do Sol na galáxia.
+
+47
+00:04:10,200 --> 00:04:18,539
+Mas, a curto prazo, isso pode não ser rápido o suficiente para evitar uma supernova mortal.  É por isso que pensamos que poderíamos fazer melhor.
+
+48
+00:04:18,540 --> 00:04:25,259
+Então, perguntamos ao nosso amigo astrofísico se ele poderia projetar um motor estelar mais rápido para este vídeo.
+
+49
+00:04:25,260 --> 00:04:30,599
+Ele fez e escreveu um artigo sobre isso que foi publicado em um jornal revisado por pares.
+
+50
+00:04:30,600 --> 00:04:34,539
+Você pode encontrá-lo em nosso documento de fontes.
+
+51
+00:04:34,540 --> 00:04:38,979
+Vamos chamar nosso novo motor estelar de propulsor Caplan.
+
+52
+00:04:38,980 --> 00:04:45,069
+Funciona muito como um foguete tradicional: atire o escapamento de um jeito para se empurrar do outro.
+
+53
+00:04:45,070 --> 00:04:52,179
+É uma grande plataforma de estação espacial alimentada por uma esfera Dyson que reúne matéria do Sol para alimentar a fusão nuclear.
+
+54
+00:04:52,180 --> 00:04:59,739
+Ele dispara um jato muito rápido de partículas a quase 1% da velocidade da luz para fora do sistema solar.
+
+55
+00:04:59,740 --> 00:05:03,309
+Um segundo jato empurra o Sol como um rebocador.
+
+56
+00:05:03,310 --> 00:05:08,499
+O propulsor Caplan requer muito combustível, milhões de toneladas por segundo.
+
+57
+00:05:08,500 --> 00:05:11,979
+Para coletar esse combustível, nosso propulsor usa
+
+58
+00:05:11,980 --> 00:05:19,119
+campos eletromagnéticos muito grandes para canalizar hidrogênio e hélio do vento solar para o motor.
+
+59
+00:05:19,120 --> 00:05:25,359
+O vento solar sozinho não fornece combustível suficiente, e é aí que entra a esfera Dyson.
+
+60
+00:05:25,360 --> 00:05:29,799
+Usando seu poder, a luz solar pode ser reorientada para a superfície do Sol.
+
+61
+00:05:29,800 --> 00:05:35,979
+Isso aquece pequenas regiões a temperaturas extremas, elevando bilhões de toneladas de massa do Sol.
+
+62
+00:05:35,980 --> 00:05:42,069
+Essa massa pode ser coletada e separada em hidrogênio e hélio.
+
+63
+00:05:42,070 --> 00:05:47,259
+O hélio é queimado explosivamente em reatores de fusão termonuclear.
+
+64
+00:05:47,260 --> 00:05:48,159
+Um jato de
+
+65
+00:05:48,160 --> 00:05:56,319
+oxigênio radioativo a uma temperatura de quase um bilhão de graus é expelido e se torna nossa principal fonte de propulsão de nosso motor estelar.
+
+66
+00:05:56,320 --> 00:06:01,809
+Para evitar que o motor colida com o Sol, ele precisa se equilibrar.
+
+67
+00:06:01,810 --> 00:06:02,679
+Para fazer isso
+
+68
+00:06:02,680 --> 00:06:10,959
+, aceleramos o hidrogênio coletado com campos eletromagnéticos usando aceleradores de partículas e disparamos um jato de volta ao Sol.
+
+69
+00:06:10,960 --> 00:06:16,899
+Isso equilibra o propulsor e transfere o impulso do nosso motor de volta para o Sol.
+
+70
+00:06:16,900 --> 00:06:25,329
+Em menos de um milhão de anos, esse motor pode mover o Sol em 50 anos-luz, mais do que suficiente para evitar uma supernova.
+
+71
+00:06:25,330 --> 00:06:32,589
+A todo vapor, o sistema solar pode ser completamente redirecionado em sua órbita galáctica em 10 milhões de anos.
+
+72
+00:06:32,590 --> 00:06:36,459
+Mas espere, vamos usar o Sol dessa maneira?
+
+73
+00:06:36,460 --> 00:06:43,059
+Felizmente, o Sol é tão massivo que mesmo bilhões de toneladas de material mal arranharão a superfície.
+
+74
+00:06:43,060 --> 00:06:48,859
+Na verdade, essa megaestrutura vai realmente prolongar a vida do nosso Sol, já que estrelas de menor massa
+
+75
+00:06:48,860 --> 00:06:54,919
+queimam mais devagar, mantendo o sistema solar habitável por muitos bilhões de anos.
+
+76
+00:06:54,920 --> 00:07:00,439
+Com um propulsor Caplan, poderíamos transformar todo o sistema solar em nossa espaçonave.
+
+77
+00:07:00,440 --> 00:07:04,039
+Por exemplo, orbitando para trás na galáxia e
+
+78
+00:07:04,040 --> 00:07:08,359
+colonizando centenas ou milhares de estrelas à medida que passamos por elas.
+
+79
+00:07:08,360 --> 00:07:15,019
+Pode até ser possível escapar completamente da galáxia e expandir além da Via Láctea.
+
+80
+00:07:15,020 --> 00:07:22,999
+Motores estelares são o tipo de máquina construída por civilizações pensando não em termos de anos ou décadas, mas de eras.
+
+81
+00:07:23,000 --> 00:07:30,299
+Como sabemos que nosso Sol morrerá um dia, um motor estelar poderia permitir que os futuros descendentes de humanos viajassem para outras estrelas
+
+82
+00:07:30,300 --> 00:07:38,079
+sem nunca ter que se aventurar no terrível abismo escuro do espaço interestelar.
+
+83
+00:07:38,080 --> 00:07:44,209
+Até construirmos um motor estelar, estamos à deriva e sujeitos aos caprichos do mar Galáctico.
+
+84
+00:07:44,210 --> 00:07:47,059
+Podemos não gostar de onde isso nos leva.
+
+85
+00:07:47,060 --> 00:07:55,819
+Talvez nossos descendentes naveguem e se tornem uma espécie interestelar por milhões de anos.
+
+86
+00:07:55,820 --> 00:08:02,979
+Este foi o nosso último vídeo para o ano 12.019 da era humana, e que ano foi.
+
+87
+00:08:02,980 --> 00:08:07,668
+Tantas coisas aconteceram em todos os lugares, para tantas pessoas diferentes.
+
+88
+00:08:07,669 --> 00:08:15,559
+Calendários e feriados são apenas imaginários, mas nos ajudam a cortar nossas vidas em pedaços que nossos cérebros podem lidar.
+
+89
+00:08:15,560 --> 00:08:22,579
+Estamos deixando 12.019 para trás com uma estranha mistura de desilusão e esperança.  O mundo está estragado,
+
+90
+00:08:22,580 --> 00:08:29,959
+mas podemos consertá-lo.  Em poucos dias, este ano vai acabar, e vamos tentar de novo.
+
+91
+00:08:29,960 --> 00:08:37,180
+Obrigado por assistir nossos vídeos e por ficar por tantos anos.  Vejo vocês em 12.020.
+

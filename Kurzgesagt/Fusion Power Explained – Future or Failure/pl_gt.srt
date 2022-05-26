@@ -1,0 +1,470 @@
+1
+00:00:01,300 --> 00:00:04,999
+Podstawową walutą naszego wszechświata jest energia.
+
+2
+00:00:05,000 --> 00:00:10,759
+Oświetla nasze domy, uprawia naszą żywność,
+zasila nasze komputery.
+
+3
+00:00:10,760 --> 00:00:12,439
+Możemy to osiągnąć na wiele sposobów:
+
+4
+00:00:12,440 --> 00:00:14,839
+spalanie paliw kopalnych, rozszczepianie atomów
+
+5
+00:00:14,840 --> 00:00:17,559
+lub światło słoneczne uderzające w fotowoltaikę.
+
+6
+00:00:17,560 --> 00:00:19,799
+Ale wszystko ma swoje minusy.
+
+7
+00:00:19,800 --> 00:00:22,059
+Paliwa kopalne są niezwykle toksyczne.
+
+8
+00:00:22,060 --> 00:00:25,019
+Odpady nuklearne to… no cóż, odpady nuklearne.
+
+9
+00:00:25,020 --> 00:00:28,599
+I nie ma jeszcze wystarczającej ilości baterii do przechowywania światła słonecznego na pochmurne dni.
+
+10
+00:00:28,600 --> 00:00:34,399
+A jednak słońce wydaje się mieć praktycznie nieograniczoną darmową energię.
+
+11
+00:00:34,400 --> 00:00:37,299
+Czy istnieje sposób na zbudowanie słońca na Ziemi?
+
+12
+00:00:37,300 --> 00:00:42,659
+Czy możemy zabutelkować gwiazdę?
+
+13
+00:00:42,660 --> 00:00:48,999
+[Intro Jingle
+
+14
+00:00:49,000 --> 00:00:51,919
+] Słońce świeci z powodu fuzji jądrowej.
+
+15
+00:00:51,920 --> 00:00:55,239
+Krótko mówiąc, fuzja to proces termojądrowy.
+
+16
+00:00:55,240 --> 00:00:57,839
+Oznacza to, że składniki muszą być niesamowicie gorące.
+
+17
+00:00:57,840 --> 00:01:00,639
+Tak gorąco, że atomy są pozbawione swoich elektronów.
+
+18
+00:01:00,640 --> 00:01:05,839
+Tworząc plazmę, w której jądra i elektrony odbijają się swobodnie.
+
+19
+00:01:05,840 --> 00:01:08,439
+Ponieważ wszystkie jądra są naładowane dodatnio
+
+20
+00:01:08,440 --> 00:01:10,019
+, odpychają się nawzajem.
+
+21
+00:01:10,020 --> 00:01:11,939
+Aby przezwyciężyć to odpychanie,
+
+22
+00:01:11,940 --> 00:01:14,899
+Cząstki muszą poruszać się bardzo, bardzo szybko.
+
+23
+00:01:14,900 --> 00:01:18,599
+W tym kontekście bardzo szybko oznacza „bardzo gorące”
+
+24
+00:01:18,600 --> 00:01:20,819
+Miliony stopniowych
+
+25
+00:01:20,820 --> 00:01:23,339
+gwiazd oszukują, aby osiągnąć te temperatury.
+
+26
+00:01:23,340 --> 00:01:26,079
+Są tak masywne, że ciśnienie w ich
+
+27
+00:01:26,080 --> 00:01:28,759
+jądrach Generuje ciepło, aby ścisnąć jądra razem,
+
+28
+00:01:28,760 --> 00:01:30,599
+aż połączą się i połączą.
+
+29
+00:01:30,600 --> 00:01:35,199
+Tworząc cięższe jądra i uwalniając w tym procesie energię.
+
+30
+00:01:35,200 --> 00:01:38,699
+Właśnie to uwolnienie energii naukowcy mają nadzieję wykorzystać
+
+31
+00:01:38,700 --> 00:01:40,899
+w nowej generacji elektrowni
+
+32
+00:01:40,900 --> 00:01:42,859
+, reaktora termojądrowego.
+
+33
+00:01:42,860 --> 00:01:47,839
+Na Ziemi nie jest możliwe użycie tej brutalnej metody do tworzenia fuzji.
+
+34
+00:01:47,840 --> 00:01:51,579
+Więc jeśli chcemy zbudować reaktor, który wytwarza energię z syntezy jądrowej,
+
+35
+00:01:51,580 --> 00:01:53,579
+musimy być sprytni.
+
+36
+00:01:53,580 --> 00:01:58,899
+Do tej pory naukowcy wynaleźli dwa sposoby na podgrzanie plazmy dostatecznie gorącej do stopienia:
+
+37
+00:01:58,900 --> 00:02:01,699
+Pierwszy typ reaktora wykorzystuje pole magnetyczne do
+
+38
+00:02:01,700 --> 00:02:03,839
+ściskania plazmy w komorze w kształcie pączka, w
+
+39
+00:02:03,840 --> 00:02:06,359
+której zachodzą reakcje.
+
+40
+00:02:06,360 --> 00:02:08,839
+Te magnetyczne reaktory ograniczające,
+
+41
+00:02:08,840 --> 00:02:11,419
+takie jak I.T.E.R.  reaktora we Francji,
+
+42
+00:02:11,420 --> 00:02:14,659
+Użyj nadprzewodzących elektromagnesów chłodzonych ciekłym helem
+
+43
+00:02:14,660 --> 00:02:17,459
+To w zakresie kilku stopni od zera absolutnego.
+
+44
+00:02:17,460 --> 00:02:22,059
+Oznacza to, że zawierają jedne z największych gradientów temperatury w znanym wszechświecie.
+
+45
+00:02:22,060 --> 00:02:24,699
+Drugi typ, zwany „uwięzieniem bezwładności”,
+
+46
+00:02:24,700 --> 00:02:26,899
+wykorzystuje impulsy z laserów o dużej mocy,
+
+47
+00:02:26,900 --> 00:02:29,059
+aby ogrzać powierzchnię pastylki paliwa,
+
+48
+00:02:29,060 --> 00:02:33,399
+implodując ją, krótko powodując, że paliwo jest gorące i wystarczająco gęste, aby się stopić.
+
+49
+00:02:33,400 --> 00:02:36,419
+W rzeczywistości jeden z najpotężniejszych laserów na świecie
+
+50
+00:02:36,420 --> 00:02:38,499
+jest używany do eksperymentów dotyczących syntezy jądrowej
+
+51
+00:02:38,500 --> 00:02:41,659
+w National Ignition Facility w USA.
+
+52
+00:02:41,660 --> 00:02:44,319
+Te i inne podobne eksperymenty na całym świecie
+
+53
+00:02:44,320 --> 00:02:46,799
+są dziś tylko eksperymentami.
+
+54
+00:02:46,800 --> 00:02:50,639
+Naukowcy wciąż opracowują technologię
+
+55
+00:02:50,640 --> 00:02:52,559
+i chociaż mogą osiągnąć fuzję, W
+
+56
+00:02:52,560 --> 00:02:55,919
+tej chwili wykonanie eksperymentu kosztuje więcej energii.
+
+57
+00:02:55,920 --> 00:02:58,219
+Następnie produkują w fuzji.
+
+58
+00:02:58,220 --> 00:03:02,239
+Technologia ma długą drogę do przebycia, zanim stanie się komercyjnie opłacalna,
+
+59
+00:03:02,240 --> 00:03:04,319
+a może nigdy nie będzie.
+
+60
+00:03:04,320 --> 00:03:09,179
+Stworzenie realnego reaktora termojądrowego na Ziemi może być po prostu niemożliwe,
+
+61
+00:03:09,180 --> 00:03:12,099
+ale jeśli się tam dostanie, będzie tak wydajny,
+
+62
+00:03:12,100 --> 00:03:15,359
+że jedna szklanka wody morskiej może zostać użyta do wytworzenia
+
+63
+00:03:15,360 --> 00:03:20,359
+tyle energii, co spalenie baryłki ropy naftowej, bez  odpady, o których można mówić.
+
+64
+00:03:20,360 --> 00:03:24,199
+Dzieje się tak dlatego, że reaktory
+termojądrowe wykorzystywałyby wodór lub hel jako paliwo,
+
+65
+00:03:24,200 --> 00:03:27,159
+a woda morska jest naładowana wodorem.
+
+66
+00:03:27,160 --> 00:03:29,459
+Ale nie wystarczy każdy wodór.  Do przeprowadzenia właściwych reakcji potrzebne są
+
+67
+00:03:29,460 --> 00:03:34,099
+specyficzne izotopy z dodatkowymi neutronami, zwane deuterem i trytem
+
+68
+00:03:34,100 --> 00:03:36,379
+.
+
+69
+00:03:36,380 --> 00:03:40,639
+Deuter jest stabilny i można go znaleźć w obfitości w wodzie morskiej,
+
+70
+00:03:40,640 --> 00:03:42,999
+chociaż tryt jest nieco trudniejszy.
+
+71
+00:03:43,000 --> 00:03:44,319
+Jest radioaktywny,
+
+72
+00:03:44,320 --> 00:03:47,399
+a na świecie może być tylko 20 kilogramów.
+
+73
+00:03:47,400 --> 00:03:49,259
+Głównie w głowicach nuklearnych,
+
+74
+00:03:49,260 --> 00:03:51,579
+co czyni go niesamowicie kosztownym.
+
+75
+00:03:51,580 --> 00:03:56,319
+Więc potrzebowaliśmy innego kumpla do fuzji dla Deuterium zamiast Tritium.
+
+76
+00:03:56,320 --> 00:04:00,599
+Świetnym substytutem może być hel-3, izotop helu
+.
+
+77
+00:04:00,600 --> 00:04:04,439
+Niestety jest to również niezwykle rzadkie na ziemi.
+
+78
+00:04:04,440 --> 00:04:08,459
+Ale tutaj księżyc może mieć odpowiedź.
+
+79
+00:04:08,460 --> 00:04:12,639
+Przez miliardy lat wiatr słoneczny mógł zgromadzić ogromne
+
+80
+00:04:12,640 --> 00:04:15,059
+złoża helu-3 na Księżycu.
+
+81
+00:04:15,060 --> 00:04:19,078
+Zamiast wytwarzać Hel-3, możemy go wydobywać.
+
+82
+00:04:19,079 --> 00:04:21,299
+Gdybyśmy mogli przesiać księżycowy pył w poszukiwaniu helu,
+
+83
+00:04:21,300 --> 00:04:25,579
+mielibyśmy dość paliwa, by zasilić cały świat przez tysiące lat.
+
+84
+00:04:25,580 --> 00:04:30,699
+Jeszcze jeden argument za założeniem bazy księżycowej, jeśli jeszcze nie byłeś przekonany.
+
+85
+00:04:30,700 --> 00:04:33,699
+Ok, może myślisz, że budowanie mini słońca
+
+86
+00:04:33,700 --> 00:04:37,399
+Nadal brzmi trochę niebezpiecznie
+
+87
+00:04:37,400 --> 00:04:42,499
+Ale w rzeczywistości byłyby znacznie bezpieczniejsze
+niż większość innych typów elektrowni
+
+88
+00:04:42,500 --> 00:04:45,119
+. Reaktor termojądrowy nie jest jak elektrownia jądrowa,
+
+89
+00:04:45,120 --> 00:04:47,499
+która może katastrofalnie stopić się.
+
+90
+00:04:47,500 --> 00:04:51,099
+Jeśli zamknięcie się nie powiedzie, plazma rozszerzy się i ostygnie,
+
+91
+00:04:51,100 --> 00:04:53,439
+a reakcja ustanie.
+
+92
+00:04:53,440 --> 00:04:57,259
+Mówiąc prościej, to nie jest bomba.
+
+93
+00:04:57,260 --> 00:04:59,859
+Uwolnienie radioaktywnego paliwa, takiego jak tryt,
+
+94
+00:04:59,860 --> 00:05:02,019
+może stanowić zagrożenie dla środowiska.
+
+95
+00:05:02,020 --> 00:05:05,339
+Tryt może wiązać się z tlenem, tworząc radioaktywną wodę,
+
+96
+00:05:05,340 --> 00:05:08,959
+co może być niebezpieczne, ponieważ przenika do środowiska.
+
+97
+00:05:08,960 --> 00:05:13,459
+Na szczęście w danym momencie w użyciu jest nie więcej niż kilka gramów,
+
+98
+00:05:13,460 --> 00:05:16,379
+więc wyciek szybko by się rozrzedził.
+
+99
+00:05:16,380 --> 00:05:19,719
+Dlatego właśnie powiedzieliśmy, że w czymś tak prostym, jak woda, można uzyskać prawie nieograniczoną energię,
+
+100
+00:05:19,720 --> 00:05:21,719
+bez żadnych kosztów dla środowiska
+
+101
+00:05:21,720 --> 00:05:23,719
+.
+
+102
+00:05:23,720 --> 00:05:26,239
+Więc jaki jest haczyk?
+
+103
+00:05:26,240 --> 00:05:31,259
+Koszt.  Po prostu nie wiemy, czy energia termojądrowa będzie kiedykolwiek opłacalna.
+
+104
+00:05:31,260 --> 00:05:35,239
+Nawet jeśli działają, mogą być zbyt drogie, aby je kiedykolwiek zbudować.
+
+105
+00:05:35,240 --> 00:05:38,459
+Główną wadą jest to, że jest to niesprawdzona technologia
+
+106
+00:05:38,460 --> 00:05:40,459
+To hazard 10 miliardów dolarów
+
+107
+00:05:40,460 --> 00:05:43,839
+I że pieniądze mogą być lepiej
+wydane na inną czystą energię.
+
+108
+00:05:43,840 --> 00:05:46,339
+To już się sprawdziło.
+
+109
+00:05:46,340 --> 00:05:48,499
+Może powinniśmy ograniczać straty
+
+110
+00:05:48,500 --> 00:05:53,519
+A może, gdy korzyścią jest nieograniczona
+czysta energia dla wszystkich,
+
+111
+00:05:53,520 --> 00:05:56,859
+warto ryzykować.
+
+112
+00:05:56,860 --> 00:05:59,059
+Filmy takie jak ten zajmują setki godzin
+
+113
+00:05:59,060 --> 00:06:02,519
+i są możliwe dzięki Twoim wkładom na patreon.com
+
+114
+00:06:02,520 --> 00:06:04,519
+Jeśli chcesz dowiedzieć się więcej o globalnej energii,
+
+115
+00:06:04,520 --> 00:06:07,619
+oto playlista o energii jądrowej, szczelinowaniu i energii słonecznej.
+
+116
+00:06:07,620 --> 00:06:11,360
+Daj nam znać w komentarzach, czy są inne technologie, które chcesz nam wyjaśnić.
+

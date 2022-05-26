@@ -1,0 +1,636 @@
+1
+00:00:01,100 --> 00:00:03,139
+Uzaya çıkmak zor.
+
+2
+00:00:03,140 --> 00:00:05,619
+Şu anda bu
+
+3
+00:00:05,620 --> 00:00:09,019
+, patlayıcılarla dolu bir sırt çantasıyla tek tekerlekli bisikletle bir dağa çıkmak gibi:
+
+4
+00:00:09,020 --> 00:00:11,899
+İnanılmaz derecede yavaş, pek çok şey taşıyamazsınız
+
+5
+00:00:11,900 --> 00:00:13,679
+ve ölebilirsiniz.
+
+6
+00:00:13,680 --> 00:00:18,099
+Bir roketin Dünya'dan kaçabilmesi için yaklaşık 40.000 km/s hıza ulaşması gerekir
+
+7
+00:00:18,100 --> 00:00:19,699
+.
+
+8
+00:00:19,700 --> 00:00:22,979
+Bu hıza ulaşmak için, roketler çoğunlukla
+
+9
+00:00:22,980 --> 00:00:25,979
+küçük bir yük ucuna sahip yakıt kaplarıdır.
+
+10
+00:00:25,980 --> 00:00:28,379
+Diğer gezegenlere gitmek istiyorsanız bu kötü
+
+11
+00:00:28,380 --> 00:00:32,019
+çünkü hayatta kalmak ve hatta geri dönmek istiyorsanız çok fazla ağır şeye ihtiyacınız var
+
+12
+00:00:32,020 --> 00:00:34,139
+.
+
+13
+00:00:34,140 --> 00:00:37,239
+Peki daha az yakıt ve daha fazla yük ile uzaya çıkmanın bir yolu var
+
+14
+00:00:37,240 --> 00:00:39,999
+mı?
+
+15
+00:00:40,000 --> 00:00:48,739
+[Giriş müziği]
+
+16
+00:00:48,740 --> 00:00:52,319
+Dünyadaki ulaşım sorunlarımızın çoğunu çözen güzel bir şey,
+
+17
+00:00:52,320 --> 00:00:54,459
+altyapı dediğiniz şeydir.
+
+18
+00:00:54,460 --> 00:00:58,459
+Arabalar için yollar, gemiler için limanlar veya trenler için raylar
+
+19
+00:00:58,460 --> 00:01:01,499
+olsun, yerlere ulaşımı kolaylaştırdık.
+
+20
+00:01:01,500 --> 00:01:04,579
+Aynı çözümü uzay yolculuğuna da uygulayabiliriz.
+
+21
+00:01:04,580 --> 00:01:07,379
+Uzay altyapısı, yörüngeye
+
+22
+00:01:07,380 --> 00:01:12,299
+girip aya, Mars'a ve ötesine geçmeyi daha kolay ve daha ucuz hale getirecek.
+
+23
+00:01:12,300 --> 00:01:15,999
+Harika, ama uzay altyapısı tam olarak nedir?  Şu anda bilim kurgu olan
+
+24
+00:01:16,000 --> 00:01:22,699
+bir Dünya-uzay asansörünün aksine,
+
+25
+00:01:22,700 --> 00:01:25,999
+yeni bilim, sihirli malzemeler
+
+26
+00:01:26,000 --> 00:01:27,559
+veya büyük yatırımlar gerektirmeyen
+
+27
+00:01:27,560 --> 00:01:31,059
+ve yörüngede zaten başarıyla test edilmiş basit ama umut verici bir teknoloji var:
+
+28
+00:01:31,060 --> 00:01:32,919
+bir kablo ve bir ağırlık,
+
+29
+00:01:32,920 --> 00:01:34,639
+ip olarak bilin.
+
+30
+00:01:34,640 --> 00:01:38,039
+Konsept çok basit, şaşırtıcı.
+
+31
+00:01:38,040 --> 00:01:39,559
+Ya
+
+32
+00:01:39,560 --> 00:01:42,679
+uzaya yüzlerce ya da binlerce kilometre uzunluğunda ipler yerleştirsek
+
+33
+00:01:42,680 --> 00:01:44,799
+ve uzay aracı onları
+
+34
+00:01:44,800 --> 00:01:48,779
+daha yüksek irtifalara tırmanmak ve hız kazanmak için merdiven olarak kullansaydı?
+
+35
+00:01:48,780 --> 00:01:51,619
+Bu kavram Skyhook olarak bilinir.
+
+36
+00:01:51,620 --> 00:01:54,179
+Döndürürsek daha da iyi çalışır.
+
+37
+00:01:54,180 --> 00:01:56,419
+Bir karşı ağırlık,
+
+38
+00:01:56,420 --> 00:01:58,299
+bir daire etrafında dönerken uzun bir kabloyu yerinde tutar.
+
+39
+00:01:58,300 --> 00:02:02,399
+Dönen bir ip, ucunu yere göre altta yavaşlatır
+
+40
+00:02:02,400 --> 00:02:05,419
+ve üstte bir mancınık gibi hızlandırır.
+
+41
+00:02:05,420 --> 00:02:08,059
+Bu, ipten enerji aktarabileceğiniz
+
+42
+00:02:08,060 --> 00:02:11,639
+ve serbest bırakıldığında, az ya da çok ücretsiz olarak,
+
+43
+00:02:11,640 --> 00:02:17,659
+ipin dönüş hızının iki katına eşit büyük bir destek alabileceğiniz anlamına gelir.
+
+44
+00:02:17,660 --> 00:02:21,099
+Bir Skyhook'un karşılaşacağı olağanüstü streslere dayanabilecek özel lifler zaten mevcuttur.
+
+45
+00:02:21,100 --> 00:02:24,739
+Enkaz ve meteorlardan kaynaklanan kesilmelere ve çarpışmalara karşı korunmak
+
+46
+00:02:24,740 --> 00:02:28,399
+için ipimizi fazladan bir lif ağına geçirebiliriz.
+
+47
+00:02:28,400 --> 00:02:32,099
+Skyhook'umuz günde birçok kez aynı noktadan geçeceğinden,
+
+48
+00:02:32,100 --> 00:02:35,639
+bu, küçük, yeniden kullanılabilir mekiklerin onu yakalamasına izin verecektir.
+
+49
+00:02:35,640 --> 00:02:38,139
+Tabii ki, o kadar kolay değil.
+
+50
+00:02:38,140 --> 00:02:39,219
+En düşük noktasında
+
+51
+00:02:39,220 --> 00:02:41,479
+, ipin ucu atmosferde
+
+52
+00:02:41,480 --> 00:02:43,779
+saatte yaklaşık 12.000 kilometre hızla ilerliyor.
+
+53
+00:02:43,780 --> 00:02:47,179
+Dünya'nın atmosferi nedeniyle Skyhook'u çok fazla alçaltamayız,
+
+54
+00:02:47,180 --> 00:02:49,719
+yoksa hava sürtünmesinden dolayı çok ısınır.
+
+55
+00:02:49,720 --> 00:02:53,179
+Böylece 80 ila 150 km yüksekliğe inecek
+
+56
+00:02:53,180 --> 00:02:54,459
+ve daha düşük olmayacak.
+
+57
+00:02:54,460 --> 00:02:58,919
+Buna uymak için, ipe ulaşabilecek özel uzay aracına ihtiyacımız olacak.
+
+58
+00:02:58,920 --> 00:03:03,664
+Bu tam olarak kolay olmasa da,
+
+59
+00:03:03,665 --> 00:03:07,504
+40.000 km/s hıza ulaşmak için roket yakıtı ile doldurulmuş büyük bir teneke kutu almaktan çok daha ucuzdur.
+
+60
+00:03:07,505 --> 00:03:09,999
+Bahşişi yakalamak da bir meydan okuma olacak.
+
+61
+00:03:10,000 --> 00:03:15,179
+Mach 12'de gökyüzünde hareket eden küçücük bir şeyi bulmak için sadece 60 ila 90 saniyelik kısa bir zaman penceresi var
+
+62
+00:03:15,180 --> 00:03:17,159
+.
+
+63
+00:03:17,160 --> 00:03:20,559
+Bunu kolaylaştırmak için, uçta bir kilometre uzunluğunda bir tür olta
+
+64
+00:03:20,560 --> 00:03:25,599
+ve uzay aracının hareket etmesine yardımcı olan bir navigasyon drone'u olabilir.  bağlamak.
+
+65
+00:03:25,600 --> 00:03:28,499
+Diğer bir zorluk da Skyhook'umuzu yörüngede tutmak.
+
+66
+00:03:28,500 --> 00:03:31,414
+Giderek daha fazla gemi ona tutunup
+
+67
+00:03:31,415 --> 00:03:34,359
+kendilerini yukarı çektikçe, onu yerinde tutan momentumu kullanırlar.
+
+68
+00:03:34,360 --> 00:03:35,939
+Hiçbir
+
+69
+00:03:35,940 --> 00:03:39,619
+şey yapmazsak yavaşlayacak ve atmosfere çarpacak.
+
+70
+00:03:39,620 --> 00:03:42,819
+Ve burada, evreni biraz aldatabiliriz.
+
+71
+00:03:42,820 --> 00:03:45,879
+Skyhook bir yörünge enerjisi pilidir.
+
+72
+00:03:45,880 --> 00:03:50,239
+Gelen ve giden yükleri dengelemek mümkündür.
+
+73
+00:03:50,240 --> 00:03:55,219
+İnsanları ve malzemeleri Dünya'ya getiren gelen gemiler
+
+74
+00:03:55,220 --> 00:03:58,359
+, uzaya giden diğer gemilere verebileceği ipe enerji ekler.
+
+75
+00:03:58,360 --> 00:04:00,979
+Bu şekilde ip herhangi bir enerji kaybetmez.
+
+76
+00:04:00,980 --> 00:04:04,179
+Ne kadar çok kullanırsak, o kadar ucuz olur.
+
+77
+00:04:04,180 --> 00:04:06,579
+Her takviyede hala enerji kaybediyorsak, ipin konumunu düzenli olarak düzelten
+
+78
+00:04:06,580 --> 00:04:09,419
+küçük elektrikli veya kimyasal motorlarla bu enerjiyi geri kazanabiliriz
+
+79
+00:04:09,420 --> 00:04:11,919
+.
+
+80
+00:04:11,920 --> 00:04:14,999
+Biri Dünya'nın çevresinde ve diğeri Mars'ın çevresinde bulunan bir dizi ip,
+
+81
+00:04:15,000 --> 00:04:17,759
+gezegenler arasında roketlere kıyasla hızlı, basit
+
+82
+00:04:17,760 --> 00:04:20,639
+ve düşük maliyetli yolculuklar yapabilir.
+
+83
+00:04:20,640 --> 00:04:24,219
+Dünya ipi, insanları ve yükleri kapmak
+
+84
+00:04:24,220 --> 00:04:25,859
+ve onları Mars'a fırlatmak için düşük Dünya yörüngesinde oturacaktı.
+
+85
+00:04:25,860 --> 00:04:27,599
+Mars ipi onları yakalar
+
+86
+00:04:27,600 --> 00:04:30,679
+ve yüzeye iniş için yavaşlatır.
+
+87
+00:04:30,680 --> 00:04:32,079
+Ters yönde ise
+
+88
+00:04:32,080 --> 00:04:35,379
+, ip, Mars'ın ince
+
+89
+00:04:35,380 --> 00:04:37,959
+atmosferinde yalnızca yaklaşık 1.000 km/sa hızla seyahat eden
+
+90
+00:04:37,960 --> 00:04:40,319
+, Dünya'daki uçaklarımızdan çok daha hızlı olmayan bir aracı
+
+91
+00:04:40,320 --> 00:04:44,179
+alıp, yakalanması ve indirilmesi için Dünya'ya geri fırlatabilir.
+
+92
+00:04:44,180 --> 00:04:47,679
+Bağlar, her iki gezegen arasındaki yolculukları 9
+
+93
+00:04:47,680 --> 00:04:49,539
+aydan 5'e hatta 3'e kadar
+
+94
+00:04:49,540 --> 00:04:51,639
+kısaltabilir ve gereken roket ölçeğini
+
+95
+00:04:51,640 --> 00:04:55,279
+yüzde 84 ila 96 arasında azaltabilir.
+
+96
+00:04:55,280 --> 00:04:58,939
+Daha da iyisi,
+
+97
+00:04:58,940 --> 00:05:01,979
+yolcu konforuna yatırım yapmaya gücümüz yettiğinden, insanlar göreceli lüks içinde seyahat edebilirler.
+
+98
+00:05:01,980 --> 00:05:05,559
+Tether seyahati, Mars'a birinci sınıf koltuklar olacaktır.
+
+99
+00:05:05,560 --> 00:05:07,699
+Birlikte, Dünya ve Mars çevresindeki ipler, uzay yolculuğunu ekonomik hale getirecek
+
+100
+00:05:07,700 --> 00:05:10,899
+hızlı ve düşük maliyetli ulaşım omurgasını
+
+101
+00:05:10,900 --> 00:05:13,679
+sağlayabilir.
+
+102
+00:05:13,680 --> 00:05:15,239
+Ama daha ileri gidelim.
+
+103
+00:05:15,240 --> 00:05:17,159
+Düşük Mars yörüngesinden başlayarak,
+
+104
+00:05:17,160 --> 00:05:19,999
+bir ip gemileri asteroit kuşağına taşıyabilir.
+
+105
+00:05:20,000 --> 00:05:23,359
+Yeni bir asteroide gönderilen ilk gemi, hedefinde yavaşlamak için roketlere ihtiyaç duyacaktır
+
+106
+00:05:23,360 --> 00:05:24,919
+.
+
+107
+00:05:24,920 --> 00:05:27,859
+Daha sonraki varışlar, onları yakalamak
+
+108
+00:05:27,860 --> 00:05:29,939
+ve ücretsiz olarak geri göndermek için bekleyen bir ip bulabilir.
+
+109
+00:05:29,940 --> 00:05:31,859
+Asteroitlere ucuza ulaşmak
+
+110
+00:05:31,860 --> 00:05:35,779
+, güneş sisteminin kaynaklarının açılmasında önemli bir faktördür.
+
+111
+00:05:35,780 --> 00:05:37,859
+Değerli metaller ve değerli mineraller
+
+112
+00:05:37,860 --> 00:05:43,939
+, asteroitlerinden kesildikten sadece haftalar sonra Mars'a teslim edilebilir.
+
+113
+00:05:43,940 --> 00:05:46,819
+Gezegenler arası medeniyetimiz için mükemmel yapı taşları olacaklardı.
+
+114
+00:05:46,820 --> 00:05:48,379
+Ama neden burada dursun?
+
+115
+00:05:48,380 --> 00:05:50,779
+Mars uyduları çok uygundur.
+
+116
+00:05:50,780 --> 00:05:54,839
+Güneş sisteminde gezegenlerine bu kadar yakın yörüngede başka uydu yok.
+
+117
+00:05:54,840 --> 00:05:58,699
+Phobos o kadar ağır ki, yavaşlatma konusunda endişelenmemize gerek yok,
+
+118
+00:05:58,700 --> 00:06:00,759
+bu da onu
+
+119
+00:06:00,760 --> 00:06:04,499
+6.000 km'den kısa süper ipler için mükemmel bağlantı noktası yapıyor.
+
+120
+00:06:04,500 --> 00:06:07,359
+Alt uç, Mars yüzeyinin hemen üzerinde uçacak
+
+121
+00:06:07,360 --> 00:06:09,219
+ve yakalanması çok kolay olacaktır.
+
+122
+00:06:09,220 --> 00:06:13,379
+Üst uç, gemileri Jüpiter ve Satürn'e kadar fırlatabilir.
+
+123
+00:06:13,380 --> 00:06:14,799
+Aynı süper bağ
+
+124
+00:06:14,800 --> 00:06:18,099
+, iç güneş sistemini de yakınlaştırabilir.
+
+125
+00:06:18,100 --> 00:06:21,219
+Venüs ve Merkür tek vuruş ötede.
+
+126
+00:06:21,220 --> 00:06:24,339
+Mars'tan farklı olarak, güneş enerjisiyle patlıyorlar
+
+127
+00:06:24,340 --> 00:06:26,699
+ve mineraller açısından zenginler.
+
+128
+00:06:26,700 --> 00:06:32,479
+Uzun vadede, hiçbir şey
+
+129
+00:06:32,480 --> 00:06:35,879
+insanlığı Mars uyduları merkezli karasal gezegenler için sıfır itici bir ulaşım ağı kurmaktan alıkoyamaz.
+
+130
+00:06:35,880 --> 00:06:37,859
+Bağlar,
+
+131
+00:06:37,860 --> 00:06:41,699
+uzay yolculuğunu ekonomik hale getirmek
+
+132
+00:06:41,700 --> 00:06:44,119
+ve güneş sisteminin geri kalanını
+
+133
+00:06:44,120 --> 00:06:46,839
+sömürü ve keşif için erişilebilir kılmak için nispeten ucuz ve sürdürülebilir bir çözümdür.
+
+134
+00:06:46,840 --> 00:06:49,979
+Bugün onları inşa edecek teknolojiye sahip olduğumuzu düşünürsek,
+
+135
+00:06:49,980 --> 00:06:53,539
+artık beklemek için gerçekten iyi bir bahane yok.
+
+136
+00:06:53,540 --> 00:06:56,279
+Güneş sisteminin parçaları çok uzakta
+
+137
+00:06:56,280 --> 00:07:00,059
+ama çok yakın olabilirler.
+
+138
+00:07:00,060 --> 00:07:02,559
+Ulaşılması zor
+
+139
+00:07:02,560 --> 00:07:04,279
+ama olması gerekmeyen şeylerden bahsetmişken:
+
+140
+00:07:04,280 --> 00:07:05,659
+bilgi.
+
+141
+00:07:05,660 --> 00:07:12,639
+Brilliant'tan arkadaşlarımız sizi patlayıcı fikirler ve eğlenceli kurslarla dolu bir evrene bağlayabilir.
+
+142
+00:07:12,640 --> 00:07:16,119
+Brilliant,
+
+143
+00:07:16,120 --> 00:07:18,219
+etkileşimli problem çözme kursları
+
+144
+00:07:18,220 --> 00:07:21,859
+ve matematik, mantık ve mühendislikteki günlük problemlerle bilimi pratik bir şekilde ele almanıza yardımcı olan bir web sitesidir.
+
+145
+00:07:21,860 --> 00:07:26,159
+Her sorun, karmaşık konuları tek başınıza çözmeniz için ihtiyacınız olan tüm araçları sağlar.
+
+146
+00:07:26,160 --> 00:07:33,119
+Yaparak öğreniyor, ama elleriniz yerine beyninizle.
+
+147
+00:07:33,120 --> 00:07:35,104
+Klasik mekanik,
+
+148
+00:07:35,105 --> 00:07:38,739
+astronomi, yerçekimi fiziği ve çok daha fazlası hakkında bulmacaların ve kursların dibine ulaşmak için merakınızı kullanın.
+
+149
+00:07:38,740 --> 00:07:42,679
+Açıklamadaki bağlantıya tıklarsanız veya brilliant.org/nutshell'i ziyaret
+
+150
+00:07:42,680 --> 00:07:46,379
+ederseniz, ücretsiz olarak kaydolabilir ve hayal edebileceğinizden çok daha fazla şey öğrenebilirsiniz.
+
+151
+00:07:46,380 --> 00:07:49,139
+Kurzgesagt izleyicileri için ekstra bir bölüm daha var
+
+152
+00:07:49,140 --> 00:07:51,799
+: Bağlantıyı kullanan ilk 688 kişi
+
+153
+00:07:51,800 --> 00:07:54,439
+, yıllık üyeliklerinde %20 indirim alır ve
+
+154
+00:07:54,440 --> 00:07:57,079
+bu da, arşivlerdeki tüm günlük sorunları görüntülemenize
+
+155
+00:07:57,080 --> 00:07:58,999
+ve her kursun kilidini açmanıza olanak tanır.
+
+156
+00:07:59,000 --> 00:08:02,499
+Brilliant, gününüzü biraz daha akıllı bitirmenize yardımcı olur.
+
+157
+00:08:02,500 --> 00:08:05,899
+Deneyime "bağlanabilirsiniz".
+
+158
+00:08:05,900 --> 00:08:12,659
+[Outro müziği]
+
+159
+00:08:12,660 --> 00:08:14,000
+[Köpek uluması]
+

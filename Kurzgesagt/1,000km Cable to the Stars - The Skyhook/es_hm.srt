@@ -1,0 +1,568 @@
+1
+00:00:01,100 --> 00:00:02,999
+Ir al espacio es difícil.
+
+2
+00:00:03,000 --> 00:00:06,619
+En este momento es como escalar una montaña en un monociclo
+
+3
+00:00:06,620 --> 00:00:08,999
+con una mochila llena de explosivos.
+
+4
+00:00:09,000 --> 00:00:10,239
+Increíblemente lento,
+
+5
+00:00:10,240 --> 00:00:11,999
+no puedes llevar muchas cosas,
+
+6
+00:00:12,000 --> 00:00:13,579
+y quizás mueras.
+
+7
+00:00:13,580 --> 00:00:19,679
+Un cohete tiene que alcanzar una velocidad de alrededor 40,000 Kilómetros por hora para escapar de la Tierra.
+
+8
+00:00:19,680 --> 00:00:21,079
+Para alcanzar esa velocidad,
+
+9
+00:00:21,080 --> 00:00:23,579
+los cohetes son principalmente contenedores de combustible
+
+10
+00:00:23,580 --> 00:00:25,959
+con una pequeña parte de carga en la punta.
+
+11
+00:00:25,960 --> 00:00:28,419
+Esto es malo si es que quieres llegar a otros planetas,
+
+12
+00:00:28,420 --> 00:00:32,039
+ya que necesitas muchas cosas pesadas si es que quieres sobrevivir,
+
+13
+00:00:32,040 --> 00:00:34,419
+e incluso, quizás, regresar.
+
+14
+00:00:34,420 --> 00:00:40,179
+Entonces, ¿hay alguna manera de llegar al espacio con menos combustible y más carga útil?
+
+15
+00:00:40,180 --> 00:00:48,739
+[INTRO]
+
+16
+00:00:48,740 --> 00:00:52,459
+Algo bueno que resolvió la mayoría de nuestros problemas de transporte en la Tierra,
+
+17
+00:00:52,460 --> 00:00:54,519
+fue lo que llamamos infraestructura.
+
+18
+00:00:54,520 --> 00:00:58,459
+Ya sean carreteras para automóviles, puertos para los barcos o rieles para trenes,
+
+19
+00:00:58,460 --> 00:01:01,379
+hicimos que sea más fácil llegar a los lugares.
+
+20
+00:01:01,380 --> 00:01:04,579
+Podemos aplicar la misma solución para los viajes espaciales.
+
+21
+00:01:04,580 --> 00:01:09,919
+La Infraestructura espacial haría de llegar a la órbita y afuera hacia la Luna, Marte y más allá,
+
+22
+00:01:09,920 --> 00:01:12,119
+más sencillo y barato.
+
+23
+00:01:12,120 --> 00:01:15,999
+Bien, ¿pero qué es exactamente la infraestructura espacial?
+
+24
+00:01:16,000 --> 00:01:19,619
+A diferencia de un elevador espacial Terrestre (el cual es actualmente ciencia ficción),
+
+25
+00:01:19,620 --> 00:01:22,819
+hay una simple pero prometedora tecnología,
+
+26
+00:01:22,820 --> 00:01:27,579
+que no necesita nueva ciencia, materiales mágicos o inversiones enormes,
+
+27
+00:01:27,580 --> 00:01:30,979
+y ya ha sido probada exitosamente en órbita.
+
+28
+00:01:30,980 --> 00:01:32,919
+Un cable y peso,
+
+29
+00:01:32,920 --> 00:01:34,639
+conocido como "La Correa"
+
+30
+00:01:34,640 --> 00:01:37,959
+El concepto es tan simple que es sorprendente.
+
+31
+00:01:37,960 --> 00:01:42,659
+¿Qué tal si ponemos correas de cientos o de miles de kilómetros de largo en el espacio,
+
+32
+00:01:42,660 --> 00:01:48,639
+y que naves espaciales la usen como escaleras para escalar hacia grandes alturas y ganar velocidad?
+
+33
+00:01:48,640 --> 00:01:51,619
+Este concepto es conocido como "Gancho Aéreo"
+
+34
+00:01:51,620 --> 00:01:54,139
+Funcionaria aún mejor si lo hacemos girar.
+
+35
+00:01:54,140 --> 00:01:58,419
+Un contrapeso sostiene un largo cable en su lugar mientras que rota alrededor en circulo.
+
+36
+00:01:58,420 --> 00:02:02,479
+Una correa rotante frena su punta respecto al suelo en el fondo
+
+37
+00:02:02,480 --> 00:02:05,439
+y lo acelera en la cima, como una catapulta.
+
+38
+00:02:05,440 --> 00:02:10,198
+Esto significa que puedes transferir energía de la correa y tener un enorme impulso cuando es soltado,
+
+39
+00:02:10,199 --> 00:02:11,639
+más o menos sin costo,
+
+40
+00:02:11,640 --> 00:02:14,579
+equivalente a dos veces la velocidad de rotación de la correa.
+
+41
+00:02:14,580 --> 00:02:16,939
+Ya existen fibras especializadas,
+
+42
+00:02:16,940 --> 00:02:21,099
+las cuales pueden sobrevivir a las grandes dificultades con las que un gancho aéreo tiene que lidiar.
+
+43
+00:02:21,100 --> 00:02:24,859
+Para protegerlo contra cortes y choques de restos y meteoritos,
+
+44
+00:02:24,860 --> 00:02:28,359
+podemos meter nuestra correa a una red de fibras redundantes.
+
+45
+00:02:28,360 --> 00:02:32,159
+Ya que nuestro gancho aéreo pasara por el mismo lugar muchas veces al día,
+
+46
+00:02:32,160 --> 00:02:35,779
+esto va a permitir que pequeñas capsulas de transporte re-usables sean atrapadas por el gancho.
+
+47
+00:02:35,780 --> 00:02:38,139
+Por supuesto, no es así de fácil.
+
+48
+00:02:38,140 --> 00:02:39,359
+En su punto más bajo,
+
+49
+00:02:39,360 --> 00:02:43,719
+la punta de la correa va a través de la Atmósfera a una precipitada velocidad de 12,000 Km/h.
+
+50
+00:02:43,720 --> 00:02:47,319
+Debido a la Atmósfera de la Tierra, no podemos bajar mucho el gacho aéreo,
+
+51
+00:02:47,320 --> 00:02:49,719
+o se calentara demasiado por la fricción del aire.
+
+52
+00:02:49,720 --> 00:02:53,239
+Así que tendría una profundidad de 80 a 150 Km,
+
+53
+00:02:53,240 --> 00:02:54,459
+y no más bajo.
+
+54
+00:02:54,460 --> 00:02:59,039
+Para igualar esto, necesitaremos naves espaciales especializadas para llegar a la correa.
+
+55
+00:02:59,040 --> 00:03:01,059
+Aunque esto no es exactamente fácil,
+
+56
+00:03:01,060 --> 00:03:04,879
+sigue siendo mucho más barato que mandar una lata gigante llena de combustible para cohete
+
+57
+00:03:04,880 --> 00:03:07,579
+para que vaya a una velocidad de 40,000 Km/h.
+
+58
+00:03:07,580 --> 00:03:09,999
+Atrapar la punta va a ser un reto también.
+
+59
+00:03:10,000 --> 00:03:13,359
+Sólo hay un pequeño margen de tiempo de 60 a 90 segundos
+
+60
+00:03:13,360 --> 00:03:17,159
+para encontrar una pequeña cosa en el cielo moviéndose a Mach 12.
+
+61
+00:03:17,160 --> 00:03:18,739
+Para hacer esto más fácil,
+
+62
+00:03:18,740 --> 00:03:21,939
+la punta podría tener una especie de cuerda para pescar de un kilómetro de largo,
+
+63
+00:03:21,940 --> 00:03:25,559
+con un dron de navegación que ayude a la nave a conectar.
+
+64
+00:03:25,560 --> 00:03:28,459
+Otro reto es mantener nuestro gancho aéreo en órbita.
+
+65
+00:03:28,460 --> 00:03:31,619
+Mientras cada vez más y más naves aterricen en el y sean jaladas hacia arriba,
+
+66
+00:03:31,620 --> 00:03:34,419
+usan parte del momentum que hace que se quede en su lugar.
+
+67
+00:03:34,420 --> 00:03:39,659
+Si no hacemos nada, se ralentizaría y chocaría en la atmósfera.
+
+68
+00:03:39,660 --> 00:03:42,819
+Y aquí, podemos hacerle un poco de trampa al universo.
+
+69
+00:03:42,820 --> 00:03:46,159
+El gancho aéreo es una batería de energía orbital,
+
+70
+00:03:46,160 --> 00:03:50,239
+es posible balancear las cargas que llegan y las que son puestas en marcha.
+
+71
+00:03:50,240 --> 00:03:53,779
+Naves que llegan, trayendo consigo humanos y materiales de casa a la Tierra,
+
+72
+00:03:53,780 --> 00:03:58,419
+agregan energía a la correa, la cual puedes dársela a otras naves para que departan hacia el espacio.
+
+73
+00:03:58,420 --> 00:04:00,959
+De esta manera la correa no pierde nada de energía.
+
+74
+00:04:00,960 --> 00:04:04,179
+Cuanto más la utilicemos, más barato será.
+
+75
+00:04:04,180 --> 00:04:06,519
+Si seguimos perdiendo energía con cada impulso,
+
+76
+00:04:06,520 --> 00:04:09,479
+podemos recuperarla con pequeños motores eléctricos o químicos,
+
+77
+00:04:09,480 --> 00:04:11,979
+que regularmente corrija la posición de la correa.
+
+78
+00:04:11,980 --> 00:04:15,059
+Un grupo de correas, uno alrededor de la Tierra y otro alrededor de Marte,
+
+79
+00:04:15,060 --> 00:04:20,499
+haría viajes entre los planetas rápidos, directos y baratos comparados a los cohetes.
+
+80
+00:04:20,500 --> 00:04:24,059
+La correa de la Tierra esperaría en la órbita baja para recoger personas y carga
+
+81
+00:04:24,060 --> 00:04:25,879
+y mandarlos volando hacia Marte.
+
+82
+00:04:25,880 --> 00:04:30,699
+La correa de Marte los atrapa y los frena para que aterricen en la superficie.
+
+83
+00:04:30,700 --> 00:04:35,339
+En el lado opuesto, la correa podría recoger un vehículo viajando a través de la delgada atmósfera de Marte,
+
+84
+00:04:35,340 --> 00:04:40,319
+a alrededor de 1,000 km/h, no más rápido que nuestras aerolíneas en la Tierra,
+
+85
+00:04:40,320 --> 00:04:44,059
+y mandarlo volando devuelta a la Tierra para que sea atrapado y bajado.
+
+86
+00:04:44,060 --> 00:04:49,559
+Las correas podrían hacer más corto el viaje entre los dos planetas, de 9 meses a 5 e incluso 3,
+
+87
+00:04:49,560 --> 00:04:55,359
+y disminuir el tamaño requerido de los cohetes a alrededor de 84 y 96%
+
+88
+00:04:55,360 --> 00:04:58,859
+Aún mejor, las personas podrían viajar en relativo lujo,
+
+89
+00:04:58,860 --> 00:05:01,959
+mientras podamos invertir en la comodidad de los pasajeros.
+
+90
+00:05:01,960 --> 00:05:05,459
+Viajes en correas serian asientos de primera clase hacia Marte.
+
+91
+00:05:05,460 --> 00:05:10,939
+Juntas, las correas alrededor de Marte y la Tierra podrían proveer un pilar de transporte rápido y rentable,
+
+92
+00:05:10,940 --> 00:05:13,679
+el cual haría los viajes espaciales accesibles.
+
+93
+00:05:13,680 --> 00:05:15,259
+Pero vayamos más lejos.
+
+94
+00:05:15,260 --> 00:05:17,079
+Empezando desde la órbita baja de Marte,
+
+95
+00:05:17,080 --> 00:05:19,999
+Una correa podría impulsar naves hacia el cinturón de asteroides.
+
+96
+00:05:20,000 --> 00:05:24,679
+La primera nave mandada hacia un asteroide nuevo necesitara cohetes para frenar cuando llegue.
+
+97
+00:05:24,680 --> 00:05:29,939
+Llegadas subsecuentes encontraran una correa esperando para atraparlos y mandarlos devuelta gratis.
+
+98
+00:05:29,940 --> 00:05:31,842
+Llegar a los asteroides de forma barata,
+
+99
+00:05:31,843 --> 00:05:35,819
+es un factor importante en la exploración de los recursos del Sistema Solar.
+
+100
+00:05:35,820 --> 00:05:38,979
+Metales preciosos y minerales valiosos podrían ser mandados a Marte
+
+101
+00:05:38,980 --> 00:05:42,059
+en sólo semanas después de haber sido cortados de su asteroide.
+
+102
+00:05:42,060 --> 00:05:46,699
+Serian los cimientos perfectos para nuestra civilización interplanetaria
+
+103
+00:05:46,700 --> 00:05:48,299
+Pero, ¿por qué detenernos aquí?
+
+104
+00:05:48,300 --> 00:05:50,759
+Las lunas de Marte son bastante convenientes.
+
+105
+00:05:50,760 --> 00:05:54,839
+Ninguna otra Luna en el Sistema Solar órbita tan cerca de su planeta.
+
+106
+00:05:54,840 --> 00:05:58,919
+Phobos es tan pesada que ni siquiera necesitamos preocuparnos por frenar,
+
+107
+00:05:58,920 --> 00:06:01,679
+haciéndola un punto de fijación perfecto para supercorreas
+
+108
+00:06:01,680 --> 00:06:04,379
+justo por debajo de 6,000 Km de largo.
+
+109
+00:06:04,380 --> 00:06:09,219
+La punta baja volará sobre la superficie de marte y será muy fácil de atrapar.
+
+110
+00:06:09,220 --> 00:06:13,379
+La punta alta puede mandar volando naves hacia Júpiter y Saturno.
+
+111
+00:06:13,380 --> 00:06:18,099
+Esa misma supercuerda puede traer el Sistema Solar interior mas cerca.
+
+112
+00:06:18,100 --> 00:06:21,219
+Venus y Mercurio están a un simple lanzado de distancia
+
+113
+00:06:21,220 --> 00:06:22,539
+A diferencia de Marte,
+
+114
+00:06:22,540 --> 00:06:26,839
+están llenos de energía solar y son ricos en minerales.
+
+115
+00:06:26,840 --> 00:06:27,879
+A largo plazo,
+
+116
+00:06:27,880 --> 00:06:33,659
+nada detiene a la humanidad de construir una red de transporte sin combustible para los planetas terrestres
+
+117
+00:06:33,660 --> 00:06:35,879
+establecida en las lunas de Marte.
+
+118
+00:06:35,880 --> 00:06:39,519
+Las correas son una incomparable barata y sustentable solución
+
+119
+00:06:39,520 --> 00:06:41,659
+para hacer de los viajes espaciales económicos,
+
+120
+00:06:41,660 --> 00:06:46,839
+y el resto del Sistema Solar accesible para explotación y exploración.
+
+121
+00:06:46,840 --> 00:06:49,979
+Considerando que tenemos la tecnología para construirlas hoy,
+
+122
+00:06:49,980 --> 00:06:53,439
+no hay en realidad ninguna excusa para esperar más.
+
+123
+00:06:53,440 --> 00:06:56,279
+Partes del Sistema Solar están muy lejos,
+
+124
+00:06:56,280 --> 00:07:00,059
+pero podrían estar muy cerca.
+
+125
+00:07:00,060 --> 00:07:04,039
+Hablando de cosas que son difíciles de alcanzar y que no lo tienen que ser,
+
+126
+00:07:04,040 --> 00:07:05,639
+Conocimiento.
+
+127
+00:07:05,640 --> 00:07:12,639
+Nuestros amigos de "Brilliant" pueden "engancharte" a un universo lleno de ideas explosivas y cursos divertidos.
+
+128
+00:07:12,640 --> 00:07:16,259
+"Brilliant" es un sitio web que te ayuda a adentrarte a la ciencia en una forma practica,
+
+129
+00:07:16,260 --> 00:07:21,619
+con cursos de solución interactiva de problemas y problemas diarios de matemáticas, lógica e ingeniería.
+
+130
+00:07:21,620 --> 00:07:26,279
+Cada problema te da todas las herramientas que necesitas para entender temas complejos por ti mismo.
+
+131
+00:07:26,280 --> 00:07:29,679
+Es aprender haciendo, pero con tu cerebro en vez de con tus manos.
+
+132
+00:07:29,680 --> 00:07:33,319
+Usa tu curiosidad para llegar al fondo de rompecabezas y cursos
+
+133
+00:07:33,320 --> 00:07:38,739
+acerca de cosas como la Mecánica Clásica, Astronomía, Física Gravitacional y mucho más.
+
+134
+00:07:38,740 --> 00:07:42,739
+Si presionas el enlace de la descripción o visitas "Brilliant.org/nutshell"
+
+135
+00:07:42,740 --> 00:07:46,299
+puedes registrarte sin costo y aprender más cosas de las que puedes imaginar.
+
+136
+00:07:46,300 --> 00:07:49,119
+Y hay una parte extra para los viwers de Kurzgesagt,
+
+137
+00:07:49,120 --> 00:07:51,859
+las primeras 688 personas que usen el enlace,
+
+138
+00:07:51,860 --> 00:07:54,439
+recibirán un descuento del 20% en la suscripción anual,
+
+139
+00:07:54,440 --> 00:07:58,999
+la cual te permite ver todos los problemas diarios en los archivos y desbloquear todos los cursos.
+
+140
+00:07:59,000 --> 00:08:02,299
+"Brilliant" te ayuda a que termines tu día un poco más inteligente.
+
+141
+00:08:02,300 --> 00:08:05,659
+Probablemente te quedes "enganchado" de la experiencia.
+
+142
+00:08:05,660 --> 00:08:08,000
+[Calendario de la era espacial humana 12,020 sigue el enlace en la descripción]
+

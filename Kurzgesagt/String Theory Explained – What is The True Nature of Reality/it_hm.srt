@@ -1,0 +1,636 @@
+1
+00:00:01,660 --> 00:00:04,699
+Qual è la vera natura dell'universo?
+
+2
+00:00:04,700 --> 00:00:05,939
+Per rispondere a questa domanda,
+
+3
+00:00:05,940 --> 00:00:09,719
+gli umani hanno inventato storie per descrivere il mondo
+
+4
+00:00:09,720 --> 00:00:11,099
+Testiamo le nostre storie,
+
+5
+00:00:11,100 --> 00:00:14,459
+imparando cosa tenere e cosa buttar via.
+
+6
+00:00:14,460 --> 00:00:16,078
+Ma più cose impariamo,
+
+7
+00:00:16,079 --> 00:00:19,694
+più le nostre storie diventano complesse e strane.
+
+8
+00:00:19,695 --> 00:00:21,799
+Alcune a tal punto
+
+9
+00:00:21,800 --> 00:00:25,059
+che è veramente difficile capire di cosa parlino.
+
+10
+00:00:25,060 --> 00:00:26,739
+Come la teoria delle stringhe:
+
+11
+00:00:26,740 --> 00:00:28,699
+una storia ben nota, controversa
+
+12
+00:00:28,700 --> 00:00:32,799
+e spesso non compresa sulla natura di tutto.
+
+13
+00:00:32,800 --> 00:00:35,579
+Perché l'abbiamo inventata? Ed è corretta?
+
+14
+00:00:35,580 --> 00:00:44,619
+O è solo un'idea che dovremmo buttare?
+
+15
+00:00:44,620 --> 00:00:47,559
+Kurzgesagt - In poche parole
+
+16
+00:00:47,560 --> 00:00:49,639
+Per comprendere la vera natura della realtà,
+
+17
+00:00:49,640 --> 00:00:53,039
+guardiamo le cose da vicino rimanendone affascinati.
+
+18
+00:00:53,040 --> 00:00:55,179
+Paesaggi sorprendenti nella polvere,
+
+19
+00:00:55,180 --> 00:00:57,259
+zoo di creature bizzarre,
+
+20
+00:00:57,260 --> 00:00:59,239
+complessi robot di proteine,
+
+21
+00:00:59,240 --> 00:01:02,144
+tutti formati da strutture di molecole fatte
+
+22
+00:01:02,145 --> 00:01:05,479
+da innumerevoli e piccoli oggetti: gli atomi.
+
+23
+00:01:05,480 --> 00:01:08,319
+Pensavamo che fossero l'ultimo strato della realtà
+
+24
+00:01:08,320 --> 00:01:10,744
+finché non li abbiamo fatti scontrare veramente forte
+
+25
+00:01:10,745 --> 00:01:13,794
+e scoperto oggetti che non potevano essere più divisi:
+
+26
+00:01:13,795 --> 00:01:15,874
+le particelle elementari.
+
+27
+00:01:15,875 --> 00:01:18,784
+Ma ora abbiamo un problema: sono così piccole
+
+28
+00:01:18,785 --> 00:01:21,179
+che non possiamo più osservarle.
+
+29
+00:01:21,180 --> 00:01:24,139
+Pensateci: cos'è la vista?
+
+30
+00:01:24,140 --> 00:01:25,939
+Per vedere qualcosa ci serve la luce,
+
+31
+00:01:25,940 --> 00:01:27,919
+un'onda elettromagnetica.
+
+32
+00:01:27,920 --> 00:01:29,859
+Quest'onda colpisce la superficie dell'oggetto,
+
+33
+00:01:29,860 --> 00:01:33,079
+venendo riflessa verso l'occhio.
+
+34
+00:01:33,080 --> 00:01:35,499
+L'onda porta l'informazione dall'oggetto
+
+35
+00:01:35,500 --> 00:01:38,539
+che il cervello usa per creare un'immagine.
+
+36
+00:01:38,540 --> 00:01:42,459
+Quindi non puoi vedere qualcosa senza, in qualche modo, interagirvi.
+
+37
+00:01:42,460 --> 00:01:43,839
+Vedere è toccare:
+
+38
+00:01:43,840 --> 00:01:47,299
+un processo attivo e non passivo.
+
+39
+00:01:47,300 --> 00:01:49,919
+Tutto ciò non è un problema con la maggior parte delle cose,
+
+40
+00:01:49,920 --> 00:01:53,434
+ma le particelle sono davvero, davvero, davvero minuscole.
+
+41
+00:01:53,435 --> 00:01:56,574
+Così piccole, che le onde elettromagnetiche che usiamo per vedere
+
+42
+00:01:56,575 --> 00:01:58,634
+son troppo grandi per toccarle:
+
+43
+00:01:58,635 --> 00:02:01,539
+la luce visibile semplicemente le ignora.
+
+44
+00:02:01,540 --> 00:02:03,619
+Possiamo provare a risolvere la cosa creando
+
+45
+00:02:03,620 --> 00:02:07,459
+onde elettromagnetiche con lunghezza d'onda sempre più ampie e brevi,
+
+46
+00:02:07,460 --> 00:02:10,478
+ma lunghezza d'onda più ampia significa più energia
+
+47
+00:02:10,479 --> 00:02:13,519
+quindi quando tocchiamo una particella con un'onda che ha molta energia,
+
+48
+00:02:13,520 --> 00:02:15,119
+viene alterata.
+
+49
+00:02:15,120 --> 00:02:17,919
+Guardando una particella, la cambiamo
+
+50
+00:02:17,920 --> 00:02:21,599
+quindi non possiamo misurare con precisione le particelle elementari.
+
+51
+00:02:21,600 --> 00:02:25,059
+Ciò è così importante da avere un nome:
+
+52
+00:02:25,060 --> 00:02:27,499
+il principio d'indeterminazione di Heisenberg,
+
+53
+00:02:27,500 --> 00:02:30,659
+il fondamento di tutta la fisica quantistica.
+
+54
+00:02:30,660 --> 00:02:33,539
+Quindi, che aspetto ha dunque una particella?
+
+55
+00:02:33,540 --> 00:02:35,779
+Qual è la sua natura?
+
+56
+00:02:35,780 --> 00:02:37,879
+Non lo sappiamo.
+
+57
+00:02:37,880 --> 00:02:41,579
+Se ci sforziamo di osservare, possiamo vedere una poco definita sfera d'influenza
+
+58
+00:02:41,580 --> 00:02:43,619
+ma non le particelle in sé:
+
+59
+00:02:43,620 --> 00:02:46,619
+sappiamo solo che esistono.
+
+60
+00:02:46,620 --> 00:02:50,519
+Ma se è così, come facciamo a lavorarci?
+
+61
+00:02:50,520 --> 00:02:53,679
+Abbiamo fatto ciò che gli umani fanno e inventato una storia nuova,
+
+62
+00:02:53,680 --> 00:02:56,239
+un romanzo matematico.
+
+63
+00:02:56,240 --> 00:02:58,959
+La storia del punto materiale.
+
+64
+00:02:58,960 --> 00:03:03,159
+Abbiamo deciso di fingere che una particella sia un punto nello spazio.
+
+65
+00:03:03,160 --> 00:03:06,059
+Ogni elettrone è un punto con determinata carica elettrica
+
+66
+00:03:06,060 --> 00:03:07,539
+e una determinata massa,
+
+67
+00:03:07,540 --> 00:03:09,879
+ognuno indistinguibile da un altro.
+
+68
+00:03:09,880 --> 00:03:12,999
+In questo modo, i fisici hanno potuto definirli e calcolare
+
+69
+00:03:13,000 --> 00:03:14,819
+ogni loro interazione.
+
+70
+00:03:14,820 --> 00:03:16,939
+Questa si chiama teoria quantistica dei campi,
+
+71
+00:03:16,940 --> 00:03:19,199
+ed ha risolto molti problemi.
+
+72
+00:03:19,200 --> 00:03:22,359
+Tutto del modello standard della fisica delle particelle è basato su di esso
+
+73
+00:03:22,360 --> 00:03:25,379
+e predice benissimo molte cose.
+
+74
+00:03:25,380 --> 00:03:27,939
+Alcune proprietà quantistiche dell'elettrone, ad esempio,
+
+75
+00:03:27,940 --> 00:03:36,779
+sono state verificate e sono accurate fino allo 0.0000000000002%
+
+76
+00:03:36,780 --> 00:03:39,339
+Quindi anche se le particelle non sono effettivamente dei punti,
+
+77
+00:03:39,340 --> 00:03:41,119
+trattandole come tali
+
+78
+00:03:41,120 --> 00:03:44,119
+otteniamo un'immagine notevole dell'Universo.
+
+79
+00:03:44,120 --> 00:03:46,719
+Quest'idea non è solo scienza di alto livello,
+
+80
+00:03:46,720 --> 00:03:51,279
+ma ha anche portato a molte tecnologie attuali d'uso quotidiano.
+
+81
+00:03:51,280 --> 00:03:54,279
+Ma c'è un problema enorme: la gravità.
+
+82
+00:03:54,280 --> 00:03:57,159
+Nella meccanica quantistica, tutte le forze sono trasportate
+
+83
+00:03:57,160 --> 00:03:59,859
+da determinate particelle.
+
+84
+00:03:59,860 --> 00:04:02,459
+Ma in accordo con la relatività generale di Einstein,
+
+85
+00:04:02,460 --> 00:04:06,059
+la gravità non è come le altre forze dell'Universo.
+
+86
+00:04:06,060 --> 00:04:09,499
+Se l'Universo fosse uno spettacolo teatrale, le particelle sono gli attori
+
+87
+00:04:09,500 --> 00:04:12,299
+ma la gravità è il palco.
+
+88
+00:04:12,300 --> 00:04:15,499
+Per porlo in maniera semplice, la gravità è un'idea geometrica:
+
+89
+00:04:15,500 --> 00:04:18,059
+la geometria dello spaziotempo stesso,
+
+90
+00:04:18,060 --> 00:04:22,099
+di distanze che dobbiamo calcolare con precisione assoluta.
+
+91
+00:04:22,100 --> 00:04:24,839
+Ma siccome non c'è modo di calcolare precisamente le cose
+
+92
+00:04:24,840 --> 00:04:27,899
+nel mondo quantistico, la storiella della gravità non funziona
+
+93
+00:04:27,900 --> 00:04:30,319
+con quella della meccanica quantistica.
+
+94
+00:04:30,320 --> 00:04:33,299
+Quando i fisici hanno provato ad inserire la gravità nel quadro
+
+95
+00:04:33,300 --> 00:04:35,359
+inventando una nuova particella...
+
+96
+00:04:35,360 --> 00:04:37,159
+la loro matematica è crollata.
+
+97
+00:04:37,160 --> 00:04:39,339
+E questo è un gran problema.
+
+98
+00:04:39,340 --> 00:04:42,839
+Se riuscissimo a unire la gravità alla fisica quantistica ed al modello standard,
+
+99
+00:04:42,840 --> 00:04:45,619
+otterremmo la teoria del tutto.
+
+100
+00:04:45,620 --> 00:04:48,659
+Quindi persone molto brillanti hanno inventato una nuova storia:
+
+101
+00:04:48,660 --> 00:04:52,039
+si sono chieste "Cos'è più complesso di un punto?"
+
+102
+00:04:52,040 --> 00:04:54,499
+Una linea, o una stringa.
+
+103
+00:04:54,500 --> 00:04:56,819
+La teoria delle stringhe era nata.
+
+104
+00:04:56,820 --> 00:04:58,999
+Ciò che rende la teoria delle stringhe così elegante
+
+105
+00:04:59,000 --> 00:05:02,759
+è che descrive le diverse particelle elementari come diversi modi
+
+106
+00:05:02,760 --> 00:05:04,819
+di vibrare della stringa.
+
+107
+00:05:04,820 --> 00:05:07,339
+Proprio come la corda di un violino, vibrando in maniera diversa,
+
+108
+00:05:07,340 --> 00:05:11,839
+può dare note differenti, una stringa può dare particelle differenti.
+
+109
+00:05:11,840 --> 00:05:15,919
+Cosa più importante, questo include la gravità.
+
+110
+00:05:15,920 --> 00:05:18,919
+La teoria delle stringhe promise di unire tutte le forze fondamentali
+
+111
+00:05:18,920 --> 00:05:22,979
+dell'Universo. Questo procurò molto entusuasmo ed aspettative:
+
+112
+00:05:22,980 --> 00:05:27,619
+la teoria delle stringhe presto si elevò ad una possibile teoria del tutto.
+
+113
+00:05:27,620 --> 00:05:33,439
+Sfortunatamente, tutte le stringhe vengono al pettine.
+
+114
+00:05:33,440 --> 00:05:36,579
+Molta della matematica che implica la teoria delle stringhe
+
+115
+00:05:36,580 --> 00:05:39,159
+non funziona nel nostro Universo in tre dimensioni spaziali
+
+116
+00:05:39,160 --> 00:05:41,399
+più una temporale.
+
+117
+00:05:41,400 --> 00:05:44,779
+La teoria delle stringhe richiede dieci dimensioni per funzionare.
+
+118
+00:05:44,780 --> 00:05:48,799
+Quindi i fisici teorici che ci lavorano fanno calcoli in universi modello,
+
+119
+00:05:48,800 --> 00:05:51,519
+per poi cercare di eliminare le sei dimensioni superflue
+
+120
+00:05:51,520 --> 00:05:53,859
+e descrivere il nostro universo.
+
+121
+00:05:53,860 --> 00:05:56,519
+Ma finora nessuno ha avuto successo, e nessuna
+
+122
+00:05:56,520 --> 00:06:00,259
+delle predizioni della teoria delle stringhe è stata dimostrata con un esperimento.
+
+123
+00:06:00,260 --> 00:06:04,159
+La teoria delle stringhe quindi non ha rivelato la natura dell'Universo.
+
+124
+00:06:04,160 --> 00:06:06,219
+Qualcuno potrebbe dire, in questo caso,
+
+125
+00:06:06,220 --> 00:06:08,939
+che la teoria delle stringhe non sia per niente utile.
+
+126
+00:06:08,940 --> 00:06:12,359
+La scienza si basa su esperimenti e previsioni:
+
+127
+00:06:12,360 --> 00:06:16,059
+se non possiamo farli, perché insistere con le stringhe?
+
+128
+00:06:16,060 --> 00:06:18,979
+Dipende tutto da come le usiamo.
+
+129
+00:06:18,980 --> 00:06:22,779
+La fisica si basa sulla matematica: due più due fa quattro;
+
+130
+00:06:22,780 --> 00:06:25,839
+questo è vero indipendentemente da quello che pensi.
+
+131
+00:06:25,840 --> 00:06:28,939
+E la matematica della teoria delle stringhe funziona:
+
+132
+00:06:28,940 --> 00:06:32,079
+ecco perché la teoria delle stringhe è comunque utile.
+
+133
+00:06:32,080 --> 00:06:35,099
+Immagina di voler costruire una nave da crociera, ma hai solo
+
+134
+00:06:35,100 --> 00:06:37,359
+i progetti per costruire una barcetta a remi.
+
+135
+00:06:37,360 --> 00:06:39,899
+Ci sono tantissime differenze: il motore,
+
+136
+00:06:39,900 --> 00:06:42,299
+i materiali, la scala.
+
+137
+00:06:42,300 --> 00:06:44,939
+Ma sono entrambe fondamentalmente la stessa cosa:
+
+138
+00:06:44,940 --> 00:06:47,839
+cose che galleggiano.
+
+139
+00:06:47,840 --> 00:06:50,219
+Quindi studiando i progetti della barca a remi,
+
+140
+00:06:50,220 --> 00:06:54,299
+potresti comunque finire per imparare qualcosa sulla costruzione di una nave da crociera.
+
+141
+00:06:54,300 --> 00:06:57,119
+Con la teoria delle stringhe possiamo provare a rispondere ad alcune domande
+
+142
+00:06:57,120 --> 00:07:00,739
+sulla gravità quantistica che hanno scervellato gli scenziati per decenni,
+
+143
+00:07:00,740 --> 00:07:04,279
+come il funzionamento dei buchi neri o il paradosso dell'informazione.
+
+144
+00:07:04,280 --> 00:07:07,279
+La teoria delle stringhe potrebbe metterci sulla strada giusta.
+
+145
+00:07:07,280 --> 00:07:09,799
+Quando usata in questa maniera, la teoria delle stringhe diventa
+
+146
+00:07:09,800 --> 00:07:12,579
+uno strumento prezioso per i fisici teorici
+
+147
+00:07:12,580 --> 00:07:15,279
+e li aiuta a scoprire nuovi aspetti del mondo quantistico
+
+148
+00:07:15,280 --> 00:07:17,799
+e un po' di matematica strabiliante.
+
+149
+00:07:17,800 --> 00:07:20,059
+Quindi forse la storia della teoria delle stringhe
+
+150
+00:07:20,060 --> 00:07:22,139
+non è la teoria del tutto,
+
+151
+00:07:22,140 --> 00:07:24,579
+ma proprio come la storia del punto materiale
+
+152
+00:07:24,580 --> 00:07:27,439
+potrebbe essere una storia molto utile.
+
+153
+00:07:27,440 --> 00:07:30,459
+Ancora non sappiamo quale sia la vera natura della realtà,
+
+154
+00:07:30,460 --> 00:07:33,299
+ma continueremo ad inventare storie per provare a scoprirlo
+
+155
+00:07:33,300 --> 00:07:38,519
+finché un giorno, se tutto va bene, lo sapremo.
+
+156
+00:07:38,520 --> 00:07:41,479
+Questo video è stato supportato dal Fondo nazionale svizzero per la ricerca scientifica
+
+157
+00:07:41,480 --> 00:07:46,559
+e realizzato con la consulenza scientifica di Alessandro Sfrondini
+
+158
+00:07:46,560 --> 00:07:50,979
+Ringraziamo anche Alessandra Gnecchi, Pieralberto Marchetti e David Thong per la loro consulenza e gli studenti del MNG Rämibühl di Zurigo.
+
+159
+00:07:50,980 --> 00:07:59,920
+Supportaci su Patreon
+

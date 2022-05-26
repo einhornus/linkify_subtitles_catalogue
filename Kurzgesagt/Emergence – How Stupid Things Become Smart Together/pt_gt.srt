@@ -1,0 +1,336 @@
+1
+00:00:00,160 --> 00:00:02,719
+Uma formiga é muito estúpida.
+
+2
+00:00:02,720 --> 00:00:06,519
+Não tem muito cérebro, nem vontade, nem plano
+
+3
+00:00:06,520 --> 00:00:10,679
+e, no entanto, muitas formigas juntas são espertas.
+
+4
+00:00:10,680 --> 00:00:14,319
+Uma colônia de formigas pode construir estruturas complexas.
+
+5
+00:00:14,320 --> 00:00:22,119
+Algumas colônias mantêm fazendas de fungos, outras cuidam de gado.  Eles podem fazer a guerra ou se defender.
+
+6
+00:00:22,120 --> 00:00:24,039
+Como isso é possível?
+
+7
+00:00:24,040 --> 00:00:28,179
+Como pode um monte de coisas estúpidas fazer coisas inteligentes juntas?
+
+8
+00:00:28,180 --> 00:00:30,899
+Esse fenômeno é chamado de emergência
+
+9
+00:00:30,900 --> 00:00:35,919
+e é uma das características mais fascinantes e misteriosas do nosso universo.
+
+10
+00:00:35,920 --> 00:00:43,919
+Em poucas palavras, descreve pequenas coisas formando coisas maiores que têm propriedades diferentes da soma de suas partes.
+
+11
+00:00:43,920 --> 00:00:51,479
+A emergência é a complexidade que surge da simplicidade, e a emergência está em toda parte.
+
+12
+00:00:51,480 --> 00:01:00,899
+[Intro] A
+
+13
+00:01:00,900 --> 00:01:06,859
+água tem propriedades muito diferentes das moléculas que a compõem, como o conceito de umidade.
+
+14
+00:01:06,860 --> 00:01:11,599
+Pegue o tecido molhado, se você ampliar o suficiente, não há umidade.
+
+15
+00:01:11,600 --> 00:01:16,159
+Existem apenas moléculas nos espaços entre os átomos do tecido.
+
+16
+00:01:16,160 --> 00:01:18,979
+A umidade é uma propriedade emergente da água.
+
+17
+00:01:18,980 --> 00:01:25,199
+Algo novo criado apenas por muitas interações individuais entre as moléculas de água.
+
+18
+00:01:25,200 --> 00:01:33,639
+E é meio que isso.  Muitas coisas interagem sob um certo conjunto de regras, criando algo acima e além de si mesmas.
+
+19
+00:01:33,640 --> 00:01:36,079
+Acontece que mais é diferente.
+
+20
+00:01:36,080 --> 00:01:43,679
+Essa propriedade diferente é em si uma coisa nova, e essa coisa nova pode se juntar a outras coisas novas para repetir o processo.
+
+21
+00:01:43,680 --> 00:01:50,039
+Você pode imaginar isso como camadas empilhadas umas sobre as outras, camadas feitas de partes mais complexas.
+
+22
+00:01:50,040 --> 00:01:51,739
+Os átomos formam moléculas.
+
+23
+00:01:51,740 --> 00:01:53,739
+Moléculas formam proteínas.
+
+24
+00:01:53,740 --> 00:01:55,579
+As proteínas formam as células.
+
+25
+00:01:55,580 --> 00:01:57,259
+As células formam os órgãos.
+
+26
+00:01:57,260 --> 00:01:59,219
+Órgãos formam indivíduos.
+
+27
+00:01:59,220 --> 00:02:02,179
+Os indivíduos formam sociedades.
+
+28
+00:02:02,180 --> 00:02:05,599
+Mas como algo pode ser mais do que a soma de suas partes?
+
+29
+00:02:05,600 --> 00:02:14,059
+Como as formigas formam o tipo de entidade nebulosa que é uma colônia?  Seguindo um conjunto de regras que produz ordem através do caos.
+
+30
+00:02:14,060 --> 00:02:18,259
+Por exemplo, vejamos como uma colônia de formigas distribui empregos.
+
+31
+00:02:18,260 --> 00:02:23,079
+Vamos supor que uma colônia tenha 25% de trabalhadores, 25% de zeladores,
+
+32
+00:02:23,080 --> 00:02:26,879
+25% de soldados e 25% de coletores.
+
+33
+00:02:26,880 --> 00:02:35,279
+As formigas comunicam seu trabalho atual por meio de produtos químicos.  Por exemplo, a formiga operária secreta constantemente substâncias químicas que dizem: "Eu sou um trabalhador".
+
+34
+00:02:35,280 --> 00:02:41,939
+Quando as formigas encontram outras formigas, elas cheiram umas às outras para coletar informações, contando umas às outras seu trabalho e o que estão fazendo.
+
+35
+00:02:41,940 --> 00:02:44,699
+Ambos mantêm o controle de quem eles conheceram no passado.
+
+36
+00:02:44,700 --> 00:02:52,399
+Agora, imagine que um tamanduá mate a maioria dos coletores.  Se isso não for corrigido rapidamente, a colônia morrerá de fome.
+
+37
+00:02:52,400 --> 00:02:57,859
+Muitas formigas operárias precisam mudar de emprego, mas como você conta isso para milhares delas?
+
+38
+00:02:57,860 --> 00:03:00,319
+Simples.  Você não.
+
+39
+00:03:00,320 --> 00:03:06,479
+Nossa formiga operária ainda encontrará e cheirará outras formigas, mas quase não encontrará coletoras.
+
+40
+00:03:06,480 --> 00:03:13,439
+Conta poucos coletores, até chegar a um ponto crítico, e então muda de função.
+
+41
+00:03:13,440 --> 00:03:20,639
+O trabalhador torna-se um coletor.  Outras formigas farão o mesmo, até que depois de um tempo haja coletores suficientes novamente.
+
+42
+00:03:20,640 --> 00:03:23,579
+O equilíbrio é restaurado por si só.
+
+43
+00:03:23,580 --> 00:03:30,439
+As ações e interações de um indivíduo são aleatórias.  Você não pode planejar qual formiga encontrará qual outra formiga.
+
+44
+00:03:30,440 --> 00:03:37,419
+Mas o conjunto simples de regras é tão elegante que as muitas operações de uma colônia surgem como consequência.
+
+45
+00:03:37,420 --> 00:03:45,719
+Em um nível ainda mais fundamental, centenas de milhões de moléculas complicadas interagem para manter uma estrutura robusta e surpreendente.
+
+46
+00:03:45,720 --> 00:03:50,339
+Surge um ser com propriedades muito diferentes da soma de suas partes mortas.
+
+47
+00:03:50,340 --> 00:03:53,819
+A menor unidade de vida: uma célula.
+
+48
+00:03:53,820 --> 00:04:00,919
+Ainda não temos uma definição clara do que são os seres vivos, apenas sabemos que eles emergem de coisas que não estão vivas.
+
+49
+00:04:00,920 --> 00:04:05,859
+As células combinam e cooperam.  Eles se especializam e respondem uns aos outros
+
+50
+00:04:05,860 --> 00:04:11,179
+e, com o tempo, nos desenvolvemos em organismos complexos com capacidades notáveis.
+
+51
+00:04:11,180 --> 00:04:20,039
+Seus braços, pernas e coração são um sistema incrivelmente complexo e complicado feito de trilhões de coisas estúpidas individuais...
+
+52
+00:04:20,040 --> 00:04:25,239
+...e ainda assim respiramos, digerimos e assistimos a vídeos do YouTube.
+
+53
+00:04:25,240 --> 00:04:28,019
+Como suas células sabem o que fazer?
+
+54
+00:04:28,020 --> 00:04:31,019
+Pense nas células marca-passo em seu coração.
+
+55
+00:04:31,020 --> 00:04:37,319
+Bilhões deles precisam enviar um impulso no momento certo para criar coletivamente um batimento cardíaco.
+
+56
+00:04:37,320 --> 00:04:44,119
+Nossas células trocam informações químicas com as células vizinhas para ver o que estão fazendo e então decidir o que fazer.
+
+57
+00:04:44,120 --> 00:04:51,719
+Se estiver entre muitas células que estão trabalhando na mesma tarefa, ele também começará a trabalhar nessa tarefa e será sincronizado com elas.
+
+58
+00:04:51,720 --> 00:05:00,479
+Não existe uma mente mestra dando comandos.  Apenas unidades individuais se comunicando com seus vizinhos e agindo de acordo com o feedback que recebem.
+
+59
+00:05:00,480 --> 00:05:07,079
+E a nossa parte mais importante?  Qual é a coisa que faz esse tipo de pergunta?
+
+60
+00:05:07,080 --> 00:05:12,479
+A nossa consciência é então uma propriedade emergente das células do nosso cérebro?
+
+61
+00:05:12,480 --> 00:05:18,139
+Essa pergunta é muito grande e importante, merece um vídeo próprio.
+
+62
+00:05:18,140 --> 00:05:24,859
+Algumas coisas que surgem são difíceis de definir.  Você não pode tocar uma colônia de formigas, apenas suas partes.
+
+63
+00:05:24,860 --> 00:05:28,099
+Não tem cérebro, nem rosto, nem corpo.
+
+64
+00:05:28,100 --> 00:05:31,619
+E ainda assim a colônia interage com o mundo.
+
+65
+00:05:31,620 --> 00:05:38,299
+Assim como as colônias emergem das formigas, as coisas emergem dos humanos, como as Nações.
+
+66
+00:05:38,300 --> 00:05:42,019
+O que realmente é uma nação, é sua população?
+
+67
+00:05:42,020 --> 00:05:47,719
+São suas instituições, seus símbolos como sua bandeira, cores ou hinos?
+
+68
+00:05:47,720 --> 00:05:52,579
+As coisas físicas que faz como cidades, o território que ocupa?
+
+69
+00:05:52,580 --> 00:05:55,719
+Todas essas coisas são fluidas.
+
+70
+00:05:55,720 --> 00:05:58,299
+As populações mudam e são substituídas.
+
+71
+00:05:58,300 --> 00:06:02,739
+Instituições vêm e vão, cidades podem ser construídas e abandonadas.
+
+72
+00:06:02,740 --> 00:06:10,059
+As bordas mudaram o tempo todo na maior parte da história, e os símbolos são substituídos por novos símbolos.
+
+73
+00:06:10,060 --> 00:06:14,559
+Uma nação não tem rosto, nem cérebro, nem corpo.
+
+74
+00:06:14,560 --> 00:06:22,159
+As nações não são reais, então?  Claro que são, assim como as colônias de formigas, as nações interagem com o mundo.
+
+75
+00:06:22,160 --> 00:06:28,099
+Eles podem mudar paisagens, travar guerras, crescer ou declinar, e podem deixar de existir.
+
+76
+00:06:28,100 --> 00:06:33,039
+Mas eles só existem por causa de muitos humanos interagindo uns com os outros.
+
+77
+00:06:33,040 --> 00:06:38,839
+Mas não apenas nações.  Todas as estruturas complexas que nos cercam emergem de nós.
+
+78
+00:06:38,840 --> 00:06:42,679
+Mesmo que não pretendamos, estamos constantemente criando.
+
+79
+00:06:42,680 --> 00:06:47,839
+Comunidades, empresas, cidades, sociedades.
+
+80
+00:06:47,840 --> 00:06:55,959
+Todas essas coisas são entidades que têm propriedades e habilidades fundamentalmente diferentes dos macacos estúpidos dos quais eles surgiram.
+
+81
+00:06:55,960 --> 00:06:58,419
+Não sabemos por que isso acontece.
+
+82
+00:06:58,420 --> 00:07:03,379
+Nós apenas observamos, e parece ser uma propriedade fundamental do nosso universo.
+
+83
+00:07:03,380 --> 00:07:08,979
+Pode ser a propriedade mais bela e maravilhosa do nosso universo.
+
+84
+00:07:08,980 --> 00:07:18,580
+[Outro]
+

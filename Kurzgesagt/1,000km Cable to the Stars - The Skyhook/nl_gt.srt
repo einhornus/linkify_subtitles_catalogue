@@ -1,0 +1,672 @@
+1
+00:00:01,100 --> 00:00:03,139
+In de ruimte komen is moeilijk.
+
+2
+00:00:03,140 --> 00:00:05,619
+Op dit moment is het alsof je op een eenwieler een berg
+
+3
+00:00:05,620 --> 00:00:09,019
+op gaat, met een rugzak vol explosieven:
+
+4
+00:00:09,020 --> 00:00:11,899
+ongelooflijk langzaam, je kunt niet veel spullen vervoeren
+
+5
+00:00:11,900 --> 00:00:13,679
+en je zou kunnen sterven.
+
+6
+00:00:13,680 --> 00:00:18,099
+Een raket moet een snelheid van ongeveer 40.000 km/u halen
+
+7
+00:00:18,100 --> 00:00:19,699
+om van de aarde te ontsnappen.
+
+8
+00:00:19,700 --> 00:00:22,979
+Om die snelheid te bereiken, zijn raketten meestal containers
+
+9
+00:00:22,980 --> 00:00:25,979
+voor brandstof met een klein topje van de nuttige lading.
+
+10
+00:00:25,980 --> 00:00:28,379
+Dit is slecht als je naar andere planeten wilt
+
+11
+00:00:28,380 --> 00:00:32,019
+omdat je veel zware spullen nodig hebt als je wilt overleven
+
+12
+00:00:32,020 --> 00:00:34,139
+en misschien zelfs terug wilt komen.
+
+13
+00:00:34,140 --> 00:00:37,239
+Dus is er een manier om met minder brandstof en meer laadvermogen in de ruimte te komen
+
+14
+00:00:37,240 --> 00:00:39,999
+?
+
+15
+00:00:40,000 --> 00:00:48,739
+[Intromuziek]
+
+16
+00:00:48,740 --> 00:00:52,319
+Een aardig ding dat de meeste van onze transportproblemen op aarde heeft opgelost,
+
+17
+00:00:52,320 --> 00:00:54,459
+is wat je infrastructuur noemt.
+
+18
+00:00:54,460 --> 00:00:58,459
+Of het nu gaat om wegen voor auto's, havens voor schepen of rails voor treinen,
+
+19
+00:00:58,460 --> 00:01:01,499
+we hebben het gemakkelijker gemaakt om plaatsen te bereiken.
+
+20
+00:01:01,500 --> 00:01:04,579
+We kunnen dezelfde oplossing toepassen op ruimtevaart.
+
+21
+00:01:04,580 --> 00:01:07,379
+Ruimte-infrastructuur zal het gemakkelijker en goedkoper maken om in een
+
+22
+00:01:07,380 --> 00:01:12,299
+baan om de maan, Mars en verder te komen.
+
+23
+00:01:12,300 --> 00:01:15,999
+Mooi, maar wat is ruimte-infrastructuur precies?
+
+24
+00:01:16,000 --> 00:01:17,759
+In tegenstelling tot een aardse ruimtelift,
+
+25
+00:01:17,760 --> 00:01:19,679
+die momenteel sciencefiction is, is
+
+26
+00:01:19,680 --> 00:01:22,699
+er een eenvoudige maar veelbelovende technologie
+
+27
+00:01:22,700 --> 00:01:25,999
+die geen nieuwe wetenschap, magische materialen
+
+28
+00:01:26,000 --> 00:01:27,559
+of enorme investeringen vereist,
+
+29
+00:01:27,560 --> 00:01:31,059
+en die al met succes in een baan om de aarde is getest:
+
+30
+00:01:31,060 --> 00:01:32,919
+een kabel en een gewicht,
+
+31
+00:01:32,920 --> 00:01:34,639
+kennen als een ketting.
+
+32
+00:01:34,640 --> 00:01:38,039
+Het concept is zo eenvoudig, het is verrassend.
+
+33
+00:01:38,040 --> 00:01:39,559
+Wat als we kettingen van
+
+34
+00:01:39,560 --> 00:01:42,679
+honderden of duizenden kilometers lang in de ruimte zouden plaatsen
+
+35
+00:01:42,680 --> 00:01:44,799
+en ruimtevaartuigen ze als ladders
+
+36
+00:01:44,800 --> 00:01:48,779
+zouden laten gebruiken om naar grotere hoogten te klimmen en snelheid te winnen?
+
+37
+00:01:48,780 --> 00:01:51,619
+Dit concept staat bekend als de Skyhook.
+
+38
+00:01:51,620 --> 00:01:54,179
+Het werkt nog beter als we het laten draaien.
+
+39
+00:01:54,180 --> 00:01:56,419
+Een contragewicht houdt een lange kabel op zijn plaats
+
+40
+00:01:56,420 --> 00:01:58,299
+terwijl deze rond een cirkel draait.
+
+41
+00:01:58,300 --> 00:02:02,399
+Een roterende ketting vertraagt zijn punt ten opzichte van de grond onderaan en ve
+
+42
+00:02:02,400 --> 00:02:05,419
+snelt hem bovenaan als een katapult.  Dit 
+
+43
+00:02:05,420 --> 00:02:08,059
+betekent dat je energie van de ketting kunt overbrengen
+
+44
+00:02:08,060 --> 00:02:11,639
+en een enorme boost kunt krijgen als je hem loslaat, min of meer gratis,
+
+45
+00:02:11,640 --> 00:02:14,419
+gelijk aan tweemaal de rotatiesnelheid van de ketting.
+
+46
+00:02:14,420 --> 00:02:17,659
+Er bestaan al gespecialiseerde vezels die bestand zijn tegen de bu
+
+47
+00:02:17,660 --> 00:02:21,099
+tengewone spanningen waarmee een Skyhook te maken zou krijg
+
+48
+00:02:21,100 --> 00:02:24,739
+n.  Om te beschermen tegen snijwonden en botsingen door puin en meteorieten,
+
+49
+00:02:24,740 --> 00:02:28,399
+kunnen we onze ketting in een web van overtollige vezels rijgen.
+
+50
+00:02:28,400 --> 00:02:32,099
+Omdat onze Skyhook vele malen per dag over dezelfde plek zou gaan
+
+51
+00:02:32,100 --> 00:02:35,639
+, zouden kleine, herbruikbare shuttles hem kunnen inhalen.
+
+52
+00:02:35,640 --> 00:02:38,139
+Zo gemakkelijk is het natuurlijk niet.
+
+53
+00:02:38,140 --> 00:02:39,219
+Op het laagste punt
+
+54
+00:02:39,220 --> 00:02:41,479
+schiet de punt van de ketting met een snelheid
+
+55
+00:02:41,480 --> 00:02:43,779
+van ongeveer 12.000 kilometer per uur door de atmosfeer.
+
+56
+00:02:43,780 --> 00:02:47,179
+Vanwege de atmosfeer van de aarde kunnen we de Skyhook niet te veel laten zakken,
+
+57
+00:02:47,180 --> 00:02:49,719
+anders wordt hij te heet door luchtwrijving.
+
+58
+00:02:49,720 --> 00:02:53,179
+Dus hij zakt naar een hoogte van 80 tot 150 km
+
+59
+00:02:53,180 --> 00:02:54,459
+en niet lager.
+
+60
+00:02:54,460 --> 00:02:58,919
+Om dit te evenaren hebben we gespecialiseerde ruimtevaartuigen nodig die bij de ketting kunnen komen.
+
+61
+00:02:58,920 --> 00:03:00,979
+Hoewel dit niet bepaald eenvoudig is,
+
+62
+00:03:00,980 --> 00:03:03,664
+is het nog steeds veel goedkoper dan een groot blik
+
+63
+00:03:03,665 --> 00:03:07,504
+gevuld met raketbrandstof om 40.000 km/u te halen.
+
+64
+00:03:07,505 --> 00:03:09,999
+Het vangen van de tip zal ook een uitdaging zijn.
+
+65
+00:03:10,000 --> 00:03:13,299
+Er is slechts een korte tijdspanne van 60 tot 90 seconden
+
+66
+00:03:13,300 --> 00:03:15,179
+om een klein ding in de lucht te vinden dat met een snelh
+
+67
+00:03:15,180 --> 00:03:17,159
+id van 12 uur beweegt. Om di
+
+68
+00:03:17,160 --> 00:03:20,559
+ gemakkelijker te maken, zou de punt een soort vislijn kunnen hebben van een k
+
+69
+00:03:20,560 --> 00:03:25,599
+lometer lang met een navigatiedrone die het ruimtevaartuig helpt om  aansluiten.
+
+70
+00:03:25,600 --> 00:03:28,499
+Een andere uitdaging is om onze Skyhook in een baan om de aarde te houden.
+
+71
+00:03:28,500 --> 00:03:31,414
+Naarmate meer en meer schepen eraan vastklikken en zichzelf optrekken,
+
+72
+00:03:31,415 --> 00:03:34,359
+gebruiken ze het momentum dat het op zijn plaats houdt.
+
+73
+00:03:34,360 --> 00:03:35,939
+Als we niets
+
+74
+00:03:35,940 --> 00:03:39,619
+doen, zal het vertragen en in de atmosfeer neerstorten.
+
+75
+00:03:39,620 --> 00:03:42,819
+En hier kunnen we het universum een beetje bedri
+
+76
+00:03:42,820 --> 00:03:45,879
+gen.  De Skyhook is een batterij van orbitale energie.
+
+77
+00:03:45,880 --> 00:03:50,239
+Het is mogelijk om de ladingen die binnenkomen en worden verzonden te balanceren.
+
+78
+00:03:50,240 --> 00:03:53,799
+Aankomende schepen die mensen en materialen naar de aarde brengen,
+
+79
+00:03:53,800 --> 00:03:55,219
+voegen energie toe aan de ketting
+
+80
+00:03:55,220 --> 00:03:58,359
+die het kan geven aan andere schepen die de ruimte in vertrekken.
+
+81
+00:03:58,360 --> 00:04:00,979
+Zo verliest de ketting geen energie.
+
+82
+00:04:00,980 --> 00:04:04,179
+Hoe meer we het gebruiken, hoe goedkoper het wordt.
+
+83
+00:04:04,180 --> 00:04:06,579
+Als we bij elke boost nog steeds energie verliezen,
+
+84
+00:04:06,580 --> 00:04:09,419
+kunnen we die terugwinnen met kleine elektrische of chemische motoren
+
+85
+00:04:09,420 --> 00:04:11,919
+die regelmatig de positie van de ketting corrigeren.
+
+86
+00:04:11,920 --> 00:04:14,999
+Een set kettingen, één rond de aarde en één rond Mars,
+
+87
+00:04:15,000 --> 00:04:17,759
+zou reizen tussen de planeten snel, eenvoudig
+
+88
+00:04:17,760 --> 00:04:20,639
+en goedkoop kunnen maken in vergelijking met raketten.
+
+89
+00:04:20,640 --> 00:04:24,219
+De aardkabel zou in een lage baan om de aarde zitten om mensen en ladingen te grijpen en
+
+90
+00:04:24,220 --> 00:04:25,859
+naar Mars te slingeren.
+
+91
+00:04:25,860 --> 00:04:27,599
+De Mars-ketting vangt ze
+
+92
+00:04:27,600 --> 00:04:30,679
+en vertraagt ze voor een landing op het oppervlak. 
+
+93
+00:04:30,680 --> 00:04:32,079
+In de tegenovergestelde richting zou
+
+94
+00:04:32,080 --> 00:04:35,379
+de ketting een voertuig kunnen oppikken dat met slechts ongeveer 1.000 km/u door de dunne atmosfeer van Mars reist
+
+95
+00:04:35,380 --> 00:04:37,959
+,
+
+96
+00:04:37,960 --> 00:04:40,319
+niet veel sneller dan onze vliegtuigen op aarde,
+
+97
+00:04:40,320 --> 00:04:44,179
+en het terug naar de aarde slingeren om te worden opgevangen en neergelaten.
+
+98
+00:04:44,180 --> 00:04:47,679
+De kettingen zouden reizen tussen beide planeten kunnen verkorten van 9
+
+99
+00:04:47,680 --> 00:04:49,539
+maanden tot 5 of zelfs 3,
+
+100
+00:04:49,540 --> 00:04:51,639
+en de omvang van de benodigde raketten
+
+101
+00:04:51,640 --> 00:04:55,279
+met tussen 84 en 96 procent verminderen.
+
+102
+00:04:55,280 --> 00:04:58,939
+Sterker nog, mensen kunnen relatief luxe reizen,
+
+103
+00:04:58,940 --> 00:05:01,979
+omdat we het ons kunnen veroorloven om te investeren in passagierscomfort.
+
+104
+00:05:01,980 --> 00:05:05,559
+Tetherreizen zouden eersteklas stoelen naar Mars zijn.
+
+105
+00:05:05,560 --> 00:05:07,699
+Tethers rond de aarde en Mars
+
+106
+00:05:07,700 --> 00:05:10,899
+zouden samen de snelle en kostenefficiënte transportruggengraat kunnen vormen
+
+107
+00:05:10,900 --> 00:05:13,679
+die ruimtereizen betaalbaar zou maken.
+
+108
+00:05:13,680 --> 00:05:15,239
+Maar laten we verder gaan.
+
+109
+00:05:15,240 --> 00:05:17,159
+Beginnend vanuit een lage baan om Mars,
+
+110
+00:05:17,160 --> 00:05:19,999
+zou een ketting schepen naar de asteroïdengordel kunnen stuwen.
+
+111
+00:05:20,000 --> 00:05:23,359
+Het eerste vaartuig dat naar een nieuwe asteroïde wordt gestuurd, heeft raketten nodig om
+
+112
+00:05:23,360 --> 00:05:24,919
+op zijn bestemming te vertragen.
+
+113
+00:05:24,920 --> 00:05:27,859
+Latere aankomsten kunnen een ketting vinden die wacht om ze te vangen
+
+114
+00:05:27,860 --> 00:05:29,939
+en ze gratis terug te sturen.
+
+115
+00:05:29,940 --> 00:05:31,859
+Goedkoop naar asteroïden gaan
+
+116
+00:05:31,860 --> 00:05:35,779
+is een belangrijke factor bij het ontsluiten van de bronnen van het zonnestelsel.
+
+117
+00:05:35,780 --> 00:05:37,859
+Edelmetalen en waardevolle mineralen
+
+118
+00:05:37,860 --> 00:05:42,099
+zouden slechts enkele weken nadat ze uit hun asteroïde waren gesneden, aan Mars kunnen worden geleverd.
+
+119
+00:05:42,100 --> 00:05:43,939
+Ze zouden de perfecte bouwstenen zijn
+
+120
+00:05:43,940 --> 00:05:46,819
+voor onze interplanetaire beschaving.
+
+121
+00:05:46,820 --> 00:05:48,379
+Maar waarom hier stoppen?
+
+122
+00:05:48,380 --> 00:05:50,779
+Mars-manen zijn erg handig.
+
+123
+00:05:50,780 --> 00:05:54,839
+Geen andere manen in het zonnestelsel draaien zo dicht bij hun planeet.
+
+124
+00:05:54,840 --> 00:05:58,699
+Phobos is zo zwaar dat we ons geen zorgen hoeven te maken over het vertragen,
+
+125
+00:05:58,700 --> 00:06:00,759
+waardoor het het perfecte bevestigingspunt is
+
+126
+00:06:00,760 --> 00:06:04,499
+voor supertethers van iets minder dan 6.000 km lang.
+
+127
+00:06:04,500 --> 00:06:07,359
+De onderste punt zou net over het oppervlak van Mars vliegen
+
+128
+00:06:07,360 --> 00:06:09,219
+en heel gemakkelijk te vangen zijn.
+
+129
+00:06:09,220 --> 00:06:13,379
+De bovenste punt kan schepen helemaal naar Jupiter en Saturnus slingeren.
+
+130
+00:06:13,380 --> 00:06:14,799
+Dezelfde super-tether
+
+131
+00:06:14,800 --> 00:06:18,099
+kan ook het binnenste zonnestelsel dichterbij brengen.
+
+132
+00:06:18,100 --> 00:06:21,219
+Venus en Mercurius zijn een enkele zwaai verwijderd.
+
+133
+00:06:21,220 --> 00:06:24,339
+In tegenstelling tot Mars barsten ze van de zonne-energie
+
+134
+00:06:24,340 --> 00:06:26,699
+en zijn ze rijk aan mineralen.
+
+135
+00:06:26,700 --> 00:06:29,519
+Op de lange termijn houdt niets de mensheid tegen
+
+136
+00:06:29,520 --> 00:06:32,479
+om een transportnetwerk op nul te bouwen voor 
+
+137
+00:06:32,480 --> 00:06:35,879
+e terrestrische planeten die gecentreerd zijn op de Marsm
+
+138
+00:06:35,880 --> 00:06:37,859
+nen.  Tethers zijn een vergelijkbaar goedkope
+
+139
+00:06:37,860 --> 00:06:41,699
+en duurzame oplossing om ruimtereizen betaalbaar te maken
+
+140
+00:06:41,700 --> 00:06:44,119
+en de rest van het zonnestelsel toegankelijk te maken
+
+141
+00:06:44,120 --> 00:06:46,839
+voor exploitatie en verkenning.
+
+142
+00:06:46,840 --> 00:06:49,979
+Gezien het feit dat we vandaag de technologie hebben om ze te bouwen, is
+
+143
+00:06:49,980 --> 00:06:53,539
+er echt geen goed excuus om nog langer te wachten.
+
+144
+00:06:53,540 --> 00:06:56,279
+Delen van het zonnestelsel zijn ver weg,
+
+145
+00:06:56,280 --> 00:07:00,059
+maar ze kunnen heel dichtbij zijn.
+
+146
+00:07:00,060 --> 00:07:02,559
+Over dingen gesproken die moeilijk te bereiken zijn,
+
+147
+00:07:02,560 --> 00:07:04,279
+maar dat niet hoeven te zijn:
+
+148
+00:07:04,280 --> 00:07:05,659
+kennis.
+
+149
+00:07:05,660 --> 00:07:12,639
+Onze vrienden van Brilliant kunnen je aansluiten op een universum vol explosieve ideeën en leuke cursussen.
+
+150
+00:07:12,640 --> 00:07:16,119
+Brilliant is een website die je helpt wetenschap op een praktische manier
+
+151
+00:07:16,120 --> 00:07:18,219
+aan te pakken met interactieve probleemoplossende cursussen
+
+152
+00:07:18,220 --> 00:07:21,859
+en dagelijkse problemen in wiskunde, logica en techniek.
+
+153
+00:07:21,860 --> 00:07:26,159
+Elk probleem geeft je alle tools die je nodig hebt om zelf complexe onderwerpen te kraken.
+
+154
+00:07:26,160 --> 00:07:29,679
+Het is leren door te doen, maar met je hersenen in plaats van met je handen.
+
+155
+00:07:29,680 --> 00:07:33,119
+Gebruik je nieuwsgierigheid om puzzels en cursussen te doorgronden
+
+156
+00:07:33,120 --> 00:07:35,104
+over zaken als klassieke mechanica,
+
+157
+00:07:35,105 --> 00:07:38,739
+astronomie, zwaartekrachtfysica en nog veel meer.
+
+158
+00:07:38,740 --> 00:07:42,679
+Als je op de link in de beschrijving klikt of naar brilliant.org/nutshell gaat,
+
+159
+00:07:42,680 --> 00:07:46,379
+kun je je gratis aanmelden en meer leren dan je je kunt voorstellen.
+
+160
+00:07:46,380 --> 00:07:49,139
+En er is een extra deel voor Kurzgesagt-kijkers:
+
+161
+00:07:49,140 --> 00:07:51,799
+de eerste 688 mensen die de link gebruiken,
+
+162
+00:07:51,800 --> 00:07:54,439
+krijgen 20% korting op hun jaarlidmaatschap
+
+163
+00:07:54,440 --> 00:07:57,079
+waarmee je alle dagelijkse problemen in de archieven kunt bekijken
+
+164
+00:07:57,080 --> 00:07:58,999
+en elke cursus kunt ontgrendelen.
+
+165
+00:07:59,000 --> 00:08:02,499
+Brilliant helpt je om je dag een beetje slimmer af te sluiten.
+
+166
+00:08:02,500 --> 00:08:05,899
+Je zou "verslaafd" kunnen raken aan de ervaring.
+
+167
+00:08:05,900 --> 00:08:12,659
+[Outro-muziek]
+
+168
+00:08:12,660 --> 00:08:14,000
+[Hond huilt]
+

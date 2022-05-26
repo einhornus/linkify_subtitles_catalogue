@@ -1,0 +1,584 @@
+1
+00:00:01,920 --> 00:00:04,259
+Encojamos un elefante al tamaño de un ratón
+
+2
+00:00:04,260 --> 00:00:06,899
+y agrandemos un ratón, al tamaño de un elefante
+
+3
+00:00:06,900 --> 00:00:09,399
+porque este es nuestro video y queremos ver que sucede
+
+4
+00:00:09,400 --> 00:00:14,199
+Primero: nuestro -ahora pequeño- elefante tropieza y luego cae muerto.
+
+5
+00:00:14,200 --> 00:00:17,899
+Nuestro pequeño compañero elefante está muy frío; y se congela a muerte en cuestión de minutos.
+
+6
+00:00:17,900 --> 00:00:22,219
+Nuestro ratón gigante se ve muy incómodo por un momento y después, explota.
+
+7
+00:00:22,220 --> 00:00:24,899
+Dejando las vísceras del raton por todas partes.
+
+8
+00:00:24,900 --> 00:00:26,379
+¿Por qué?
+
+9
+00:00:26,380 --> 00:00:27,799
+Debido al tamaño.
+
+10
+00:00:27,800 --> 00:00:30,879
+Estamos optimizados para funcionar con precisión depende del tamaño que somos,
+
+11
+00:00:30,880 --> 00:00:33,599
+y moririamos terriblemente
+en cualquier otro entorno.
+
+12
+00:00:33,600 --> 00:00:35,379
+Pero, ¿por qué exactamente?
+
+13
+00:00:35,380 --> 00:00:37,119
+¿Por qué explotó nuestro ratón,
+
+14
+00:00:37,120 --> 00:00:42,779
+y ¿podemos hacer esto en nuestro
+elefante también, si nos esforzamos?
+
+15
+00:00:42,780 --> 00:00:50,839
+-Tema de entrada-
+
+16
+00:00:50,840 --> 00:00:53,179
+La vida en este planeta se basa en las células.
+
+17
+00:00:53,180 --> 00:00:54,979
+Las células varían en tamaño.
+
+18
+00:00:54,980 --> 00:00:58,279
+Pero son bastante similares en cuanto a dimensiones
+en todas las especies.
+
+19
+00:00:58,280 --> 00:01:01,139
+Una ballena azul no tiene células más grandes que un colibrí,
+
+20
+00:01:01,140 --> 00:01:03,159
+sólo un montón más de ellas.
+
+21
+00:01:03,160 --> 00:01:05,659
+Las células tienen que hacer un montón de cosas para mantenerse con vida.
+
+22
+00:01:05,660 --> 00:01:07,919
+Y necesitan energía para poder hacerlo.
+
+23
+00:01:07,920 --> 00:01:09,379
+Para obtener esta energía,
+
+24
+00:01:09,380 --> 00:01:14,159
+células animales convierten los alimentos y el oxígeno en energía química utilizable.
+
+25
+00:01:14,160 --> 00:01:16,379
+Esto sucede en nuestras mitocondrias,
+
+26
+00:01:16,380 --> 00:01:18,399
+el motor de la célula.
+
+27
+00:01:18,400 --> 00:01:22,139
+Son como pequeños motores de carbón que escupen diminutas baterías de ATP ,
+
+28
+00:01:22,140 --> 00:01:25,559
+que la célula puede utilizar para casi
+todo lo que tiene que hacer.
+
+29
+00:01:25,560 --> 00:01:29,299
+Al igual que un motor, las mitocondrias se calientan mucho durante el trabajo.
+
+30
+00:01:29,300 --> 00:01:30,879
+En las células de la piel humana,
+
+31
+00:01:30,880 --> 00:01:33,699
+alcanzan unos abrasadores 50 grados centígrados.
+
+32
+00:01:33,700 --> 00:01:36,719
+Y algunas de nuestras células
+tienen hasta 2.000 mitocondrias
+
+33
+00:01:36,720 --> 00:01:39,399
+que están irradiando su calor en la célula.
+
+34
+00:01:39,400 --> 00:01:42,539
+Por lo tanto, estar vivo genera una gran cantidad de calor.
+
+35
+00:01:42,540 --> 00:01:46,239
+Cuantas más células se tienen, más calor genera el cuerpo en total.
+
+36
+00:01:46,240 --> 00:01:49,479
+Si nuestros cuerpos no encontraran maneras de perder este calor,
+
+37
+00:01:49,480 --> 00:01:52,559
+seríamos cocinados desde el interior y moririamos.
+
+38
+00:01:52,560 --> 00:01:54,719
+Pero esto es un problema para los animales más grandes
+
+39
+00:01:54,720 --> 00:01:58,539
+debido a la manera como los cuerpos cambian cuando aumentan su tamaño.
+
+40
+00:01:58,540 --> 00:02:01,419
+Los animales tienen 3 propiedades
+aquí que son importantes.
+
+41
+00:02:01,420 --> 00:02:03,839
+Su longitud, su exterior o la piel,
+
+42
+00:02:03,840 --> 00:02:06,019
+y sus entrañas, como órganos,
+
+43
+00:02:06,020 --> 00:02:08,138
+los huesos, los sueños y esperanzas.
+
+44
+00:02:08,139 --> 00:02:11,519
+Lo que es difícil de entender es que cuando las cosas crecen,
+
+45
+00:02:11,520 --> 00:02:15,179
+el interior crece más rápido que su exterior.
+
+46
+00:02:15,180 --> 00:02:16,739
+Imaginemos un cubo carnoso.
+
+47
+00:02:16,740 --> 00:02:18,879
+Si se duplica la longitud de sus lados,
+
+48
+00:02:18,880 --> 00:02:21,399
+su superficie y su volumen NO se duplica.
+
+49
+00:02:21,400 --> 00:02:24,619
+De hecho, la superficie es ahora 4 veces
+el tamaño original,
+
+50
+00:02:24,620 --> 00:02:28,259
+y el volumen del cubo
+8 veces el tamaño original.
+
+51
+00:02:28,260 --> 00:02:30,319
+A esto se llama la "Ley cuadrático-cúbica",
+
+52
+00:02:30,320 --> 00:02:33,659
+y ha molestado a la naturaleza por millones de años.
+
+53
+00:02:33,660 --> 00:02:36,659
+Asi que, ¿por qué es esto un problema para los animales grandes?
+
+54
+00:02:36,660 --> 00:02:40,139
+Debido a que el calor sólo puede salir
+un objeto a través de su superficie.
+
+55
+00:02:40,140 --> 00:02:42,679
+Así que si hacemos nuestro ratón
+del tamaño de un elefante,
+
+56
+00:02:42,680 --> 00:02:44,359
+o 60 veces más largo,
+
+57
+00:02:44,360 --> 00:02:48,419
+tiene 3.600 veces más superficie
+por donde perder calor.
+
+58
+00:02:48,420 --> 00:02:52,099
+Pero tiene 216.000 veces más volumen
+
+59
+00:02:52,100 --> 00:02:55,539
+lleno de billones y billones de nuevas mitocondrias calientes
+
+60
+00:02:55,540 --> 00:02:57,539
+que producen más calor.
+
+61
+00:02:57,540 --> 00:03:00,679
+Muchas más entrañas; no mucha más piel.
+
+62
+00:03:00,680 --> 00:03:04,639
+Nuestro ratón está muy muerto, muy rápido.
+
+63
+00:03:04,640 --> 00:03:07,559
+Pero existen cosas grandes como elefantes.
+
+64
+00:03:07,560 --> 00:03:10,019
+Entonces, ¿cómo lidian con el calor?
+
+65
+00:03:10,020 --> 00:03:13,259
+Por un lado, desarrollaron formas de deshacerse de la energía con mayor facilidad
+
+66
+00:03:13,260 --> 00:03:17,659
+como enormes orejas planas, que tienen mucha superficie por donde el calor puede escapar.
+
+67
+00:03:17,660 --> 00:03:18,979
+Pero eso no es suficiente.
+
+68
+00:03:18,980 --> 00:03:22,359
+La solución de la naturaleza es, en realidad, muy elegante.
+
+69
+00:03:22,360 --> 00:03:26,219
+Las células de los elefantes son mucho, mucho más lentas que las células de los ratones.
+
+70
+00:03:26,220 --> 00:03:30,139
+Cuanto más grande es un animal, menos activas son sus células.
+
+71
+00:03:30,140 --> 00:03:33,119
+Si clasificamos a los animales, por su
+las tasas metabólicas, y comparamos
+
+72
+00:03:33,120 --> 00:03:36,299
+sus masas totales, es claramente visible.
+
+73
+00:03:36,300 --> 00:03:38,499
+No es fiable al 100%,
+
+74
+00:03:38,500 --> 00:03:40,799
+pero es una buena regla general.
+
+75
+00:03:40,800 --> 00:03:42,959
+Los elefantes son enormes sacos de carne llenos de
+
+76
+00:03:42,960 --> 00:03:45,479
+billones y billones de pequeños hornos de carbón.
+
+77
+00:03:45,480 --> 00:03:48,599
+Por lo tanto, se mantienen los hornos lo suficientemente activos para mantenerlos en funcionamiento
+
+78
+00:03:48,600 --> 00:03:50,779
+y nunca a plena potencia.
+
+79
+00:03:50,780 --> 00:03:52,999
+Todo su metabolismo es lento.
+
+80
+00:03:53,000 --> 00:03:55,999
+Las cosas se mueven a un ritmo tranquilo.
+
+81
+00:03:56,000 --> 00:03:58,919
+Los animales pequeños necesitan ir
+en sentido contrario.
+
+82
+00:03:58,920 --> 00:04:01,039
+Si usted es pequeño, tiene una gran cantidad de área de superficie
+
+83
+00:04:01,040 --> 00:04:03,359
+en comparación con no mucho volumen.
+
+84
+00:04:03,360 --> 00:04:05,219
+Usted no tiene una gran cantidad de hornos celulares
+
+85
+00:04:05,220 --> 00:04:08,419
+y pierde el calor que produce muy rápido.
+
+86
+00:04:08,420 --> 00:04:12,559
+Así que a los mamíferos diminutos se le ocurrió una solución muy extrema.
+
+87
+00:04:12,560 --> 00:04:15,839
+Conozcan a la musaraña etrusca,
+el mamífero más pequeño en la Tierra.
+
+88
+00:04:15,840 --> 00:04:20,259
+Una cosa similar al topo que está más estrechamente relacionada con erizos que con los ratones.
+
+89
+00:04:20,260 --> 00:04:22,479
+Con una longitud de cuerpo de 4 centímetros,
+
+90
+00:04:22,480 --> 00:04:26,139
+sólo pesa aproximadamente 1,8 gramos - tanto como un clip.
+
+91
+00:04:26,140 --> 00:04:28,539
+Es un pequeño y ridiculo ser.
+
+92
+00:04:28,540 --> 00:04:30,819
+Básicamente se congelaria de inmediato,
+
+93
+00:04:30,820 --> 00:04:33,539
+por lo que sus células trabajan a toda marcha para mantenerse caliente.
+
+94
+00:04:33,540 --> 00:04:36,879
+Sus diminutos hornos están llenos a su máxima capacidad.
+
+95
+00:04:36,880 --> 00:04:39,779
+Su corazón late hasta 1.200 veces por minuto,
+
+96
+00:04:39,780 --> 00:04:42,419
+y respira hasta 800 veces por minuto.
+
+97
+00:04:42,420 --> 00:04:44,999
+Esto crea una necesidad extrema de energía.
+
+98
+00:04:45,000 --> 00:04:47,039
+Así que la musaraña tiene que comer constantemente.
+
+99
+00:04:47,040 --> 00:04:51,339
+Después de sólo 4 horas sin comida, se muere de hambre.
+
+100
+00:04:51,340 --> 00:04:52,499
+Y mientras que un elefante africano
+
+101
+00:04:52,500 --> 00:04:55,719
+consume alrededor de 4% de su peso corporal en alimentos cada día.
+
+102
+00:04:55,720 --> 00:04:58,279
+Nuestra musaraña necesita 200% de su peso corporal
+
+103
+00:04:58,280 --> 00:05:00,639
+en comida, al día, sólo para sobrevivir.
+
+104
+00:05:00,640 --> 00:05:03,119
+Imagínese tener que comer
+2.000 Big Macs al día
+
+105
+00:05:03,120 --> 00:05:04,579
+más de una por minuto.
+
+106
+00:05:04,580 --> 00:05:07,619
+Divertido por un rato, pero luego no tanto.
+
+107
+00:05:07,620 --> 00:05:11,399
+Por lo tanto, un centímetro cúbico de musaraña necesita 40 veces más alimentos
+
+108
+00:05:11,400 --> 00:05:13,299
+que un centímetro cúbico de elefante.
+
+109
+00:05:13,300 --> 00:05:14,659
+Si las células de un elefante
+
+110
+00:05:14,660 --> 00:05:17,139
+de repente se vuelven tan activas como las células de un musaraña,
+
+111
+00:05:17,140 --> 00:05:19,999
+una increíble cantidad de calor
+se generaría.
+
+112
+00:05:20,000 --> 00:05:22,979
+Todos los líquidos en el elefante
+comenzaría repentinamente a hervir.
+
+113
+00:05:22,980 --> 00:05:24,359
+Y entonces explotaría
+
+114
+00:05:24,360 --> 00:05:28,739
+en una impresionante explosión de humeantes partes de elefante ardiente.
+
+115
+00:05:28,740 --> 00:05:31,179
+En realidad, antes de que ocurriera una explosión
+
+116
+00:05:31,180 --> 00:05:34,359
+las proteínas que componen nuestras células, probablemente serían desnaturalizadas,
+
+117
+00:05:34,360 --> 00:05:35,999
+y dejarian de producir calor.
+
+118
+00:05:36,000 --> 00:05:37,739
+Pero la explosión de carne es mucho más divertido
+
+119
+00:05:37,740 --> 00:05:41,219
+que derretir un elefante hasta dejar una pila masiva de sustancia viscosa.
+
+120
+00:05:41,220 --> 00:05:44,899
+En cualquier caso, la escala de la velocidad del metabolismo ocurre en todas partes.
+
+121
+00:05:44,900 --> 00:05:48,719
+Incluso en lugares que no esperamos,
+como las mujeres embarazadas.
+
+122
+00:05:48,720 --> 00:05:52,079
+Un bebé en el útero de su madre se comporta como si fuera parte de ella.
+
+123
+00:05:52,080 --> 00:05:54,919
+Sus células tienen aproximadamente la misma tasa metabólica,
+
+124
+00:05:54,920 --> 00:05:57,639
+la misma velocidad de vida, como los órganos de su madre.
+
+125
+00:05:57,640 --> 00:06:01,939
+Es verdaderamente una parte de un todo más grande, en lugar de un individuo.
+
+126
+00:06:01,940 --> 00:06:04,039
+Hasta que ya no lo es.
+
+127
+00:06:04,040 --> 00:06:06,919
+En el momento exacto del nacimiento de un bebé, un interruptor se activa
+
+128
+00:06:06,920 --> 00:06:11,319
+y todo sus procesos interiores aceleran rápidamente.
+
+129
+00:06:11,320 --> 00:06:12,879
+36 horas después del nacimiento,
+
+130
+00:06:12,880 --> 00:06:17,439
+las células del bebé tienen la misma tasa de actividad que un mamífero su tamaño.
+
+131
+00:06:17,440 --> 00:06:20,119
+Los bebés literalmente pasan
+de ser un órgano
+
+132
+00:06:20,120 --> 00:06:22,679
+a ser un individual, en cuestión de horas.
+
+133
+00:06:22,680 --> 00:06:26,079
+Pero hay una cosa donde las cosas grandes y pequeñas son muy similares:
+
+134
+00:06:26,080 --> 00:06:27,779
+Los latidos del corazón.
+
+135
+00:06:27,780 --> 00:06:31,319
+Los mamíferos tienden a tener una cantidad parecida de latidos del corazón, durante su vida.
+
+136
+00:06:31,320 --> 00:06:34,119
+Típicamente alrededor de 1 mil millones.
+
+137
+00:06:34,120 --> 00:06:36,799
+Así que, mientras que la musaraña y el elefante son muy diferentes,
+
+138
+00:06:36,800 --> 00:06:41,259
+comparten un número similar de latidos del corazón en el transcurso de sus vidas.
+
+139
+00:06:41,260 --> 00:06:46,139
+Sus velocidades de vida son opuestas
+y de alguna manera siguen siendo iguales
+
+140
+00:06:46,140 --> 00:06:50,059
+Y, para un video en el que hicimos elefantes explotar sin una buena razón,
+
+141
+00:06:50,060 --> 00:06:53,260
+este es el final más romántico que se nos ocurrio.
+

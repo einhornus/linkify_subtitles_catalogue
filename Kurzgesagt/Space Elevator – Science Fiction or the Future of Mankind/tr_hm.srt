@@ -1,0 +1,384 @@
+1
+00:00:01,440 --> 00:00:03,759
+Uzaya gitmek zordur.
+
+2
+00:00:03,760 --> 00:00:05,759
+Her ne kadar gezegenimizi karanlıkta süzülürken görmek için
+
+3
+00:00:05,760 --> 00:00:09,079
+kolay ve parasal açıdan mümkün bir yol olmasını dilesek de
+
+4
+00:00:09,080 --> 00:00:13,919
+Şu an bunu görebilmenin yolu ya astronot ya da milyarder olmaktan geçiyor.
+
+5
+00:00:13,920 --> 00:00:16,639
+Ama bunu mümkün kılabilecek bir konsept bulunmakta;
+
+6
+00:00:16,640 --> 00:00:19,699
+Aynı zamanda bu konsept evrenin keşfi için bir başlangıç olabilir.
+
+7
+00:00:19,700 --> 00:00:21,559
+Uzay Asansörü.
+
+8
+00:00:21,560 --> 00:00:24,119
+Peki tam olarak nasıl çalışıyor?
+
+9
+00:00:24,120 --> 00:00:32,819
+-Jenerik- Çeviri : NST*
+
+10
+00:00:32,820 --> 00:00:36,379
+Uzay asansörünün bizi uzaya nasıl götürüceğini anlamak için
+
+11
+00:00:36,380 --> 00:00:39,359
+öncelikle bir yörüngenin ne olduğunu anlamamız gerekir.
+
+12
+00:00:39,360 --> 00:00:44,999
+Yörüngede olmak basitçe bir şeye doğru düşmek, ancak fazla hızdan olayı ıskalamaktır.
+
+13
+00:00:45,000 --> 00:00:49,999
+Dünyada bir topu fırlattığınızda havada bir yay çizip yere düşecektir.
+
+14
+00:00:50,000 --> 00:00:53,559
+Uzayda ise yer çekimi hemen hemen aynı şekilde hareket etmenizi sağlayacaktır.
+
+15
+00:00:53,560 --> 00:00:55,439
+Ama yeterince hızlı bir şekilde yan yönde hareket ederseniz
+
+16
+00:00:55,440 --> 00:01:01,439
+Dünyanın eğrisel şekli sizi yerçekimin çektiği hızda yerin yüzeyinin sizden uzak kalmasını sağlar.
+
+17
+00:01:01,440 --> 00:01:07,839
+Yani, Dünya'nın yörüngesine girmek için roketler yukarıya ve yana doğru hızlıca gitmelidir.
+
+18
+00:01:07,840 --> 00:01:10,479
+Aynı şekilde, uzay asansörü de dünyanın dönme
+
+19
+00:01:10,480 --> 00:01:14,399
+hızındaki enerjiden yararlanarak taşınan yükün hızlanmasını sağlar.
+
+20
+00:01:14,400 --> 00:01:16,779
+İpe bağlı bir oyuncağı döndüren bir çocuk düşünün,
+
+21
+00:01:16,780 --> 00:01:19,079
+ve çocuğun elinde bir karınca olsun.
+
+22
+00:01:19,080 --> 00:01:24,599
+Karınca ipe tırmanıp yükselmeye başladıkça giderek hızlanır.
+
+23
+00:01:24,600 --> 00:01:30,839
+Roketlerle karşılaştırınca, asansörle fırlatılan bir yükün sadece yukarı çıkması için enerji sağlamalısınız.
+
+24
+00:01:30,840 --> 00:01:34,239
+Çünkü yan hareket dünyanın dönmesiyle sağlanmış olur.
+
+25
+00:01:34,240 --> 00:01:36,799
+Ama bir uzay asansörü şüphesiz ki
+
+26
+00:01:36,800 --> 00:01:41,039
+insanlar tarafından inşa edilen en büyük, tekil ve en pahalı yapı olacaktır.
+
+27
+00:01:41,040 --> 00:01:43,679
+Yani, değer mi?
+
+28
+00:01:43,680 --> 00:01:45,879
+Her şey burada masrafa bağlı.
+
+29
+00:01:45,880 --> 00:01:48,399
+Roketler büyük miktarda yakıt tüketir;
+
+30
+00:01:48,400 --> 00:01:50,719
+sadece uzaya ufak bir miktar yük çıkarmak için
+
+31
+00:01:50,720 --> 00:01:52,079
+Bugünkü fiyatlarla,
+
+32
+00:01:52,080 --> 00:01:56,359
+1 kilogramlık bir yükü uzaya çıkarmak 20 bin dolara mal oluyor.
+
+33
+00:01:56,360 --> 00:01:59,239
+Bu normal bir insan için 1.3 milyon dolar,
+
+34
+00:01:59,240 --> 00:02:01,559
+"Arabası" için de 40 milyon dolar demek.
+
+35
+00:02:01,560 --> 00:02:04,199
+Yani bir uzay istasyonu için de milyarlar söz konusu.
+
+36
+00:02:04,200 --> 00:02:08,519
+Bu ciddi masraflar insani hava yolculukları için önemli bir engel.
+
+37
+00:02:08,520 --> 00:02:10,519
+Gelişen teknolojiye rağmen,
+
+38
+00:02:10,520 --> 00:02:15,119
+bu masrafların yakın bir zamanda hava yolu biletiyle karşılaştırılabilecek duruma gelmesi olası değil.
+
+39
+00:02:15,120 --> 00:02:18,039
+Ama bir uzay istasyonu bu sorunu çözebilir.
+
+40
+00:02:18,040 --> 00:02:25,199
+İnşaatından sonra bir asansörün masrafı yüz kat düşürmesi, yani bir kilogramın 200 dolara mal olması söz konusu
+
+41
+00:02:25,200 --> 00:02:28,759
+Eğer pahalı olmayan bir uzay asansörünün 20 milyar dolar olacağını varsayarsak,
+
+42
+00:02:28,760 --> 00:02:33,279
+bu kaybımızı sadece 1 milyar ton taşımadan sonra sıfırlıyoruz.
+
+43
+00:02:33,280 --> 00:02:36,279
+Bu da yaklaşık olarak 2 uzay istasyonu ağırlığına denk.
+
+44
+00:02:36,280 --> 00:02:39,519
+Peki gerçek hayatta bir uzay asansörü nasıl görünür?
+
+45
+00:02:39,520 --> 00:02:42,719
+Bir uzay asansörünün 4 ana birimi vardır.
+
+46
+00:02:42,720 --> 00:02:43,679
+Urgan (bağlantı aracı),
+
+47
+00:02:43,680 --> 00:02:44,479
+Çapa,
+
+48
+00:02:44,480 --> 00:02:45,359
+Karşı ağırlık
+
+49
+00:02:45,360 --> 00:02:46,559
+ve Tırmandırıcı.
+
+50
+00:02:46,560 --> 00:02:50,399
+Uzay asansörünün asıl asansör kısmı urgan ve tırmandırıcıdır.
+
+51
+00:02:50,400 --> 00:02:53,319
+Bu kısım Dünyanın yüzeyinden uzaya kadar gider.
+
+52
+00:02:53,320 --> 00:02:58,799
+Tırmandırıcı bir asansördeki vagona benzer, urganda yukarı aşağı giden bir odadır.
+
+53
+00:02:58,800 --> 00:03:00,799
+Merkezinde çapa bulunur,
+
+54
+00:03:00,800 --> 00:03:04,239
+Urganı dünyaya bağlar, aynı zamanda bir limanı da.
+
+55
+00:03:04,240 --> 00:03:07,479
+Tepede ise, urganın diğer ucunu tutan "Karşı ağırlık" bulunur.
+
+56
+00:03:07,480 --> 00:03:12,679
+Urgan bir ip gibi sıkıca tutulur ve karşı ağırlığın sağladığı gerilim sayesinde şeklini korur ve desteklenir.
+
+57
+00:03:12,680 --> 00:03:16,959
+ve bu karşı ağırlık dünyanın yüzeyinden 36 bin kilometre üstünde bulunur.
+
+58
+00:03:16,960 --> 00:03:19,159
+Bu karşı ağırlığın yerinde bir uzay istasyonu bulunabilir.
+
+59
+00:03:19,160 --> 00:03:22,839
+Bu uzay limanından kalkacak yolculuklar için bir fırlatma noktası.
+
+60
+00:03:22,840 --> 00:03:25,119
+Peki cidden bir tane inşa edebilir miyiz?
+
+61
+00:03:25,120 --> 00:03:26,719
+Buna cevap vermek zor.
+
+62
+00:03:26,720 --> 00:03:28,599
+En büyük zorluk urgan olacaktır.
+
+63
+00:03:28,600 --> 00:03:34,479
+Urgan hafif, karşılanabilir ve şu an üretebildiğimiz tüm materyallerden daha sağlam olmalı .
+
+64
+00:03:34,480 --> 00:03:38,119
+Şu an grafen ve elmas nanoiplik gibi umut verici maddeler bulunmakta
+
+65
+00:03:38,120 --> 00:03:40,639
+Ama bu ikisi bile yeterince güçlü olmayabilir.
+
+66
+00:03:40,640 --> 00:03:42,879
+İnanılmaz derecede güçlü olmasının gerekliliği yanında
+
+67
+00:03:42,880 --> 00:03:46,999
+Urganın aynı zamanda atmosfer yıpratmasına, radyasyonuna,
+
+68
+00:03:47,000 --> 00:03:49,839
+meteor ve uzay enkazına dayanıklı olması gerekir.
+
+69
+00:03:49,840 --> 00:03:53,239
+Aynı zamanda bu asansörle uzaya tırmanmak birkaç gün alabilir.
+
+70
+00:03:53,240 --> 00:03:55,519
+Tırmandırıcıya nasıl güç vereceğiz?
+
+71
+00:03:55,520 --> 00:03:58,119
+Bu çok enerji gerektiriyor.
+
+72
+00:03:58,120 --> 00:04:01,559
+Asansör vagonumuzda bir nükleer reaktöre mi ihtiyacımız var?
+
+73
+00:04:01,560 --> 00:04:05,079
+Ya da yerden süper güçlü bir lazerle mi güç vereceğiz?
+
+74
+00:04:05,080 --> 00:04:09,519
+Ve 36 bin kilometre uzunluktaki urgan için gereken ham maddeyi nereden bulacağız?
+
+75
+00:04:09,520 --> 00:04:12,039
+Dünyada yapıp uzaya mı fırlatacağız,
+
+76
+00:04:12,040 --> 00:04:14,999
+yoksa uzayda yapıp dünyaya doğru aşağı mı bırakacağız?
+
+77
+00:04:15,000 --> 00:04:17,599
+Asteroid madenciliği buna bir cevap olabilir mi?
+
+78
+00:04:17,600 --> 00:04:22,799
+Kısacası, hala aşmamız gereken bir çok teknolojik engel bulunmakta.
+
+79
+00:04:22,800 --> 00:04:25,319
+Aynı zamanda risksiz bir uzay asansöründen bahsedilemez.
+
+80
+00:04:25,320 --> 00:04:29,159
+Eğer urgan koparsa muhteşem bir şekilde çöker.
+
+81
+00:04:29,160 --> 00:04:30,519
+Eğer çapaya yakın bir yerde koparsa,
+
+82
+00:04:30,520 --> 00:04:35,959
+Karşı ağırlığın uyguladığı güç sayesinde bütün asansörün uzaya doğru yükselmesi söz konusu.
+
+83
+00:04:35,960 --> 00:04:37,599
+Eğer karşı ağırlığın yakınında koparsa ise
+
+84
+00:04:37,600 --> 00:04:41,439
+Urgan bu sefer aşağı düşer; dünyanın etrafına doğru  sarılarak bir düğüm oluşturur.
+
+85
+00:04:41,440 --> 00:04:43,959
+Bunun sonucunda yörüngeye yerleşecek olan enkaz parçaları
+
+86
+00:04:43,960 --> 00:04:46,039
+gelecek uzay uçuşları için büyük sorun teşkil edebilir.
+
+87
+00:04:46,040 --> 00:04:50,679
+Eğer bir uzay asansörü inşa edeceksek, ilk seferde doğru yapmamız gerekmekte.
+
+88
+00:04:50,680 --> 00:04:52,319
+Bu sebeplerden dolayı bazı uzmanlar,
+
+89
+00:04:52,320 --> 00:04:55,679
+öncelikle Ay'da bir uzay asansörü inşa edilmesini teklif ettiler.
+
+90
+00:04:55,680 --> 00:04:58,119
+Ay'ın yer çekimi Dünya'ya oranla çok daha güçsüzdür,
+
+91
+00:04:58,120 --> 00:05:02,719
+yani kevlar gibi daha zayıf ama var olan bir materyal urgan görevi görebilir.
+
+92
+00:05:02,720 --> 00:05:07,759
+Bütün bu engellere rağmen çalışan bir uzay asansörüne sahip olmanın değeri fazlasıyla engin olacaktır.
+
+93
+00:05:07,760 --> 00:05:12,559
+Bu gerçekten de uzayı dolaşan bir medeniyet olma yolunda ilk adım olabilir.
+
+94
+00:05:12,560 --> 00:05:15,119
+Belki hiçbir zaman bir uzay asansörü inşa edemeyeceğiz.
+
+95
+00:05:15,120 --> 00:05:18,719
+Ama bunun için çabalayarak çok şey öğrenebiliriz.
+
+96
+00:05:18,720 --> 00:05:24,160
+Ve söz konusu evrenin keşfi olduğunda şanlı bir gelecek için ne kadar hayal etsek az.
+

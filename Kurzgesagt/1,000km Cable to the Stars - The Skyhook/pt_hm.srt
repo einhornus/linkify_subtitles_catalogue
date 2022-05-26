@@ -1,0 +1,536 @@
+1
+00:00:01,200 --> 00:00:03,079
+Chegar no espaço é difícil
+
+2
+00:00:03,080 --> 00:00:06,579
+No momento, é como escalar uma montanha em um monociclo
+
+3
+00:00:06,580 --> 00:00:08,919
+com uma mochila cheia de explosivos
+
+4
+00:00:08,920 --> 00:00:13,699
+Incrivelmente devagar, você não pode transportar muita coisa, e ainda pode morrer
+
+5
+00:00:13,700 --> 00:00:19,779
+Um foguete precisa atingir uma velocidade de aproximadamente 40,000km por hora para escapar da Terra
+
+6
+00:00:19,780 --> 00:00:25,959
+Para atingir tal velocidade, foguetes são predominantemente recipientes para combustível com uma pequena ponta de carga
+
+7
+00:00:25,960 --> 00:00:28,419
+Isso é ruim se você quer ir para outro planeta
+
+8
+00:00:28,420 --> 00:00:34,399
+porque você precisa de muitas coisas pesadas se você quer sobreviver e talvez até voltar
+
+9
+00:00:34,400 --> 00:00:48,639
+Então, há uma maneira de chegar no espaço com menos combustível e mais carga?
+
+10
+00:00:48,640 --> 00:00:54,279
+Uma boa coisa que resolveu a maioria dos nossos problemas com transporte na Terra é o que chamamos de infraestrutura
+
+11
+00:00:54,280 --> 00:00:58,439
+Sejam estradas para carros, portos para navios, ou trilhos para trens
+
+12
+00:00:58,440 --> 00:01:01,499
+Nós facilitamos chegar a lugares
+
+13
+00:01:01,500 --> 00:01:04,779
+Podemos aplicar a mesma solução para viagens espaciais
+
+14
+00:01:04,780 --> 00:01:12,039
+Infraestrutura espacial fará entrar em órbita, até a Lua, Marte e além, mais fácil e barato
+
+15
+00:01:12,040 --> 00:01:16,019
+Ótimo, mas o que exatamente é infraestrutura espacial?
+
+16
+00:01:16,020 --> 00:01:19,419
+Diferente de um elevador Terra-espaço, que atualmente é ficção científica,
+
+17
+00:01:19,420 --> 00:01:24,879
+há uma tecnologia simples, porém promissora, que não requer novos avanços científicos
+
+18
+00:01:24,880 --> 00:01:27,539
+materiais mágicos, ou investimentos gigantescos
+
+19
+00:01:27,540 --> 00:01:30,839
+e que já foi testado com sucesso em órbita:
+
+20
+00:01:30,840 --> 00:01:32,959
+um cabo, e um peso
+
+21
+00:01:32,960 --> 00:01:34,739
+conhecido como uma amarra
+
+22
+00:01:34,740 --> 00:01:37,719
+o conceito é tão simples que é surpreendente
+
+23
+00:01:37,720 --> 00:01:39,399
+E se colocássemos amarras
+
+24
+00:01:39,400 --> 00:01:43,599
+de centenas ou milhares de quilômetros de extensão - no espaço, e fizéssemos espaçonaves
+
+25
+00:01:43,600 --> 00:01:48,459
+utilizá-los como escadas para escalar até altitudes mais elevadas e ganhar velocidade?
+
+26
+00:01:48,460 --> 00:01:51,579
+Esse conceito é conhecido como um Gancho Espacial
+
+27
+00:01:51,580 --> 00:01:53,939
+Ele funciona ainda melhor se o fizermos girar
+
+28
+00:01:53,940 --> 00:01:58,319
+um contrapeso fixa um longo cabo no lugar enquanto ele gira em movimento circular
+
+29
+00:01:58,320 --> 00:02:02,479
+Uma amarra giratória reduz a velocidade de sua ponta relativamente ao chão na base
+
+30
+00:02:02,480 --> 00:02:05,219
+e acelera no topo como uma catapulta
+
+31
+00:02:05,220 --> 00:02:08,079
+Isso significa que você pode transferir energia da amarra
+
+32
+00:02:08,080 --> 00:02:11,339
+e conseguir um impulso maciço quando desacoplado, mais ou menos de graça,
+
+33
+00:02:11,340 --> 00:02:14,219
+igual a duas vezes a velocidade de rotação da amarra.
+
+34
+00:02:14,220 --> 00:02:17,919
+Já existem fibras especializadas que conseguem sobreviver
+
+35
+00:02:17,920 --> 00:02:20,879
+os estresses extraordinários que um gancho espacial enfrentaria.
+
+36
+00:02:20,880 --> 00:02:24,739
+Para proteger contra cortes e colisões de detritos e meteoritos,
+
+37
+00:02:24,740 --> 00:02:28,239
+podemos tecer nossa amarra em uma rede de fibras redundantes.
+
+38
+00:02:28,240 --> 00:02:31,959
+Como nosso gancho espacial passaria sobre o mesmo ponto várias vezes por dia,
+
+39
+00:02:31,960 --> 00:02:35,839
+isso permitiria que naves pequenas e reutilizáveis o alcançassem.
+
+40
+00:02:35,840 --> 00:02:38,039
+Claro, não é tão fácil.
+
+41
+00:02:38,040 --> 00:02:40,559
+No seu ponto mais inferior, a ponta da amarra está atravessando
+
+42
+00:02:40,560 --> 00:02:43,899
+a atmosfera a aproximadamente 12,000km/h
+
+43
+00:02:43,900 --> 00:02:46,619
+Por causa da atmosfera terrestre, não podemos abaixar o gancho espacial
+
+44
+00:02:46,620 --> 00:02:49,699
+demais, ou então ele se aquecerá demais devido à fricção do ar.
+
+45
+00:02:49,700 --> 00:02:51,639
+Então ele mergulhará a uma altura de 80
+
+46
+00:02:51,640 --> 00:02:54,339
+a 150km, e não mais baixo.
+
+47
+00:02:54,340 --> 00:02:58,839
+Para isso, precisaremos de naves especializadas que consigam chegar até a amarra.
+
+48
+00:02:58,840 --> 00:03:07,539
+Enquanto isso não é exatamente fácil, ainda é muito mais barato que fazer com que uma grande lata de alumínio, cheia de combústível de foguete, chegue a 40,000km/h.
+
+49
+00:03:07,540 --> 00:03:09,839
+Agarrar a ponta também será um desafio.
+
+50
+00:03:09,840 --> 00:03:13,339
+Há apenas uma curta janela de tempo de 60 a 90 segundos
+
+51
+00:03:13,340 --> 00:03:17,019
+para encontrar uma coisinha no céu, movendo-se em Mach 12.
+
+52
+00:03:17,020 --> 00:03:21,839
+Para facilitar, a ponta poderia ter uma espécie de linha de pesca de 1km de extensão,
+
+53
+00:03:21,840 --> 00:03:25,419
+com um drone de navegação que ajuda a espaçonave a se conectar.
+
+54
+00:03:25,420 --> 00:03:28,359
+Outro desafio é manter nosso gancho espacial em órbita.
+
+55
+00:03:28,360 --> 00:03:31,519
+Quando mais e mais naves conectam-se a ele e elevam-se,
+
+56
+00:03:31,520 --> 00:03:34,359
+elas usam o impulso que o mantém no lugar.
+
+57
+00:03:34,360 --> 00:03:39,399
+Se não fizermos nada, ele desacelerará e cairá na atmosfera
+
+58
+00:03:39,400 --> 00:03:42,639
+E aqui, podemos roubar um pouco do universo.
+
+59
+00:03:42,640 --> 00:03:46,099
+O gancho espacial é uma bateria de energia orbital.
+
+60
+00:03:46,100 --> 00:03:50,199
+É possível balançear as cargas chegando e saindo.
+
+61
+00:03:50,200 --> 00:03:54,178
+Naves chegando trazendo humanos e materiais para a Terra adicionam
+
+62
+00:03:54,179 --> 00:03:58,059
+energia para a amarra, que ela pode dar para outras naves partindo para o espaço.
+
+63
+00:03:58,060 --> 00:04:00,879
+Dessa forma, a amarra não perde nenhuma energia.
+
+64
+00:04:00,880 --> 00:04:03,999
+Quanto mais ela for usada, mais barata fica.
+
+65
+00:04:04,000 --> 00:04:09,359
+Se ainda estivermos perdendo energia com cada impulso, podemos recuperá-la com pequenos motores elétricos ou químicos
+
+66
+00:04:09,360 --> 00:04:11,819
+que regularmente corrigem a posição da amarra.
+
+67
+00:04:11,820 --> 00:04:15,839
+Um conjunto de amarras, uma na Terra e outra em Marte, poderia fazer viagens
+
+68
+00:04:15,840 --> 00:04:20,278
+entre os planetas mais rápidas, diretas e baratas comparadas com foguetes.
+
+69
+00:04:20,279 --> 00:04:22,659
+A amarra terrestre poderia ficar em órbita terrestre baixa
+
+70
+00:04:22,660 --> 00:04:25,659
+para pegar pessoas e cargas, e arremessá-las para Marte.
+
+71
+00:04:25,660 --> 00:04:30,599
+A amarra marciana as agarra e freia para um pouso na superfície.
+
+72
+00:04:30,600 --> 00:04:33,659
+Na direção oposta, a amarra poderia pegar um veículo viajando
+
+73
+00:04:33,660 --> 00:04:37,939
+através da fina atmosfera marciana a apenas 1,000km/h
+
+74
+00:04:37,940 --> 00:04:40,879
+não muito mais rápido do que nossos aviões na Terra, e arremessá-lo
+
+75
+00:04:40,880 --> 00:04:43,879
+de volta para a Terra para ser capturado e abaixado.
+
+76
+00:04:43,880 --> 00:04:46,839
+As amarras poderiam reduzir viagens entre os dois planetas,
+
+77
+00:04:46,840 --> 00:04:49,559
+de nove meses para cinco ou até três,
+
+78
+00:04:49,560 --> 00:04:55,399
+e reduzir a escala dos feguetes necessários por entre 84 e 96 por cento.
+
+79
+00:04:55,400 --> 00:04:58,359
+Ainda melhor: pessoas poderiam viajar com relativo luxo
+
+80
+00:04:58,360 --> 00:05:01,699
+já que teríamos dinheiro para investir em conforto dos passageiros.
+
+81
+00:05:01,700 --> 00:05:05,379
+Viagens via amarras seria a primeira classe para Marte!
+
+82
+00:05:05,380 --> 00:05:08,139
+Juntas, amarras entre a Terra e Marte poderiam fornecer
+
+83
+00:05:08,140 --> 00:05:10,879
+a espinha dorsal de transporte rápido e custo-eficiente
+
+84
+00:05:10,880 --> 00:05:13,624
+que fariam viagens espaciais financeiramente acessíveis.
+
+85
+00:05:13,625 --> 00:05:15,259
+Mas vamos além.
+
+86
+00:05:15,260 --> 00:05:16,979
+Começando da baixa órbita marciana,
+
+87
+00:05:16,980 --> 00:05:19,879
+uma amarra poderia impulsionar naves para o cinturão de asteróides.
+
+88
+00:05:19,880 --> 00:05:22,079
+A primeira nave enviada para um novo asteróide
+
+89
+00:05:22,080 --> 00:05:24,759
+precisaria de foguetes para frear em seu destino.
+
+90
+00:05:24,760 --> 00:05:27,139
+Chegadas subsequentes poderiam encontrar uma amarra esperando para
+
+91
+00:05:27,140 --> 00:05:29,839
+capturá-las e enviá-las de volta de graça.
+
+92
+00:05:29,840 --> 00:05:32,539
+Chegar até asteróides de forma barata é um fator importante
+
+93
+00:05:32,540 --> 00:05:35,799
+para explorar os recursos do sistema solar.
+
+94
+00:05:35,800 --> 00:05:38,799
+Metais preciosos e minerais valiosos poderiam ser entregues para Marte
+
+95
+00:05:38,800 --> 00:05:41,779
+apenas semanas após serem extraídos de seu asteróide.
+
+96
+00:05:41,780 --> 00:05:46,719
+Eles seriam as peças fundamentais perfeitas para a nossa civilização interplanetária.
+
+97
+00:05:46,720 --> 00:05:48,319
+Mas por que parar aqui?
+
+98
+00:05:48,320 --> 00:05:50,559
+As luas de Marte são muito convenientes.
+
+99
+00:05:50,560 --> 00:05:54,419
+Não existem outras luas no sistema solar em órbita tão póxima a seu planeta.
+
+100
+00:05:54,420 --> 00:05:58,779
+Phobos é tão pesada que nem precisamos nos preocupar em desacelerá-la,
+
+101
+00:05:58,780 --> 00:06:01,679
+fazendo dela o ponto de fixação perfeito para super amaras
+
+102
+00:06:01,680 --> 00:06:04,179
+um pouco menores que 6,000km de extensão.
+
+103
+00:06:04,180 --> 00:06:09,179
+A ponta inferior voaria logo acima da superfície de Marte, e seria muito fácil de pegar.
+
+104
+00:06:09,180 --> 00:06:13,385
+A ponta superior poderia arremessar naves até Jupiter ou Saturno.
+
+105
+00:06:13,386 --> 00:06:18,189
+A mesma super amarra poderia aproximar a região central do sistema solar.
+
+106
+00:06:18,190 --> 00:06:21,219
+Venus e Mercúrio estão a apenas uma estilingada de distância.
+
+107
+00:06:21,220 --> 00:06:26,719
+Diferentemente de Marte, eles estão repletos de energia solar e são ricos em minerais.
+
+108
+00:06:26,720 --> 00:06:31,299
+No longo prazo, nada está impedindo a humanidade de construir uma rede de
+
+109
+00:06:31,300 --> 00:06:35,759
+transporte sem combustível para os planetas terrestres, centrada nas luas marcianas.
+
+110
+00:06:35,760 --> 00:06:40,799
+Amarras são uma solução comparativamente baratas e sustentáveis para fazer viagens espaciais
+
+111
+00:06:40,800 --> 00:06:43,259
+financeiramente viáveis e o resto do sistema solar
+
+112
+00:06:43,260 --> 00:06:46,859
+acessível para exploração e exploração (rs).
+
+113
+00:06:46,860 --> 00:06:49,899
+Considerando que temos a tecnologia para construí-las hoje,
+
+114
+00:06:49,900 --> 00:06:53,322
+realmente não há nenhuma boa desculpa para esperar mais.
+
+115
+00:06:53,323 --> 00:07:00,163
+Partes do sistema solar estão muito longe, mas poderiam estar muito próximas.
+
+116
+00:07:00,164 --> 00:07:04,187
+Falando de coisas que são difíceis de alcançar, mas não precisam ser:
+
+117
+00:07:04,188 --> 00:07:05,615
+Conhecimento
+
+118
+00:07:05,616 --> 00:07:08,553
+Nossos amigos da Brilliant podem te conectar a um universo
+
+119
+00:07:08,554 --> 00:07:12,401
+repleto de ideias explosivas e cursos divertidos.
+
+120
+00:07:12,402 --> 00:07:16,140
+Brilliant é um site que te ajuda a abordar ciência de uma maneira prática,
+
+121
+00:07:16,141 --> 00:07:18,506
+com cursos interativos de solução de problemas e
+
+122
+00:07:18,507 --> 00:07:21,806
+problemas diários em matemática, lógica e engenharia.
+
+123
+00:07:21,807 --> 00:07:23,790
+Cada problema lhe dá todos os instrumentos necessários
+
+124
+00:07:23,791 --> 00:07:25,839
+para compreender tópicos complexos por conta própria.
+
+125
+00:07:25,840 --> 00:07:29,798
+É aprendizado por prática, mas com seu cérebro ao invés de suas mãos.
+
+126
+00:07:29,799 --> 00:07:34,108
+Use sua curiosidade para chegar ao fundo de enigmas e cursos sobre coisas como
+
+127
+00:07:34,109 --> 00:07:38,846
+mecânica clássica, astronomia, física gravitacional e muito mais
+
+128
+00:07:38,847 --> 00:07:42,359
+Se você clicar no link na descrição, ou visiar brilliant.org/nutshell,
+
+129
+00:07:42,360 --> 00:07:46,385
+você pode se cadastrar de graça e aprender mais coisas que pode imaginar.
+
+130
+00:07:46,386 --> 00:07:48,934
+E há um benefício extra para espectadores do Kurzgesagt:
+
+131
+00:07:48,935 --> 00:07:54,069
+As primeiras 688 pessoas a usar o link ganham 20% de desconto em sua assinatura anual,
+
+132
+00:07:54,070 --> 00:07:58,919
+que lhe permite ver todos os problemas diários nos arquivos e desbloquear todos os cursos.
+
+133
+00:07:58,920 --> 00:08:02,459
+Briliant te ajuda a terminar o dia um pouco mais inteligente.
+
+134
+00:08:02,460 --> 00:08:05,200
+Você pode... se "amarrar" na experiência!
+

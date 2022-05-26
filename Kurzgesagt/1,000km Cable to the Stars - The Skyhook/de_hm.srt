@@ -1,0 +1,568 @@
+1
+00:00:01,540 --> 00:00:03,679
+In den Weltraum zu kommen ist schwierig
+
+2
+00:00:03,680 --> 00:00:06,639
+Im Moment ist es, als würde man einen Berg auf einem Einrad hochfahren
+
+3
+00:00:06,640 --> 00:00:09,159
+mit einem Rucksack voller Sprengstoff:
+
+4
+00:00:09,160 --> 00:00:13,699
+Unglaublich langsam, man kann wenig transportieren und man könnte sterben
+
+5
+00:00:13,700 --> 00:00:19,539
+Eine Rakete braucht eine Geschwindigkeit von ungefähr 40 000 km/h um der Erde zu entkommen
+
+6
+00:00:19,540 --> 00:00:20,999
+Um zu dieser Geschwindigkeit zu gelangen
+
+7
+00:00:21,000 --> 00:00:24,879
+sind Raketen hauptsächlich Behälter für Treibstoff mit einem winzigen bisschen Nutzlast
+
+8
+00:00:24,880 --> 00:00:29,199
+Das ist schlecht, wenn man zu anderen Planeten will
+
+9
+00:00:29,200 --> 00:00:34,139
+weil man viel schweres Zeug braucht, um zu überleben und vielleicht auch zurückzukehren
+
+10
+00:00:34,140 --> 00:00:39,099
+Gibt es also einen Weg, mit weniger Treibstoff und mehr Nutzlast ins Weltall zu kommen?
+
+11
+00:00:39,100 --> 00:00:48,679
+Kurzgesagt (Intro)
+
+12
+00:00:48,680 --> 00:00:52,319
+Eine nette Sache, die die meisten unserer Transportprobleme auf der Erde löste,
+
+13
+00:00:52,320 --> 00:00:54,219
+ist das was man Infrastruktur nennt
+
+14
+00:00:54,220 --> 00:00:55,599
+Ob es nun Straßen für Autos sind,
+
+15
+00:00:55,600 --> 00:00:56,959
+Häfen für Schiffe
+
+16
+00:00:56,960 --> 00:00:58,379
+oder Gleise für Züge
+
+17
+00:00:58,380 --> 00:01:01,659
+Wir haben es leichter gemacht, irgendwo hinzukommen
+
+18
+00:01:01,660 --> 00:01:04,518
+Die selbe Lösung können wir auch im Weltraum anwenden
+
+19
+00:01:04,519 --> 00:01:07,899
+Weltraum-Infrastruktur wird es einfacher und billiger machen, in die Umlaufbahn
+
+20
+00:01:07,900 --> 00:01:12,299
+auf den Mond, den Mars und noch weiter zu gelangen
+
+21
+00:01:12,300 --> 00:01:15,999
+Super, aber was genau ist Weltraum-Infrastruktur?
+
+22
+00:01:16,000 --> 00:01:19,339
+Im Gegensatz zu einem Weltraumlift, der derzeit Science-Fiction ist,
+
+23
+00:01:19,340 --> 00:01:24,399
+gibt es eine einfache, aber vielversprechende Technologie, die keine neue Wissenschaft,
+
+24
+00:01:24,400 --> 00:01:28,039
+magische Materialien oder riesige Investitionen erfordert
+
+25
+00:01:28,040 --> 00:01:31,059
+und welche bereits erfolgreich im Orbit getestet wurde.
+
+26
+00:01:31,060 --> 00:01:32,919
+Ein Kabel und ein Gewicht
+
+27
+00:01:32,920 --> 00:01:34,639
+"Tether" genannt
+
+28
+00:01:34,640 --> 00:01:38,039
+das Konzept ist so einfach, es ist überraschend
+
+29
+00:01:38,040 --> 00:01:39,579
+Was wäre, wenn wir Tether
+
+30
+00:01:39,580 --> 00:01:42,519
+- hunderte oder tausende Kilometer lang - im Weltraum hätten
+
+31
+00:01:42,520 --> 00:01:48,639
+und sie als Leitern verwenden würden, um mehr Flughöhe und Geschwindigkeit zu erreichen?
+
+32
+00:01:48,640 --> 00:01:51,614
+Dieses Konzept nennt sich Skyhook
+
+33
+00:01:51,615 --> 00:01:54,179
+Es funktioniert sogar noch besser, wenn wir es rotieren lasssen
+
+34
+00:01:54,180 --> 00:01:56,719
+Ein Gegengewicht hält ein langes Kabel fest
+
+35
+00:01:56,720 --> 00:01:58,299
+während es sich im Kreis dreht
+
+36
+00:01:58,300 --> 00:02:02,259
+Die Rotation verlangsamt, relativ zur Geschwindigkeit des Erdbodens, das untere Ende des Tethers
+
+37
+00:02:02,260 --> 00:02:05,419
+und beschleunigt es nach oben hin, wie bei einem Katapult.
+
+38
+00:02:05,420 --> 00:02:08,379
+Das bedeutet, dass man von dem Tether Energie übertragen kann
+
+39
+00:02:08,380 --> 00:02:11,659
+und man einen riesigen Schub beim Loslassen bekommt - mehr oder weniger kostenlos
+
+40
+00:02:11,660 --> 00:02:14,419
+Dieser ist doppelt so hoch wie die Rotationsgeschwindigkeit des Seiles
+
+41
+00:02:14,420 --> 00:02:21,099
+Spezialisierte Fasern, die den außergewöhnlich großen Kräfte standhalten können, existieren bereits.
+
+42
+00:02:21,100 --> 00:02:24,119
+Um ihn vor Schnitten und Zusammenstößen mit Trümmern und Meteoriten zu schützen,
+
+43
+00:02:24,120 --> 00:02:28,699
+können wir unseren Tether in einem Netz von redundanten Fasern weben
+
+44
+00:02:28,700 --> 00:02:31,879
+Da unser Skyhook mehrmals täglich an der selben Stelle vorbeikommen würde,
+
+45
+00:02:31,880 --> 00:02:35,459
+könnten kleine, wiederverwendbare Shuttles es einholen
+
+46
+00:02:35,460 --> 00:02:38,139
+Natürlich ist das nicht so einfach
+
+47
+00:02:38,140 --> 00:02:39,959
+Da der niedrigste Punkt des Tethers
+
+48
+00:02:39,960 --> 00:02:43,779
+mit ca. 12 000 km/h durch die Atmosphäre rast.
+
+49
+00:02:43,780 --> 00:02:47,159
+Wegen der Erdatmosphäre können wir den Skyhook nicht zu niedrig ansetzen
+
+50
+00:02:47,160 --> 00:02:49,719
+denn sonst wird es durch die Luftreibung zu heiß
+
+51
+00:02:49,720 --> 00:02:54,459
+Also wird es in einer Höhe von 80 - 150 km hängen - und nicht niedriger
+
+52
+00:02:54,460 --> 00:02:59,459
+Daher brauchen wir spezialisierte Raumfahrzeuge, die den Tether erreichen können.
+
+53
+00:02:59,460 --> 00:03:02,279
+Obwohl das nicht gerade einfach ist, ist es immer noch um einiges billiger
+
+54
+00:03:02,280 --> 00:03:07,499
+als eine große, mit Raketentreibstoff gefüllte Blechbüchse auf 40 000 km/h zu beschleunigen.
+
+55
+00:03:07,500 --> 00:03:09,999
+Das Ende zu erwischen wird ebenfalls eine Herausfordeung sein
+
+56
+00:03:10,000 --> 00:03:13,259
+Es gibt nur ein kurzes Zeitfenster von 60 bis 90 Sekunden
+
+57
+00:03:13,260 --> 00:03:17,159
+um ein winziges Ding im Himmel zu finden, dass sich mit Mach 12 bewegt
+
+58
+00:03:17,160 --> 00:03:21,079
+Um das zu erleichtern, könnte das Ende eine Art (1km langen) Leinenfang haben,
+
+59
+00:03:21,080 --> 00:03:25,319
+mit einer Navigationsdrohne, die dem Raumfahrzeug dabei hilft, sich zu verbinden
+
+60
+00:03:25,320 --> 00:03:28,654
+Eine weitere Herausforderung ist, unser Skyhook in der Umlaufbahn zu halten
+
+61
+00:03:28,655 --> 00:03:31,414
+Je mehr Raumfahrzeuge sich mit dem Tether verbinden und sich hochziehen lassen
+
+62
+00:03:31,415 --> 00:03:34,359
+desto mehr entziehen sie ihm seinen Schwung, der es an seinem Platz hält
+
+63
+00:03:34,360 --> 00:03:39,539
+Wenn wir nichts dagegen tun, wird es sich verlangsamen, bis es in die Atmosphäre stürzt
+
+64
+00:03:39,540 --> 00:03:42,824
+Und an der Stelle können wir das Universum ein bisschen hereinlegen
+
+65
+00:03:42,825 --> 00:03:45,879
+Der Skyhook ist eine Batterie die Umlauf-Energie speichert
+
+66
+00:03:45,880 --> 00:03:50,179
+Es ist möglich, die Energie für auslaufende und ankommende Raumfahrzeuge auszugleichen
+
+67
+00:03:50,180 --> 00:03:53,799
+Ankommende Raumschiffe, die Menschen und Rohstoffe zurück zur Erde bringen
+
+68
+00:03:53,800 --> 00:03:58,259
+geben dem Tether Energie, die es an ins All auslaufende Raumschiffe weitergeben kann
+
+69
+00:03:58,260 --> 00:04:00,979
+Auf diese Weise verliert der Tether keine Energie
+
+70
+00:04:00,980 --> 00:04:04,019
+Je mehr wir es benutzen, desto billiger wird es
+
+71
+00:04:04,020 --> 00:04:09,799
+Falls wir dennoch Energieverlust haben, können wir den mit kleinen elektronischen oder chemischen Motoren ausgleichen,
+
+72
+00:04:09,800 --> 00:04:12,439
+die regelmäßig die Position des Tethers korrigieren
+
+73
+00:04:12,440 --> 00:04:15,339
+Mit einem Tether, der die Erde umkreist, und einem, der den Mars umkreist,
+
+74
+00:04:15,340 --> 00:04:20,419
+wären Reisen zwischen den Planeten schnell, einfach und billig, im Vergleich zu Raketen
+
+75
+00:04:20,420 --> 00:04:23,099
+Der Erd-Tether säße in einer niedrigen Umlaufbahn,
+
+76
+00:04:23,100 --> 00:04:25,759
+um Menschen und Ladung aufzunehmen und zum Mars zu schleudern
+
+77
+00:04:25,760 --> 00:04:30,799
+Der Mars-Tether fängt sie auf und bremst sie für die Landung auf der Marsoberfläche ab.
+
+78
+00:04:30,800 --> 00:04:33,999
+In der Gegenrichtung könnte der Tether ein Raumfahrzeug aufnehmen,
+
+79
+00:04:34,000 --> 00:04:37,599
+das mit nur 1.000 km/h durch die dünne Atmosphäre des Mars fliegt
+
+80
+00:04:37,600 --> 00:04:40,239
+- nicht viel schneller als unsere Flugzeuge auf der Erde -
+
+81
+00:04:40,240 --> 00:04:44,059
+und das Raumfahrzeug zurück zur Erde schleudern, wo es aufgefangen und heruntergelassen wird
+
+82
+00:04:44,060 --> 00:04:46,984
+Die Tether könnte Reisen zwischen beiden Planeten
+
+83
+00:04:46,985 --> 00:04:49,379
+von neun Monaten auf fünf oder sogar drei Monate verkürzen
+
+84
+00:04:49,380 --> 00:04:55,499
+und könnten die Größe der benötigten Raketen um 84 bis 96 Prozent reduzieren
+
+85
+00:04:55,500 --> 00:04:59,299
+Und noch besser: die Passagiere könnten möglicherweise sogar relativ luxuriös reisen
+
+86
+00:04:59,300 --> 00:05:01,919
+weil wir es uns leisten könnten in Komfort zu investieren
+
+87
+00:05:01,920 --> 00:05:05,479
+Die Reise mit dem Tether wäre das Erste-Klasse-Ticket zum Mars!
+
+88
+00:05:05,480 --> 00:05:08,239
+Zusammen könnten die Tether um Erde und Mars
+
+89
+00:05:08,240 --> 00:05:11,079
+das schnelle und kosteneffiziente Rückgrat des Transportes bereitstellen
+
+90
+00:05:11,080 --> 00:05:13,379
+das Weltraum-Reisen erschwinglich machen würden.
+
+91
+00:05:13,380 --> 00:05:14,999
+Aber lasst uns mal weiter denken.
+
+92
+00:05:15,000 --> 00:05:16,999
+Ausgehend von einer niedrigen Mars-Umlaufbahn
+
+93
+00:05:17,000 --> 00:05:19,919
+könnte ein Tether Schiffe in den Asteroiden-Gürtel schleudern
+
+94
+00:05:19,920 --> 00:05:22,519
+Das erste Schiff, das zu einem neuen Asteroiden geschickt wird,
+
+95
+00:05:22,520 --> 00:05:24,679
+bräuchte noch Raketen, um an seinem Ziel abzubremsen
+
+96
+00:05:24,680 --> 00:05:27,759
+Alle nachfolgenden könnten ein Tether vorfinden
+
+97
+00:05:27,760 --> 00:05:29,944
+was sie auffängt und dann kostenlos zurückschickt.
+
+98
+00:05:29,945 --> 00:05:32,824
+Günstig zu Asteroiden zu kommen ist ein großer Faktor
+
+99
+00:05:32,825 --> 00:05:35,824
+um an die Ressourcen des Sonnensystems zu gelangen
+
+100
+00:05:35,825 --> 00:05:38,779
+Edelmetalle und wertvolle Minerale könnten zum Mars geliefert werden
+
+101
+00:05:38,780 --> 00:05:41,959
+nur Wochen nach dem sie aus den Asteroiden gefördert wurden
+
+102
+00:05:41,960 --> 00:05:46,579
+Sie wären die perfekten Bausteine für unsere interplanetare Zivilisation
+
+103
+00:05:46,580 --> 00:05:48,299
+Aber warum sollten wir es dabei belassen?
+
+104
+00:05:48,300 --> 00:05:50,779
+Mars-Monde sind sehr praktisch.
+
+105
+00:05:50,780 --> 00:05:54,839
+Keine anderen Monde im Sonnensystem kreisen so nahe an ihrem Planeten
+
+106
+00:05:54,840 --> 00:05:59,019
+Phobos ist so schwer, dass wir uns keine Sorgen machen müssen, dass er sich verlangsamt
+
+107
+00:05:59,020 --> 00:06:02,299
+Das macht ihn zum perfekten Ankerpunkt für die Super-Tether
+
+108
+00:06:02,300 --> 00:06:04,379
+die knapp 6000 km lang wären
+
+109
+00:06:04,380 --> 00:06:09,219
+Die untere Spitze würde knapp über der Mars-Oberfläche fliegen und wäre sehr einfach zu erreichen
+
+110
+00:06:09,220 --> 00:06:13,379
+Das obere Ende kann Raumschiffe bis zu Jupiter und Saturn schleudern
+
+111
+00:06:13,380 --> 00:06:18,099
+Der selbe Super-Tether kann auch das innere Sonnensystem näher bringen
+
+112
+00:06:18,100 --> 00:06:21,219
+Venus und Merkur sind nur einen Sprung entfernt
+
+113
+00:06:21,220 --> 00:06:26,579
+Im Gegensatz zum Mars sind sie überladen mit Sonnenenergie und reich an Mineralien
+
+114
+00:06:26,580 --> 00:06:32,139
+Langfristig hält nichts die Menschheit davon ab, ein treibstofffreies
+
+115
+00:06:32,140 --> 00:06:35,879
+Transportnetzwerk für die Gesteinsplaneten zu errichten, was sich um die Mars-Monde dreht
+
+116
+00:06:35,880 --> 00:06:40,819
+Tether sind eine vergleichsweise günstige und nachhaltige Lösung um Weltraumreisen
+
+117
+00:06:40,820 --> 00:06:43,979
+erschwinglich und den Rest des Sonnensystems
+
+118
+00:06:43,980 --> 00:06:46,839
+für Nutzung und Erkundung zugänglich zu machen
+
+119
+00:06:46,840 --> 00:06:49,979
+Bedenkt man, dass wir schon heute die Technologien haben, um sie zu bauen
+
+120
+00:06:49,980 --> 00:06:53,539
+gibt es wirklich keine gute Ausrede noch länger damit zu warten
+
+121
+00:06:53,540 --> 00:07:00,059
+Teile des Sonnensystems sind weit entfernt, aber sie könnten so nah sein
+
+122
+00:07:00,060 --> 00:07:04,419
+Apropos Dinge die schwer zu erreichen sind, es aber nicht sein müssten:
+
+123
+00:07:04,420 --> 00:07:05,599
+Wissen
+
+124
+00:07:05,600 --> 00:07:08,764
+Unsere Freunde von Brilliant können euch in ein Universum
+
+125
+00:07:08,765 --> 00:07:12,644
+voller explosiven Ideen und spaßigen Kursen schleudern
+
+126
+00:07:12,645 --> 00:07:15,654
+Brilliant ist eine Webseite, die dir hilft Naturwissenschaft in einer angewendeten Weise zu verstehen,
+
+127
+00:07:15,655 --> 00:07:18,214
+mit interaktiven Problem-Lösungs Kursen und
+
+128
+00:07:18,215 --> 00:07:21,614
+täglichen Aufgaben in Mathe, Logik und Technik
+
+129
+00:07:21,615 --> 00:07:24,159
+Jede Aufgabe gibt dir alle nötigen Werkzeuge,
+
+130
+00:07:24,160 --> 00:07:26,199
+um dir komplexe Themen selbst zu erschließen
+
+131
+00:07:26,200 --> 00:07:29,674
+Es ist learning-by-doing, aber im Kopf anstatt mit deinen Händen
+
+132
+00:07:29,675 --> 00:07:31,934
+Benutze deine Neugier, um Rätseln und Kursen auf den Grund zu kommen, zum Beispiel
+
+133
+00:07:31,935 --> 00:07:38,739
+über klassische Mechanik, Astronomie, Gravitionsphysik und so viel mehr
+
+134
+00:07:38,740 --> 00:07:41,979
+Wenn du den Link in der Beschreibung klickst oder zu brilliant.org/nutshell gehst,
+
+135
+00:07:41,980 --> 00:07:44,204
+kannst du dich gratis anmelden
+
+136
+00:07:44,205 --> 00:07:47,224
+und mehr lernen, als du dir vorstellen kannst und es gibt einen extra Bonus für
+
+137
+00:07:47,225 --> 00:07:49,784
+kurzgesagt Zuschauer
+
+138
+00:07:49,785 --> 00:07:51,959
+die ersten 688 Personen die den Link benutzen
+
+139
+00:07:51,960 --> 00:07:58,999
+erhalten 20% Rabatt auf ihr jährliches Abo, das dir alle täglich Aufgaben im Archiv zugänglich macht und jeden Kurs freischaltet
+
+140
+00:07:59,000 --> 00:08:02,299
+Brilliant hilft dir deinen Tag ein wenig schlauer zu beenden
+
+141
+00:08:02,300 --> 00:08:05,399
+Die Erfahrung könnte dir sehr gefallen.
+
+142
+00:08:05,400 --> 00:08:14,460
+(Outro Musik)
+

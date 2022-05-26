@@ -1,0 +1,672 @@
+1
+00:00:01,100 --> 00:00:03,139
+Aller dans l'espace est difficile.
+
+2
+00:00:03,140 --> 00:00:05,619
+En ce moment, c'est comme monter une montagne
+
+3
+00:00:05,620 --> 00:00:09,019
+sur un monocycle, avec un sac à dos plein d'explosifs :
+
+4
+00:00:09,020 --> 00:00:11,899
+incroyablement lent, vous ne pouvez pas transporter beaucoup de choses,
+
+5
+00:00:11,900 --> 00:00:13,679
+et vous pourriez mourir.
+
+6
+00:00:13,680 --> 00:00:18,099
+Une fusée doit atteindre une vitesse d'environ 40 000 km/h
+
+7
+00:00:18,100 --> 00:00:19,699
+pour s'échapper de la Terre.
+
+8
+00:00:19,700 --> 00:00:22,979
+Pour atteindre cette vitesse, les fusées sont principalement des conteneurs
+
+9
+00:00:22,980 --> 00:00:25,979
+de carburant avec une petite pointe de charge utile.
+
+10
+00:00:25,980 --> 00:00:28,379
+C'est mauvais si vous voulez aller sur d'autres planètes
+
+11
+00:00:28,380 --> 00:00:32,019
+car vous avez besoin de beaucoup de choses lourdes si vous voulez survivre
+
+12
+00:00:32,020 --> 00:00:34,139
+et peut-être même revenir.
+
+13
+00:00:34,140 --> 00:00:37,239
+Existe-t-il un moyen d'aller dans l'espace avec moins de carburant
+
+14
+00:00:37,240 --> 00:00:39,999
+et plus de charge utile ?
+
+15
+00:00:40,000 --> 00:00:48,739
+[Musique d'introduction]
+
+16
+00:00:48,740 --> 00:00:52,319
+Une bonne chose qui a résolu la plupart de nos problèmes de transport sur Terre
+
+17
+00:00:52,320 --> 00:00:54,459
+est ce que vous appelez l'infrastructure.
+
+18
+00:00:54,460 --> 00:00:58,459
+Qu'il s'agisse de routes pour les voitures, de ports pour les navires ou de rails pour les trains,
+
+19
+00:00:58,460 --> 00:01:01,499
+nous avons facilité l'accès aux lieux.
+
+20
+00:01:01,500 --> 00:01:04,579
+Nous pouvons appliquer la même solution aux voyages spatiaux.
+
+21
+00:01:04,580 --> 00:01:07,379
+L'infrastructure spatiale rendra la mise en orbite
+
+22
+00:01:07,380 --> 00:01:12,299
+et la sortie vers la Lune, Mars et au-delà plus faciles et moins chères.
+
+23
+00:01:12,300 --> 00:01:15,999
+Très bien, mais qu'est-ce que l'infrastructure spatiale exactement ?
+
+24
+00:01:16,000 --> 00:01:17,759
+Contrairement à un ascenseur Terre-espace,
+
+25
+00:01:17,760 --> 00:01:19,679
+qui relève actuellement de la science-fiction,
+
+26
+00:01:19,680 --> 00:01:22,699
+il existe une technologie simple mais prometteuse
+
+27
+00:01:22,700 --> 00:01:25,999
+qui ne nécessite pas de nouvelle science, de matériaux magiques
+
+28
+00:01:26,000 --> 00:01:27,559
+ou d'énormes investissements,
+
+29
+00:01:27,560 --> 00:01:31,059
+et qui a déjà été testée avec succès en orbite :
+
+30
+00:01:31,060 --> 00:01:32,919
+un câble et un poids,
+
+31
+00:01:32,920 --> 00:01:34,639
+savoir comme une attache.
+
+32
+00:01:34,640 --> 00:01:38,039
+Le concept est si simple, c'est surprenant.
+
+33
+00:01:38,040 --> 00:01:39,559
+Et si nous mettions des attaches de
+
+34
+00:01:39,560 --> 00:01:42,679
+centaines ou de milliers de kilomètres de long dans l'espace,
+
+35
+00:01:42,680 --> 00:01:44,799
+et que les engins spatiaux les utilisaient comme échelles
+
+36
+00:01:44,800 --> 00:01:48,779
+pour grimper à des altitudes plus élevées et gagner en vitesse ?
+
+37
+00:01:48,780 --> 00:01:51,619
+Ce concept est connu sous le nom de Skyhook.
+
+38
+00:01:51,620 --> 00:01:54,179
+Cela fonctionne encore mieux si nous le faisons tourner.
+
+39
+00:01:54,180 --> 00:01:56,419
+Un contrepoids maintient un long câble en place
+
+40
+00:01:56,420 --> 00:01:58,299
+pendant qu'il tourne autour d'un cercle.
+
+41
+00:01:58,300 --> 00:02:02,399
+Une attache rotative ralentit sa pointe par rapport au sol en bas
+
+42
+00:02:02,400 --> 00:02:05,419
+et l'accélère en haut comme une catapulte.
+
+43
+00:02:05,420 --> 00:02:08,059
+Cela signifie que vous pouvez transférer de l'énergie à partir de l'attache
+
+44
+00:02:08,060 --> 00:02:11,639
+et obtenir un coup de pouce massif lorsqu'il est relâché, plus ou moins gratuitement,
+
+45
+00:02:11,640 --> 00:02:14,419
+égal à deux fois la vitesse de rotation de l'attache.
+
+46
+00:02:14,420 --> 00:02:17,659
+Il existe déjà des fibres spécialisées qui peuvent survivre
+
+47
+00:02:17,660 --> 00:02:21,099
+aux contraintes extraordinaires auxquelles un Skyhook serait confronté.
+
+48
+00:02:21,100 --> 00:02:24,739
+Pour se protéger contre les coupures et les collisions causées par les débris et les météorites,
+
+49
+00:02:24,740 --> 00:02:28,399
+nous pouvons enfiler notre attache dans un réseau de fibres redondantes.
+
+50
+00:02:28,400 --> 00:02:32,099
+Étant donné que notre Skyhook passerait au même endroit plusieurs fois par jour,
+
+51
+00:02:32,100 --> 00:02:35,639
+cela permettrait à de petites navettes réutilisables de le rattraper.
+
+52
+00:02:35,640 --> 00:02:38,139
+Bien sûr, ce n'est pas si facile.
+
+53
+00:02:38,140 --> 00:02:39,219
+À son point le plus bas,
+
+54
+00:02:39,220 --> 00:02:41,479
+la pointe de la longe traverse l'atmosphère
+
+55
+00:02:41,480 --> 00:02:43,779
+à environ 12 000 kilomètres à l'heure.
+
+56
+00:02:43,780 --> 00:02:47,179
+En raison de l'atmosphère terrestre, nous ne pouvons pas trop abaisser le Skyhook,
+
+57
+00:02:47,180 --> 00:02:49,719
+sinon il deviendra trop chaud à cause du frottement de l'air.
+
+58
+00:02:49,720 --> 00:02:53,179
+Il plongera donc à une hauteur de 80 à 150 km
+
+59
+00:02:53,180 --> 00:02:54,459
+et pas plus bas.
+
+60
+00:02:54,460 --> 00:02:58,919
+Pour correspondre à cela, nous aurons besoin d'engins spatiaux spécialisés qui peuvent atteindre l'attache.
+
+61
+00:02:58,920 --> 00:03:00,979
+Bien que ce ne soit pas exactement facile,
+
+62
+00:03:00,980 --> 00:03:03,664
+c'est toujours beaucoup moins cher que d'obtenir une grande boîte de conserve
+
+63
+00:03:03,665 --> 00:03:07,504
+remplie de carburant pour fusée pour aller à 40 000 km/h.
+
+64
+00:03:07,505 --> 00:03:09,999
+Attraper le pourboire sera également un défi.
+
+65
+00:03:10,000 --> 00:03:13,299
+Il n'y a qu'une courte fenêtre de temps de 60 à 90 secondes
+
+66
+00:03:13,300 --> 00:03:15,179
+pour trouver une minuscule chose dans le ciel se
+
+67
+00:03:15,180 --> 00:03:17,159
+déplaçant à mach 12.
+
+68
+00:03:17,160 --> 00:03:20,559
+Pour faciliter cela, la pointe pourrait avoir une sorte de ligne de pêche d'
+
+69
+00:03:20,560 --> 00:03:25,599
+un kilomètre de long avec un drone de navigation qui aide le vaisseau spatial à  relier.
+
+70
+00:03:25,600 --> 00:03:28,499
+Un autre défi consiste à maintenir notre Skyhook en orbite.
+
+71
+00:03:28,500 --> 00:03:31,414
+Au fur et à mesure que de plus en plus de navires s'y accrochent et se hissent,
+
+72
+00:03:31,415 --> 00:03:34,359
+ils utilisent l'élan qui le maintient en place.
+
+73
+00:03:34,360 --> 00:03:35,939
+Si nous ne faisons rien,
+
+74
+00:03:35,940 --> 00:03:39,619
+il ralentira et s'écrasera dans l'atmosphère.
+
+75
+00:03:39,620 --> 00:03:42,819
+Et là, on peut tromper un peu l'univers.
+
+76
+00:03:42,820 --> 00:03:45,879
+Le Skyhook est une batterie d'énergie orbitale.
+
+77
+00:03:45,880 --> 00:03:50,239
+Il est possible d'équilibrer les charges utiles entrantes et sortantes.
+
+78
+00:03:50,240 --> 00:03:53,799
+L'arrivée de navires ramenant des humains et des matériaux sur Terre
+
+79
+00:03:53,800 --> 00:03:55,219
+ajoute de l'énergie à l'
+
+80
+00:03:55,220 --> 00:03:58,359
+attache qu'il peut donner à d'autres navires partant dans l'espace.
+
+81
+00:03:58,360 --> 00:04:00,979
+De cette façon, l'attache ne perd aucune énergie.
+
+82
+00:04:00,980 --> 00:04:04,179
+Plus on l'utilise, moins c'est cher.
+
+83
+00:04:04,180 --> 00:04:06,579
+Si nous perdons encore de l'énergie à chaque boost,
+
+84
+00:04:06,580 --> 00:04:09,419
+nous pouvons la récupérer grâce à de petits moteurs électriques ou chimiques
+
+85
+00:04:09,420 --> 00:04:11,919
+qui corrigent régulièrement la position de l'attache.
+
+86
+00:04:11,920 --> 00:04:14,999
+Un ensemble d'attaches, une autour de la Terre et une autour de Mars,
+
+87
+00:04:15,000 --> 00:04:17,759
+pourrait rendre les voyages entre les planètes rapides, simples
+
+88
+00:04:17,760 --> 00:04:20,639
+et peu coûteux par rapport aux fusées.
+
+89
+00:04:20,640 --> 00:04:24,219
+L'attache terrestre serait placée en orbite terrestre basse pour saisir les personnes et les charges utiles
+
+90
+00:04:24,220 --> 00:04:25,859
+et les envoyer sur Mars.
+
+91
+00:04:25,860 --> 00:04:27,599
+L'attache de Mars les rattrape
+
+92
+00:04:27,600 --> 00:04:30,679
+et les ralentit pour un atterrissage en surface.
+
+93
+00:04:30,680 --> 00:04:32,079
+Dans la direction opposée,
+
+94
+00:04:32,080 --> 00:04:35,379
+la longe pourrait ramasser un véhicule voyageant à travers l'atmosphère mince de Mars
+
+95
+00:04:35,380 --> 00:04:37,959
+à seulement environ 1 000 km/h,
+
+96
+00:04:37,960 --> 00:04:40,319
+pas beaucoup plus vite que nos avions de ligne sur Terre,
+
+97
+00:04:40,320 --> 00:04:44,179
+et le renvoyer sur Terre pour être attrapé et descendu.
+
+98
+00:04:44,180 --> 00:04:47,679
+Les attaches pourraient raccourcir les trajets entre les deux planètes de 9
+
+99
+00:04:47,680 --> 00:04:49,539
+mois à 5 ou même 3,
+
+100
+00:04:49,540 --> 00:04:51,639
+et réduire l'échelle des fusées nécessaires
+
+101
+00:04:51,640 --> 00:04:55,279
+de 84 à 96 %.
+
+102
+00:04:55,280 --> 00:04:58,939
+Mieux encore, les gens peuvent voyager dans un luxe relatif,
+
+103
+00:04:58,940 --> 00:05:01,979
+car nous pouvons nous permettre d'investir dans le confort des passagers.
+
+104
+00:05:01,980 --> 00:05:05,559
+Les voyages en attache seraient des sièges de première classe vers Mars.
+
+105
+00:05:05,560 --> 00:05:07,699
+Ensemble, les attaches autour de la Terre et de Mars
+
+106
+00:05:07,700 --> 00:05:10,899
+pourraient fournir l'épine dorsale de transport rapide et rentable
+
+107
+00:05:10,900 --> 00:05:13,679
+qui rendrait les voyages spatiaux abordables.
+
+108
+00:05:13,680 --> 00:05:15,239
+Mais allons plus loin.
+
+109
+00:05:15,240 --> 00:05:17,159
+À partir de l'orbite basse de Mars,
+
+110
+00:05:17,160 --> 00:05:19,999
+une attache pourrait propulser les navires vers la ceinture d'astéroïdes.
+
+111
+00:05:20,000 --> 00:05:23,359
+Le premier engin envoyé vers un nouvel astéroïde aurait besoin de fusées pour ralentir
+
+112
+00:05:23,360 --> 00:05:24,919
+à destination.
+
+113
+00:05:24,920 --> 00:05:27,859
+Les arrivées suivantes pourraient trouver une attache en attente pour les attraper
+
+114
+00:05:27,860 --> 00:05:29,939
+et les renvoyer gratuitement.
+
+115
+00:05:29,940 --> 00:05:31,859
+Se rendre sur les astéroïdes à moindre coût
+
+116
+00:05:31,860 --> 00:05:35,779
+est un facteur majeur d'ouverture des ressources du système solaire.
+
+117
+00:05:35,780 --> 00:05:37,859
+Des métaux précieux et des minéraux précieux
+
+118
+00:05:37,860 --> 00:05:42,099
+pourraient être livrés sur Mars quelques semaines seulement après avoir été extraits de leur astéroïde.
+
+119
+00:05:42,100 --> 00:05:43,939
+Ils seraient les blocs de construction parfaits
+
+120
+00:05:43,940 --> 00:05:46,819
+pour notre civilisation interplanétaire.
+
+121
+00:05:46,820 --> 00:05:48,379
+Mais pourquoi s'arrêter là ?
+
+122
+00:05:48,380 --> 00:05:50,779
+Les lunes de Mars sont très pratiques.
+
+123
+00:05:50,780 --> 00:05:54,839
+Aucune autre lune du système solaire n'orbite aussi près de leur planète.
+
+124
+00:05:54,840 --> 00:05:58,699
+Phobos est si lourd que nous n'avons pas à nous soucier de le ralentir,
+
+125
+00:05:58,700 --> 00:06:00,759
+ce qui en fait le point d'attache idéal
+
+126
+00:06:00,760 --> 00:06:04,499
+pour les super longes d'un peu moins de 6 000 km.
+
+127
+00:06:04,500 --> 00:06:07,359
+La pointe inférieure volerait juste au-dessus de la surface de Mars
+
+128
+00:06:07,360 --> 00:06:09,219
+et serait très facile à attraper.
+
+129
+00:06:09,220 --> 00:06:13,379
+La pointe supérieure peut lancer des navires jusqu'à Jupiter et Saturne.
+
+130
+00:06:13,380 --> 00:06:14,799
+La même super-attache
+
+131
+00:06:14,800 --> 00:06:18,099
+peut également rapprocher le système solaire interne.
+
+132
+00:06:18,100 --> 00:06:21,219
+Vénus et Mercure sont à portée de main.
+
+133
+00:06:21,220 --> 00:06:24,339
+Contrairement à Mars, ils regorgent d'énergie solaire
+
+134
+00:06:24,340 --> 00:06:26,699
+et sont riches en minéraux.
+
+135
+00:06:26,700 --> 00:06:29,519
+A long terme, rien n'empêche l'humanité de
+
+136
+00:06:29,520 --> 00:06:32,479
+construire un réseau de transport sans propulseur
+
+137
+00:06:32,480 --> 00:06:35,879
+pour les planètes telluriques centrées sur les lunes martiennes.
+
+138
+00:06:35,880 --> 00:06:37,859
+Les attaches sont une solution relativement bon marché
+
+139
+00:06:37,860 --> 00:06:41,699
+et durable pour rendre les voyages spatiaux abordables
+
+140
+00:06:41,700 --> 00:06:44,119
+et le reste du système solaire accessible
+
+141
+00:06:44,120 --> 00:06:46,839
+pour l'exploitation et l'exploration.
+
+142
+00:06:46,840 --> 00:06:49,979
+Considérant que nous avons la technologie pour les construire aujourd'hui,
+
+143
+00:06:49,980 --> 00:06:53,539
+il n'y a vraiment aucune bonne excuse pour attendre plus longtemps.
+
+144
+00:06:53,540 --> 00:06:56,279
+Certaines parties du système solaire sont éloignées,
+
+145
+00:06:56,280 --> 00:07:00,059
+mais elles pourraient être très proches.
+
+146
+00:07:00,060 --> 00:07:02,559
+En parlant de choses difficiles à atteindre
+
+147
+00:07:02,560 --> 00:07:04,279
+mais qui n'ont pas à l'être : la
+
+148
+00:07:04,280 --> 00:07:05,659
+connaissance.
+
+149
+00:07:05,660 --> 00:07:12,639
+Nos amis de Brilliant peuvent vous connecter à un univers plein d'idées explosives et de cours amusants.
+
+150
+00:07:12,640 --> 00:07:16,119
+Brilliant est un site Web qui vous aide à aborder la science de manière pratique
+
+151
+00:07:16,120 --> 00:07:18,219
+avec des cours interactifs de résolution de problèmes
+
+152
+00:07:18,220 --> 00:07:21,859
+et des problèmes quotidiens en mathématiques, logique et ingénierie.
+
+153
+00:07:21,860 --> 00:07:26,159
+Chaque problème vous donne tous les outils dont vous avez besoin pour résoudre vous-même des sujets complexes.
+
+154
+00:07:26,160 --> 00:07:29,679
+C'est apprendre en faisant, mais avec votre cerveau au lieu de vos mains.
+
+155
+00:07:29,680 --> 00:07:33,119
+Utilisez votre curiosité pour aller au fond des énigmes et des cours
+
+156
+00:07:33,120 --> 00:07:35,104
+sur des sujets tels que la mécanique classique, l'
+
+157
+00:07:35,105 --> 00:07:38,739
+astronomie, la physique gravitationnelle et bien plus encore.
+
+158
+00:07:38,740 --> 00:07:42,679
+Si vous cliquez sur le lien dans la description ou visitez brillant.org/nutshell,
+
+159
+00:07:42,680 --> 00:07:46,379
+vous pouvez vous inscrire gratuitement et apprendre plus de choses que vous ne pouvez l'imaginer.
+
+160
+00:07:46,380 --> 00:07:49,139
+Et il y a une partie supplémentaire pour les téléspectateurs de Kurzgesagt :
+
+161
+00:07:49,140 --> 00:07:51,799
+les 688 premières personnes à utiliser le lien
+
+162
+00:07:51,800 --> 00:07:54,439
+bénéficient de 20 % de réduction sur leur abonnement annuel,
+
+163
+00:07:54,440 --> 00:07:57,079
+ce qui vous permet de visualiser tous les problèmes quotidiens dans les archives
+
+164
+00:07:57,080 --> 00:07:58,999
+et de déverrouiller chaque cours.
+
+165
+00:07:59,000 --> 00:08:02,499
+Brilliant vous aide à terminer votre journée un peu plus intelligemment.
+
+166
+00:08:02,500 --> 00:08:05,899
+Vous pourriez devenir "accro" à l'expérience.
+
+167
+00:08:05,900 --> 00:08:12,659
+[Musique Outro]
+
+168
+00:08:12,660 --> 00:08:14,000
+[Hurlements de chien]
+

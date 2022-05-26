@@ -1,0 +1,364 @@
+1
+00:00:00,020 --> 00:00:07,979
+Rien dans l'univers n'est statique.  Dans la Voie lactée, des milliards d'étoiles orbitent autour du centre galactique.
+
+2
+00:00:07,980 --> 00:00:12,099
+Certains, comme notre Soleil, sont assez constants, gardant une distance d'environ
+
+3
+00:00:12,100 --> 00:00:19,179
+30 000 années-lumière du centre galactique, complétant une orbite tous les 230 millions d'années.
+
+4
+00:00:19,180 --> 00:00:25,139
+Cette danse n'est pas un ballet ordonné, mais plutôt une patinoire remplie de tout-petits ivres.
+
+5
+00:00:25,140 --> 00:00:28,079
+Ce chaos rend la galaxie dangereuse.
+
+6
+00:00:28,080 --> 00:00:34,779
+Notre voisinage solaire est en constante évolution, les étoiles parcourant des centaines de kilomètres chaque seconde.
+
+7
+00:00:34,780 --> 00:00:40,419
+Seules les grandes distances entre les objets nous protègent des dangers.
+
+8
+00:00:40,420 --> 00:00:44,639
+Mais nous pourrions avoir de la malchance à l'avenir.  À un moment donné,
+
+9
+00:00:44,640 --> 00:00:52,119
+nous pourrions rencontrer une étoile devenant une supernova ou un objet massif passant par là et inondant la Terre d'astéroïdes.
+
+10
+00:00:52,120 --> 00:00:58,919
+Si quelque chose comme ça devait arriver, nous le saurions probablement des milliers, voire des millions d'années à l'avance.
+
+11
+00:00:58,920 --> 00:01:01,999
+Mais nous ne pouvions toujours pas y faire grand-chose.
+
+12
+00:01:02,000 --> 00:01:03,259
+À moins que
+
+13
+00:01:03,260 --> 00:01:08,699
+nous ne déplacions tout notre système solaire.
+
+14
+00:01:08,700 --> 00:01:16,659
+[Musique d'intro Snazzy Kurzgesagt]
+
+15
+00:01:16,660 --> 00:01:18,359
+Pour déplacer le système solaire,
+
+16
+00:01:18,360 --> 00:01:25,319
+nous avons besoin d'un moteur stellaire, une mégastructure utilisée pour diriger une étoile à travers la galaxie.  C'est le genre de chose
+
+17
+00:01:25,320 --> 00:01:29,859
+qui pourrait être construite par une civilisation avancée avec la technologie Dyson au niveau de la sphère
+
+18
+00:01:29,860 --> 00:01:33,899
+qui pense à son avenir des millions d'années à l'avance.
+
+19
+00:01:33,900 --> 00:01:39,479
+Mais comment déplacer les centaines de milliers d'objets du système solaire ?
+
+20
+00:01:39,480 --> 00:01:42,359
+La bonne nouvelle est que nous pouvons ignorer tout cela.
+
+21
+00:01:42,360 --> 00:01:50,919
+Nous n'avons qu'à déplacer le Soleil;  toutes les autres choses lui sont collées par gravité et le suivront partout où il décidera d'aller.
+
+22
+00:01:50,920 --> 00:01:55,809
+Il existe de nombreuses idées sur ce à quoi pourrait ressembler un moteur stellaire et sur son fonctionnement.
+
+23
+00:01:55,810 --> 00:02:01,329
+Nous en avons choisi deux, fondés sur notre compréhension actuelle de la physique, qui pourraient être construits en théorie.
+
+24
+00:02:01,330 --> 00:02:07,059
+Le type de moteur stellaire le plus simple est le propulseur Shkadov, un miroir géant.
+
+25
+00:02:07,060 --> 00:02:10,269
+Il fonctionne sur le même principe qu'une fusée.
+
+26
+00:02:10,270 --> 00:02:17,529
+Comme le carburant des fusées, les photons libérés par le rayonnement solaire portent de l'élan, pas beaucoup mais un peu.
+
+27
+00:02:17,530 --> 00:02:25,029
+Par exemple, si un astronaute allumait une lampe de poche dans l'espace, cela le ferait reculer très très lentement.
+
+28
+00:02:25,030 --> 00:02:31,569
+Un moteur stellaire fonctionnera un peu mieux qu'une lampe torche car le Soleil produit beaucoup de photons.
+
+29
+00:02:31,570 --> 00:02:36,399
+L'idée de base du propulseur Shkadov est de réfléchir jusqu'à la moitié du rayonnement solaire
+
+30
+00:02:36,400 --> 00:02:41,048
+pour créer une poussée et de pousser lentement le Soleil là où nous voulons qu'il aille.
+
+31
+00:02:41,049 --> 00:02:47,798
+Pour que le propulseur Shkadov fonctionne, il doit être maintenu au même endroit, et non en orbite autour du Soleil.
+
+32
+00:02:47,799 --> 00:02:55,029
+Bien que la gravité du Soleil essaie de l'attirer, il serait soutenu par la pression de rayonnement qui soutient le miroir.
+
+33
+00:02:55,030 --> 00:03:03,279
+Cela signifie que le miroir devrait être très léger, constitué d'une feuille réfléchissante d'une épaisseur d'un micron à partir de matériaux comme les alliages d'aluminium.
+
+34
+00:03:03,280 --> 00:03:06,219
+La forme du miroir est également importante,
+
+35
+00:03:06,220 --> 00:03:12,199
+envelopper le Soleil dans une coquille sphérique géante ne fonctionnerait pas car cela recentrerait la lumière vers le Soleil, le
+
+36
+00:03:12,200 --> 00:03:15,939
+réchauffant et créant toutes sortes de problèmes désagréables.
+
+37
+00:03:15,940 --> 00:03:23,769
+Au lieu de cela, nous utilisons une parabole, qui envoie la plupart des photons autour du Soleil et dans la même direction, ce qui maximise la poussée.
+
+38
+00:03:23,770 --> 00:03:28,779
+Pour éviter de brûler ou de geler accidentellement la Terre avec trop ou trop peu de lumière solaire,
+
+39
+00:03:28,780 --> 00:03:33,539
+le seul endroit sûr pour construire un propulseur Shkadov est au-dessus des pôles du Soleil.
+
+40
+00:03:33,540 --> 00:03:39,779
+Cela signifie que nous ne pouvons déplacer le Soleil que verticalement dans le plan du système solaire et dans une direction dans la Voie lactée,
+
+41
+00:03:39,780 --> 00:03:42,539
+ce qui limite nos options de voyage.
+
+42
+00:03:42,540 --> 00:03:45,119
+Mais c'est fondamentalement ça.
+
+43
+00:03:45,120 --> 00:03:51,879
+Pour une civilisation capable de construire une Dyson Sphere, il s'agit d'une entreprise relativement simple.
+
+44
+00:03:51,880 --> 00:03:56,019
+Pas compliqué, juste très difficile à construire.
+
+45
+00:03:56,020 --> 00:04:04,379
+À plein régime, le système solaire pourrait probablement être déplacé d'une centaine d'années-lumière sur 230 millions d'années.
+
+46
+00:04:04,380 --> 00:04:10,199
+Sur quelques milliards d'années, il nous donne un contrôle quasi complet sur l'orbite du soleil dans la galaxie.
+
+47
+00:04:10,200 --> 00:04:18,539
+Mais à court terme, cela pourrait ne pas être assez rapide pour esquiver une supernova mortelle.  C'est pourquoi nous pensions que nous pouvions faire mieux.
+
+48
+00:04:18,540 --> 00:04:25,259
+Nous avons donc demandé à notre ami astrophysicien s'il pouvait concevoir un moteur stellaire plus rapide pour cette vidéo.
+
+49
+00:04:25,260 --> 00:04:30,599
+Il l'a fait et a écrit un article à ce sujet qui a été publié dans une revue à comité de lecture.
+
+50
+00:04:30,600 --> 00:04:34,539
+Vous pouvez le trouver dans notre document sources.
+
+51
+00:04:34,540 --> 00:04:38,979
+Nous allons appeler à notre nouveau moteur stellaire le propulseur Caplan.
+
+52
+00:04:38,980 --> 00:04:45,069
+Cela fonctionne un peu comme une fusée traditionnelle : tirez sur l'échappement dans un sens pour vous pousser dans l'autre.
+
+53
+00:04:45,070 --> 00:04:52,179
+Il s'agit d'une grande plate-forme de station spatiale alimentée par une sphère Dyson qui rassemble la matière du Soleil pour alimenter la fusion nucléaire.
+
+54
+00:04:52,180 --> 00:04:59,739
+Il projette un jet très rapide de particules à près de 1% de la vitesse de la lumière hors du système solaire.
+
+55
+00:04:59,740 --> 00:05:03,309
+Un second jet pousse le Soleil comme un remorqueur.
+
+56
+00:05:03,310 --> 00:05:08,499
+Le propulseur Caplan nécessite beaucoup de carburant, des millions de tonnes par seconde.
+
+57
+00:05:08,500 --> 00:05:11,979
+Pour recueillir ce carburant, notre propulseur utilise de très grands
+
+58
+00:05:11,980 --> 00:05:19,119
+champs électromagnétiques pour canaliser l'hydrogène et l'hélium du vent solaire dans le moteur.
+
+59
+00:05:19,120 --> 00:05:25,359
+Le vent solaire à lui seul ne fournit cependant pas assez de carburant, et c'est là qu'intervient la sphère Dyson.
+
+60
+00:05:25,360 --> 00:05:29,799
+En utilisant sa puissance, la lumière du soleil peut être recentrée sur la surface du Soleil.
+
+61
+00:05:29,800 --> 00:05:35,979
+Cela chauffe de petites régions à des températures extrêmes, soulevant des milliards de tonnes de masse du Soleil.
+
+62
+00:05:35,980 --> 00:05:42,069
+Cette masse peut être collectée et séparée en hydrogène et hélium.
+
+63
+00:05:42,070 --> 00:05:47,259
+L'hélium est brûlé de manière explosive dans des réacteurs de fusion thermonucléaire.
+
+64
+00:05:47,260 --> 00:05:48,159
+Un jet d'
+
+65
+00:05:48,160 --> 00:05:56,319
+oxygène radioactif à une température de près d'un milliard de degrés est expulsé et devient notre principale source de propulsion depuis notre moteur stellaire.
+
+66
+00:05:56,320 --> 00:06:01,809
+Pour éviter que le moteur ne s'écrase sur le Soleil, il doit s'équilibrer.
+
+67
+00:06:01,810 --> 00:06:02,679
+Pour ce faire,
+
+68
+00:06:02,680 --> 00:06:10,959
+nous accélérons l'hydrogène collecté avec des champs électromagnétiques à l'aide d'accélérateurs de particules et renvoyons un jet vers le Soleil.
+
+69
+00:06:10,960 --> 00:06:16,899
+Cela équilibre le propulseur et transfère la poussée de notre moteur vers le Soleil.
+
+70
+00:06:16,900 --> 00:06:25,329
+En aussi peu qu'un million d'années, ce moteur peut déplacer le Soleil de 50 années-lumière, plus que suffisant pour esquiver une supernova.
+
+71
+00:06:25,330 --> 00:06:32,589
+À plein régime, le système solaire peut être complètement redirigé sur son orbite galactique dans 10 millions d'années.
+
+72
+00:06:32,590 --> 00:06:36,459
+Mais attendez, allons-nous utiliser le Soleil de cette façon ?
+
+73
+00:06:36,460 --> 00:06:43,059
+Heureusement, le Soleil est si massif que même des milliards de tonnes de matière rayeront à peine la surface.
+
+74
+00:06:43,060 --> 00:06:48,859
+En fait, cette mégastructure prolongera en fait la durée de vie de notre Soleil, car les étoiles de masse inférieure
+
+75
+00:06:48,860 --> 00:06:54,919
+brûlent plus lentement, gardant le système solaire habitable pendant encore plusieurs milliards d'années.
+
+76
+00:06:54,920 --> 00:07:00,439
+Avec un propulseur Caplan, nous pourrions transformer tout le système solaire en notre vaisseau spatial.
+
+77
+00:07:00,440 --> 00:07:04,039
+Par exemple, en faisant une orbite vers l'arrière dans la galaxie et en
+
+78
+00:07:04,040 --> 00:07:08,359
+colonisant des centaines ou des milliers d'étoiles au passage.
+
+79
+00:07:08,360 --> 00:07:15,019
+Il peut même être possible de s'échapper complètement de la galaxie et de s'étendre au-delà de la Voie lactée.
+
+80
+00:07:15,020 --> 00:07:22,999
+Les moteurs stellaires sont le genre de machines construites par les civilisations qui ne pensent pas en termes d'années ou de décennies, mais d'éons.
+
+81
+00:07:23,000 --> 00:07:30,299
+Puisque nous savons que notre Soleil mourra un jour, un moteur stellaire pourrait permettre aux lointains futurs descendants des humains de voyager vers d'autres étoiles
+
+82
+00:07:30,300 --> 00:07:38,079
+sans jamais avoir à s'aventurer dans les terrifiants abysses obscurs de l'espace interstellaire.
+
+83
+00:07:38,080 --> 00:07:44,209
+Jusqu'à ce que nous construisions un moteur stellaire, nous sommes à la dérive et soumis aux caprices de la mer Galactique.
+
+84
+00:07:44,210 --> 00:07:47,059
+Nous n'aimons peut-être pas où cela nous mène.
+
+85
+00:07:47,060 --> 00:07:55,819
+Peut-être que nos descendants mettront les voiles et deviendront une espèce interstellaire pour des millions d'années à venir.
+
+86
+00:07:55,820 --> 00:08:02,979
+C'était notre dernière vidéo pour l'année 12 019 de l'ère humaine, et quelle année ce fut.
+
+87
+00:08:02,980 --> 00:08:07,668
+Tant de choses se sont produites partout, à tant de personnes différentes.
+
+88
+00:08:07,669 --> 00:08:15,559
+Les calendriers et les jours fériés ne sont qu'imaginaires, mais ils nous aident à découper nos vies en morceaux que notre cerveau peut gérer.
+
+89
+00:08:15,560 --> 00:08:22,579
+Nous laissons 12 019 derrière nous avec un étrange mélange de désillusion et d'espoir.  Le monde est foutu,
+
+90
+00:08:22,580 --> 00:08:29,959
+mais nous pouvons le réparer.  Dans quelques jours, cette année sera terminée, et nous pourrons réessayer.
+
+91
+00:08:29,960 --> 00:08:37,180
+Merci d'avoir regardé nos vidéos et d'être restés dans les parages pendant tant d'années.  Rendez-vous à tous en 12 020.
+

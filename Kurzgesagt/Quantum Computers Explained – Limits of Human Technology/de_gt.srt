@@ -1,0 +1,442 @@
+1
+00:00:00,000 --> 00:00:00,499
+Quantencomputer erklärt – Grenzen menschlicher
+
+2
+00:00:00,500 --> 00:00:06,119
+Technologie Während des größten Teils unserer Geschichte bestand menschliche Technologie aus unserem Gehirn, Feuer und scharfen Stöcken.
+
+3
+00:00:06,120 --> 00:00:10,159
+Während Feuer und scharfe Stöcke zu Kraftwerken und Atomwaffen wurden,
+
+4
+00:00:10,160 --> 00:00:13,279
+hat unser Gehirn die größte Verbesserung erfahren.
+
+5
+00:00:13,280 --> 00:00:17,379
+Seit den 1960er Jahren ist die Leistung unserer Gehirnmaschinen exponentiell gewachsen,
+
+6
+00:00:17,380 --> 00:00:21,939
+was es Computern ermöglichte, gleichzeitig kleiner und leistungsfähiger zu werden.
+
+7
+00:00:21,940 --> 00:00:25,499
+Doch dieses Verfahren stößt an seine physikalischen Grenzen.
+
+8
+00:00:25,500 --> 00:00:28,859
+Computerteile nähern sich der Größe eines Atoms.
+
+9
+00:00:28,860 --> 00:00:33,179
+Um zu verstehen, warum dies ein Problem ist, müssen wir einige Grundlagen klären.
+
+10
+00:00:33,180 --> 00:00:39,719
+In a Nutshell - Von Kurzgesagt
+
+11
+00:00:39,720 --> 00:00:42,539
+Ein Computer besteht aus sehr einfachen Komponenten
+
+12
+00:00:42,540 --> 00:00:44,219
+, die sehr einfache Dinge tun.
+
+13
+00:00:44,220 --> 00:00:49,019
+Repräsentation von Daten, die Mittel zu ihrer Verarbeitung und Kontrollmechanismen.
+
+14
+00:00:49,020 --> 00:00:54,639
+Computerchips enthalten Module, die Logikgatter enthalten, die Transistoren enthalten.
+
+15
+00:00:54,640 --> 00:00:58,439
+Ein Transistor ist die einfachste Form eines Datenprozessors in Computern, im
+
+16
+00:00:58,440 --> 00:01:03,259
+Grunde ein Schalter, der den Weg für durchkommende Informationen entweder blockieren oder öffnen kann.
+
+17
+00:01:03,260 --> 00:01:06,339
+Diese Informationen bestehen aus Bits,
+
+18
+00:01:06,340 --> 00:01:08,499
+die entweder auf 0 oder 1 gesetzt werden können.
+
+19
+00:01:08,500 --> 00:01:12,999
+Kombinationen mehrerer Bits werden verwendet, um komplexere Informationen darzustellen.
+
+20
+00:01:13,000 --> 00:01:17,999
+Transistoren werden kombiniert, um Logikgatter zu erstellen, die immer noch sehr einfache Dinge tun.
+
+21
+00:01:18,000 --> 00:01:25,459
+Beispielsweise sendet ein UND-Gatter einen Ausgang von 1, wenn alle seine Eingänge 1 sind, und andernfalls einen Ausgang von 0.
+
+22
+00:01:25,460 --> 00:01:30,999
+Kombinationen von Logikgattern bilden schließlich sinnvolle Bausteine, etwa zum Addieren zweier Zahlen.
+
+23
+00:01:31,000 --> 00:01:33,759
+Sobald Sie addieren können, können Sie auch multiplizieren,
+
+24
+00:01:33,760 --> 00:01:37,159
+und sobald Sie multiplizieren können, können Sie im Grunde alles tun.
+
+25
+00:01:37,160 --> 00:01:41,039
+Da alle Grundoperationen buchstäblich einfacher sind als Mathematik der ersten Klasse,
+
+26
+00:01:41,040 --> 00:01:46,079
+können Sie sich einen Computer als eine Gruppe von 7-Jährigen vorstellen, die wirklich grundlegende mathematische Fragen beantworten.
+
+27
+00:01:46,080 --> 00:01:48,679
+Ein ausreichend großer Haufen von ihnen könnte alles
+
+28
+00:01:48,680 --> 00:01:51,339
+von Astrophysik bis Zelda berechnen.
+
+29
+00:01:51,340 --> 00:01:53,739
+Da die Teile jedoch immer kleiner werden,
+
+30
+00:01:53,740 --> 00:01:56,539
+macht die Quantenphysik die Dinge schwierig.
+
+31
+00:01:56,540 --> 00:01:59,979
+Kurz gesagt, ein Transistor ist nur ein elektrischer Schalter.
+
+32
+00:01:59,980 --> 00:02:03,159
+Strom sind Elektronen, die sich von einem Ort zum anderen bewegen.
+
+33
+00:02:03,160 --> 00:02:08,359
+Ein Schalter ist also ein Durchgang, der Elektronen daran hindern kann, sich in eine Richtung zu bewegen.
+
+34
+00:02:08,360 --> 00:02:12,219
+Heutzutage beträgt eine typische Größe für Transistoren 14 Nanometer,
+
+35
+00:02:12,220 --> 00:02:15,519
+was etwa 8-mal kleiner ist als der Durchmesser des HIV-Virus
+
+36
+00:02:15,520 --> 00:02:18,399
+und 500-mal kleiner als ein rotes Blutkörperchen.
+
+37
+00:02:18,400 --> 00:02:22,319
+Da Transistoren auf die Größe von nur wenigen Atomen schrumpfen, können sich
+
+38
+00:02:22,320 --> 00:02:25,919
+Elektronen über einen Prozess namens Quantentunneln einfach selbst auf die andere Seite eines blockierten Durchgangs
+
+39
+00:02:25,920 --> 00:02:28,499
+übertragen.
+
+40
+00:02:28,500 --> 00:02:33,259
+Im Quantenbereich funktioniert die Physik ganz anders als vorhersagbar, wie wir es gewohnt sind,
+
+41
+00:02:33,260 --> 00:02:36,859
+und herkömmliche Computer machen einfach keinen Sinn mehr.
+
+42
+00:02:36,860 --> 00:02:41,219
+Wir nähern uns einer realen physischen Barriere für unseren technologischen Fortschritt.
+
+43
+00:02:41,220 --> 00:02:42,899
+Um dieses Problem zu lösen,
+
+44
+00:02:42,900 --> 00:02:47,099
+versuchen Wissenschaftler, diese ungewöhnlichen Quanteneigenschaften zu ihrem Vorteil zu nutzen,
+
+45
+00:02:47,100 --> 00:02:49,179
+indem sie Quantencomputer bauen.
+
+46
+00:02:49,180 --> 00:02:53,419
+In normalen Computern sind Bits die kleinste Informationseinheit.
+
+47
+00:02:53,420 --> 00:02:58,059
+Quantencomputer verwenden Qubits, die ebenfalls auf einen von zwei Werten eingestellt werden können.
+
+48
+00:02:58,060 --> 00:03:00,859
+Ein Qubit kann ein beliebiges Quantensystem mit zwei Ebenen sein,
+
+49
+00:03:00,860 --> 00:03:04,659
+wie z. B. ein Spin und ein Magnetfeld, oder ein einzelnes Photon.
+
+50
+00:03:04,660 --> 00:03:07,579
+0 und 1 sind die möglichen Zustände dieses Systems,
+
+51
+00:03:07,580 --> 00:03:10,959
+wie die horizontale oder vertikale Polarisation der Photonen.
+
+52
+00:03:10,960 --> 00:03:14,519
+In der Quantenwelt muss das Qubit nicht nur einer davon sein,
+
+53
+00:03:14,520 --> 00:03:17,899
+es kann in beliebigen Anteilen beider Zustände gleichzeitig vorliegen.
+
+54
+00:03:17,900 --> 00:03:19,899
+Dies wird Überlagerung genannt.
+
+55
+00:03:19,900 --> 00:03:24,679
+Aber sobald Sie seinen Wert testen, indem Sie beispielsweise das Photon durch einen Filter schicken, muss
+
+56
+00:03:24,680 --> 00:03:29,139
+es sich entscheiden, ob es vertikal oder horizontal polarisiert ist.
+
+57
+00:03:29,140 --> 00:03:31,059
+Solange es also unbeobachtet bleibt, befindet sich
+
+58
+00:03:31,060 --> 00:03:37,139
+das Qubit in einer Überlagerung von Wahrscheinlichkeiten für 0 und 1, und Sie können nicht vorhersagen, welches es sein wird.
+
+59
+00:03:37,140 --> 00:03:39,139
+Aber in dem Moment, in dem Sie es messen
+
+60
+00:03:39,140 --> 00:03:42,439
+, bricht es in einen der definitiven Zustände zusammen.
+
+61
+00:03:42,440 --> 00:03:44,599
+Superposition ist ein Spielwechsler.
+
+62
+00:03:44,600 --> 00:03:50,379
+Vier klassische Bits können sich gleichzeitig in einer von zwei hoch vier verschiedenen Konfigurationen befinden.
+
+63
+00:03:50,380 --> 00:03:54,699
+Das sind 16 mögliche Kombinationen, von denen Sie nur eine verwenden können.
+
+64
+00:03:54,700 --> 00:04:00,379
+Vier Qubits in Superposition können jedoch in all diesen 16 Kombinationen gleichzeitig vorhanden sein.
+
+65
+00:04:00,380 --> 00:04:04,479
+Diese Zahl wächst exponentiell mit jedem zusätzlichen Qubit.
+
+66
+00:04:04,480 --> 00:04:08,239
+Zwanzig davon können bereits eine Million Werte parallel speichern.
+
+67
+00:04:08,240 --> 00:04:12,879
+Eine wirklich seltsame und nicht intuitive Eigenschaft, die Qubits haben können, ist die Verschränkung,
+
+68
+00:04:12,880 --> 00:04:18,119
+eine enge Verbindung, die jedes der Qubits sofort auf eine Änderung des Zustands des anderen reagieren lässt,
+
+69
+00:04:18,120 --> 00:04:20,199
+egal wie weit sie voneinander entfernt sind.
+
+70
+00:04:20,200 --> 00:04:26,139
+Das heißt, wenn Sie nur ein verschränktes Qubit messen, können Sie direkt auf die Eigenschaften seiner Partner schließen,
+
+71
+00:04:26,140 --> 00:04:27,679
+ohne hinzusehen.
+
+72
+00:04:27,680 --> 00:04:31,159
+Qubit Manipulation ist auch ein Mind Bender.
+
+73
+00:04:31,160 --> 00:04:36,439
+Ein normales Logikgatter erhält einen einfachen Satz von Eingängen und erzeugt einen bestimmten Ausgang.
+
+74
+00:04:36,440 --> 00:04:41,679
+Ein Quantengatter manipuliert eine Eingabe von Überlagerungen, rotiert Wahrscheinlichkeiten
+
+75
+00:04:41,680 --> 00:04:44,959
+und erzeugt eine andere Überlagerung als Ausgabe.
+
+76
+00:04:44,960 --> 00:04:51,459
+Ein Quantencomputer richtet also einige Qubits ein, wendet Quantengatter an, um sie zu verschränken und Wahrscheinlichkeiten zu manipulieren,
+
+77
+00:04:51,460 --> 00:04:57,619
+misst dann schließlich das Ergebnis und kollabiert Überlagerungen zu einer tatsächlichen Folge von Nullen und Einsen.
+
+78
+00:04:57,620 --> 00:05:04,219
+Das bedeutet, dass Sie alle Berechnungen, die mit Ihrem Setup möglich sind, gleichzeitig erledigen.
+
+79
+00:05:04,220 --> 00:05:09,359
+Letztendlich können Sie nur eines der Ergebnisse messen, und es wird wahrscheinlich nur das gewünschte sein,
+
+80
+00:05:09,360 --> 00:05:12,399
+sodass Sie es möglicherweise noch einmal überprüfen und erneut versuchen müssen.
+
+81
+00:05:12,400 --> 00:05:15,959
+Aber durch geschicktes Ausnutzen von Superposition und Verschränkung
+
+82
+00:05:15,960 --> 00:05:20,499
+kann dies exponentiell effizienter sein, als dies jemals auf einem normalen Computer möglich wäre.
+
+83
+00:05:20,500 --> 00:05:25,919
+Obwohl Quantencomputer unsere Heimcomputer wahrscheinlich nicht ersetzen
+
+84
+00:05:25,920 --> 00:05:28,559
+werden, sind sie ihnen in einigen Bereichen weit überlegen.
+
+85
+00:05:28,560 --> 00:05:30,799
+Eine davon ist die Datenbanksuche.
+
+86
+00:05:30,800 --> 00:05:35,819
+Um etwas in einer Datenbank zu finden, muss ein normaler Computer möglicherweise jeden einzelnen ihrer Einträge testen.
+
+87
+00:05:35,820 --> 00:05:39,099
+Die Algorithmen von Quantencomputern benötigen nur die Quadratwurzel dieser Zeit,
+
+88
+00:05:39,100 --> 00:05:42,459
+was bei großen Datenbanken ein enormer Unterschied ist.
+
+89
+00:05:42,460 --> 00:05:46,639
+Die bekannteste Verwendung von Quantencomputern ruiniert die IT-Sicherheit.
+
+90
+00:05:46,640 --> 00:05:52,079
+Im Moment werden Ihre Browsing-, E-Mail- und Bankdaten durch ein Verschlüsselungssystem geschützt,
+
+91
+00:05:52,080 --> 00:05:56,499
+bei dem Sie jedem einen öffentlichen Schlüssel geben, um Nachrichten zu verschlüsseln, die nur Sie entschlüsseln können.
+
+92
+00:05:56,500 --> 00:06:02,119
+Das Problem ist, dass dieser öffentliche Schlüssel tatsächlich zur Berechnung Ihres geheimen privaten Schlüssels verwendet werden kann.
+
+93
+00:06:02,120 --> 00:06:07,559
+Glücklicherweise würde die Durchführung der erforderlichen Berechnungen auf einem normalen Computer buchstäblich Jahre des Ausprobierens erfordern.
+
+94
+00:06:07,560 --> 00:06:12,439
+Aber ein Quantencomputer mit exponentieller Beschleunigung könnte dies im Handumdrehen tun.
+
+95
+00:06:12,440 --> 00:06:15,459
+Eine weitere wirklich spannende neue Anwendung sind Simulationen.
+
+96
+00:06:15,460 --> 00:06:19,019
+Simulationen der Quantenwelt sind sehr ressourcenintensiv
+
+97
+00:06:19,020 --> 00:06:24,019
+und selbst bei größeren Strukturen wie Molekülen mangelt es ihnen oft an Genauigkeit.
+
+98
+00:06:24,020 --> 00:06:28,339
+Warum also nicht die Quantenphysik mit echter Quantenphysik simulieren?
+
+99
+00:06:28,340 --> 00:06:34,319
+Quantensimulationen könnten neue Erkenntnisse über Proteine liefern, die die Medizin revolutionieren könn
+
+100
+00:06:34,320 --> 00:06:38,499
+en.  Im Moment wissen wir nicht, ob Quantencomputer nur ein spezialisiertes Werkzeug
+
+101
+00:06:38,500 --> 00:06:40,759
+oder eine große Revolution für die Menschheit sein werden.
+
+102
+00:06:40,760 --> 00:06:43,799
+Wir haben keine Ahnung, wo die Grenzen der Technologie liegen,
+
+103
+00:06:43,800 --> 00:06:46,539
+und es gibt nur einen Weg, dies herauszufinden.
+
+104
+00:06:46,540 --> 00:06:50,619
+Dieses Video wird von der Australian Academy of Science unterstützt,
+
+105
+00:06:50,620 --> 00:06:54,439
+die Exzellenz in der Wissenschaft fördert und unterstützt.
+
+106
+00:06:54,440 --> 00:06:58,519
+Erfahren Sie mehr über dieses und ähnliche Themen unter
+
+107
+00:06:58,520 --> 00:07:01,959
+nova.org.au. Es war eine tolle Zeit, mit ihnen zu arbeiten, also schauen Sie sich ihre Website an!
+
+108
+00:07:01,960 --> 00:07:06,199
+Unsere Videos werden auch durch deine Unterstützung auf patreon.com ermöglicht.
+
+109
+00:07:06,200 --> 00:07:12,979
+Wenn du uns unterstützen und Teil der Kurzgesagt-Vogelarmee werden möchtest, schau auf unserer Patreon-Seite vorbei!
+
+110
+00:07:12,980 --> 00:07:15,640
+Untertitel von James Zhang
+[überarbeitet von Pietro Pasquero]
+[korrigiert von P0ck3tL1nt]
+

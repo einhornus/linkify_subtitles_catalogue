@@ -1,0 +1,672 @@
+1
+00:00:01,100 --> 00:00:03,139
+Dostanie się w kosmos jest trudne.
+
+2
+00:00:03,140 --> 00:00:05,619
+W tej chwili to jak wspinać się na górę
+
+3
+00:00:05,620 --> 00:00:09,019
+na monocyklu z plecakiem pełnym materiałów wybuchowych:
+
+4
+00:00:09,020 --> 00:00:11,899
+Niesamowicie powolny, nie możesz przewieźć wielu rzeczy
+
+5
+00:00:11,900 --> 00:00:13,679
+i możesz umrzeć.
+
+6
+00:00:13,680 --> 00:00:18,099
+Rakieta musi osiągnąć prędkość około 40 000 km/h,
+
+7
+00:00:18,100 --> 00:00:19,699
+aby uciec z Ziemi.
+
+8
+00:00:19,700 --> 00:00:22,979
+Aby osiągnąć tę prędkość, rakiety to w większości pojemniki
+
+9
+00:00:22,980 --> 00:00:25,979
+na paliwo z niewielką ilością ładunku.
+
+10
+00:00:25,980 --> 00:00:28,379
+To źle, jeśli chcesz udać się na inne planety,
+
+11
+00:00:28,380 --> 00:00:32,019
+ponieważ potrzebujesz dużo ciężkich rzeczy, jeśli chcesz przetrwać,
+
+12
+00:00:32,020 --> 00:00:34,139
+a może nawet wrócić.
+
+13
+00:00:34,140 --> 00:00:37,239
+Czy jest więc sposób na dostanie się w kosmos przy mniejszej ilości paliwa
+
+14
+00:00:37,240 --> 00:00:39,999
+i większej ładowności?
+
+15
+00:00:40,000 --> 00:00:48,739
+[muzyka wprowadzająca
+
+16
+00:00:48,740 --> 00:00:52,319
+] Fajną rzeczą, która rozwiązała większość naszych problemów transportowych na Ziemi,
+
+17
+00:00:52,320 --> 00:00:54,459
+jest to, co nazywacie infrastrukturą.
+
+18
+00:00:54,460 --> 00:00:58,459
+Ułatwiliśmy dotarcie do miejsc, niezależnie od tego, czy chodzi o drogi dla samochodów, porty dla statków czy tory dla
+
+19
+00:00:58,460 --> 00:01:01,499
+pociągów.
+
+20
+00:01:01,500 --> 00:01:04,579
+To samo rozwiązanie możemy zastosować do podróży kosmicznych.
+
+21
+00:01:04,580 --> 00:01:07,379
+Infrastruktura kosmiczna sprawi, że dostanie się na orbitę
+
+22
+00:01:07,380 --> 00:01:12,299
+i na Księżyc, Marsa i dalej będzie łatwiejsze i tańsze.
+
+23
+00:01:12,300 --> 00:01:15,999
+Świetnie, ale czym właściwie jest infrastruktura kosmiczna?
+
+24
+00:01:16,000 --> 00:01:17,759
+W przeciwieństwie do windy ziemsko-kosmicznej,
+
+25
+00:01:17,760 --> 00:01:19,679
+która jest obecnie science fiction,
+
+26
+00:01:19,680 --> 00:01:22,699
+istnieje prosta, ale obiecująca technologia
+
+27
+00:01:22,700 --> 00:01:25,999
+, która nie wymaga nowej nauki, magicznych materiałów
+
+28
+00:01:26,000 --> 00:01:27,559
+ani ogromnych inwestycji
+
+29
+00:01:27,560 --> 00:01:31,059
+i która została już z powodzeniem przetestowana na orbicie
+
+30
+00:01:31,060 --> 00:01:32,919
+: kabel i obciążnik,
+
+31
+00:01:32,920 --> 00:01:34,639
+wiedzieć jak uwięzi.
+
+32
+00:01:34,640 --> 00:01:38,039
+Koncepcja jest tak prosta, że aż zaska
+
+33
+00:01:38,040 --> 00:01:39,559
+ująca.  Co by było, gdybyśmy umieścili
+
+34
+00:01:39,560 --> 00:01:42,679
+w kosmosie liny o długości setek lub tysięcy kilometrów,
+
+35
+00:01:42,680 --> 00:01:44,799
+a statek kosmiczny wykorzystałby je jako drabiny
+
+36
+00:01:44,800 --> 00:01:48,779
+do wspinania się na wyższe wysokości i nabierania prędkości?
+
+37
+00:01:48,780 --> 00:01:51,619
+Ta koncepcja jest znana jako Skyhook.
+
+38
+00:01:51,620 --> 00:01:54,179
+Działa jeszcze lepiej, jeśli kręcimy.
+
+39
+00:01:54,180 --> 00:01:56,419
+Przeciwwaga utrzymuje na miejscu długi kabel
+
+40
+00:01:56,420 --> 00:01:58,299
+, który obraca się wokół koła.
+
+41
+00:01:58,300 --> 00:02:02,399
+Obrotowa linka spowalnia jej czubek względem ziemi na dole
+
+42
+00:02:02,400 --> 00:02:05,419
+i przyspiesza go na górze jak katapulta.
+
+43
+00:02:05,420 --> 00:02:08,059
+Oznacza to, że możesz przenosić energię z uwięzi
+
+44
+00:02:08,060 --> 00:02:11,639
+i uzyskać potężne doładowanie po uwolnieniu, mniej więcej za darmo,
+
+45
+00:02:11,640 --> 00:02:14,419
+równe dwukrotnej prędkości obrotowej uwięzi.
+
+46
+00:02:14,420 --> 00:02:17,659
+Istnieją już wyspecjalizowane włókna, które mogą
+
+47
+00:02:17,660 --> 00:02:21,099
+przetrwać niezwykłe obciążenia, z jakimi musiałby się zmierzyć Skyhook.
+
+48
+00:02:21,100 --> 00:02:24,739
+Aby chronić się przed przecięciami i kolizjami z gruzów i meteorytów,
+
+49
+00:02:24,740 --> 00:02:28,399
+możemy wpleść naszą pętelkę w sieć zbędnych włókien.
+
+50
+00:02:28,400 --> 00:02:32,099
+Ponieważ nasz Skyhook przelatywał przez to samo miejsce wiele razy dziennie,
+
+51
+00:02:32,100 --> 00:02:35,639
+umożliwiłoby to dogonienie go małym promom wielokrotnego użytku.
+
+52
+00:02:35,640 --> 00:02:38,139
+Oczywiście nie jest to takie proste.
+
+53
+00:02:38,140 --> 00:02:39,219
+W najniższym
+
+54
+00:02:39,220 --> 00:02:41,479
+punkcie czubek uwięzi pędzi przez atmosferę z
+
+55
+00:02:41,480 --> 00:02:43,779
+prędkością około 12 000 kilometrów na godzinę.
+
+56
+00:02:43,780 --> 00:02:47,179
+Ze względu na ziemską atmosferę nie możemy zbytnio obniżyć Skyhook,
+
+57
+00:02:47,180 --> 00:02:49,719
+bo inaczej zrobi się zbyt gorący z powodu tarcia powietrza.
+
+58
+00:02:49,720 --> 00:02:53,179
+Zanurza się więc na wysokość od 80 do 150 km
+
+59
+00:02:53,180 --> 00:02:54,459
+i nie niżej.
+
+60
+00:02:54,460 --> 00:02:58,919
+Aby to osiągnąć, będziemy potrzebować wyspecjalizowanego statku kosmicznego, który może dostać się na uwięzi.
+
+61
+00:02:58,920 --> 00:03:00,979
+Chociaż nie jest to łatwe,
+
+62
+00:03:00,980 --> 00:03:03,664
+to i tak jest znacznie tańsze niż napełnienie dużej puszki
+
+63
+00:03:03,665 --> 00:03:07,504
+z paliwem rakietowym do prędkości 40 000 km/h.
+
+64
+00:03:07,505 --> 00:03:09,999
+Złapanie napiwku też będzie wyzwaniem.
+
+65
+00:03:10,000 --> 00:03:13,299
+Jest tylko krótkie okno czasowe 60 do 90 sekund,
+
+66
+00:03:13,300 --> 00:03:15,179
+aby znaleźć maleńką rzecz poruszającą się na niebie z
+
+67
+00:03:15,180 --> 00:03:17,159
+prędkością 12 mach.
+
+68
+00:03:17,160 --> 00:03:20,559
+Aby to ułatwić, końcówka może mieć coś w rodzaju żyłki wędkarskiej
+
+69
+00:03:20,560 --> 00:03:25,599
+o długości kilometra z dronem nawigacyjnym, który pomaga statkowi kosmicznemu  połączyć.
+
+70
+00:03:25,600 --> 00:03:28,499
+Kolejnym wyzwaniem jest utrzymanie naszego Skyhook na orbicie.
+
+71
+00:03:28,500 --> 00:03:31,414
+W miarę jak coraz więcej statków chwyta się go i podciąga,
+
+72
+00:03:31,415 --> 00:03:34,359
+zużywają pęd, który utrzymuje go w miejscu.
+
+73
+00:03:34,360 --> 00:03:35,939
+Jeśli nic
+
+74
+00:03:35,940 --> 00:03:39,619
+nie zrobimy, zwolni i zderzy się z atmosferą.
+
+75
+00:03:39,620 --> 00:03:42,819
+I tutaj możemy trochę oszukać wszechświat.
+
+76
+00:03:42,820 --> 00:03:45,879
+Skyhook to bateria energii orbitalnej.
+
+77
+00:03:45,880 --> 00:03:50,239
+Możliwe jest zrównoważenie przychodzących i wysyłanych ładunków.
+
+78
+00:03:50,240 --> 00:03:53,799
+Przybywające statki przewożące ludzi i materiały na Ziemię
+
+79
+00:03:53,800 --> 00:03:55,219
+dodają energii do uwięzi,
+
+80
+00:03:55,220 --> 00:03:58,359
+którą może dać innym statkom odlatującym w kosmos.
+
+81
+00:03:58,360 --> 00:04:00,979
+W ten sposób linka nie traci energii.
+
+82
+00:04:00,980 --> 00:04:04,179
+Im więcej go używamy, tym taniej.
+
+83
+00:04:04,180 --> 00:04:06,579
+Jeśli nadal tracimy energię z każdym doładowaniem,
+
+84
+00:04:06,580 --> 00:04:09,419
+możemy ją odzyskać za pomocą małych silników elektrycznych lub chemicznych,
+
+85
+00:04:09,420 --> 00:04:11,919
+które regularnie korygują pozycję uwięzi.
+
+86
+00:04:11,920 --> 00:04:14,999
+Zestaw wiązań, jeden wokół Ziemi i jeden wokół Marsa,
+
+87
+00:04:15,000 --> 00:04:17,759
+może sprawić, że podróże między planetami będą szybkie, proste
+
+88
+00:04:17,760 --> 00:04:20,639
+i tanie w porównaniu z rakietami.
+
+89
+00:04:20,640 --> 00:04:24,219
+Pętla ziemska siedziałaby na niskiej orbicie okołoziemskiej, aby chwytać ludzi i ładunki
+
+90
+00:04:24,220 --> 00:04:25,859
+i wyrzucać je na Marsa.
+
+91
+00:04:25,860 --> 00:04:27,599
+Pęta Marsa łapie
+
+92
+00:04:27,600 --> 00:04:30,679
+je i spowalnia przed lądowaniem na powierzchni.
+
+93
+00:04:30,680 --> 00:04:32,079
+W przeciwnym
+
+94
+00:04:32,080 --> 00:04:35,379
+kierunku linka mogłaby podnieść pojazd poruszający się przez cienką atmosferę Marsa z
+
+95
+00:04:35,380 --> 00:04:37,959
+prędkością zaledwie około 1000 km/h,
+
+96
+00:04:37,960 --> 00:04:40,319
+niewiele szybciej niż nasze samoloty na Ziemi,
+
+97
+00:04:40,320 --> 00:04:44,179
+i wyrzucić go z powrotem na Ziemię, aby został złapany i opuszczony.
+
+98
+00:04:44,180 --> 00:04:47,679
+Uwięzie mogą skrócić podróże między obiema planetami z 9
+
+99
+00:04:47,680 --> 00:04:49,539
+miesięcy do 5, a nawet 3
+
+100
+00:04:49,540 --> 00:04:51,639
+i zmniejszyć skalę wymaganych rakiet
+
+101
+00:04:51,640 --> 00:04:55,279
+o 84 do 96 procent.
+
+102
+00:04:55,280 --> 00:04:58,939
+Co więcej, ludzie mogą podróżować we względnym luksusie,
+
+103
+00:04:58,940 --> 00:05:01,979
+ponieważ możemy sobie pozwolić na inwestycję w komfort pasażerów.
+
+104
+00:05:01,980 --> 00:05:05,559
+Podróż na uwięzi byłaby miejscami pierwszej klasy na Marsa.
+
+105
+00:05:05,560 --> 00:05:07,699
+Razem wiązania wokół Ziemi i Marsa
+
+106
+00:05:07,700 --> 00:05:10,899
+mogą zapewnić szybki i opłacalny szkielet transportowy
+
+107
+00:05:10,900 --> 00:05:13,679
+, który sprawi, że podróże kosmiczne będą przystępne.
+
+108
+00:05:13,680 --> 00:05:15,239
+Ale chodźmy dalej.
+
+109
+00:05:15,240 --> 00:05:17,159
+Poczynając od niskiej orbity Marsa
+
+110
+00:05:17,160 --> 00:05:19,999
+, uwięź może skierować statki do pasa asteroid.
+
+111
+00:05:20,000 --> 00:05:23,359
+Pierwszy statek wysłany na nową asteroidę będzie potrzebował rakiet, aby zwolnić
+
+112
+00:05:23,360 --> 00:05:24,919
+w miejscu docelowym.
+
+113
+00:05:24,920 --> 00:05:27,859
+Kolejni przybysze mogą znaleźć linkę, która czeka, aby ich złapać
+
+114
+00:05:27,860 --> 00:05:29,939
+i odesłać za darmo.
+
+115
+00:05:29,940 --> 00:05:31,859
+Tania droga na asteroidy
+
+116
+00:05:31,860 --> 00:05:35,779
+jest głównym czynnikiem otwierającym zasoby Układu Słonecznego.
+
+117
+00:05:35,780 --> 00:05:37,859
+Metale szlachetne i cenne minerały
+
+118
+00:05:37,860 --> 00:05:42,099
+mogą zostać dostarczone na Marsa już w kilka tygodni po wycięciu ich z asteroidy.
+
+119
+00:05:42,100 --> 00:05:43,939
+Byłyby idealnymi elementami budulcowymi
+
+120
+00:05:43,940 --> 00:05:46,819
+dla naszej międzyplanetarnej cywilizacji.
+
+121
+00:05:46,820 --> 00:05:48,379
+Ale dlaczego tu się zatrzymać?
+
+122
+00:05:48,380 --> 00:05:50,779
+Księżyce Marsa są bardzo wygodne.
+
+123
+00:05:50,780 --> 00:05:54,839
+Żadne inne księżyce w Układzie Słonecznym nie krążą tak blisko ich planety.
+
+124
+00:05:54,840 --> 00:05:58,699
+Phobos jest tak ciężki, że nie musimy się martwić o jego spowolnienie,
+
+125
+00:05:58,700 --> 00:06:00,759
+co czyni go idealnym punktem zaczepienia
+
+126
+00:06:00,760 --> 00:06:04,499
+dla superuwiązań o długości nieco poniżej 6000 km.
+
+127
+00:06:04,500 --> 00:06:07,359
+Dolny czubek przeleciałby tuż nad powierzchnią Marsa
+
+128
+00:06:07,360 --> 00:06:09,219
+i byłby bardzo łatwy do uchwycenia.
+
+129
+00:06:09,220 --> 00:06:13,379
+Górny czubek może przerzucać statki aż do Jowisza i Saturna.
+
+130
+00:06:13,380 --> 00:06:14,799
+Ta sama superuwięź
+
+131
+00:06:14,800 --> 00:06:18,099
+może również zbliżyć wewnętrzny układ słoneczny.
+
+132
+00:06:18,100 --> 00:06:21,219
+Wenus i Merkury oddalone są o jedno uderzenie.
+
+133
+00:06:21,220 --> 00:06:24,339
+W przeciwieństwie do Marsa są pełne energii słonecznej
+
+134
+00:06:24,340 --> 00:06:26,699
+i bogate w minerały.
+
+135
+00:06:26,700 --> 00:06:29,519
+Na dłuższą metę nic nie stoi na przeszkodzie, aby ludzkość
+
+136
+00:06:29,520 --> 00:06:32,479
+zbudowała sieć transportową z zerowym paliwem
+
+137
+00:06:32,480 --> 00:06:35,879
+dla planet ziemskich skupionych na księżycach marsjańskich.
+
+138
+00:06:35,880 --> 00:06:37,859
+Uwięzi są stosunkowo tanim
+
+139
+00:06:37,860 --> 00:06:41,699
+i zrównoważonym rozwiązaniem, dzięki któremu podróże kosmiczne stają się przystępne,
+
+140
+00:06:41,700 --> 00:06:44,119
+a reszta układu słonecznego dostępna
+
+141
+00:06:44,120 --> 00:06:46,839
+do eksploatacji i eksploracji.
+
+142
+00:06:46,840 --> 00:06:49,979
+Biorąc pod uwagę, że dziś dysponujemy technologią do ich budowy
+
+143
+00:06:49,980 --> 00:06:53,539
+, naprawdę nie ma dobrej wymówki, aby dłużej czekać.
+
+144
+00:06:53,540 --> 00:06:56,279
+Części Układu Słonecznego są daleko,
+
+145
+00:06:56,280 --> 00:07:00,059
+ale mogą być bardzo blisko.
+
+146
+00:07:00,060 --> 00:07:02,559
+Mówiąc o rzeczach, do których trudno dotrzeć,
+
+147
+00:07:02,560 --> 00:07:04,279
+ale nie musi nimi być:
+
+148
+00:07:04,280 --> 00:07:05,659
+wiedzy.
+
+149
+00:07:05,660 --> 00:07:12,639
+Nasi przyjaciele z Brilliant mogą przenieść Cię do wszechświata pełnego wybuchowych pomysłów i zabawnych kursów.
+
+150
+00:07:12,640 --> 00:07:16,119
+Brilliant to strona internetowa, która pomaga w praktycznym podejściu do nauki
+
+151
+00:07:16,120 --> 00:07:18,219
+dzięki interaktywnym kursom rozwiązywania problemów
+
+152
+00:07:18,220 --> 00:07:21,859
+i codziennych problemów z matematyki, logiki i inżynierii.
+
+153
+00:07:21,860 --> 00:07:26,159
+Każdy problem daje ci wszystkie narzędzia potrzebne do samodzielnego łamania skomplikowanych tematów.
+
+154
+00:07:26,160 --> 00:07:29,679
+To nauka przez działanie, ale mózgiem, a nie rękami.
+
+155
+00:07:29,680 --> 00:07:33,119
+Wykorzystaj swoją ciekawość, aby dotrzeć do sedna zagadek i kursów
+
+156
+00:07:33,120 --> 00:07:35,104
+dotyczących takich rzeczy, jak mechanika klasyczna,
+
+157
+00:07:35,105 --> 00:07:38,739
+astronomia, fizyka grawitacyjna i wiele innych.
+
+158
+00:07:38,740 --> 00:07:42,679
+Jeśli klikniesz w link w opisie lub odwiedzisz brilliant.org/nutshell
+
+159
+00:07:42,680 --> 00:07:46,379
+, możesz zarejestrować się za darmo i dowiedzieć się więcej, niż możesz sobie wyobrazić.
+
+160
+00:07:46,380 --> 00:07:49,139
+I jest dodatkowa część dla widzów Kurzgesagt
+
+161
+00:07:49,140 --> 00:07:51,799
+: pierwsze 688 osób, które skorzystają z linku,
+
+162
+00:07:51,800 --> 00:07:54,439
+otrzyma 20% zniżki na swoje roczne członkostwo,
+
+163
+00:07:54,440 --> 00:07:57,079
+które pozwala przeglądać wszystkie codzienne problemy w archiwach
+
+164
+00:07:57,080 --> 00:07:58,999
+i odblokować każdy kurs.
+
+165
+00:07:59,000 --> 00:08:02,499
+Brilliant pomaga zakończyć dzień trochę mądrzej.
+
+166
+00:08:02,500 --> 00:08:05,899
+Możesz „wciągnąć” się w to doświadczenie.
+
+167
+00:08:05,900 --> 00:08:12,659
+[Muzyka Outro]
+
+168
+00:08:12,660 --> 00:08:14,000
+[Wycie psa]
+
