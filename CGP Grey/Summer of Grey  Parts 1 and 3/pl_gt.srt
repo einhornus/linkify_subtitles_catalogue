@@ -1,0 +1,1236 @@
+1
+00:00:00,000 --> 00:00:02,459
+Cóż, to nie wygląda dobrze.
+
+2
+00:00:02,460 --> 00:00:08,699
+🎵 Intro music🎵
+
+3
+00:00:08,700 --> 00:00:10,459
+Witaj Lucy Liu.
+
+4
+00:00:10,460 --> 00:00:11,939
+Jestem w Północnej Karolinie.
+
+5
+00:00:11,940 --> 00:00:18,979
+To początek pięciu długich tygodni podróży służbowych i spotkań biznesowych.
+
+6
+00:00:18,980 --> 00:00:20,739
+Staram się być lepszy na spotkaniach biznesowych.
+
+7
+00:00:20,740 --> 00:00:27,419
+Poza tym, kiedy tu jestem, stawiam sobie za cel ucieczkę z Ameryki nie grubszą niż przyjechałem,
+
+8
+00:00:27,420 --> 00:00:32,739
+ponieważ ostatnio trochę straciłem na zdrowiu i naprawdę nie chcę, aby było gorzej,
+
+9
+00:00:32,740 --> 00:00:37,459
+ale to może być  niemożliwe, biorąc pod uwagę, że w Ameryce ulice są wybrukowane pączkami.
+
+10
+00:00:37,460 --> 00:00:41,519
+Ale spróbuję i właśnie teraz to jest przyszły problem Greya.
+
+11
+00:00:41,520 --> 00:00:47,139
+Obecny Gray jest na werandzie z psem odwiedzającym rodzinę, więc koniec z vlogowaniem.  Przejdźmy do
+
+12
+00:00:47,140 --> 00:00:54,599
+Denver w Kolorado.  Po prostu zatrzymuję się, żeby napić się kawy, skorzystać z toalety i schronu przed tornadami
+
+13
+00:00:54,600 --> 00:00:59,979
+i dziwnie zjeść złe jedzenie.
+
+14
+00:00:59,980 --> 00:01:04,639
+Więcej szczegółów później, do San Jose w Kalifornii, na południe od San Francisco.
+
+15
+00:01:04,640 --> 00:01:09,319
+Podróże służbowe nigdy nie są zabawne, ale nie jest fajnie, kiedy przyjeżdżasz do hotelu, aby dowiedzieć się,
+
+16
+00:01:09,320 --> 00:01:12,719
+że nie mają oni Twojego pokoju, który zarezerwowałeś kilka miesięcy temu.
+
+17
+00:01:12,720 --> 00:01:15,479
+Rezerwacja, którą mają.  Ale nie pokój.
+
+18
+00:01:15,480 --> 00:01:22,359
+podejrzanie wydaje się, że wiele osób zarezerwowało pokoje hotelowe po super niskiej cenie, zanim hotele zorientowały się, że
+
+19
+00:01:22,360 --> 00:01:24,419
+WWDC zmieniło lokalizację na nowe miasto.
+
+20
+00:01:24,420 --> 00:01:26,099
+Ci ludzie nie mają
+
+21
+00:01:26,100 --> 00:01:29,139
+pokoi Pokoje zostały ponownie wynajęte po wyższej cenie
+
+22
+00:01:29,140 --> 00:01:31,119
+Więc co się stało z osobami, które mają rezerwację?
+
+23
+00:01:31,120 --> 00:01:34,999
+Dlaczego wygodnie umieścili cię w hotelu po drugiej stronie miasta!
+
+24
+00:01:35,000 --> 00:01:39,519
+Hotel z największą prywatnością, proszę o podpis, jaki kiedykolwiek widziałem.
+
+25
+00:01:39,520 --> 00:01:44,599
+Ale nie przeleciałem przez ocean i kontynent, żeby być 45 minut od
+
+26
+00:01:44,600 --> 00:01:46,399
+wszystkich powodów, dla których tu jestem.
+
+27
+00:01:46,400 --> 00:01:49,039
+Więc byłem raczej ... "twardy" ... w hotelu
+
+28
+00:01:49,040 --> 00:01:53,359
+i nagle jak magia mieli bezpłatne podniesienie standardu do lepszego pokoju.
+
+29
+00:01:53,360 --> 00:01:54,639
+Ale nie na dzisiaj.
+
+30
+00:01:54,640 --> 00:01:58,019
+Więc nadal muszę być w tym miejscu i nie mogę ustawić żadnej mojej pracy
+
+31
+00:01:58,020 --> 00:02:00,539
+i nie będzie, dopóki nie wrócę jutro rano
+
+32
+00:02:00,540 --> 00:02:06,799
+, że naprawdę mogę zacząć od powodów, dla których
+
+33
+00:02:06,800 --> 00:02:13,279
+tu jestem.  apartament z przeprosinami jest całkiem fajny i zawiera list z przeprosinami i czekoladki z przeprosinami
+
+34
+00:02:13,280 --> 00:02:17,359
+, których nie mogę zjeść, ponieważ muszę uciec z Ameryki, a nie
+
+35
+00:02:17,360 --> 00:02:22,199
+grubiej. Wskazówka z podróży: możesz mieć rzeczy dostarczone do hotelu, więc nie musisz ich pakować.
+
+36
+00:02:22,200 --> 00:02:31,519
+::odgłosy otwierania pudełek::
+
+37
+00:02:31,520 --> 00:02:44,519
+::więcej odgłosów otwierania pudełek::
+
+38
+00:02:44,520 --> 00:02:49,679
+To tylko połowa pudełek, które muszę rozpakować i nie rozpakowałem wszystkich pudełek w pudłach, ale
+
+39
+00:02:49,680 --> 00:02:56,559
+ponieważ dziś rano zmieniłem hotele, biegnę  Skończył się czas przed rozpoczęciem WWDC, więc muszę się stąd wydostać.
+
+40
+00:02:56,560 --> 00:03:01,279
+WWDC to konferencja, na której Apple zaprasza programistów z całego świata, aby ogłosić nowe
+
+41
+00:03:01,280 --> 00:03:04,059
+funkcje swojego oprogramowania, aby programiści mogli je wdrożyć.
+
+42
+00:03:04,060 --> 00:03:06,159
+Prezenter: Witamy w WWDC
+
+43
+00:03:06,160 --> 00:03:08,679
+Szary: Bilet wewnątrz to pierwszy rząd do przyszłości
+
+44
+00:03:08,680 --> 00:03:10,959
+Nie mam biletu, ja  Mam pokój w hotelu
+
+45
+00:03:10,960 --> 00:03:14,179
+i listę życzeń, która i tak jest o wiele bardziej zabawna dla reakcji tłumu.
+
+46
+00:03:14,180 --> 00:03:16,799
+Wiele: Och!  Łał!  Oh!
+
+47
+00:03:16,800 --> 00:03:18,619
+Oddano strzały!  Bóg!
+
+48
+00:03:18,620 --> 00:03:19,579
+::chichotanie::
+
+49
+00:03:19,580 --> 00:03:21,659
+I wygłupianie się na Twitterze podczas nudnych części.
+
+50
+00:03:21,660 --> 00:03:25,259
+TV: HomePod Wiele: ::zaskoczony śmiech::
+
+51
+00:03:25,260 --> 00:03:27,279
+Co?  Ha.  Wow.
+
+52
+00:03:27,280 --> 00:03:29,499
+Keynote się skończył, teraz czas skonfigurować moje mobilne biuro,
+
+53
+00:03:29,500 --> 00:03:36,759
+🎵 Notatki muzyczne 🎵
+
+54
+00:03:36,760 --> 00:03:38,199
+Obejrzyj kilka rozmów technicznych,
+
+55
+00:03:38,200 --> 00:03:40,839
+Prowadzący: … dostosowywanie cheeseburgera jest o wiele łatwiejsze, gdy ktoś przeprowadzi
+
+56
+00:03:40,840 --> 00:03:44,159
+Cię przez cały proces, jedna decyzja na raz.
+
+57
+00:03:44,160 --> 00:03:46,399
+Grey: Weź udział w podcastach poświęconych technologii, aby omówić technologię,
+
+58
+00:03:46,400 --> 00:03:47,979
+czasami śpiewając.
+
+59
+00:03:47,980 --> 00:03:52,479
+🎵 Podcast singalong 🎵
+
+60
+00:03:52,480 --> 00:03:53,639
+Co też nas sprowadza...
+
+61
+00:03:53,640 --> 00:03:54,719
+Dlaczego tu jestem?
+
+62
+00:03:54,720 --> 00:03:59,939
+Pod koniec WWDC ma nagrać podcast *o* WWDC.
+
+63
+00:03:59,940 --> 00:04:02,999
+Podcast nazywa się „Cortex” w sieci o nazwie „Relay”
+
+64
+00:04:03,000 --> 00:04:08,999
+i to kolejny powód, dla którego tu jestem, ponieważ jest duże spotkanie słuchaczy Relay, na które też się wybieram.
+
+65
+00:04:09,000 --> 00:04:11,399
+Past Gray nie sfilmował niczego podczas imprezy,
+
+66
+00:04:11,400 --> 00:04:16,099
+ale żeby być uczciwym wobec niego, działał w tym momencie w trybie niskiego poboru mocy.
+
+67
+00:04:16,100 --> 00:04:18,739
+Naprawdę uważam, że jet lag jest tak frustrujący, że
+
+68
+00:04:18,740 --> 00:04:22,379
+podczas tej podróży *próbuję* zaaklimatyzować się do czasu zachodniego wybrzeża.
+
+69
+00:04:22,380 --> 00:04:38,319
+Byłem na spotkaniu podcastu Relay
+
+70
+00:04:38,320 --> 00:04:42,259
+ale nie, oczywiście jestem, jest 4 nad ranem
+
+71
+00:04:42,260 --> 00:04:45,139
+i wiem, że po prostu nie będę spał przez chwilę
+
+72
+00:04:45,140 --> 00:04:55,459
+jak zombie.
+
+73
+00:04:55,460 --> 00:04:58,059
+,
+
+74
+00:04:58,060 --> 00:05:00,599
+Myślę, że to jest uhh,
+
+75
+00:05:00,600 --> 00:05:03,259
+to jest to, co muszę zrobić dzisiaj.
+
+76
+00:05:03,260 --> 00:05:05,339
+To jest cel nr 1
+
+77
+00:05:05,340 --> 00:05:07,259
+Ale później najpierw kawa.
+
+78
+00:05:07,260 --> 00:05:11,859
+W porządku, czas to zrobić
+
+79
+00:05:11,860 --> 00:05:14,619
+. Próbowałem zrobić trochę wymyślnej pracy z kamerą, ale potem tak się stało,
+
+80
+00:05:14,620 --> 00:05:18,479
+więc  , zapomnij o tym, koniec z nagrywaniem na siłowniach, kiedy ćwiczę ćwiczenia na wagę,
+
+81
+00:05:18,480 --> 00:05:24,319
+to bardzo dziwne uczucie na vlogowaniu, a poza tym
+
+82
+00:05:24,320 --> 00:05:28,499
+Ameryka to miejsce, w którym naprawdę możesz podwoić swoje błędy w jedzeniu.
+
+83
+00:05:28,500 --> 00:05:31,519
+Naprawdę chcę tego uniknąć, więc mój plan  kiedy tu jestem,
+
+84
+00:05:31,520 --> 00:05:35,719
+to tylko po to, żeby wyeliminować jak najwięcej węglowodanów z mojej diety.
+
+85
+00:05:35,720 --> 00:05:37,739
+Oznacza to brak naleśników, chleba
+
+86
+00:05:37,740 --> 00:05:40,139
+, makaronów, pizzy, krakersów,
+
+87
+00:05:40,140 --> 00:05:41,859
+zwykle takie rzeczy, jakie robię  Zjadam
+
+88
+00:05:41,860 --> 00:05:44,499
+ogromną ilość, kiedy jestem pod dużą presją
+
+89
+00:05:44,500 --> 00:05:45,819
+i dużo pracuję.
+
+90
+00:05:45,820 --> 00:05:49,219
+A ponieważ ja również podróżuję w tym samym czasie, jest to trochę podwójnie trudne,
+
+91
+00:05:49,220 --> 00:05:52,759
+ale można to zrobić, jeśli możesz zjeść jajka, ale nie babeczkę.
+
+92
+00:05:52,760 --> 00:05:55,019
+Więc idę do supermarketu, żeby załadować wszystkie
+
+93
+00:05:55,020 --> 00:05:57,259
+rodzaje rzeczy, których będę dużo jeść.
+
+94
+00:05:57,260 --> 00:06:01,999
+Mięso i ser i jajka i awaryjne migdały i awaryjne suszone mięso
+
+95
+00:06:02,000 --> 00:06:04,559
+To nie jest zabawne i nie to chcę robić,
+
+96
+00:06:04,560 --> 00:06:09,759
+ale jest to najprostsza i najskuteczniejsza rzecz, jaką znalazłem w przeszłości, aby
+
+97
+00:06:09,760 --> 00:06:12,819
+zrzucić lub utrzymać wagę i
+
+98
+00:06:12,820 --> 00:06:16,539
+jeśli taka istnieje  rzecz, której mógłbym użyć tego lata, to trochę proste.
+
+99
+00:06:16,540 --> 00:06:23,279
+Dziękuję Check Out Robot, nie zadajesz żadnych pytań i naprawdę Cię za to doceniam.
+
+100
+00:06:23,280 --> 00:06:24,999
+Check Out Robot: 5,99 USD
+
+101
+00:06:25,000 --> 00:06:27,319
+Szary: Konferencje są obciążające psychicznie, ale uważam, że
+
+102
+00:06:27,320 --> 00:06:30,679
+pomaga mapować zarysy dnia i próbować określić, jakie są
+
+103
+00:06:30,680 --> 00:06:34,139
+cele dobrze spędzonego czasu, co muszę zrobić, z
+
+104
+00:06:34,140 --> 00:06:36,939
+kim muszę się spotkać, jakie sesje mam  powinien iść do,
+
+105
+00:06:36,940 --> 00:06:39,319
+a jako punkt rozwoju osobistego, staram się być lepszy w
+
+106
+00:06:39,320 --> 00:06:42,139
+spotykaniu ciekawych ludzi podczas podróży służbowych, a
+
+107
+00:06:42,140 --> 00:06:46,979
+te konferencje mogą być szaloną, nakładającą się układanką z harmonogramami wszystkich.
+
+108
+00:06:46,980 --> 00:06:50,639
+W tej chwili jestem w drodze na spotkanie z kimś
+
+109
+00:06:50,640 --> 00:06:53,419
+, jedyny czas, jaki mogliśmy znaleźć dla nas obu, który się pokrywał,
+
+110
+00:06:53,420 --> 00:06:57,039
+to kiedy pakuje swoje walizki do wyjścia.  *Śmieje się* A
+
+111
+00:06:57,040 --> 00:07:04,259
+więc właśnie tam zmierzam.
+
+112
+00:07:04,260 --> 00:07:06,239
+Dobrze, pakuję spotkanie do końca
+
+113
+00:07:06,240 --> 00:07:10,999
+, do dalszych spraw.
+
+114
+00:07:11,000 --> 00:07:13,739
+Plan zdrowotny bez węglowodanów jak na razie idzie całkiem dobrze,
+
+115
+00:07:13,740 --> 00:07:24,639
+ale teraz podczas spotkań biznesowych jestem dziwakiem, który nie je bułki do burgera i musi wyjaśniać, dlaczego.
+
+116
+00:07:24,640 --> 00:07:26,419
+Czy rozpoznaję model ciężarówki?
+
+117
+00:07:26,420 --> 00:07:28,099
+Ja nie.  ::Koledzy z samochodu się śmieją::
+
+118
+00:07:28,100 --> 00:07:31,519
+Miałem szczęście, że w przeszłości zaproszono mnie do obejrzenia ciekawych siedzib, w
+
+119
+00:07:31,520 --> 00:07:34,059
+tym Dropboxa i Facebooka.
+
+120
+00:07:34,060 --> 00:07:35,799
+Tym razem jest to Google, ze swoim
+
+121
+00:07:35,800 --> 00:07:37,399
+„Dlaczego tam jest dinozaur?”
+
+122
+00:07:37,400 --> 00:07:38,019
+i
+
+123
+00:07:38,020 --> 00:07:43,679
+„To smutne, dystopijne cmentarzysko androidów z przeszłości”.
+
+124
+00:07:43,680 --> 00:07:46,399
+i wnętrz biurowych, których naprawdę raczej nie filmowałeś.
+
+125
+00:07:46,400 --> 00:07:48,699
+Następnie do muzeum historii komputerów z
+
+126
+00:07:48,700 --> 00:07:50,159
+„Tyle przycisków”.
+
+127
+00:07:50,160 --> 00:07:51,799
+„Chcę je wszystkie wcisnąć”
+
+128
+00:07:51,800 --> 00:07:53,819
+i przypomniałem sobie zabawne rzeczy dawno zapomniane
+
+129
+00:07:53,820 --> 00:07:59,739
+i traumatyczne rzeczy dawno zapomniane,
+
+130
+00:07:59,740 --> 00:08:12,979
+🎵 Hamster Dance Music 🎵
+
+131
+00:08:12,980 --> 00:08:17,499
+i całkowicie się rozproszyłem, widząc moją pierwszą ładowarkę Tesli w prawdziwym życiu.
+
+132
+00:08:17,500 --> 00:08:19,479
+O Boże,
+
+133
+00:08:19,480 --> 00:08:25,679
+Tesli, Tesli jak okiem sięgnąć.
+
+134
+00:08:25,680 --> 00:08:30,839
+Och, to jest X!
+
+135
+00:08:30,840 --> 00:08:33,558
+Jestem dość zmęczona i naprawdę nie chcę,
+
+136
+00:08:33,559 --> 00:08:35,359
+to był długi dzień,
+
+137
+00:08:35,360 --> 00:08:37,939
+ale idę na siłownię.
+
+138
+00:08:37,940 --> 00:08:40,678
+Człowieku, wszędzie w Ameryce,
+
+139
+00:08:40,679 --> 00:08:44,178
+ekrany, ekrany, ekrany.
+
+140
+00:08:44,179 --> 00:08:47,259
+Ale wiesz co?
+
+141
+00:08:47,260 --> 00:08:52,959
+Dziękuję, ale nie, dziękuję.
+
+142
+00:08:52,960 --> 00:08:56,559
+W porządku, robię to.
+
+143
+00:08:56,560 --> 00:08:58,499
+Bardzo się z tego cieszę.
+
+144
+00:08:58,500 --> 00:09:00,719
+Właśnie,
+
+145
+00:09:00,720 --> 00:09:03,819
+naprawdę nie chciałem tego robić,
+
+146
+00:09:03,820 --> 00:09:07,419
+ale dopiero co zacząłem ćwiczyć,
+
+147
+00:09:07,420 --> 00:09:10,659
+więc nie zamierzałem rzucić trzeciego dnia.
+
+148
+00:09:10,660 --> 00:09:14,379
+::Odgłosy prysznica::
+
+149
+00:09:14,380 --> 00:09:17,159
+Ale tak,
+
+150
+00:09:17,160 --> 00:09:20,679
+nie jest to rzecz, którą chciałem robić.
+
+151
+00:09:20,680 --> 00:09:22,819
+ale bardzo się cieszę, że to się skończyło,
+
+152
+00:09:22,820 --> 00:09:25,719
+a teraz
+
+153
+00:09:25,720 --> 00:09:27,039
+czas na prysznic.
+
+154
+00:09:27,040 --> 00:09:54,519
+🎵 Cudowna Muzyka Wiolonczelowa 🎵
+
+155
+00:09:54,520 --> 00:09:57,119
+Nie jestem jeszcze na konferencji, która nie wydaje mi się, żeby
+
+156
+00:09:57,120 --> 00:09:59,379
+trwała o jeden dzień za długo,
+
+157
+00:09:59,380 --> 00:10:01,499
+a to już ostatni dzień.
+
+158
+00:10:01,500 --> 00:10:04,579
+Dziś wielką odpowiedzialnością jest nagranie Cortexa,
+
+159
+00:10:04,580 --> 00:10:08,459
+ale zanim to się stanie, chcę spróbować zmieścić tylko trochę ruchu.
+
+160
+00:10:08,460 --> 00:10:19,339
+Wezmę jazdę na rowerze podczas przygotowań do Cortexu.
+
+161
+00:10:19,340 --> 00:10:24,559
+Więc mam rower, wygląda na to, że na mapie jest park wzdłuż rzeki Guadalupe,
+
+162
+00:10:24,560 --> 00:10:26,959
+więc biorę tam rower,
+
+163
+00:10:26,960 --> 00:10:29,719
+idę się trochę przejechać.
+
+164
+00:10:29,720 --> 00:10:31,119
+Teraz nabrałem nawyku:
+
+165
+00:10:31,120 --> 00:10:32,839
+-Och, jedziemy;  Park rzeki Guadalupe-
+
+166
+00:10:32,840 --> 00:10:35,559
+Uhh, przyzwyczaiłem się
+
+167
+00:10:35,560 --> 00:10:40,179
+nie słuchać muzyki podczas ćwiczeń aerobowych.
+
+168
+00:10:40,180 --> 00:10:43,699
+To sprawia, że ćwiczenia to dobry czas na myślenie i tak
+
+169
+00:10:43,700 --> 00:10:47,019
+jak dzisiaj zamierzam łąc
+
+170
+00:10:47,020 --> 00:10:50,819
+yć ćwiczenie z przygotowaniem do Corte
+
+171
+00:10:50,820 --> 00:10:54,159
+u.  Więc rzuciłem okiem na notatki z serialu, załadowałem je do głowy,
+
+172
+00:10:54,160 --> 00:10:57,399
+pójdę na małą przejażdżkę rowerem i pomyślę o
+
+173
+00:10:57,400 --> 00:11:00,159
+tym, o czym będę dzisiaj mówił na Cortex.
+
+174
+00:11:00,160 --> 00:11:02,779
+Jak tylko dowiem się, jak
+
+175
+00:11:02,780 --> 00:11:06,219
+zejść do parku.
+
+176
+00:11:06,220 --> 00:11:09,879
+Teraz czas na podłączenie GoPro.
+
+177
+00:11:09,880 --> 00:11:16,859
+Idealny.
+
+178
+00:11:16,860 --> 00:11:18,559
+Czuje się jak Terminator!
+
+179
+00:11:18,560 --> 00:11:51,519
+🎵 Muzyka w stylu Terminatora 🎵
+
+180
+00:11:51,520 --> 00:11:53,059
+Dzięki mały kolego,
+
+181
+00:11:53,060 --> 00:11:55,119
+to było o wiele lepsze niż jazda na rowerze w pomieszczeniu.
+
+182
+00:11:55,120 --> 00:11:58,559
+Czas na prysznic i podcast.
+
+183
+00:11:58,560 --> 00:12:00,539
+(o nie)
+
+184
+00:12:00,540 --> 00:12:03,679
+(to jest najgorsze)
+
+185
+00:12:03,680 --> 00:12:06,619
+(muszę się teraz ukryć na chwilę)
+
+186
+00:12:06,620 --> 00:12:15,919
+(spóźnię się na podcast)
+
+187
+00:12:15,920 --> 00:12:19,919
+Nie mogę zrobić podcastu, chyba że masz wystarczająco dużo kawy, aby przejść przez podcast.
+
+188
+00:12:19,920 --> 00:12:21,619
+Przynoszę kawę.
+
+189
+00:12:21,620 --> 00:12:23,119
+Myke Hurley: W końcu to zrobiłem...
+
+190
+00:12:23,120 --> 00:12:24,239
+Grey: Co zrobiłeś?
+
+191
+00:12:24,240 --> 00:12:25,379
+Myke: Jesteśmy w tym samym miejscu,
+
+192
+00:12:25,380 --> 00:12:28,799
+Grey: Tak... Myke: Pracujemy nad czymś razem w tym samym miejscu.
+
+193
+00:12:28,800 --> 00:12:29,519
+🎵 Motyw Cortex 🎵
+
+194
+00:12:29,520 --> 00:12:30,839
+Mike: Znowu jesteśmy na WWDC.
+
+195
+00:12:30,840 --> 00:12:31,959
+Grey: Jesteśmy.
+
+196
+00:12:31,960 --> 00:12:34,959
+Myke: Ale w zeszłym roku nagrałeś mnie w pokoju hotelowym.
+
+197
+00:12:34,960 --> 00:12:36,519
+Grey: Tak.  Myke: a ty byłeś w swoim pokoju hotelowym
+
+198
+00:12:36,520 --> 00:12:37,519
+i używaliśmy Skype'a.
+
+199
+00:12:37,520 --> 00:12:38,319
+Szary: Tak.  To prawda.
+
+200
+00:12:38,320 --> 00:12:39,659
+Myke: Ale w tym roku Grey: mmmhmmm
+
+201
+00:12:39,660 --> 00:12:41,979
+Myke: zasugerowałeś "Dlaczego nie nagrywamy osobiście?"
+
+202
+00:12:41,980 --> 00:12:43,759
+Grey:: westchnienie:: Nie sugerowałem tego,
+
+203
+00:12:43,760 --> 00:12:44,819
+Myke: Czuję się tak, jak ty.
+
+204
+00:12:44,820 --> 00:12:46,479
+Grey: zasugerowałeś to, Myke: OK
+
+205
+00:12:46,480 --> 00:12:48,379
+Grey: zgodziłem się,
+
+206
+00:12:48,380 --> 00:12:49,759
+ponieważ mam teraz w pokoju dużo sprzętu audio
+
+207
+00:12:49,760 --> 00:12:52,139
+, którego naprawdę nie chciałem rozpakowywać.  ::chichocze::
+
+208
+00:12:52,140 --> 00:12:54,079
+Myke: Ach, to ma sens.
+
+209
+00:12:54,080 --> 00:13:02,939
+Ok.  Połóż na mnie ciężar.
+
+210
+00:13:02,940 --> 00:13:04,759
+Grey: Wszyscy odeszli.
+
+211
+00:13:04,760 --> 00:13:08,159
+Nadal tu jestem, bo potrzebuję dodatkowego dnia na przygotowanie.
+
+212
+00:13:08,160 --> 00:13:11,759
+Jest miejsce, do którego muszę się dostać na określony czas i to jest trochę...
+
+213
+00:13:11,760 --> 00:13:14,079
+Skończy się na tym, że będę trochę zaangażowany.
+
+214
+00:13:14,080 --> 00:13:17,159
+Więc domyślam się, że ten dziennik, który początkowo myślałem, że będzie krótki
+
+215
+00:13:17,160 --> 00:13:19,559
+na niektórych konferencjach, będzie,
+
+216
+00:13:19,560 --> 00:13:22,479
+hm, znacznie dłuższy, na przykład dwie lub trzy części?
+
+217
+00:13:22,480 --> 00:13:29,039
+Nie wiem, to problem edycji Future Grey.
+
+218
+00:13:29,040 --> 00:13:31,659
+Teraz problemem Greya jest pakowanie.
+
+219
+00:13:31,660 --> 00:13:33,639
+W przypadku walizek i innych rzeczy obowiązuje zasada:
+
+220
+00:13:33,640 --> 00:13:36,739
+„Do walizek trafiają tylko torby, a nie rzeczy”.
+
+221
+00:13:36,740 --> 00:13:38,879
+Torby, w walizkach.
+
+222
+00:13:38,880 --> 00:13:42,099
+Rzeczy można umieścić w torbach, a nie w walizce.
+
+223
+00:13:42,100 --> 00:13:45,279
+W porządku, pakowanie zostało wykonane o wiele szybciej niż się spodziewałem,
+
+224
+00:13:45,280 --> 00:13:46,699
+ponieważ oczywiście zdałem sobie sprawę:
+
+225
+00:13:46,700 --> 00:13:50,319
+nie muszę pakować tego "dobrze", po prostu muszę to wszystko zapakować, więc...
+
+226
+00:13:50,320 --> 00:13:51,699
+:: dźwięk cenzora::
+
+227
+00:13:51,700 --> 00:14:11,499
+-  -teraz.
+
+228
+00:14:11,500 --> 00:14:16,379
+Jasne, że tak to wygląda w kamerze, ale do
+
+229
+00:14:16,380 --> 00:14:23,599
+diabła... 🎵 Slow String Intro 🎵
+
+230
+00:14:23,600 --> 00:14:32,579
+🎵 Cascading Horns 🎵
+
+231
+00:14:32,580 --> 00:14:34,719
+Jestem tu na dzień przed rozpoczęciem VidConu,
+
+232
+00:14:34,720 --> 00:14:37,099
+atmosfera przed konferencją jest niezła.
+
+233
+00:14:37,100 --> 00:14:40,519
+Zawsze lubię być w miejscach, zanim zacznie się akcja,
+
+234
+00:14:40,520 --> 00:14:42,759
+ponieważ jest przygotowywana.
+
+235
+00:14:42,760 --> 00:14:45,519
+To poczucie „potencjału”.
+
+236
+00:14:45,520 --> 00:14:47,859
+Cały ten potencjał tego, co może być
+
+237
+00:14:47,860 --> 00:14:50,079
+przed tym, co się faktycznie wydarzy,
+
+238
+00:14:50,080 --> 00:14:53,059
+opróżnia cię do sedna.
+
+239
+00:14:53,060 --> 00:14:55,479
+A ta konferencja, ten VidCon,
+
+240
+00:14:55,480 --> 00:14:59,179
+jest szczególnie wyczerpujący, ponieważ
+
+241
+00:14:59,180 --> 00:15:02,839
+im dłużej spędzasz czas w pobliżu LA,
+
+242
+00:15:02,840 --> 00:15:05,359
+tym bardziej nasycone staje się twoje życie.
+
+243
+00:15:05,360 --> 00:15:09,379
+LA to dementor w formie miasta.
+
+244
+00:15:09,380 --> 00:15:12,339
+Ale teraz wciąż jestem świeża, lubię odkrywać,
+
+245
+00:15:12,340 --> 00:15:15,879
+lubię poczucie samotności w miejscach, które powinny być pełne.
+
+246
+00:15:15,880 --> 00:15:20,159
+Jest spokojnie.  I tak długo nie pozostanie.
+
+247
+00:15:20,160 --> 00:15:27,319
+::głośne odgłosy konferencji::
+
+248
+00:15:27,320 --> 00:15:29,079
+Szary: Zaczęło się.
+
+249
+00:15:29,080 --> 00:15:32,199
+::cicho::
+
+250
+00:15:32,200 --> 00:15:35,159
+::GŁOŚNO::
+
+251
+00:15:35,160 --> 00:15:36,759
+::cicho::
+
+252
+00:15:36,760 --> 00:15:38,319
+::GŁOŚNO::
+
+253
+00:15:38,320 --> 00:15:39,419
+::cicho::
+
+254
+00:15:39,420 --> 00:15:40,839
+::GŁOŚNO::
+
+255
+00:15:40,840 --> 00:15:42,699
+::Bardzo cicho::
+
+256
+00:15:42,700 --> 00:15:44,179
+::BARDZO GŁOŚNO::
+
+257
+00:15:44,180 --> 00:15:49,919
+Och, trzymaj się blisko kawy.  Potrzebuję cię teraz bardziej niż kiedykolwiek.
+
+258
+00:15:49,920 --> 00:15:59,559
+::więcej głośnych dźwięków::
+
+259
+00:15:59,560 --> 00:16:07,379
+Jestem tak wykończona, a te ciasteczka są wszędzie, osłabiając moją siłę woli, we wszystkich salonach.
+
+260
+00:16:07,380 --> 00:16:11,699
+Wszędzie nie ma tłumów, są ciasteczka.
+
+261
+00:16:11,700 --> 00:16:16,259
+Ciastko byłoby teraz takie dobre.  Ale muszę się oprzeć,
+
+262
+00:16:16,260 --> 00:16:18,919
+jeśli się zastanawiasz, podczas drugiej części nie jadłem węglowodanów.
+
+263
+00:16:18,920 --> 00:16:23,719
+Do tej pory minęły jakieś trzy tygodnie bez węglowodanów i to jest ostatni trudny odcinek,
+
+264
+00:16:23,720 --> 00:16:30,939
+ponieważ VidCon jest takim atakiem na umysł i żeby sobie z nim poradzić, źle wybrałem w minionych latach
+
+265
+00:16:30,940 --> 00:16:33,339
+Ktoś: Co?  Grey: Przeceniasz siłę tego
+
+266
+00:16:33,340 --> 00:16:35,339
+, nie rozumiem, dlaczego uważasz, że to jest interesujące.
+
+267
+00:16:35,340 --> 00:16:38,479
+Ktoś: Brady będzie chciał zobaczyć twoje zdjęcie.
+
+268
+00:16:38,480 --> 00:16:39,339
+Szary: OK?
+
+269
+00:16:39,340 --> 00:16:41,259
+Ktoś: ::śmiech::
+
+270
+00:16:41,260 --> 00:16:44,419
+Tym razem dokonuję lepszych wyborów.
+
+271
+00:16:44,420 --> 00:16:49,979
+Ale Ameryka naprawdę nie pomaga, kiedy w telefonie jest przycisk pizzy i znak pizzy.
+
+272
+00:16:49,980 --> 00:16:53,659
+Myślę, że naprawdę chcą, żebym jadł pizzę, ale zamierzam pozostać silny.
+
+273
+00:16:53,660 --> 00:17:16,159
+Zostały tylko dwa tygodnie na ucieczkę z Ameryki nie grubsza.
+
+274
+00:17:16,160 --> 00:17:22,719
+Czuję, że to miejsce jest moim przeciwieństwem.
+
+275
+00:17:22,720 --> 00:17:30,859
+::Krzyki::
+
+276
+00:17:30,860 --> 00:17:43,459
+Tyle krzyków i filmowania
+
+277
+00:17:43,460 --> 00:17:44,979
+Casey: OK, więc pytanie brzmiało:
+
+278
+00:17:44,980 --> 00:17:56,259
+Wy z waszymi aparatami, wszyscy za wami mnie nie widzą
+
+279
+00:17:56,260 --> 00:18:04,039
+Niesamowite
+
+280
+00:18:04,040 --> 00:18:06,259
+Wszędzie są ludzie
+
+281
+00:18:06,260 --> 00:18:08,019
+Cóż, prawie wszędzie
+
+282
+00:18:08,020 --> 00:18:12,079
+Panelista: ...co tak naprawdę w internecie  zabity jest model biznesowy środków masowego przekazu.
+
+283
+00:18:12,080 --> 00:18:14,959
+Próbowaliśmy wprowadzić ten model oparty na niedostatku do tego świata opartego na obfitości,
+
+284
+00:18:14,960 --> 00:18:20,139
+ceny spadają, desperacja rośnie, kończymy na kotach i kardashianach,
+
+285
+00:18:20,140 --> 00:18:23,759
+jak widzicie, jako ostateczną przynętę na kliknięcia.  I zadziałało!  Dobrze?
+
+286
+00:18:23,760 --> 00:18:27,499
+A więc... Jak na nowo przemyśleć model biznesowy News?
+
+287
+00:18:27,500 --> 00:18:51,499
+Heh... Powodzenia z
+
+288
+00:18:51,500 --> 00:18:52,999
+przejęciem władzy przez Graya z Przyszłości
+
+289
+00:18:53,000 --> 00:18:58,499
+W tym momencie Past Grey został naprawdę zepchnięty poza swoje społeczne granice.
+
+290
+00:18:58,500 --> 00:19:01,739
+Nagle nie ma już mówienia do kamery.
+
+291
+00:19:01,740 --> 00:19:03,999
+Po prostu nie ma już mówienia.
+
+292
+00:19:04,000 --> 00:19:07,999
+To pierwsze lato Graya było wyczerpujące, poza moimi zdolnościami do wyjaśnienia,
+
+293
+00:19:08,000 --> 00:19:12,159
+ale była to również wspaniała i niezwykle udana podróż.
+
+294
+00:19:12,160 --> 00:19:14,339
+Chciałem spróbować mieć więcej spotkań z ludźmi
+
+295
+00:19:14,340 --> 00:19:15,999
+I chłopcze, czy kiedykolwiek...
+
+296
+00:19:16,000 --> 00:19:17,199
+Ale nadszedł czas, aby odejść.
+
+297
+00:19:17,200 --> 00:19:20,499
+Potrzebowałem przerwy, a było miejsce, do którego chciałem się udać,
+
+298
+00:19:20,500 --> 00:19:22,399
+gdzie mogłem po prostu być cicho
+
+299
+00:19:22,400 --> 00:19:23,999
+i nie musieć widywać się z ludźmi,
+
+300
+00:19:24,000 --> 00:19:25,999
+nie muszę nic robić
+
+301
+00:19:26,000 --> 00:19:29,359
+i po prostu naładować się na chwilę.
+
+302
+00:19:29,360 --> 00:19:30,999
+Więc tam poszedłem.
+
+303
+00:19:31,000 --> 00:19:35,499
+I chyba nie ma nic bardziej podnoszącego na duchu ludzkiej duszy
+
+304
+00:19:35,500 --> 00:19:40,499
+niż lot z LA do miejsca, w którym naprawdę chcesz być.
+
+305
+00:19:40,500 --> 00:19:42,499
+Naładowałem się więc na chwilę,
+
+306
+00:19:42,500 --> 00:19:45,999
+wróciłem do Północnej Karoliny, aby ponownie zobaczyć moją rodzinę,
+
+307
+00:19:46,000 --> 00:19:47,999
+a potem wróciłem do domu do Londynu.
+
+308
+00:19:48,000 --> 00:19:54,499
+I tak zakończyło się Lato Greya.
+
+309
+00:19:54,500 --> 00:19:57,500
+O tak!  Wróciłem też nie grubszy.
+

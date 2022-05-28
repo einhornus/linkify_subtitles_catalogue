@@ -1,0 +1,480 @@
+1
+00:00:00,310 --> 00:00:03,059
+Hé, Vsaus.  Michael hier,
+en ik ben net terug van
+
+2
+00:00:03,060 --> 00:00:06,459
+VidCon.  De hele conventie was
+ongelooflijk, maar de hele tijd dat ik daar was
+
+3
+00:00:06,460 --> 00:00:07,099
+,
+
+4
+00:00:07,100 --> 00:00:11,619
+dacht ik veel aan video.
+We kijken allemaal naar video
+
+5
+00:00:11,620 --> 00:00:15,239
+en velen van ons werken met video,
+maar wat is het?  Ik bedoel, wat
+
+6
+00:00:15,240 --> 00:00:18,919
+is video eigenlijk?  Nou, raad eens, vandaag
+gaan we een kijkje nemen.
+
+7
+00:00:18,920 --> 00:00:22,948
+Om te beginnen denk ik dat we helemaal onderaan moeten beginnen
+
+
+8
+00:00:22,949 --> 00:00:26,299
+met taal.
+Wat betekent het woord record?
+
+9
+00:00:26,300 --> 00:00:29,759
+Het verhaal achter het woord 'record' is
+eigenlijk best gaaf en maakt me een beetje
+
+10
+00:00:29,760 --> 00:00:30,759
+sentimenteel.
+
+11
+00:00:30,760 --> 00:00:34,689
+Het woord 'record' komt uit het Latijn,
+waar 're' opnieuw betekent
+
+12
+00:00:34,690 --> 00:00:38,439
+en 'cor' het hart of de ziel.
+
+13
+00:00:38,440 --> 00:00:42,199
+Dus als je iets opneemt,
+breng je het letterlijk terug
+
+14
+00:00:42,200 --> 00:00:46,038
+in je hart, breng je het terug in je
+ziel, je herinnert het je.
+
+15
+00:00:46,039 --> 00:00:49,288
+Dat klinkt heel mooi en mooi,
+maar het had eigenlijk meer te maken met het
+
+16
+00:00:49,289 --> 00:00:49,699
+feit dat
+
+17
+00:00:49,700 --> 00:00:53,979
+oude mensen dachten dat het hart
+was dat we opgeslagen herinneringen waren, niet de hersenen.
+
+18
+00:00:53,980 --> 00:00:57,468
+De reden waarom een reeks stilstaande beelden kan l
+jken te bewegen, is ee
+
+19
+00:00:57,469 --> 00:01:01,488
+ effect dat bekend staat als 'bètabeweging'.  Als 
+beelden snel genoeg bewegen, kunnen
+
+20
+00:01:01,489 --> 00:01:05,609
+onze hersenen ze niet als
+afzonderlijke beelden bevatten en ontstaat de illusie van
+
+21
+00:01:05,610 --> 00:01:09,169
+beweging.
+Nu hebben we heel lang
+
+22
+00:01:09,170 --> 00:01:12,959
+bewegende beelden vastgelegd op fotografische film,
+maar later ontstond er
+
+23
+00:01:12,960 --> 00:01:16,789
+een nieuwe manier om bewegende beelden vast te leggen
+en dat werd
+
+24
+00:01:16,790 --> 00:01:20,188
+'video' genoemd.
+Video komt van het Latijn voor 'ik zie'
+
+25
+00:01:20,189 --> 00:01:24,258
+en in plaats van een bewegend
+beeld chemisch op celluloid
+
+26
+00:01:24,259 --> 00:01:28,548
+fotografische filmmateriaal te bewaren, is
+video een elektronische
+
+27
+00:01:28,549 --> 00:01:33,219
+weergave van het bewegende beeld.
+Nu gebeuren er in de echte wereld dingen
+
+28
+00:01:33,220 --> 00:01:37,158
+gewoon.  De dingen gebeuren gewoon continu
+.  Maar in de wereld van een camera,
+
+29
+00:01:37,159 --> 00:01:38,118
+of het nu een film-
+
+30
+00:01:38,119 --> 00:01:41,789
+of videocamera is, is het bijna altijd in
+de vorm van framerates.
+
+31
+00:01:41,790 --> 00:01:45,569
+Foto's van de wereld die met een
+bepaalde snelheid zijn gemaakt en die vervolgens snel worden verwerkt
+
+32
+00:01:45,570 --> 00:01:46,078
+door
+
+33
+00:01:46,079 --> 00:01:49,658
+middel van bèta-bewegingen,
+de illusie van beweging.
+
+34
+00:01:49,659 --> 00:01:53,749
+Wanneer een camera opneemt met een lagere
+framesnelheid, ziet het afspelen er vaak
+
+35
+00:01:53,750 --> 00:01:58,648
+schokkerig uit en slaat het op deze manier over.  Meer frames
+per seconde betekent dat
+
+36
+00:01:58,649 --> 00:02:00,109
+er elke seconde meer informatie wordt opgenomen,
+
+37
+00:02:00,110 --> 00:02:03,609
+wat leidt tot meer vloeiendheid.
+Maar dat leidt tot een hele bak wormen,
+
+38
+00:02:03,610 --> 00:02:06,618
+wat een geweldige overgang is naar een
+gesprek dat ik had met Dylan van
+
+39
+00:02:06,619 --> 00:02:08,119
+HouseholdHacker op VidCon.
+
+40
+00:02:08,120 --> 00:02:11,239
+Rol de tape op.
+
+41
+00:02:11,240 --> 00:02:16,799
+Hé, Vsaus.  Michael hier, en ik ben in de badkamer bij VidCon en ik heb een speciale gast.  Net buiten
+
+42
+00:02:16,800 --> 00:02:20,259
+is het Dylan van HouseholdHacker.
+Hé, wat is er allemaal aan de hand?
+
+43
+00:02:20,260 --> 00:02:24,068
+Weet je, ik heb een goede vraag voor je op
+basis van framesnelheden en wat niet.  Wat zou je
+
+44
+00:02:24,069 --> 00:02:24,549
+zeggen dat
+
+45
+00:02:24,550 --> 00:02:31,049
+het menselijk oog ziet als een framesnelheid?  Zeer goede vraag.  In welke framerate zien we de wereld met onze
+
+46
+00:02:31,050 --> 00:02:32,098
+ogen?
+Ik bedoel,
+
+47
+00:02:32,099 --> 00:02:35,409
+hoe snel reist informatie
+van ons oog naar onze hersenen?
+
+48
+00:02:35,410 --> 00:02:39,729
+Het kan natuurlijk niet te laag zijn,
+want snelle objecten zien er niet uit alsof ze
+
+49
+00:02:39,730 --> 00:02:40,539
+overslaan,
+
+50
+00:02:40,540 --> 00:02:44,979
+ze zien er behoorlijk vloeiend uit.  Het is een beetje een
+strikvraag, want onze ogen
+
+51
+00:02:44,980 --> 00:02:48,878
+zijn geen camera's.
+In plaats daarvan volgen ze objecten
+
+52
+00:02:48,879 --> 00:02:52,219
+en ontvangen ze een continue stroom fotonen
+op het netvlies
+
+53
+00:02:52,220 --> 00:02:55,249
+die informatie via een chemische reactie
+
+54
+00:02:55,250 --> 00:02:59,149
+naar de hersenen sturen.  Nu, dit is wat we nu doen.
+De visuele cortex in onze hersenen
+
+55
+00:02:59,150 --> 00:03:02,408
+houdt die informatie meestal
+ongeveer een vijftiende
+
+56
+00:03:02,409 --> 00:03:06,399
+van een seconde vast van ons netvlies.  Dus als een animatie
+vijftien frames per seconde
+
+57
+00:03:06,400 --> 00:03:09,719
+of sneller beweegt, ziet het er mooi en vloeiend uit.
+Maar
+
+58
+00:03:09,720 --> 00:03:14,158
+als het lager is dan vijftien frames per seconde, worden
+onze hersenen niet voor de gek gehouden door de bètabeweging
+
+59
+00:03:14,159 --> 00:03:19,699
+en lijkt het alsof het overslaat.  Dus
+hoe sneller de framerate, hoe beter
+
+60
+00:03:19,700 --> 00:03:24,268
+alles er uiteindelijk uit gaat zien.  Hier gaat het om.
+Als de framerates steeds hoger worden
+
+61
+00:03:24,269 --> 00:03:27,499
+, krijg je een beeld dat
+hoofdpijn kan veroorzaken als mensen
+
+62
+00:03:27,500 --> 00:03:28,548
+het op het scherm bekijken.
+
+63
+00:03:28,549 --> 00:03:31,988
+Uhm... Hier, ik zal uitleggen waarom.
+Houd deze camera even vast.
+
+64
+00:03:31,989 --> 00:03:35,449
+O ja, geen probleem.
+Dus terug naar het punt
+
+65
+00:03:35,450 --> 00:03:39,059
+over onze ogen die objecten volgen.
+Als ik dit doe
+
+66
+00:03:39,060 --> 00:03:42,708
+- mijn hand voor mijn gezicht bewegen
+en het met mijn ogen volgen -
+
+67
+00:03:42,709 --> 00:03:47,339
+kan ik mijn hand zien, dan is dat logisch.  Maar op
+een gegeven moment zal mijn hand zo snel bewegen
+
+68
+00:03:47,340 --> 00:03:51,238
+dat het slechts een waas is en de reden
+dat het een waas is, is omdat mijn
+
+69
+00:03:51,239 --> 00:03:56,889
+oog maar zo snel kan volgen.  En wanneer objecten
+sneller bewegen dan onze oogbollen kunnen volgen, zorgen je
+
+70
+00:03:56,890 --> 00:03:57,529
+hersenen voor
+
+71
+00:03:57,530 --> 00:04:00,899
+bewegingsonscherpte.  Op die manier krijgen we een gevoel van
+beweging,
+
+72
+00:04:00,900 --> 00:04:04,139
+maar we zien niet zoiets als een hand die willekeurig
+
+73
+00:04:04,140 --> 00:04:07,818
+overal verschijnt.
+Maar dit wordt een probleem met nieuwe
+
+74
+00:04:07,819 --> 00:04:09,658
+high-definition programma's op
+
+75
+00:04:09,659 --> 00:04:13,639
+grote televisies, omdat sommige van die
+programma's naar je tv worden gebracht
+
+76
+00:04:13,640 --> 00:04:16,948
+met framesnelheden tot wel 1000 frames per seconde.
+
+77
+00:04:16,949 --> 00:04:20,737
+En objecten, zoals een tennisbal,
+die normaal zo snel reizen dat
+
+78
+00:04:20,738 --> 00:04:24,439
+onze ogen ze niet kunnen volgen en ze zien
+er wazig uit, zien er niet wazig uit,
+
+79
+00:04:24,440 --> 00:04:28,969
+omdat de camera ze
+duidelijk kan zien.  En als je dat programma op tv bekijkt,
+
+80
+00:04:28,970 --> 00:04:33,649
+kun je hoofdpijn krijgen of
+duizelig worden, dus moeten ze manieren vinden
+
+81
+00:04:33,650 --> 00:04:37,159
+om HD-beelden weer wazig te maken.
+Best netjes toch?
+
+82
+00:04:37,160 --> 00:04:40,379
+Dat is geweldige informatie.  Hoe heb je
+dit geleerd?  Daarvoor ben ik hier, man.
+
+83
+00:04:40,380 --> 00:04:45,918
+Dank u.  Tot ziens.
+Tot ziens.
+
+84
+00:04:45,919 --> 00:04:52,219
+Je weet wel, de badkamer.  Je weet wel.
+Ik hoorde dat je naar buiten kwam.  Heb je je handen gewassen?
+
+85
+00:04:52,220 --> 00:04:55,249
+Euhm, ja.
+
+86
+00:04:55,250 --> 00:04:58,829
+Daar ga je dan.  Enkele coole feiten over
+video die ik leerde terwijl ik
+
+87
+00:04:58,830 --> 00:04:59,589
+van
+
+88
+00:04:59,590 --> 00:05:03,719
+en naar VidCon van New York naar LA vloog.
+Het was een lange vlucht, maar ik heb veel geleerd
+
+89
+00:05:03,720 --> 00:05:07,508
+en ik wil eindigen met wat cijfers over
+YouTube specifiek.
+
+90
+00:05:07,509 --> 00:05:11,258
+YouTube host video's van over de hele wereld.
+Enorme,
+
+91
+00:05:11,259 --> 00:05:14,839
+enorme bedragen.
+In feite uploaden mensen elke minuut van de dag
+
+92
+00:05:14,840 --> 00:05:18,749
+video naar YouTube.
+En als je alle video
+
+93
+00:05:18,750 --> 00:05:22,549
+'s die op een bepaald moment naar YouTube zijn geüpload
+, zou opnemen, zou het bij elkaar
+
+94
+00:05:22,550 --> 00:05:27,249
+48 uur zijn.  Dat klopt.  Elke minuut worden er
+twee volledige dagen aan
+
+95
+00:05:27,250 --> 00:05:31,698
+video geüpload naar YouTube
+.  Jullie maken deel uit van iets
+
+96
+00:05:31,699 --> 00:05:35,198
+gigantisch.  Oké, nu later deze week
+heb ik een nieuwe aflevering van IMG.
+
+97
+00:05:35,199 --> 00:05:38,569
+En binnenkort hebben we afleveringen van
+DONG, LÜt, het wordt super gaaf, dus
+
+98
+00:05:38,570 --> 00:05:40,579
+zorg ervoor dat je geabonneerd bent zodat je niets mist.
+
+99
+00:05:40,580 --> 00:05:41,619
+En zoals altijd,
+
+100
+00:05:41,620 --> 00:05:49,299
+bedankt voor het kijken.
+
+101
+00:05:49,300 --> 00:05:51,460
+Dat zijn ze niet, ze zijn niet dezelfde persoon.
+

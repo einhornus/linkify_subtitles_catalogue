@@ -1,0 +1,378 @@
+1
+00:00:00,700 --> 00:00:04,119
+Rok kalendarzowy składa się z trzystu
+sześćdziesięciu pięciu dni – liczby, której nie
+
+2
+00:00:04,120 --> 00:00:08,768
+da się ładnie podzielić, dlatego otrzymujemy
+nieparzyste miesiące 30 lub 31 dni.
+
+3
+00:00:08,769 --> 00:00:12,579
+Z wyjątkiem lutego -- najsłabszego miotu
+-- który ma tylko 28 ... z wyjątkiem kiedy ma
+
+4
+00:00:12,580 --> 00:00:15,869
+29, a rok ma 366 dni.
+
+5
+00:00:15,870 --> 00:00:16,869
+Dlaczego tak się dzieje?
+
+6
+00:00:16,870 --> 00:00:19,639
+W jakim szalonym wszechświecie żyjemy, w
+którym niektóre lata są dłuższe niż inne?
+
+7
+00:00:19,640 --> 00:00:22,189
+Aby odpowiedzieć na to pytanie, musimy wiedzieć: czym właściwie
+jest rok?
+
+8
+00:00:22,190 --> 00:00:25,609
+W dużym uproszczeniu: rok to
+czas potrzebny Ziemi na jedną podróż dookoła
+
+9
+00:00:25,610 --> 00:00:26,609
+Słońca.
+
+10
+00:00:26,610 --> 00:00:28,319
+Dzieje się to zgodnie z
+cyklem pór roku.
+
+11
+00:00:28,320 --> 00:00:31,729
+Teraz narysowanie takiego małego diagramu
+pokazującego Ziemię beztrosko krążącą wokół Słońca jest
+
+12
+00:00:31,730 --> 00:00:35,189
+łatwe do zrobienia, ale dokładne śledzenie roku
+jest trudne, gdy jesteś na Ziemi, ponieważ
+
+13
+00:00:35,190 --> 00:00:37,429
+wszechświat nie zapewnia mapy z góry.
+
+14
+00:00:37,430 --> 00:00:40,499
+Na Ziemi można zobaczyć tylko zmiany pór roku,
+a oczywistym sposobem śledzenia ich
+
+15
+00:00:40,500 --> 00:00:45,259
+przychodzenia i odchodzenia jest liczenie mijających dni,
+co daje 365-dniowy kalendarz.
+
+16
+00:00:45,260 --> 00:00:49,209
+Ale gdy tylko zaczniesz używać tego kalendarza
+, powoli przestaje on być zsynchronizowany z porami roku.
+
+17
+00:00:49,210 --> 00:00:52,078
+A z każdym mijającym rokiem przepaść staje się coraz
+większa i większa.
+
+18
+00:00:52,079 --> 00:00:55,809
+Za trzy dekady kalendarz przesunie
+się o tydzień, a za kilkaset lat pory roku
+
+19
+00:00:55,810 --> 00:01:00,099
+zostaną odwrócone – co oznacza, że obchody Bożego Narodzenia odbyw
+ją się latem – co byłoby szale
+
+20
+00:01:00,100 --> 00:01:01,099
+�stwem.  Dlaczego to się zdarza?
+
+21
+00:01:01,100 --> 00:01:02,099
+Czy źle policzyliśmy dni?
+
+22
+00:01:02,100 --> 00:01:05,077
+Cóż, kalendarz przewiduje, że
+czas potrzebny Ziemi na okrążenie Słońca wynosi
+
+23
+00:01:05,078 --> 00:01:06,188
+8760 godzin.
+
+24
+00:01:06,189 --> 00:01:10,669
+Ale jeśli faktycznie zmierzysz to stoperem
+, zobaczysz, że rok jest naprawdę dłuższy
+
+25
+00:01:10,670 --> 00:01:12,879
+niż przewiduje kalendarz o prawie sześć godzin.
+
+26
+00:01:12,880 --> 00:01:17,019
+Tak więc nasz kalendarz porusza się coraz
+szybciej, niż zmieniają się pory roku.
+
+27
+00:01:17,020 --> 00:01:20,629
+I tak dochodzimy do podstawowego
+problemu wszystkich kalendarzy: cykl dzień/noc, choć
+
+28
+00:01:20,630 --> 00:01:23,748
+łatwy do policzenia, nie ma nic wspólnego z
+cyklem rocznym.
+
+29
+00:01:23,749 --> 00:01:26,188
+Dzień i noc są spowodowane obrotem Ziemi
+wokół własnej osi.
+
+30
+00:01:26,189 --> 00:01:29,188
+Kiedy stoisz z boku twarzą w stronę słońca, jest
+dzień, a gdy jesteś po drugiej stronie
+
+31
+00:01:29,189 --> 00:01:30,188
+, jest noc.
+
+32
+00:01:30,189 --> 00:01:33,388
+Ale ten obrót nie jest bardziej powiązany
+z ruchem orbitalnym wokół Słońca, niż baletnica
+
+33
+00:01:33,389 --> 00:01:36,618
+kręcąca się z tyłu ciężarówki jest powiązana
+z prędkością poruszania się ciężarówki.
+
+34
+00:01:36,619 --> 00:01:39,258
+Liczenie obrotów baleriny w celu
+przewidzenia, ile czasu zajmie ciężarówce nurkowanie
+
+35
+00:01:39,259 --> 00:01:43,359
+w kole, może dać ci przybliżony pomysł,
+ale szaleństwem jest oczekiwać, że będzie dokładny.
+
+36
+00:01:43,360 --> 00:01:46,478
+Liczenie dni w celu śledzenia orbity to prawie
+to samo, więc nie
+
+37
+00:01:46,479 --> 00:01:50,789
+powinno być niespodzianką, gdy Ziemia nie
+wykona dokładnie 365 pełnych obrotów w ciągu roku.
+
+38
+00:01:50,790 --> 00:01:56,309
+Irytujące, podczas gdy 365 dni to za mało, 366
+dni to za dużo i nadal powoduje, że pory roku
+
+39
+00:01:56,310 --> 00:01:58,739
+nie są zsynchronizowane, a wręcz
+odwrotnie.
+
+40
+00:01:58,740 --> 00:02:02,068
+Rozwiązaniem tego wszystkiego jest rok przestępny
+: luty ma dodatkowy dzień, ale tylko
+
+41
+00:02:02,069 --> 00:02:03,438
+co cztery lata.
+
+42
+00:02:03,439 --> 00:02:07,039
+Działa to całkiem nieźle, ponieważ każdego roku kalendarz
+jest krótszy o około kwadrans, więc po czterech
+
+43
+00:02:07,040 --> 00:02:09,388
+latach dodajesz dodatkowy dzień, aby powrócić do
+porządku.
+
+44
+00:02:09,389 --> 00:02:10,388
+Huza!
+
+45
+00:02:10,389 --> 00:02:11,389
+Problem został rozwiązany.
+
+46
+00:02:11,390 --> 00:02:12,539
+Z wyjątkiem tego, że nie.
+
+47
+00:02:12,540 --> 00:02:15,739
+Wydłużanie kalendarza o jeden dzień co
+cztery lata to trochę za dużo, a kalendarz
+
+48
+00:02:15,740 --> 00:02:19,129
+wciąż odstaje od pór roku w
+tempie jeden dzień na sto lat.
+
+49
+00:02:19,130 --> 00:02:22,458
+Co jest dobre dla apatycznych, ale nie dla
+projektantów kalendarzy, którzy chcą, aby wszystko
+
+50
+00:02:22,459 --> 00:02:23,679
+było idealnie dopasowane.
+
+51
+00:02:23,680 --> 00:02:26,739
+Aby naprawić nieprawidłowość, co sto
+lat pomijany jest rok przestępny.
+
+52
+00:02:26,740 --> 00:02:30,539
+Tak więc lata 1896 i 1904 były latami przestępnymi, a
+1900 nie.
+
+53
+00:02:30,540 --> 00:02:34,238
+To jest lepsze, ale wciąż pozostawia kalendarz
+nieco za szybko z błędem
+
+54
+00:02:34,239 --> 00:02:35,999
+1 dnia na 400 lat.
+
+55
+00:02:36,000 --> 00:02:39,029
+Do pominięcia zasady wieków dodaje się więc dodatkową klauzulę,
+że jeśli wiek jest
+
+56
+00:02:39,030 --> 00:02:41,878
+podzielny przez 400, to będzie to rok przestępny.
+
+57
+00:02:41,879 --> 00:02:45,159
+Więc rok 1900 i 2100 to nie lata przestępne, ale rok 2000
+jest.
+
+58
+00:02:45,160 --> 00:02:49,179
+Przy tych trzech zasadach błąd jest teraz tylko
+jednym dniem wolnym od prawie ośmiu tysięcy lat,
+
+59
+00:02:49,180 --> 00:02:52,568
+które według obecnego kalendarza „misja
+zakończona” i tak nazywana jest dniem.
+
+60
+00:02:52,569 --> 00:02:55,389
+Co jest prawdopodobnie całkiem rozsądne, ponieważ
+osiem tysięcy lat temu ludzie właśnie
+
+61
+00:02:55,390 --> 00:02:58,729
+doszli do wniosku, że rolnictwo może być dobrym
+pomysłem, a za osiem tysięcy lat będziemy
+
+62
+00:02:58,730 --> 00:03:01,548
+mieć nadzieję, że będziemy używać kalendarza z lepszym
+systemem śledzenia dat.
+
+63
+00:03:01,549 --> 00:03:06,149
+Ale być może jesteś matematykiem, a błąd 0,0001
+procenta jest obrzydliwością w twoich oczach
+
+64
+00:03:06,150 --> 00:03:07,149
+i musi zostać usunięty.
+
+65
+00:03:07,150 --> 00:03:10,369
+„Pech” mówi The Universe, ponieważ
+długość dnia nie jest nawet stała.
+
+66
+00:03:10,370 --> 00:03:14,359
+Różni się losowo o kilka milisekund i
+średnio i bardzo powoli zmniejsza się o około
+
+67
+00:03:14,360 --> 00:03:16,109
+1 milisekundę na sto lat.
+
+68
+00:03:16,110 --> 00:03:19,969
+Co oznacza, że
+anie idealnego kalendarza, który będzie trwał wiecznie, jest dosłownie niemo
+
+69
+00:03:19,970 --> 00:03:23,089
+�liwe.  Teoretycznie długość dnia wydłuży
+się tak długo, jak bieżący miesiąc – ale nie
+
+70
+00:03:23,090 --> 00:03:27,018
+martw się, w praktyce zajmie to dziesiątki
+miliardów lat, a nasze własne rozszerzające się słońce
+
+71
+00:03:27,019 --> 00:03:28,798
+zniszczy Ziemię na długo przed tym.
+
+72
+00:03:28,799 --> 00:03:32,128
+Przepraszamy, nie do końca pewni, jak przeszliśmy od
+liczenia dni w miesiącach do ognistego, nieuniknionego
+
+73
+00:03:32,129 --> 00:03:35,298
+końca całej ludzkiej cywilizacji – chyba że
+oczywiście mamy odpowiednio finansowany
+
+74
+00:03:35,299 --> 00:03:37,348
+program kosmiczny (wskazówka, wskazówka) – ale proszę
+bardzo.
+
+75
+00:03:37,349 --> 00:03:40,408
+Przez następne osiem tysiącleci lata przestępne
+będą synchronizować kalendarz z porami roku,
+
+76
+00:03:40,409 --> 00:03:43,889
+ale w zaskakująco skomplikowany sposób.
+
+77
+00:03:43,890 --> 00:03:47,289
+Możesz dowiedzieć się dużo więcej o orbitach, różnych
+rodzajach lat i supermasywnych czarnych dziurach
+
+78
+00:03:47,290 --> 00:03:48,289
+i więcej w Minute Physics.
+
+79
+00:03:48,290 --> 00:03:51,169
+Jak zwykle Henry świetnie sobie radzi, wyjaśniając
+to wszystko w swoim nowym filmie.
+
+80
+00:03:51,170 --> 00:03:51,590
+Sprawdź to.�
+

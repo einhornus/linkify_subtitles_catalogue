@@ -1,0 +1,1875 @@
+1
+00:00:05,171 --> 00:00:06,872
+Lire dans les pensées ?
+
+2
+00:00:06,873 --> 00:00:07,973
+Bien sûr que non.
+
+3
+00:00:07,974 --> 00:00:10,876
+J'adore lire.
+
+4
+00:00:10,877 --> 00:00:15,247
+Si la lecture des pensées
+passe pour un concept pseudoscientifique,
+
+5
+00:00:15,248 --> 00:00:16,582
+dirons-nous
+
+6
+00:00:16,583 --> 00:00:18,050
+farfelu,
+
+7
+00:00:18,051 --> 00:00:21,387
+sa contrepartie scientifique,
+l'identification de la pensée,
+
+8
+00:00:21,388 --> 00:00:23,655
+est bien réelle.
+
+9
+00:00:23,656 --> 00:00:26,592
+Basée sur l'imagerie cérébrale
+et l'apprentissage automatique,
+
+10
+00:00:26,593 --> 00:00:30,095
+elle permet de réaliser des expériences
+
+11
+00:00:30,096 --> 00:00:33,399
+qui ne consistent pas uniquement
+à surveiller les pensées des gens,
+
+12
+00:00:33,400 --> 00:00:37,403
+mais à comprendre
+comment les pensées sont constituées.
+
+13
+00:00:37,404 --> 00:00:39,238
+Lorsque j'ai une pensée,
+
+14
+00:00:39,239 --> 00:00:42,841
+à quoi ressemble cette image mentale ?
+
+15
+00:00:42,842 --> 00:00:44,376
+Quelle est sa résolution ?
+
+16
+00:00:44,377 --> 00:00:46,712
+Les souvenirs sont-ils en HD ?
+
+17
+00:00:46,713 --> 00:00:49,081
+Comment évoluent-ils ?
+
+18
+00:00:49,082 --> 00:00:50,282
+Dans cet épisode,
+
+19
+00:00:50,283 --> 00:00:52,451
+je vais démontrer
+en quoi la lecture des pensées
+
+20
+00:00:52,452 --> 00:00:54,553
+permet de répondre à ces questions.
+
+21
+00:00:54,554 --> 00:00:58,257
+Mon enquête commence ici,
+à l'Université de l'Oregon.
+
+22
+00:00:58,258 --> 00:01:01,060
+Je vais rencontrer le Dr Brice Kuhl,
+du laboratoire Kuhl.
+
+23
+00:01:01,061 --> 00:01:03,462
+Ce neuroscientifique utilise
+la neuroimagerie
+
+24
+00:01:03,463 --> 00:01:06,265
+et l'apprentissage automatique
+pour lire dans les pensées,
+
+25
+00:01:06,266 --> 00:01:23,248
+sans que les gens aient besoin de parler.
+
+26
+00:01:23,249 --> 00:01:27,953
+LA LECTURE DES PENSÉES
+
+27
+00:01:27,954 --> 00:01:30,823
+UNIVERSITÉ DE L'OREGON
+
+28
+00:01:30,824 --> 00:01:33,559
+Parlez-moi de vos activités.
+
+29
+00:01:33,560 --> 00:01:34,727
+PROFESSEUR DE PSYCHOLOGIE
+
+30
+00:01:34,728 --> 00:01:36,662
+Je fais partie du programme
+sur les neurosciences cognitives
+
+31
+00:01:36,663 --> 00:01:38,163
+et j'étudie la mémoire humaine.
+
+32
+00:01:38,164 --> 00:01:40,666
+Mon labo utilise la neuroimagerie
+
+33
+00:01:40,667 --> 00:01:42,568
+et beaucoup de nos travaux reposent
+
+34
+00:01:42,569 --> 00:01:45,671
+sur l'imagerie par résonance magnétique
+fonctionnelle, l'IRMf.
+
+35
+00:01:45,672 --> 00:01:49,341
+En quoi l'IRMf permet-elle
+d'étudier la mémoire ?
+
+36
+00:01:49,342 --> 00:01:51,243
+On observe la structure
+de l'activité neuronale.
+
+37
+00:01:51,244 --> 00:01:54,246
+Lors du processus de mémorisation,
+un certain motif se crée,
+
+38
+00:01:54,247 --> 00:01:56,615
+nous l'enregistrons,
+
+39
+00:01:56,616 --> 00:01:59,618
+puis nous vérifions si ce motif réapparaît
+
+40
+00:01:59,619 --> 00:02:02,254
+ou se réactive
+lorsqu'on se remémore ce souvenir.
+
+41
+00:02:02,255 --> 00:02:06,158
+Cela signifie que l'on peut observer
+les motifs neuronaux
+
+42
+00:02:06,159 --> 00:02:09,495
+et en déduire le contenu d'un souvenir
+
+43
+00:02:09,496 --> 00:02:11,096
+ou simplement d'une pensée ?
+
+44
+00:02:11,097 --> 00:02:13,666
+Oui, on appelle ça du décodage.
+
+45
+00:02:13,667 --> 00:02:15,401
+On se base sur...
+
+46
+00:02:15,402 --> 00:02:19,038
+La mémorisation entraîne
+un modèle d'activité qu'on retrouve
+
+47
+00:02:19,039 --> 00:02:20,873
+lors du rappel d'un souvenir.
+
+48
+00:02:20,874 --> 00:02:23,575
+On peut prédire le contenu du souvenir.
+
+49
+00:02:23,576 --> 00:02:26,278
+Cela ressemble à de la lecture de pensée.
+
+50
+00:02:26,279 --> 00:02:28,947
+Oui, ça y ressemble.
+
+51
+00:02:28,948 --> 00:02:32,484
+Brice, à quelle expérience
+allez-vous me soumettre ?
+
+52
+00:02:32,485 --> 00:02:35,988
+Aujourd'hui, nous serons en terre inconnue.
+
+53
+00:02:35,989 --> 00:02:38,524
+Nous allons tester
+une variante expérimentale sur vous.
+
+54
+00:02:38,525 --> 00:02:41,894
+J'ignore quels seront les résultats.
+
+55
+00:02:41,895 --> 00:02:46,231
+Mais cela est représentatif de notre étude
+et de notre objectif.
+
+56
+00:02:46,232 --> 00:02:48,167
+Aujourd'hui, l'expérience portera
+
+57
+00:02:48,168 --> 00:02:50,235
+sur la mémorisation de visages.
+
+58
+00:02:50,236 --> 00:02:53,839
+Vous examinerez les photos de 12 célébrités.
+
+59
+00:02:53,840 --> 00:02:55,107
+Des gens que je connais.
+
+60
+00:02:55,108 --> 00:02:56,975
+- Des gens connus.
+- D'accord.
+
+61
+00:02:56,976 --> 00:02:58,877
+Vous devrez les mémoriser.
+
+62
+00:02:58,878 --> 00:03:00,946
+Puis vous irez dans le scanner IRM.
+
+63
+00:03:00,947 --> 00:03:03,849
+Vous vous remémorez les images
+le plus nettement possible.
+
+64
+00:03:03,850 --> 00:03:06,051
+On enregistrera votre activité cérébrale
+
+65
+00:03:06,052 --> 00:03:08,253
+lors de ces visualisations mentales.
+
+66
+00:03:08,254 --> 00:03:10,089
+Nous reconstruirons les visages.
+
+67
+00:03:10,090 --> 00:03:12,257
+Nous formerons des images
+à partir de vos souvenirs.
+
+68
+00:03:12,258 --> 00:03:13,992
+- Des images ?
+- Des images.
+
+69
+00:03:13,993 --> 00:03:18,030
+De vraies images imprimables
+que je pourrai accrocher au mur ?
+
+70
+00:03:18,031 --> 00:03:20,232
+Si vous voulez.
+
+71
+00:03:20,233 --> 00:03:25,270
+La première étape consiste à mémoriser
+les 12 photos de célébrités
+
+72
+00:03:25,271 --> 00:03:28,674
+dont Brice me demandera ultérieurement
+de me souvenir.
+
+73
+00:03:28,675 --> 00:03:31,410
+J'ai réalisé cette phase
+avec Max, un jeune étudiant.
+
+74
+00:03:31,411 --> 00:03:32,878
+DOCTORANT EN PSYCHOLOGIE
+
+75
+00:03:32,879 --> 00:03:37,716
+La réussite de ses prédictions dépendra
+en partie de ma capacité à me remémorer
+
+76
+00:03:37,717 --> 00:03:42,588
+ces visages une fois dans l'appareil d'IRMf.
+
+77
+00:03:42,589 --> 00:03:45,591
+Bon, alors...
+
+78
+00:03:45,592 --> 00:03:51,063
+Je pense que j'ai ces visages
+bien en mémoire.
+
+79
+00:03:51,064 --> 00:03:53,699
+- Bien.
+- Les enjeux semblent élevés.
+
+80
+00:03:53,700 --> 00:03:58,203
+Une fois les visages mémorisés,
+on passe à l'étape suivante,
+
+81
+00:03:58,204 --> 00:04:01,440
+le détecteur de métal et l'appareil d'IRMf.
+
+82
+00:04:01,441 --> 00:04:04,143
+Brice enregistrera et suivra
+mon activité cérébrale,
+
+83
+00:04:04,144 --> 00:04:07,913
+créant ainsi un algorithme
+de reconstruction des visages.
+
+84
+00:04:07,914 --> 00:04:12,084
+C'est sa première expérience
+sur la mémoire à long terme,
+
+85
+00:04:12,085 --> 00:04:14,153
+ce qui est difficile, car tout repose
+
+86
+00:04:14,154 --> 00:04:16,821
+sur ma capacité à me remémorer des photos
+
+87
+00:04:16,822 --> 00:04:19,058
+visualisées une heure plus tôt.
+
+88
+00:04:19,059 --> 00:04:20,792
+J'adore ses yeux. Regardez ça.
+
+89
+00:04:20,793 --> 00:04:22,661
+C'est pour calmer les enfants.
+
+90
+00:04:22,662 --> 00:04:24,496
+On a beaucoup d'enfants ici.
+
+91
+00:04:24,497 --> 00:04:27,099
+Ils ne se disent pas :
+"Est-ce qu'il va me manger ?"
+
+92
+00:04:27,100 --> 00:04:31,236
+DÉMONSTRATION
+RECONSTRUCTION DE SOUVENIRS
+
+93
+00:04:31,237 --> 00:04:34,239
+L'appareil IRM représente
+l'activité cérébrale
+
+94
+00:04:34,240 --> 00:04:36,975
+sous la forme de milliers de petits cubes
+
+95
+00:04:36,976 --> 00:04:39,945
+appelés voxels, ou pixels volumétriques.
+
+96
+00:04:39,946 --> 00:04:43,749
+Chaque voxel renferme
+des centaines de milliers de neurones.
+
+97
+00:04:43,750 --> 00:04:47,753
+L'IRM permet de détecter
+le flux sanguin à l'intérieur des voxels
+
+98
+00:04:47,754 --> 00:04:50,089
+et de voir quelle partie du cerveau
+est active.
+
+99
+00:04:50,090 --> 00:04:53,125
+Si je vois plusieurs photos
+d'hommes moustachus,
+
+100
+00:04:53,126 --> 00:04:56,428
+mon cerveau réagira
+aux autres traits du visage.
+
+101
+00:04:56,429 --> 00:04:59,965
+Mais j'activerai une zone commune
+de mon cerveau.
+
+102
+00:04:59,966 --> 00:05:03,936
+Peut-être la zone qui réagit aux moustaches.
+
+103
+00:05:03,937 --> 00:05:09,341
+Lorsque j'imaginerai un visage,
+si Brice constate l'activation de cette zone,
+
+104
+00:05:09,342 --> 00:05:13,779
+il en déduira que je pense à une moustache.
+
+105
+00:05:13,780 --> 00:05:15,814
+Michael est dans l'appareil d'IRMf
+
+106
+00:05:15,815 --> 00:05:18,384
+et voit des noms défiler à l'écran,
+
+107
+00:05:18,385 --> 00:05:20,819
+il essaie de se remémorer
+
+108
+00:05:20,820 --> 00:05:23,255
+leurs visages le plus fidèlement possible.
+
+109
+00:05:23,256 --> 00:05:25,691
+Ici, on voit les images que nous acquérons.
+
+110
+00:05:25,692 --> 00:05:29,028
+On obtient un volume cérébral
+toutes les deux secondes.
+
+111
+00:05:29,029 --> 00:05:33,666
+Ils s'actualisent en temps réel
+au fur et à mesure.
+
+112
+00:05:33,667 --> 00:05:36,101
+La première partie étant terminée,
+
+113
+00:05:36,102 --> 00:05:38,971
+on passe à la phase deux,
+Brice et son équipe vont étudier
+
+114
+00:05:38,972 --> 00:05:44,843
+le langage de mon activité cérébrale
+pour décoder mes scanners cérébraux.
+
+115
+00:05:44,844 --> 00:05:46,545
+Michael, ça se passe bien ?
+
+116
+00:05:46,546 --> 00:05:48,113
+Oui.
+
+117
+00:05:48,114 --> 00:05:52,718
+Ils me montreront des centaines de visages
+et enregistreront mes réactions
+
+118
+00:05:52,719 --> 00:05:55,020
+face à certaines caractéristiques faciales.
+
+119
+00:05:55,021 --> 00:05:59,491
+Ils utiliseront ces informations
+pour reconstituer les visages des célébrités
+
+120
+00:05:59,492 --> 00:06:03,328
+auxquelles j'ai pensé
+durant la première partie de l'IRMf.
+
+121
+00:06:03,329 --> 00:06:06,198
+Plus Michael pourra voir de visages,
+mieux ce sera.
+
+122
+00:06:06,199 --> 00:06:09,802
+Il continuera le test
+tant qu'il se sentira à l'aise.
+
+123
+00:06:09,803 --> 00:06:13,372
+Je n'ai pu rester que deux heures
+dans l'appareil d'IRM.
+
+124
+00:06:13,373 --> 00:06:18,243
+Mais j'ai visualisé plus de 400 visages,
+ce qui devrait permettre
+
+125
+00:06:18,244 --> 00:06:21,080
+d'obtenir des résultats intéressants.
+
+126
+00:06:21,081 --> 00:06:22,681
+Bravo, Michael. C'était bien.
+
+127
+00:06:22,682 --> 00:06:26,652
+- On va vous sortir de là.
+- D'accord.
+
+128
+00:06:26,653 --> 00:06:28,821
+Ouah !
+
+129
+00:06:28,822 --> 00:06:31,390
+J'ai vu plein de visages aujourd'hui.
+
+130
+00:06:31,391 --> 00:06:32,958
+Mon Dieu !
+
+131
+00:06:32,959 --> 00:06:36,328
+Voici certaines des images
+qu'on a collectées.
+
+132
+00:06:36,329 --> 00:06:39,965
+Des images de votre cerveau.
+Maintenant, place aux calculs.
+
+133
+00:06:39,966 --> 00:06:42,034
+Max va analyser vos données.
+
+134
+00:06:42,035 --> 00:06:45,270
+On se reverra demain
+pour examiner les résultats,
+
+135
+00:06:45,271 --> 00:06:47,973
+et on tentera de reconstruire les visages
+
+136
+00:06:47,974 --> 00:06:51,377
+- à partir des données collectées.
+- Très bien. À demain.
+
+137
+00:06:51,378 --> 00:06:54,646
+- Merci beaucoup.
+- Merci, Max. J'ai hâte.
+
+138
+00:06:54,647 --> 00:07:04,356
+Même si vous y passez la nuit,
+ces données doivent être parfaites.
+
+139
+00:07:04,357 --> 00:07:06,892
+Je suis de retour au labo du Dr Kuhl.
+
+140
+00:07:06,893 --> 00:07:08,994
+Cette nuit, l'équipe a traité les données
+
+141
+00:07:08,995 --> 00:07:15,701
+et j'ai hâte de voir
+s'ils ont deviné mes pensées.
+
+142
+00:07:15,702 --> 00:07:17,536
+Que donnent les résultats ?
+
+143
+00:07:17,537 --> 00:07:19,171
+Je crois qu'ils sont bons.
+
+144
+00:07:19,172 --> 00:07:20,773
+On va les examiner dans quelques instants.
+
+145
+00:07:20,774 --> 00:07:22,341
+J'ai hâte de voir ça.
+
+146
+00:07:22,342 --> 00:07:24,176
+- Je peux m'asseoir ?
+- Oui.
+
+147
+00:07:24,177 --> 00:07:26,645
+Bien, alors...
+
+148
+00:07:26,646 --> 00:07:30,349
+D'abord, qu'est-ce que je vois ?
+
+149
+00:07:30,350 --> 00:07:32,584
+Ça, ce sont les images que j'ai visualisées.
+
+150
+00:07:32,585 --> 00:07:33,485
+C'est ça.
+
+
+151
+00:07:33,486 --> 00:07:38,023
+Et là, les images reconstruites
+à partir de mon imagination.
+
+152
+00:07:38,024 --> 00:07:40,726
+- Exact.
+- D'accord.
+
+153
+00:07:40,727 --> 00:07:44,530
+Voici l'une des reconstructions
+qui ont été générées.
+
+154
+00:07:44,531 --> 00:07:45,931
+Intéressant.
+
+155
+00:07:45,932 --> 00:07:47,966
+C'est John Cho.
+
+156
+00:07:47,967 --> 00:07:50,469
+Pas mal.
+
+157
+00:07:50,470 --> 00:07:53,872
+- On peut les afficher côte à côte ?
+- Oui.
+
+158
+00:07:53,873 --> 00:07:59,678
+Je vois des similarités
+dans les expressions faciales.
+
+159
+00:07:59,679 --> 00:08:02,414
+La région à la naissance des cheveux
+est presque identique.
+
+160
+00:08:02,415 --> 00:08:04,983
+La forme du visage est...
+
+161
+00:08:04,984 --> 00:08:06,985
+Plutôt carrée.
+
+162
+00:08:06,986 --> 00:08:08,320
+- Oui.
+- C'est la réflexion
+
+163
+00:08:08,321 --> 00:08:09,421
+que je me suis faite.
+
+164
+00:08:09,422 --> 00:08:12,791
+Lorsque j'ai visualisé la photo de John Cho,
+
+165
+00:08:12,792 --> 00:08:16,495
+j'ai noté plus particulièrement
+la forme carrée du visage.
+
+166
+00:08:16,496 --> 00:08:20,065
+- Intéressant.
+- J'ai vu son côté carré.
+
+167
+00:08:20,066 --> 00:08:23,302
+Excellent.
+
+168
+00:08:23,303 --> 00:08:28,440
+C'est Megan Fox.
+
+169
+00:08:28,441 --> 00:08:30,142
+On va voir... L'affichage côte à côte.
+
+170
+00:08:30,143 --> 00:08:31,844
+L'affichage côte à côte, oui.
+
+171
+00:08:31,845 --> 00:08:36,682
+On voit l'image visualisée
+et la reconstruction générée.
+
+172
+00:08:36,683 --> 00:08:39,817
+Pour Megan Fox, je n'ai pas réussi
+
+173
+00:08:39,818 --> 00:08:42,021
+à recréer une image claire.
+
+174
+00:08:42,022 --> 00:08:45,057
+J'ignore pourquoi, mais j'ai eu du mal
+
+175
+00:08:45,058 --> 00:08:46,992
+à me remémorer son visage.
+
+176
+00:08:46,993 --> 00:08:50,963
+Son visage était empreint
+d'une certaine gravité.
+
+177
+00:08:50,964 --> 00:08:54,066
+J'ai perçu qu'il s'agissait...
+D'un visage féminin.
+
+178
+00:08:54,067 --> 00:08:58,804
+Vous avez vu de la gravité.
+Cela crée une correspondance.
+
+179
+00:08:58,805 --> 00:09:02,474
+Brice et son équipe ont créé cela
+à partir de ma mémoire.
+
+180
+00:09:02,475 --> 00:09:07,112
+Mais lorsque je me souviens d'un visage,
+est-ce je vois tous les détails
+
+181
+00:09:07,113 --> 00:09:08,747
+avec une précision photographique ?
+
+182
+00:09:08,748 --> 00:09:11,016
+Ou seulement quelques-uns ?
+
+183
+00:09:11,017 --> 00:09:16,121
+En lisant dans mes pensées,
+ils évaluent mes capacités de mémorisation.
+
+184
+00:09:16,122 --> 00:09:19,024
+C'est moi !
+
+185
+00:09:19,025 --> 00:09:25,497
+C'est votre reconstruction
+de l'image que j'ai de moi-même.
+
+186
+00:09:25,498 --> 00:09:27,499
+Exact.
+
+187
+00:09:27,500 --> 00:09:29,435
+Où est la barbe ?
+
+188
+00:09:29,436 --> 00:09:32,137
+J'espérais que vous me le diriez.
+
+189
+00:09:32,138 --> 00:09:36,542
+Ceci est l'image qui a été collectée
+lorsque j'ai pensé à mon visage.
+
+190
+00:09:36,543 --> 00:09:39,244
+Ça ne me ressemble pas,
+mais la question est :
+
+191
+00:09:39,245 --> 00:09:41,613
+suis-je capable
+de me représenter moi-même ?
+
+192
+00:09:41,614 --> 00:09:45,784
+Je pense rarement à ma propre image,
+et ce résultat bizarre
+
+193
+00:09:45,785 --> 00:09:48,020
+provient autant de ma difficulté
+
+194
+00:09:48,021 --> 00:09:51,824
+à visualiser mentalement mon visage
+que d'une déficience technologique.
+
+195
+00:09:51,825 --> 00:09:54,460
+C'est Jennifer Lawrence, je crois.
+
+196
+00:09:54,461 --> 00:09:56,095
+C'est Jennifer Lawrence ?
+
+197
+00:09:56,096 --> 00:10:01,800
+On dirait plutôt un vieil oncle
+de Jennifer Lawrence.
+
+198
+00:10:01,801 --> 00:10:05,371
+Ici, on ne trouve aucune correspondance.
+
+199
+00:10:05,372 --> 00:10:09,208
+Mais c'est nouveau, cette expérimentation
+
+200
+00:10:09,209 --> 00:10:12,678
+sur la mémoire à long terme.
+
+201
+00:10:12,679 --> 00:10:15,147
+Ce que Brice et son équipe ont lu
+
+202
+00:10:15,148 --> 00:10:18,217
+dans mon esprit aurait été plus précis
+si j'avais vu des milliers
+
+203
+00:10:18,218 --> 00:10:22,788
+et non des centaines d'images,
+car l'algorithme aurait mieux appris
+
+204
+00:10:22,789 --> 00:10:25,057
+le langage de mon cerveau.
+
+205
+00:10:25,058 --> 00:10:29,228
+Cependant, la qualité de mes souvenirs
+n'aurait pas été meilleure.
+
+206
+00:10:29,229 --> 00:10:33,298
+Voyons ce qui se passe
+si on retire la mémoire de l'équation.
+
+207
+00:10:33,299 --> 00:10:37,302
+Brice a capté mon activité cérébrale
+lorsque je voyais les photos,
+
+208
+00:10:37,303 --> 00:10:39,238
+pas uniquement lorsque je les recréais.
+
+209
+00:10:39,239 --> 00:10:45,144
+Ces résultats étaient plus proches
+que mes reconstructions mentales.
+
+210
+00:10:45,145 --> 00:10:47,546
+Qu'est-ce qu'on voit, ici ?
+
+211
+00:10:47,547 --> 00:10:52,284
+La rangée supérieure présente
+les images que vous avez vues
+
+212
+00:10:52,285 --> 00:10:53,919
+dans l'appareil d'IRM.
+
+213
+00:10:53,920 --> 00:10:56,088
+Dans la rangée inférieure,
+on voit les reconstructions
+
+214
+00:10:56,089 --> 00:10:57,556
+HAUT : IMAGES SOURCES
+BAS : RECONSTRUCTIONS
+
+215
+00:10:57,557 --> 00:11:01,193
+issues des motifs d'activité cérébrale
+qu'on a collectés.
+
+216
+00:11:01,194 --> 00:11:03,696
+- Ça, c'est l'image source.
+- Oui.
+
+217
+00:11:03,697 --> 00:11:05,464
+Ça, c'est produit par mon cerveau.
+
+218
+00:11:05,465 --> 00:11:07,666
+- Oui.
+- C'est assez proche.
+
+219
+00:11:07,667 --> 00:11:10,102
+Oui, dans l'ensemble.
+
+220
+00:11:10,103 --> 00:11:11,704
+Mais c'est imparfait.
+
+221
+00:11:11,705 --> 00:11:14,239
+On constate des différences.
+
+222
+00:11:14,240 --> 00:11:17,076
+Mais c'est cohérent avec ce qu'on a découvert
+
+223
+00:11:17,077 --> 00:11:20,412
+sur les reconstructions générées
+quand vous visualisiez les visages,
+
+224
+00:11:20,413 --> 00:11:22,481
+il y une correspondance avec le vrai visage.
+
+225
+00:11:22,482 --> 00:11:26,552
+Ceci confirme donc
+qu'on peut reconstruire les images
+
+226
+00:11:26,553 --> 00:11:29,088
+- quand vous les voyez.
+- Oui.
+
+227
+00:11:29,089 --> 00:11:31,590
+C'est pas mal.
+
+228
+00:11:31,591 --> 00:11:35,361
+Brice, Max, merci de m'avoir permis
+de participer à ça.
+
+229
+00:11:35,362 --> 00:11:36,729
+J'espère que ces données seront utiles.
+
+230
+00:11:36,730 --> 00:11:38,530
+Merci. C'était un vrai plaisir.
+
+231
+00:11:38,531 --> 00:11:43,869
+Ce genre d'étude est toujours utile.
+
+232
+00:11:43,870 --> 00:11:47,740
+Kyoto, Japon
+
+233
+00:11:47,741 --> 00:11:51,443
+Les recherches du Dr Brice Kuhl
+sur la mémoire montrent
+
+234
+00:11:51,444 --> 00:11:54,279
+qu'un ordinateur peut lire des pensées.
+
+235
+00:11:54,280 --> 00:11:56,915
+Et peut représenter ces pensées.
+
+236
+00:11:56,916 --> 00:11:59,051
+Mais il reste des progrès à faire.
+
+237
+00:11:59,052 --> 00:12:02,221
+Si vous voulez savoir
+ce que je pense à cet instant,
+
+238
+00:12:02,222 --> 00:12:05,524
+il est plus simple de me le demander.
+
+239
+00:12:05,525 --> 00:12:08,327
+Mais si je ne peux pas vous le dire ?
+
+240
+00:12:08,328 --> 00:12:11,363
+Le Dr Yukiyasu Kamitani,
+
+241
+00:12:11,364 --> 00:12:15,100
+chercheur avant-gardiste,
+explore ce qui se passe
+
+242
+00:12:15,101 --> 00:12:18,237
+au-delà du mur du sommeil.
+
+243
+00:12:18,238 --> 00:12:20,472
+Je suis venu à l'Université de Kyoto
+
+244
+00:12:20,473 --> 00:12:24,677
+pour lui demander en quoi consiste
+non pas la lecture des pensées,
+
+245
+00:12:24,678 --> 00:12:27,513
+mais la lecture des rêves.
+
+246
+00:12:27,514 --> 00:12:29,548
+LABORATOIRE SCIENCES DE POINTE
+
+247
+00:12:29,549 --> 00:12:31,650
+Kamitani sensei, je suis Michael.
+
+248
+00:12:31,651 --> 00:12:33,385
+- Bonjour, Yuki.
+- Enchanté.
+
+249
+00:12:33,386 --> 00:12:34,753
+Ravi de vous rencontrer.
+
+250
+00:12:34,754 --> 00:12:36,355
+Depuis dix ans,
+
+251
+00:12:36,356 --> 00:12:40,225
+le Dr Kamitani est à l'avant-garde
+dans la lecture des pensées.
+
+252
+00:12:40,226 --> 00:12:44,396
+Le sujet est prêt.
+
+253
+00:12:44,397 --> 00:12:46,098
+Comme Brice Kuhl,
+
+254
+00:12:46,099 --> 00:12:49,201
+il a commencé par étudier
+la reconstruction d'images
+
+255
+00:12:49,202 --> 00:12:52,771
+vues par des sujets
+en se basant sur l'activité cérébrale.
+
+256
+00:12:52,772 --> 00:12:55,974
+Chez lui, les images étaient en noir et blanc
+
+257
+00:12:55,975 --> 00:12:59,578
+et les reconstructions
+étaient étonnamment précises.
+
+258
+00:12:59,579 --> 00:13:03,382
+Aujourd'hui, il utilise
+les réseaux neuronaux profonds
+
+259
+00:13:03,383 --> 00:13:06,485
+et l'apprentissage automatique
+pour capter l'activité cérébrale
+
+260
+00:13:06,486 --> 00:13:09,955
+lors de la visualisation
+de photos plus complexes.
+
+261
+00:13:09,956 --> 00:13:13,726
+Ici, on voit un réseau neuronal profond
+
+262
+00:13:13,727 --> 00:13:18,097
+traitant l'activité cérébrale du sujet
+regardant la photo.
+
+263
+00:13:18,098 --> 00:13:20,933
+Ceci pourrait déboucher
+sur quantités d'applications,
+
+264
+00:13:20,934 --> 00:13:26,939
+comme les enquêtes criminelles
+ou la communication interpersonnelle.
+
+265
+00:13:26,940 --> 00:13:28,941
+C'est loin d'être parfait.
+
+266
+00:13:28,942 --> 00:13:32,144
+Mais on peut voir des yeux et des oreilles.
+
+267
+00:13:32,145 --> 00:13:34,146
+PROFESSEUR,
+ÉCOLE SUPÉRIEURE D'INFORMATIQUE, KYOTO
+
+268
+00:13:34,147 --> 00:13:35,414
+Oui.
+
+269
+00:13:35,415 --> 00:13:37,116
+Et des couleurs.
+
+270
+00:13:37,117 --> 00:13:39,952
+Oui, dans une certaine mesure.
+
+271
+00:13:39,953 --> 00:13:43,088
+Ses travaux récents
+concernent le subconscient.
+
+272
+00:13:43,089 --> 00:13:45,591
+Il s'est lancé un défi ambitieux :
+
+273
+00:13:45,592 --> 00:13:47,526
+enregistrer les rêves.
+
+274
+00:13:47,527 --> 00:13:52,398
+Êtes-vous plutôt un spécialiste du sommeil
+ou des rêves ?
+
+275
+00:13:52,399 --> 00:13:54,266
+Disons un décodeur cérébral.
+
+276
+00:13:54,267 --> 00:13:56,001
+Un décodeur cérébral.
+
+277
+00:13:56,002 --> 00:13:58,303
+Belle définition.
+
+278
+00:13:58,304 --> 00:14:02,508
+Pourriez-vous m'expliquer
+vos expériences sur les rêves ?
+
+279
+00:14:02,509 --> 00:14:03,942
+Oui.
+
+280
+00:14:03,943 --> 00:14:08,681
+Nous effectuons un enregistrement EEG/IRM.
+
+281
+00:14:08,682 --> 00:14:13,485
+Ces travaux sur le décodage des rêves
+commencent comme ceux du Dr Kuhl,
+
+282
+00:14:13,486 --> 00:14:17,389
+le sujet voit des milliers d'images
+dans un appareil d'IRMf
+
+283
+00:14:17,390 --> 00:14:22,094
+et ceci permet d'examiner le cerveau
+du sujet en train de penser.
+
+284
+00:14:22,095 --> 00:14:24,663
+Lorsque l'algorithme est assez performant
+
+285
+00:14:24,664 --> 00:14:27,566
+pour identifier des images
+visualisées mentalement,
+
+286
+00:14:27,567 --> 00:14:31,837
+le sujet est placé dans un appareil d'IRM,
+un casque EEG sur la tête,
+
+287
+00:14:31,838 --> 00:14:33,972
+et on l'invite à s'endormir.
+
+288
+00:14:33,973 --> 00:14:37,076
+Lorsque les ondes d'EEG indiquent
+que le sujet rêve,
+
+289
+00:14:37,077 --> 00:14:42,247
+l'algorithme prédit le type de contenu
+dont rêve le sujet.
+
+290
+00:14:42,248 --> 00:14:45,851
+Actuellement, l'algorithme détermine
+20 catégories de rêves.
+
+291
+00:14:45,852 --> 00:14:51,423
+Des bâtiments, des moyens de transports,
+des caractères linguistiques.
+
+292
+00:14:51,424 --> 00:14:55,728
+Les chercheurs réveillent le sujet
+et lui demandent de quoi il a rêvé,
+
+293
+00:14:55,729 --> 00:15:00,299
+puis il vérifient si la prédiction
+de l'algorithme correspond.
+
+294
+00:15:00,300 --> 00:15:03,836
+Voici les données de l'une des expériences
+du Dr Kamitani.
+
+295
+00:15:03,837 --> 00:15:06,305
+Voici un nuage de mots
+présentant les catégories.
+
+296
+00:15:06,306 --> 00:15:08,841
+Le nom de chaque catégorie
+change de dimension
+
+297
+00:15:08,842 --> 00:15:11,143
+en fonction de la probabilité
+
+298
+00:15:11,144 --> 00:15:13,846
+qu'il figure dans le rêve d'un sujet.
+
+299
+00:15:13,847 --> 00:15:15,848
+On voit que l'activité
+concerne plus particulièrement
+
+300
+00:15:15,849 --> 00:15:18,984
+la catégorie "caractère", le langage écrit.
+
+301
+00:15:18,985 --> 00:15:23,822
+À ce stade, le sujet a été réveillé
+et voici ce qu'il a indiqué.
+
+302
+00:15:23,823 --> 00:15:26,692
+"J'ai rêvé que je regardais
+des sortes de caractères.
+
+303
+00:15:26,693 --> 00:15:30,729
+"Il y avait une sorte de formulaire
+pour rédiger un essai..."
+
+304
+00:15:30,730 --> 00:15:32,998
+- C'est flippant.
+- Oui.
+
+305
+00:15:32,999 --> 00:15:37,102
+Vous espionnez leurs rêves.
+
+306
+00:15:37,103 --> 00:15:39,938
+Oui, d'une certaine façon.
+
+307
+00:15:39,939 --> 00:15:42,174
+Mais les résultats sont imprécis...
+
+308
+00:15:42,175 --> 00:15:44,710
+Les résultats sont imprécis,
+
+309
+00:15:44,711 --> 00:15:47,846
+mais ma capacité normale à lire
+dans les rêves est inexistante.
+
+310
+00:15:47,847 --> 00:15:48,947
+Oui.
+
+311
+00:15:48,948 --> 00:15:52,518
+Tout en continuant d'étudier la prédiction
+des contenus des rêves,
+
+312
+00:15:52,519 --> 00:15:55,554
+le Dr Kamitani s'est lancé
+dans un nouveau projet,
+
+313
+00:15:55,555 --> 00:15:59,224
+la reconstruction des images
+à partir des rêves.
+
+314
+00:15:59,225 --> 00:16:05,831
+Ce sont des reconstructions de rêve
+créées par votre laboratoire.
+
+315
+00:16:05,832 --> 00:16:08,467
+Nous y travaillons encore.
+
+316
+00:16:08,468 --> 00:16:11,337
+On voit qu'en règle générale,
+
+317
+00:16:11,338 --> 00:16:13,972
+quoi que l'on place dans le décodeur,
+
+318
+00:16:13,973 --> 00:16:18,344
+la reconstruction présente toujours
+une tache au milieu.
+
+319
+00:16:18,345 --> 00:16:20,846
+On dirait que les sujets rêvent de taches.
+
+320
+00:16:20,847 --> 00:16:22,014
+Oui.
+
+321
+00:16:22,015 --> 00:16:25,217
+J'aimerais qu'on prenne du recul
+
+322
+00:16:25,218 --> 00:16:28,654
+et qu'on réalise
+que ce que l'on voit à l'écran
+
+323
+00:16:28,655 --> 00:16:34,793
+sont les premières photos d'un rêve.
+
+324
+00:16:34,794 --> 00:16:38,497
+Il s'agit de la première phase
+de recherches révolutionnaires.
+
+325
+00:16:38,498 --> 00:16:43,535
+Un jour, on pourra voir des images
+ou des films issus de nos rêves.
+
+326
+00:16:43,536 --> 00:16:47,539
+Le Dr Kamitani est le seul au monde
+à mener ce type de recherche.
+
+327
+00:16:47,540 --> 00:16:51,643
+C'est un explorateur solitaire
+du monde du subconscient.
+
+328
+00:16:51,644 --> 00:16:54,646
+Ces travaux n'ont pas été publiés ?
+
+329
+00:16:54,647 --> 00:16:56,015
+Non.
+
+330
+00:16:56,016 --> 00:16:59,985
+Merci de m'avoir montré ça.
+
+331
+00:16:59,986 --> 00:17:02,988
+LOS ANGELES, CALIFORNIE
+
+332
+00:17:02,989 --> 00:17:06,991
+Les connaissances auxquelles accéderont
+des chercheurs
+
+333
+00:17:06,992 --> 00:17:10,162
+comme le Dr Kuhl et le Dr Kamitani
+
+334
+00:17:10,163 --> 00:17:15,034
+grâce à la lecture des pensées
+sont difficiles à appréhender.
+
+335
+00:17:15,035 --> 00:17:18,337
+Mais réfléchissons une seconde,
+car cette technologie
+
+336
+00:17:18,338 --> 00:17:22,174
+est susceptible de nous connaître
+mieux que nous-mêmes.
+
+337
+00:17:22,175 --> 00:17:24,309
+Est-ce souhaitable ?
+
+338
+00:17:24,310 --> 00:17:25,978
+Pour répondre à cette question,
+
+339
+00:17:25,979 --> 00:17:28,247
+je vais rencontrer Julia Bossmann,
+
+340
+00:17:28,248 --> 00:17:32,918
+experte en éthique, en neuroscience
+et en intelligence artificielle,
+
+341
+00:17:32,919 --> 00:17:35,521
+directrice de la stratégie
+chez Fathom Computing,
+
+342
+00:17:35,522 --> 00:17:37,990
+membre du conseil
+du Forum Économique Mondial,
+
+343
+00:17:37,991 --> 00:17:41,393
+ancienne élève de l'Université Singularity
+de Ray Kurzweil,
+
+344
+00:17:41,394 --> 00:17:44,063
+ex-présidente du Foresight Institute,
+
+345
+00:17:44,064 --> 00:17:51,337
+un groupe de réflexion
+sur les technologies du futur et leur impact.
+
+346
+00:17:51,338 --> 00:17:53,739
+Julia, merci de m'accorder cet entretien.
+
+347
+00:17:53,740 --> 00:17:55,574
+- Je vous en prie.
+- Vous êtes la bonne personne
+
+348
+00:17:55,575 --> 00:17:57,009
+pour répondre à ces questions.
+
+349
+00:17:57,010 --> 00:17:58,410
+Elles sont complexes,
+
+350
+00:17:58,411 --> 00:18:01,780
+mais très importantes,
+car il devient urgent d'y répondre.
+
+351
+00:18:01,781 --> 00:18:04,316
+Nous vivons une époque très intéressante,
+
+352
+00:18:04,317 --> 00:18:06,985
+car la machine et le cerveau
+ne cessent de se rapprocher.
+
+353
+00:18:06,986 --> 00:18:08,787
+JULIA BOSSMANN
+FORUM ÉCONOMIQUE MONDIAL
+
+354
+00:18:08,788 --> 00:18:11,123
+Concernant les expériences
+sur l'activité cérébrale,
+
+355
+00:18:11,124 --> 00:18:15,627
+quelles sont les limites au niveau éthique ?
+
+356
+00:18:15,628 --> 00:18:18,497
+Comment protéger mes pensées intimes ?
+
+357
+00:18:18,498 --> 00:18:23,769
+Comme pour toute technologie puissante,
+tout dépend de qui l'utilise.
+
+358
+00:18:23,770 --> 00:18:25,304
+Toutes ces nouvelles technologies
+
+359
+00:18:25,305 --> 00:18:29,608
+peuvent rendre leur utilisateur
+plus puissant.
+
+360
+00:18:29,609 --> 00:18:32,711
+Le problème, ce n'est pas la technologie,
+
+361
+00:18:32,712 --> 00:18:36,181
+mais comment l'utiliser, et qui l'utilise.
+
+362
+00:18:36,182 --> 00:18:40,519
+Comment éviter qu'elle ne se retrouve
+entre de mauvaises mains ?
+
+363
+00:18:40,520 --> 00:18:42,921
+Il est important d'impliquer des acteurs
+
+364
+00:18:42,922 --> 00:18:49,395
+du monde politique et judiciaire
+pour comprendre l'avenir du monde.
+
+365
+00:18:49,396 --> 00:18:52,631
+Je suis confiante en notre capacité
+à collaborer.
+
+366
+00:18:52,632 --> 00:18:54,667
+Parlons des côtés positifs.
+
+367
+00:18:54,668 --> 00:18:57,069
+Quelles sont les applications possibles ?
+
+368
+00:18:57,070 --> 00:19:00,673
+Si on pense à Stephen Hawking,
+aujourd'hui disparu,
+
+369
+00:19:00,674 --> 00:19:05,010
+s'il avait eu un moyen
+de mieux communiquer avec le monde
+
+370
+00:19:05,011 --> 00:19:09,348
+ou avec des ordinateurs, Dieu sait
+ce qu'il aurait pu nous transmettre.
+
+371
+00:19:09,349 --> 00:19:11,550
+Les sujets atteints
+du syndrome d'enfermement ?
+
+372
+00:19:11,551 --> 00:19:14,920
+Ils sont là. Ils savent qu'ils sont là.
+
+373
+00:19:14,921 --> 00:19:17,156
+Mais nous devons examiner leur cerveau
+
+374
+00:19:17,157 --> 00:19:19,158
+pour comprendre ce qu'ils veulent dire
+
+375
+00:19:19,159 --> 00:19:21,527
+- ou ce qu'ils ressentent.
+- Oui.
+
+376
+00:19:21,528 --> 00:19:27,132
+Que dites-vous à ceux
+qui ont peur de la technologie
+
+377
+00:19:27,133 --> 00:19:33,172
+et craignent que notre vraie nature
+soit asservie à la technologie ?
+
+378
+00:19:33,173 --> 00:19:38,344
+C'est passionnant d'aller toujours plus loin
+
+379
+00:19:38,345 --> 00:19:41,380
+dans ce qu'on peut appeler
+l'évolution humaine
+
+380
+00:19:41,381 --> 00:19:43,916
+ou le développement de la civilisation.
+
+381
+00:19:43,917 --> 00:19:47,152
+Nous ne vivons déjà plus
+de manière naturelle.
+
+382
+00:19:47,153 --> 00:19:50,255
+Sinon, bon nombre d'entre nous
+mourraient à l'âge
+
+383
+00:19:50,256 --> 00:19:52,658
+de 30 ou 40 ans.
+
+384
+00:19:52,659 --> 00:19:56,228
+On aurait toutes sortes de maladies.
+On n'aurait pas de vêtements comme ça.
+
+385
+00:19:56,229 --> 00:19:57,629
+On n'aurait pas de lunettes
+
+386
+00:19:57,630 --> 00:19:58,831
+- ou de verres de contact.
+- Non.
+
+387
+00:19:58,832 --> 00:20:00,933
+On n'aurait pas d'antibiotiques.
+
+388
+00:20:00,934 --> 00:20:03,369
+Nous sommes déjà
+
+389
+00:20:03,370 --> 00:20:06,205
+des sortes de cyborgs futuristes
+si on nous compare
+
+390
+00:20:06,206 --> 00:20:09,875
+aux humains qui vivaient il y a 10 000 ans
+
+391
+00:20:09,876 --> 00:20:12,878
+et qui étaient quasi identiques
+à nous sur un plan génétique.
+
+392
+00:20:12,879 --> 00:20:18,517
+Oui.
+
+393
+00:20:18,518 --> 00:20:20,753
+Pour comprendre la cognition,
+
+394
+00:20:20,754 --> 00:20:23,922
+il faut soit demander aux gens de parler
+
+395
+00:20:23,923 --> 00:20:27,726
+de ce qu'ils pensent,
+soit observer leur comportement.
+
+396
+00:20:27,727 --> 00:20:31,530
+Lire leurs pensées directement,
+ce serait mieux.
+
+397
+00:20:31,531 --> 00:20:34,400
+C'est pourquoi le Dr Kuhl étudie la mémoire
+
+398
+00:20:34,401 --> 00:20:39,071
+et que le Dr Kamitani étudie
+le sommeil et les rêves.
+
+399
+00:20:39,072 --> 00:20:41,907
+Même si cette technologie
+n'en est qu'à ses débuts,
+
+400
+00:20:41,908 --> 00:20:45,978
+on voit bien les problèmes éthiques
+qui peuvent en découler.
+
+401
+00:20:45,979 --> 00:20:47,680
+Mais une chose est sûre.
+
+402
+00:20:47,681 --> 00:20:53,052
+L'homme ne vit jamais
+totalement à l'état naturel.
+
+403
+00:20:53,053 --> 00:20:56,989
+Nous co-évoluons avec la technologie.
+
+404
+00:20:56,990 --> 00:21:00,793
+L'homme et la technologie sont inséparables.
+
+405
+00:21:00,794 --> 00:21:04,630
+Nous devons nous montrer prudents
+envers chaque nouveauté,
+
+406
+00:21:04,631 --> 00:21:09,234
+mais nous ne pouvons pas
+ignorer son arrivée.
+
+407
+00:21:09,235 --> 00:21:12,738
+L'histoire se répète encore et encore.
+
+408
+00:21:12,739 --> 00:21:15,274
+On aurait pu discuter éternellement
+
+409
+00:21:15,275 --> 00:21:18,210
+pour déterminer s'il faut instaurer
+une limitation de vitesse,
+
+410
+00:21:18,211 --> 00:21:20,979
+et qui doit l'imposer.
+
+411
+00:21:20,980 --> 00:21:22,348
+Mais nous ne l'avons pas fait.
+
+412
+00:21:22,349 --> 00:21:25,851
+Nous avons inventé la voiture
+
+413
+00:21:25,852 --> 00:21:30,089
+et nous avons instauré des règles
+au fur et à mesure.
+
+414
+00:21:30,090 --> 00:21:32,591
+Les questions éthiques
+
+415
+00:21:32,592 --> 00:21:37,196
+sont bénéfiques si elles facilitent
+le développement des technologies,
+
+416
+00:21:37,197 --> 00:21:40,699
+pas si elles entravent le progrès.
+
+417
+00:21:40,700 --> 00:21:42,668
+Alors, poursuivez vos rêves.
+
+418
+00:21:42,669 --> 00:21:46,005
+Montrez-les-moi dès que vous le pourrez.
+
+419
+00:21:46,006 --> 00:21:48,408
+Et comme toujours, merci d'avoir regardé.
+

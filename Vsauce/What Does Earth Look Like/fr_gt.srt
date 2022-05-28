@@ -1,0 +1,753 @@
+1
+00:00:01,069 --> 00:00:03,608
+Hé, Vsauce.  Michel ici.
+
+2
+00:00:03,609 --> 00:00:06,989
+Ce point lumineux dans le ciel est la
+
+3
+00:00:06,990 --> 00:00:10,888
+Terre vue de la surface de Mars.
+
+4
+00:00:10,889 --> 00:00:14,629
+Et voici la Terre vue de Saturne.
+
+5
+00:00:14,630 --> 00:00:18,778
+Voici une image prise à seulement 45 000 kilomètres,
+
+6
+00:00:18,779 --> 00:00:22,679
+le fameux Blue Marble.  Mais à quoi
+
+7
+00:00:22,680 --> 00:00:25,599
+ressemble vraiment la Terre ?
+
+8
+00:00:25,600 --> 00:00:29,229
+Eh bien, cela dépend de la façon dont vous définissez "look".
+
+9
+00:00:29,230 --> 00:00:32,828
+Le mot regard vient
+du vieux mot breton « lagud », qui
+
+10
+00:00:32,829 --> 00:00:36,159
+signifie œil, l'œil humain.
+
+11
+00:00:36,160 --> 00:00:41,299
+Et cela fait partie du problème.
+Des images comme celle-ci sont basées sur la lumière que les
+
+12
+00:00:41,300 --> 00:00:44,558
+humains peuvent voir.  Mais on ne voit pas
+
+13
+00:00:44,559 --> 00:00:48,909
+tout.
+Il y a un épisode fantastique de Radiolab qui utilise le
+
+14
+00:00:48,910 --> 00:00:52,288
+son pour illustrer à quel point
+
+15
+00:00:52,289 --> 00:00:58,218
+les espaces visuels des autres créatures sont différents des nôtres.
+Lorsque nous parlons de l'apparence physique de quelque chose,
+
+16
+00:00:58,219 --> 00:01:01,709
+nous parlons de la perception visuelle du
+
+17
+00:01:01,710 --> 00:01:05,169
+rayonnement électromagnétique émis ou réfléchi.
+
+18
+00:01:05,170 --> 00:01:07,839
+Plus précisément, la lumière visible.
+
+19
+00:01:07,840 --> 00:01:11,629
+La lumière que nous percevons comme rouge a une longueur d'onde plus longue
+
+20
+00:01:11,630 --> 00:01:15,489
+que le bleu ou le violet.
+Mais que se passe-t-il si je pousse la longueur d'onde
+
+21
+00:01:15,490 --> 00:01:18,709
+encore plus courte ?  Est-ce que ça cesse d'être léger ?
+
+22
+00:01:18,710 --> 00:01:21,798
+Non, cela devient juste de la lumière que
+
+23
+00:01:21,799 --> 00:01:25,438
+vous ne pouvez pas voir - ultraviolets, rayons X,
+
+24
+00:01:25,439 --> 00:01:29,118
+rayons gamma.
+Dans l'autre sens, vous obtenez l'infrarouge, les
+
+25
+00:01:29,119 --> 00:01:32,389
+micro-ondes et enfin les ondes radio.
+
+26
+00:01:32,390 --> 00:01:35,508
+En principe, le spectre des
+
+27
+00:01:35,509 --> 00:01:38,688
+longueurs d'onde électromagnétiques possibles est infini.
+
+28
+00:01:38,689 --> 00:01:41,889
+Mais même dans la gamme de longueurs d'onde que nous observons,
+
+29
+00:01:41,890 --> 00:01:45,959
+la largeur est à couper le souffle.  Si l'ensemble du
+
+30
+00:01:45,960 --> 00:01:49,029
+spectre pratique des longueurs d'onde était disposé
+
+31
+00:01:49,030 --> 00:01:54,078
+linéairement de New York à Los Angeles,
+la partie visuelle que nous voyons
+
+32
+00:01:54,079 --> 00:01:57,159
+ne serait que de la taille de
+
+33
+00:01:57,160 --> 00:02:00,669
+100 nanomètres.  Assez petit
+
+34
+00:02:00,670 --> 00:02:04,269
+pour passer à travers un masque chirurgical.  Le fait est que,
+
+35
+00:02:04,270 --> 00:02:07,859
+lorsqu'il s'agit de ce qu'il y a à voir, nos
+
+36
+00:02:07,860 --> 00:02:10,939
+yeux manquent beaucoup.  Par exemple
+
+37
+00:02:10,940 --> 00:02:15,869
+, regardez une télécommande.
+Beaucoup de ces choses communiquent avec la lumière
+
+38
+00:02:15,870 --> 00:02:20,429
+de longueurs d'onde que nous ne pouvons pas voir, mais les caméras des téléphones portables le
+
+39
+00:02:20,430 --> 00:02:25,769
+peuvent.  Essayez ceci à la maison.  Appuyez sur un bouton d'une
+télécommande et vous ne verrez pas grand-chose,
+
+40
+00:02:25,770 --> 00:02:29,469
+mais utilisez une caméra de téléphone portable
+pour détecter les longueurs d'onde que vous ne pouvez pas voir
+
+41
+00:02:29,470 --> 00:02:32,679
+et les rendre visibles.
+Il se passe beaucoup de choses qui
+
+42
+00:02:32,680 --> 00:02:36,289
+nous manquent.  Notre ciel nocturne regorge de
+
+43
+00:02:36,290 --> 00:02:39,378
+fréquences que nous ne pouvons pas voir avec nos seuls yeux,
+
+44
+00:02:39,379 --> 00:02:42,958
+mais Chromoscope.net vous permet d'étendre
+
+45
+00:02:42,959 --> 00:02:46,969
+votre vision.
+C'est la Voie lactée telle que nous la voyons,
+
+46
+00:02:46,970 --> 00:02:49,969
+la lumière visible qu'elle dégage.  Mais faites glisser
+
+47
+00:02:49,970 --> 00:02:53,789
+pour voir à quoi cela ressemblerait si nos yeux
+captaient d'autres fréquences.
+
+48
+00:02:53,790 --> 00:02:57,518
+Bien sûr, nous devons représenter
+ces autres fréquences
+
+49
+00:02:57,519 --> 00:03:02,579
+avec des couleurs visibles car même
+le temps simulé électromagnétique
+
+50
+00:03:02,580 --> 00:03:05,708
+est limité par nos petites limites.
+
+51
+00:03:05,709 --> 00:03:11,128
+Quant à la Terre, si nous ne voyions que des
+fréquences infrarouges, cela pourrait
+
+52
+00:03:11,129 --> 00:03:15,029
+ressembler à ceci dans notre esprit.
+La
+
+53
+00:03:15,030 --> 00:03:18,848
+vision ultraviolette et ultraviolette extrême renverrait
+des sphères méconnaissables.
+
+54
+00:03:18,849 --> 00:03:23,139
+Avec la vision aux rayons X, les aurores autour des
+pôles brilleraient de mille feux
+
+55
+00:03:23,140 --> 00:03:26,318
+et la vision aux rayons gamma donnerait à la
+Terre un avantage lumineux
+
+56
+00:03:26,319 --> 00:03:29,889
+provenant du rayonnement électromagnétique à haute énergie
+frappant l'atmosphère
+
+57
+00:03:29,890 --> 00:03:32,049
+à un angle peu profond.
+
+58
+00:03:32,050 --> 00:03:36,429
+Alors, quel point de vue est correct ?  Existe-t-il une
+
+59
+00:03:36,430 --> 00:03:41,359
+véritable apparence absolue de la Terre ?
+
+60
+00:03:41,360 --> 00:03:42,929
+Nous n'avons même pas encore commencé.
+
+61
+00:03:42,930 --> 00:03:46,949
+Regardez en arrière le Blue Marble.
+Qu'en est-il de la tyrannie
+
+62
+00:03:46,950 --> 00:03:50,369
+du « nord » qui signifie « en haut » ?  C'est peut-être
+
+63
+00:03:50,370 --> 00:03:53,458
+parce que nous assimilons souvent "en haut" à "mieux"
+
+64
+00:03:53,459 --> 00:03:57,598
+et que de nombreux premiers cartographes venaient du
+nord de l'équateur.
+
+65
+00:03:57,599 --> 00:04:00,929
+Mais les cartes à l'envers sont également vraies,
+
+66
+00:04:00,930 --> 00:04:04,109
+peu importe à quel point la journée peut nous sembler étrange.
+Assez drôle,
+
+67
+00:04:04,110 --> 00:04:08,279
+le célèbre Blue Marble lui-même est un
+produit de North equals
+
+68
+00:04:08,280 --> 00:04:12,128
+up bias.  Il ne ressemblait pas à ça à l'origine.
+
+69
+00:04:12,129 --> 00:04:15,438
+L'équipage d'Apollo 17 l'a initialement pris
+
+70
+00:04:15,439 --> 00:04:18,857
+comme ça.  La NASA l'a fait pivoter pour
+
+71
+00:04:18,858 --> 00:04:22,619
+s'adapter à notre idée traditionnelle d'après coup.
+
+72
+00:04:22,620 --> 00:04:26,619
+Voici une naissance visuelle qui vient de
+l'
+
+73
+00:04:26,620 --> 00:04:30,769
+animation en direct de notre planète par l'US Naval Observatory.
+Vous pouvez voir exactement quelles parties sont
+
+74
+00:04:30,770 --> 00:04:34,888
+dans son ombre en ce moment même.
+D'autres ombres tombent également
+
+75
+00:04:34,889 --> 00:04:38,448
+sur Terre, comme l'ombre de la Lune.
+
+76
+00:04:38,449 --> 00:04:43,399
+La semaine dernière, @BadAstronomer a partagé cette
+image.  Les taches sombres sur la gauche sont en
+
+77
+00:04:43,400 --> 00:04:44,089
+fait
+
+78
+00:04:44,090 --> 00:04:47,698
+l'ombre de la Lune lors d'une éclipse solaire
+
+79
+00:04:47,699 --> 00:04:51,829
+vue du dessus de la Terre.
+Il y a un autre problème avec
+
+80
+00:04:51,830 --> 00:04:55,309
+le Blue Marble - il est plat et la Terre
+
+81
+00:04:55,310 --> 00:05:00,059
+est en trois dimensions.
+Un globe est la meilleure façon de représenter la Terre,
+
+82
+00:05:00,060 --> 00:05:04,719
+mais les globes sont difficiles à transporter
+et même lorsqu'ils sont affichés en deux
+
+83
+00:05:04,720 --> 00:05:05,839
+dimensions,
+
+84
+00:05:05,840 --> 00:05:08,999
+eh bien, vous ne pouvez tout simplement pas tout voir à la fois.
+
+85
+00:05:09,000 --> 00:05:12,388
+Une carte plate de la Terre est très pratique
+
+86
+00:05:12,389 --> 00:05:15,758
+mais nécessite de projeter un globe sur quelque chose de
+
+87
+00:05:15,759 --> 00:05:20,288
+plat.  Et la surface d'une sphère ne peut pas être
+représentée sur un plan
+
+88
+00:05:20,289 --> 00:05:24,409
+sans distorsion.
+L'aile ouest a souligné
+
+89
+00:05:24,410 --> 00:05:27,379
+les limites des cartes plates.
+
+90
+00:05:27,380 --> 00:05:31,499
+Il n'existe pas de carte plane parfaite du
+
+91
+00:05:31,500 --> 00:05:36,379
+monde entier.  Certaines cartes sont utiles pour certaines
+choses et d'autres cartes pour d'autres choses,
+
+92
+00:05:36,380 --> 00:05:40,038
+mais c'est vraiment amusant de choisir la projection Mercator,
+
+93
+00:05:40,039 --> 00:05:43,879
+principalement parce qu'elle est si populaire et est
+même utilisée par Google Maps,
+
+94
+00:05:43,880 --> 00:05:46,929
+principalement parce qu'il est si facile de zoomer dessus.
+
+95
+00:05:46,930 --> 00:05:50,809
+Il conserve décemment bien sa forme mais souffre
+
+96
+00:05:50,810 --> 00:05:54,649
+en termes de surface.  Comme je l'ai déjà montré, l'Afrique
+
+97
+00:05:54,650 --> 00:05:59,888
+est immense.  Sa superficie est si vaste que l'
+ensemble des États-Unis contigus pourrait y
+
+98
+00:05:59,889 --> 00:06:03,149
+tenir, ainsi que toute la Chine, l'
+
+99
+00:06:03,150 --> 00:06:06,859
+Inde, le Japon et une grande partie de l'Europe.
+
+100
+00:06:06,860 --> 00:06:10,369
+Mais sur l'échelle de projection de Mercator près des pôles,
+
+101
+00:06:10,370 --> 00:06:13,609
+c'est assez bancal, déformé, ce qui signifie que le
+
+102
+00:06:13,610 --> 00:06:17,059
+Groenland semble être aussi grand que l'Afrique,
+
+103
+00:06:17,060 --> 00:06:21,059
+même si en réalité sa taille n'est que de 1/
+
+104
+00:06:21,060 --> 00:06:24,499
+14e.  Il y a plus.
+
+105
+00:06:24,500 --> 00:06:29,829
+Découvrez l'Alaska et le Brésil sur une
+projection Mercator.  Ils semblent presque de
+
+106
+00:06:29,830 --> 00:06:33,228
+la même taille mais en réalité le Brésil
+
+107
+00:06:33,229 --> 00:06:37,109
+est presque cinq fois plus grand que l'Alaska.
+
+108
+00:06:37,110 --> 00:06:40,459
+Les zones proches de l'équateur sont minimisées, tandis que les
+
+109
+00:06:40,460 --> 00:06:43,739
+zones proches des pôles sont exagérées.
+
+110
+00:06:43,740 --> 00:06:47,249
+Pour vous amuser avec ce problème, jouez au puzzle Google Maps
+
+111
+00:06:47,250 --> 00:06:52,529
+Mercator.  Les pièces rouges sont des
+pays projetés en dehors de leurs
+
+112
+00:06:52,530 --> 00:06:55,848
+emplacements habituels.  Maintenant, qu'est-ce que c'est que cette
+
+113
+00:06:55,849 --> 00:07:00,709
+forme bizarre ?  Eh bien, éloignons-
+le du pôle Nord, où l'échelle est très déformée
+
+114
+00:07:00,710 --> 00:07:04,029
+et maintenant c'est l'Australie.
+
+115
+00:07:04,030 --> 00:07:07,619
+Vous pouvez voir comment les mathématiques derrière les
+projections cartographiques déforment la Terre
+
+116
+00:07:07,620 --> 00:07:10,638
+en interagissant avec elles sur le
+
+117
+00:07:10,639 --> 00:07:14,959
+brillant site de Jason Davies.  Remarquez à quel point le
+Groenland apparaît petit sur la
+
+118
+00:07:14,960 --> 00:07:17,239
+projection de Mercator lorsqu'il est tiré vers l'
+
+119
+00:07:17,240 --> 00:07:22,068
+équateur et à quel point il devient exagéré
+lorsqu'il est déplacé vers le bord.
+
+120
+00:07:22,069 --> 00:07:25,239
+Pour être juste, la projection de Mercator est idéale pour la navigation.
+
+121
+00:07:25,240 --> 00:07:28,918
+Si vous voulez quelque chose de plus équitable
+en termes de superficie,
+
+122
+00:07:28,919 --> 00:07:32,168
+essayez le Gall-Peters.  Ici, les
+
+123
+00:07:32,169 --> 00:07:35,469
+masses continentales ont la bonne taille relative,
+
+124
+00:07:35,470 --> 00:07:38,508
+mais la forme est sacrifiée.  Tout semble un peu
+
+125
+00:07:38,509 --> 00:07:40,839
+trop étroit.
+
+126
+00:07:40,840 --> 00:07:44,888
+Entrez dans la Mollweide.  Cette projection montre
+
+127
+00:07:44,889 --> 00:07:49,068
+des surfaces égales et est un peu plus agréable en termes de forme.
+
+128
+00:07:49,069 --> 00:07:53,478
+Si vous interrompez le Mollweide autour
+des océans, la zone relative est préservée
+
+129
+00:07:53,479 --> 00:07:56,739
+et la forme des masses terrestres devient encore plus
+
+130
+00:07:56,740 --> 00:08:01,279
+précise.  En ce qui concerne le chemin le plus
+court entre deux endroits à la surface
+
+131
+00:08:01,280 --> 00:08:05,728
+de la Terre, les projections gnomoniques sont vraiment cool.
+
+132
+00:08:05,729 --> 00:08:10,909
+Chaque voyage en ligne droite effectué à
+la surface de la Terre fait en fait partie d'un grand
+
+133
+00:08:10,910 --> 00:08:15,378
+cercle.  Sur les projections de Mercator, les trajectoires réelles en ligne droite
+
+134
+00:08:15,379 --> 00:08:18,478
+semblent courbes.  Mais chaque ligne droite
+
+135
+00:08:18,479 --> 00:08:22,079
+sur une projection gnomonique est aussi une ligne droite
+
+136
+00:08:22,080 --> 00:08:25,448
+dans la vie réelle - le chemin le plus court.  Si vous voulez
+
+137
+00:08:25,449 --> 00:08:29,969
+un compromis entre la forme et la surface,
+vous pouvez essayer l'agréable
+
+138
+00:08:29,970 --> 00:08:34,228
+tripel Winkel, que la
+National Geographic Society utilise pour les cartes qu'elle
+
+139
+00:08:34,229 --> 00:08:35,058
+produit
+
+140
+00:08:35,059 --> 00:08:39,528
+depuis 1998. Ou une belle carte papillon
+
+141
+00:08:39,529 --> 00:08:43,259
+qui pourrait être une boule jusqu'à ce qu'elle soit
+aplatie, par exemple, sous un  une
+
+142
+00:08:43,260 --> 00:08:46,699
+vitre.  La carte Dymaxion peut se déployer
+
+143
+00:08:46,700 --> 00:08:50,349
+pour montrer à quel point les masses continentales de la Terre sont presque connectées
+
+144
+00:08:50,350 --> 00:08:54,569
+.  C'est un excellent moyen de visualiser les
+
+145
+00:08:54,570 --> 00:08:58,609
+heures supplémentaires de la migration humaine.  C'est assez impressionnant de voir à quel point les
+
+146
+00:08:58,610 --> 00:09:03,059
+humains ont voyagé sur terre,
+mais il reste un peu décevant
+
+147
+00:09:03,060 --> 00:09:06,179
+de réaliser à quel point notre tranche
+
+148
+00:09:06,180 --> 00:09:09,409
+de perception visuelle est vraiment étroite.
+
+149
+00:09:09,410 --> 00:09:12,489
+Mais ne vous sentez pas mal.
+Cela nous amène à l'histoire de
+
+150
+00:09:12,490 --> 00:09:14,359
+Julian Bayliss.
+
+151
+00:09:14,360 --> 00:09:16,489
+Oui, bonjour, est-ce le docteur Julian Bayliss ?
+
+152
+00:09:16,490 --> 00:09:17,689
+[AU TÉLÉPHONE :] Oui, en parlant.
+
+153
+00:09:17,690 --> 00:09:20,768
+Bayliss m'a raconté comment
+un jour, alors qu'il utilisait Google Earth, il a
+
+154
+00:09:20,769 --> 00:09:23,569
+repéré une végétation vert foncé.
+
+155
+00:09:23,570 --> 00:09:27,778
+Cela ressemblait à une forêt tropicale.
+Une expédition était prévue
+
+156
+00:09:27,779 --> 00:09:31,088
+et il s'est avéré que ce n'était que cela - une forêt tropicale que
+
+157
+00:09:31,089 --> 00:09:34,768
+nous n'avions jamais vue auparavant.  Je lui ai demandé plus.
+
+158
+00:09:34,769 --> 00:09:36,608
+Alors, qu'avez-vous trouvé là-bas ?
+
+159
+00:09:36,609 --> 00:09:39,439
+[AU TÉLÉPHONE :]
+Ce jour-là, nous avons trouvé environ 12 nouvelles espèces
+
+160
+00:09:39,440 --> 00:09:43,909
+provenant uniquement de Mabu.
+Nous avons donc trouvé environ 3 serpents, 2 caméléons et
+
+161
+00:09:43,910 --> 00:09:47,448
+environ 4 papillons, 2 nouvelles espèces de plantes
+
+162
+00:09:47,449 --> 00:09:50,919
+et nous venons tout juste d'être à la
+lisière de la forêt.  Alors, j'ai lu, lu un article
+
+163
+00:09:50,920 --> 00:09:54,628
+l'autre jour, un article scientifique.
+Ils estiment qu'il y a peut-être 8 millions,
+
+164
+00:09:54,629 --> 00:09:58,998
+8,5 millions d'espèces dans ce monde,
+mais nous n'en avons découvert que
+
+165
+00:09:58,999 --> 00:10:03,119
+1,5 million ou entre 1,5 et 2 millions.
+
+166
+00:10:03,120 --> 00:10:08,548
+Donc, nous n'avons en fait découvert qu'un poing de tout ce qui vit sur cette
+
+167
+00:10:08,549 --> 00:10:09,088
+planète.
+
+168
+00:10:09,089 --> 00:10:12,808
+Wow, nos yeux ne voient
+
+169
+00:10:12,809 --> 00:10:15,859
+qu'une infime partie de ce qu'il y a à voir.
+
+170
+00:10:15,860 --> 00:10:19,838
+Mais dans cette infime fraction, il reste
+
+171
+00:10:19,839 --> 00:10:24,739
+encore énormément de choses à trouver.
+Alors continuez à chercher, continuez à chercher.
+
+172
+00:10:24,740 --> 00:10:25,539
+[AU TÉLÉPHONE :]
+Et comme toujours,
+
+173
+00:10:25,540 --> 00:10:26,640
+merci d'avoir regardé.
+

@@ -1,0 +1,430 @@
+1
+00:00:00,300 --> 00:00:01,568
+Wat is reddit?
+
+2
+00:00:01,569 --> 00:00:04,610
+Voor een groot deel van het internet 
+is reddit de poort voor alles
+
+3
+00:00:04,611 --> 00:00:05,909
+wat interessant is in de wereld.
+
+4
+00:00:05,910 --> 00:00:09,089
+Reddit.com lezen is net als de krant
+lezen, behalve dan dat reddit
+
+5
+00:00:09,090 --> 00:00:10,199
+- actueel
+- interactief
+
+6
+00:00:10,200 --> 00:00:11,489
+- gepersonaliseerd
+- deelnemend
+
+7
+00:00:11,490 --> 00:00:13,768
+- en soms vreselijk absorberend
+
+8
+00:00:13,769 --> 00:00:15,149
+... kortom, *goed* is.
+
+9
+00:00:15,150 --> 00:00:19,059
+Hoe het werkt is dat mensen links indienen
+op reddit (blog posts, plaatjes of video's)
+
+10
+00:00:19,060 --> 00:00:23,168
+en andere mensen stemmen deze links op of neer.
+Het is een simpel concept maar het maakt van reddit
+
+11
+00:00:23,169 --> 00:00:27,737
+een lijst van de beste dingen die mensen nu
+op Internet aan het lezen of kijken zijn.
+
+12
+00:00:27,738 --> 00:00:31,338
+De naam is een samentrekking van 'Read it' als in
+'Al gelezen', wat, als je
+
+13
+00:00:31,339 --> 00:00:34,742
+veel tijd op de site doorbrengt,
+je tegen iedereen zegt
+
+14
+00:00:34,743 --> 00:00:38,189
+die je iets wilt laten zien. 
+Het is een toffe vloek.
+
+15
+00:00:38,190 --> 00:00:41,229
+Omdat er geen redacteurs op reddit zijn
+weet je nooit wat je zult vinden maar je
+
+16
+00:00:41,230 --> 00:00:45,919
+kan wedden dat het grappig of interessant of
+woedendmakend zal zijn omdat duizenden anderen
+
+17
+00:00:45,920 --> 00:00:48,459
+hebben gestemd dat het het waard is om te zien.
+
+18
+00:00:48,460 --> 00:00:51,328
+Bekijk het zo: als Google de plek is 
+waar je dingen gaat zoeken,
+
+19
+00:00:51,329 --> 00:00:54,288
+dan is reddit de plek waar je heen gaat 
+om te zien wat mensen hebben gevonden.
+
+20
+00:00:54,289 --> 00:00:57,089
+Maar reddit is niet gewoon n lijst 
+van dingen: reddit is
+
+21
+00:00:57,090 --> 00:00:59,439
+een mooie vertakking met gedeeltes, 
+genaamd subreddits.
+
+22
+00:00:59,440 --> 00:01:03,819
+Als je alleen politiek of programmeren of grappige plaatjes
+met opschriften of sport of wereldnieuws leuk vindt,
+
+23
+00:01:03,820 --> 00:01:07,869
+zijn er subreddits met alleen dat onderwerp.
+En er zal vast een subreddit voor je
+
+24
+00:01:07,870 --> 00:01:09,899
+stad, land of regio zijn.
+
+25
+00:01:09,900 --> 00:01:13,329
+Hou je van een TV show dat jaren geleden beindigd is?
+Er is een subreddit waar mensen nog erover praten
+
+26
+00:01:13,330 --> 00:01:15,009
+alsof het net uit is.
+
+27
+00:01:15,010 --> 00:01:18,099
+Tech geeks hebben hun technologie en
+vlag geeks hebben hun vexillologie en -- op de
+
+28
+00:01:18,100 --> 00:01:21,249
+kleine kans dat waar je in genteresseerd bent nog
+niet bestaat, hoef je maar op een knop te drukken
+
+29
+00:01:21,250 --> 00:01:23,059
+en een nieuwe subreddit wordt geboren.
+
+30
+00:01:23,060 --> 00:01:27,719
+Elke subreddit werkt als de hoofdpagina:
+een updatende lijst van interessante dingen volgens
+
+31
+00:01:27,720 --> 00:01:29,389
+de mensen genteresseerd in die dingen.
+
+32
+00:01:29,390 --> 00:01:33,879
+En wanneer een subreddit groot wordt kan
+het hier vreselijk goed in worden: bijvoorbeeld AWW,
+
+33
+00:01:33,880 --> 00:01:38,949
+een gedeelte toegewijd aan schattigheid, is een
+GLOBALE 24-UURS GEVECHT OM DE SCHATTIGSTE PLAATJES
+
+34
+00:01:38,950 --> 00:01:39,679
+OOIT!
+
+35
+00:01:39,680 --> 00:01:43,309
+Als je mensen met babydierfoto's een plek
+geeft om te strijden met hun babydierfoto's
+
+36
+00:01:43,310 --> 00:01:48,529
+krijg je de hoogste dichtheid van schattigheid
+die de menselijke beschaving tot nu toe heeft gecreerd.
+
+37
+00:01:48,530 --> 00:01:52,019
+Maar zonder redacteurs die de site beheren,
+hoe werkt dat sorteerproces? Er is geen
+
+38
+00:01:52,020 --> 00:01:54,669
+tijd om in de code te duiken,
+maar je kan het zo zien:
+
+39
+00:01:54,670 --> 00:01:58,439
+Links die mensen indienen zijn ballonnen die
+op en neer de lijst zweven. Wanneer iemand
+
+40
+00:01:58,440 --> 00:02:02,799
+een link omhoog stemt komt er een beetje helium in
+en omlaag stemt haalt er een beetje helium uit.
+
+41
+00:02:02,800 --> 00:02:06,239
+Om de tijd zet reddit gewichten op alle ballonnen
+-- waardoor nieuwere links een kans
+
+42
+00:02:06,240 --> 00:02:09,379
+krijgen om te strijden tegen
+die er al wat langer zijn.
+
+43
+00:02:09,380 --> 00:02:13,104
+Deze methode is bizar goed in dingen 
+sorteren, moge het internationale politiek
+
+44
+00:02:13,105 --> 00:02:14,399
+of foto's van computeropstellingen zijn.
+
+45
+00:02:14,400 --> 00:02:19,149
+Natuurlijk, wanneer een site al het menselijke streven
+omvat kunnen er rare dingen opduiken: zoals subreddits
+
+46
+00:02:19,150 --> 00:02:23,979
+voor alleen foto's van vogels... met armen of
+alleen foto's van Hitler... met sokken en dan zijn er
+
+47
+00:02:23,980 --> 00:02:27,969
+altijd de andere soort foto's waar mensen
+graag naar kijken en soms verzamelingen
+
+48
+00:02:27,970 --> 00:02:31,079
+van vreselijke dingen die niet meer ongezien kunnen worden
+
+49
+00:02:31,080 --> 00:02:35,479
+Dus ja, dit heeft een slechte wending genomen.
+Maar onthoud dat reddit raar kan zijn niet omdat
+
+50
+00:02:35,480 --> 00:02:39,309
+reddit raar is maar omdat mensen raar zijn.
+En het geweldige van reddit is dat het
+
+51
+00:02:39,310 --> 00:02:43,479
+verandert naar jou: wanneer je deelneemt aan subreddits
+die je leuk vindt en vertrekt uit die je niet leuk vindt
+
+52
+00:02:43,480 --> 00:02:47,409
+zal de hoofdpagina de jouwe worden: een
+opsomming van het beste van alle subreddits die je volgt
+
+53
+00:02:47,410 --> 00:02:49,709
+en niet de dingen die je niet volgt.
+
+54
+00:02:49,710 --> 00:02:53,029
+Dus reddit is zoals het leven:
+het is wat je ervan maakt.
+
+55
+00:02:53,030 --> 00:02:56,818
+Maar links zijn alleen de top van de redditberg,
+want mensen kunnen de links bespreken en dit
+
+56
+00:02:56,819 --> 00:02:59,029
+is waar de ware aard van reddit ligt.
+
+57
+00:02:59,030 --> 00:03:02,989
+De meeste forums op het internet zijn lelijk,
+maar reddit is niet je oma's bulletin board.
+
+58
+00:03:02,990 --> 00:03:07,059
+Net als de ballonsorteermethode de beste
+links vindt is er wat moeilijkere wiskunde
+
+59
+00:03:07,060 --> 00:03:10,259
+(en slechter uitlegbaar) dat het meest interessante
+commentaar in een discussie vindt en het
+
+60
+00:03:10,260 --> 00:03:14,779
+omhoog brengt. En reddit weergeeft commentaar
+op zo'n manier dat het discussies aanmoedigt.
+
+61
+00:03:14,780 --> 00:03:17,079
+(Niet zoals sommige *andere* systemen).
+
+62
+00:03:17,080 --> 00:03:20,239
+Deze sortering en threading zorgt ervoor
+dat de discussie van een link altijd
+
+63
+00:03:20,240 --> 00:03:22,029
+interessanter is dan de link zelf.
+
+64
+00:03:22,030 --> 00:03:25,929
+Zo zijn er subreddits dat *alleen* maar discussies
+zijn: zoals de Change My View voor debatten
+
+65
+00:03:25,930 --> 00:03:30,059
+of Ask A Scientist waar experts vragen beantwoorden.
+En er is 'IamA' waar mensen zeggen wat ze
+
+66
+00:03:30,060 --> 00:03:34,339
+zijn "Ik ben brandweerman" of "Ik ben een escort" of
+"Ik ben een gevangenbewaarder" en vragen beantwoorden
+
+67
+00:03:34,340 --> 00:03:35,339
+in het commentaar.
+
+68
+00:03:35,340 --> 00:03:39,039
+En omdat mensen op reddit anoniem zijn
+zijn discussies altijd interessanter en opener
+
+69
+00:03:39,040 --> 00:03:41,818
+dan wanneer je wordt gedwongen je echte naam
+te gebruiken. ::kuch::YouTube & Google+ Integration ::kuch::
+
+70
+00:03:41,819 --> 00:03:45,929
+Hoewel, met anonimiteit zie je dat niet iedereen
+zijn onthulde privgedachten mooi zijn.
+
+71
+00:03:45,930 --> 00:03:49,958
+En soms is het onaangenaam te zien wat een
+gezichtsloze groep over een onderwerp denkt.
+
+72
+00:03:49,959 --> 00:03:53,469
+Maar gelukkig heeft reddit een manier om met
+onbehulpzaam commentaar om te gaan. En ondanks
+
+73
+00:03:53,470 --> 00:03:58,109
+de mensen die slecht gedragen is het duidelijk dat
+reddit alleen kan bestaan omdat het merendeel,
+
+74
+00:03:58,110 --> 00:04:00,149
+zelfs terwijl ze anoniem zijn, goed is.
+
+75
+00:04:00,150 --> 00:04:04,488
+Deze anonimiteit is echter niet nodig, dus
+je kan ook acteurs, schrijvers, presidenten
+
+76
+00:04:04,489 --> 00:04:07,839
+en minister-presidenten op reddit vinden die
+vragen uit de gemeenschap beantwoorden.
+
+77
+00:04:07,840 --> 00:04:11,439
+En reddit is echt een gemeenschap met haar eigen
+cultuur en geschiedenis en dat een steeds
+
+78
+00:04:11,440 --> 00:04:15,419
+groter effect heeft op de fysieke wereld met
+dingen als: in het echt bijeenkomen en geld verzamelen
+
+79
+00:04:15,420 --> 00:04:19,578
+voor het goede doel en het internet verdedigen
+en een familie bij hun zieke kind helpen
+
+80
+00:04:19,579 --> 00:04:24,168
+en 's werelds grootste lootjestrekking houden
+en leraren de benodigde materialen sturen.
+
+81
+00:04:24,169 --> 00:04:28,188
+Met haar vliegensvlugge democratie en
+shockerend snelle reacties kan reddit je soms
+
+82
+00:04:28,189 --> 00:04:32,489
+meer als een bewoner van het internet laten
+voelen dan een bewoner van je eigen land.
+
+83
+00:04:32,490 --> 00:04:36,938
+Maar uiteindelijk is het moeilijk reddit te begrijpen zonder
+er gewoon in te springen, commentaar te geven en
+
+84
+00:04:36,939 --> 00:04:40,299
+te stemmen, wat je echt zou moeten doen.
+En eenmaal je het onder de knie hebt, zul je
+
+85
+00:04:40,300 --> 00:04:44,899
+je afvragen hoe je ooit hebt geinternet hiervoor.
+
+86
+00:04:44,900 --> 00:05:03,276
+[Aftiteling]
+
+87
+00:05:03,277 --> 00:05:06,929
+P.S. Als je al reddit gebruikt en je van de site houdt,
+denk eens eraan reddit gold te kopen
+
+88
+00:05:06,930 --> 00:05:10,948
+om het te ondersteunen. Ik was verrast te leren
+tijdens het maken van deze video dat hoewel het
+
+89
+00:05:10,949 --> 00:05:15,369
+steeds populairder wordt het nog steeds niet
+winstgevend is. Dus als je, net als ik, reddit
+
+90
+00:05:15,370 --> 00:05:18,219
+*de hele dag* gebruikt, is het wel
+een paar euro's per maand waard.
+

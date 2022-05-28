@@ -1,0 +1,378 @@
+1
+00:00:00,700 --> 00:00:04,119
+Un anno solare è composto da
+trecentosessantacinque giorni, un numero che si rifiuta
+
+2
+00:00:04,120 --> 00:00:08,768
+di dividere bene, motivo per cui finiamo con
+mesi irregolari di 30 o 31 giorni.
+
+3
+00:00:08,769 --> 00:00:12,579
+Fatta eccezione per febbraio - il più piccolo della cucciolata
+- che ottiene solo 28... tranne quando ne ottiene
+
+4
+00:00:12,580 --> 00:00:15,869
+29 e quindi l'anno dura 366 giorni.
+
+5
+00:00:15,870 --> 00:00:16,869
+Perché succede?
+
+6
+00:00:16,870 --> 00:00:19,639
+In che tipo di universo pazzo viviamo
+dove alcuni anni sono più lunghi di altri?
+
+7
+00:00:19,640 --> 00:00:22,189
+Per rispondere a questo dobbiamo sapere: che
+cos'è un anno?
+
+8
+00:00:22,190 --> 00:00:25,609
+Semplificando troppo: un anno è il tempo
+che impiega la Terra per fare un giro intorno al
+
+9
+00:00:25,610 --> 00:00:26,609
+sole.
+
+10
+00:00:26,610 --> 00:00:28,319
+Questo accade per allinearsi con il ciclo
+delle stagioni.
+
+11
+00:00:28,320 --> 00:00:31,729
+Ora, disegnare un piccolo diagramma come questo che mostra
+la Terra che gira allegramente intorno al sole è
+
+12
+00:00:31,730 --> 00:00:35,189
+facile da fare, ma tracciare accuratamente un anno
+è complicato quando sei sulla Terra perché l'
+
+13
+00:00:35,190 --> 00:00:37,429
+universo non fornisce una mappa aerea.
+
+14
+00:00:37,430 --> 00:00:40,499
+Sulla Terra puoi solo vedere il cambiamento delle stagioni
+e il modo più ovvio per tenere traccia dei loro
+
+15
+00:00:40,500 --> 00:00:45,259
+andirivieni è contare i giorni che passano, il
+che ti dà un calendario di 365 giorni.
+
+16
+00:00:45,260 --> 00:00:49,209
+Ma non appena inizi a utilizzare quel calendario
+, lentamente perde la sincronizzazione con le stagioni.
+
+17
+00:00:49,210 --> 00:00:52,078
+E ogni anno che passa il divario diventa
+sempre più grande.
+
+18
+00:00:52,079 --> 00:00:55,809
+Tra tre decenni il calendario scadrà
+di una settimana e in poche centinaia di anni le stagioni
+
+19
+00:00:55,810 --> 00:01:00,099
+verrebbero capovolte, il che significa che le celebrazioni natalizie
+si svolgono in estate, il che sarebbe pazzesco.
+
+20
+00:01:00,100 --> 00:01:01,099
+Perché questo accade?
+
+21
+00:01:01,100 --> 00:01:02,099
+Abbiamo sbagliato a contare i giorni?
+
+22
+00:01:02,100 --> 00:01:05,077
+Ebbene, il calendario prevede che il
+tempo impiegato dalla Terra per fare il giro del sole sia di
+
+23
+00:01:05,078 --> 00:01:06,188
+8.760 ore.
+
+24
+00:01:06,189 --> 00:01:10,669
+Ma, se lo cronometristi effettivamente con un
+cronometro, vedresti che un anno è davvero più lungo di
+
+25
+00:01:10,670 --> 00:01:12,879
+quanto previsto dal calendario di quasi sei ore.
+
+26
+00:01:12,880 --> 00:01:17,019
+Quindi il nostro calendario si sta muovendo leggermente
+più velocemente di quanto le stagioni cambino effettivamente.
+
+27
+00:01:17,020 --> 00:01:20,629
+E arriviamo così al problema fondamentale
+di tutti i calendari: il ciclo giorno/notte, sebbene
+
+28
+00:01:20,630 --> 00:01:23,748
+facile da contare, non ha nulla a che fare con il
+ciclo annuale.
+
+29
+00:01:23,749 --> 00:01:26,188
+Il giorno e la notte sono causati dalla rotazione della Terra
+attorno al proprio asse.
+
+30
+00:01:26,189 --> 00:01:29,188
+Quando sei dalla parte di fronte al sole, è
+giorno e quando sei dall'altra parte
+
+31
+00:01:29,189 --> 00:01:30,188
+è notte.
+
+32
+00:01:30,189 --> 00:01:33,388
+Ma questa rotazione non è più connessa al
+movimento orbitale attorno al sole di quanto una ballerina che
+
+33
+00:01:33,389 --> 00:01:36,618
+gira sul retro di un
+camion sia collegata alla velocità di crociera del camion.
+
+34
+00:01:36,619 --> 00:01:39,258
+Contare il numero di giri della ballerina per
+prevedere quanto tempo impiega il camion per tuffarsi
+
+35
+00:01:39,259 --> 00:01:43,359
+in cerchio potrebbe darti un'idea approssimativa, ma
+è pazzesco aspettarsi che sia preciso.
+
+36
+00:01:43,360 --> 00:01:46,478
+Contare i giorni per tracciare l'orbita è
+praticamente la stessa cosa e quindi non dovrebbe essere
+
+37
+00:01:46,479 --> 00:01:50,789
+una sorpresa quando la Terra non riesce a
+fare esattamente 365 giri completi in un anno.
+
+38
+00:01:50,790 --> 00:01:56,309
+Irritante, mentre 365 giorni sono troppo pochi, 366
+giorni sono troppi e causano ancora lo
+
+39
+00:01:56,310 --> 00:01:58,739
+sfasamento delle stagioni, proprio nel
+modo opposto.
+
+40
+00:01:58,740 --> 00:02:02,068
+La soluzione a tutto questo è l'anno bisestile:
+dove febbraio ottiene un giorno in più, ma solo
+
+41
+00:02:02,069 --> 00:02:03,438
+ogni quattro anni.
+
+42
+00:02:03,439 --> 00:02:07,039
+Funziona abbastanza bene, poiché ogni anno il calendario
+è corto di circa un quarto di giorno, quindi dopo quattro
+
+43
+00:02:07,040 --> 00:02:09,388
+anni aggiungi un giorno in più per tornare in
+allineamento.
+
+44
+00:02:09,389 --> 00:02:10,388
+Huzzah!
+
+45
+00:02:10,389 --> 00:02:11,389
+Il problema è stato risolto.
+
+46
+00:02:11,390 --> 00:02:12,539
+Tranne che non è così.
+
+47
+00:02:12,540 --> 00:02:15,739
+Allungare il calendario di un giorno ogni
+quattro anni è un po' troppo, e il calendario è
+
+48
+00:02:15,740 --> 00:02:19,129
+ancora indietro rispetto alle stagioni al ritmo
+di un giorno ogni cento anni.
+
+49
+00:02:19,130 --> 00:02:22,458
+Il che va bene per gli apatici, ma non per i
+progettisti di calendari che vogliono che tutto
+
+50
+00:02:22,459 --> 00:02:23,679
+sia perfettamente allineato.
+
+51
+00:02:23,680 --> 00:02:26,739
+Per correggere l'irregolarità, ogni secolo
+viene saltato l'anno bisestile.
+
+52
+00:02:26,740 --> 00:02:30,539
+Quindi il 1896 e il 1904 furono anni bisestili ma il
+1900 no.
+
+53
+00:02:30,540 --> 00:02:34,238
+Questo è meglio, ma lascia comunque il
+calendario un po' troppo veloce con un errore di
+
+54
+00:02:34,239 --> 00:02:35,999
+1 giorno in 400 anni.
+
+55
+00:02:36,000 --> 00:02:39,029
+Quindi un'ulteriore clausola viene aggiunta alla regola salta
+i secoli che se il secolo è
+
+56
+00:02:39,030 --> 00:02:41,878
+divisibile per 400, allora sarà un anno bisestile.
+
+57
+00:02:41,879 --> 00:02:45,159
+Quindi il 1900 e il 2100 non sono anni bisestili, ma il 2000 lo
+è.
+
+58
+00:02:45,160 --> 00:02:49,179
+Con queste tre regole, l'errore è ora solo
+un giorno libero in quasi ottomila anni
+
+59
+00:02:49,180 --> 00:02:52,568
+che l'attuale calendario dichiara "missione
+compiuta" e così lo chiama un giorno.
+
+60
+00:02:52,569 --> 00:02:55,389
+Il che probabilmente è abbastanza ragionevole perché
+ottomila anni fa gli umani stavano solo
+
+61
+00:02:55,390 --> 00:02:58,729
+scoprendo che l'agricoltura poteva essere una buona
+idea e tra ottomila anni
+
+62
+00:02:58,730 --> 00:03:01,548
+si spera che utilizzeremo un calendario con un migliore
+sistema di tracciamento della data.
+
+63
+00:03:01,549 --> 00:03:06,149
+Ma forse sei un matematico e un
+errore dello 0,0001 percento è un abominio ai tuoi occhi
+
+64
+00:03:06,150 --> 00:03:07,149
+e deve essere rimosso.
+
+65
+00:03:07,150 --> 00:03:10,369
+"Sfortuna" dice The Universe perché la
+lunghezza di un giorno non è nemmeno costante.
+
+66
+00:03:10,370 --> 00:03:14,359
+Varia casualmente di alcuni millisecondi e
+in media e molto lentamente diminuisce di circa
+
+67
+00:03:14,360 --> 00:03:16,109
+1 millisecondo ogni cento anni.
+
+68
+00:03:16,110 --> 00:03:19,969
+Il che significa che è letteralmente impossibile costruire
+un calendario perfetto che duri per sempre.
+
+69
+00:03:19,970 --> 00:03:23,089
+In teoria la lunghezza di un giorno si espanderà
+fino a raggiungere la lunghezza di un mese corrente, ma non
+
+70
+00:03:23,090 --> 00:03:27,018
+preoccuparti, in pratica ci vorranno decine di miliardi
+di anni e il nostro sole in espansione distruggerà
+
+71
+00:03:27,019 --> 00:03:28,798
+la terra molto prima che ciò accada.
+
+72
+00:03:28,799 --> 00:03:32,128
+Scusa, non sono sicuro di come siamo passati dal contare
+i giorni dei mesi alla fine infuocata inevitabile
+
+73
+00:03:32,129 --> 00:03:35,298
+di tutta la civiltà umana - a meno che
+ovviamente non abbiamo un programma spaziale adeguatamente finanziato
+
+74
+00:03:35,299 --> 00:03:37,348
+(suggerimento, suggerimento) - ma il gioco è
+fatto.
+
+75
+00:03:37,349 --> 00:03:40,408
+Per i prossimi otto millenni gli anni bisestili
+manterranno il calendario sincronizzato con le stagioni,
+
+76
+00:03:40,409 --> 00:03:43,889
+ma in un modo sorprendentemente complicato.
+
+77
+00:03:43,890 --> 00:03:47,289
+Puoi imparare molto di più su orbite, diversi
+tipi di anni e buchi neri supermassicci
+
+78
+00:03:47,290 --> 00:03:48,289
+e oltre a Minute Physics.
+
+79
+00:03:48,290 --> 00:03:51,169
+Come sempre, Henry fa un ottimo lavoro
+nello spiegare tutto nel suo nuovo video.
+
+80
+00:03:51,170 --> 00:03:51,590
+Dai un'occhiata.�
+

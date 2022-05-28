@@ -1,0 +1,492 @@
+1
+00:00:00,310 --> 00:00:03,059
+Hé, Vsauce.  Michael ici,
+et je reviens juste de
+
+2
+00:00:03,060 --> 00:00:06,459
+VidCon.  Toute la convention a été
+incroyable, mais tout le temps que j'y étais
+
+3
+00:00:06,460 --> 00:00:07,099
+,
+
+4
+00:00:07,100 --> 00:00:11,619
+j'ai beaucoup pensé à la vidéo.
+Nous regardons tous la vidéo
+
+5
+00:00:11,620 --> 00:00:15,239
+et beaucoup d'entre nous travaillent avec la vidéo,
+mais qu'est-ce que c'est ?  Je veux dire, qu'est-ce que la
+
+6
+00:00:15,240 --> 00:00:18,919
+vidéo ?  Eh bien, devinez quoi, aujourd'hui,
+nous allons jeter un œil.
+
+7
+00:00:18,920 --> 00:00:22,948
+Pour commencer, je pense que nous devrions commencer
+tout en bas
+
+8
+00:00:22,949 --> 00:00:26,299
+avec le langage.
+Que signifie le mot enregistrement ?
+
+9
+00:00:26,300 --> 00:00:29,759
+L'histoire derrière le mot 'record' est en
+fait assez cool et me rend un peu
+
+10
+00:00:29,760 --> 00:00:30,759
+sentimental.
+
+11
+00:00:30,760 --> 00:00:34,689
+Le mot « record » vient du latin,
+où « re » signifie
+
+12
+00:00:34,690 --> 00:00:38,439
+encore et « cor » signifie le cœur ou l'âme.
+
+13
+00:00:38,440 --> 00:00:42,199
+Ainsi, lorsque vous enregistrez quelque chose, vous le
+ramenez littéralement
+
+14
+00:00:42,200 --> 00:00:46,038
+dans votre cœur, le ramenez dans votre
+âme, vous vous en souvenez.
+
+15
+00:00:46,039 --> 00:00:49,288
+Maintenant, cela semble vraiment agréable et joli,
+mais cela avait en fait plus à voir avec le
+
+16
+00:00:49,289 --> 00:00:49,699
+fait que les
+
+17
+00:00:49,700 --> 00:00:53,979
+anciens pensaient que le cœur
+était que nous étions des souvenirs stockés, pas le cerveau.
+
+18
+00:00:53,980 --> 00:00:57,468
+La raison pour laquelle une séquence d'images fixes
+peut sembler bouger
+
+19
+00:00:57,469 --> 00:01:01,488
+est un effet connu sous le nom de "mouvement bêta".
+Si les images se déplacent assez rapidement,
+
+20
+00:01:01,489 --> 00:01:04,937
+notre cerveau ne peut pas les comprendre comme
+des images séparées et l'illusion de
+
+21
+00:01:04,938 --> 00:01:05,609
+mouvement
+
+22
+00:01:05,610 --> 00:01:09,169
+est créée.
+Maintenant, pendant très longtemps, nous avons enregistré
+
+23
+00:01:09,170 --> 00:01:12,959
+des images en mouvement sur un film photographique,
+mais plus tard,
+
+24
+00:01:12,960 --> 00:01:16,789
+une nouvelle façon de capturer des images en mouvement
+est apparue et elle s'appelait
+
+25
+00:01:16,790 --> 00:01:20,188
+"vidéo".
+La vidéo vient du latin pour "je vois"
+
+26
+00:01:20,189 --> 00:01:24,258
+et plutôt que de conserver
+chimiquement une image en mouvement sur un
+
+27
+00:01:24,259 --> 00:01:28,548
+film photographique en celluloïd, la
+vidéo est une
+
+28
+00:01:28,549 --> 00:01:33,219
+représentation électronique de l'image en mouvement.
+Maintenant, dans le monde réel, des choses
+
+29
+00:01:33,220 --> 00:01:37,158
+arrivent.  Les choses
+arrivent continuellement.  Mais dans le monde d'un appareil photo,
+
+30
+00:01:37,159 --> 00:01:38,118
+qu'il s'agisse d'un film
+
+31
+00:01:38,119 --> 00:01:41,789
+ou d'une caméra vidéo, c'est presque toujours sous
+la forme de fréquences d'images.
+
+32
+00:01:41,790 --> 00:01:45,569
+Des images du monde prises à une
+certaine vitesse qui sont ensuite parcourues rapidement
+
+33
+00:01:45,570 --> 00:01:46,078
+en
+
+34
+00:01:46,079 --> 00:01:49,658
+produisant, par le mouvement bêta,
+l'illusion du mouvement.
+
+35
+00:01:49,659 --> 00:01:53,749
+Lorsqu'une caméra enregistre à une
+fréquence d'images inférieure, la lecture semble souvent
+
+36
+00:01:53,750 --> 00:01:58,648
+saccadée et saute comme ceci.  Plus d'images
+par seconde signifie que plus d'informations
+
+37
+00:01:58,649 --> 00:02:00,109
+sont prises chaque seconde,
+
+38
+00:02:00,110 --> 00:02:03,609
+ce qui conduit à plus de fluidité.
+Mais cela mène à toute une boîte de vers,
+
+39
+00:02:03,610 --> 00:02:06,618
+ce qui est une excellente transition vers une
+conversation que j'ai eue avec Dylan de
+
+40
+00:02:06,619 --> 00:02:08,119
+HouseholdHacker à VidCon.
+
+41
+00:02:08,120 --> 00:02:11,239
+Roulez le ruban.
+
+42
+00:02:11,240 --> 00:02:16,799
+Hé, Vsauce.  Michael ici, et je suis dans la salle de bain à VidCon et j'ai un invité spécial.  Juste à l'extérieur,
+
+43
+00:02:16,800 --> 00:02:20,259
+c'est Dylan de HouseholdHacker.
+Hey, qu'est-ce qui se passe tout le monde?
+
+44
+00:02:20,260 --> 00:02:24,068
+Vous savez, j'ai une bonne question pour vous
+basée sur les fréquences d'images et autres.  Que diriez-vous
+
+45
+00:02:24,069 --> 00:02:24,549
+que
+
+46
+00:02:24,550 --> 00:02:31,049
+l'œil humain perçoit comme fréquence d'images ?  Très bonne question.  À quelle fréquence d'images voyons-nous le monde avec nos
+
+47
+00:02:31,050 --> 00:02:32,098
+globes oculaires ?
+Je veux dire, à
+
+48
+00:02:32,099 --> 00:02:35,409
+quelle vitesse les informations voyagent-elles
+de notre œil à notre cerveau ?
+
+49
+00:02:35,410 --> 00:02:39,729
+Il ne peut évidemment pas être trop bas,
+car les objets rapides n'ont pas l'air de
+
+50
+00:02:39,730 --> 00:02:40,539
+sauter,
+
+51
+00:02:40,540 --> 00:02:44,979
+ils ont l'air plutôt fluides.  Eh bien, c'est un peu une
+question piège parce que nos yeux
+
+52
+00:02:44,980 --> 00:02:48,878
+ne sont pas des caméras.
+Au lieu de cela, ils suivent les objets
+
+53
+00:02:48,879 --> 00:02:52,219
+et reçoivent un flux continu de photons
+sur la rétine
+
+54
+00:02:52,220 --> 00:02:55,249
+envoyant des informations via une réaction chimique
+
+55
+00:02:55,250 --> 00:02:59,149
+au cerveau.  Maintenant, voici ce que nous faisons maintenant.
+Le cortex visuel de notre cerveau
+
+56
+00:02:59,150 --> 00:03:02,408
+retient généralement ces informations
+de notre rétine pendant environ un quinzième
+
+57
+00:03:02,409 --> 00:03:06,399
+de seconde.  Donc, si une animation se déplace
+quinze images par seconde
+
+58
+00:03:06,400 --> 00:03:09,719
+ou plus vite, elle sera belle et fluide.
+Mais
+
+59
+00:03:09,720 --> 00:03:14,158
+s'il est inférieur à quinze images par seconde,
+notre cerveau n'est pas dupe du mouvement bêta
+
+60
+00:03:14,159 --> 00:03:19,699
+et il aura l'air de sauter.  Donc, fondamentalement
+, plus la fréquence d'images est rapide, plus
+
+61
+00:03:19,700 --> 00:03:24,268
+tout sera beau à la fin.  Voici la chose.
+Si les fréquences d'images augmentent de plus en plus,
+
+62
+00:03:24,269 --> 00:03:27,499
+vous vous retrouvez avec une image qui peut en
+fait causer des maux de tête lorsque les gens la
+
+63
+00:03:27,500 --> 00:03:28,548
+regardent à l'écran.
+
+64
+00:03:28,549 --> 00:03:31,988
+Uhm... Ici, je vais vous expliquer pourquoi.
+Tenez cette caméra pendant une seconde.
+
+65
+00:03:31,989 --> 00:03:35,449
+Oh oui, pas de problème.
+Revenons donc au point
+
+66
+00:03:35,450 --> 00:03:39,059
+sur nos yeux qui suivent les objets.
+Si je fais cela -
+
+67
+00:03:39,060 --> 00:03:42,708
+déplacez ma main devant mon visage
+et suivez-la avec mes yeux -
+
+68
+00:03:42,709 --> 00:03:47,339
+je peux voir ma main, cela a du sens.  Mais à
+un certain moment, ma main se déplacera si vite
+
+69
+00:03:47,340 --> 00:03:51,238
+que ce n'est qu'un flou et la raison
+pour laquelle c'est un flou est que mon œil
+
+70
+00:03:51,239 --> 00:03:56,889
+ne peut suivre qu'à une vitesse aussi élevée.  Et lorsque les objets se déplacent
+plus vite que nos globes oculaires ne peuvent le suivre, votre cerveau
+
+71
+00:03:56,890 --> 00:03:57,529
+ajoute un
+
+72
+00:03:57,530 --> 00:04:00,899
+flou de mouvement.  De cette façon, nous obtenons une sensation de
+mouvement,
+
+73
+00:04:00,900 --> 00:04:04,139
+mais nous ne voyons pas quelque chose comme une main apparaître au hasard
+
+74
+00:04:04,140 --> 00:04:07,818
+partout.
+Mais cela devient un problème avec les nouveaux
+
+75
+00:04:07,819 --> 00:04:09,658
+programmes haute définition sur les
+
+76
+00:04:09,659 --> 00:04:13,639
+grands téléviseurs, car certains de ces
+programmes sont transmis à votre téléviseur
+
+77
+00:04:13,640 --> 00:04:16,948
+à des fréquences d'images pouvant atteindre 1 000 images par seconde.
+
+78
+00:04:16,949 --> 00:04:20,737
+Et les objets, comme une balle de tennis,
+qui se déplacent normalement si vite que
+
+79
+00:04:20,738 --> 00:04:24,439
+nos yeux ne peuvent pas les suivre et ils semblent flous
+ne semblent pas flous,
+
+80
+00:04:24,440 --> 00:04:28,239
+car la caméra est capable de les voir
+clairement.  Et lorsque vous regardez ce programme
+
+81
+00:04:28,240 --> 00:04:28,969
+à la télévision,
+
+82
+00:04:28,970 --> 00:04:32,469
+vous pouvez en fait avoir mal à la tête ou avoir des
+vertiges, ils doivent donc trouver des moyens de
+
+83
+00:04:32,470 --> 00:04:33,649
+rajouter du
+
+84
+00:04:33,650 --> 00:04:37,159
+flou dans les images HD.
+Plutôt chouette, non ?
+
+85
+00:04:37,160 --> 00:04:40,379
+C'est une excellente information.  Comment avez-vous
+appris cela ?  C'est pour ça que je suis là, mec.
+
+86
+00:04:40,380 --> 00:04:45,918
+Merci.  À plus tard.
+À plus tard.
+
+87
+00:04:45,919 --> 00:04:52,219
+Vous savez, la salle de bain.  Tu sais.
+Je t'ai entendu sortir.  Avez-vous lavez vos mains?
+
+88
+00:04:52,220 --> 00:04:55,249
+Euh, ouais.
+
+89
+00:04:55,250 --> 00:04:58,829
+Alors voilà.  Quelques faits intéressants sur la
+vidéo que j'ai appris pendant que je volais
+
+90
+00:04:58,830 --> 00:04:59,589
+vers
+
+91
+00:04:59,590 --> 00:05:03,719
+et depuis VidCon de New York à LA.
+Ce fut un long vol, mais j'ai beaucoup appris
+
+92
+00:05:03,720 --> 00:05:07,508
+et je veux terminer avec quelques chiffres sur
+YouTube en particulier.
+
+93
+00:05:07,509 --> 00:05:11,258
+YouTube héberge des vidéos du monde entier.
+Des
+
+94
+00:05:11,259 --> 00:05:14,839
+quantités massives, massives.
+En fait, chaque minute de la journée, les
+
+95
+00:05:14,840 --> 00:05:18,749
+gens téléchargent des vidéos sur YouTube.
+Et si vous deviez prendre toutes les vidéos
+
+96
+00:05:18,750 --> 00:05:22,549
+téléchargées sur YouTube à une minute donnée
+, cela équivaudrait à
+
+97
+00:05:22,550 --> 00:05:27,249
+48 heures.  C'est vrai.
+Deux jours complets de vidéo
+
+98
+00:05:27,250 --> 00:05:31,698
+sont téléchargés sur YouTube chaque
+minute.  Vous faites partie de quelque chose de
+
+99
+00:05:31,699 --> 00:05:35,198
+gigantesque.  D'accord, plus tard cette semaine,
+j'aurai un nouvel épisode d'IMG.
+
+100
+00:05:35,199 --> 00:05:38,569
+Et bientôt nous aurons des épisodes de
+DONG, LÜt, ça va être super cool, alors
+
+101
+00:05:38,570 --> 00:05:40,579
+assurez-vous d'être abonné pour ne rien manquer.
+
+102
+00:05:40,580 --> 00:05:41,619
+Et comme toujours,
+
+103
+00:05:41,620 --> 00:05:49,299
+merci d'avoir regardé.
+
+104
+00:05:49,300 --> 00:05:51,460
+Ce ne sont pas, ce ne sont pas les mêmes personnes.
+

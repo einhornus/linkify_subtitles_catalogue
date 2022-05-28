@@ -1,0 +1,326 @@
+1
+00:00:00,440 --> 00:00:07,838
+Ehi, Vsauce.  Michele qui.
+Nel 1826 questa divenne la prima fotografia
+
+2
+00:00:07,839 --> 00:00:13,939
+mai scattata.
+E nel 1992, questa è diventata la prima immagine
+
+3
+00:00:13,940 --> 00:00:19,969
+mai caricata sul web.
+Ma quante fotografie abbiamo fatto tutti, in
+
+4
+00:00:19,970 --> 00:00:27,249
+tutto in tutta la storia?
+Bene, 1000memories ha indagato proprio su questa
+
+5
+00:00:27,250 --> 00:00:30,959
+domanda.
+Hanno dato un'occhiata al numero di fotocamere digitali
+
+6
+00:00:30,960 --> 00:00:36,889
+attualmente in uso, all'uso tipico di una
+fotocamera digitale, nonché alla quantità di pellicole analogiche
+
+7
+00:00:36,890 --> 00:00:42,759
+e forniture per lo sviluppo di pellicole utilizzate dall'industria
+sin dal 19° secolo.
+
+8
+00:00:42,760 --> 00:00:52,169
+Calcolate complessivamente, hanno stimato che
+abbiamo scattato 3,5 trilioni di fotografie, 4
+
+9
+00:00:52,170 --> 00:00:59,029
+miliardi delle quali sono state scattate solo quest'anno.
+Stiamo scattando più fotografie che
+
+10
+00:00:59,030 --> 00:01:03,878
+mai, a causa della proliferazione di fotocamere digitali facili da usare e
+convenienti.
+
+11
+00:01:03,879 --> 00:01:10,529
+In effetti, scattiamo 4 volte più foto al giorno
+rispetto a 10 anni fa.
+
+12
+00:01:10,530 --> 00:01:16,869
+Oppure pensala in questo modo.
+Oggi, ogni 2 minuti, l'umanità scatta più
+
+13
+00:01:16,870 --> 00:01:22,299
+foto di quante ne abbiamo scattate in tutto nell'intero 1800.
+
+14
+00:01:22,300 --> 00:01:28,169
+Naturalmente, il 1800 è stato molto tempo fa.
+Ma se prendiamo ogni anno dall'invenzione
+
+15
+00:01:28,170 --> 00:01:36,059
+della fotografia ad oggi, il 10% di tutte
+quelle immagini, un decimo di ogni fermo immagine
+
+16
+00:01:36,060 --> 00:01:42,849
+registrato nel nostro mondo, è stato scattato negli ultimi 12 mesi.
+
+17
+00:01:42,850 --> 00:01:45,989
+Questo è molto.
+Ma ancora più folle è il fatto che un quinto
+
+18
+00:01:45,990 --> 00:01:52,399
+di queste immagini, il 20% di esse, finiscono tutte
+nello stesso posto: Facebook.
+
+19
+00:01:52,400 --> 00:01:58,059
+Facebook è enorme.
+Ma per metterla in prospettiva, voi Vsaucers
+
+20
+00:01:58,060 --> 00:02:01,449
+siete enormi.
+Se tutti noi ci riunissimo in un posto e
+
+21
+00:02:01,450 --> 00:02:08,228
+rivendicassimo l'indipendenza, diventeremmo il
+152° paese più grande della Terra.
+
+22
+00:02:08,229 --> 00:02:11,818
+Proprio tra la Guinea-Bissau e
+Trinidad e Tobago.
+
+23
+00:02:11,819 --> 00:02:19,979
+Ma Facebook, con 1 miliardo di utenti,
+sarebbe il terzo paese più grande della Terra.
+
+24
+00:02:19,980 --> 00:02:26,649
+Per fare una rapida e oscura deviazione, di quel miliardo di
+persone su Facebook, si stima che 30
+
+25
+00:02:26,650 --> 00:02:33,589
+milioni di loro siano ora morti.
+E tra 100 anni si stima che
+
+26
+00:02:33,590 --> 00:02:39,009
+mezzo miliardo delle persone su Facebook morirà.
+
+27
+00:02:39,010 --> 00:02:44,249
+Le storie di Facebook offrono uno strumento davvero accurato, in
+cui fai clic su un paese e poi vedi in
+
+28
+00:02:44,250 --> 00:02:48,079
+quali altri paesi vivono la maggior parte dei loro
+amici di Facebook.
+
+29
+00:02:48,080 --> 00:02:51,958
+È divertente vedere quali paesi sono più collegati
+a quali altri, ma tutta questa faccenda
+
+30
+00:02:51,959 --> 00:02:58,339
+solleva la questione di  gradi di separazione.
+Se dovessi prendere 2 persone a caso sulla Terra,
+
+31
+00:02:58,340 --> 00:03:03,439
+quanti amici di un amico di un amico di
+un amico avresti bisogno per connettere quelle
+
+32
+00:03:03,440 --> 00:03:06,929
+2 persone?
+Bene, nel mondo reale, è un po' difficile
+
+33
+00:03:06,930 --> 00:03:11,689
+da capire, perché non sappiamo chi è
+amico di chi e ci sono molte persone.
+
+34
+00:03:11,690 --> 00:03:16,199
+Ma, fortunatamente, la matematica è venuta in nostro soccorso.
+
+35
+00:03:16,200 --> 00:03:22,708
+Watts e Strogatz hanno dimostrato che è possibile calcolare facilmente
+il percorso medio tra 2 persone casuali qualsiasi
+
+36
+00:03:22,709 --> 00:03:26,419
+.
+In questa equazione, la "N" sta per il
+
+37
+00:03:26,420 --> 00:03:31,579
+numero totale di persone nella popolazione.
+E "K" sta per il numero di amici che ogni
+
+38
+00:03:31,580 --> 00:03:35,599
+persona ha.
+Se assumiamo che ogni persona abbia, diciamo, 30
+
+39
+00:03:35,600 --> 00:03:42,139
+amici e assumiamo che il 10% della nostra popolazione
+sia troppo giovane per avere amici veri, si
+
+40
+00:03:42,140 --> 00:03:48,439
+scopre che puoi connettere due persone qualsiasi sulla
+Terra con solo 6,6 connessioni.
+
+41
+00:03:48,440 --> 00:03:51,598
+Teoricamente.
+Certo, nel mondo reale, non abbiamo tutti
+
+42
+00:03:51,599 --> 00:03:56,699
+lo stesso numero di amici, non
+abbiamo tutti 30 amici e i gruppi isolati rendono
+
+43
+00:03:56,700 --> 00:04:01,729
+la media molto, molto più alta.
+Naturalmente, ci sono luoghi non del mondo reale,
+
+44
+00:04:01,730 --> 00:04:06,299
+dove queste connessioni sono più facili da seguire.
+Ad esempio, Facebook.
+
+45
+00:04:06,300 --> 00:04:11,639
+L'anno scorso, il team dei dati di Facebook ha pubblicato due
+documenti, dimostrando che tra tutti gli
+
+46
+00:04:11,640 --> 00:04:21,159
+utenti di Facebook dell'epoca, la distanza media
+tra due utenti casuali era di soli 4,74 amici.
+
+47
+00:04:21,160 --> 00:04:25,849
+Twitter è ancora più stretto.
+È stato dimostrato che due utenti casuali
+
+48
+00:04:25,850 --> 00:04:31,519
+di Twitter sono collegati solo da 4,67 amici,
+anche se alcuni studi hanno dimostrato che è
+
+49
+00:04:31,520 --> 00:04:37,409
+inferiore a 3,5.
+Numeri del genere possono far
+
+50
+00:04:37,410 --> 00:04:42,409
+sembrare una folla impersonale piuttosto intima.
+Ma una delle cose che preferisco delle folle
+
+51
+00:04:42,410 --> 00:04:48,429
+è quanto sono intelligenti.
+La saggezza delle folle è un fenomeno affascinante, in
+
+52
+00:04:48,430 --> 00:04:54,429
+cui la conoscenza collettiva o le ipotesi
+o le stime di un grande gruppo di persone, se
+
+53
+00:04:54,430 --> 00:04:59,619
+calcolate in media, sono migliori di una singola persona che
+lavora da sola.
+
+54
+00:04:59,620 --> 00:05:04,739
+Un buon esempio di questo è cercare di indovinare
+quante gelatine ci sono in un barattolo.
+
+55
+00:05:04,740 --> 00:05:10,909
+Alcune persone sopravvalutano, mentre
+altre sottostimano, ma collettivamente, ogni
+
+56
+00:05:10,910 --> 00:05:16,929
+membro annulla gli errori dell'altro
+e la stima della media del gruppo finisce per
+
+57
+00:05:16,930 --> 00:05:22,509
+essere più intelligente della somma delle sue parti.
+La dimostrazione della BBC di questo è fantastica, l'
+
+58
+00:05:22,510 --> 00:05:25,429
+ho collegata nella descrizione, vale la pena guardarla.
+
+59
+00:05:25,430 --> 00:05:29,679
+Avevano 160 persone indovinare il numero
+di gelatine in un barattolo.
+
+60
+00:05:29,680 --> 00:05:37,249
+Le ipotesi variavano da poche centinaia a decine
+di migliaia, ma la media di tutte le 160 ipotesi
+
+61
+00:05:37,250 --> 00:05:46,859
+era di 4.515, a soli 5 fagioli di distanza dalla risposta esatta.
+
+62
+00:05:46,860 --> 00:05:51,759
+È incredibile pensare che in un gruppo abbastanza grande
+, gli errori e le carenze di tutti gli
+
+63
+00:05:51,760 --> 00:06:00,659
+altri, non importa quanto siano fastidiosi individualmente,
+possano effettivamente bilanciare e correggere le nostre stesse carenze.
+
+64
+00:06:00,660 --> 00:06:05,599
+È bello, anche se un po'
+strano pensare che in un gruppo è possibile che
+
+65
+00:06:05,600 --> 00:06:12,299
+nessuno abbia ragione, ma che tutti abbiano ragione.
+
+66
+00:06:12,300 --> 00:06:13,239
+E come sempre,
+
+67
+00:06:13,240 --> 00:06:14,240
+grazie per la visione.
+

@@ -1,0 +1,793 @@
+1
+00:00:00,190 --> 00:00:03,329
+Hola Vsauce. Es Michael.
+
+2
+00:00:03,330 --> 00:00:07,548
+Mimas es una de las
+lunas de Saturno más bonitas.
+
+3
+00:00:07,549 --> 00:00:10,649
+El área total de su
+superficie es casi del mismo tamaño
+
+4
+00:00:10,650 --> 00:00:14,798
+que España, pero su cráter
+gigante la hace verse como la
+
+5
+00:00:14,799 --> 00:00:18,618
+Estrella de la muerte. Cuando la
+NASA creó un mapa de la temperatura
+
+6
+00:00:18,619 --> 00:00:22,868
+de Mimas, descubrió que las regiones
+más cálidas, que aparecen aquí en amarillo,
+
+7
+00:00:22,869 --> 00:00:26,278
+se parecen a un Pac-Man comiéndose el cráter
+
+8
+00:00:26,279 --> 00:00:29,518
+como un punto. Obtuve
+información sobre Mimas mientras
+
+9
+00:00:29,519 --> 00:00:34,179
+navegaba en la World Wide
+Web como un verdadero internauta.
+
+10
+00:00:34,180 --> 00:00:35,968
+Pero la Web y la
+
+11
+00:00:35,969 --> 00:00:39,898
+Internet son cosas
+diferentes. La World Wide Web
+
+12
+00:00:39,899 --> 00:00:44,328
+y la Internet tienen
+nombres con formas similares, pero
+
+13
+00:00:44,329 --> 00:00:47,878
+atrapan cosas
+diferentes. Y, como veremos,
+
+14
+00:00:47,879 --> 00:00:51,269
+navegar por la World Wide Web es radical,
+
+15
+00:00:51,270 --> 00:00:54,689
+pero también pertinente.
+Metafóricamente hablando
+
+16
+00:00:54,690 --> 00:00:58,509
+la Web es muy húmeda.
+
+17
+00:00:58,510 --> 00:01:01,878
+Antes de que la Web existiera,
+y antes de que Internet existiera,
+
+18
+00:01:01,879 --> 00:01:05,088
+había computadoras, pero eran grandes
+
+19
+00:01:05,089 --> 00:01:08,259
+y solitarias. De hecho,
+no podían comunicarse entre sí.
+
+20
+00:01:08,260 --> 00:01:12,099
+Es decir, ciertamente podías conectar
+piezas similares de hardware que hablaran protocolos
+
+21
+00:01:12,100 --> 00:01:13,879
+similares, pero era solo una
+
+22
+00:01:13,880 --> 00:01:18,438
+red. Para conectar diversas máquinas globales
+
+23
+00:01:18,439 --> 00:01:22,069
+necesitarías una red de redes.
+
+24
+00:01:22,070 --> 00:01:26,459
+Y en la década de 1960, un
+grupo de mentes brillantes colaboró en
+
+25
+00:01:26,460 --> 00:01:31,599
+dicho proyecto. En esa época,
+las empresas de teléfonos no estaban muy interesadas
+
+26
+00:01:31,600 --> 00:01:35,438
+y debido a que ninguna institución
+podía pagar toda la responsabilidad
+
+27
+00:01:35,439 --> 00:01:39,039
+y la energía de las computadoras
+que se necesitaba para líneas dedicadas... Bueno,
+
+28
+00:01:39,040 --> 00:01:42,529
+Bueno, se usaron métodos
+más innovadores y eficaces.
+
+29
+00:01:42,530 --> 00:01:46,739
+Un sistema que abarca
+muchas naciones es internacional.
+
+30
+00:01:46,740 --> 00:01:49,789
+Por lo tanto, un sistema
+que abarca muchas redes
+
+31
+00:01:49,790 --> 00:01:54,978
+es una Interred. No sería sino hasta 1974,
+
+32
+00:01:54,979 --> 00:01:57,999
+en este documento, que la palabra Internetwork
+
+33
+00:01:58,000 --> 00:02:01,868
+se abreviaría oficialmente
+de la forma que usamos hoy: Internet.
+
+34
+00:02:01,869 --> 00:02:05,449
+El 29 de octubre de 1969,
+
+35
+00:02:05,450 --> 00:02:08,579
+exactamente cien días después de que
+
+36
+00:02:08,580 --> 00:02:11,729
+aterrizáramos por primera vez
+en una roca distante en el espacio,
+
+37
+00:02:11,730 --> 00:02:14,738
+hicimos aterrizar por primera vez una letra
+
+38
+00:02:14,739 --> 00:02:20,229
+en una pantalla lejana a través de la
+Internet. Leonard Kleinrock y un equipo de la UCLA
+
+39
+00:02:20,230 --> 00:02:21,929
+decidieron enviar la palabra
+
+40
+00:02:21,930 --> 00:02:25,458
+"login" a un modelo
+diferente de computadora en Stanford.
+
+41
+00:02:25,459 --> 00:02:29,779
+Enviaron la "L" y llegó. Enviaron la "O"
+
+42
+00:02:29,780 --> 00:02:33,609
+y también lo hizo. Luego, el sistema colapsó.
+
+43
+00:02:33,610 --> 00:02:37,399
+Sin embargo, el primer
+mensaje enviado por Internet
+
+44
+00:02:37,400 --> 00:02:41,119
+fue un asunto importante. En una
+lista de logros tecnológicos, se ubicaría
+
+45
+00:02:41,120 --> 00:02:45,299
+bien alto, aunque fuera solo enviar
+
+46
+00:02:45,300 --> 00:02:48,399
+"lo"... Dos
+
+47
+00:02:48,400 --> 00:02:53,109
+décadas después, el CERN trabajaba
+en muchos proyectos distintos con diferentes personas
+
+48
+00:02:53,110 --> 00:02:54,109
+y tecnologías
+
+49
+00:02:54,110 --> 00:02:57,109
+para descubrir quién o
+qué estaba haciendo qué...
+
+50
+00:02:57,110 --> 00:03:02,378
+Simplemente puedes buscarlo en Internet.
+Pero la forma en que la información se organizaba
+
+51
+00:03:02,379 --> 00:03:06,128
+en Internet no era
+lógica. Se basaba en jerarquías,
+
+52
+00:03:06,129 --> 00:03:10,158
+y linealmente era débil. Esto aburrió a
+
+53
+00:03:10,159 --> 00:03:14,359
+Tim Berners-Lee. Verás, podías seguir
+un esquema de árbol por un tiempo muy
+
+54
+00:03:14,360 --> 00:03:17,499
+prolongado solo para llegar a una persona
+o una tecnología involucrada en otro proyecto
+
+55
+00:03:17,500 --> 00:03:20,679
+y para obtener información sobre
+eso debías volver al principio y comenzar
+
+56
+00:03:20,680 --> 00:03:21,579
+todo de nuevo.
+
+57
+00:03:21,580 --> 00:03:25,128
+Por lo que en marzo de 1989, Tim Berners-Lee
+
+58
+00:03:25,129 --> 00:03:29,559
+escribió un artículo influyente titulado
+simplemente "Administración de la información:
+
+59
+00:03:29,560 --> 00:03:33,839
+Una propuesta". Él argumentaba que notas con vínculos,
+
+60
+00:03:33,840 --> 00:03:37,039
+referencias, entre ellos
+es mucho más útil que un
+
+61
+00:03:37,040 --> 00:03:40,378
+sistema jerárquico fijo.
+En lugar de esquemas de árboles,
+
+62
+00:03:40,379 --> 00:03:44,739
+Berners-Lee proponía una Web.
+
+63
+00:03:44,740 --> 00:03:49,899
+Los sistemas en red que conectaban
+documentos de forma no lineal ya existían.
+
+64
+00:03:49,900 --> 00:03:53,658
+Se llamaban hipertexto.
+Sin embargo, Tim Berners-Lee
+
+65
+00:03:53,659 --> 00:03:57,738
+ofició la boda de las redes
+de hipertexto con la Internet
+
+66
+00:03:57,739 --> 00:04:03,149
+para producir una red que fuera
+mundial. Era la amplia asociación conectada lógica
+
+67
+00:04:03,150 --> 00:04:06,859
+y útil que se necesitaba para hacer que
+Internet fuera la forma de comunicación adoptada
+
+68
+00:04:06,860 --> 00:04:09,958
+de forma más rápida en
+la historia de nuestra especie.
+
+69
+00:04:09,959 --> 00:04:13,119
+Internet conecta a los participantes,
+
+70
+00:04:13,120 --> 00:04:17,018
+la Web conecta la
+información. Específicamente,
+
+71
+00:04:17,019 --> 00:04:21,249
+documentos de hipertexto a los
+que se accede a través de Internet.
+
+72
+00:04:21,250 --> 00:04:26,039
+Puedes ver la computadora con la que
+Tim Berners-Lee creó la World Wide Web
+
+73
+00:04:26,040 --> 00:04:29,869
+en el Museo de Ciencias de
+Londres. Hace veinticinco años,
+
+74
+00:04:29,870 --> 00:04:34,739
+si hubieras desenchufado esta
+computadora literalmente habrías apagado
+
+75
+00:04:34,740 --> 00:04:38,279
+toda la Web. El primer sitio web
+
+76
+00:04:38,280 --> 00:04:43,809
+fue info.cern.ch. Hoy
+proporciona un simulador que te permite
+
+77
+00:04:43,810 --> 00:04:45,008
+ver la Web
+
+78
+00:04:45,009 --> 00:04:48,159
+como aparecía en sus inicios. Ha pasado
+
+79
+00:04:48,160 --> 00:04:52,809
+mucho tiempo desde entonces.
+Si realmente quieres impresionarte,
+
+80
+00:04:52,810 --> 00:04:56,388
+revisa Onesecond[.designly.com]
+en la Web. Puedes ver cuántos
+
+81
+00:04:56,389 --> 00:05:00,279
+"me gusta" en Facebook, cuántos
+Tweets e incluso cuántos correos electrónicos se envían
+
+82
+00:05:00,280 --> 00:05:05,049
+cada segundo y cuántos se han
+enviado desde que abriste la página.
+
+83
+00:05:05,050 --> 00:05:08,739
+Isaac Asimov
+una vez dijo que la Tierra debería haberse llamado
+
+84
+00:05:08,740 --> 00:05:12,129
+océano, porque el mar es su característica
+
+85
+00:05:12,130 --> 00:05:15,508
+dominante. Nuestros océanos son vastos y
+
+86
+00:05:15,509 --> 00:05:20,179
+peligrosos, profundos y misteriosos.
+Por lo que no es un misterio que cuando las personas
+
+87
+00:05:20,180 --> 00:05:22,409
+necesitaron una
+metáfora para describir Internet
+
+88
+00:05:22,410 --> 00:05:26,089
+y la aparentemente
+interminable y, a menudo, inexplorada
+
+89
+00:05:26,090 --> 00:05:30,198
+red de hipertexto que
+proporcionaba, usarán el mar.
+
+90
+00:05:30,199 --> 00:05:33,309
+Navegamos la Web, navegamos por
+
+91
+00:05:33,310 --> 00:05:37,099
+cadenas de datos.
+Hay piratas, desbordes y "phising".
+
+92
+00:05:37,100 --> 00:05:40,819
+Incluso "blogs" y "vlogs"
+tienen su origen lingüístico
+
+93
+00:05:40,820 --> 00:05:45,559
+en "logs": registros que
+originalmente los capitanes mantenían en el mar.
+
+94
+00:05:45,560 --> 00:05:49,209
+Como el agua líquida,
+la Web es un solvente fenomenal.
+
+95
+00:05:49,210 --> 00:05:53,089
+Permite tener una amplia
+accesibilidad y disponibilidad de material.
+
+96
+00:05:53,090 --> 00:05:56,679
+Se ha calculado que cada
+página web está en promedio
+
+97
+00:05:56,680 --> 00:05:59,909
+solo a una distancia de 19 clics
+
+98
+00:05:59,910 --> 00:06:02,969
+de otra página web. Como nuestros océanos,
+
+99
+00:06:02,970 --> 00:06:06,369
+la Web es, en realidad, solo un mar
+
+100
+00:06:06,370 --> 00:06:09,739
+global. Y como nuestros océanos, la Web
+
+101
+00:06:09,740 --> 00:06:13,869
+es un ecosistema que
+necesitamos proteger atentamente.
+
+102
+00:06:13,870 --> 00:06:18,168
+Es flexible y fluida, y como lo descubriremos,
+
+103
+00:06:18,169 --> 00:06:23,079
+la Web es como el agua
+líquida, es algo en lo que te puedes ver.
+
+104
+00:06:23,080 --> 00:06:26,818
+En la década de 1990,
+Douglas Rushkoff acuñó el término
+
+105
+00:06:26,819 --> 00:06:31,049
+"screenagers" para describir a una
+generación que por primera vez crecía
+
+106
+00:06:31,050 --> 00:06:32,568
+con la concepción de que las imágenes
+
+107
+00:06:32,569 --> 00:06:36,209
+en las pantallas no eran
+algo para mirar pasivamente,
+
+108
+00:06:36,210 --> 00:06:39,879
+sino algo que se podía manipular.
+
+109
+00:06:39,880 --> 00:06:42,969
+Bueno, hoy es incluso más extremo.
+
+110
+00:06:42,970 --> 00:06:46,388
+Las herramientas y la conectividad
+proporcionadas por la Web, nos permiten pensar en
+
+111
+00:06:46,389 --> 00:06:49,399
+imágenes en pantallas no
+solo como cosas para manipular,
+
+112
+00:06:49,400 --> 00:06:54,089
+sino como algo en lo
+que proyectar nuestras identidades.
+
+113
+00:06:54,090 --> 00:06:58,219
+No todas las personas que
+lo hacen son escritores profesionales
+
+114
+00:06:58,220 --> 00:07:02,089
+ni poetas aclamados o coherentes.
+
+115
+00:07:02,090 --> 00:07:08,359
+Pero, dejando de lado el contenido, las
+redes hipervinculadas de expresión humana son
+
+116
+00:07:08,360 --> 00:07:13,819
+ambientes increíblemente ricos y
+ejercitan el cerebro ¿más que los libros?
+
+117
+00:07:13,820 --> 00:07:15,848
+Bueno, para argumentar esto,
+
+118
+00:07:15,849 --> 00:07:19,589
+leamos "Everything Bad is Good for You",
+
+119
+00:07:19,590 --> 00:07:22,689
+un libro de Steven
+Johnson. Ahora, en este pasaje,
+
+120
+00:07:22,690 --> 00:07:26,008
+él imagina un mundo en
+que los libros se inventaron
+
+121
+00:07:26,009 --> 00:07:29,478
+después de los
+videojuegos y la World Wide Web.
+
+122
+00:07:29,479 --> 00:07:32,839
+Los niños de todo el mundo están
+comenzando a leer estos nuevos libros
+
+123
+00:07:32,840 --> 00:07:37,299
+peligrosos, y los profesores y
+los padres están preocupados. Él imagina
+
+124
+00:07:37,300 --> 00:07:40,529
+que podrían decir algo como esto:
+
+125
+00:07:40,530 --> 00:07:43,709
+"Quizá la propiedad
+más peligrosa de estos libros
+
+126
+00:07:43,710 --> 00:07:47,159
+es el hecho de que
+siguen una trayectoria lineal fija.
+
+127
+00:07:47,160 --> 00:07:50,679
+No puedes controlar su historia
+de ninguna forma. Simplemente te sientas
+
+128
+00:07:50,680 --> 00:07:53,899
+y te dictan la historia.
+
+129
+00:07:53,900 --> 00:07:58,228
+Para aquellos de nosotros criados con
+historias interactivas, esta propiedad puede parecer
+
+130
+00:07:58,229 --> 00:08:01,418
+asombrosa. ¿Por qué alguien
+querría embarcarse en una aventura
+
+131
+00:08:01,419 --> 00:08:04,529
+completamente coreografiada por otra persona?
+
+132
+00:08:04,530 --> 00:08:07,918
+Pero la generación actual
+se embarca en esas aventuras
+
+133
+00:08:07,919 --> 00:08:11,409
+millones de veces al día. Leer no es un
+
+134
+00:08:11,410 --> 00:08:15,309
+proceso participativo activo, sino uno pasivo.
+
+135
+00:08:15,310 --> 00:08:18,388
+Los lectores de libros de la
+generación más joven están aprendiendo
+
+136
+00:08:18,389 --> 00:08:22,609
+a seguir una trama,
+en lugar de aprender a liderarla".
+
+137
+00:08:22,610 --> 00:08:25,758
+Interesante. Pero
+probablemente estás pensando, vamos
+
+138
+00:08:25,759 --> 00:08:29,079
+Michael, no puedes dejar
+de lado el contenido con tanta facilidad.
+
+139
+00:08:29,080 --> 00:08:32,639
+¿Qué sucede con todo el contenido
+tonto y superficial que propaga la Web?
+
+140
+00:08:32,640 --> 00:08:37,099
+Quiero decir, seguramente mucho del
+contenido es completamente inútil. Después de todo,
+
+141
+00:08:37,100 --> 00:08:42,018
+somos humanos,
+deberíamos valorar la razón. Quizá.
+
+142
+00:08:42,019 --> 00:08:46,278
+Pero ¿es lo que realmente
+nos hace especiales? Como dijo Unamuno,
+
+143
+00:08:46,279 --> 00:08:49,489
+"con más frecuencia he visto a un gato razonar
+
+144
+00:08:49,490 --> 00:08:52,749
+que reír o llorar.
+Quizá llora o ríe en su
+
+145
+00:08:52,750 --> 00:08:57,648
+interior. Sin embargo, quizá también
+en su interior, un cangrejo solucione ecuaciones
+
+146
+00:08:57,649 --> 00:09:03,409
+de segundo grado". ¿Qué sucedería si las
+bromas fáciles, los poemas tontos, los chismes,
+
+147
+00:09:03,410 --> 00:09:06,028
+las quejas, los dramas
+y las selfies fueran realmente
+
+148
+00:09:06,029 --> 00:09:10,789
+la cosa más humana que
+la Web nos ha permitido hacer?
+
+149
+00:09:10,790 --> 00:09:14,759
+Eso es profundo, pero no tanto como la Web profunda,
+
+150
+00:09:14,760 --> 00:09:18,219
+la Web oculta. La parte de la Web invisible
+
+151
+00:09:18,220 --> 00:09:23,379
+a los motores de búsqueda. Ahora, la
+mayoría de este material es contenido inocuo, oculto
+
+152
+00:09:23,380 --> 00:09:25,219
+detrás de muros de pago, protegido por contraseña
+
+153
+00:09:25,220 --> 00:09:28,979
+o páginas web creadas
+de forma dinámica. Pero no hemos
+
+154
+00:09:28,980 --> 00:09:32,999
+indexado este contenido. No es el 1% ni el
+
+155
+00:09:33,000 --> 00:09:36,349
+10% de la Web. Es el 80% de
+
+156
+00:09:36,350 --> 00:09:39,458
+toda la World Wide Web.
+
+157
+00:09:39,459 --> 00:09:42,708
+La Web es un océano profundo
+
+158
+00:09:42,709 --> 00:09:46,939
+y hacemos olas frenéticamente en él.
+Por ejemplo, echa un vistazo al uso en tiempo real
+
+159
+00:09:46,940 --> 00:09:51,939
+del emoji en Twitter y di
+algunas palabras de aliento al
+
+160
+00:09:51,940 --> 00:09:56,518
+emoji menos popular.
+También estamos explorando la Web
+
+161
+00:09:56,519 --> 00:10:00,689
+frenéticamente. Es una frontera
+completamente nueva. Cada día
+
+162
+00:10:00,690 --> 00:10:04,398
+Google recibe 500
+millones de consultas de búsqueda
+
+163
+00:10:04,399 --> 00:10:08,669
+que nunca se hicieron antes.
+
+164
+00:10:08,670 --> 00:10:12,278
+¿A dónde nos lleva toda esta exploración?
+
+165
+00:10:12,279 --> 00:10:17,619
+¿Quién sabe? Pero volvamos a nuestra
+metáfora, los mismos trajes que creamos para explorar
+
+166
+00:10:17,620 --> 00:10:19,599
+las profundidades del océano
+
+167
+00:10:19,600 --> 00:10:22,909
+inspiraron e hicieron
+posibles los trajes que más tarde
+
+168
+00:10:22,910 --> 00:10:27,208
+usaríamos para ir más allá
+de la Tierra. Por eso, sigue explorando,
+
+169
+00:10:27,209 --> 00:10:28,539
+sigue navegando.
+
+170
+00:10:28,540 --> 00:10:29,539
+Y como siempre,
+
+171
+00:10:29,540 --> 00:10:31,200
+gracias por vernos.
+

@@ -1,0 +1,577 @@
+1
+00:00:03,639 --> 00:00:05,299
+Hey, Vsauce. Qui è Michael.
+
+2
+00:00:05,300 --> 00:00:07,918
+Sono alla Casa Bianca, nella capitale Americana
+
+3
+00:00:07,919 --> 00:00:11,549
+Washington, D.C. L' America produce molti film ogni anno -
+
+4
+00:00:11,550 --> 00:00:16,948
+Hollywood. Ma non è la più prolifera. La Nigeria ne fa ancora di più.
+
+5
+00:00:16,949 --> 00:00:20,489
+Ma la Nazione che fa più film ogni anno è
+
+6
+00:00:20,490 --> 00:00:23,499
+l'India. Ogni due anni, la nazione
+
+7
+00:00:23,500 --> 00:00:27,239
+Indiana riempie abbastanza pellicole, con lungometraggi originali,
+
+8
+00:00:27,240 --> 00:00:30,559
+che, distese, ricoprono l'intera distanza da qui, Mumbai, fin dove vivo
+
+9
+00:00:30,560 --> 00:00:34,339
+a Londra; è il doppio di quanto Hollywood produce in due anni.
+
+10
+00:00:34,340 --> 00:00:37,899
+Sono tanti film, ma la vita reale
+
+11
+00:00:37,900 --> 00:00:43,378
+è un film? Ho già parlato della velocità delle immagini nell'occhio umano ma come
+
+12
+00:00:43,379 --> 00:00:44,519
+possiamo comparare la risoluzione
+
+13
+00:00:44,520 --> 00:00:47,999
+dell'occhio a quella di una videocamera o di uno schermo?
+
+14
+00:00:48,000 --> 00:00:51,488
+VHS, LaserDisc, DVD
+
+15
+00:00:51,489 --> 00:00:57,749
+Blu-ray, IMAX. Numeri come questi rappresentano la dimensione dei pixel, che una volta moltiplicate
+
+16
+00:00:57,750 --> 00:01:01,799
+ci dicono il numero totale di elementi fotografici di cui un'immagine è composta.
+
+17
+00:01:01,800 --> 00:01:06,029
+Una cifra spesso usata per descrivere le  fotocamere digitali. Potrebbe sembrarci
+
+18
+00:01:06,030 --> 00:01:12,069
+come se 'di più fosse meglio', ma per essere precisi, numeri come 1920x1080
+
+19
+00:01:12,070 --> 00:01:16,329
+non delineano risoluzioni vere e proprie. Più pixel sono solo una parte
+
+20
+00:01:16,330 --> 00:01:19,629
+dell'equazione. La risoluzione si attua nella distinzione
+
+21
+00:01:19,630 --> 00:01:23,309
+dei minuscoli dettagli e dipende da moltissimi altri fattori.
+
+22
+00:01:23,310 --> 00:01:26,829
+Per esempio, la quantità di luce, la dimensione degli obbiettivi,
+
+23
+00:01:26,830 --> 00:01:30,158
+cosa i milioni di pixel stanno effettivamente codificando, e
+
+24
+00:01:30,159 --> 00:01:33,599
+quanto vicino è il soggetto. In sostanza, da vicino
+
+25
+00:01:33,600 --> 00:01:36,739
+il dipinto della moglie di Salvatore Dalì che guarda il Mediterraneo può essere
+
+26
+00:01:36,740 --> 00:01:39,578
+scomposto in 'quadrati'. Ma, da lontano,
+
+27
+00:01:39,579 --> 00:01:44,188
+beh, è Abramo Lincoln. Per carità, in uno schermo abbastanza piccolo
+
+28
+00:01:44,189 --> 00:01:49,099
+posto ad una certa distanza, risoluzioni, basse o alte, non sono
+
+29
+00:01:49,100 --> 00:01:50,438
+neppure percepibili in modo diverso
+
+30
+00:01:50,439 --> 00:01:53,119
+dal nostro occhio.
+
+31
+00:01:53,120 --> 00:01:57,059
+Come si distinguono fra loro i pixel da vicino, è altrettanto importante. Tale fenomeno è chiamato
+
+32
+00:01:57,060 --> 00:01:58,529
+'risoluzione spaziale'.
+
+33
+00:01:58,530 --> 00:02:01,589
+Ad esempio, se vado fuori-fuoco
+
+34
+00:02:01,590 --> 00:02:06,379
+il numero di pixel nel video resta esattamente lo stesso, ma non riesci a percepire l'equivalente numero di
+
+35
+00:02:06,380 --> 00:02:09,779
+dettagli. Ora, tenendo a mente tutto ciò che è stato detto, possiamo tuttavia
+
+36
+00:02:09,780 --> 00:02:13,628
+comparare la visione umana a quella di un'immagine digitale, ponendoci però una domanda migliore.
+
+37
+00:02:13,629 --> 00:02:17,869
+Assumendo che tutto sia ottimale, quanti pixel ci vorrebbero per ottenere una
+
+38
+00:02:17,870 --> 00:02:21,649
+immagine, su uno schermo abbastanza largo da coprire tutto il nostro campo visivo,
+
+39
+00:02:21,650 --> 00:02:24,859
+che sembri reale, senza neppure una percettibile
+
+40
+00:02:24,860 --> 00:02:28,559
+pixellizzazione? Bene, ora stiamo arrivando ad una conclusione.
+
+41
+00:02:28,560 --> 00:02:32,979
+Circa. L'analogia è ancora imperfetta
+
+42
+00:02:32,980 --> 00:02:36,549
+poiché una fotocamera cattura un intero fotogramma all'istante, mentre
+
+43
+00:02:36,550 --> 00:02:39,899
+i nostri occhi si muovono. Il cervello amalgama
+
+44
+00:02:39,900 --> 00:02:43,339
+il loro costante flusso di informazioni in ciò che noi chiamiamo 'visione' -
+
+45
+00:02:43,340 --> 00:02:48,059
+vista. Infatti, l'immagine creata dalla sola pupilla durante una singola occhiata
+
+46
+00:02:48,060 --> 00:02:54,268
+sarebbe difficilmente accettabile persino sullo schermo di una TV rotta. Pensiamo che
+
+47
+00:02:54,269 --> 00:02:58,329
+i nostri occhi creino delle immagini come questa foto che un ragazzo mi ha fatto con una fotocamera.
+
+48
+00:02:58,330 --> 00:03:02,579
+Ma, per prima cosa, diversamente da una fotocamera, ci sono varie cose che si devono
+
+49
+00:03:02,580 --> 00:03:06,049
+riscontrare. Ad esempio, il fatto che stiamo costantemente
+
+50
+00:03:06,050 --> 00:03:09,789
+guardando il nostro naso, e magari anche i nostri occhiali,
+
+51
+00:03:09,790 --> 00:03:14,309
+se li porti. Fortunatamente, il nostro cervello 'elimina' questi stimoli perché
+
+52
+00:03:14,310 --> 00:03:15,158
+non contano
+
+53
+00:03:15,159 --> 00:03:19,309
+e non cambiano. Ma pensare che queste siano le uniche differenze
+
+54
+00:03:19,310 --> 00:03:22,929
+è ingannevole. (lett. pitfall="buca cieca", fossa coperta di erbe e frasche, usata come trappola per la selvaggina)
+
+55
+00:03:22,930 --> 00:03:27,179
+latinamente. La fovea, è denominata così dalla parola latina
+
+56
+00:03:27,180 --> 00:03:31,378
+'fossa'. La fovea è una piccola 'cavità' nella retina che riceve la luce da i
+
+57
+00:03:31,379 --> 00:03:32,628
+due gradi centali
+
+58
+00:03:32,629 --> 00:03:35,949
+del campo visivo, circa l'area coperta da entrambi i pollici
+
+59
+00:03:35,950 --> 00:03:40,649
+quando sono alla distanza di un braccio. La resa perfetta dei colori e la massima acutezza visiva di 20/20 sono
+
+60
+00:03:40,650 --> 00:03:46,559
+possibili solamente in una piccola area. Quando si parla di queste limitazioni, XKCD
+
+61
+00:03:46,560 --> 00:03:48,339
+ci fornisce una perfetta illustrazione.
+
+62
+00:03:48,340 --> 00:03:52,408
+Fa luce su altri problemi, come i punti ciechi - letteralmente angoli morti
+
+63
+00:03:52,409 --> 00:03:55,409
+nella nostra visione, dove il nervo ottico passa di fronte alla retina
+
+64
+00:03:55,410 --> 00:03:58,919
+non permettendole di ricevere alcuna informazione. Se comprassi una fotocamera
+
+65
+00:03:58,920 --> 00:04:01,958
+che ti facesse questo, la riporteresti subito indietro.
+
+66
+00:04:01,959 --> 00:04:04,988
+Puoi trovare il tuo angolo morto, chiudendo
+
+67
+00:04:04,989 --> 00:04:08,818
+il tuo occhio destro, fissando poi, con il tuo occhio sinistro, in un punto di fronte a te
+
+68
+00:04:08,819 --> 00:04:11,869
+Distendendo il tuo pollice sinistro e poi muovendolo
+
+69
+00:04:11,870 --> 00:04:15,818
+verso sinistra, poco alla volta, lentamente, con attenzione, finché...
+
+70
+00:04:15,819 --> 00:04:19,547
+Non c'è più. Assurdo! Ma, ovviamente,
+
+71
+00:04:19,548 --> 00:04:24,509
+non vediamo il mondo che ci circonda così male, perché i nostri occhi si muovono costantemente,
+
+72
+00:04:24,510 --> 00:04:27,619
+trascinando la risoluzione della fovea ovunque serva.
+
+73
+00:04:27,620 --> 00:04:31,909
+Inoltre, il complesso sistema visivo del nostro cervello, tappa i buchi
+
+74
+00:04:31,910 --> 00:04:36,839
+unendo le immagini dei nostri occhi e facendo molte congetture. Ciò che nella realtà vediamo
+
+75
+00:04:36,840 --> 00:04:41,059
+è un'immagine trasformata. Elaborata non da un computer, ma,
+
+76
+00:04:41,060 --> 00:04:45,879
+beh, da materia organica. L'illusione del 'neon-color'
+
+77
+00:04:45,880 --> 00:04:49,869
+è un buon modo di provare questa differenza. Non c'è nessun
+
+78
+00:04:49,870 --> 00:04:53,209
+cerchio blu in questa immagine. Il bianco qui
+
+79
+00:04:53,210 --> 00:04:56,609
+è esattamente lo stesso di qui. Una fotocamera
+
+80
+00:04:56,610 --> 00:04:59,668
+non si lascia ingannare, uno schermo neppure, solo
+
+81
+00:04:59,669 --> 00:05:03,869
+tu e l'effimero 'intruglio' di ingredienti che chiami 'percezione'
+
+82
+00:05:03,870 --> 00:05:07,079
+è imbrogliato. La nostra visione
+
+83
+00:05:07,080 --> 00:05:13,049
+non è un comparabile ad una fotocamera. Ma la nostra domanda, riformulata, può comunque
+
+84
+00:05:13,050 --> 00:05:18,249
+avere una risposta perché l'anatomia umana ci permette di decidere, di differenziare alcune
+
+85
+00:05:18,250 --> 00:05:21,769
+distanze angolari. Notoriamente, Roger N. Clark
+
+86
+00:05:21,770 --> 00:05:26,899
+usò una figura di 0.59 minuti d'arco (unità di misura degli angoli equvalente a 1/60 di grado) come risoluzione dell'occhio, per calcolare,
+
+87
+00:05:26,900 --> 00:05:30,009
+basandosi sull'ampiezza del totale campo visivo,
+
+88
+00:05:30,010 --> 00:05:34,179
+quanti di questi distinti elementi possano rientrarci.
+
+89
+00:05:34,180 --> 00:05:37,639
+Il risultato fu un'approssimazione di ciò che vogliamo sapere:
+
+90
+00:05:37,640 --> 00:05:42,908
+quanti elementi fotografici individuali -pixel- la nostra visione può avere.
+
+91
+00:05:42,909 --> 00:05:47,979
+La sua risposta? 576 megapixel.
+
+92
+00:05:47,980 --> 00:05:51,829
+Tutti questi pixel, stipati all'interno di uno schermo abbastanza grande da rimempire
+
+93
+00:05:51,830 --> 00:05:55,009
+l'intero campo visivo, senza contare la prossimità,
+
+94
+00:05:55,010 --> 00:05:58,239
+sarebbero abbastanza da essere impercettibili in media
+
+95
+00:05:58,240 --> 00:06:02,129
+dall'occhio umano. Ma dovremmo tenere in conto la fovea,
+
+96
+00:06:02,130 --> 00:06:06,129
+perché il calcolo di Clark suppone un'ottimale acutezza ovunque, come se
+
+97
+00:06:06,130 --> 00:06:07,478
+l'occhio potesse muoversi attorno.
+
+98
+00:06:07,479 --> 00:06:13,478
+Però una singola occhiata, è molto più analoga ad un'istantanea di una fotocamera, e, a quanto pare,
+
+99
+00:06:13,479 --> 00:06:17,478
+sono necessari solo 7 megapixel, stipati nei due gradi di
+
+100
+00:06:17,479 --> 00:06:20,629
+acutezza ottimale che la fovea copre durante un singolo sguardo,
+
+101
+00:06:20,630 --> 00:06:25,199
+per renderla impercettibile. Secondo le stime, il resto del campo visivo,
+
+102
+00:06:25,200 --> 00:06:27,478
+avrebbe bisogno solo di all'incirca
+
+103
+00:06:27,479 --> 00:06:32,718
+1 megapixel in più di informazioni. Potrebbe sembrare poco, ma ricorda che ci
+
+104
+00:06:32,719 --> 00:06:36,288
+sono parecchie tecnologie moderne che già usano la densità dei pixel
+
+105
+00:06:36,289 --> 00:06:41,209
+molto meglio di come noi possiamo distinguerli.
+Come ha abilmente mostrato Bad Astronomer,
+
+106
+00:06:41,210 --> 00:06:45,269
+i display retina della Apple contengono davvero pixel ad una densità
+
+107
+00:06:45,270 --> 00:06:48,468
+tale che l'occhio non può differenziarli da una tipica
+
+108
+00:06:48,469 --> 00:06:53,009
+distanza di lettura. Ma il fatto che ci siano dimensioni di schermi e densità
+
+109
+00:06:53,010 --> 00:06:54,869
+di pixel che possano trarre in inganno l'occhio umano
+
+110
+00:06:54,870 --> 00:06:57,999
+non è un segno che noi vediamo
+
+111
+00:06:58,000 --> 00:07:01,819
+basandoci su un qualsiasi sistema di megapixel. La nostra vista, semplicemente,
+
+112
+00:07:01,820 --> 00:07:07,348
+non è digitale. Cioè, okay, come una fotocamera abbiamo solo un finito
+
+113
+00:07:07,349 --> 00:07:10,439
+e discreto numero di cellule nella nostra retina.
+
+114
+00:07:10,440 --> 00:07:14,668
+Ma il cervello regola la nostra impressione iniziale in una percezione finale
+
+115
+00:07:14,669 --> 00:07:18,158
+che altro non è che un'amalgama informe, di esperienze capovolte
+
+116
+00:07:18,159 --> 00:07:21,579
+e rielaborate. Non è costituito da pixel
+
+117
+00:07:21,580 --> 00:07:26,379
+e inoltre, a differenza di una fotocamera, non è salvato nella nostra memoria con la stessa precisione di un
+
+118
+00:07:26,380 --> 00:07:27,819
+immagine digitale.
+
+119
+00:07:27,820 --> 00:07:32,598
+Non è mai stata trovata la prova definitiva dell'esistenza della vera
+
+120
+00:07:32,599 --> 00:07:37,228
+memoria fotografica. E ciò che è persino più figo è che non solo non processiamo il
+
+121
+00:07:37,229 --> 00:07:40,228
+mondo visivamente come una cinepresa,
+
+122
+00:07:40,229 --> 00:07:45,598
+ma non risolviamo, narrativamente, neppure i conflitti ed i problemi nello stesso modo in cui viene fatto
+
+123
+00:07:45,599 --> 00:07:50,008
+nella maggior parte dei copioni dei film. Il punto di tutto questo, ciò che voglio dire,
+
+124
+00:07:50,009 --> 00:07:53,698
+è un'idea. Un'idea che mi ha inizialmente portato nella direzione di questa domanda.
+
+125
+00:07:53,699 --> 00:07:56,728
+Noi interpretiamo dei ruoli nel film della nostra vita,
+
+126
+00:07:56,729 --> 00:08:01,788
+ma è un film speciale. Vittorie e lotte cinematografiche sono spesso
+
+127
+00:08:01,789 --> 00:08:07,019
+discrete, definite..come i pixel, con un inizio e una fine incredibilmente perfetti
+
+128
+00:08:07,020 --> 00:08:11,779
+mentre, nel mondo reale, ogni cosa è veicolata dall'emotività e dal caso.
+
+129
+00:08:11,780 --> 00:08:15,299
+Mi piace come ciò è stato descritto da Jack Angstreich in 'Cinemania'.
+
+130
+00:08:15,300 --> 00:08:19,698
+In un film, un personaggio può prendere una decisione e poi allontanarsi dalla cinepresa, attraversare
+
+131
+00:08:19,699 --> 00:08:26,619
+la strada e subito dopo far scorrere titoli di coda, bloccando la vita in un perfetto 'e vissero tutti felici e contenti'.
+
+132
+00:08:26,620 --> 00:08:32,098
+Ma, nel mondo reale, dopo aver attraversato la strada,
+
+133
+00:08:32,099 --> 00:08:35,697
+devi tornare a casa. La vita continua.
+
+134
+00:08:35,698 --> 00:08:39,918
+La vita non si presenta con qualche particolare risoluzione di pixel
+
+135
+00:08:39,919 --> 00:08:43,088
+o una soluzione narrativa. Le cose sono
+
+136
+00:08:43,089 --> 00:08:47,818
+continue, senza fine. Il mondo esisteva prima di te e continuerà a farlo dopo
+
+137
+00:08:47,819 --> 00:08:52,338
+che tu te ne sarai andato. La tua vita ha una trama solo dal momento in cui inizia
+
+138
+00:08:52,339 --> 00:08:55,689
+e finisce e avviene 'nel mezzo delle cose'.
+
+139
+00:08:55,690 --> 00:08:58,749
+L'illustrazione di Damerish per l'opera di Charles McGrath 'Endings
+
+140
+00:08:58,750 --> 00:09:03,139
+withuot endings' (Finali senza finali) lo descrive perfettamente. Nella vita, c'è raramente la dicitura
+
+141
+00:09:03,140 --> 00:09:05,448
+"FINE". C'è solo la dicitura
+
+142
+00:09:05,449 --> 00:09:06,948
+"E poi..."
+
+143
+00:09:06,949 --> 00:09:08,128
+E, come sempre,
+
+144
+00:09:08,129 --> 00:09:09,489
+grazie per la visione.
+

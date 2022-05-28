@@ -1,0 +1,472 @@
+1
+00:00:00,310 --> 00:00:03,059
+Hey, Vsoße.  Michael hier,
+und ich bin gerade von der
+
+2
+00:00:03,060 --> 00:00:06,459
+VidCon zurückgekommen.  Die ganze Convention war
+unglaublich, aber ich habe während der ganzen Zeit, die ich
+
+3
+00:00:06,460 --> 00:00:07,099
+dort war
+
+4
+00:00:07,100 --> 00:00:11,619
+, viel über Video nachgedacht.
+Wir alle sehen uns Videos an
+
+5
+00:00:11,620 --> 00:00:15,239
+und viele von uns arbeiten mit Videos,
+aber was ist das?  Ich meine, was ist
+
+6
+00:00:15,240 --> 00:00:18,919
+eigentlich Video?  Nun, raten Sie mal, heute werden
+wir einen Blick darauf werfen.
+
+7
+00:00:18,920 --> 00:00:22,948
+Ich denke, wir sollten
+ganz unten
+
+8
+00:00:22,949 --> 00:00:26,299
+mit der Sprache anfangen.
+Was bedeutet das Wort Rekord?
+
+9
+00:00:26,300 --> 00:00:29,759
+Die Geschichte hinter dem Wort „Platte“ ist
+eigentlich ziemlich cool und macht mich ein wenig
+
+10
+00:00:29,760 --> 00:00:30,759
+sentimental.
+
+11
+00:00:30,760 --> 00:00:34,689
+Das Wort „Aufzeichnung“ stammt aus dem Lateinischen,
+wobei „re“ „wieder“
+
+12
+00:00:34,690 --> 00:00:38,439
+und „cor“ das Herz oder die Seele bedeutet.
+
+13
+00:00:38,440 --> 00:00:42,199
+Wenn Sie also etwas aufnehmen, bringen Sie
+es buchstäblich zurück
+
+14
+00:00:42,200 --> 00:00:46,038
+in Ihr Herz, bringen es zurück in Ihre
+Seele, erinnern sich daran.
+
+15
+00:00:46,039 --> 00:00:49,288
+Nun, das klingt wirklich nett und hübsch,
+aber es hatte tatsächlich mehr damit zu tun
+
+16
+00:00:49,289 --> 00:00:49,699
+, dass die
+
+17
+00:00:49,700 --> 00:00:53,979
+alten Menschen dachten, das Herz
+sei, wir seien gespeicherte Erinnerungen, nicht das Gehirn.
+
+18
+00:00:53,980 --> 00:00:57,468
+Der Grund, warum eine Folge von Standbildern
+sich zu bewegen scheint,
+
+19
+00:00:57,469 --> 00:01:01,488
+ist ein Effekt, der als „Beta-Bewegung“ bekannt ist.
+Wenn sich Bilder schnell genug bewegen, kann
+
+20
+00:01:01,489 --> 00:01:05,609
+unser Gehirn sie nicht als
+separate Bilder verstehen und es entsteht die Illusion von
+
+21
+00:01:05,610 --> 00:01:09,169
+Bewegung.
+Nun, wir haben lange Zeit
+
+22
+00:01:09,170 --> 00:01:12,959
+bewegte Bilder auf fotografischem Film aufgenommen,
+aber später kam
+
+23
+00:01:12,960 --> 00:01:16,789
+eine neue Art der Aufnahme bewegter
+Bilder auf und hieß
+
+24
+00:01:16,790 --> 00:01:20,188
+"Video".
+Video kommt aus dem Lateinischen und bedeutet „ich sehe“,
+
+25
+00:01:20,189 --> 00:01:24,258
+und anstatt ein bewegtes
+Bild chemisch auf Zelluloid-
+
+26
+00:01:24,259 --> 00:01:28,548
+Fotofilmmaterial zu konservieren, ist
+Video eine elektronische
+
+27
+00:01:28,549 --> 00:01:33,219
+Darstellung des bewegten Bildes.
+Jetzt in der realen Welt passieren Dinge
+
+28
+00:01:33,220 --> 00:01:37,158
+einfach.  Die Dinge passieren einfach ständig
+.  Aber in der Welt einer Kamera,
+
+29
+00:01:37,159 --> 00:01:38,118
+egal ob Film-
+
+30
+00:01:38,119 --> 00:01:41,789
+oder Videokamera, geht es fast
+immer um Bildraten.
+
+31
+00:01:41,790 --> 00:01:45,569
+Mit einer bestimmten Geschwindigkeit aufgenommene Bilder der Welt
+, die dann schnell
+
+32
+00:01:45,570 --> 00:01:46,078
+durchlaufen werden
+
+33
+00:01:46,079 --> 00:01:49,658
+und durch Beta-Bewegung
+die Illusion von Bewegung erzeugen.
+
+34
+00:01:49,659 --> 00:01:53,749
+Wenn eine Kamera mit einer niedrigeren Bildrate aufzeichnet
+, sieht die Wiedergabe oft
+
+35
+00:01:53,750 --> 00:01:58,648
+ruckelig aus und springt so.  Mehr Bilder
+pro Sekunde bedeutet, dass
+
+36
+00:01:58,649 --> 00:02:00,109
+jede Sekunde mehr Informationen aufgenommen werden,
+
+37
+00:02:00,110 --> 00:02:03,609
+was zu mehr Flüssigkeit führt.
+Aber das führt zu einer ganzen Dose voller Würmer,
+
+38
+00:02:03,610 --> 00:02:06,618
+was eine großartige Überleitung zu einem
+Gespräch ist, das ich mit Dylan von
+
+39
+00:02:06,619 --> 00:02:08,119
+HouseholdHacker auf der VidCon hatte.
+
+40
+00:02:08,120 --> 00:02:11,239
+Rollen Sie das Klebeband.
+
+41
+00:02:11,240 --> 00:02:16,799
+Hey, Vsoße.  Michael hier, und ich bin auf der VidCon im Badezimmer und habe einen besonderen Gast.  Direkt
+
+42
+00:02:16,800 --> 00:02:20,259
+davor ist Dylan von HouseholdHacker.
+Hey, was geht alle zusammen?
+
+43
+00:02:20,260 --> 00:02:24,068
+Weißt du, ich habe eine gute Frage an dich,
+basierend auf Bildraten und was nicht.  Was würden Sie
+
+44
+00:02:24,069 --> 00:02:24,549
+sagen,
+
+45
+00:02:24,550 --> 00:02:31,049
+sieht das menschliche Auge als Framerate?  Sehr gute Frage.  In welcher Framerate sehen wir die Welt mit unseren
+
+46
+00:02:31,050 --> 00:02:32,098
+Augäpfeln?
+Ich meine,
+
+47
+00:02:32,099 --> 00:02:35,409
+wie schnell reisen Informationen
+von unserem Auge zu unserem Gehirn?
+
+48
+00:02:35,410 --> 00:02:39,729
+Es darf natürlich nicht zu niedrig sein,
+denn schnelle Objekte sehen nicht so aus, als würden sie
+
+49
+00:02:39,730 --> 00:02:40,539
+springen,
+
+50
+00:02:40,540 --> 00:02:44,979
+sie sehen ziemlich flüssig aus.  Nun, es ist eine kleine
+Fangfrage, weil unsere
+
+51
+00:02:44,980 --> 00:02:48,878
+Augen keine Kameras sind.
+Stattdessen verfolgen sie Objekte
+
+52
+00:02:48,879 --> 00:02:52,219
+und empfangen einen kontinuierlichen Strom von Photonen
+auf der Netzhaut
+
+53
+00:02:52,220 --> 00:02:55,249
+, die Informationen über eine chemische Reaktion
+
+54
+00:02:55,250 --> 00:02:59,149
+an das Gehirn senden.  Nun, hier ist, was wir jetzt tun.
+Der visuelle Kortex in unserem Gehirn
+
+55
+00:02:59,150 --> 00:03:02,408
+speichert diese Informationen
+von unserer Netzhaut normalerweise etwa eine Fünfzehntelsekunde lang
+
+56
+00:03:02,409 --> 00:03:06,399
+.  Wenn sich also eine Animation
+fünfzehn Frames pro Sekunde
+
+57
+00:03:06,400 --> 00:03:09,719
+oder schneller bewegt, sieht sie schön und flüssig aus.
+Aber
+
+58
+00:03:09,720 --> 00:03:14,158
+wenn es weniger als fünfzehn Frames pro Sekunde sind, wird
+unser Gehirn nicht von der Beta-Bewegung getäuscht
+
+59
+00:03:14,159 --> 00:03:19,699
+und es sieht so aus, als ob es springt.  Also, im Grunde genommen,
+je schneller die Framerate, desto besser
+
+60
+00:03:19,700 --> 00:03:24,268
+wird am Ende alles aussehen.  Hier ist das Ding.
+Wenn die Bildraten immer höher werden, erhalten
+
+61
+00:03:24,269 --> 00:03:27,499
+Sie am Ende ein Bild, das
+beim
+
+62
+00:03:27,500 --> 00:03:28,548
+Betrachten auf dem Bildschirm tatsächlich Kopfschmerzen verursachen kann.
+
+63
+00:03:28,549 --> 00:03:31,988
+Ähm ... Hier erkläre ich warum.
+Halten Sie diese Kamera für eine Sekunde.
+
+64
+00:03:31,989 --> 00:03:35,449
+Ach ja, kein Problem.
+Also zurück zu dem Punkt, dass
+
+65
+00:03:35,450 --> 00:03:39,059
+unsere Augen Objekte verfolgen.
+Wenn ich das mache –
+
+66
+00:03:39,060 --> 00:03:42,708
+meine Hand vor mein Gesicht bewege
+und mit meinen Augen nachfahre –
+
+67
+00:03:42,709 --> 00:03:47,339
+kann ich meine Hand sehen, macht es Sinn.  Aber an
+einem bestimmten Punkt bewegt sich meine Hand so schnell,
+
+68
+00:03:47,340 --> 00:03:51,238
+dass es nur noch verschwommen ist, und der Grund
+dafür ist, dass mein Auge
+
+69
+00:03:51,239 --> 00:03:57,529
+nur so schnell verfolgen kann.  Und wenn sich Objekte
+schneller bewegen, als unsere Augäpfel verfolgen können, fügt Ihr Gehirn
+
+70
+00:03:57,530 --> 00:04:00,899
+Bewegungsunschärfe hinzu.  Auf diese Weise bekommen wir ein Gefühl von
+Bewegung,
+
+71
+00:04:00,900 --> 00:04:04,139
+aber wir sehen nicht so etwas wie eine Hand, die zufällig
+
+72
+00:04:04,140 --> 00:04:07,818
+überall auftaucht.
+Dies wird jedoch bei neuen
+
+73
+00:04:07,819 --> 00:04:09,658
+High-Definition-Programmen auf
+
+74
+00:04:09,659 --> 00:04:13,639
+großen Fernsehern zu einem Problem, da einige dieser
+Programme
+
+75
+00:04:13,640 --> 00:04:16,948
+mit Bildraten von bis zu 1000 Bildern pro Sekunde auf Ihren Fernseher übertragen werden.
+
+76
+00:04:16,949 --> 00:04:20,737
+Und Objekte wie ein Tennisball,
+die sich normalerweise so schnell bewegen, dass
+
+77
+00:04:20,738 --> 00:04:24,439
+unsere Augen sie nicht verfolgen können, und sie sehen verschwommen aus,
+sehen nicht verschwommen aus,
+
+78
+00:04:24,440 --> 00:04:28,969
+weil die Kamera sie klar sehen kann
+.  Und wenn Sie sich dieses Programm im Fernsehen ansehen,
+
+79
+00:04:28,970 --> 00:04:33,649
+können Sie tatsächlich Kopfschmerzen oder
+Schwindel bekommen, also müssen sie Wege finden,
+
+80
+00:04:33,650 --> 00:04:37,159
+HD-Bilder wieder unscharf zu machen.
+Ziemlich ordentlich, oder?
+
+81
+00:04:37,160 --> 00:04:40,379
+Das sind großartige Informationen.  Wie haben Sie das
+gelernt?  Dafür bin ich hier, Mann.
+
+82
+00:04:40,380 --> 00:04:45,918
+Vielen Dank.  Mach's gut.
+Mach's gut.
+
+83
+00:04:45,919 --> 00:04:52,219
+Sie wissen schon, das Badezimmer.  Du weisst.
+Ich hörte dich herauskommen.  Hast du deine Hände gewaschen?
+
+84
+00:04:52,220 --> 00:04:55,249
+Ähm, ja.
+
+85
+00:04:55,250 --> 00:04:59,589
+Hier bitteschön.  Einige coole Fakten über
+Videos, die ich gelernt habe, als ich
+
+86
+00:04:59,590 --> 00:05:03,719
+von New York nach LA zur und von der VidCon geflogen bin.
+Es war ein langer Flug, aber ich habe viel gelernt
+
+87
+00:05:03,720 --> 00:05:07,508
+und möchte mit einigen Zahlen
+speziell zu YouTube abschließen.
+
+88
+00:05:07,509 --> 00:05:11,258
+YouTube hostet Videos aus der ganzen Welt.
+Riesige,
+
+89
+00:05:11,259 --> 00:05:14,839
+riesige Mengen.
+Tatsächlich laden Menschen jede Minute des Tages
+
+90
+00:05:14,840 --> 00:05:18,749
+Videos auf YouTube hoch.
+Und wenn Sie alle Videos nehmen würden, die
+
+91
+00:05:18,750 --> 00:05:22,549
+in einer bestimmten Minute auf YouTube hochgeladen wurden, würde das
+alles zusammen
+
+92
+00:05:22,550 --> 00:05:27,249
+48 Stunden entsprechen.  Das stimmt.  Jede einzelne Minute werden
+zwei volle Tage
+
+93
+00:05:27,250 --> 00:05:31,698
+Videomaterial auf YouTube hochgeladen
+.  Ihr seid Teil von etwas
+
+94
+00:05:31,699 --> 00:05:35,198
+Gigantischem.  Okay, später in dieser Woche
+werde ich eine neue Folge von IMG haben.
+
+95
+00:05:35,199 --> 00:05:38,569
+Und schon bald werden wir Folgen von
+DONG, LÜt haben, das wird super cool, also
+
+96
+00:05:38,570 --> 00:05:40,579
+abonniere dich, damit du nichts verpasst.
+
+97
+00:05:40,580 --> 00:05:41,619
+Und wie immer
+
+98
+00:05:41,620 --> 00:05:49,299
+danke fürs Zuschauen.
+
+99
+00:05:49,300 --> 00:05:51,460
+Sie sind nicht, sie sind nicht dieselbe Person.
+

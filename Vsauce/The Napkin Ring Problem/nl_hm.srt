@@ -1,0 +1,464 @@
+1
+00:00:02,409 --> 00:00:10,289
+Hey, Vsauce! Michael hier! Als je uit  een bol een cilinder verwijdert, behoud je een vorm
+
+2
+00:00:10,290 --> 00:00:14,979
+die men de "Servetring" noemt, omdat het op een servetring lijkt!
+
+3
+00:00:14,980 --> 00:00:20,099
+Het is een eigenaardige vorm omdat, als twee servetringen dezelfde hoogte hebben,
+
+4
+00:00:20,100 --> 00:00:24,639
+ze ook hetzelfde volume hebben, ongeacht de grootte van de bollen waaruit ze komen!
+
+5
+00:00:24,640 --> 00:00:30,579
+Dat wil zeggen dat, als je even hoge servetringen snijdt uit een sinaasappel en uit de aarde,
+
+6
+00:00:30,580 --> 00:00:35,199
+dan past er één in jouw hand. De andere zou de omtrek van onze gehele planeet hebben,
+
+7
+00:00:35,200 --> 00:00:39,339
+maar ze zouden beide hetzelfde volume hebben...
+
+8
+00:00:39,340 --> 00:00:45,328
+Ik heb dit contra-intuïtief feit reeds vermeld toen ik Kendama maakte met Adam Savage. Check die video als je dat nog niet deed, of nog beter
+
+9
+00:00:45,329 --> 00:00:51,959
+kom naar ons kijken. We brengen 'Brain candy' live in 24 nieuwe steden dit najaar. Dat gaat druk zijn, maar nu
+
+10
+00:00:51,960 --> 00:00:56,349
+zijn we aan het praten over ballen en het ontkernen ervan!
+
+11
+00:00:56,350 --> 00:01:02,139
+Ik heb hier twee servetringen van zeer verschillende bollen; één van een kleine bal,
+
+12
+00:01:02,140 --> 00:01:05,709
+een kleine tomaat die ik heb ontkernd, dus die heeft een klein gaatje.
+
+13
+00:01:05,710 --> 00:01:08,128
+De andere servetring is van een sinaasappel,
+
+14
+00:01:08,129 --> 00:01:12,879
+maar beide servetringen hebben dezelfde hoogte. De tomaat heeft een kleinere
+
+15
+00:01:12,880 --> 00:01:20,279
+omtrek dan de sinaasappel, wat wil zeggen minder volume, maar de ring is dikker, wat betekent meer volume. Allebei deze effecten
+
+16
+00:01:20,280 --> 00:01:31,559
+heffen elkaar exact op. Dus deze twee servetringen hebben hetzelfde volume, ze nemen exact evenveel ruimte in.
+
+17
+00:01:31,560 --> 00:01:34,269
+Trouwens, sinaasappelolie is ontvlambaar.
+
+18
+00:01:34,270 --> 00:01:37,239
+Om te zien waarom het servetringprobleem waar is,
+
+19
+00:01:37,240 --> 00:01:44,769
+bekijken we Cavalieri's principe. Dit verklaart dat voor gelijk welke twee vaste stoffen, zoals deze twee cilinders,
+
+20
+00:01:44,770 --> 00:01:49,868
+ingeklemd tussen parallelle vlakken en door een ander parallel vlak
+
+21
+00:01:49,869 --> 00:01:54,298
+verdeeld in delen met een gelijke oppervlakte, om het even waar het genomen is,
+
+22
+00:01:54,299 --> 00:02:02,618
+dan hebben de vaste stoffen hetzelfde volume. Dit is duidelijk correct hier bij deze cilinders gebouwd uit stapels VSaucestickers
+
+23
+00:02:02,619 --> 00:02:06,289
+100 per stapel zodat hun volumes gelijk zijn
+
+24
+00:02:06,290 --> 00:02:07,909
+als ik
+
+25
+00:02:07,910 --> 00:02:15,429
+één van hen scheeftrek, verandert de vorm, maar niet het volume. Het bevat nog steeds evenveel deeltjes.
+
+26
+00:02:15,430 --> 00:02:18,169
+Ik heb geen stickers toegevoegd of weggenomen.
+
+27
+00:02:18,170 --> 00:02:25,539
+En Cavalieri's principe verzekert ons dat ze nog steeds hetzelfde volume hebben want als ik een deel neem van hier beneden of ergens in het midden
+
+28
+00:02:25,540 --> 00:02:33,279
+dan zal het ons een gelijke oppervlakte geven want deze delen bestaan uit cirkels met dezelfde oppervlakte.
+
+29
+00:02:33,280 --> 00:02:37,339
+Laat ons nu Cavalieri's principe toepassen op de servetringen.
+
+30
+00:02:37,340 --> 00:02:40,879
+We zien da twee servetringen met gelijke hoogte een identiek volume
+
+31
+00:02:40,880 --> 00:02:46,639
+hebben want als we ze snijden door een vlak, dan is de dwarsdoorsnede van de ene servetring
+
+32
+00:02:46,640 --> 00:02:49,719
+altijd gelijk aan de dwarsdoorsnede van de andere. Maar,
+
+33
+00:02:49,720 --> 00:02:56,829
+merk op dat de oppervlakte van de sferische dwarsdoorsnede min de oppervlakte van de dwarsdoorsnede van de cilinders, ons de oppervlakte geeft van de dwarsdoorsnede van de servettenringen.
+
+34
+00:02:56,830 --> 00:03:01,819
+Afhankelijk van waar we de servetring doorsnijden, zullen de dwarsdoorsnedes verschillende oppervlaktes hebben.
+
+35
+00:03:01,820 --> 00:03:08,809
+Maar ze zullen steeds gelijk zijn aan elkaar. Laten we de oppervlakte van de blauwe ringen berekenen.
+
+36
+00:03:08,810 --> 00:03:17,359
+Ten eerste noemen we de hoogte van de ringen h en de radius van de bol waaruit ze gesneden zijn
+
+37
+00:03:17,360 --> 00:03:18,169
+hoofdletter R.
+
+38
+00:03:18,170 --> 00:03:25,629
+Oké, nu nemen we een dwarsdoorsnede van de bol hier en een dwarsdoorsnede van de cilinder hier, allebei cirkels.
+
+39
+00:03:25,630 --> 00:03:30,019
+Hun oppervlakte kan bepaald worden door Pi maal de radius in het kwadraat.
+
+40
+00:03:30,020 --> 00:03:37,509
+We willen de oppervlakte van de dwarsdoorsnede van de bol berekenen min de oppervlakte van de dwarsdoorsnede van de cilinder.
+
+41
+00:03:37,510 --> 00:03:41,839
+(Ik teken hier een cilinder), het enige dat we moeten doen is Pi nemen
+
+42
+00:03:41,840 --> 00:03:45,409
+dit vermenigvuldigen met de radius van de dwarsdoorsnede van de bol
+
+43
+00:03:45,410 --> 00:03:53,329
+Dat tot de tweede macht. En dat min Pi keer de radius van de cilinder tot de tweede macht. Maar wat zijn de radii?
+
+44
+00:03:53,330 --> 00:04:01,059
+Wel, als dit het midden van de bol is, dan kunnen we een lijn trekken recht naar de hoek van de cilinder, dan naar beneden
+
+45
+00:04:01,060 --> 00:04:05,679
+en zo verbinden om een rechte driehoek bewerkstelligen.
+
+46
+00:04:05,680 --> 00:04:12,439
+De stelling van Pythagoras zal ons hierbij helpen. Dit vertelt ons dat de lengte van één van de zijden tot de tweede, plus de lengte van een andere zijde tot de tweede
+
+47
+00:04:12,440 --> 00:04:16,778
+gelijk is aan de lengte van de derde en schuine zijde tot de tweede.
+
+48
+00:04:16,779 --> 00:04:20,909
+De afstand hier, deze zijde van de driehoek, die willen we.
+
+49
+00:04:20,910 --> 00:04:29,079
+Dit is de radius van de cilinder, we noemen het de kleine r (prachtig tekeningetje hier).
+
+50
+00:04:29,080 --> 00:04:31,388
+Dus de radius van
+
+51
+00:04:31,389 --> 00:04:34,839
+de cilinder
+
+52
+00:04:34,840 --> 00:04:37,029
+tot de tweede plus
+
+53
+00:04:37,030 --> 00:04:44,019
+deze lengte, dewelke net de helft is van de hoogte van de cilinder, dus de hoogte van de cilinder gedeeld door twee
+
+54
+00:04:44,020 --> 00:04:45,369
+tot de tweede
+
+55
+00:04:45,370 --> 00:04:53,349
+is gelijk aan de schuine zijde tot de tweede. De schuine zijde is de radius van de bol zelf, die hoofdletter R is.
+
+56
+00:04:53,350 --> 00:04:57,179
+Perfect. Nu kijken we naar de radius van de cilinder.
+
+57
+00:04:57,180 --> 00:05:04,119
+We doen h min 2 tot de tweede van beide kanten. Dat geeft ons de radius van de cilinder
+
+58
+00:05:04,120 --> 00:05:05,168
+tot de tweede
+
+59
+00:05:05,169 --> 00:05:08,469
+is gelijk aan de radius van de bol tot de tweede min
+
+60
+00:05:08,470 --> 00:05:10,959
+de helft van de hoogte van de cilinder tot de tweede
+
+61
+00:05:10,960 --> 00:05:17,888
+We nemen de vierkantswortel van beide kanten zodat we de radius van de cilinder bekomen
+
+62
+00:05:17,889 --> 00:05:21,879
+is gelijk aan de vierkantswortel van de radius van de bol
+
+63
+00:05:21,880 --> 00:05:25,149
+min 1/2 van de hoogte van de cilinder tot de tweede
+
+64
+00:05:25,150 --> 00:05:32,439
+Perfect. Oké. Laat ons kijken naar de oppervlakte van de dwarsdoorsnede van de bol.
+
+65
+00:05:32,440 --> 00:05:36,699
+Ik teken een rechte lijn van het midden naar de rand van
+
+66
+00:05:36,700 --> 00:05:38,228
+de dwarsdoorsnede
+
+67
+00:05:38,229 --> 00:05:44,649
+van de bol toe. We gaan recht naar beneden en verbinden weer omhoog. Hé kijk, een andere rechte driehoek.
+
+68
+00:05:44,650 --> 00:05:48,699
+De hoogte is y.
+
+69
+00:05:48,700 --> 00:05:55,679
+En merk op dat de afstand tussen de zijkant van de driehek naar hier beneden de radius is van de
+
+70
+00:05:55,680 --> 00:05:57,969
+cirkel.
+
+71
+00:05:57,970 --> 00:06:05,109
+dwarsdoorsnede hier. Ze zijn gelijk, dus we willen ook de radius voor de cirkel vinden die de dwarsdoorsnede is van de bol.
+
+72
+00:06:05,110 --> 00:06:05,709
+Oké.
+
+73
+00:06:05,710 --> 00:06:08,948
+Dus we weten dat de radius van
+
+74
+00:06:08,949 --> 00:06:14,829
+de dwarsdoorsnede van de bol tot de tweede plus deze afstand tot de tweede (y)
+
+75
+00:06:14,830 --> 00:06:21,159
+gelijk is aan de schuine zijde. Wel, de schuine zijde is weer de radius van de bol (R).
+
+76
+00:06:21,160 --> 00:06:27,819
+OK. y tot de tweede trekken we af van de radius van beide zijden van de dwarsdoorsnede van de bol tot de tweede macht
+
+77
+00:06:27,820 --> 00:06:31,749
+is gelijk aan de radius van de bol tot de tweede min
+
+78
+00:06:31,750 --> 00:06:36,019
+y tot de tweede, hiervan de vierkantswortel van beide zijden en eindigen
+
+79
+00:06:36,020 --> 00:06:41,029
+met de kennis dat de radius van de dwarsdoorsnede van de bol gelijk is aan de vierkantswortel van
+
+80
+00:06:41,030 --> 00:06:45,499
+de radius van de bol tot de tweede min y tot de tweede. y is de hoogte, van welke
+
+81
+00:06:45,500 --> 00:06:53,569
+de dwarsdoorsnede genomen is van boven de middellijn. Hoe hoger we deze dwarsdoorsnedes van de bol nemen, hoe kleiner hun radii zullen zijn.
+
+82
+00:06:53,570 --> 00:06:58,009
+Terwijl de radius van de cilinder altijd hetzelfde zal zijn, ongeacht waar we snijden.
+
+83
+00:06:58,010 --> 00:07:01,609
+Laten we deze twee radii nemen en in onze formule stoppen.
+
+84
+00:07:01,610 --> 00:07:06,079
+Oké, de oppervlakte van de dwarsdoorsnede van de bol is het eerste dat we willen berekenen.
+
+85
+00:07:06,080 --> 00:07:10,579
+Oké, dit is slechts de vierkantswortel van R tot de tweede min y tot de tweede.
+
+86
+00:07:10,580 --> 00:07:18,039
+Niet slecht. Nu de radius van de cilinder is de vierkantswortel van R tot de tweede min
+
+87
+00:07:18,040 --> 00:07:25,549
+de helft van de hoogte van de cilinder or de tweede. Je merkt misschien dat we de vierkantswortel van iets nemen en dat kwadrateren.
+
+88
+00:07:25,550 --> 00:07:28,339
+Deze heffen elkaar op.
+
+89
+00:07:28,340 --> 00:07:30,369
+Perfect! Ziet er veel eenvoudiger uit.
+
+90
+00:07:30,370 --> 00:07:38,659
+Laat ons nu Pi delen door de termen tussen de haakjes zodat Pi keer R tot de tweede gelijk is aan Pi R
+
+91
+00:07:38,660 --> 00:07:44,149
+tot de tweede Pi keer min y geeft ons negatieve Pi y tot de tweede.
+
+92
+00:07:44,150 --> 00:07:46,189
+Dan min Pi keer R
+
+93
+00:07:46,190 --> 00:07:54,859
+tot de tweede min Pi R tot de tweede min Pi keer min h op 2 tot de tweede is plus Pi
+
+94
+00:07:54,860 --> 00:07:56,659
+h op 2
+
+95
+00:07:56,660 --> 00:08:03,219
+tot de tweede. Goed, nu vereenvoudigen we verder, wat je misschien opmerkt, is dat we Pi r tot de tweede hebben en
+
+96
+00:08:03,220 --> 00:08:07,039
+min Pi R tot de tweede, dat is gelijk aan nul, dus deze
+
+97
+00:08:07,040 --> 00:08:11,299
+heffen elkaar op, wat overblijft zijn
+
+98
+00:08:11,300 --> 00:08:18,359
+termen die niet de radius van de bol bevatten, of die radius nu groot of klein is.
+
+99
+00:08:18,360 --> 00:08:23,299
+Dat maakt niets uit. Alles wat je moet weten om het oppervlak van de dwarsdoorsnede van de servetring te vinden,
+
+100
+00:08:23,300 --> 00:08:25,579
+is de hoogte van de servetring.
+
+101
+00:08:25,580 --> 00:08:32,219
+Y, natuurlijk, is afhankelijk van de hoogte van de servetring. De blauwe oppervlakten hebben dezelfde oppervlakte en dit
+
+102
+00:08:32,220 --> 00:08:41,019
+is waar, om het even waar we een dwarsdoorsnede maken in de servetring, want volgens Cavalieri's principe hebben de twee servetringen hetzelfde
+
+103
+00:08:41,020 --> 00:08:43,099
+volume.
+
+104
+00:08:43,100 --> 00:08:47,699
+Yay!
+
+105
+00:08:47,700 --> 00:08:50,019
+:D
+
+106
+00:08:50,020 --> 00:08:54,279
+Maar wat betekent dit voor jou en je leven in het universum?
+
+107
+00:08:54,280 --> 00:08:58,779
+Wel, zoals je weet, als je het leuk vindt, moet je er een ring omheen doen.
+
+108
+00:08:58,780 --> 00:09:00,679
+Maar als je het leuk vindt en je weet
+
+109
+00:09:00,680 --> 00:09:05,199
+zijn vingerbreedte niet weet en je wilt niet meer materiaal gebruiken dan nodig is
+
+110
+00:09:05,200 --> 00:09:09,639
+dan moet je een servetring eromheen doen.
+
+111
+00:09:09,640 --> 00:09:11,899
+En zoals altijd
+
+112
+00:09:11,900 --> 00:09:21,459
+bedankt om te kijken!
+
+113
+00:09:21,460 --> 00:09:23,859
+Op 21 augustus
+
+114
+00:09:23,860 --> 00:09:31,599
+2017 is er een totale zonsverduistering. De schaduw van de maan zal over de VS schrijden.
+
+115
+00:09:31,600 --> 00:10:41,338
+Het wordt ongelofelijk en een beetje eng!
+
+116
+00:10:41,339 --> 00:10:43,339
+Bedankt om te kijken.
+

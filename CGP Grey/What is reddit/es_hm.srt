@@ -1,0 +1,433 @@
+1
+00:00:00,300 --> 00:00:01,568
+¿Qué es Reddit?
+
+2
+00:00:01,569 --> 00:00:05,569
+Para gran parte de la internet, Reddit es un portal
+hacia todo lo interesante que sucede actualmente
+
+3
+00:00:05,570 --> 00:00:05,909
+en el mundo.
+
+4
+00:00:05,910 --> 00:00:09,089
+Navegar por Reddit.com es como leer el periódico de cada día,
+a excepción de que Reddit es:
+
+5
+00:00:09,090 --> 00:00:10,199
+- Oportuno
+- Interactivo
+
+6
+00:00:10,200 --> 00:00:11,489
+- Personalizado
+- Participativo
+
+7
+00:00:11,490 --> 00:00:13,768
+- Horriblemente absorbente en ocasiones...
+
+8
+00:00:13,769 --> 00:00:15,149
+...y básicamente: *bueno*.
+
+9
+00:00:15,150 --> 00:00:19,059
+Reddit funciona a través de enlaces que los usuarios 
+publican —ya sean entradas de blogs, imágenes o vídeos—
+
+10
+00:00:19,060 --> 00:00:23,168
+y que otros usuarios votan negativa o positivamente.
+Es una concepto simple, pero es lo que convierte a Reddit
+
+11
+00:00:23,169 --> 00:00:27,738
+en una muestra reune las cosas más interesante 
+que la gente se encuentra viendo actualmente en la internet.
+
+12
+00:00:27,739 --> 00:00:31,338
+El nombre deriva de la contracción de la frase inglesa "Read it",
+que significa "ya lo leí", como en: "ya lo leí en Reddit".
+
+13
+00:00:31,339 --> 00:00:35,238
+Básicamente es lo que le dirás a tus amigos
+cuando te muestren algo, si es que pasas bastante tiempo allí.
+
+14
+00:00:35,239 --> 00:00:38,189
+Es una suerte de maldición asombrosa.
+
+15
+00:00:38,190 --> 00:00:41,229
+Debido a que Reddit no tiene editores,
+nunca sabrás con lo que te encontrarás;
+
+16
+00:00:41,230 --> 00:00:45,919
+Pero puedes apostar a que será algo divertido o interesante,
+o enfurecedor, porque miles de personas ya lo han votado,
+
+17
+00:00:45,920 --> 00:00:48,459
+y eso significa que se trata de algo 
+que tienes que ver.
+
+18
+00:00:48,460 --> 00:00:51,729
+Piénsalo de esta manera: si Google es el lugar al que acudes
+para buscar información, entonces Reddit es el lugar al que acudes
+
+19
+00:00:51,730 --> 00:00:54,288
+para ver las cosas interesantes que otras personas han encontrado.
+
+20
+00:00:54,289 --> 00:00:58,319
+Pero Reddit no es tan solo una simple lista de cosas:
+Reddit es un maravilloso fractal con secciones
+
+21
+00:00:58,320 --> 00:00:59,439
+llamadas: "subreddits".
+
+22
+00:00:59,440 --> 00:01:03,819
+Si sólo te interesa la política, la programación,
+ver imágenes divertidas, el mundo del deporte, o noticias de panorama mundial,
+
+23
+00:01:03,820 --> 00:01:07,869
+existen subreddits que se centran únicamente en esos temas.
+Y seguramente habrá un subreddit para la ciudad, país o región
+
+24
+00:01:07,870 --> 00:01:09,899
+donde vives.
+
+25
+00:01:09,900 --> 00:01:13,329
+¿Eres fanático de una serie de televisión hace años terminada?
+Probablemente exista un subreddit donde la gente aún hable sobre ella,
+
+26
+00:01:13,330 --> 00:01:15,009
+incluso como si hubiese sido ayer
+que se estrenara un nuevo capítulo.
+
+27
+00:01:15,010 --> 00:01:18,099
+Los amantes de la tecnología tienen "Technology", los amantes
+de las banderas tienen "Vexilology", y si aún no existe
+
+28
+00:01:18,100 --> 00:01:21,249
+un lugar que trate sobre tu hobby en particular, crearlo
+se encuentra al alcance de un botón. Haz click
+
+29
+00:01:21,250 --> 00:01:23,059
+y habrás creado un nuevo subreddit.
+
+30
+00:01:23,060 --> 00:01:27,719
+Cada subreddit funciona de la misma manera que la página principal:
+una lista constantemente actualizada con cosas geniales
+
+31
+00:01:27,720 --> 00:01:29,389
+acorde a los intereses de los subscriptores y usuarios del subreddit.
+
+32
+00:01:29,390 --> 00:01:33,879
+Y cuando un subreddit crece exponencialmente,
+puede volverse increíblemente bueno haciendo esto: por ejemplo AWW,
+
+33
+00:01:33,880 --> 00:01:38,949
+una subreddit dedicado exclusivamente a todo lo adorable, se ha convertido, en otras palabras en:
+UNA BATALLA GLOBAL DONDE LAS IMÁGENES MÁS ADORABLES COMPITEN POR VER CUÁL ES LA MEJOR 
+
+34
+00:01:38,950 --> 00:01:39,679
+¡DE TODO EL UNIVERSO!
+
+35
+00:01:39,680 --> 00:01:43,309
+Resulta que si le das a la gente con fotos de animales bebé
+un lugar donde publicar sus fotos de animales bebé...
+
+36
+00:01:43,310 --> 00:01:48,529
+El resultado es el lugar con la mayor concentración de fotos de animales adorables
+que la humanidad jamás haya creado.
+
+37
+00:01:48,530 --> 00:01:52,019
+¿Pero sin editores que administren el sitio, cómo
+funciona el sistema de clasificación? No hay tiempo
+
+38
+00:01:52,020 --> 00:01:54,669
+para profundizar sobre los mecanismos y códigos de programación,
+pero funciona algo así:
+
+39
+00:01:54,670 --> 00:01:58,439
+Los enlaces que la gente publica son cómo globos flotando hacia arriba
+y hacia abajo en una lista. Cuando alguien vota positivamente un enlace
+
+40
+00:01:58,440 --> 00:02:02,799
+lo infla con un poco de helio, mientras que cuando lo vota negativamente
+se lo quita. De manera periódica
+
+41
+00:02:02,800 --> 00:02:06,239
+Reddit infla y desinfla todo los globos para darle notoriedad 
+a nuevas publicaciones y enlaces,
+
+42
+00:02:06,240 --> 00:02:09,379
+y brindarles oportunidad para competir con otras que han estado
+allí durante más tiempo.
+
+43
+00:02:09,380 --> 00:02:13,529
+Este método es sorprendentemente bueno para clasificar
+cosas, ya sea política internacional o fotos
+
+44
+00:02:13,530 --> 00:02:14,399
+de configuraciones de computadoras.
+
+45
+00:02:14,400 --> 00:02:19,149
+Claro está que cuando un sitio abarca la totalidad de la
+naturaleza humana las cosas pueden ponerse raras: como subreddits
+
+46
+00:02:19,150 --> 00:02:23,979
+dedicados exclusivamente a fotos de aves... con brazos... 
+o únicamente a fotos de Hitler... con calcetines... y siempre está
+
+47
+00:02:23,980 --> 00:02:27,969
+otro tipo de fotografías que a la gente les gusta ver,
+o a veces colecciones y galerías completas
+
+48
+00:02:27,970 --> 00:02:31,079
+de cosas horripilantes que no puedes "des-ver".
+
+49
+00:02:31,080 --> 00:02:35,479
+De manera que sí, esto ha dado un giro para peor.
+Pero recuerda, Reddit puede llegar a ser extraño no porque
+
+50
+00:02:35,480 --> 00:02:39,309
+Reddit es extraño en sí, sino porque la gente lo es.
+Y lo genial de Reddit es que cambia 
+
+51
+00:02:39,310 --> 00:02:43,479
+para adaptarse a ti: a medida que te subscribes a subreddits
+que te gustan y dejas aquellos que no, la página principal
+
+52
+00:02:43,480 --> 00:02:47,409
+se vuelve *tuya*: listará lo mejor de las cosas
+de los subreddits a los que te has subscrito y
+
+53
+00:02:47,410 --> 00:02:49,709
+dejará de mostrar las cosas de aquellos que has dejado.
+
+54
+00:02:49,710 --> 00:02:53,029
+De manera que Reddit es como la vida: es lo que tú haces 
+de ella.
+
+55
+00:02:53,030 --> 00:02:56,818
+Pero los enlaces son sólo la punta del 'redditberg',
+porque la gente puede discutir dichos enlaces y yace aquí
+
+56
+00:02:56,819 --> 00:02:59,029
+la característica esencial de Reddit.
+
+57
+00:02:59,030 --> 00:03:02,989
+La mayoría de los foros de internet son espantosos, pero
+Reddit no es el boletín de anuncios de tu abuela.
+
+58
+00:03:02,990 --> 00:03:07,059
+Así como el sistema de globos encuentra
+los mejores enlaces, existen también procesos más complicados
+
+59
+00:03:07,060 --> 00:03:10,259
+(y difíciles de explicar) que encuentran
+los comentarios más interesantes dentro de una discusión y los ubican
+
+60
+00:03:10,260 --> 00:03:14,779
+en una posición superior. Y Reddit muestra los comentarios  
+de una manera que propicia e incentiva los debates.
+
+61
+00:03:14,780 --> 00:03:17,079
+(No como *otros* sistemas de comentarios).
+
+62
+00:03:17,080 --> 00:03:20,239
+Este sistema muchas veces trae como consecuencia
+que en ocasiones los debates armados
+
+63
+00:03:20,240 --> 00:03:22,029
+se tornen más interesantes que el enlace original.
+
+64
+00:03:22,030 --> 00:03:25,929
+Es por ello que existen subreddits que giran únicamente en relación
+a debates como: 'Change My View' (Cambia mi punto de vista).
+
+65
+00:03:25,930 --> 00:03:30,059
+o 'Ask A Scientist' ('Pregúntale a un científico') donde expertos en diferentes materias
+responden a tus preguntas. También existen los 'IamA' ('YoSoyUn') donde la gente dice
+
+66
+00:03:30,060 --> 00:03:34,339
+"YoSoyUn Bombero" o "YoSoyUn Escort" o 
+"YoSoyUn Carcelero" Y responden preguntas
+
+67
+00:03:34,340 --> 00:03:35,339
+en los comentarios.
+
+68
+00:03:35,340 --> 00:03:39,039
+Y debido a que los usuarios de Reddit son anónimos,
+los debates son mucho más abiertos y naturales
+
+69
+00:03:39,040 --> 00:03:41,669
+que aquellos donde las personas se encuentran expuestas con 
+sus verdaderos nombres. ::coff:: integración de YouTube & Google+ ::coff::
+
+70
+00:03:41,670 --> 00:03:41,818
+ 
+
+71
+00:03:41,819 --> 00:03:45,929
+Si bien debido al anonimato encontrarás que no todos
+los pensamientos expuestos son *bonitos*.
+
+72
+00:03:45,930 --> 00:03:49,958
+Y a veces puede llegar a ser incómodo ver lo que un grupo de gente
+desconocida piensa sobre un tema en concreto.
+
+73
+00:03:49,959 --> 00:03:53,469
+Afortunadamente Reddit tiene una manera de lidiar con
+los comentarios que creas no aportan valor a la discusión. Y a pesar de que
+
+74
+00:03:53,470 --> 00:03:58,109
+haya gente que actue de mala manera, es claro que Reddit
+sólo puede existir porque la mayoría de la gente allí,
+
+75
+00:03:58,110 --> 00:04:00,149
+a pesar de ser anónima, es de buen corazón.
+
+76
+00:04:00,150 --> 00:04:04,488
+En cualquier caso el anonimato no es oblitario
+puesto que encontrarás actores, autores, presidentes
+
+77
+00:04:04,489 --> 00:04:07,839
+y primeros ministros en Reddit
+respondiendo preguntas de la comunidad.
+
+78
+00:04:07,840 --> 00:04:11,439
+Y Reddit es en realidad una comunidad 
+con sus propia historia y cultura que cada vez con más acento
+
+79
+00:04:11,440 --> 00:04:15,419
+está teniendo un efecto en el mundo real con cosas
+como: reuniones en persona, eventos y colectas
+
+80
+00:04:15,420 --> 00:04:19,578
+para caridad y para defender la internet, ayudar 
+a que una familia pase tiempo con su hijo enfermo, 
+
+81
+00:04:19,579 --> 00:04:24,168
+y organizando el 'amigo invisible' más grande del mundo,
+o enviando a maestros los materiales que necesitan.
+
+82
+00:04:24,169 --> 00:04:28,188
+Con su diligente democracia y sorprendentemente 
+rápida reacción, Reddit puede muchas veces 
+
+83
+00:04:28,189 --> 00:04:32,489
+hacerte sentir más como un ciudadano de la internet
+que como un ciudadano de tu propio país.
+
+84
+00:04:32,490 --> 00:04:36,938
+Pero al final es difícil entender Reddit
+sino entras y comienzas a comentar
+
+85
+00:04:36,939 --> 00:04:40,299
+y a votar, que es lo que deberías hacer. Y una vez
+que le agarras la mano, te preguntarás
+
+86
+00:04:40,300 --> 00:04:44,899
+cómo demonios 'interneteabas' antes.
+
+87
+00:04:44,900 --> 00:04:51,288
+[Créditos posteriores]
+
+88
+00:04:51,289 --> 00:05:06,929
+P.D. Si ya eres usuario de Reddit y
+te encanta el lugar, deberías considerar la idea de
+
+89
+00:05:06,930 --> 00:05:10,948
+comprar Reddit Gold para apoyar su desarrollo. Me sorprendí
+cuando descubrí en el proceso de hacer este vídeo que a pesar
+
+90
+00:05:10,949 --> 00:05:15,369
+de su creciente popularidad, Reddit todavía no es
+lucrativo. De manera que si, como yo, usas Reddit
+
+91
+00:05:15,370 --> 00:05:18,219
+*todo el día* vale más que la pena gastar un par de billetes
+al mes en ayudarlo.
+

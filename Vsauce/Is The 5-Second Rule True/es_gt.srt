@@ -1,0 +1,547 @@
+1
+00:00:01,000 --> 00:00:05,959
+Hola, Vsauce.  Miguel aquí.  Y los plátanos son fantásticos.  En realidad, son uno de los
+
+2
+00:00:05,960 --> 00:00:11,989
+alimentos más radiactivos que comemos regularmente.  A
+veces son difíciles de pelar desde arriba.  Una
+
+3
+00:00:11,990 --> 00:00:17,108
+de mis formas favoritas de evitar eso es simplemente
+sostener el plátano y partirlo por la mitad.  Boom,
+
+4
+00:00:17,109 --> 00:00:24,768
+ahora se pela solo.  Es un pequeño
+truco maravilloso, excepto cuando lo dejas caer al suelo.
+
+5
+00:00:24,769 --> 00:00:29,659
+Esto es desafortunado, pero si lo
+detecta rápidamente, ¿sería lo suficientemente seguro para comer?
+
+6
+00:00:29,660 --> 00:00:34,578
+Quiero decir, ¿qué tan rápido se mueven las bacterias en el
+piso hacia la comida?  Algunas personas lo
+
+7
+00:00:34,579 --> 00:00:39,599
+llaman la "regla de los 5 segundos".  Otros, la "
+Regla de los 10 segundos".  Y aún, otros, la "Regla de los 2 segundos".
+
+8
+00:00:39,600 --> 00:00:45,148
+Pero, ¿hay algo de verdad en ello, o es solo
+algo que decimos para permitirnos comer comida
+
+9
+00:00:45,149 --> 00:00:47,719
+del suelo?
+
+10
+00:00:47,720 --> 00:00:55,698
+En 2003, Jillian Clarke investigó
+esta pregunta.  Descubrió que el 50% de los hombres usan
+
+11
+00:00:55,699 --> 00:01:04,198
+la regla de los 5 segundos para comer alimentos del suelo.
+Pero el 70% de las mujeres lo hacen.  Más importante aún,
+
+12
+00:01:04,199 --> 00:01:10,259
+descubrió que incluso un contacto breve con un
+piso contaminado contaminará los alimentos, húmedos o secos.
+
+13
+00:01:10,260 --> 00:01:14,669
+The Myth Busters encontró resultados similares.
+Y un artículo publicado en el Journal of Applied
+
+14
+00:01:14,670 --> 00:01:21,039
+Microbiology se volvió aún más técnico.
+Los investigadores contaminaron varias superficies de pisos
+
+15
+00:01:21,040 --> 00:01:28,299
+con salmonela y descubrieron que 5 segundos
+es demasiado tiempo para esperar.  Las bacterias se adhieren a los
+
+16
+00:01:28,300 --> 00:01:34,949
+alimentos que se caen casi de inmediato, pero el tiempo
+sí importa.  Después de 5 segundos, encontraron que
+
+17
+00:01:34,950 --> 00:01:41,228
+la comida había adquirido entre 150 y 8000 bacterias.  Pero si se dejaba durante un minuto completo,
+
+18
+00:01:41,229 --> 00:01:44,339
+el número que encontraron era 10 veces mayor.
+
+19
+00:01:44,340 --> 00:01:49,258
+Ahora, considerando que solo se necesitan alrededor de 10 bacterias
+de ciertas cepas de salmonella para
+
+20
+00:01:49,259 --> 00:01:54,499
+infectarte, probablemente deberías pensarlo dos veces
+antes de comer del suelo.
+
+21
+00:01:54,500 --> 00:01:59,699
+Ah, y no pienses complacientemente que estás a
+salvo porque el piso se ve limpio o la
+
+22
+00:01:59,700 --> 00:02:06,099
+comida que cayó sobre él sí.  Los pisos son excelentes
+hogares para las bacterias.  Además, los pisos entran en
+
+23
+00:02:06,100 --> 00:02:12,659
+contacto con las suelas de nuestros zapatos
+y la Universidad de Arizona descubrió que el 93 %
+
+24
+00:02:12,660 --> 00:02:17,839
+de nuestros zapatos están contaminados con bacterias fecales.
+
+25
+00:02:17,840 --> 00:02:22,089
+He vinculado todos estos estudios en la
+descripción.  Son lecturas geniales, muy completas.
+
+26
+00:02:22,090 --> 00:02:30,659
+Pero, ¿es cierto que la comida que se cae al
+suelo sucio se contamina inmediatamente?
+
+27
+00:02:30,660 --> 00:02:35,479
+Quiero decir, claro, prácticamente hablando, eso
+tiene mucho sentido.  Pero al instante?  ¿Existe un
+
+28
+00:02:35,480 --> 00:02:41,539
+límite en la rapidez con la que las bacterias pueden moverse de
+un objeto a otro?  ¿Hay una cantidad
+
+29
+00:02:41,540 --> 00:02:47,159
+de tiempo, lo suficientemente corta, que si
+recogiera la comida dentro de ella, no habría forma
+
+30
+00:02:47,160 --> 00:02:50,378
+de que lo que tocara la contaminara?
+
+31
+00:02:50,379 --> 00:02:58,179
+Bueno, vamos a necesitar definir "tocar".
+He hablado de esto antes en Vsauce y
+
+32
+00:02:58,180 --> 00:03:04,128
+en Thinker y MinutePhysics tiene una gran
+perspectiva cuántica, pero cuando decimos "tocar"
+
+33
+00:03:04,129 --> 00:03:11,848
+, tendemos a pensar en dos objetos que se contactan
+entre sí sin espacio entre ellos.  Desafortunadamente,
+
+34
+00:03:11,849 --> 00:03:18,669
+eso no es realmente lo que sucede.  A nivel subatómico
+, los átomos se resisten a chocar entre sí porque
+
+35
+00:03:18,670 --> 00:03:26,189
+sus electrones se repelen.  Los electrones se pueden modelar
+como ondas, ondas que se superponen e interactúan,
+
+36
+00:03:26,190 --> 00:03:32,729
+pero nunca se tocan.  Siempre hay espacio
+entre ellos.  Cuando toco algo o alguien, en
+
+37
+00:03:32,730 --> 00:03:39,569
+realidad siento que sus electrones reaccionan
+a los míos a distancia.  Uno subatómicamente
+
+38
+00:03:39,570 --> 00:03:41,879
+pequeño, pero real.
+
+39
+00:03:41,880 --> 00:03:48,018
+Entonces, si ese es el caso, ¿cómo es que el pegamento puede
+unir las cosas?  ¿Cómo es que el lápiz labial se pega
+
+40
+00:03:48,019 --> 00:03:54,259
+a los labios?  ¿Y cómo pueden las bacterias en un piso sucio
+adherirse a los alimentos que se han caído sobre él?
+
+41
+00:03:54,260 --> 00:03:59,859
+La carga positiva de los protones en un
+átomo o molécula no siempre está perfectamente equilibrada
+
+42
+00:03:59,860 --> 00:04:06,559
+en el espacio con la carga negativa de los electrones.
+A veces, una molécula es asimétrica y este
+
+43
+00:04:06,560 --> 00:04:13,039
+desequilibrio es permanente, lo que le da a la molécula
+un dipolo constante, por lo que es como un diminuto
+
+44
+00:04:13,040 --> 00:04:13,929
+imán.
+
+45
+00:04:13,930 --> 00:04:19,939
+Pero incluso en moléculas simétricas, los electrones
+son móviles.  En cualquier momento, es
+
+46
+00:04:19,940 --> 00:04:24,249
+posible que se encuentren más hacia
+un extremo de la molécula que hacia el otro, creando
+
+47
+00:04:24,250 --> 00:04:30,549
+dipolos que fluctúan rápidamente, lo que
+hace que la molécula actúe como un imán.
+
+48
+00:04:30,550 --> 00:04:35,589
+Si las moléculas tienen mucha energía,
+simplemente zumbarán entre sí y sus dipolos
+
+49
+00:04:35,590 --> 00:04:40,859
+y los de sus vecinos no tendrán mucha importancia.
+Pero si los enfría, los hace más
+
+50
+00:04:40,860 --> 00:04:46,969
+lentos, los dipolos tendrán más efecto,
+razón por la cual las moléculas tienden a pegarse
+
+51
+00:04:46,970 --> 00:04:52,799
+mientras se enfrían, pasando de un gas a un líquido a un sólido.
+
+52
+00:04:52,800 --> 00:04:57,799
+Esa es mucha información acerca de las moléculas,
+pero es increíblemente importante.  Es la razón por la que las
+
+53
+00:04:57,800 --> 00:05:02,189
+cosas pueden mojarse.  De hecho, cuando
+sale de la ducha, en promedio, pesa
+
+54
+00:05:02,190 --> 00:05:07,989
+alrededor de una libra más que antes de
+mojarse.  También es la razón por la que
+
+55
+00:05:07,990 --> 00:05:14,769
+ocurre la acción capilar.  Si sumerges una servilleta en un vaso
+de agua, puedes ver cómo el agua sube por la servilleta en
+
+56
+00:05:14,770 --> 00:05:20,339
+contra de la gravedad.  Esto se debe a que las moléculas
+de agua tienen dipolos muy fuertes y se
+
+57
+00:05:20,340 --> 00:05:25,589
+atraen entre sí (cohesión) y se
+atraen a las moléculas del papel (adhesión) con
+
+58
+00:05:25,590 --> 00:05:29,249
+más fuerza de la que la gravedad atrae hacia abajo.
+
+59
+00:05:29,250 --> 00:05:33,249
+Si desea obtener más información sobre las
+fuerzas intermoleculares, he puesto un montón de enlaces en
+
+60
+00:05:33,250 --> 00:05:40,599
+la descripción.  Pero he aquí mi pregunta: ¿
+con qué rapidez actúan esas fuerzas?  ¿Pueden dos superficies
+
+61
+00:05:40,600 --> 00:05:46,679
+entrar en contacto, lo suficientemente breve, para que sus
+moléculas no tengan tiempo de ser influenciadas
+
+62
+00:05:46,680 --> 00:05:49,259
+por fuerzas intermoleculares?
+
+63
+00:05:49,260 --> 00:05:53,899
+Bueno, para esto, vamos a necesitar Dinámica Molecular.
+
+64
+00:05:53,900 --> 00:06:00,779
+La Dinámica Molecular es la simulación por computadora
+de los movimientos físicos de los átomos o moléculas.
+
+65
+00:06:00,780 --> 00:06:07,189
+Por ejemplo, esta es una simulación de un solo
+átomo de cobre depositándose en una superficie de cobre.
+
+66
+00:06:07,190 --> 00:06:13,519
+Observe que el temporizador allí arriba está
+contando centésimas de picosegundo.  Estas simulaciones
+
+67
+00:06:13,520 --> 00:06:19,698
+deben tener un paso de tiempo lo suficientemente estrecho para tener en
+cuenta las vibraciones moleculares más rápidas
+
+68
+00:06:19,699 --> 00:06:24,318
+del material,
+incluido todo, desde el movimiento hasta el tijera.
+
+69
+00:06:24,319 --> 00:06:30,659
+Por lo general, se tiene en cuenta un tiempo tan breve como una milmillonésima
+de segundo.  Entonces, la
+
+70
+00:06:30,660 --> 00:06:39,698
+regla de los 5 segundos puede ser cierta.  Si le cambiamos el nombre a
+"Regla de 1 femtosegundo".  Pase menos tiempo
+
+71
+00:06:39,699 --> 00:06:43,709
+en el piso que eso y es poco probable
+que las moléculas a temperatura ambiente tengan
+
+72
+00:06:43,710 --> 00:06:51,829
+tiempo de ser influenciadas por fuerzas intermoleculares.
+Excepto, vaya, creo que hemos estado pensando
+
+73
+00:06:51,830 --> 00:06:57,449
+demasiado pequeño.  Las fuerzas intermoleculares son divertidas,
+pero los objetos pueden enredarse entre
+
+74
+00:06:57,450 --> 00:07:00,639
+sí a nivel macroscópico.
+
+75
+00:07:00,640 --> 00:07:06,159
+El pegamento, el maquillaje y otras cosas pegajosas a menudo
+se aprovechan de las pequeñas imperfecciones (
+
+76
+00:07:06,160 --> 00:07:12,339
+crestas, rincones y grietas) en la
+superficie de un objeto.  Las cosas pegajosas pueden filtrarse dentro y
+
+77
+00:07:12,340 --> 00:07:17,779
+aguantar.  Incluso las superficies que a
+nosotros nos parecen lisas, cuando realmente nos ponemos manos a la obra, no lo son
+
+78
+00:07:17,780 --> 00:07:19,059
+en absoluto.
+
+79
+00:07:19,060 --> 00:07:24,279
+Dos hojas de papel de una guía telefónica pueden deslizarse
+entre sí con bastante facilidad, pero multiplique
+
+80
+00:07:24,280 --> 00:07:29,609
+esa fricción por el número de páginas en dos
+guías telefónicas entrelazando las páginas y
+
+81
+00:07:29,610 --> 00:07:34,679
+obtendrá un monstruo
+capaz de levantar un automóvil completo.
+
+82
+00:07:34,680 --> 00:07:39,848
+Recientemente tuve la suerte de ver que esto sucedía
+en la vida real.  Puedes ver mi
+
+83
+00:07:39,849 --> 00:07:44,359
+aventura en Fast, Furious & Funny.  Es un
+canal nuevo.  Estén atentos, porque levantamos autos
+
+84
+00:07:44,360 --> 00:07:47,559
+con más que solo guías telefónicas.
+
+85
+00:07:47,560 --> 00:07:52,788
+La adherencia entre dos objetos provocada por
+las formas de sus superficies contribuye a la
+
+86
+00:07:52,789 --> 00:07:59,079
+fricción y se conoce como "adhesión mecánica".
+Desempeña un papel bastante importante en hacer que los
+
+87
+00:07:59,080 --> 00:08:02,039
+gérmenes del piso enfermen y dejen caer la comida.
+
+88
+00:08:02,040 --> 00:08:08,008
+De hecho, si dos superficies pueden
+adherirse mecánicamente, pero no están lo suficientemente cerca para hacerlo,
+
+89
+00:08:08,009 --> 00:08:12,779
+no diríamos que se están tocando.  Entonces,
+si por definición "tocar" significa que
+
+90
+00:08:12,780 --> 00:08:18,869
+puedes adherirte mecánicamente a la superficie de otro objeto
+, entonces tal vez la regla de los 5 segundos no debería
+
+91
+00:08:18,870 --> 00:08:23,939
+ser conocida como la "regla de 1 femtosegundo",
+porque si se tocan, es  ya es demasiado tarde
+
+92
+00:08:23,940 --> 00:08:29,128
+y, en cambio, la regla debería conocerse como
+la "Regla de no tocar los alimentos que se han caído al
+
+93
+00:08:29,129 --> 00:08:31,899
+suelo".
+
+94
+00:08:31,900 --> 00:08:37,207
+Pero ahora que lo pienso, tal vez no
+deberíamos comer alimentos que hayan tocado algo, porque las
+
+95
+00:08:37,208 --> 00:08:43,989
+bacterias están en todas partes, incluso en ti en
+este momento.  Hay más bacterias en su
+
+96
+00:08:43,990 --> 00:08:49,319
+cuerpo en este momento que personas viviendo en Estados Unidos.
+
+97
+00:08:49,320 --> 00:08:57,319
+Hay 40 millones de bacterias en un gramo
+de suelo y 5 billones de bacterias en la Tierra.
+
+98
+00:08:57,320 --> 00:09:03,898
+Se ha descubierto que una de cada 10
+tarjetas bancarias y uno de cada 7 billetes tiene
+
+99
+00:09:03,899 --> 00:09:05,779
+bacterias fecales.
+
+100
+00:09:05,780 --> 00:09:11,139
+Aquí hay algo divertido.  Ve a la
+sección de comentarios y escribe la letra "V".  Si usó
+
+101
+00:09:11,140 --> 00:09:18,759
+un teléfono móvil para hacer eso, felicidades
+, acaba de tocar 6281 bacterias.  Si está
+
+102
+00:09:18,760 --> 00:09:23,499
+utilizando un teclado de escritorio, está un poco
+más seguro.  Probablemente solo haya tocado alrededor de 180. Los
+
+103
+00:09:23,500 --> 00:09:28,459
+teléfonos celulares son en realidad una de las
+cosas con más bacterias que encontramos con frecuencia.
+
+104
+00:09:28,460 --> 00:09:33,069
+Si desea estimar cuántas bacterias
+hay específicamente en su teléfono, en función de qué tan
+
+105
+00:09:33,070 --> 00:09:37,969
+limpio esté, The Oatmeal tiene un cuestionario realmente excelente
+.  Puedes encontrar eso en la descripción.
+
+106
+00:09:37,970 --> 00:09:44,249
+Pero, sinceramente, lo que más me asombra no es
+lo sucio que está nuestro mundo o la cantidad de bacterias que
+
+107
+00:09:44,250 --> 00:09:51,379
+hay;  en cambio, es el hecho de que, a pesar de
+esos números, no nos enfermamos con más frecuencia.
+
+108
+00:09:51,380 --> 00:09:59,199
+Nuestro sistema inmunológico es asombroso, pero se basa
+en los mismos principios de adhesión que las bacterias.
+
+109
+00:09:59,200 --> 00:10:05,229
+Las fuerzas que hacen que los alimentos que caen al
+suelo se contagien de gérmenes son las mismas fuerzas
+
+110
+00:10:05,230 --> 00:10:10,588
+que necesitamos para combatirlos.  Son las mismas fuerzas
+que nos unen más, nos
+
+111
+00:10:10,589 --> 00:10:11,549
+guste o no.
+
+112
+00:10:11,550 --> 00:10:13,049
+Entonces, sigue adhiriendo.
+
+113
+00:10:13,050 --> 00:10:14,319
+Y como siempre,
+
+114
+00:10:14,320 --> 00:10:15,560
+gracias por mirar.
+

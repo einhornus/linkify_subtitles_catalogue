@@ -1,0 +1,508 @@
+1
+00:00:02,409 --> 00:00:10,289
+Hej, Vsosie!  Michael tutaj!  Jeśli rdzeń kuli;  to znaczy, wyjmij z niego cylinder, zostaniesz z kształtem
+
+2
+00:00:10,290 --> 00:00:14,979
+zwanym pierścieniem na serwetki, ponieważ wygląda jak pierścień na serwetki!
+
+3
+00:00:14,980 --> 00:00:20,099
+To dziwaczny kształt, ponieważ jeśli dwa pierścienie na serwetki mają tę samą wysokość, cóż
+
+4
+00:00:20,100 --> 00:00:24,639
+, będą miały tę samą objętość niezależnie od wielkości kulek, z których pochodzą!  (Fajnie)
+
+5
+00:00:24,640 --> 00:00:30,579
+Oznacza to, że jeśli wytniesz równie wysokie obrączki z pomarańczy iz Ziemi,
+
+6
+00:00:30,580 --> 00:00:35,199
+cóż, można je trzymać w dłoni.  Drugi miałby obwód całej naszej planety,
+
+7
+00:00:35,200 --> 00:00:39,339
+ale oba miałyby taką samą objętość...
+
+8
+00:00:39,340 --> 00:00:45,328
+Wspomniałem o tym sprzecznym z intuicją fakcie, robiąc Kendamę z Adamem Savage'em.  Obejrzyj ten film, jeśli jeszcze tego nie zrobiłeś, lub jeszcze lepiej,
+
+9
+00:00:45,329 --> 00:00:51,959
+po prostu przyjdź do nas.  Tej jesieni wprowadzimy na żywo cukierki mózgowe do 24 nowych miast.  Będzie tłoczno, ale teraz
+
+10
+00:00:51,960 --> 00:00:56,349
+mówimy o kulkach i ich nadziewaniu!
+
+11
+00:00:56,350 --> 00:01:02,139
+Mam tutaj DWA krążki do serwetek z kul o bardzo różnej wielkości;  jeden jest z małej kulki,
+
+12
+00:01:02,140 --> 00:01:05,709
+tylko małego pomidora, który wydrążyłem, więc jest tam mały otwór.
+
+13
+00:01:05,710 --> 00:01:08,128
+Drugi pierścień na serwetki jest wykonany z pomarańczy,
+
+14
+00:01:08,129 --> 00:01:12,879
+ale oba pierścienie na serwetki mają tę samą wysokość.  Pomidor ma mniejszy
+
+15
+00:01:12,880 --> 00:01:20,279
+obwód niż pomarańcza, co oznacza mniejszą objętość, ale jego pierścień jest grubszy, co oznacza większą objętość.  Oba te efekty
+
+16
+00:01:20,280 --> 00:01:31,559
+dokładnie niwelują.  Więc te dwa pierścienie na serwetki mają identyczną objętość, zajmują tyle samo miejsca.
+
+17
+00:01:31,560 --> 00:01:34,269
+Przy okazji olejek pomarańczowy jest łatwopalny.
+
+18
+00:01:34,270 --> 00:01:37,239
+Aby zobaczyć, dlaczego problem z pierścieniem jest prawdziwy,
+
+19
+00:01:37,240 --> 00:01:44,769
+omówmy zasadę Cavalieriego.  Stwierdza, że dla dowolnych dwóch ciał stałych, takich jak te dwa cylindry, które tutaj zbudowałem, umies
+
+20
+00:01:44,770 --> 00:01:49,868
+czonych pomiędzy równoległymi płaszczyznami, jeśli jakakolwiek inna równoległa płaszczyzna przec
+
+21
+00:01:49,869 --> 00:01:54,298
+na obie w obszarach o równej powierzchni, bez względu na to, skąd została pobrana, wtedy
+
+22
+00:01:54,299 --> 00:02:02,618
+bryły mają taką samą objętość.  To wyraźnie prawda, że te cylindry są zbudowane ze stosów naklejek VSauce 100 w
+
+23
+00:02:02,619 --> 00:02:06,289
+każdym Stosie, więc ich objętość jest taka sama, jeśl
+
+24
+00:02:06,290 --> 00:02:07,909
+ przek
+
+25
+00:02:07,910 --> 00:02:15,429
+zywię jeden z nich w ten sposób, jego kształt się zmieni, ale jego objętość nie jest nadal zawiera tę samą ilość  rzeczy
+
+26
+00:02:15,430 --> 00:02:18,169
+, których nie dodałem ani nie odjąłem naklejek
+
+27
+00:02:18,170 --> 00:02:25,539
+A zasada Cavalieriego zapewnia, że nadal mają tę samą objętość, ponieważ każdy przekrój wzięty z dołu tutaj w środku w dowolnym miejs
+
+28
+00:02:25,540 --> 00:02:33,279
+u Zawsze da nam region o tym samym obszarze co inne, ponieważ te  regiony są zawsze kołami o równej powierzchni.
+
+29
+00:02:33,280 --> 00:02:37,339
+Teraz zastosujmy zasadę Cavalieriego do obrączek na serwetki
+
+30
+00:02:37,340 --> 00:02:40,879
+Możemy zobaczyćże dwa obrączki na serwetki o podobnej wysokości mają
+
+31
+00:02:40,880 --> 00:02:46,639
+identyczną objętość pokazując, że po przecięciu płaszczyzną pole przekroju jednego
+
+32
+00:02:46,640 --> 00:02:49,719
+zawsze jest równe polu pozostałych, aby to zrobić
+
+33
+00:02:49,720 --> 00:02:56,829
+Zauważ, że obszar  przekroju kul minus powierzchnia przekroju walców daje nam pole przekroju pierścieni na serwetki
+
+34
+00:02:56,830 --> 00:03:01,819
+.  W zależności od tego, gdzie pokroimy pierścień na serwetkę, przekroje będą miały różne obszary,
+
+35
+00:03:01,820 --> 00:03:08,809
+ale zawsze będą takie same.  Obliczmy pola tych niebieskich pierścieni.
+
+36
+00:03:08,810 --> 00:03:17,359
+Najpierw nazwijmy wysokość pierścienia na serwetkę h i promień kuli, którą wycinają z dużej
+
+37
+00:03:17,360 --> 00:03:18,169
+litery R W
+
+38
+00:03:18,170 --> 00:03:25,629
+porządku, teraz idealnie przekrój takiej kuli i przekrój poprzeczny  taki walec to oba koła
+
+39
+00:03:25,630 --> 00:03:30,019
+Więc ich pola można określić używając Pi razy promień do kwadratu
+
+40
+00:03:30,020 --> 00:03:37,509
+Więc jeśli chcemy znaleźć pole przekroju kul i odjąć pole przekroju walców
+
+41
+00:03:37,510 --> 00:03:41,839
+(narysuję obrazek  cylinder tutaj), wszystko, co musimy zrobić,
+
+42
+00:03:41,840 --> 00:03:45,409
+to pomnożyć Pi przez promień przekroju sfery
+
+43
+00:03:45,410 --> 00:03:53,329
+Kwadrat, a następnie odjąć Pi razy promień walca Kwadrat, ale jakie są ich promienie?
+
+44
+00:03:53,330 --> 00:04:01,059
+Cóż, jeśli to jest środek kuli, możemy narysować linię prosto do rogu cylindra w dół
+
+45
+00:04:01,060 --> 00:04:05,679
+boku cylindra, a następnie połączyć się w trójkąt prostokątny
+
+46
+00:04:05,680 --> 00:04:12,439
+. Twierdzenie Pitagorasa naprawdę nam w tym pomoże, mówi nam, że  długość jednego boku do kwadratu plus długość drugiego boku do
+
+47
+00:04:12,440 --> 00:04:16,778
+kwadratu równa się długości przeciwprostokątnej do
+
+48
+00:04:16,779 --> 00:04:20,909
+kwadratu Ta odległość tutaj ten bok trójkąta to czego chcemy
+
+49
+00:04:20,910 --> 00:04:29,079
+To jest promień walca, więc nazwiemy to małym promieniem r  walca (piękny mały obrazek),
+
+50
+00:04:29,080 --> 00:04:31,388
+więc
+
+51
+00:04:31,389 --> 00:04:34,839
+promień walca do
+
+52
+00:04:34,840 --> 00:04:37,029
+kwadratu
+
+53
+00:04:37,030 --> 00:04:44,019
+plus długość boku, czyli tylko połowa wysokości walca, więc wysokość walca podzielona przez 2 do
+
+54
+00:04:44,020 --> 00:04:45,369
+kwadratu
+
+55
+00:04:45,370 --> 00:04:53,349
+Równa się przeciwprostokątnej do kwadratu przeciwprostokątnej  promień samej kuli, który jest dużymi literami R
+
+56
+00:04:53,350 --> 00:04:57,179
+Idealnie teraz obliczmy promień walca.
+
+57
+00:04:57,180 --> 00:05:04,119
+Właśnie odejmiemy h przez 2 do kwadratu z obu stron, co da nam promień walca do
+
+58
+00:05:04,120 --> 00:05:05,168
+kwadratu
+
+59
+00:05:05,169 --> 00:05:08,469
+równy promieniowi sfery do kwadratu minus
+
+60
+00:05:08,470 --> 00:05:10,959
+połowa wysokości walca do kwadratu
+
+61
+00:05:10,960 --> 00:05:17,888
+Możemy wyciągnąć pierwiastek kwadratowy z  z obu stron tak, aby promień walca był
+
+62
+00:05:17,889 --> 00:05:21,879
+równy pierwiastkowi kwadratowemu z promienia kuli
+
+63
+00:05:21,880 --> 00:05:25,149
+minus 1/2 wysokości walca do kwadratu
+
+64
+00:05:25,150 --> 00:05:32,439
+Idealnie ok teraz spójrzmy na pole przekroju poprzecznego  Kula teraz do tego
+
+65
+00:05:32,440 --> 00:05:38,228
+narysujmy prostą linię od środka do krawędzi
+
+66
+00:05:38,229 --> 00:05:44,649
+przekroju poprzecznego kuli, a my pójdziemy prosto w dół i połączymy się z powrotem, hej patrz!  Inny trójkąt prostokątny
+
+67
+00:05:44,650 --> 00:05:48,699
+, nazwijmy to wysokością y
+
+68
+00:05:48,700 --> 00:05:55,679
+I zauważmy, że ta odległość teraz bok trójkąta na dole jest w rzeczywistości
+
+69
+00:05:55,680 --> 00:05:57,969
+promieniem okręgu
+
+70
+00:05:57,970 --> 00:06:05,109
+Przekrój poprzeczny tutaj.  Oba są równe, więc chcemy nawet obliczyć promień okręgu, który jest przekrojem kuli
+
+71
+00:06:05,110 --> 00:06:05,709
+Ok,
+
+72
+00:06:05,710 --> 00:06:08,948
+więc wiemy, że promień
+
+73
+00:06:08,949 --> 00:06:14,829
+przekroju kuli do kwadratu plus ta odległość do kwadratu (czyli y)
+
+74
+00:06:14,830 --> 00:06:21,159
+równa się  przeciwprostokątna do kwadratu, co wiesz, przeciwprostokątna jest znowu promieniem kuli (duże R)
+
+75
+00:06:21,160 --> 00:06:27,819
+Ok, odejmijmy y do kwadratu z obu stron promień przekroju kuli do kwadratu
+
+76
+00:06:27,820 --> 00:06:31,749
+jest równy promieniowi kuli do kwadratu minus
+
+77
+00:06:31,750 --> 00:06:36,019
+Y kwadrat  pierwiastek kwadratowy z obu stron i na koniec
+
+78
+00:06:36,020 --> 00:06:41,029
+dowiadujemy się, że promień przekroju kuli jest równy pierwiastkowi kwadratowemu
+
+79
+00:06:41,030 --> 00:06:45,499
+z promienia kwadratu kuli minus y do kwadratu.  Y jest wysokością, na jaką ten
+
+80
+00:06:45,500 --> 00:06:53,569
+przekrój zostanie wzięty znad równika im wyżej weźmiemy te przekroje kuli, tym mniejsze będą ich promienie
+
+81
+00:06:53,570 --> 00:06:58,009
+Podczas gdy promień walca jest zawsze taki sam bez względu na to, skąd tniemy
+
+82
+00:06:58,010 --> 00:07:01,609
+Tak czy inaczej, weźmy  te dwa promienie i wstawiamy je do naszego wzoru
+
+83
+00:07:01,610 --> 00:07:06,079
+OK, pole przekroju poprzecznego kuli jest tym, czego chcemy najpierw
+
+84
+00:07:06,080 --> 00:07:10,579
+OK, to po prostu pierwiastek kwadratowy z R do kwadratu minus y do kwadratu
+
+85
+00:07:10,580 --> 00:07:18,039
+Nie jest tak źle, teraz promień walca jest kwadratem  pierwiastek z R do kwadratu minus
+
+86
+00:07:18,040 --> 00:07:25,549
+połowa wysokości cylindra do kwadratu Teraz możesz zauważyć, że wyciągamy pierwiastek kwadratowy z czegoś, a następnie podnosimy to do kwadratu.
+
+87
+00:07:25,550 --> 00:07:28,339
+To faktycznie znosi się
+
+88
+00:07:28,340 --> 00:07:30,369
+idealnie!  Wygląda o wiele prościej
+
+89
+00:07:30,370 --> 00:07:38,659
+Ale teraz podzielmy Pi na wyrażenia wewnątrz nawiasów, więc pi razy R do kwadratu daje nam Pi R do
+
+90
+00:07:38,660 --> 00:07:44,149
+kwadratu Pi razy ujemne y do kwadratu daje nam ujemne pi y do kwadratu
+
+91
+00:07:44,150 --> 00:07:46,189
+Następnie ujemne Pi razy R do
+
+92
+00:07:46,190 --> 00:07:54,859
+kwadratu jest ujemne pi R kwadrat ujemne Pi  razy ujemne h przez 2 do kwadratu jest dodatnie Pi
+
+93
+00:07:54,860 --> 00:07:56,659
+h przez 2 do
+
+94
+00:07:56,660 --> 00:08:03,219
+kwadratu.  Świetnie, teraz możemy dalej upraszczać, ale możesz zauważyć, że mamy pi r do kwadratu i
+
+95
+00:08:03,220 --> 00:08:07,039
+minus Pi R do kwadratu, cóż, to jest równe 0, więc te
+
+96
+00:08:07,040 --> 00:08:11,299
+Całkowicie znoszą się nawzajem, ale zostają nam tylko
+
+97
+00:08:11,300 --> 00:08:18,359
+warunki zawierające  brak wzmianki o kulach Promień, czy promień jest duży czy mały
+
+98
+00:08:18,360 --> 00:08:23,299
+Nie ma znaczenia wszystko, co musisz wiedzieć, aby znaleźć pole przekroju poprzecznego pierścienia na serwetki,
+
+99
+00:08:23,300 --> 00:08:25,579
+to wysokość pierścienia na serwetki
+
+100
+00:08:25,580 --> 00:08:32,219
+Y, oczywiście, jest ograniczona przez  wysokość pierścienia na serwetki te niebieskie obszary mają ten sam obszar i będzie to
+
+101
+00:08:32,220 --> 00:08:41,019
+prawda bez względu na to, gdzie przetniemy przekrój przez pierścień na serwetce, co oznacza zgodnie z zasadą Cavalieri, że oba pierścienie na serwetki mają tę samą
+
+102
+00:08:41,020 --> 00:08:43,099
+objętość
+
+103
+00:08:43,100 --> 00:08:47,699
+Yay :3
+
+104
+00:08:47,700 --> 00:08:50,019
+(z zębami  )
+
+105
+00:08:50,020 --> 00:08:54,279
+Ale co to oznacza dla ciebie dla życia we wszechświecie?
+
+106
+00:08:54,280 --> 00:08:58,779
+Wiemy, że jeśli Ci się spodoba, powinieneś założyć na niego pierścionek,
+
+107
+00:08:58,780 --> 00:09:00,679
+ale jeśli Ci się spodoba,
+
+108
+00:09:00,680 --> 00:09:05,199
+nie znając szerokości palca i chcesz zaoferować mu tylko ustaloną ilość materiału
+
+109
+00:09:05,200 --> 00:09:09,639
+, powinieneś nałożyć na niego pierścień od serwetki.
+
+110
+00:09:09,640 --> 00:09:11,899
+I jak zawsze
+
+111
+00:09:11,900 --> 00:09:21,459
+dzięki za oglądanie :D
+
+112
+00:09:21,460 --> 00:09:23,859
+21 sierpnia
+
+113
+00:09:23,860 --> 00:09:31,599
+2017 będzie całkowite zaćmienie Słońca, cień Księżyca przemknie przez sąsiadujące Stany Zjednoczone
+
+114
+00:09:31,600 --> 00:09:35,489
+To będzie niesamowite i trochę przerażające
+
+115
+00:09:35,490 --> 00:09:42,039
+Jestem pewien, że będę to oglądał  z Oregonu z moimi przyjaciółmi z Atlas, Obscura.  Nie mogę się doczekać, ale miej oczy
+
+116
+00:09:42,040 --> 00:09:47,699
+Bezpieczne jeśli chcesz oglądać zaćmienie musisz mieć specjalną ochronę oczu
+
+117
+00:09:47,700 --> 00:09:52,819
+ciekawość W pudełku znajdują się takie okulary, które blokują
+
+118
+00:09:52,820 --> 00:10:00,399
+99,999% światła widzialnego to jest to, czego potrzeba, aby móc dobrze patrzeć  słońce jest tym, co kocham w tych okularach.
+
+119
+00:10:00,400 --> 00:10:04,059
+Nie ma zaćmienia.  Nadal możesz po prostu patrzeć na słońce.
+
+120
+00:10:04,060 --> 00:10:07,679
+Zauważ, że to piłka.  Może wyobraź sobie, jaki rodzaj pierścionka na serwetki
+
+121
+00:10:07,680 --> 00:10:09,789
+chciałbyś zrobić.  Obecne
+
+122
+00:10:09,790 --> 00:10:15,539
+pudełko Curiosity jest moim ulubionym.  Ten, który otrzymasz, jeśli zasubskrybujesz teraz, zawiera wszelkiego rodzaju fajne rzeczy, które są dostarczane
+
+123
+00:10:15,540 --> 00:10:23,539
+z plakatem pokazującym, że wszystkie planety i pluton mogą zmieścić się między ziemią a księżycem, zawiera również gadżety naukowe, takie jak te
+
+124
+00:10:23,540 --> 00:10:26,499
+lewitujące pierścienie magnetyczne
+
+125
+00:10:26,500 --> 00:10:32,109
+całkiem fajnie, także część wszystkich dochodów idzie na badania Alzheimera, więc jest to dobre dla twojego mózgu i mózgów
+
+126
+00:10:32,110 --> 00:10:41,338
+wszystkich innych.  Mam nadzieję, że zobaczymy się na żywo na Brain Candy i jak zwykle
+
+127
+00:10:41,339 --> 00:10:43,339
+dzięki za oglądanie
+

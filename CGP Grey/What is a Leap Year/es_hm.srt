@@ -1,0 +1,354 @@
+1
+00:00:00,700 --> 00:00:04,119
+Un año del calendario es de 356 días
+un número que se reúsa a
+
+2
+00:00:04,120 --> 00:00:08,768
+ser dividido igualmente, es por lo que tenemos
+meses de 30 y 31 días, con excepción
+
+3
+00:00:08,769 --> 00:00:13,218
+de Febrero -- el patito feo -- que solo
+tiene  28... excepto cuando le tocan  29
+
+4
+00:00:13,219 --> 00:00:15,869
+entonces el año dura 366 días
+
+5
+00:00:15,870 --> 00:00:18,909
+¿Porque pasa esto, en qué tipo de
+universo loco vivimos en el que unos años
+
+6
+00:00:18,910 --> 00:00:19,639
+duran mas que otros?
+
+7
+00:00:19,640 --> 00:00:22,189
+Para responder debemos saber algo:
+¿Que es un año?
+
+8
+00:00:22,190 --> 00:00:25,609
+	Súper simplificándolo: un año es el tiempo
+que le toma a la tierra, darle la vuelta al
+
+9
+00:00:25,610 --> 00:00:28,319
+sol. Esto casualmente coincide con el 
+ciclo de las estaciones.
+
+10
+00:00:28,320 --> 00:00:31,729
+Ahora, dibujar un diagrama como este
+donde la tierra gira alrededor del sol
+
+11
+00:00:31,730 --> 00:00:35,189
+es fácil, pero calcular exactamente un año
+desde la tierra es más difícil
+
+12
+00:00:35,190 --> 00:00:37,429
+ya que el universo no viene 
+con un mapa visto desde arriba
+
+13
+00:00:37,430 --> 00:00:40,499
+En la tierra solo vemos las estaciones pasar
+y la forma obvia de calcular
+
+14
+00:00:40,500 --> 00:00:45,259
+su ciclo, es contar los días que pasan
+lo que te da un calendario de 365 días
+
+15
+00:00:45,260 --> 00:00:49,209
+Pero en cuanto usas ese calendario,
+lentamente se desincroniza de las estaciones.
+
+16
+00:00:49,210 --> 00:00:52,078
+Y con cada año que pasa, la diferencia
+es cada vez más grande.
+
+17
+00:00:52,079 --> 00:00:55,809
+en tres décadas, el calendario estará 
+desfasado por una semana, y en unos cientos de años
+
+18
+00:00:55,810 --> 00:01:00,099
+estarian invertidas -- asi que clebrariamos 
+Navidad en vaerano -- que seria loco.
+
+19
+00:01:00,100 --> 00:01:03,148
+¿Porque pasa esto, acaso contamos mal
+los días? Bueno, el calendario predice
+
+20
+00:01:03,149 --> 00:01:08,068
+que el tiempo que tarda la Tierra en dar la vuelta 
+al sol  son 8,760 horas. Pero, en realidad
+
+21
+00:01:08,069 --> 00:01:11,478
+si lo cronometramos, veremos que
+el año dura mas que eso,
+
+22
+00:01:11,479 --> 00:01:16,099
+por casi 6 horas. así que nuestro calendario
+se mueve más rápido de lo que las
+
+23
+00:01:16,100 --> 00:01:17,019
+estaciónes cambian.
+
+24
+00:01:17,020 --> 00:01:20,629
+Y así llegamos al problema fundamental de
+todos los calendarios: el día y la noche,
+
+25
+00:01:20,630 --> 00:01:23,748
+si bien son fáciles de contar, no tienen
+nada que ver con los años.
+
+26
+00:01:23,749 --> 00:01:27,239
+El día y la noche son producidos por la rotación
+de la Tierra sobre su eje. Si estas en el lado
+
+27
+00:01:27,240 --> 00:01:30,739
+del sol, es día si estás del otro lado es noche. 
+Pero la rotación de la Tierra tiene la
+
+28
+00:01:30,740 --> 00:01:34,008
+misma conexión al movimiento orbital alrededor del sol
+que lo que una bailarina girando en
+
+29
+00:01:34,009 --> 00:01:36,618
+un camión, está conectada con la velocidad del mismo.
+
+30
+00:01:36,619 --> 00:01:39,258
+Contar las vueltas de la bailarina para
+predecir cuanto le toma al camión manejar en
+
+31
+00:01:39,259 --> 00:01:43,358
+un circulo,  te puede dar una idea de cuánto le tomara,
+pero es loco pensar que será preciso
+
+32
+00:01:43,359 --> 00:01:46,478
+Contar los días para calcular la órbita, es 
+casi lo mismo y no debería de
+
+33
+00:01:46,479 --> 00:01:50,788
+sorprendernos que la Tierra no haga
+exactamente 365 giros en un año.
+
+34
+00:01:50,789 --> 00:01:56,309
+Irritantemente, mientras que 365 días son muchos
+366 son pocos,  y aun causarían
+
+35
+00:01:56,310 --> 00:01:58,739
+el desfase de las estaciones, pero en sentido opuesto.
+
+36
+00:01:58,740 --> 00:02:02,068
+La solución a esto es el año bisiesto:
+en el que Febrero tiene otro día, pero
+
+37
+00:02:02,069 --> 00:02:03,438
+solo cada 4 años.
+
+38
+00:02:03,439 --> 00:02:07,038
+Esto funciona muy bien, ya que cada año es casi 
+un cuarto de día más corto, así que
+
+39
+00:02:07,039 --> 00:02:09,388
+cada cuatro años agregas un día para
+corregir el desfase.
+
+40
+00:02:09,389 --> 00:02:11,229
+Huzzah! Problema resuelto.
+
+41
+00:02:11,230 --> 00:02:12,539
+Excepo, que no.
+
+42
+00:02:12,540 --> 00:02:15,738
+Aumentar un día cada cuatro años, es un poco
+de mas, y el calendario aun
+
+43
+00:02:15,739 --> 00:02:19,128
+se desfase de las estaciones, por un 
+día cada cien años.
+
+44
+00:02:19,129 --> 00:02:22,458
+	Que está bien para los apáticos, pero no para
+los diseñadores de calendarios que
+
+45
+00:02:22,459 --> 00:02:23,679
+quieren que todo funcione perfecamente.
+
+46
+00:02:23,680 --> 00:02:26,738
+Para corregir esto, cada siglo
+nos saltamos el año bisiesto.
+
+47
+00:02:26,739 --> 00:02:30,539
+Así que 1896 y 1904 fueron bisiestos y 
+1900 no lo fue.
+
+48
+00:02:30,540 --> 00:02:34,238
+Esto está mejor, pero aun así el calendario
+va un poco muy rápido, con un desfase
+
+49
+00:02:34,239 --> 00:02:35,999
+de 1 dia cada 400 años.
+
+50
+00:02:36,000 --> 00:02:39,029
+Así que una cláusula adicional se añade
+donde si el siglo
+
+51
+00:02:39,030 --> 00:02:41,878
+es divisible por 400, entonces
+será año bisiesto.
+
+52
+00:02:41,879 --> 00:02:45,158
+Entonces 1900 y 2100 no son bisiestos, pero 
+2000 si lo es.
+
+53
+00:02:45,159 --> 00:02:49,179
+Con estas 3 reglas, el error se reduce
+a 1 día en casi ocho mil años
+
+54
+00:02:49,180 --> 00:02:52,568
+que el calendario actual lo declara 'misión
+cumplida' y se va a descansar.
+
+55
+00:02:52,569 --> 00:02:55,389
+Lo cual es razonable, porque 
+hace ocho mil años, los humanos apenas
+
+56
+00:02:55,390 --> 00:02:58,729
+aprendían que cultivar era una buena idea,
+y dentro de 8 mil años
+
+57
+00:02:58,730 --> 00:03:01,548
+esperamos utilizar un calendario con un 
+mejor cálculo de las fechas.
+
+58
+00:03:01,549 --> 00:03:06,149
+Pero quizás tu eres un matemático, y  un 0.0001
+porciento de error es una abominación para ti
+
+59
+00:03:06,150 --> 00:03:07,078
+y hay que eliminarlo.
+
+60
+00:03:07,079 --> 00:03:10,729
+"Mala suerte" dice el Universo porque
+la duración de un día no es constante. Varia
+
+61
+00:03:10,730 --> 00:03:14,929
+aleatoriamente por pocos milisegundos, y en promedio
+se reduce por  1 milisegundo
+
+62
+00:03:14,930 --> 00:03:18,809
+cada 100 años. Lo que quiere decir que no
+se pude hacer un calendario perfecto
+
+63
+00:03:18,810 --> 00:03:19,968
+que dure para siempre.
+
+64
+00:03:19,969 --> 00:03:23,089
+En teoría, la duración de un día, llegara a ser igual 
+a la de un mes -- pero no te preocupes
+
+65
+00:03:23,090 --> 00:03:27,018
+tomará  cientos de miles de millones
+de años, y la expansión de nuestro sol
+
+66
+00:03:27,019 --> 00:03:28,798
+destruirá la Tierra mucho antes que pase.
+
+67
+00:03:28,799 --> 00:03:32,128
+Lo siento, no sé cómo llegamos, de contar los días 
+al final inevitable y ardiente
+
+68
+00:03:32,129 --> 00:03:35,298
+de la civilización humana -- a menos claro
+de que invertimos adecuadamente en un
+
+69
+00:03:35,299 --> 00:03:37,348
+programa espacial (coff, coff) -- pero ahí lo tienen.
+
+70
+00:03:37,349 --> 00:03:40,408
+Por los próximos 8 milenios, los años bisiestos
+mantendrán el calendario sincronizado
+
+71
+00:03:40,409 --> 00:03:43,889
+Pero de una manera extremadamente complicada.
+
+72
+00:03:43,890 --> 00:03:47,289
+Puedes aprender más sobre orbitas, diferentes
+Tipos de años y agujeros negros supermasivos
+
+73
+00:03:47,290 --> 00:03:50,248
+en Minute Physics. Como siempre, Henry
+hace un gran trabajo en explicar todo esto
+
+74
+00:03:50,249 --> 00:03:51,590
+en su nuevo video, visítalo!
+

@@ -1,0 +1,321 @@
+1
+00:00:00,250 --> 00:00:00,978
+Bonjour Internet
+
+2
+00:00:00,979 --> 00:00:05,059
+Le Royaume-Uni a eu une élection dont il faut parler parce qu'après les débats furent finis, et que les gens
+
+3
+00:00:05,060 --> 00:00:07,778
+eurent voté et les votes comptés les résultats donnèrent ceci:
+
+4
+00:00:07,779 --> 00:00:10,259
+Mais le Parlement a fini par ressembler à ceci:
+
+5
+00:00:10,260 --> 00:00:14,899
+Ce qui n'est pas, exactement, représentatif. Et
+par exactement, je veux dire pas du tout.
+
+6
+00:00:14,900 --> 00:00:19,608
+Les Rouges ont obtenu 30% des voix et 36% des sièges, ce qui est assez proche, mais le reste
+
+7
+00:00:19,609 --> 00:00:24,698
+est de la folie: les Oranges ont 8% des voix, mais ont obtenu un huitième de cela alors que les 5% des Jaunes
+
+8
+00:00:24,699 --> 00:00:28,278
+ont environ doublé, et les Violets ont gagné 13% et obtenu quasi rien.
+
+9
+00:00:28,279 --> 00:00:33,669
+Dans le même temps, les 37% de vote des Bleus ont gagné 51% des sièges au parlement. Les Bleus
+
+10
+00:00:33,670 --> 00:00:38,869
+y gagnent encore plus quand on considère que 51% des sièges donne concrètement 100% du
+
+11
+00:00:38,870 --> 00:00:39,799
+contrôle.
+
+12
+00:00:39,800 --> 00:00:40,529
+Comment est-ce que c'est arrivé?
+
+13
+00:00:40,530 --> 00:00:45,049
+Au RU, les élections nationales ne sont pas vraiment
+nationale, elles sont un tas d'élections locales.
+
+14
+00:00:45,050 --> 00:00:49,709
+Le Royaume-Uni est divisé en circonscriptions, chacune
+élisant un membre du Parlement (M.P.)
+
+15
+00:00:49,710 --> 00:00:54,218
+pour les représenter. Cette division entre local/national est là que les ennuis commencent.
+
+16
+00:00:54,219 --> 00:00:58,339
+Imaginez un parlement avec seulement trois circonscriptions,
+et il est facile de voir comment ça ne serait pas toujours
+
+17
+00:00:58,340 --> 00:01:03,159
+en correspondance avec les citoyens. Certaines pensent que ce type de résultat est correct - "il *faut* juste
+
+18
+00:01:03,160 --> 00:01:07,199
+gagner les élections locales, "ils diront.
+"Chaque M.P. représente sa circonscription. "
+
+19
+00:01:07,200 --> 00:01:11,919
+Et même si le déséquilibre dans cet exemple est extrême, le problème reste le même pour les vraies
+
+20
+00:01:11,920 --> 00:01:16,429
+élections et le même argument est donné,
+mais il y a deux autres problèmes avec lui
+
+21
+00:01:16,430 --> 00:01:17,539
+dans le monde réel.
+
+22
+00:01:17,540 --> 00:01:23,118
+1) Peu de gens ont une idée de qui est leur député,
+ils savent juste pour quel parti ils ont voté
+
+23
+00:01:23,119 --> 00:01:27,959
+- Quel parti ils veulent pour représenter leur
+idées au niveau national. Et prétentant
+
+24
+00:01:27,960 --> 00:01:33,749
+comme si c'était une élection locale est un peu malhonnête.
+- Dans la pratique, c'est une élection pour comment
+
+25
+00:01:33,750 --> 00:01:38,429
+le pays va se gérer - pas vraiment pour qui va
+pour représenter un petit morceau de celui-ci.
+
+26
+00:01:38,430 --> 00:01:39,099
+et même si c'était le cas
+
+27
+00:01:39,100 --> 00:01:43,898
+2) Chaque circonscriptions représente moins bien ses citoyens que le parlement.
+
+28
+00:01:43,899 --> 00:01:46,449
+Appréciez l'amoureux de tableur un moment, voulez-vous ?
+
+29
+00:01:46,450 --> 00:01:49,849
+La différence entre ce qu'est un parti a gagné
+dans les urnes et ce qu'ils ont obtenu au parlement
+
+30
+00:01:49,850 --> 00:01:52,589
+est la quantité d'erreur de représentation.
+
+31
+00:01:52,590 --> 00:01:56,669
+Si l'on calcule toutes les erreurs pour tous les
+partis et qu'on les additionne, nous pouvons dire le parlement
+
+32
+00:01:56,670 --> 00:02:03,489
+dans son ensemble a 47% d'erreur de représentation. 
+Ça a l'air mauvais mais c'est d'une diversité
+
+33
+00:02:03,490 --> 00:02:08,738
+utopique par rapport à chaque élection locale
+ parce que les élections locales n'ont
+
+34
+00:02:08,739 --> 00:02:17,669
+qu'un gagnant. Sur les 650 circonscriptions
+647 ont une erreur de représentation plus élevée que
+
+35
+00:02:17,670 --> 00:02:22,429
+parlement. Ce sont les trois seules qui
+ne l'ont pas et elles sont vraiment inhabituelles d'avoir
+
+36
+00:02:22,430 --> 00:02:26,269
+autant d'électeurs d'un seul type en un endroit.
+
+37
+00:02:26,270 --> 00:02:32,458
+La plupart des endroits ressemblent à The Wrekin qui en plein milieu, avec un joli 100% de point d'erreur.
+
+38
+00:02:32,459 --> 00:02:37,199
+Notez qu'ici le candidat gagnant n'a pas
+atteint la majorité. Ce qui signifie plus de
+
+39
+00:02:37,200 --> 00:02:41,469
+la moitié des circonscriptions ont élu leur député (MP) avec
+une minorité d'électeurs.
+
+40
+00:02:41,470 --> 00:02:47,659
+Le pire est de Belfast South au bas de
+la liste. Comiquement non représentative. Moins
+
+41
+00:02:47,660 --> 00:02:51,909
+d'un quart des électeurs a choisi le député élu. C'est
+
+42
+00:02:51,910 --> 00:02:56,119
+le plus faible pourcentage auquel un député n'a jamais été élu.
+
+43
+00:02:56,120 --> 00:02:59,818
+Donc, quand les gens affirment que l'élection au RU
+est un tas d'élections locales
+
+44
+00:02:59,819 --> 00:03:03,639
+C'est encore un argument de plus
+que les élections sont cassées parce qu'elles sont
+
+45
+00:03:03,640 --> 00:03:05,139
+pire à ce niveau.
+
+46
+00:03:05,140 --> 00:03:08,149
+Ces élections locales ne sont pas représentatives
+à cause du terrible 'First Past the Post '
+
+47
+00:03:08,150 --> 00:03:11,809
+-système de cote dont je me suis plaint fortement
+et ne répèterais pas tout ici - allez voir la vidéo
+
+48
+00:03:11,810 --> 00:03:16,318
+voir la vidéo - mais TL; DR il ne «fonctionne» que
+lorsque les citoyens sont limitées à deux choix.
+
+49
+00:03:16,319 --> 00:03:21,719
+Voter pour un autre parti que les plus grands partis
+rend probable la victoire d'un grand pari par une minorité
+
+50
+00:03:21,720 --> 00:03:24,059
+- Ce qui est exactement ce qui est arrivé.
+
+51
+00:03:24,060 --> 00:03:27,119
+Que les citoyens continuent à voter pour les petits partis
+tout en sachant que c'est contre leur intérêts
+
+52
+00:03:27,120 --> 00:03:32,619
+stratégiques démontre les citoyens
+veulent une représentation diversifiée - mais ce qui succède
+
+53
+00:03:32,620 --> 00:03:37,298
+est la chose même qui a fait de ce parlement le plus non représentatif de l'histoire
+
+54
+00:03:37,299 --> 00:03:38,939
+du Royaume-Uni.
+
+55
+00:03:38,940 --> 00:03:43,089
+Les gens contents du résultats soutiennent le système
+fonctionne très bien - bien sûr ils le font.
+
+56
+00:03:43,090 --> 00:03:44,939
+Leur équipe a gagné.
+
+57
+00:03:44,940 --> 00:03:48,539
+Mais le gouvernement n'est pas un sport où un seul
+«gagnant» doit être déterminé. C'est un système
+
+58
+00:03:48,540 --> 00:03:54,229
+pour établir des règles que tout le monde suit et donc,
+il nous faut un système où chacun puisse s'accorder
+
+59
+00:03:54,230 --> 00:03:58,048
+sur un processus est équitable, même si les résultats
+ne sont pas en leur faveur.
+
+60
+00:03:58,049 --> 00:04:03,298
+Si vous soutenez un système qui diminue
+les gens ne vous plaisent pas et augmente
+
+61
+00:04:03,299 --> 00:04:08,339
+personnes que vous aimez - alors il semble pas que vous soutenez une démocratie représentative, il semble
+
+62
+00:04:08,340 --> 00:04:14,279
+que vous souteniez une sorte de dictature allégée.
+Où un petit groupe de gens (y compris vous)
+
+63
+00:04:14,280 --> 00:04:16,189
+fait les règles pour tout le monde.
+
+64
+00:04:16,190 --> 00:04:22,739
+Mais tel qu'il est, le jour des élections plus
+les gens expriment ce qu'ils veulent plus le
+
+65
+00:04:22,740 --> 00:04:30,119
+système semble mauvais ce qui les désengage au
+mieux ou en colère, au pire, et j'imagine bien pourquoi
+
+66
+00:04:30,120 --> 00:04:30,499
+ 
+
+67
+00:04:30,500 --> 00:04:35,309
+Ceci est réparable, il y a beaucoup, beaucoup de meilleures
+façons dont le RU pourrait voter - En voici deux qui
+
+68
+00:04:35,310 --> 00:04:37,159
+gardent aussi les représentants locaux.
+
+69
+00:04:37,160 --> 00:04:42,719
+Et réparer le système électoral importe vraiment, parce
+cette est une sorte d'illégitimité du gouvernement
+
+70
+00:04:42,720 --> 00:04:47,989
+est à la hausse et peut se continué de croitre à moins que l'on répare ce système électoral
+
+71
+00:04:47,990 --> 00:05:00,500
+en le changeant pour un meilleur.
+

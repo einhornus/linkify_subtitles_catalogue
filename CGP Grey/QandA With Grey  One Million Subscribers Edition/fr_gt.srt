@@ -1,0 +1,782 @@
+1
+00:00:00,539 --> 00:00:01,889
+# Q&A avec Gray `#2 (Un million d'abonnés)
+
+2
+00:00:01,890 --> 00:00:02,889
+Salut.
+
+3
+00:00:02,890 --> 00:00:05,858
+Je pense donc que c'est la partie où je suis
+censé avoir une ouverture dramatique, peut-être que la
+
+4
+00:00:05,859 --> 00:00:11,779
+chanson thème de 2001 joue en arrière-plan alors que le
+nombre 1 000 000 s'estompe, mais évidemment
+
+5
+00:00:11,780 --> 00:00:12,779
+cela ne se produit pas.
+
+6
+00:00:12,780 --> 00:00:15,878
+Ne vous méprenez pas, j'ai de la chance que tant de
+gens veuillent regarder mes vidéos.  C'est
+
+7
+00:00:15,879 --> 00:00:21,559
+juste qu'un million est un nombre trop grand pour
+être compris avec un cerveau dérivé de singe.
+
+8
+00:00:21,560 --> 00:00:24,949
+Pour essayer de le rendre plus réel, j'ai pris
+des données YouTube et créé une feuille de calcul !
+
+9
+00:00:24,950 --> 00:00:25,949
+(Je fais beaucoup de feuilles de calcul)
+
+10
+00:00:25,950 --> 00:00:28,549
+Vous pouvez sélectionner votre pays et entrer la
+population de la ville où vous vivez, et
+
+11
+00:00:28,550 --> 00:00:32,089
+il crachera le nombre statistiquement approximatif
+d'autres personnes dans cette ville qui sont
+
+12
+00:00:32,090 --> 00:00:33,589
+abonnées à cette chaîne.
+
+13
+00:00:33,590 --> 00:00:37,889
+Faire cela pour les émissions de Londres, il y a environ
+9 000 personnes dans la ville qui sont abonnés.
+
+14
+00:00:37,890 --> 00:00:43,039
+Maintenant, 9 000 est évidemment plus petit qu'un * million *
+mais c'est un nombre avec des contraintes et est
+
+15
+00:00:43,040 --> 00:00:47,989
+suffisamment petit pour être compris tout en
+étant suffisamment grand pour être très intimidant.
+
+16
+00:00:47,990 --> 00:00:52,009
+Donc, si vous êtes intéressé, vous pouvez cliquer ici
+pour jouer avec la feuille de calcul.  Maintenant,
+
+17
+00:00:52,010 --> 00:00:53,999
+comme promis : passons aux questions-réponses.
+
+18
+00:00:54,000 --> 00:00:55,639
+## Qu'est-ce qui vous plaît le plus dans le fait d'être un YouTuber ?
+--Conzo_K
+
+19
+00:00:55,640 --> 00:00:58,989
+La meilleure chose à propos de ce nouveau monde étrange, ce
+sont les gens que j'ai rencontrés - ce qui est tout à fait la
+
+20
+00:00:58,990 --> 00:01:03,209
+déclaration à faire pour un reclus social.  C'est
+incroyable de parler avec tous ces gars et je
+
+21
+00:01:03,210 --> 00:01:06,319
+me sens très chanceux d'avoir l'
+occasion de le faire de temps en temps.
+
+22
+00:01:06,320 --> 00:01:08,109
+## Quel est le plus grand changement d'opinion que vous ayez
+eu ?  --Steam23
+
+23
+00:01:08,110 --> 00:01:11,889
+C'est un peu trop personnel pour être partagé avec,
+disons, un * million * de personnes, mais je veux
+
+24
+00:01:11,890 --> 00:01:14,999
+parler de l'importance de pouvoir
+changer d'avis en général.
+
+25
+00:01:15,000 --> 00:01:18,809
+L'astuce consiste à séparer votre identité
+de vos opinions - ce sont des objets dans
+
+26
+00:01:18,810 --> 00:01:23,669
+une boîte que vous emportez avec vous et qui devraient être facilement
+remplaçables s'il s'avère qu'ils ne sont pas bons.
+
+27
+00:01:23,670 --> 00:01:26,739
+Si vous pensez que les opinions dans la case
+sont * qui vous êtes *, vous vous y accrocherez
+
+28
+00:01:26,740 --> 00:01:28,879
+malgré toute preuve du contraire.
+
+29
+00:01:28,880 --> 00:01:32,419
+Conclusion : Si vous voulez toujours avoir raison,
+vous devez toujours être prêt à changer d'
+
+30
+00:01:32,420 --> 00:01:33,419
+avis.
+
+31
+00:01:33,420 --> 00:01:36,119
+## Essayiez-vous de créer une esthétique unique
+en utilisant des figurines ?  --Waggles_ 20
+
+32
+00:01:36,120 --> 00:01:37,779
+Non, c'est juste que je ne sais pas dessiner.
+
+33
+00:01:37,780 --> 00:01:40,769
+## Après avoir déménagé à Londres, combien de temps
+avez-vous mis avant d'arrêter de dire "Maths" et de commencer à
+
+34
+00:01:40,770 --> 00:01:41,769
+dire "Maths" ?  --brockheinz
+
+35
+00:01:41,770 --> 00:01:43,339
+Je n'ai pas -- je m'en tiens aux "maths".
+
+36
+00:01:43,340 --> 00:01:46,749
+Les Américains vivant au Royaume-Uni se retrouvent souvent avec
+un accent malheureux que j'appelle "psuedo-britannique".
+
+37
+00:01:46,750 --> 00:01:51,379
+J'essaie très fort d'éviter cela, mais lorsque vous avez
+passé la majorité de votre temps de conversation avec des
+
+38
+00:01:51,380 --> 00:01:55,798
+Britanniques pendant une décennie, il est impossible
+de lutter complètement contre l'accent pseudo-britannique rampant,
+
+39
+00:01:55,799 --> 00:01:58,548
+peu importe à quel point vous pensez qu'il
+vous fait paraître odieux.
+
+40
+00:01:58,549 --> 00:02:00,549
+## Vos élèves connaissaient-ils votre
+chaîne YouTube ?  --qiyitam
+
+41
+00:02:00,550 --> 00:02:04,419
+Je n'en parlerais jamais, mais je sais que certains
+d'entre eux le savaient.  Cependant, il est impossible d'exprimer à
+
+42
+00:02:04,420 --> 00:02:08,609
+quel point ils s'en souciaient.  Mes cours ne ressemblaient
+pas à des vidéos CGP Grey d'une heure.
+
+43
+00:02:08,610 --> 00:02:11,488
+## Aimeriez-vous voir l'interrobang plus
+largement adopté ?  --aaronboardley
+
+44
+00:02:11,489 --> 00:02:12,488
+Qui ne le ferait pas‽
+
+45
+00:02:12,489 --> 00:02:13,869
+## Pourquoi n'avez-vous pas de calendrier de téléchargement ?
+--ManavT A
+
+46
+00:02:13,870 --> 00:02:17,848
+droite : la grande question.  Habituellement formulé dans
+la section des commentaires de YouTube comme "vous ne faites pas de
+
+47
+00:02:17,849 --> 00:02:18,938
+vidéos moar" ?
+
+48
+00:02:18,939 --> 00:02:22,468
+Donc, en moyenne, au cours des deux dernières années,
+j'ai posté une vidéo "Grey Explains" environ
+
+49
+00:02:22,469 --> 00:02:27,918
+toutes les cinq semaines, ce qui signifie que si je pouvais passer
+à un horaire hebdomadaire, mon revenu augmenterait *quin*.
+
+50
+00:02:27,919 --> 00:02:30,009
+Croyez-moi, je le ferais si je le pouvais.
+
+51
+00:02:30,010 --> 00:02:33,218
+J'ai déjà parlé du temps qu'il faut
+pour faire ces vidéos, mais l'un des autres
+
+52
+00:02:33,219 --> 00:02:36,638
+problèmes que je n'ai pas mentionné est le
+taux d'échec des projets.
+
+53
+00:02:36,639 --> 00:02:40,249
+Pour chaque vidéo que vous voyez, il y en a au moins deux
+ou trois qui n'ont pas été diffusées.
+
+54
+00:02:40,250 --> 00:02:43,878
+La plupart du temps, c'est juste un après-midi perdu
+à travailler sur une idée avant de réaliser que c'est
+
+55
+00:02:43,879 --> 00:02:48,259
+un raté, mais parfois il faut des semaines avant qu'un défaut fatal ne se
+révèle -- parfois je découvre
+
+56
+00:02:48,260 --> 00:02:51,979
+trop tard qu'un fait central de la vidéo n'est pas
+correct ou  , parfois tout le script est
+
+57
+00:02:51,980 --> 00:02:53,918
+simplement *ennuyeux*.
+
+58
+00:02:53,919 --> 00:02:57,729
+Quoi qu'il en soit, la décision de tuer une vidéo
+qui ne fonctionne pas est déprimante et frustrante en
+
+59
+00:02:57,730 --> 00:03:00,218
+raison du coût irrécupérable de toutes ces heures.
+
+60
+00:03:00,219 --> 00:03:04,858
+Les vidéos que vous voyez sont (pour la plupart) plutôt bonnes,
+précisément parce que je fais de mon mieux pour tuer
+
+61
+00:03:04,859 --> 00:03:09,699
+celles qui ne l'étaient pas - c'est pourquoi il n'y a pas
+de calendrier, et il ne pourra jamais y en avoir.
+
+62
+00:03:09,700 --> 00:03:11,089
+## Quelle est la plus grosse vidéo que vous ayez tué ?  --tyroncs
+
+63
+00:03:11,090 --> 00:03:16,808
+Le plus de temps que j'ai perdu était sur une vidéo importante
+pour convaincre le monde pourquoi *Settlers of Catan*
+
+64
+00:03:16,809 --> 00:03:18,589
+est le plus grand jeu de société jamais créé.
+
+65
+00:03:18,590 --> 00:03:22,449
+J'avais quelques milliers de mots comme
+point de départ, j'ai harcelé des gens pour des images d'un jeu désormais célèbre
+
+66
+00:03:22,450 --> 00:03:26,078
+qui s'est déroulé sur YouTube EDU, j'ai reçu un
+tas de vidéos aléatoires de mes
+
+67
+00:03:26,079 --> 00:03:29,929
+abonnés Twitter toujours utiles et un aperçu d'
+un 'Comment  pour lire la vidéo du didacticiel de Settlers of Catan
+
+68
+00:03:29,930 --> 00:03:31,149
+pour ma deuxième chaîne.
+
+69
+00:03:31,150 --> 00:03:34,669
+Mais le script n'a cessé de grandir et a
+commencé à ressembler plus à un film documentaire
+
+70
+00:03:34,670 --> 00:03:38,668
+sur la conception de jeux de société qu'à une vidéo YouTube
+- ce qui pourrait, selon qui vous êtes, sembler
+
+71
+00:03:38,669 --> 00:03:42,479
+vraiment intéressant, mais il avait le problème ennuyeux que
+j'ai mentionné précédemment.
+
+72
+00:03:42,480 --> 00:03:45,649
+Mon dernier effort pour sauver un projet comme
+celui-ci est de me débarrasser de tout, de travailler sur
+
+73
+00:03:45,650 --> 00:03:49,848
+autre chose pendant quelques jours, puis d'écrire
+un tout nouveau script à la main - ce que j'ai fait.
+
+74
+00:03:49,849 --> 00:03:55,068
+Mais ce script n'était toujours pas bon et des semaines
+après le début du projet, je l'ai mis de côté.  Mais
+
+75
+00:03:55,069 --> 00:03:59,598
+j'en parle maintenant parce que c'est une idée
+que je n'arrive toujours pas à lâcher et qui reviendra peut-être
+
+76
+00:03:59,599 --> 00:04:01,039
+un jour.
+
+77
+00:04:01,040 --> 00:04:03,218
+## Pourquoi n'engagez-vous pas des personnes pour vous aider ?
+--WhoAteEarth
+
+78
+00:04:03,219 --> 00:04:07,208
+C'est un vaste sujet qui mérite plus de temps,
+mais pour l'instant, permettez-moi de dire que le genre de travail
+
+79
+00:04:07,209 --> 00:04:11,548
+produit par des individus est très différent
+du genre de travail produit par des groupes.  L'une
+
+80
+00:04:11,549 --> 00:04:15,408
+n'est pas intrinsèquement meilleure que l'autre,
+mais je pense que les types de vidéos que j'ai réalisées
+
+81
+00:04:15,409 --> 00:04:19,119
+ont toutes bénéficié du fait d'être un projet
+individuel du début à la fin.
+
+82
+00:04:19,120 --> 00:04:20,278
+## Votre avis sur les koalas.  --blanket_warrior
+
+83
+00:04:20,279 --> 00:04:24,249
+Ils dorment 20 heures par jour -- ne
+seront jamais une civilisation basée sur les koalas avec ce genre
+
+84
+00:04:24,250 --> 00:04:25,249
+d'éthique de travail.
+
+85
+00:04:25,250 --> 00:04:28,289
+## Si vous pouviez transférer votre cerveau dans un
+corps robotique, le feriez-vous ?  --xyon21
+
+86
+00:04:28,290 --> 00:04:29,289
+Évidemment oui.
+
+87
+00:04:29,290 --> 00:04:32,439
+## Vous pouvez ajouter trois amendements à la
+constitution américaine.  Que font-ils?  --raloon
+
+88
+00:04:32,440 --> 00:04:36,409
+Oh, tant de changements tentants à faire.
+Du haut de ma tête, je dirais :
+
+89
+00:04:36,410 --> 00:04:40,059
+1. Abolissez le financement privé de toutes les élections
+et faites-les plutôt fonctionner à partir d'un pool limité
+
+90
+00:04:40,060 --> 00:04:41,059
+d'argent des contribuables.
+
+91
+00:04:41,060 --> 00:04:44,739
+2. Abolir le Sénat et le remplacer par
+une sorte d'organe proportionnel.
+
+92
+00:04:44,740 --> 00:04:48,909
+3. Renverser la clause de commerce inter-États
+- qui donne au gouvernement fédéral
+
+93
+00:04:48,910 --> 00:04:51,119
+trop de pouvoir sur les affaires des États.
+
+94
+00:04:51,120 --> 00:04:56,509
+Bien sûr, si c'était réellement ma responsabilité,
+je consulterais des experts plutôt que de
+
+95
+00:04:56,510 --> 00:04:58,459
+simplement y réfléchir pendant quelques jours.
+
+96
+00:04:58,460 --> 00:04:59,459
+Diriger un pays de 300 millions d'habitants est plus compliqué
+qu'il n'y paraît.
+
+97
+00:04:59,460 --> 00:05:01,049
+## Quels conseils donneriez-vous pour une
+vie réussie ?  --pringlesaddict99
+
+98
+00:05:01,050 --> 00:05:06,249
+Créez une boucle d'auto-évaluation dans votre vie.
+Si vous ne revoyez pas périodiquement vos actions,
+
+99
+00:05:06,250 --> 00:05:12,639
+leurs effets et votre processus de prise de décision,
+il y a de l'espoir pour une amélioration autre que le
+
+100
+00:05:12,640 --> 00:05:13,639
+hasard.
+
+101
+00:05:13,640 --> 00:05:17,579
+Je fais de très petites revues hebdomadaires et de plus grandes revues
+trimestrielles et annuelles de la façon dont ma vie
+
+102
+00:05:17,580 --> 00:05:24,599
+se déroule et de la façon dont je pourrais vouloir qu'elle soit différente
+à la fois de la plus grande et de la plus petite manière.
+
+103
+00:05:24,600 --> 00:05:28,949
+C'est le meilleur conseil de haut niveau que j'ai.
+Pour plus de conseils tactiques, je recommande deux livres :
+
+104
+00:05:28,950 --> 00:05:32,329
+un qui a changé ma vie *Getting Things Done*
+de David Allen et un autre qui pourrait changer la
+
+105
+00:05:32,330 --> 00:05:36,519
+vôtre : *So Good They Can't Ignore You* de
+Cal Newport.  Vous pouvez cliquer sur ces livres pour
+
+106
+00:05:36,520 --> 00:05:37,638
+lire mes critiques à leur sujet.
+
+107
+00:05:37,639 --> 00:05:40,239
+## Avez-vous fait une vidéo dont vous n'aimez pas la façon dont
+elle est sortie ?  --Gourounaki
+
+108
+00:05:40,240 --> 00:05:45,059
+À l'exception des vidéos de 2012 et de Hollande
+, je suis mécontent de *toutes*.  Je
+
+109
+00:05:45,060 --> 00:05:49,859
+ne regarde pas mes propres vidéos après le téléchargement si
+je peux éventuellement l'éviter : ce sont des cimetières
+
+110
+00:05:49,860 --> 00:05:51,209
+de ce qui aurait pu être.
+
+111
+00:05:51,210 --> 00:05:53,259
+## Chaînes YouTube non éducatives préférées ?
+--DB101
+
+112
+00:05:53,260 --> 00:05:57,479
+1er : Gants et bottes, qui, je suis surpris, n'ont pas
+encore obtenu TOUS LES ABONNÉS.  2ème : Je suis
+
+113
+00:05:57,480 --> 00:06:01,169
+aussi un grand fan de Yahtzee, le Roger Ebert
+des jeux vidéo.
+
+114
+00:06:01,170 --> 00:06:05,319
+## Quel a été votre premier souvenir d'internet ?
+Le mien joue à des jeux flash.  --vicorator Le
+
+115
+00:06:05,320 --> 00:06:09,679
+mien est B.B.S.s.  Maintenant, sors de ma pelouse et va
+regarder ce documentaire espèce d'enfoiré.
+
+116
+00:06:09,680 --> 00:06:10,949
+## Qui sont vos héros ?  --reed17
+
+117
+00:06:10,950 --> 00:06:12,369
+Principalement Dark Seer et Necrolyte.
+
+118
+00:06:12,370 --> 00:06:14,189
+## Qu'est-ce que tu trouves le plus difficile quand tu fais une
+vidéo ?  --willdood
+
+119
+00:06:14,190 --> 00:06:18,189
+L'écriture du script est la plus difficile et malheureusement
+c'est le goulot d'étranglement de tout le processus.
+
+120
+00:06:18,190 --> 00:06:22,559
+La partie la plus * inconfortable * est l'édition de l'
+audio.  Comme tout le monde, il y a une
+
+121
+00:06:22,560 --> 00:06:25,909
+voix dans ma tête que j'aime et une voix sur
+la bande que je n'aime pas.
+
+122
+00:06:25,910 --> 00:06:28,189
+## L'une de vos réponses à votre précédente
+Q&R a-t-elle changé ?  --MessiahPenguin
+
+123
+00:06:28,190 --> 00:06:30,749
+Vous faites probablement référence à ceux-ci, et non.
+
+124
+00:06:30,750 --> 00:06:32,529
+## Combien de temps survivriez-vous à une apocalypse zombie ?
+--One_Wheel_Drive
+
+125
+00:06:32,530 --> 00:06:37,419
+Je ne le ferais pas.  Si une apocalypse zombie de style Walking-Dead se produit,
+la bonne ligne de conduite
+
+126
+00:06:37,420 --> 00:06:39,019
+est le suicide.
+
+127
+00:06:39,020 --> 00:06:40,749
+## Qu'écoutez-vous lorsque vous faites des vidéos ?
+--syphen94
+
+128
+00:06:40,750 --> 00:06:44,729
+Ma musique d'écriture la plus fiable est
+"All Day" de Girl Talk, que je mettrais en lien sur YouTube,
+
+129
+00:06:44,730 --> 00:06:48,739
+mais c'est une tâche de violation du droit d'auteur.  Mais
+vous pouvez l'obtenir sur son site Web et si vous
+
+130
+00:06:48,740 --> 00:06:51,319
+aimez les remix, vous devriez l'écouter.
+
+131
+00:06:51,320 --> 00:06:54,659
+Cependant, je reçois souvent une chanson terrible au hasard
+dans ma tête en écrivant et je finis par l'
+
+132
+00:06:54,660 --> 00:06:59,459
+acheter et la répéter - pendant des heures.  Pour
+ce script, mon iTunes révèle que j'ai écouté
+
+133
+00:06:59,460 --> 00:07:05,439
+une seule chanson 127 fois.  C'est peut-être de la torture
+dans certaines juridictions, mais la répétitivité
+
+134
+00:07:05,440 --> 00:07:07,269
+m'oblige vraiment à écrire.
+
+135
+00:07:07,270 --> 00:07:12,529
+L'animation, cependant, est incroyablement fastidieuse,
+alors j'écoute une tonne de podcasts et de livres audio
+
+136
+00:07:12,530 --> 00:07:13,658
+pour garder ma santé mentale.
+
+137
+00:07:13,659 --> 00:07:15,919
+## Quel est le "aurait pu être" le plus intéressant
+de l'histoire ?  --SCE-2-AUX Les
+
+138
+00:07:15,920 --> 00:07:19,419
+historiques qui auraient pu être me frappent surtout
+comme un exercice de réflexion qui manque le point.
+
+139
+00:07:19,420 --> 00:07:23,409
+Le véritable moteur de l'histoire n'est ni les grands
+hommes ni les actions des masses mais la
+
+140
+00:07:23,410 --> 00:07:27,699
+marche incessante de la science et de la technologie,
+qui est la plupart du temps indifférente aux lignes imaginaires
+
+141
+00:07:27,700 --> 00:07:29,739
+tracées par des meutes de singes.
+
+142
+00:07:29,740 --> 00:07:33,349
+Connaissant mon point de vue, vous comprendrez pourquoi si je
+* devais * en choisir une, ce serait cette
+
+143
+00:07:33,350 --> 00:07:36,329
+machine à vapeur grecque primitive inventée il y a 2 000 ans.
+
+144
+00:07:36,330 --> 00:07:39,919
+Il y a des raisons pour lesquelles il n'a pas été développé
+davantage, mais si un riche Grec était devenu
+
+145
+00:07:39,920 --> 00:07:43,799
+obsédé par la technologie, nous aurions peut-
+être eu une révolution industrielle deux millénaires
+
+146
+00:07:43,800 --> 00:07:48,109
+plus tôt et nous serions maintenant une civilisation trans-galactique post-singularité
+.  Avec des corps de robot.
+
+147
+00:07:48,110 --> 00:07:51,199
+## Quelle est la chose la plus britannique que vous ayez
+rencontrée et que vous n'arrivez pas à comprendre ?
+
+148
+00:07:51,200 --> 00:07:52,199
+--vikihogg
+
+149
+00:07:52,200 --> 00:07:56,349
+L'idée que la meilleure façon de se rafraîchir
+un jour d'été tout en étant confiné dans un bureau non climatisé
+
+150
+00:07:56,350 --> 00:08:01,559
+est de boire du thé chaud.  Folie,
+folie absolue.
+
+151
+00:08:01,560 --> 00:08:03,279
+## Faut-il créer un langage universel ?
+--vsa11
+
+152
+00:08:03,280 --> 00:08:05,779
+Nous l'avons déjà fait, ce n'est tout simplement pas très universel.
+
+153
+00:08:05,780 --> 00:08:08,009
+## Quelle question voulez-vous que je vous pose le
+plus ?  --Gregorian_Hawke
+
+154
+00:08:08,010 --> 00:08:09,009
+Hmmm…
+
+155
+00:08:09,010 --> 00:08:12,499
+## J'adore vos vidéos et j'ai même regardé
+celle-ci un peu ennuyeuse jusqu'à la toute fin.
+
+156
+00:08:12,500 --> 00:08:13,859
+Comment puis-je vous aider ?  --Gregorian_Hawke
+
+157
+00:08:13,860 --> 00:08:15,689
+Je suis content que vous ayez demandé à Gregorian_Hawke.
+
+158
+00:08:15,690 --> 00:08:19,869
+La meilleure façon est de vous abonner à subbable
+où vous pouvez obtenir des affiches signées et d'autres
+
+159
+00:08:19,870 --> 00:08:24,949
+choses, et il y a aussi des t-shirts et des
+tasses de dépendance (et des lance-flammes) chez DFTBA.
+
+160
+00:08:24,950 --> 00:08:28,399
+Eh bien Internet, ça a été amusant.  Et je suis désolé
+si votre question n'a pas été incluse dans cette
+
+161
+00:08:28,400 --> 00:08:32,718
+vidéo - il y avait des tas de choses que j'ai dû couper - mais
+maintenant que nous sommes dans ce domaine de chiffres si
+
+162
+00:08:32,719 --> 00:08:37,327
+gros qu'ils n'ont pas de sens, peut-être que je  transformera les
+questions et réponses en une chose aléatoire occasionnelle plutôt
+
+163
+00:08:37,328 --> 00:08:40,609
+qu'en attendant une base dix
+arbitraire.
+
+164
+00:08:40,610 --> 00:08:44,628
+Merci encore à tous pour votre
+soutien continu et merci de vous être abonné et
+
+165
+00:08:44,629 --> 00:08:47,509
+d'avoir regardé - ces deux dernières années ont
+été une sacrée aventure.
+

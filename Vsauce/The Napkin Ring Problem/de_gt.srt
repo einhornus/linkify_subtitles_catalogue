@@ -1,0 +1,496 @@
+1
+00:00:02,409 --> 00:00:10,289
+Hey, Vsoße!  Michael hier!  Wenn Sie eine Kugel entkernen;  Das heißt, entfernen Sie einen Zylinder daraus, und Sie erhalten eine Form
+
+2
+00:00:10,290 --> 00:00:14,979
+namens Serviettenring, weil sie wie ein Serviettenring aussieht!
+
+3
+00:00:14,980 --> 00:00:20,099
+Es ist eine bizarre Form, denn wenn zwei Serviettenringe die gleiche Höhe haben,
+
+4
+00:00:20,100 --> 00:00:24,639
+haben sie das gleiche Volumen, unabhängig von der Größe der Kugeln, aus denen sie stammen!  (Cool)
+
+5
+00:00:24,640 --> 00:00:30,579
+Das heißt, wenn man aus einer Orange und aus der Erde gleich große Serviettenringe schneidet,
+
+6
+00:00:30,580 --> 00:00:35,199
+naja, man könnte einen in der Hand halten.  Der andere hätte den Umfang unseres gesamten Planeten,
+
+7
+00:00:35,200 --> 00:00:39,339
+aber beide hätten das gleiche Volumen ...
+
+8
+00:00:39,340 --> 00:00:45,328
+Ich erwähnte diese kontraintuitive Tatsache, als ich mit Adam Savage ein Kendama machte.  Schauen Sie sich das Video an, wenn Sie es noch nicht getan haben, oder noch besser,
+
+9
+00:00:45,329 --> 00:00:51,959
+kommen Sie einfach zu uns.  Wir bringen diesen Herbst Brain Candy live in 24 neue Städte.  Es wird viel los sein, aber im
+
+10
+00:00:51,960 --> 00:00:56,349
+Moment sprechen wir über Bälle und das Entkernen!
+
+11
+00:00:56,350 --> 00:01:02,139
+Ich habe hier ZWEI Serviettenringe aus sehr unterschiedlich großen Kugeln;  Einer ist aus einer winzigen Kugel,
+
+12
+00:01:02,140 --> 00:01:05,709
+nur einer kleinen Tomate, die ich entkernt habe, also hat sie genau dort ein kleines Loch.
+
+13
+00:01:05,710 --> 00:01:08,128
+Der andere Serviettenring ist aus einer Orange,
+
+14
+00:01:08,129 --> 00:01:12,879
+aber beide Serviettenringe haben die gleiche Höhe.  Die Tomate hat einen kleineren
+
+15
+00:01:12,880 --> 00:01:20,279
+Umfang als die Orange, was weniger Volumen bedeutet, aber ihr Ring ist dicker, was mehr Volumen bedeutet.  Beide Effekte
+
+16
+00:01:20,280 --> 00:01:31,559
+heben sich genau auf.  Diese beiden Serviettenringe haben also das gleiche Volumen, sie nehmen den gleichen Platz ein.
+
+17
+00:01:31,560 --> 00:01:34,269
+Übrigens ist Orangenöl brennbar.
+
+18
+00:01:34,270 --> 00:01:37,239
+Um zu sehen, warum das Serviettenringproblem wahr ist,
+
+19
+00:01:37,240 --> 00:01:44,769
+lassen Sie uns das Prinzip von Cavalieri besprechen.  Es besagt, dass für zwei beliebige Körper wie diese zwei Zylinder, die ich
+
+20
+00:01:44,770 --> 00:01:49,868
+hier zwischen parallelen Ebenen gebaut habe, wenn eine andere parallele Ebene
+
+21
+00:01:49,869 --> 00:01:54,298
+beide in Bereichen gleicher Fläche schneidet, egal woher sie genommen wird.
+
+22
+00:01:54,299 --> 00:02:02,618
+Nun, dann haben die Körper das gleiche Volumen.  Das ist eindeutig wahr, hier sind diese Zylinder aus Stapeln von VSauce-Aufklebern
+
+23
+00:02:02,619 --> 00:02:06,289
+100 in jedem Stapel gebaut, so dass ihre Volumina gleich sind,
+
+24
+00:02:06,290 --> 00:02:07,909
+wenn ich
+
+25
+00:02:07,910 --> 00:02:15,429
+einen von ihnen so schiefe, ändert sich seine Form, aber sein Volumen hat nicht immer noch die gleiche Menge von  Sachen, die
+
+26
+00:02:15,430 --> 00:02:18,169
+ich nicht hinzugefügt oder entfernt habe Aufkleber
+
+27
+00:02:18,170 --> 00:02:25,539
+Und das Prinzip von Cavalieri sorgt dafür, dass sie immer noch das gleiche Volumen haben, weil jeder Querschnitt, der von hier unten hier oben in der Mitte irgendwo genommen
+
+28
+00:02:25,540 --> 00:02:33,279
+wird, uns immer eine Region mit der gleichen Fläche wie die anderen gibt, weil diese  Regionen sind immer flächengleiche Kreise.
+
+29
+00:02:33,280 --> 00:02:37,339
+Wenden wir nun das Cavalieri-Prinzip auf Serviettenringe an.
+
+30
+00:02:37,340 --> 00:02:40,879
+Wir können sehen, dass zwei Serviettenringe mit ähnlichen Höhen
+
+31
+00:02:40,880 --> 00:02:46,639
+identische Volumina haben, indem wir zeigen, dass, wenn sie von einer Ebene geschnitten werden, die Fläche des einen Querschnitts
+
+32
+00:02:46,640 --> 00:02:49,719
+immer gleich der Fläche der anderen ist.
+
+33
+00:02:49,720 --> 00:02:56,829
+Beachten Sie, dass die Fläche  des Kugelquerschnitts minus der Fläche des Zylinderquerschnitts ergibt die Fläche des Serviettenringquerschnitts
+
+34
+00:02:56,830 --> 00:03:01,819
+.  Je nachdem, wo wir den Serviettenring schneiden, haben die Querschnitte unterschiedliche Bereiche,
+
+35
+00:03:01,820 --> 00:03:08,809
+aber sie sind immer gleich.  Lassen Sie uns die Flächen dieser blauen Ringe berechnen.
+
+36
+00:03:08,810 --> 00:03:18,169
+Nennen wir zunächst die Höhe des Serviettenrings h und den Radius der Kugel, die sie aus dem großen R schneiden.
+
+37
+00:03:18,170 --> 00:03:25,629
+Okay, perfekt jetzt ein Querschnitt einer Kugel wie dieser und ein Querschnitt von  Ein Zylinder wie dieser sind beides Kreise.
+
+38
+00:03:25,630 --> 00:03:30,019
+Ihre Flächen können also bestimmt werden, indem Pi multipliziert mit dem Radius zum Quadrat verwendet wird.
+
+39
+00:03:30,020 --> 00:03:37,509
+Wenn wir also die Fläche des Kugelquerschnitts ermitteln und die Fläche des Zylinderquerschnitts subtrahieren wollen
+
+40
+00:03:37,510 --> 00:03:41,839
+(ich zeichne ein Bild von  ein Zylinder hier), alles, was wir tun müssen, ist, Pi zu nehmen,
+
+41
+00:03:41,840 --> 00:03:45,409
+es mit dem Radius des
+
+42
+00:03:45,410 --> 00:03:53,329
+Quadrats des Kugelquerschnitts zu multiplizieren und dann Pi mal den Radius des Quadrats des Zylinders zu subtrahieren, aber was sind ihre Radien?
+
+43
+00:03:53,330 --> 00:04:01,059
+Nun, wenn dies der Mittelpunkt der Kugel ist, können wir eine Linie gerade bis zur Ecke des Zylinders entlang der
+
+44
+00:04:01,060 --> 00:04:05,679
+Seite des Zylinders ziehen und dann verbinden, um ein rechtwinkliges Dreieck zu bilden.
+
+45
+00:04:05,680 --> 00:04:12,439
+Der Satz des Pythagoras wird uns hier wirklich helfen, er sagt uns, dass die  Die Länge einer Seite zum Quadrat plus die Länge der anderen Seite zum
+
+46
+00:04:12,440 --> 00:04:16,778
+Quadrat ist gleich der Länge der Hypotenuse zum Quadrat.
+
+47
+00:04:16,779 --> 00:04:20,909
+Nun, dieser Abstand genau hier, diese Seite des Dreiecks, was wir wollen.
+
+48
+00:04:20,910 --> 00:04:29,079
+Es ist der Radius des Zylinders, also nennen wir ihn den kleinen r-Radius  des Zylinders (schönes kleines Bild dort)
+
+49
+00:04:29,080 --> 00:04:31,388
+also der Radius
+
+50
+00:04:31,389 --> 00:04:34,839
+des Zylinders zum
+
+51
+00:04:34,840 --> 00:04:37,029
+Quadrat plus
+
+52
+00:04:37,030 --> 00:04:44,019
+diese Seitenlänge, die gerade mal die Hälfte der Höhe des Zylinders ist, also ist die Höhe des Zylinders dividiert durch 2 zum
+
+53
+00:04:44,020 --> 00:04:45,369
+Quadrat
+
+54
+00:04:45,370 --> 00:04:53,349
+gleich der Hypotenuse zum Quadrat der Hypotenuse  Der Radius der Kugel selbst, der das große R
+
+55
+00:04:53,350 --> 00:04:57,179
+Perfect ist, lösen wir jetzt nach dem Radius des Zylinders auf.  Was wir wollen.
+
+56
+00:04:57,180 --> 00:05:05,168
+Wir subtrahieren einfach h über 2 zum Quadrat von beiden Seiten, was uns den Radius des Zylinders zum Quadrat ergibt, der
+
+57
+00:05:05,169 --> 00:05:08,469
+gleich dem Radius der Kugel zum Quadrat minus der
+
+58
+00:05:08,470 --> 00:05:10,959
+Hälfte der Höhe des Zylinders zum Quadrat ist.
+
+59
+00:05:10,960 --> 00:05:17,888
+Wir können die Quadratwurzel daraus ziehen  beide Seiten, so dass der Radius des Zylinders
+
+60
+00:05:17,889 --> 00:05:21,879
+gleich der Quadratwurzel aus dem Radius der Kugel
+
+61
+00:05:21,880 --> 00:05:25,149
+minus 1/2 der Höhe des Zylinders im Quadrat ist
+
+62
+00:05:25,150 --> 00:05:32,439
+Perfekt ok jetzt schauen wir uns die Fläche eines Querschnitts an  Kugel Jetzt
+
+63
+00:05:32,440 --> 00:05:38,228
+ziehen wir dafür eine gerade Linie von der Mitte nach außen zum Rand des
+
+64
+00:05:38,229 --> 00:05:44,649
+Kugelquerschnitts, und wir gehen direkt nach unten und verbinden uns wieder nach oben, hey schau!  Ein weiteres rechtwinkliges Dreieck
+
+65
+00:05:44,650 --> 00:05:48,699
+, nennen wir diese Höhe y.
+
+66
+00:05:48,700 --> 00:05:55,679
+Beachten Sie, dass dieser Abstand jetzt die Seite des Dreiecks hier unten tatsächlich der
+
+67
+00:05:55,680 --> 00:05:57,969
+Radius des
+
+68
+00:05:57,970 --> 00:06:05,109
+Kreisquerschnitts hier oben ist.  Sie sind beide gleich, also wollen wir sogar den Radius des Kreises lösen, der der Querschnitt der Kugel ist.
+
+69
+00:06:05,110 --> 00:06:05,709
+Okay
+
+70
+00:06:05,710 --> 00:06:08,948
+, wir wissen also, dass der Radius des
+
+71
+00:06:08,949 --> 00:06:14,829
+Querschnitts der Kugel zum Quadrat plus dieser Distanz zum Quadrat (das ist y)
+
+72
+00:06:14,830 --> 00:06:21,159
+gleich ist  Hypotenuse zum Quadrat gut, was weißt du, die Hypotenuse ist wieder der Radius der Kugel (großes R)
+
+73
+00:06:21,160 --> 00:06:27,819
+Ok, subtrahieren wir y zum Quadrat von beiden Seiten. Der Radius des Kugelquerschnitts zum Quadrat ist
+
+74
+00:06:27,820 --> 00:06:31,749
+gleich dem Radius der Kugel zum Quadrat minus
+
+75
+00:06:31,750 --> 00:06:36,019
+Y zum Quadrat  die Quadratwurzel aus beiden Seiten und
+
+76
+00:06:36,020 --> 00:06:41,029
+lernen am Ende, dass der Radius des Kugelquerschnitts gleich der Quadratwurzel aus dem Quadrat des
+
+77
+00:06:41,030 --> 00:06:45,499
+Radius der Kugel minus y zum Quadrat ist.  Y ist die Höhe dieses
+
+78
+00:06:45,500 --> 00:06:53,569
+Querschnitts über dem Äquator, je höher wir diese Querschnitte der Kugel nehmen, desto kleiner werden ihre Radien,
+
+79
+00:06:53,570 --> 00:06:58,009
+während der Zylinderradius immer gleich ist, egal von wo aus
+
+80
+00:06:58,010 --> 00:07:01,609
+wir schneiden  diese beiden Radien und setze sie in unsere Formel ein.
+
+81
+00:07:01,610 --> 00:07:06,079
+Okay, zuerst wollen wir die Fläche des Kugelquerschnitts.
+
+82
+00:07:06,080 --> 00:07:10,579
+Okay, das ist nur die Quadratwurzel von R zum Quadrat minus y zum Quadrat.
+
+83
+00:07:10,580 --> 00:07:18,039
+Nicht so schlimm, jetzt ist der Radius des Zylinders das Quadrat  Wurzel aus R zum Quadrat minus die
+
+84
+00:07:18,040 --> 00:07:25,549
+halbe Höhe des Zylinders zum Quadrat. Was Sie vielleicht bemerken, ist, dass wir die Quadratwurzel von etwas ziehen und dann quadrieren.
+
+85
+00:07:25,550 --> 00:07:28,339
+Diese heben sich tatsächlich
+
+86
+00:07:28,340 --> 00:07:30,369
+perfekt auf!  Viel einfacher aussehend
+
+87
+00:07:30,370 --> 00:07:38,659
+Aber nun verteilen wir Pi auf die Terme innerhalb der Klammern, also ergibt Pi mal R zum
+
+88
+00:07:38,660 --> 00:07:44,149
+Quadrat Pi mal R zum Quadrat Pi mal negativ y zum Quadrat gibt uns negatives Pi y zum Quadrat
+
+89
+00:07:44,150 --> 00:07:46,189
+Dann ist ein negatives Pi mal R zum
+
+90
+00:07:46,190 --> 00:07:54,859
+Quadrat ein negatives Pi R zum Quadrat ein negatives Pi  mal negativ h über 2 zum Quadrat ist positiv Pi
+
+91
+00:07:54,860 --> 00:07:56,659
+h über 2 zum
+
+92
+00:07:56,660 --> 00:08:03,219
+Quadrat.  Großartig, jetzt können wir weiter vereinfachen, aber was Sie vielleicht bemerken, ist, dass wir ein Pi r zum Quadrat und ein
+
+93
+00:08:03,220 --> 00:08:07,039
+Minus-Pi R zum Quadrat haben, nun, das ist gleich 0, also
+
+94
+00:08:07,040 --> 00:08:11,299
+heben sich diese vollständig auf, aber was übrig bleibt, sind
+
+95
+00:08:11,300 --> 00:08:18,359
+Terme, die enthalten  keine Erwähnung des Kugelradius ob der Radius groß oder klein ist
+
+96
+00:08:18,360 --> 00:08:23,299
+spielt keine Rolle alles was man wissen muss um die Fläche des Querschnitts eines Serviettenrings zu finden
+
+97
+00:08:23,300 --> 00:08:25,579
+ist die Höhe des Serviettenrings
+
+98
+00:08:25,580 --> 00:08:32,219
+Y wird natürlich durch die begrenzt  Höhe eines Serviettenrings haben diese blauen Bereiche die gleiche Fläche und
+
+99
+00:08:32,220 --> 00:08:41,019
+dies gilt unabhängig davon, wo wir den Querschnitt über den Serviettenring schneiden, was nach Cavalieris Prinzip bedeutet, dass beide Serviettenringe das gleiche
+
+100
+00:08:41,020 --> 00:08:43,099
+Volumen haben
+
+101
+00:08:43,100 --> 00:08:47,699
+Yay :3
+
+102
+00:08:47,700 --> 00:08:50,019
+(mit Zähnen  )
+
+103
+00:08:50,020 --> 00:08:54,279
+Aber was bedeutet das für dich für das Leben im Universum?
+
+104
+00:08:54,280 --> 00:08:58,779
+Nun, wie wir wissen, wenn Sie es mögen, sollten Sie einen Ring daran anbringen,
+
+105
+00:08:58,780 --> 00:09:00,679
+aber wenn Sie es mögen,
+
+106
+00:09:00,680 --> 00:09:05,199
+nicht wissen, dass es fingerbreit ist und ihm nur eine vorbestimmte Menge an Material bieten möchten,
+
+107
+00:09:05,200 --> 00:09:09,639
+sollten Sie einen Serviettenring daran anbringen.
+
+108
+00:09:09,640 --> 00:09:11,899
+Und wie immer
+
+109
+00:09:11,900 --> 00:09:21,459
+danke fürs Zuschauen :D
+
+110
+00:09:21,460 --> 00:09:23,859
+Am 21. August
+
+111
+00:09:23,860 --> 00:09:31,599
+2017 wird es eine totale Sonnenfinsternis geben, der Schatten des Mondes wird über die angrenzenden Vereinigten Staaten rasen.
+
+112
+00:09:31,600 --> 00:09:35,489
+Es wird unglaublich und ein bisschen beängstigend.
+
+113
+00:09:35,490 --> 00:09:42,039
+Ich bin mir sicher, dass ich es mir ansehen werde  aus Oregon mit meinen Freunden bei Atlas, Obscura.  Ich kann es kaum erwarten, aber halten Sie Ihre Augen
+
+114
+00:09:42,040 --> 00:09:52,819
+sicher, wenn Sie die Sonnenfinsternis sehen möchten, müssen Sie einen speziellen
+
+115
+00:09:52,820 --> 00:10:00,399
+Augenschutz haben  Die Sonne ist das, was ich an dieser Brille liebe.
+
+116
+00:10:00,400 --> 00:10:04,059
+Es findet keine Sonnenfinsternis statt.  Sie können immer noch einfach in die Sonne schauen.
+
+117
+00:10:04,060 --> 00:10:07,679
+Beachten Sie, dass es sich um einen Ball handelt.  Stellen Sie sich vielleicht vor, zu was für einem Serviettenring
+
+118
+00:10:07,680 --> 00:10:09,789
+Sie ihn machen möchten.  Die aktuelle
+
+119
+00:10:09,790 --> 00:10:15,539
+Curiosity Box ist mein Favorit.  Die, die Sie erhalten, wenn Sie sich jetzt anmelden, enthält alle möglichen coolen Sachen, die mit
+
+120
+00:10:15,540 --> 00:10:23,539
+einem Poster geliefert werden, das zeigt, dass alle Planeten und Pluto zwischen Erde und Mond passen, und es enthält auch wissenschaftliche Geräte wie diese
+
+121
+00:10:23,540 --> 00:10:26,499
+schwebenden Magnetringe
+
+122
+00:10:26,500 --> 00:10:32,109
+Ziemlich cool, auch ein Teil aller Erlöse geht an die Alzheimer-Forschung, also ist es gut für Ihr Gehirn und
+
+123
+00:10:32,110 --> 00:10:41,338
+das Gehirn aller anderen.  Ich hoffe, Sie bei Brain Candy live zu sehen und danke wie immer
+
+124
+00:10:41,339 --> 00:10:43,339
+fürs Zuschauen
+

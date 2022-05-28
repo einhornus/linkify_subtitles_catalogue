@@ -1,0 +1,1175 @@
+1
+00:00:00,000 --> -1:59:59,999
+[zabawna, instrumentalna muzyka syntezatorów powoli cichnie]
+Wiesz...
+
+2
+00:00:00,000 --> 00:00:00,959
+Wiesz...
+
+3
+00:00:00,960 --> 00:00:03,751
+Sześciokąty to bestagons.
+
+4
+00:00:03,752 --> 00:00:04,428
+Czemu?
+
+5
+00:00:04,429 --> 00:00:05,722
+Ponieważ pszczoły.
+
+6
+00:00:05,723 --> 00:00:06,835
+Pszczoły są najlepsze
+
+7
+00:00:06,836 --> 00:00:09,300
+i budują tylko bestagon, sześciokąt.
+
+8
+00:00:09,301 --> 00:00:10,529
+Teraz wiem, o czym myślisz.
+
+9
+00:00:10,530 --> 00:00:12,939
+Pszczoły budują sześciokąty, ponieważ są
+
+10
+00:00:12,940 --> 00:00:14,129
+sześciokątami z sześciokątnymi oczami.
+
+11
+00:00:14,130 --> 00:00:15,759
+Jak mogli postąpić inaczej?
+
+12
+00:00:15,760 --> 00:00:16,709
+Doskonały punkt.
+
+13
+00:00:16,710 --> 00:00:19,819
+Ale skromny głupek ma do rozwiązania problem inżynieryjny.
+
+14
+00:00:19,820 --> 00:00:22,159
+Robi dwie rzeczy: miód i wosk.
+
+15
+00:00:22,160 --> 00:00:23,169
+Pierwszy do jedzenia,
+
+16
+00:00:23,170 --> 00:00:25,029
+a drugi do przechowywania pierwszego.
+
+17
+00:00:25,030 --> 00:00:26,459
+Aby zrobić choć trochę miodu
+
+18
+00:00:26,460 --> 00:00:28,569
+, musi odwiedzićwiele kwiatów.
+
+19
+00:00:28,570 --> 00:00:30,149
+A żeby wyprodukować jedną jednostkę wosku
+
+20
+00:00:30,150 --> 00:00:31,769
+, potrzebuje ośmiu jednostek miodu.
+
+21
+00:00:31,770 --> 00:00:33,859
+Wosk jest kosztowny dla pszczół pod względem kwiatowym,
+
+22
+00:00:33,860 --> 00:00:35,859
+a miód jest kapiący pod względem spożywczym,
+
+23
+00:00:35,860 --> 00:00:38,299
+więc stworzenie ula zawierającego maksymalną ilość miodu
+
+24
+00:00:38,300 --> 00:00:41,319
+przy użyciu minimalnej ilości wosku jest niezwykle ważne.
+
+25
+00:00:41,320 --> 00:00:43,159
+Tak więc przypuszczenie o strukturze plastra miodu.
+
+26
+00:00:43,160 --> 00:00:44,769
+Który kształt sprawdza się najlepiej?
+
+27
+00:00:44,770 --> 00:00:46,469
+Aby odpowiedzieć, musimy porozmawiać o kafelkach.
+
+28
+00:00:46,470 --> 00:00:49,439
+Płytki pokrywają powierzchnię wzorem wielokątów.
+
+29
+00:00:49,440 --> 00:00:50,579
+Jest wiele opcji,
+
+30
+00:00:50,580 --> 00:00:52,219
+ponieważ jest wiele wielokątów.
+
+31
+00:00:52,220 --> 00:00:54,519
+Nawet stali bywalcy idą w nieskończoność.
+
+32
+00:00:54,520 --> 00:00:55,919
+Teraz dla pszczół zbierających wzory,
+
+33
+00:00:55,920 --> 00:00:57,069
+te bardziej skomplikowane
+
+34
+00:00:57,070 --> 00:00:59,509
+oczywiście używają więcej linii niż to konieczne.
+
+35
+00:00:59,510 --> 00:01:01,159
+To właśnie oznacza skomplikowane.
+
+36
+00:01:01,160 --> 00:01:02,879
+A zatem plaster miodu z tej
+
+37
+00:01:02,880 --> 00:01:04,699
+płytki zużyłby więcej wosku na miód.
+
+38
+00:01:04,700 --> 00:01:06,159
+Trzymając się prostych stałych bywalców,
+
+39
+00:01:06,160 --> 00:01:08,239
+są tylko trzy takie płytki.
+
+40
+00:01:08,240 --> 00:01:09,849
+Trójkąt, kwadrat i sześciokąt.
+
+41
+00:01:09,850 --> 00:01:12,259
+Pięciokąty to połamane sześciokąty pozostawiające luki.
+
+42
+00:01:12,260 --> 00:01:13,399
+To samo z septagonami.
+
+43
+00:01:13,400 --> 00:01:14,549
+Ośmiokąty są w porządku,
+
+44
+00:01:14,550 --> 00:01:15,829
+ale nie są sześciokątami.
+
+45
+00:01:15,830 --> 00:01:18,479
+Co pozostawia trio kafelków, które układa płytki inaczej.
+
+46
+00:01:18,480 --> 00:01:20,189
+Kwadrat to kwadrat kwadratów,
+
+47
+00:01:20,190 --> 00:01:22,189
+który jest kwadratem kwadratów i tak dalej.
+
+48
+00:01:22,190 --> 00:01:24,419
+Squares układa się porządnie, po prostu oszukując.
+
+49
+00:01:24,420 --> 00:01:26,029
+Pokrycie nieskończonej płaszczyzny
+
+50
+00:01:26,030 --> 00:01:28,029
+nieskończoną liczbą równoległych linii.
+
+51
+00:01:28,030 --> 00:01:30,809
+Na przykład, wow, tym właśnie jest samolot.
+
+52
+00:01:30,810 --> 00:01:31,749
+Nudny!
+
+53
+00:01:31,750 --> 00:01:33,179
+Trójkąty stosują tę samą sztuczkę,
+
+54
+00:01:33,180 --> 00:01:35,549
+dzieląc się na nieskończoną nicość.
+
+55
+00:01:35,550 --> 00:01:36,999
+Ale nie sześciokąt!
+
+56
+00:01:37,000 --> 00:01:38,529
+Jedyny regularny wielokąt
+
+57
+00:01:38,530 --> 00:01:42,019
+do układania płaszczyzny bez uciekania się do deprecjonowania samopodziału, w
+
+58
+00:01:42,020 --> 00:01:43,789
+przeciwieństwie do niektórych kwadratów, o których mógłbym wspomnieć.
+
+59
+00:01:43,790 --> 00:01:45,209
+Przynajmniej trójkąt stara się być
+
+60
+00:01:45,210 --> 00:01:47,209
+bardziej interesujący geometrycznie niż kwadrat,
+
+61
+00:01:47,210 --> 00:01:48,339
+łącząc się trochę w…
+
+62
+00:01:48,340 --> 00:01:49,809
+jeden, dwa, trzy, cztery, pięć, sześć.
+
+63
+00:01:49,810 --> 00:01:50,689
+Czekaj, sześciokąt!
+
+64
+00:01:50,690 --> 00:01:52,019
+Inne kształty nic na to nie poradzą.
+
+65
+00:01:52,020 --> 00:01:54,109
+Po prostu chcą być najlepszymi bestiami.
+
+66
+00:01:54,110 --> 00:01:55,299
+Nawet niektóre nieregularne,
+
+67
+00:01:55,300 --> 00:01:57,139
+takie jak romb, układane są na sześcianie.
+
+68
+00:01:57,140 --> 00:01:58,679
+To samo z twoimi triakis tilis,
+
+69
+00:01:58,680 --> 00:02:01,289
+[z trudem]
+i trójkątnymi trójkątami deltoidalnymi,
+
+70
+00:02:01,290 --> 00:02:03,329
+[z ciągłymi trudnościami]
+oraz twoimi, ach, kisrhombille
+
+71
+00:02:03,330 --> 00:02:06,609
+[ze śmiechem]
+i pięciokątami floret.
+
+72
+00:02:06,610 --> 00:02:07,979
+Posłuchaj, wszystkie to tylko sześciokąty.
+
+73
+00:02:07,980 --> 00:02:09,159
+Nawet płytki Kairu
+
+74
+00:02:09,160 --> 00:02:10,149
+(biedne pięciokąty)
+
+75
+00:02:10,150 --> 00:02:13,259
+układają się najlepiej jak potrafią, tworząc nierówny sześciokąt.
+
+76
+00:02:13,260 --> 00:02:16,029
+Reszta po prostu nie może konkurować z najlepszymi.
+
+77
+00:02:16,030 --> 00:02:16,839
+Sześciokąt,
+
+78
+00:02:16,840 --> 00:02:18,409
+szlachetnie niepodzielny,
+
+79
+00:02:18,410 --> 00:02:19,789
+jest bestagonem.
+
+80
+00:02:19,790 --> 00:02:21,029
+Uhh, gdzie byliśmy?
+
+81
+00:02:21,030 --> 00:02:22,269
+O tak, przypuszczenie o strukturze plastra miodu.
+
+82
+00:02:22,270 --> 00:02:24,479
+Max miód.  Wosk min.  Trzy opcje.
+
+83
+00:02:24,480 --> 00:02:26,479
+OK,tak, jest krąg.
+
+84
+00:02:26,480 --> 00:02:29,289
+Kształt zdefiniowany przez najmniejszy obwód dla największego obszaru,
+
+85
+00:02:29,290 --> 00:02:31,199
+ale działa tylko wtedy, gdy potrzebujesz tylko jednego.
+
+86
+00:02:31,200 --> 00:02:33,779
+Pakuj kręgi i to jest najlepsze, co mogą zrobić.
+
+87
+00:02:33,780 --> 00:02:35,199
+Spójrz na tę całą zmarnowaną przestrzeń!
+
+88
+00:02:35,200 --> 00:02:36,499
+A nawet jeśli zapełnisz luki,
+
+89
+00:02:36,500 --> 00:02:37,969
+nadal zużywasz więcej wosku.
+
+90
+00:02:37,970 --> 00:02:39,319
+I znowu sposób, w jaki te kręgi
+
+91
+00:02:39,320 --> 00:02:40,299
+się układają…
+
+92
+00:02:40,300 --> 00:02:41,039
+to prawie jak… jeden
+
+93
+00:02:41,040 --> 00:02:42,009
+dwa trzy cztery pięć sześć
+
+94
+00:02:42,010 --> 00:02:42,969
+ukrytych sześciokątów!
+
+95
+00:02:42,970 --> 00:02:44,389
+Pszczoły używają sześciokąta,
+
+96
+00:02:44,390 --> 00:02:46,209
+ponieważ żaden kształt nie jest lepszy, aby
+
+97
+00:02:46,210 --> 00:02:48,689
+stworzyć maksymalną powierzchnię dla minimalnej ściany.
+
+98
+00:02:48,690 --> 00:02:50,689
+A ta minimalna-maksymalna statystyka sześciokąta
+
+99
+00:02:50,690 --> 00:02:53,689
+jest jednym z wielu powodów, dla których pojawiają sięwszędzie.
+
+100
+00:02:53,690 --> 00:02:56,329
+W tym w oczy wspomnianej pszczoły.
+
+101
+00:02:56,330 --> 00:02:58,649
+Każdy sześciokąt to długa rurka, która prowadzi
+
+102
+00:02:58,650 --> 00:03:00,499
+do komórek chwytających światło na dole.
+
+103
+00:03:00,500 --> 00:03:02,119
+Więcej światła oznacza lepsze widzenie, a
+
+104
+00:03:02,120 --> 00:03:04,289
+sześciokąty wpuszczają najwięcej światła przy
+
+105
+00:03:04,290 --> 00:03:06,319
+użyciu najmniejszej ilości ściany.
+
+106
+00:03:06,320 --> 00:03:08,599
+Dlaczego więcTwojeoczy nie są sześciokątami?
+
+107
+00:03:08,600 --> 00:03:09,769
+Au contraire mon ami
+
+108
+00:03:09,770 --> 00:03:11,259
+, to l'Hexagone.
+
+109
+00:03:11,260 --> 00:03:14,089
+[intensywnie]
+Nie na zewnątrz, ale w środku.
+
+110
+00:03:14,090 --> 00:03:16,929
+Twoje przyciągające światło komórki znajdują się z tyłu oka,
+
+111
+00:03:16,930 --> 00:03:19,909
+w sześciokątnej siatce z tego samego powodu, co pszczoły.
+
+112
+00:03:19,910 --> 00:03:21,529
+Maks. światło, min. ściana.
+
+113
+00:03:21,530 --> 00:03:23,039
+Twoje okno na świat
+
+114
+00:03:23,040 --> 00:03:24,719
+jest tylko przez sześciokąt.
+
+115
+00:03:24,720 --> 00:03:26,719
+Czy to nie oznacza, że jest to bestagon?  Ok, 
+
+116
+00:03:26,720 --> 00:03:28,589
+może sześciokąt jako min-max-agon
+
+117
+00:03:28,590 --> 00:03:29,869
+nie przypadnie ci do gustu.
+
+118
+00:03:29,870 --> 00:03:31,669
+Więc co powiesz na małą tajemnicę, oui?
+
+119
+00:03:31,670 --> 00:03:33,509
+Udajmy się na Saturna.
+
+120
+00:03:33,510 --> 00:03:35,459
+Tak, pierścienie przyciągają uwagę,
+
+121
+00:03:35,460 --> 00:03:36,739
+ale opuść równik, udaj się
+
+122
+00:03:36,740 --> 00:03:39,529
+na północ i tu leży niewyjaśnione.
+
+123
+00:03:39,530 --> 00:03:41,529
+Wielki Sześciokąt Saturna.
+
+124
+00:03:41,530 --> 00:03:42,579
+Potrzebujesz czegoś na skalę?
+
+125
+00:03:42,580 --> 00:03:43,959
+Cóż, oto Ziemia.
+
+126
+00:03:43,960 --> 00:03:46,189
+Och, oto sześć Ziem.
+
+127
+00:03:46,190 --> 00:03:48,719
+Sześciokąt Saturna jestdość duży.
+
+128
+00:03:48,720 --> 00:03:49,589
+Co to jest?
+
+129
+00:03:49,590 --> 00:03:52,249
+Cóż, możesz pomyśleć, że to formacja geologiczna.
+
+130
+00:03:52,250 --> 00:03:53,979
+Ogromna kolumna bazaltowa,
+
+131
+00:03:53,980 --> 00:03:56,189
+podobna do mniejszych wersji, które można znaleźć na Ziemi.
+
+132
+00:03:56,190 --> 00:03:56,769
+Ale nie.
+
+133
+00:03:56,770 --> 00:03:58,069
+Saturn to gazowy gigant.
+
+134
+00:03:58,070 --> 00:04:00,699
+Nie ma powierzchni ani geologii, o której można by mówić.
+
+135
+00:04:00,700 --> 00:04:04,299
+Tak więc wielki sześciokąt składa się z bezkształtnych chmur w
+
+136
+00:04:04,300 --> 00:04:07,219
+jakiś sposób zachowujących kształt i zmieniających kolor.
+
+137
+00:04:07,220 --> 00:04:09,829
+To wspaniała tajemnica Układu Słonecznego.
+
+138
+00:04:09,830 --> 00:04:11,829
+I chociaż nie jestem archeologiem kosmicznym,
+
+139
+00:04:11,830 --> 00:04:14,809
+gdybym szukał monolitu obdarzonego przez kosmitów,
+
+140
+00:04:14,810 --> 00:04:16,549
+na planecie najbardziej „spójrz na mnie”,
+
+141
+00:04:16,550 --> 00:04:19,768
+pod sześciokątną latarnią morską o bokach wielkości Ziemi,
+
+142
+00:04:19,769 --> 00:04:21,249
+[kliknięcie językiem] od
+tego bym zaczął  .
+
+143
+00:04:21,250 --> 00:04:23,659
+W końcu, jacy kosmici chcieliby nawiązać
+
+144
+00:04:23,660 --> 00:04:25,909
+pierwszy kontakt z pobliskimi małpami,
+
+145
+00:04:25,910 --> 00:04:27,729
+zanim dojdą do oświecenia,
+
+146
+00:04:27,730 --> 00:04:29,729
+by podążać za uniwersalną prawdą.
+
+147
+00:04:29,730 --> 00:04:31,799
+Sześciokąt to bestagon.
+
+148
+00:04:31,800 --> 00:04:34,529
+Od największego do najmniejszego.
+
+149
+00:04:34,530 --> 00:04:37,359
+Powiedzmy, na przykład, ten mały płatek śniegu, który mam
+
+150
+00:04:37,360 --> 00:04:40,199
+, ma sześć boków, tak jak wszystkie płatki śniegu.
+
+151
+00:04:40,200 --> 00:04:41,719
+Ojej, co może to spowodować?
+
+152
+00:04:41,720 --> 00:04:44,209
+Przejdźmy do sfery atomowej i zobaczmy.
+
+153
+00:04:44,210 --> 00:04:46,689
+Kiedy cząsteczki wody łączą się, tworząc płatek
+
+154
+00:04:46,690 --> 00:04:49,239
+, preferują mocny kształt sześciokąta.
+
+155
+00:04:49,240 --> 00:04:50,649
+W miarę łączenia się większej liczby cząsteczek
+
+156
+00:04:50,650 --> 00:04:52,419
+rozszerzają one płatek fraktalnie w górę.
+
+157
+00:04:52,420 --> 00:04:54,809
+Piękno płatka śniegu w skali małpy
+
+158
+00:04:54,810 --> 00:04:57,559
+jest tylko przedłużeniem sześciokątnej doskonałości
+
+159
+00:04:57,560 --> 00:04:58,819
+w skali atomowej.
+
+160
+00:04:58,820 --> 00:04:59,729
+OK,tak*.*
+
+161
+00:04:59,730 --> 00:05:02,059
+Czasami można znaleźć płatki śniegu z dwunastoma bokami,
+
+162
+00:05:02,060 --> 00:05:03,649
+ale dzieje się tak, gdy dwa rosnące płatki
+
+163
+00:05:03,650 --> 00:05:05,429
+śniegu sklejają się, więc to nadal się liczy.
+
+164
+00:05:05,430 --> 00:05:07,429
+Sześciokąt nie jest przeznaczony tylko do śniegu,
+
+165
+00:05:07,430 --> 00:05:09,069
+ale do całego lodu 1H,
+
+166
+00:05:09,070 --> 00:05:11,229
+co oznacza w zasadzie cały lód na ziemi.
+
+167
+00:05:11,230 --> 00:05:12,699
+Tak, jest mały lód 1C, o
+
+168
+00:05:12,700 --> 00:05:13,599
+którym nie mówimy,
+
+169
+00:05:13,600 --> 00:05:14,819
+ponieważ jest zrobiony z kostek,
+
+170
+00:05:14,820 --> 00:05:16,069
+a kostki są nudne.
+
+171
+00:05:16,070 --> 00:05:17,429
+I jest trochę lodu 9.
+
+172
+00:05:17,430 --> 00:05:18,179
+Nie, nie dotykaj tego.
+
+173
+00:05:18,180 --> 00:05:19,629
+Ale jeśli w twoim napoju jest lód,
+
+174
+00:05:19,630 --> 00:05:22,219
+podziękuj sześciokątowi za utrzymywanie go w chłodzie.
+
+175
+00:05:22,220 --> 00:05:23,279
+I to nie tylko woda.
+
+176
+00:05:23,280 --> 00:05:25,479
+Wiele atomów używa sześciokątów, ponieważ…
+
+177
+00:05:25,480 --> 00:05:26,359
+(zanotuj)
+
+178
+00:05:26,360 --> 00:05:28,359
+sześciokąty to bestagony.
+
+179
+00:05:28,360 --> 00:05:29,659
+Och, używając ołówka?
+
+180
+00:05:29,660 --> 00:05:31,659
+Przygotuj się na to, że również tutaj będziesz mieć
+
+181
+00:05:31,660 --> 00:05:33,439
+zdumiony sześciokąt.
+
+182
+00:05:33,440 --> 00:05:34,339
+Ołów.
+
+183
+00:05:34,340 --> 00:05:36,339
+Cóż, to nie jest ołów, to węgiel.
+
+184
+00:05:36,340 --> 00:05:38,799
+A wiesz, co atomy węgla uważają za bestagon?
+
+185
+00:05:38,800 --> 00:05:40,309
+[pstryk
+] Sześciokąt.
+
+186
+00:05:40,310 --> 00:05:43,159
+Grafit ołówkowy to cała masa heksagonalnych węgli,
+
+187
+00:05:43,160 --> 00:05:45,159
+a kiedy akurat znajdują się w prostym arkuszu,
+
+188
+00:05:45,160 --> 00:05:46,239
+tografen,
+
+189
+00:05:46,240 --> 00:05:48,259
+który akurat jest najsilniejszym
+
+190
+00:05:48,260 --> 00:05:50,599
+materiałem atomowym we wszechświecie.
+
+191
+00:05:50,600 --> 00:05:52,379
+Część z nich jest w tym ołówku.
+
+192
+00:05:52,380 --> 00:05:53,939
+Aby rozerwać arkusz grafenu
+
+193
+00:05:53,940 --> 00:05:56,189
+, potrzeba sto razy więcej siły
+
+194
+00:05:56,190 --> 00:05:57,699
+niż w przypadku stali.
+
+195
+00:05:57,700 --> 00:05:59,629
+Sześciokąt jest silny.
+
+196
+00:05:59,630 --> 00:06:01,579
+Dzieje się tak dlatego, że gdy sześciokąty łączą się,
+
+197
+00:06:01,580 --> 00:06:04,769
+tworzą trójstronne połączenia oddalone od siebie o 120 stopni.
+
+198
+00:06:04,770 --> 00:06:06,329
+Jest to przy najmniejszej ilości
+
+199
+00:06:06,330 --> 00:06:08,729
+materiału najbardziej stabilny mechanicznie układ.
+
+200
+00:06:08,730 --> 00:06:09,659
+Pociągnij za jeden staw,
+
+201
+00:06:09,660 --> 00:06:11,499
+a pozostałe dwa w równym stopniu odciągają,
+
+202
+00:06:11,500 --> 00:06:13,079
+wpychają, a pozostałe dwa są
+
+203
+00:06:13,080 --> 00:06:15,079
+najbardziej zdolne i stabilne, aby się oprzeć.
+
+204
+00:06:15,080 --> 00:06:17,079
+Teraz spójrz na nowo na kafelek z sześciokątów,
+
+205
+00:06:17,080 --> 00:06:18,839
+a zobaczysz, że składa się tylko z
+
+206
+00:06:18,840 --> 00:06:20,289
+tych maksymalnie stabilnych połączeń, z
+
+207
+00:06:20,290 --> 00:06:22,659
+których każde jest idealnie ułożone, aby pomóc innym
+
+208
+00:06:22,660 --> 00:06:24,119
+być silniejszymi i stabilniejszymi.
+
+209
+00:06:24,120 --> 00:06:27,419
+Tokolejnypowód, dla którego sześciokąty pojawiają się wszędzie.
+
+210
+00:06:27,420 --> 00:06:30,609
+Wszechświat błogosławi stabilność w jej fizyce,
+
+211
+00:06:30,610 --> 00:06:32,209
+od tych bazaltowych kolumn
+
+212
+00:06:32,210 --> 00:06:33,149
+po bąbelki, które
+
+213
+00:06:33,150 --> 00:06:34,149
+tak szybko, jak tylko mogą,
+
+214
+00:06:34,150 --> 00:06:36,079
+porzucają swoje sfery, aby
+
+215
+00:06:36,080 --> 00:06:38,879
+jak najbardziej zbliżyć się do heksagonalnej doskonałości.
+
+216
+00:06:38,880 --> 00:06:39,949
+To jest takie fajne.
+
+217
+00:06:39,950 --> 00:06:40,559
+O tak, tak.
+
+218
+00:06:40,560 --> 00:06:42,239
+Więc jeśli twój ołówek zawiera
+
+219
+00:06:42,240 --> 00:06:44,639
+jeden z najmocniejszych materiałówwe wszechświecie,
+
+220
+00:06:44,640 --> 00:06:45,699
+jak możesz nim pisać?
+
+221
+00:06:45,700 --> 00:06:46,429
+Dobrze, dobrze.
+
+222
+00:06:46,430 --> 00:06:49,009
+Będzie tojeszcze bardziej ekscytujące.
+
+223
+00:06:49,010 --> 00:06:51,289
+Chociaż sześciokąty są w ten sposób super mocne, wtensposób
+
+224
+00:06:51,290 --> 00:06:53,189
+nie są super mocne.
+
+225
+00:06:53,190 --> 00:06:54,039
+Na małą skalę
+
+226
+00:06:54,040 --> 00:06:55,719
+oznacza to, że ołówek może odłamywać
+
+227
+00:06:55,720 --> 00:06:57,189
+się warstwami, pozostawiając ślad.
+
+228
+00:06:57,190 --> 00:06:58,299
+Ale na dużą skalę
+
+229
+00:06:58,300 --> 00:07:01,589
+sześciokąty mogą być elastyczne, zachowując jednocześnie swoją siłę,
+
+230
+00:07:01,590 --> 00:07:04,679
+co pozwala nam konstruować całkowicie nierealne materiały.
+
+231
+00:07:04,680 --> 00:07:06,789
+Wydrukuj siatkę sześciokątów w dowolnym miejscu,
+
+232
+00:07:06,790 --> 00:07:07,969
+od aluminium po tekturę,
+
+233
+00:07:07,970 --> 00:07:08,969
+zrób małą kanapkę
+
+234
+00:07:08,970 --> 00:07:09,749
+i puk!
+
+235
+00:07:09,750 --> 00:07:11,229
+Masz panele o strukturze plastra miodu.
+
+236
+00:07:11,230 --> 00:07:13,759
+Niezwykle odporny na rozdarcie materiał,
+
+237
+00:07:13,760 --> 00:07:15,969
+który jest również super lekki i elastyczny.
+
+238
+00:07:15,970 --> 00:07:17,419
+Jest używanywszędzie,
+
+239
+00:07:17,420 --> 00:07:19,309
+ale szczególnie w lotnictwie.
+
+240
+00:07:19,310 --> 00:07:21,309
+Rakiety muszą być mocne, a jednocześnie lekkie.
+
+241
+00:07:21,310 --> 00:07:22,479
+To samo dotyczy samolotów.
+
+242
+00:07:22,480 --> 00:07:24,479
+Ze skrzydłami, które naprawdę nie mogą się rozerwać,
+
+243
+00:07:24,480 --> 00:07:25,979
+ale też muszą się zgiąć.
+
+244
+00:07:25,980 --> 00:07:28,109
+I tylko magia panelu o strukturze plastra miodu
+
+245
+00:07:28,110 --> 00:07:29,429
+może zrobić jedno i drugie.
+
+246
+00:07:29,430 --> 00:07:32,179
+Podziękuj sześciobokowi za pobłogosławienie naszego lotu.
+
+247
+00:07:32,180 --> 00:07:34,049
+A jeszcze nie
+
+248
+00:07:34,050 --> 00:07:36,829
+omówiliśmy najważniejszego zastosowania sześciokąta.
+
+249
+00:07:36,830 --> 00:07:37,539
+Gry!
+
+250
+00:07:37,540 --> 00:07:40,919
+Od wieków toczy się wielka debata o deski,
+
+251
+00:07:40,920 --> 00:07:42,769
+kwadraty czy sześciokąty?
+
+252
+00:07:42,770 --> 00:07:44,209
+Spoiler... sześciokąty wygrywają.
+
+253
+00:07:44,210 --> 00:07:45,609
+Kwadratowe deski to pierwsza rzecz,
+
+254
+00:07:45,610 --> 00:07:47,609
+o której pomyślałby nieoświecony gatunek.
+
+255
+00:07:47,610 --> 00:07:50,189
+Wyglądają sensownie i są łatwe do wykonania,
+
+256
+00:07:50,190 --> 00:07:51,269
+ale to okropne,
+
+257
+00:07:51,270 --> 00:07:53,889
+nieefektywne tablice, które powodują przestrzenne cierpienie.
+
+258
+00:07:53,890 --> 00:07:55,609
+Na planszy kwadratowej przesuń się poziomo
+
+259
+00:07:55,610 --> 00:07:56,669
+lub pionowo o jedno pole
+
+260
+00:07:56,670 --> 00:07:58,419
+i przesuniesz się o jedno pole,
+
+261
+00:07:58,420 --> 00:07:59,759
+ale przesuń się po przekątnej,
+
+262
+00:07:59,760 --> 00:08:02,319
+a odległość jest pierwiastkiem kwadratowym z dwóch pól.
+
+263
+00:08:02,320 --> 00:08:03,139
+Brutto.
+
+264
+00:08:03,140 --> 00:08:05,629
+Przekątne wypaczają ruch elementów dystansowych.
+
+265
+00:08:05,630 --> 00:08:07,699
+Kwadratowe deski wyglądają równo i schludnie,
+
+266
+00:08:07,700 --> 00:08:08,529
+ale to oszustwo.
+
+267
+00:08:08,530 --> 00:08:12,049
+Ich przekątne zaburzają znaczenie przestrzeni i czasu
+
+268
+00:08:12,050 --> 00:08:13,489
+i oczywiście muszą,
+
+269
+00:08:13,490 --> 00:08:16,639
+ponieważ kwadrat ma tylko czterech prawdziwych sąsiadów.
+
+270
+00:08:16,640 --> 00:08:18,439
+Sześciokąty mają jednak sześć
+
+271
+00:08:18,440 --> 00:08:19,619
+, czyli więcej niż cztery,
+
+272
+00:08:19,620 --> 00:08:20,279
+co jest lepsze!
+
+273
+00:08:20,280 --> 00:08:22,479
+A odległość od jednej przestrzeni do drugiej
+
+274
+00:08:22,480 --> 00:08:24,199
+jest taka sama w każdym kierunku.
+
+275
+00:08:24,200 --> 00:08:25,249
+Jedna przestrzeń.
+
+276
+00:08:25,250 --> 00:08:26,569
+Tak jak powinno być.
+
+277
+00:08:26,570 --> 00:08:28,029
+Jeśli jesteś grą opartą na kwadratach
+
+278
+00:08:28,030 --> 00:08:29,019
+, przepraszam.
+
+279
+00:08:29,020 --> 00:08:30,359
+Ale jest nadzieja.
+
+280
+00:08:30,360 --> 00:08:31,539
+Dzięki namysłowi i wysiłkowi
+
+281
+00:08:31,540 --> 00:08:34,548
+możesz znaleźć się w lepszym miejscu.
+
+282
+00:08:34,549 --> 00:08:36,428
+Jak wszyscy powinniśmy dążyć do tego,
+
+283
+00:08:36,429 --> 00:08:39,069
+szerząc porządek i sześciokątne
+
+284
+00:08:39,070 --> 00:08:41,729
+oświecenie, sześciokąty są najlepszymi.
+
+285
+00:08:41,730 --> 00:08:44,369
+A teraz, kiedy się zgodzisz, twoimi oczami ujrzysz
+
+286
+00:08:44,370 --> 00:08:46,949
+ich sześciostronną doskonałość we wszystkim.
+
+287
+00:08:46,950 --> 00:08:48,559
+I powiesz sobie,
+
+288
+00:08:48,560 --> 00:08:49,839
+że w porządku
+
+289
+00:08:49,840 --> 00:08:56,399
+sześciokątyto bestagony.
+
+290
+00:08:56,400 --> 00:09:02,149
+Uhh, dzięki za wpadnięcie na kawę z komunikatora.
+
+291
+00:09:02,150 --> 00:09:05,979
+Teraz idź.  Podziel się oświeceniem zakonu z innymi.
+
+292
+00:09:05,980 --> 00:09:07,470
+[Kliknij]
+

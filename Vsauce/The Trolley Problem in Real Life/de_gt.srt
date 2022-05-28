@@ -1,0 +1,3758 @@
+1
+00:00:12,767 --> 00:00:15,967
+[niest] Entschuldigung.
+
+2
+00:00:15,968 --> 00:00:17,566
+Weißt du,
+wenn ich gefahren
+
+3
+00:00:17,567 --> 00:00:19,132
+wäre, wäre das
+ziemlich gefährlich gewesen.
+
+4
+00:00:19,133 --> 00:00:20,366
+Jedes Mal, wenn Sie niesen, schließen sich
+
+5
+00:00:20,367 --> 00:00:22,633
+Ihre Augen
+etwa eine Sekunde lang,
+
+6
+00:00:22,634 --> 00:00:25,500
+was bedeutet, wenn Sie
+beim Fahren mit beispielsweise
+
+7
+00:00:25,501 --> 00:00:29,633
+70 Meilen pro Stunde mal 5.280
+geteilt durch 60 geteilt durch
+
+8
+00:00:29,634 --> 00:00:35,766
+60 niesen, legen Sie mit geschlossenen Augen etwa 103 Fuß zurück
+.
+
+9
+00:00:35,767 --> 00:00:36,967
+Aber keine Sorge.
+
+10
+00:00:36,968 --> 00:00:38,733
+Das ist ein selbstfahrendes Auto.
+
+11
+00:00:38,734 --> 00:00:41,600
+Es verwendet Sensoren und Software
+, um sich selbst zu fahren
+
+12
+00:00:41,601 --> 00:00:44,032
+, um mich
+und andere Menschen zu schützen.
+
+13
+00:00:44,033 --> 00:00:45,833
+Ich hoffe.
+
+14
+00:00:45,834 --> 00:00:47,700
+[Reifen quietschen]
+
+15
+00:00:47,701 --> 00:00:50,500
+Beeindruckend.
+Aber lassen Sie mich Ihnen eine Frage stellen.
+
+16
+00:00:50,501 --> 00:00:52,566
+Was wäre, wenn ein autonomes
+Fahrzeug die
+
+17
+00:00:52,567 --> 00:00:54,900
+Wahl treffen müsste, zwei Personen
+direkt vor ihm zu
+
+18
+00:00:54,901 --> 00:00:57,032
+treffen oder auszuweichen, um ihnen auszuweichen
+
+19
+00:00:57,033 --> 00:00:59,633
+und eine Person
+auf einem Bürgersteig zu treffen?
+
+20
+00:00:59,634 --> 00:01:01,867
+Was
+soll programmiert werden?
+
+21
+00:01:01,868 --> 00:01:04,166
+[Reifen quietschen, Autounfälle]
+
+22
+00:01:04,167 --> 00:01:05,700
+Was würdest du tun?
+
+23
+00:01:05,701 --> 00:01:07,666
+Jetzt wurden Umfragen und
+Umfragen zusammengestellt,
+
+24
+00:01:07,667 --> 00:01:09,433
+in denen Menschen gefragt wurden, was sie denken
+würden,
+
+25
+00:01:09,434 --> 00:01:11,700
+aber kein Forscher
+hat jemals Menschen
+
+26
+00:01:11,701 --> 00:01:14,867
+in diese tatsächliche
+traumatische Erfahrung versetzt.
+
+27
+00:01:14,868 --> 00:01:17,967
+Würden wir mehr über die
+menschliche Natur erfahren, wenn wir das täten?
+
+28
+00:01:17,968 --> 00:01:21,032
+Wäre es überhaupt ethisch vertretbar,
+Menschen in eine solche Position zu bringen?
+
+29
+00:01:21,033 --> 00:01:23,766
+Ich bin dabei, es herauszufinden.
+
+30
+00:01:23,767 --> 00:01:38,633
+[Titelmusik spielt
+
+31
+00:01:38,634 --> 00:01:42,299
+] 1967 schuf die britische Philosophin
+Philippa
+
+32
+00:01:42,300 --> 00:01:45,967
+Foot einen Vorläufer unseres
+Rätsels um selbstfahrende Autos.
+
+33
+00:01:45,968 --> 00:01:47,967
+Das berühmte Szenario, das
+sie sich ausgedacht hat,
+
+34
+00:01:47,968 --> 00:01:49,933
+ist als
+„Trolley-Problem“ bekannt.
+
+35
+00:01:49,934 --> 00:01:53,466
+Stellen Sie sich vor, ein außer Kontrolle geratener Zug
+rast über ein Bahngleis.
+
+36
+00:01:53,467 --> 00:01:55,166
+Direkt vor dem
+
+37
+00:01:55,167 --> 00:01:57,733
+Zug stehen fünf Personen
+auf dem Gleis.
+
+38
+00:01:57,734 --> 00:02:00,466
+Stellen Sie sich nun vor, Sie sind
+zu weit weg
+
+39
+00:02:00,467 --> 00:02:03,633
+, um diesen fünf Personen zu helfen,
+aber direkt neben Ihnen
+
+40
+00:02:03,634 --> 00:02:07,766
+befindet sich ein Hebel, der
+den Zug auf ein anderes Gleis umleiten kann.
+
+41
+00:02:07,767 --> 00:02:11,900
+Wenn Sie den Zug umleiten, werden
+die fünf Personen gerettet.
+
+42
+00:02:11,901 --> 00:02:13,366
+Aber hier ist der Haken.
+
+43
+00:02:13,367 --> 00:02:15,800
+
+Auf der zweiten Spur ist eine andere Person.
+
+44
+00:02:15,801 --> 00:02:18,132
+Jetzt stehst du vor einem Dilemma.
+
+45
+00:02:18,133 --> 00:02:19,466
+Sie können entweder nichts tun
+
+46
+00:02:19,467 --> 00:02:21,700
+und der Zug
+wird fünf Menschen töten,
+
+47
+00:02:21,701 --> 00:02:25,266
+oder Sie können den Hebel ziehen
+und ihr Leben retten,
+
+48
+00:02:25,267 --> 00:02:29,867
+aber direkt
+für den Tod einer Person verantwortlich sein.
+
+49
+00:02:29,868 --> 00:02:31,566
+Was würdest du tun?
+
+50
+00:02:31,567 --> 00:02:34,333
+Bei einer Umfrage sagen die meisten Menschen,
+dass sie den Hebel ziehen
+
+51
+00:02:34,334 --> 00:02:37,566
+und eine Person opfern würden
+, um fünf zu retten.
+
+52
+00:02:37,567 --> 00:02:39,666
+Es ist für das Allgemeinwohl.
+
+53
+00:02:39,667 --> 00:02:42,399
+Aber wie wir sagen, dass wir handeln würden, stimmt
+möglicherweise nicht mit dem überein,
+
+54
+00:02:42,400 --> 00:02:46,266
+was wir tatsächlich tun würden, wenn
+das Szenario wirklich
+
+55
+00:02:46,267 --> 00:02:49,967
+mit echten Emotionen
+und echten Leben auf dem Spiel käme.
+
+56
+00:02:49,968 --> 00:02:53,466
+Jeder Unterschied zwischen den beiden
+würde zeigen, wer wir sind im
+
+57
+00:02:53,467 --> 00:02:56,600
+Vergleich zu dem, was wir sein wollen,
+aber ein Vergleich
+
+58
+00:02:56,601 --> 00:03:00,800
+könnte nur gemacht werden, indem man tut,
+was noch nie zuvor getan wurde:
+
+59
+00:03:00,801 --> 00:03:14,666
+das Trolley-Problem real werden zu lassen.
+
+60
+00:03:14,667 --> 00:03:16,733
+[Michael] Angenommen, wir führten
+ein Experiment
+
+61
+00:03:16,734 --> 00:03:19,433
+in einer realistischen Eisenbahn
+Schaltstation
+
+62
+00:03:19,434 --> 00:03:22,600
+mit Versuchspersonen durch  i>
+Züge auf Monitoren beobachten.
+
+63
+00:03:22,601 --> 00:03:25,533
+Die Züge und die Menschen
+auf den Gleisen
+
+64
+00:03:25,534 --> 00:03:27,867
+würden inszeniert
+und  aufgezeichnet,
+
+65
+00:03:27,868 --> 00:03:30,500
+aber die Probanden würden denken,
+es sei alles real.
+
+66
+00:03:30,501 --> 00:03:32,733
+Sie würden glauben, dass
+sie einen Hebel steuern könnten
+
+67
+00:03:32,734 --> 00:03:34,600
+das die Gleise wechselt,
+
+68
+00:03:34,601 --> 00:03:37,600
+und sie hätten die Möglichkeit,
+den Zug umzuleiten oder nicht.
+
+69
+00:03:37,601 --> 00:03:40,867
+Das würden sie  völlig davon überzeugt,
+dass sie sich entscheiden müssen
+
+70
+00:03:40,868 --> 00:03:43,633
+zwischen fünf Leben oder einem.
+
+71
+00:03:43,634 --> 00:03:46,466
+Aber halt,
+es gibt ein Dilemma des Höheren Wohls, wenn es
+
+72
+00:03:46,467 --> 00:03:49,399
+darum geht, ein Experiment
+zum Höheren Wohl durchzuführen.
+
+73
+00:03:49,400 --> 00:03:52,066
+Indem wir Menschen
+zwingen, wirklich zu glauben, dass
+
+74
+00:03:52,067 --> 00:03:55,066
+sie jemanden töten könnten
+, riskieren wir
+
+75
+00:03:55,067 --> 00:03:57,466
+ernsthafte psychische Schäden
+für sie?
+
+76
+00:03:57,467 --> 00:04:01,466
+Ja, es könnte
+für uns alle von Vorteil sein, zu sehen, was passiert,
+
+77
+00:04:01,467 --> 00:04:06,700
+aber wären diese Vorteile
+für einige ein potenzielles Trauma wert?
+
+78
+00:04:06,701 --> 00:04:10,233
+Um tatsächlich
+ein reales Trolley-Problem zu lösen,
+
+79
+00:04:10,234 --> 00:04:13,366
+musste ich sicherstellen, dass
+es ethisch vertretbar ist.
+
+80
+00:04:13,367 --> 00:04:16,032
+Also setzte ich mich
+mit dem Verhaltensneurowissenschaftler
+
+81
+00:04:16,033 --> 00:04:18,199
+Professor Aaron Blaisdell zusammen.
+
+82
+00:04:18,200 --> 00:04:20,266
+Was wissen Sie über
+das Trolley-Problem
+
+83
+00:04:20,267 --> 00:04:22,466
+und was haben frühere
+Studien herausgefunden?
+
+84
+00:04:22,467 --> 00:04:25,299
+Die meisten Leute sagen,
+sie würden den Schalter ziehen.
+
+85
+00:04:25,300 --> 00:04:27,967
+Sicher, es ist ein Leben gegen fünf.
+Die Mathematik geht auf.
+
+86
+00:04:27,968 --> 00:04:30,633
+Aber was ich wissen möchte,
+ist, wenn wir sie tatsächlich
+
+
+87
+00:04:30,634 --> 00:04:34,132
+vor einen Schalter stellen und einen Zug
+beobachten, der auf Menschen zurast,
+
+88
+00:04:34,133 --> 00:04:36,633
+würden sie ihn dann tatsächlich
+in diesem Moment ziehen?
+
+89
+00:04:36,634 --> 00:04:40,366
+Ich wette, viele von ihnen
+würden
+in diesem Moment erstarren.
+
+90
+00:04:40,367 --> 00:04:41,700
+Wenn du Angst hast,
+
+91
+00:04:41,701 --> 00:04:44,500
+denke ich, dass das
+eine Menge Action unterbindet.
+
+92
+00:04:44,501 --> 00:04:46,366
+-Ich möchte es herausfinden.
+-Okay.
+
+93
+00:04:46,367 --> 00:04:49,500
+Welche potenziellen Schäden
+könnten jemandem in dieser Position zustoßen?
+
+94
+00:04:49,501 --> 00:04:50,833
+Den meisten Menschen
+würde es wahrscheinlich gut gehen,
+
+95
+00:04:50,834 --> 00:04:53,500
+aber es gibt
+ein kleines Schadenspotenzial
+
+96
+00:04:53,501 --> 00:04:57,633
+in dem Sinne, dass jemand
+
+
+97
+00:04:57,634 --> 00:05:00,800
+wegen seiner Entscheidung
+von Schuldgefühlen geplagt wird, obsessive Gedanken wie:
+
+98
+00:05:00,801 --> 00:05:02,933
+„Ich bin die Person
+, die diesen Knopf drücken
+
+99
+00:05:02,934 --> 00:05:05,666
+und dafür sorgen würde, dass der Zug fährt
+und  jemanden töten."
+
+100
+00:05:05,667 --> 00:05:08,766
+Oder sie könnten denken:
+„Ich bin die Person
+, die einfrieren würde,
+
+101
+00:05:08,767 --> 00:05:11,399
+und ich könnte
+diesen fünf Menschen nicht helfen“,
+
+102
+00:05:11,400 --> 00:05:13,466
+und das könnte traumatisch sein.
+
+103
+00:05:13,467 --> 00:05:16,266
+Haben wir
+das Trolley-Problem jemals
+
+104
+00:05:16,267 --> 00:05:19,132
+wirklich an Menschen getestet?
+
+105
+00:05:19,133 --> 00:05:20,999
+Das haben wir meines Wissens
+nicht.
+
+106
+00:05:21,000 --> 00:05:23,600
+Möchten Sie
+das Trolley-
+
+107
+00:05:23,601 --> 00:05:24,867
+Problem im wirklichen Leben sehen?
+
+108
+00:05:24,868 --> 00:05:26,633
+Weißt du, ich würde.
+
+109
+00:05:26,634 --> 00:05:30,166
+Das wäre
+sehr aufschlussreich darüber,
+wie die Leute wirklich reagieren.
+
+110
+00:05:30,167 --> 00:05:33,132
+-Wenn ich dir sagen würde, dass
+wir das machen...
+-Okay.
+
+111
+00:05:33,133 --> 00:05:34,633
+...würden Sie sich
+
+112
+00:05:34,634 --> 00:05:36,867
+mit dieser Verantwortung
+auf Ihren Schultern wohlfühlen?
+
+113
+00:05:36,868 --> 00:05:40,233
+Nein, ich könnte es nicht tun.
+
+114
+00:05:40,234 --> 00:05:42,399
+Um mich
+daran zu beteiligen
+
+115
+00:05:42,400 --> 00:05:45,766
+, müssten
+viele Menschen,
+
+116
+00:05:45,767 --> 00:05:47,433
+einschließlich eines Ethikrats, auf den Schultern sitzen.
+
+117
+00:05:47,434 --> 00:05:49,199
+Ich konnte das nicht
+einfach durchziehen.
+
+118
+00:05:49,200 --> 00:05:50,500
+[Michael]
+Dr.  Blaisdells Vertrauen
+
+119
+00:05:50,501 --> 00:05:52,533
+auf eine Ethikkommission war sinnvoll.
+
+120
+00:05:52,534 --> 00:05:55,066
+Die meisten Universitäten
+haben Ethikkommissionen
+
+121
+00:05:55,067 --> 00:05:57,766
+zu beantworten
+eine entscheidende Frage:
+
+122
+00:05:57,767 --> 00:06:00,967
+Wann ist es in Ordnung,
+
+
+123
+00:06:00,968 --> 00:06:03,166
+im Namen der Wissenschaft psychische Schäden zu riskieren?
+
+124
+00:06:03,167 --> 00:06:05,366
+[Erzähler]
+Es ist Mai 1962.
+
+125
+00:06:05,367 --> 00:06:08,066
+Ein Experiment wird
+an der Yale University durchgeführt.
+
+126
+00:06:08,067 --> 00:06:10,666
+[Michael] Ethik-Überprüfungsgremien
+wurden als Ergebnis
+
+127
+00:06:10,667 --> 00:06:13,399
+umstrittener
+psychologischer Experimente
+
+128
+00:06:13,400 --> 00:06:15,233
+in der Mitte
+des letzten Jahrhunderts entwickelt.  
+
+129
+00:06:15,234 --> 00:06:17,533
+Eine Theorie besagt, dass Menschen
+Dinge richtig lernen,
+
+130
+00:06:17,534 --> 00:06:19,500
+wenn
+sie für einen Fehler bestraft werden.
+
+131
+00:06:19,501 --> 00:06:21,333
+-[Summer]
+-Falsch.
+
+132
+00:06:21,334 --> 00:06:23,533
+Sie erhalten jetzt einen Schock
+von 105 Volt.
+
+133
+00:06:23,534 --> 00:06:25,233
+[Mann grunzt]
+
+134
+00:06:25,234 --> 00:06:27,066
+[Michael]
+Dr.  Stanley Milgram
+
+135
+00:06:27,067 --> 00:06:28,700
+testete
+wie weit Personen gehen würden
+
+136
+00:06:28,701 --> 00:06:31,166
+indem sie Autoritäten gehorchten,
+selbst wenn sie glaubten
+
+137
+00:06:31,167 --> 00:06:33,032
+sie haben jemanden körperlich
+verletzt.
+
+138
+00:06:33,033 --> 00:06:34,967
+330 Volt.
+
+139
+00:06:34,968 --> 00:06:37,299
+[Mann schreit]
+
+140
+00:06:37,300 --> 00:06:39,666
+Niemand wurde durch Stromschlag getötet,
+und die Schreie
+
+141
+00:06:39,667 --> 00:06:43,199
+des Schockopfers waren falsch,
+aber das Trauma
+
+142
+00:06:43,200 --> 00:06:45,833
+dass die Teilnehmer gelitten haben
+war sehr real.
+
+143
+00:06:45,834 --> 00:06:48,032
+[Mann] Du hast kein Recht
+, mich hier festzuhalten!
+Lass mich raus!
+
+144
+00:06:48,033 --> 00:06:49,333
+Dies löste eine Kontroverse
+
+145
+00:06:49,334 --> 00:06:50,800
+innerhalb
+der wissenschaftlichen Gemeinschaft aus.
+
+146
+00:06:50,801 --> 00:06:53,132
+Viele stellten
+Milgrams Methodik in Frage,
+
+147
+00:06:53,133 --> 00:06:56,733
+aber im Gegensatz zu einer Forschungsschule,
+Mind Field antwortet nicht
+
+148
+00:06:56,734 --> 00:06:58,666
+der
+Ethikkommission einer Universität.
+
+149
+00:06:58,667 --> 00:07:00,600
+Das heißt,  
+Ich wollte die Gedanken
+
+150
+00:07:00,601 --> 00:07:03,199
+eines institutionellen
+Prüfungsgremiums einholen,
+
+151
+00:07:03,200 --> 00:07:05,466
+also habe ich eines aufgespürt
+und schlug meine Idee vor,
+
+152
+00:07:05,467 --> 00:07:08,733
+das Trolley-Problem
+im wirklichen Leben zu lösen.
+
+153
+00:07:08,734 --> 00:07:10,733
+Glaubst du, ich könnte
+einen Punkt erreichen, an dem du
+
+154
+00:07:10,734 --> 00:07:13,466
+
+dieser Studie zustimmen würdest?
+
+155
+00:07:13,467 --> 00:07:16,833
+Ich hasse es, der
+Überbringer schlechter Nachrichten zu sein, Michael.
+
+156
+00:07:16,834 --> 00:07:19,132
+Wahrscheinlich nicht.
+
+157
+00:07:19,133 --> 00:07:21,900
+Ich bin noch nicht bereit, nein zu sagen
+.
+
+158
+00:07:21,901 --> 00:07:24,600
+Ich
+würde gerne Ihren Studienpass sehen,
+
+159
+00:07:24,601 --> 00:07:26,299
+und ich denke tatsächlich,
+die Möglichkeiten, ihn zu bestehen,
+
+160
+00:07:26,300 --> 00:07:28,333
+sind, dass wir
+wahrscheinlich nach Menschen suchen sollten,
+
+161
+00:07:28,334 --> 00:07:30,633
+die möglicherweise eine
+posttraumatische Belastungsstörung haben,
+
+162
+00:07:30,634 --> 00:07:32,933
+wissen Sie, jede Art
+von klinischem Problem
+
+163
+00:07:32,934 --> 00:07:34,833
+, das sie dazu bringen könnte
+anfälliger
+
+164
+00:07:34,834 --> 00:07:39,366
+für eine Art von Ereignis wie dieses, wenn so
+etwas
+
+165
+00:07:39,367 --> 00:07:41,066
+wie ein Traumaberater vor Ort hinzugefügt wird.
+
+166
+00:07:41,067 --> 00:07:43,266
+Ich denke tatsächlich,
+dass es unter diesen Umständen
+
+167
+00:07:43,267 --> 00:07:44,967
+passieren könnte.
+- Können
+
+168
+00:07:44,968 --> 00:07:47,967
+Sie überzeugende Argumente für
+den sozialen Nutzen dieser Studie vorlegen?
+
+169
+00:07:47,968 --> 00:07:49,566
+-Ich stimme zu.
+- Wenn Sie einen Weg finden könnten
+
+170
+00:07:49,567 --> 00:07:51,199
+zu sagen: "Schauen Sie,
+deshalb ist es wichtig.
+
+171
+00:07:51,200 --> 00:07:53,233
+Es ist nicht nur
+theoretische Grundlagenforschung.
+
+172
+00:07:53,234 --> 00:07:56,633
+Das hat direkte Auswirkungen
+auf den Nahverkehr,
+
+173
+00:07:56,634 --> 00:07:59,466
+direkte Auswirkungen
+auf selbstfahrende Autos.
+
+174
+00:07:59,467 --> 00:08:01,099
+Es ist ein Risiko-Nutzen-Verhältnis,
+
+175
+00:08:01,100 --> 00:08:02,933
+aber das  Die Vorteile
+sind potenziell enorm."
+
+176
+00:08:02,934 --> 00:08:07,700
+Richtig, und deshalb hoffe ich,
+dass das Gute an
+diesem Experiment darin besteht
+
+177
+00:08:07,701 --> 00:08:12,900
+,
+den Unterschied
+zwischen Instinkt
+
+178
+00:08:12,901 --> 00:08:16,466
+und philosophischer Reflexion aufzudecken,
+
+179
+00:08:16,467 --> 00:08:19,500
+und ich denke, dass
+es einen enormen Nutzen haben könnte,
+
+180
+00:08:19,501 --> 00:08:22,266
+den Unterschied zu lernen,
+damit wir Menschen trainieren können, so
+
+181
+00:08:22,267 --> 00:08:25,299
+zu
+handeln  sie wünschten, sie würden es tun.
+
+182
+00:08:25,300 --> 00:08:27,266
+- [David] Ja.
+-[Natascha] Das ist interessant.
+
+183
+00:08:27,267 --> 00:08:29,733
+-Das ist ein überzeugendes Argument.
+-[Natascha] Ja.
+
+184
+00:08:29,734 --> 00:08:33,666
+Ich bin
+mit viel Widerstand zu diesem Treffen gekommen,
+
+185
+00:08:33,667 --> 00:08:36,966
+aber stattdessen gehe ich tatsächlich
+belebt,
+
+186
+00:08:36,967 --> 00:08:39,365
+wie aufgeregt,
+ihre Bedenken aufzunehmen,
+
+187
+00:08:39,366 --> 00:08:41,099
+sie in die Studie umzusetzen
+
+188
+00:08:41,100 --> 00:08:43,298
+und sie nicht nur
+akzeptabler zu machen,
+
+189
+00:08:43,299 --> 00:08:44,600
+was meiner Meinung
+nach der Zweck war  hier,
+
+190
+00:08:44,601 --> 00:08:46,800
+sondern um es tatsächlich
+nützlicher und
+
+191
+00:08:46,801 --> 00:08:50,366
+faszinierender zu machen
+und tiefer einzudringen
+
+192
+00:08:50,367 --> 00:08:57,399
+und mehr Anwendungen
+in der Gesellschaft zu haben.
+
+193
+00:08:57,400 --> 00:09:00,967
+Also beschloss ich, dass wir bereit
+waren, weiterzumachen und
+
+194
+00:09:00,968 --> 00:09:02,366
+
+eines der berüchtigtsten
+
+195
+00:09:02,367 --> 00:09:06,666
+hypothetischen ethischen Dilemmata
+in die Realität umzusetzen.
+
+196
+00:09:06,667 --> 00:09:10,533
+[Zughorn bläst]
+
+197
+00:09:10,534 --> 00:09:12,766
+Wir fuhren
+zu einer stillgelegten Eisenbahnlinie
+
+198
+00:09:12,767 --> 00:09:14,399
+und mieteten einen Güterzug.
+
+199
+00:09:14,400 --> 00:09:17,533
+Unsere Probanden mussten gezeigt werden
+wie Weichen funktionieren.
+
+200
+00:09:17,534 --> 00:09:19,533
+Also hat das "Mind Field"
+Produktionsteam
+
+201
+00:09:19,534 --> 00:09:22,433
+ein Video von einem Zug gedreht
+zwei Gleise hinuntergehen.
+
+202
+00:09:22,434 --> 00:09:26,566
+Dann kleideten wir sechs Schauspieler
+wie Eisenbahner.
+
+203
+00:09:26,567 --> 00:09:28,666
+Da wir sie nicht wollten
+um einem tatsächlichen Schadensrisiko ausgesetzt zu sein,
+
+204
+00:09:28,667 --> 00:09:30,366
+wir haben Maßnahmen ergriffen, um sicherzustellen,
+dass sie sicher sind.
+
+205
+00:09:30,367 --> 00:09:33,132
+Ihr werdet alle
+Arbeiter auf der Strecke sein.
+
+206
+00:09:33,133 --> 00:09:35,199
+Wir lassen
+den Zug nicht fahren,
+
+207
+00:09:35,200 --> 00:09:36,766
+während Sie auf den Gleisen sind.
+
+208
+00:09:36,767 --> 00:09:39,466
+[Michael] Wir haben
+unsere Schauspieler auf den Gleisen gefilmt,
+
+209
+00:09:39,467 --> 00:09:41,299
+mit Gehörschutz
+und abgelenkt aussehend
+
+210
+00:09:41,300 --> 00:09:42,500
+, um es zu erklären
+ warum sie keinen Zug hören konnten,
+
+211
+00:09:42,501 --> 00:09:44,233
+der auf sie zukam.
+
+212
+00:09:44,234 --> 00:09:47,433
+Dann haben wir bei der Bearbeitung
+visuelle Effekte eingesetzt  i>
+
+213
+00:09:47,434 --> 00:09:50,233
+um die Illusion zu erzeugen,
+dass sich der Zug nähert.
+
+214
+00:09:50,234 --> 00:09:52,266
+Dann kombinierten wir
+die Aufnahmen miteinander.
+
+215
+00:09:52,267 --> 00:09:54,466
+Während  das Experiment,
+wir spielten das Video
+
+216
+00:09:54,467 --> 00:09:56,132
+für unsere Probanden,
+wer würde glauben,
+
+217
+00:09:56,133 --> 00:09:57,999
+dass die Aktion live stattfand  i>
+
+218
+00:09:58,000 --> 00:10:02,500
+und übertragen
+von entfernten Kameras.
+
+219
+00:10:02,501 --> 00:10:04,600
+Unser nächster Schritt
+war, einen Experten zu finden,
+
+220
+00:10:04,601 --> 00:10:06,800
+der es sein würde  bereit,
+mich durch den Prozess
+
+221
+00:10:06,801 --> 00:10:08,399
+der Auswahl unserer Probanden
+
+222
+00:10:08,400 --> 00:10:11,433
+zu führen, um
+psychische Schäden zu minimieren.
+
+223
+00:10:11,434 --> 00:10:13,366
+Worüber sollte ich mir also
+Sorgen machen?
+
+224
+00:10:13,367 --> 00:10:16,733
+Das Schlimmste wäre wahrscheinlich eine
+posttraumatische Belastungsstörung,
+
+225
+00:10:16,734 --> 00:10:19,600
+und dann werden
+sie
+das Trauma erneut erleben.
+
+226
+00:10:19,601 --> 00:10:21,766
+Sie werden immer wieder darüber nachdenken
+,
+
+227
+00:10:21,767 --> 00:10:25,466
+und um das Risiko zu begrenzen, sollten Sie
+Personen aussortieren, die
+
+228
+00:10:25,467 --> 00:10:27,600
+
+zu traumatischen Reaktionen neigen,
+
+229
+00:10:27,601 --> 00:10:29,733
+und anschließend
+die Nachbesprechung durchführen.
+
+230
+00:10:29,734 --> 00:10:32,867
+Das ist der Schlüssel
+, um Schaden
+zu begrenzen.
+
+231
+00:10:32,868 --> 00:10:34,132
+Wie fühlen sie sich
+in diesem Moment?
+
+232
+00:10:34,133 --> 00:10:35,633
+Was ist mit ihnen los?
+
+233
+00:10:35,634 --> 00:10:37,666
+Sie können damit beginnen, sie
+in die Realität dessen einzuführen,
+
+234
+00:10:37,667 --> 00:10:40,533
+was ist,
+anstatt das, was sie
+dachten, dass es war.
+
+235
+00:10:40,534 --> 00:10:43,933
+Wären Sie bereit, uns bei der
+Durchführung dieses Experiments zu helfen?
+
+236
+00:10:43,934 --> 00:10:45,967
+Oh, äh...
+
+237
+00:10:45,968 --> 00:10:47,967
+ja, ich meine,
+ich glaube, das würde ich.
+
+238
+00:10:47,968 --> 00:10:49,466
+Ich denke, das ist
+ein wirklich faszinierendes
+
+239
+00:10:49,467 --> 00:10:52,566
+und wertvolles Experiment,
+weil die Leute
+
+240
+00:10:52,567 --> 00:10:56,099
+sehr unangenehme Lektionen haben können, aus denen
+sie dann anfangen zu lernen.
+
+241
+00:10:56,100 --> 00:10:59,266
+Wenn ich sicherstellen kann,
+dass wir
+Leute finden, die für so etwas geeignet sind
+
+242
+00:10:59,267 --> 00:11:08,900
+,
+wäre ich geehrt.
+
+243
+00:11:08,901 --> 00:11:11,333
+[Frau] Ich rufe wegen
+einer Studie an, die wir
+
+244
+00:11:11,334 --> 00:11:12,700
+für eine Hochgeschwindigkeitsbahn durchführen.
+
+245
+00:11:12,701 --> 00:11:13,900
+Ich wollte wissen, ob Sie
+daran interessiert sind,
+
+246
+00:11:13,901 --> 00:11:15,800
+nächste Woche teilzunehmen.
+
+247
+00:11:15,801 --> 00:11:18,766
+[Michael]
+Um die wahre Natur
+unseres Experiments zu verschleiern,
+
+248
+00:11:18,767 --> 00:11:21,299
+schalteten wir eine Online-Anzeige
+zur Anwerbung von Personen
+
+249
+00:11:21,300 --> 00:11:23,600
+  für eine gefälschte Fokusgruppe,
+um Feedback
+
+250
+00:11:23,601 --> 00:11:26,066
+zu Kaliforniens
+neuer Hochgeschwindigkeitsstrecke zu geben.
+
+251
+00:11:26,067 --> 00:11:29,500
+Heute werde ich Sie einfach fragen
+um ein paar Formulare auszufüllen
+
+252
+00:11:29,501 --> 00:11:32,833
+, um sicherzustellen, dass es
+eine Reihe von Persönlichkeitstypen
+
+253
+00:11:32,834 --> 00:11:36,399
+in unserer Gruppe gibt,
+und für TSA-Sicherheitszwecke.
+
+254
+00:11:36,400 --> 00:11:38,166
+[Michael]
+Diese psychologischen Untersuchungen
+
+255
+00:11:38,167 --> 00:11:39,700
+werden häufig von Arbeitgebern verwendet
+
+256
+00:11:39,701 --> 00:11:42,299
+versuchen, Anzeichen
+von Depressionen, Angstzuständen
+
+257
+00:11:42,300 --> 00:11:44,233
+und andere Bedingungen
+die jemanden
+
+258
+00:11:44,234 --> 00:11:46,967
+ungeeignet machen könnten,
+an diesem Experiment teilzunehmen.
+
+259
+00:11:46,968 --> 00:11:48,733
+Vielen Dank.
+Ich wünsche ihnen einen wunderbaren Tag.
+
+260
+00:11:48,734 --> 00:11:50,399
+Danke Ihnen.
+
+261
+00:11:50,400 --> 00:11:52,633
+Zurück in Dr. Casons Praxis
+
+262
+00:11:52,634 --> 00:11:54,867
+haben wir die Antworten der potenziellen
+Probanden überprüft.
+
+263
+00:11:54,868 --> 00:11:58,700
+Diese bestimmte Person,
+Ich war darüber besorgt.
+
+264
+00:11:58,701 --> 00:12:02,733
+Einige hohe Selbstmordgedanken,
+hohes Handeln.
+
+265
+00:12:02,734 --> 00:12:05,800
+Diese Art
+von Faktoren sind möglicherweise nicht
+gut für ein Experiment,
+
+266
+00:12:05,801 --> 00:12:07,433
+bei dem Sie
+versuchen möchten, einen
+
+267
+00:12:07,434 --> 00:12:09,700
+Teil des Traumas
+zu verhindern.
+-Recht.
+
+268
+00:12:09,701 --> 00:12:11,032
+Diese Menschen,
+
+269
+00:12:11,033 --> 00:12:12,733
+und es gibt
+eine große Gruppe von ihnen
+
+270
+00:12:12,734 --> 00:12:14,633
+, sind widerstandsfähiger.
+
+271
+00:12:14,634 --> 00:12:18,333
+Daher würde ich mich
+mit diesen Menschen wohler fühlen,
+
+272
+00:12:18,334 --> 00:12:19,833
+weil ihre Fähigkeit
+, sich
+
+273
+00:12:19,834 --> 00:12:22,333
+in schwierigen Situationen zu
+erholen, sie
+
+274
+00:12:22,334 --> 00:12:23,999
+weniger anfällig
+für ein Trauma machen könnte.
+
+275
+00:12:24,000 --> 00:12:27,800
+[Michael] Schließlich, nachdem
+zwei Psychologen
+
+276
+00:12:27,801 --> 00:12:29,466
+und eine Ethikkommission der Universität konsultiert wurden,
+
+277
+00:12:29,467 --> 00:12:46,566
+war es an der Zeit, unseren Plan vorzustellen
+in die Tat umsetzen.
+
+278
+00:12:46,567 --> 00:12:48,967
+[Michael] Hier werden wir
+
+
+279
+00:12:48,968 --> 00:12:50,766
+das Trolley-Problem
+im wirklichen Leben physisch erzeugen,
+
+280
+00:12:50,767 --> 00:12:53,433
+nicht mit einer Trolley,
+sondern mit einem Zug.
+
+281
+00:12:53,434 --> 00:12:55,433
+Unsere Probanden werden sich
+an diesem Stand
+
+282
+00:12:55,434 --> 00:12:56,666
+für unseren falschen Fokustest anmelden,
+
+283
+00:12:56,667 --> 00:12:58,700
+der nie
+wirklich stattfinden wird.
+
+284
+00:12:58,701 --> 00:13:00,566
+Es wird
+ein heißer Tag für sie.
+
+285
+00:13:00,567 --> 00:13:02,333
+Deshalb bieten wir ihnen,
+während sie auf
+
+286
+00:13:02,334 --> 00:13:05,533
+den Beginn des eigentlichen Tests warten,
+die Möglichkeit, in
+
+287
+00:13:05,534 --> 00:13:07,833
+dieser schönen, klimatisierten
+Fernschaltstation zu sitzen.
+
+288
+00:13:07,834 --> 00:13:11,933
+Drinnen treffen sie auf einen
+freundlichen Schalterbediener,
+
+289
+00:13:11,934 --> 00:13:13,299
+angeblich einen
+
+290
+00:13:13,300 --> 00:13:15,433
+Angestellten der California
+Railroad Authority.
+
+291
+00:13:15,434 --> 00:13:17,800
+Die California Railroad
+Authority ist real.
+
+292
+00:13:17,801 --> 00:13:19,433
+Echte Fälschung.
+
+293
+00:13:19,434 --> 00:13:22,666
+Wir haben diese nicht existierende
+Regierungsorganisation
+
+294
+00:13:22,667 --> 00:13:26,633
+erfunden, um unsere Untertanen davon zu überzeugen,
+dass hier alles real ist,
+
+295
+00:13:26,634 --> 00:13:30,333
+einschließlich dieser Monitore  
+zeigt angeblich Live-Aufnahmen
+
+296
+00:13:30,334 --> 00:13:32,833
+von echten Zügen
+von verschiedenen Gleisen in
+
+297
+00:13:32,834 --> 00:13:34,633
+ganz Kalifornien.
+
+298
+00:13:34,634 --> 00:13:38,666
+[Hupe ertönt]
+
+299
+00:13:38,667 --> 00:13:40,733
+Während der Teilnehmer
+in diesem Raum wartet,
+
+300
+00:13:40,734 --> 00:13:42,733
+lernt er, wie der Operator
+
+
+301
+00:13:42,734 --> 00:13:45,032
+mit einem Hebel auf Fernbedienung die Gleise umschaltet 
+i>einen Zug wechseln
+
+302
+00:13:45,033 --> 00:13:46,233
+von einem Gleis auf ein anderes.
+
+303
+00:13:46,234 --> 00:13:47,666
+Sie werden es sehen.
+
+304
+00:13:47,667 --> 00:13:49,766
+Wir steuern
+das Video
+
+305
+00:13:49,767 --> 00:13:52,700
+auf diesen Bildschirmen tatsächlich von
+einem anderen Versteck aus  Kontrollraum.
+
+306
+00:13:52,701 --> 00:13:54,766
+Zu einem bestimmten Zeitpunkt
+wird der Schalterbediener
+
+307
+00:13:54,767 --> 00:13:57,666
+das Subjekt in Ruhe lassen
+in der Vermittlungsstation.
+
+308
+00:13:57,667 --> 00:14:02,299
+Und an diesem Punkt  , wird
+eine Krise eintreten.
+
+309
+00:14:02,300 --> 00:14:05,633
+- [Bremsen zischen]
+- [Hupe ertönt]
+
+310
+00:14:05,634 --> 00:14:07,967
+Ein Zug wird
+die Gleise hinunterrasen,
+
+311
+00:14:07,968 --> 00:14:09,967
+und Arbeiter werden
+ihren Weg zu beiden Gleisen gefunden haben,
+
+312
+00:14:09,968 --> 00:14:15,132
+fünf auf  Einer, ein Arbeiter
+auf seinem Telefon auf dem anderen.
+
+313
+00:14:15,133 --> 00:14:17,266
+Niemand ist
+in der Nähe, um sie zu warnen,
+
+314
+00:14:17,267 --> 00:14:19,500
+wer irgendeine Art von Kontrolle
+oder Autorität hat.
+
+315
+00:14:19,501 --> 00:14:21,999
+Den Zug zu wechseln
+ist allein Sache des Themas.
+
+316
+00:14:22,000 --> 00:14:25,132
+Sie werden das Gefühl haben, dass das, was sie tun,
+reale Konsequenzen hat.   i>
+
+317
+00:14:25,133 --> 00:14:27,800
+-[
+Zughorn ertönt] -Werden fünf Menschen sterben...
+
+318
+00:14:27,801 --> 00:14:30,733
+oder einer?
+
+319
+00:14:30,734 --> 00:14:37,700
+[Horn bläst]
+
+320
+00:14:37,701 --> 00:14:40,333
+Unser erster Teilnehmer
+ist fast da,
+
+321
+00:14:40,334 --> 00:14:41,900
+also ist es Zeit für mich
+, mich fertig zu machen.
+
+322
+00:14:41,901 --> 00:14:44,500
+Dr. Cason,
+wie fühlen Sie sich?
+
+323
+00:14:44,501 --> 00:14:46,500
+-Gut.
+-Meine Hypothese
+
+324
+00:14:46,501 --> 00:14:49,500
+ist, dass wir die
+Leute sofort sehen werden,
+
+325
+00:14:49,501 --> 00:14:51,099
+wenn sie
+diese erste Warnung hören,
+
+326
+00:14:51,100 --> 00:14:53,566
+die Station verlassen und
+nicht wieder hinein wollen.
+
+327
+00:14:53,567 --> 00:14:56,132
+Die andere Option
+wäre natürlich
+die Freeze-Aktion,
+
+328
+00:14:56,133 --> 00:14:57,700
+bei der
+sie nichts tun
+
+329
+00:14:57,701 --> 00:14:59,666
+, weil sie nicht wissen,
+was sie tun sollen.
+
+330
+00:14:59,667 --> 00:15:01,900
+In diesem Fall
+möchten wir
+ihren Denkprozess kennen.
+
+331
+00:15:01,901 --> 00:15:05,166
+Es wird interessant sein
+zu sehen.  Das hat es noch
+nie gegeben.
+
+332
+00:15:05,167 --> 00:15:07,967
+In Ordnung, gut, los geht's.
+
+333
+00:15:07,968 --> 00:15:11,333
+[Warnglocken läuten]
+
+334
+00:15:11,334 --> 00:15:13,600
+[Michael]
+Unser erstes Thema ist Elsa.
+
+335
+00:15:13,601 --> 00:15:15,600
+[Frau] Willst du
+hier drüben im Schatten stehen?
+
+336
+00:15:15,601 --> 00:15:17,867
+Hi,  Ich bin Elsa,
+schön dich kennenzulernen.
+
+337
+00:15:17,868 --> 00:15:19,299
+Schön dich kennenzulernen, Elsa.
+
+338
+00:15:19,300 --> 00:15:21,333
+[Michael]
+Jeder, den sie als Schauspieler trifft,
+
+339
+00:15:21,334 --> 00:15:23,466
+und alle unsere Kameras
+sind versteckt
+
+340
+00:15:23,467 --> 00:15:26,233
+also hat sie keine Ahnung
+dass sie beobachtet wird.
+
+341
+00:15:26,234 --> 00:15:27,399
+Oh, ja,
+vielen Dank,
+
+342
+00:15:27,400 --> 00:15:28,600
+und dann mein Handy,
+wenn ich kann.
+
+343
+00:15:28,601 --> 00:15:30,066
+Vielen Dank.
+
+344
+00:15:30,067 --> 00:15:31,733
+[Michael] Unseren Versuchspersonen
+wurde gesagt, dass die Technologie,
+
+345
+00:15:31,734 --> 00:15:34,333
+die sie sehen werden
+, urheberrechtlich geschützt ist.
+
+346
+00:15:34,334 --> 00:15:36,600
+  Das gab uns einen Vorwand,
+ihre Telefone einzusammeln,
+
+347
+00:15:36,601 --> 00:15:39,800
+damit sie während der bevorstehenden Krise nicht um Hilfe rufen konnten
+.
+
+348
+00:15:39,801 --> 00:15:41,766
+-Danke  so viel
+zum Coming-out heute.
+-Vielen Dank.
+
+349
+00:15:41,767 --> 00:15:45,333
+Was wir hier machen, ist
+die California Railroad
+Authority,
+
+350
+00:15:45,334 --> 00:15:47,733
+sie entwickeln
+Hochgeschwindigkeitszüge.
+
+351
+00:15:47,734 --> 00:15:50,500
+Und deshalb möchten wir, dass die
+Öffentlichkeit hereinkommt und uns
+
+352
+00:15:50,501 --> 00:15:55,032
+Feedback gibt  darauf, wie
+bequem sie sind,
+die Einrichtung, wissen Sie.
+
+353
+00:15:55,033 --> 00:15:56,299
+-Oh wow.
+- All diese Sachen.
+
+354
+00:15:56,300 --> 00:15:58,733
+- [Handy piept] -
+Ähm, oh, schieß.
+
+355
+00:15:58,734 --> 00:16:01,233
+Sie laufen ein wenig
+hinter dem letzten her.
+
+356
+00:16:01,234 --> 00:16:04,433
+-Das ist okay.
+- Es dauert also nur
+noch 15, vielleicht 20 Minuten.
+
+357
+00:16:04,434 --> 00:16:06,700
+Ja, das ist in Ordnung, ja.
+Kein Problem.
+
+358
+00:16:06,701 --> 00:16:10,733
+Ähm... weißt du was?
+Ich habe eine Idee.
+
+359
+00:16:10,734 --> 00:16:11,833
+Okay.
+
+360
+00:16:11,834 --> 00:16:13,233
+Michael:
+Jetzt glaubt Elsa,
+
+361
+00:16:13,234 --> 00:16:14,933
+sie muss 20 Minuten warten
+.
+
+362
+00:16:14,934 --> 00:16:16,366
+- [klopft an die Tür] -
+Ja?
+
+363
+00:16:16,367 --> 00:16:17,766
+Unsere Schauspielerin gibt vor,
+um Erlaubnis zu bitten,
+
+364
+00:16:17,767 --> 00:16:19,700
+daß sie in
+der Vermittlungsstation warten darf.
+
+365
+00:16:19,701 --> 00:16:22,333
+Also, eigentlich ist
+das nicht so.  kein Teil davon.
+
+366
+00:16:22,334 --> 00:16:24,500
+Das ist ein abgelegener
+Umsteigebahnhof,
+
+367
+00:16:24,501 --> 00:16:26,533
+aber da es
+ein bisschen dauern wird
+
+368
+00:16:26,534 --> 00:16:28,299
+und es dort
+schön kühl und
+klimatisiert ist,
+
+369
+00:16:28,300 --> 00:16:30,566
+habe ich gerade mit Eddie gesprochen
+und er sagte
+
+370
+00:16:30,567 --> 00:16:32,299
+Es wäre total toll,
+wenn du reinkämst...
+
+371
+00:16:32,300 --> 00:16:33,867
+-Oh, ja, okay.
+-...und sieh es dir einfach an...
+
+372
+00:16:33,868 --> 00:16:39,066
+-Okay, cool.
+-... und sehen, was sie
+da drin machen.
+
+373
+00:16:39,067 --> 00:16:40,766
+Eddie, das ist Elsa.
+
+374
+00:16:40,767 --> 00:16:43,399
+-Wie geht es dir, Elsa?
+-Mir geht es gut, wie geht es dir?
+
+375
+00:16:43,400 --> 00:16:45,999
+Gut, komm rein
+, setz dich.
+
+376
+00:16:46,000 --> 00:16:48,233
+Also, was bringt dich auf diese Weise heraus?
+
+377
+00:16:48,234 --> 00:16:50,566
+Ähm, die Fokusgruppe.
+[lacht]
+
+378
+00:16:50,567 --> 00:16:51,900
+Fokusgruppe.
+
+379
+00:16:51,901 --> 00:16:55,366
+Ja, die Hochgeschwindigkeitsbahn.
+Die Luxuseisenbahn.
+
+380
+00:16:55,367 --> 00:16:59,132
+In Ordnung.  Was wir hier also haben, ist
+eine entfernte Umschaltstation.
+
+381
+00:16:59,133 --> 00:17:00,867
+Das sind alles Live-Feeds.
+
+382
+00:17:00,868 --> 00:17:04,766
+Was passiert, ist,
+dass viel gebaut wird.
+
+383
+00:17:04,767 --> 00:17:07,164
+Wir müssen den
+ganzen neuen Ballast hier durchbringen,
+
+384
+00:17:07,165 --> 00:17:08,967
+neue Bandschienen
+genau hier auf diesen.
+
+385
+00:17:08,968 --> 00:17:11,030
+[Michael] Falls du dich fragst
+, wir haben einen Schauspieler engagiert
+
+386
+00:17:11,031 --> 00:17:13,766
+der eigentlich 20 Jahre
+bei der Eisenbahn gearbeitet hat.
+
+387
+00:17:13,767 --> 00:17:15,900
+Können Sie sich vorstellen, wenn wir
+einen Schauspieler hätten, der nicht viel über Züge weiß</i
+
+388
+00:17:15,901 --> 00:17:17,633
+>?
+
+389
+00:17:17,634 --> 00:17:20,266
+[Greg]
+Er bietet etwas
+das sich Face Validity nennt
+
+390
+00:17:20,267 --> 00:17:22,366
+, indem du ihn anschauen kannst
+und du denkst,
+
+391
+00:17:22,367 --> 00:17:23,833
+"Ah  , dieser Typ ist echt."
+
+392
+00:17:23,834 --> 00:17:26,967
+Meine Aufgabe hier ist es
+, mich jetzt
+
+393
+00:17:26,968 --> 00:17:29,366
+hier auf diesen
+beiden Gleisen um alle Schaltvorgänge zu kümmern.
+
+394
+00:17:29,367 --> 00:17:31,999
+Also muss immer
+jemand hier drin sein.
+
+395
+00:17:32,000 --> 00:17:33,666
+Nun, das andere
+daran:
+
+396
+00:17:33,667 --> 00:17:36,266
+[weibliche Stimme]
+Achtung, Zug nähert sich.
+
+397
+00:17:36,267 --> 00:17:39,700
+Das ist wahrscheinlich
+eine Arbeitseinheit, die kommt.
+
+398
+00:17:39,701 --> 00:17:42,999
+-Uh-huh.
+- Wir werden es
+auf Gleis zwei umleiten.
+
+399
+00:17:43,000 --> 00:17:44,466
+Okay, also kommt ein Zug.
+
+400
+00:17:44,467 --> 00:17:45,766
+Jetzt hat sie die Gelegenheit
+zu lernen, wie der Schalter funktioniert.
+
+401
+00:17:45,767 --> 00:17:47,166
+Äh, sehr gut.
+
+402
+00:17:47,167 --> 00:17:49,166
+In der Tat, warum bist du
+nicht derjenige, der das tut?
+
+403
+00:17:49,167 --> 00:17:50,999
+Gehen Sie einfach voran
+und werfen Sie es selbst.
+
+404
+00:17:51,000 --> 00:17:52,967
+-Zieh es runter.
+-Im Augenblick?
+
+405
+00:17:52,968 --> 00:17:55,600
+Ja, mach weiter.  Gut.
+
+406
+00:17:55,601 --> 00:17:57,967
+Es geht viel schneller
+als Sie denken.
+
+407
+00:17:57,968 --> 00:18:02,666
+In Ordnung, es wird
+
+zu Track Nummer zwei übergehen.
+
+408
+00:18:02,667 --> 00:18:06,800
+Nun, ich sage dir was.
+Du bist jetzt Weichensteller.
+
+409
+00:18:06,801 --> 00:18:08,666
+[beide lachen]
+
+410
+00:18:08,667 --> 00:18:11,766
+Okay, gut,
+jetzt, da das hintere
+
+411
+00:18:11,767 --> 00:18:13,399
+Auto die Weichen verlassen hat,
+
+412
+00:18:13,400 --> 00:18:15,600
+mach weiter und schalte es zurück
+auf Spur eins.
+
+413
+00:18:15,601 --> 00:18:18,266
+-Okay.
+-Das war irgendwie beängstigend.
+
+414
+00:18:18,267 --> 00:18:20,266
+Ich dachte, oh mein Gott,
+ich muss es drehen.
+
+415
+00:18:20,267 --> 00:18:22,166
+Nun, warten Sie einfach.
+
+416
+00:18:22,167 --> 00:18:24,666
+Das Gute ist, wir haben es
+wieder auf Gleis eins,
+
+417
+00:18:24,667 --> 00:18:27,399
+und das bedeutet,
+dass der nächste Zug
+, der
+
+418
+00:18:27,400 --> 00:18:28,833
+durchfährt, auf Gleis eins durchfährt.
+
+419
+00:18:28,834 --> 00:18:31,066
+[Michael]
+Elsa versteht jetzt ganz genau,
+
+420
+00:18:31,067 --> 00:18:32,700
+wo die Züge fahren werden,
+
+421
+00:18:32,701 --> 00:18:35,800
+weiche einen nach links,
+weiche zwei nach rechts.
+
+422
+00:18:35,801 --> 00:18:39,967
+Es war an der Zeit, sie dazu zu zwingen,
+eine sehr schwierige Entscheidung zu treffen.
+
+423
+00:18:39,968 --> 00:18:42,466
+- [Handy klingelt] -
+Warte.
+
+424
+00:18:42,467 --> 00:18:45,700
+-Oh, ich muss das nehmen.
+-Oh, ja, sicher, kein Problem.
+
+425
+00:18:45,701 --> 00:18:46,867
+Tu mir einen Gefallen.
+
+426
+00:18:46,868 --> 00:18:48,299
+-Warte hier.
+-Okay.
+
+427
+00:18:48,300 --> 00:18:49,967
+Es muss immer jemand da
+sein.
+
+428
+00:18:49,968 --> 00:18:51,333
+Okay kein Problem.
+
+429
+00:18:51,334 --> 00:18:53,199
+Ich gehe einfach raus
+und kümmere mich darum.
+
+430
+00:18:53,200 --> 00:18:58,166
+-Okay kein Problem.  Okay.
+-Bin gleich wieder da.
+
+431
+00:18:58,167 --> 00:18:59,766
+[Greg]
+Schau ihr in die Augen
+
+432
+00:18:59,767 --> 00:19:01,199
+denn sie ist besorgt
+sofort,
+
+433
+00:19:01,200 --> 00:19:02,733
+ein wenig besorgt,
+wie "Was?"
+
+434
+00:19:02,734 --> 00:19:05,633
+[Michael] Wir gaben Elsa
+ein paar Minuten
+
+435
+00:19:05,634 --> 00:19:08,433
+,
+sich an ihre Umgebung zu gewöhnen, und dann
+
+436
+00:19:08,434 --> 00:19:11,766
+  wir haben mit der Wiedergabe
+unseres inszenierten Filmmaterials begonnen.
+
+437
+00:19:11,767 --> 00:19:14,299
+[Michael] In Ordnung,
+hier kommen die Arbeiter.
+
+438
+00:19:14,300 --> 00:19:17,833
+[weibliche Stimme]
+Achtung, Objekt auf der Strecke.
+
+439
+00:19:17,834 --> 00:19:19,466
+Ja, sie hat sie gerade bemerkt.
+
+440
+00:19:19,467 --> 00:19:24,800
+Achtung, Objekt auf der Strecke.
+
+441
+00:19:24,801 --> 00:19:30,233
+Achtung, Objekt auf der Strecke.
+
+442
+00:19:30,234 --> 00:19:32,999
+Achtung, Objekt auf der Strecke.
+
+443
+00:19:33,000 --> 00:19:36,766
+[Greg]
+Sie schaut
+in ihrer Handtasche zu finden...
+
+444
+00:19:36,767 --> 00:19:38,299
+-[Michael] Kein Telefon?
+-...kein Telefon.
+
+445
+00:19:38,300 --> 00:19:41,900
+Achtung, Gegenstand  auf Kurs.
+
+446
+00:19:41,901 --> 00:19:45,366
+Achtung, Objekt auf Kurs.
+
+447
+00:19:45,367 --> 00:19:47,466
+[Michael]
+Ich denke, die Warnung
+bewirkt viel.
+
+448
+00:19:47,467 --> 00:19:50,266
+Wenn du dabei bist  diese Station,
+du sollst etwas tun.
+
+449
+00:19:50,267 --> 00:19:55,266
+Achtung, Objekt auf Gleis.
+
+450
+00:19:55,267 --> 00:19:57,066
+Okay, hier kommt der Zug.
+
+451
+00:19:57,067 --> 00:19:58,967
+[Zughupe ertönt]
+
+452
+00:19:58,968 --> 00:20:01,266
+Achtung, Zug nähert sich.
+
+453
+00:20:01,267 --> 00:20:03,132
+Hier ist der "Zug nähert sich"
+Warnung.
+
+454
+00:20:03,133 --> 00:20:06,466
+Achtung, Objekt auf der Strecke.
+
+455
+00:20:06,467 --> 00:20:08,399
+[Greg]
+Ich denke nicht darüber nach--
+oh, da geht sie.
+
+456
+00:20:08,400 --> 00:20:09,967
+Achtung,  Zug nähert sich.
+
+457
+00:20:09,968 --> 00:20:11,900
+Ein Zug nähert sich.
+
+458
+00:20:11,901 --> 00:20:13,466
+[Frau] Was?
+
+459
+00:20:13,467 --> 00:20:16,700
+Ich wollte ihn wissen lassen, dass
+sich ein Zug nähert.
+
+460
+00:20:16,701 --> 00:20:18,500
+-Oh mein Gott, okay.
+-Kannst Du ihm sagen?
+
+461
+00:20:18,501 --> 00:20:20,633
+Ja, ich werde ihn sofort suchen gehen
+.
+
+462
+00:20:20,634 --> 00:20:23,132
+[Michael]
+Aber der Schalterbetreiber
+wird nicht zurückkommen.
+
+463
+00:20:23,133 --> 00:20:26,132
+Das volle Gewicht dieser Krise
+liegt allein auf Elsa.
+
+464
+00:20:26,133 --> 00:20:30,766
+[weibliche Stimme]
+Achtung, Zug nähert sich.
+
+465
+00:20:30,767 --> 00:20:33,766
+-Whoa, whoa, whoa.
+-Achtung, Objekt auf Gleis.
+
+466
+00:20:33,767 --> 00:20:36,500
+-Achtung, Zug nähert sich.
+-[Greg] Ich kann das nicht glauben.
+
+467
+00:20:36,501 --> 00:20:40,032
+Achtung,  Objekt auf Gleis.
+
+468
+00:20:40,033 --> 00:20:42,833
+Achtung, Zug nähert sich.
+
+469
+00:20:42,834 --> 00:20:46,066
+Achtung, Objekt auf Gleis.
+
+470
+00:20:46,067 --> 00:20:48,900
+Achtung, Zug nähert sich.
+
+471
+00:20:48,901 --> 00:20:52,633
+Achtung,  Objekt auf der Strecke.
+
+472
+00:20:52,634 --> 00:20:56,233
+Ende des Tests.
+Alle sind in Sicherheit.
+
+473
+00:20:56,234 --> 00:20:59,766
+Ende des Tests.
+Alle sind in Sicherheit. Alle sind in Sicherheit.  i>
+
+474
+00:20:59,767 --> 00:21:01,633
+-Okay.
+- [Michael] Wir wollten nicht,
+
+475
+00:21:01,634 --> 00:21:04,366
+dass die Teilnehmer denken,
+dass tatsächlich jemand verletzt wurde.
+
+476
+00:21:04,367 --> 00:21:06,733
+Also haben wir ihnen das gezeigt  i>
+"Jeder ist in Sicherheit"-Karte
+
+477
+00:21:06,734 --> 00:21:08,867
+bevor der Zug
+tatsächlich jemanden getroffen hätte.
+
+478
+00:21:08,868 --> 00:21:10,967
+-Elsa.
+-Ich bin Michael.
+
+479
+00:21:10,968 --> 00:21:12,233
+-Hallo,
+-Und das ist Greg.
+
+480
+00:21:12,234 --> 00:21:14,032
+-Das war alles ein Experiment.
+-Okay.
+
+481
+00:21:14,033 --> 00:21:15,466
+Können wir reinkommen?
+
+482
+00:21:15,467 --> 00:21:16,800
+Wir möchten
+Ihnen einige Fragen stellen.
+
+483
+00:21:16,801 --> 00:21:18,766
+Ja sicher.
+Habe ich etwas falsch gemacht?
+
+484
+00:21:18,767 --> 00:21:21,032
+-Gar nicht.
+-Wie fühlst du dich gerade?
+
+485
+00:21:21,033 --> 00:21:24,099
+[lacht]
+Ähm... nur Angst.
+
+486
+00:21:24,100 --> 00:21:26,500
+- Gehen Sie voran und nehmen Sie Platz.
+-[Greg] Angst?
+
+487
+00:21:26,501 --> 00:21:29,666
+-Ja.
+- Also war niemand in Gefahr.
+
+488
+00:21:29,667 --> 00:21:32,633
+Dies ist ein psychologisches
+Experiment, das wir
+
+489
+00:21:32,634 --> 00:21:35,500
+darüber durchführen, wie sich Menschen verhalten,
+wenn Entscheidungen getroffen werden müssen.
+
+490
+00:21:35,501 --> 00:21:38,199
+-Oh, in Ordnung.
+-Erkläre mir, wie du dich gefühlt hast.
+
+491
+00:21:38,200 --> 00:21:39,967
+Ich habe den Druck gespürt.
+Ich sage: "Oh mein Gott,
+
+492
+00:21:39,968 --> 00:21:41,500
+diese Leute werden sterben."
+
+493
+00:21:41,501 --> 00:21:44,366
+Ich musste eine sehr schnelle
+und fundierte Entscheidung treffen,
+
+494
+00:21:44,367 --> 00:21:46,366
+sofort, genau jetzt,
+genau in dieser Sekunde.
+
+495
+00:21:46,367 --> 00:21:48,233
+Ihre Leben waren in meinen Händen.
+
+496
+00:21:48,234 --> 00:21:50,032
+Ich muss es ändern
+auf Spur zwei.
+
+497
+00:21:50,033 --> 00:21:53,399
+[Michael] Was motivierte
+Ihre Entscheidung zu wechseln?
+
+498
+00:21:53,400 --> 00:21:56,533
+Damit ich mehr Leben retten kann.
+
+499
+00:21:56,534 --> 00:22:00,032
+Ich wusste nicht, ob ich
+die richtige Entscheidung getroffen hatte.
+
+500
+00:22:00,033 --> 00:22:04,900
+Ich meine,
+ein Leben ist ein Leben, richtig?
+
+501
+00:22:04,901 --> 00:22:07,533
+[Michael] Wenn also
+zwei schreckliche Entscheidungen getroffen wurden,
+
+502
+00:22:07,534 --> 00:22:09,800
+mindestens eine Person
+in der Lage war
+
+503
+00:22:09,801 --> 00:22:13,867
+  vorsätzliche Aktion, um
+eine zu opfern, um fünf zu retten.
+
+504
+00:22:13,868 --> 00:22:18,066
+Aber wir wollten sehen,
+ob Elsas Reaktion typisch war.
+
+505
+00:22:18,067 --> 00:22:20,500
+-Brauche meine  Telefon?
+-Ja bitte.
+
+506
+00:22:20,501 --> 00:22:22,700
+Interessieren Sie sich
+für Hochgeschwindigkeitstransporte?
+
+507
+00:22:22,701 --> 00:22:25,366
+-Oh, ja, alles
+was durchkommt--
+-[Handy klingelt]
+
+508
+00:22:25,367 --> 00:22:27,999
+Schießen, Entschuldigung.  Ich habe gerade eine SMS bekommen.
+Es tut mir Leid.
+
+509
+00:22:28,000 --> 00:22:29,433
+Warum schaust du nicht
+da rein
+
+510
+00:22:29,434 --> 00:22:31,266
+und siehst die Züge fahren?
+
+511
+00:22:31,267 --> 00:22:33,500
+Oh, es ist
+so viel schöner hier
+drin als draußen.
+
+512
+00:22:33,501 --> 00:22:36,399
+Als ich anfing, musste ich früher
+in der Sonne stehen.
+
+513
+00:22:36,400 --> 00:22:38,199
+-Was?
+- Weißt du, wann
+der nächste Zug kommt?
+
+514
+00:22:38,200 --> 00:22:40,633
+- Da kommt einer
+.
+-Er hat ein tolles Auge.
+
+515
+00:22:40,634 --> 00:22:43,466
+[Frauenstimme]
+Achtung, Zug nähert sich.
+
+516
+00:22:43,467 --> 00:22:46,099
+[Michael] Wie bei Elsa,
+hat jedes Fach eine Lektion
+
+517
+00:22:46,100 --> 00:22:47,700
+im Schalten bekommen  Tracks.
+
+518
+00:22:47,701 --> 00:22:49,333
+Warum gehst du nicht voran
+und wechselst sie?
+
+519
+00:22:49,334 --> 00:22:51,032
+-Genau hier?
+-Ja.
+
+520
+00:22:51,033 --> 00:22:52,733
+Fortfahren.
+Wie fühlt sich das an?
+
+521
+00:22:52,734 --> 00:22:55,999
+Ich war wie beschwingt.
+Ich war wie-- Ich wurde nervös.
+
+522
+00:22:56,000 --> 00:22:57,266
+-[Handy klingelt]
+-Eine Sekunde.
+
+523
+00:22:57,267 --> 00:23:01,066
+Lassen Sie mich das überprüfen.
+Warte eine Sekunde.  Ah.
+
+524
+00:23:01,067 --> 00:23:02,666
+Jemand muss
+die ganze Zeit hier sein.
+
+525
+00:23:02,667 --> 00:23:04,399
+- Ich habe es, ja, ich bin hier.
+-Okay.
+
+526
+00:23:04,400 --> 00:23:06,132
+-Hallo?
+- [lacht]
+
+527
+00:23:06,133 --> 00:23:08,099
+Breaker, eins-neun,
+Roger, kopiere das.
+
+528
+00:23:08,100 --> 00:23:10,733
+Er zapft tatsächlich
+die Macht
+an, in dieser Position zu sein.
+
+529
+00:23:10,734 --> 00:23:13,933
+[weibliche Stimme]
+Achtung, Objekt auf der Strecke.
+
+530
+00:23:13,934 --> 00:23:15,099
+[Michael]
+Hier kommt der Test.
+
+531
+00:23:15,100 --> 00:23:18,366
+Achtung, Objekt auf Gleis.
+
+532
+00:23:18,367 --> 00:23:21,233
+Achtung, Zug nähert sich.
+
+533
+00:23:21,234 --> 00:23:22,867
+[Greg]
+Sie bewegt sich nicht.
+
+534
+00:23:22,868 --> 00:23:25,266
+-Achtung, Zug nähert sich.  i>
+-Beobachten Sie einfach seine Augenbrauen.
+
+535
+00:23:25,267 --> 00:23:26,466
+[Michael] Oh, ja.
+
+536
+00:23:26,467 --> 00:23:28,800
+Augen gehen
+hin und her.
+
+537
+00:23:28,801 --> 00:23:30,032
+Zug nähert sich.
+
+538
+00:23:30,033 --> 00:23:31,900
+-Oh, sie ist besorgt.
+-Ja.
+
+539
+00:23:31,901 --> 00:23:33,633
+Zug nähert sich.
+
+540
+00:23:33,634 --> 00:23:35,933
+Ich weiß nicht, was ich  würde
+in einem solchen Szenario tun.
+
+541
+00:23:35,934 --> 00:23:40,199
+Zug nähert sich.
+
+542
+00:23:40,200 --> 00:23:42,766
+Das ist so eine
+eingefrorene Pose, die wir sehen.
+
+543
+00:23:42,767 --> 00:23:46,032
+Lähmung angesichts der Gefahr
+ist eine so häufige Reaktion.
+
+544
+00:23:46,033 --> 00:23:49,399
+Achtung, Objekt auf Gleis.
+
+545
+00:23:49,400 --> 00:23:52,066
+Achtung, Zug nähert sich.
+
+546
+00:23:52,067 --> 00:23:53,633
+Objekt auf Gleis.
+
+547
+00:23:53,634 --> 00:23:55,733
+[Michael] Auch wenn der Zug
+Sekunden entfernt ist,
+
+548
+00:23:55,734 --> 00:23:58,633
+manche noch suchen
+  damit andere die Kontrolle übernehmen.
+
+549
+00:23:58,634 --> 00:24:00,933
+Ich werde versuchen
+, ihn zu finden.  Okay.
+
+550
+00:24:00,934 --> 00:24:03,399
+- [singt leise]
+-Sie singt.
+
+551
+00:24:03,400 --> 00:24:05,233
+Das ist selbstberuhigend
+, ja.
+
+552
+00:24:05,234 --> 00:24:08,199
+[weibliche Stimme]
+Objekt auf der Strecke.  Achtung.
+
+553
+00:24:08,200 --> 00:24:10,433
+-Sie bewegt sich nicht.
+-Oh mein Gott, wow.
+
+554
+00:24:10,434 --> 00:24:12,633
+-Okay,
+-Wird sie schalten?
+
+555
+00:24:12,634 --> 00:24:18,833
+Zug nähert sich.
+Achtung, Objekt auf Gleis.
+
+556
+00:24:18,834 --> 00:24:20,199
+  Achtung.
+
+557
+00:24:20,200 --> 00:24:23,500
+Ende des Tests.
+Alle sind in Sicherheit.
+
+558
+00:24:23,501 --> 00:24:25,666
+-Was?
+-Ok, los geht es.
+
+559
+00:24:25,667 --> 00:24:28,399
+[Michael] Keiner dieser
+Teilnehmer hat den Hebel gezogen.
+
+560
+00:24:28,400 --> 00:24:29,933
+Zeit herauszufinden, warum.
+
+561
+00:24:29,934 --> 00:24:31,132
+[Michael] Hallo, J.R.
+
+562
+00:24:31,133 --> 00:24:32,933
+Oh mein Gott!
+Wie geht es euch?
+
+563
+00:24:32,934 --> 00:24:34,666
+- Mein Name ist Michael.
+-J.R.
+
+564
+00:24:34,667 --> 00:24:37,099
+Alles, was gerade passiert ist,
+war ein Experiment.
+
+565
+00:24:37,100 --> 00:24:39,967
+[lacht]
+
+566
+00:24:39,968 --> 00:24:41,132
+Das war ein Experiment.
+
+567
+00:24:41,133 --> 00:24:43,066
+-Oh mein Gott.
+-Okay.
+
+568
+00:24:43,067 --> 00:24:45,666
+Was
+hast du gefühlt, als du das gesehen hast?
+
+569
+00:24:45,667 --> 00:24:47,600
+Verängstigt!  Ich-- ich habe nur--
+
+570
+00:24:47,601 --> 00:24:49,266
+ich fühlte mich
+ein wenig ängstlich,
+als ich
+
+571
+00:24:49,267 --> 00:24:51,399
+den Zug kommen sah,
+wie: "Oh mein Gott!"
+
+572
+00:24:51,400 --> 00:24:53,600
+- Dein Herz schlägt schnell?
+-Ja, ein bisschen, ja.
+
+573
+00:24:53,601 --> 00:24:55,333
+Sag mir, was ging
+dir durch den Kopf, als du
+
+574
+00:24:55,334 --> 00:24:57,132
+die erste Warnung hörtest,
+dass sich ein Zug nähert?
+
+575
+00:24:57,133 --> 00:24:59,066
+Ich dachte
+darüber nach, es zu wechseln,
+
+576
+00:24:59,067 --> 00:25:01,666
+aber dann
+tatsächlich darauf zu reagieren,
+war eine andere Sache.
+
+577
+00:25:01,667 --> 00:25:05,533
+Ich habe
+meine Verantwortung irgendwie ausgesetzt.
+
+578
+00:25:05,534 --> 00:25:07,433
+Ich wusste nicht
+, was ich tun sollte,
+also dachte ich nur:
+
+579
+00:25:07,434 --> 00:25:09,433
+„Oh, ich fasse es besser nicht an
+,
+weil ich nicht weiß,
+
+580
+00:25:09,434 --> 00:25:10,766
+ob ich
+etwas vermasseln werde.“
+
+581
+00:25:10,767 --> 00:25:12,967
+Ich würde davon ausgehen,
+dass
+
+582
+00:25:12,968 --> 00:25:16,132
+von diesen fünf Typen
+jemand zurückgeblickt hätte.
+
+583
+00:25:16,133 --> 00:25:17,999
+Sie wollten ausweichen
+
+
+584
+00:25:18,000 --> 00:25:19,600
+, der Zug
+plante bereits zu halten.
+
+585
+00:25:19,601 --> 00:25:21,132
+Ich denke, sie haben
+diese Züge wahrscheinlich
+
+586
+00:25:21,133 --> 00:25:22,766
+mit einer Art Sensor
+oder so etwas gebaut.
+
+587
+00:25:22,767 --> 00:25:25,099
+[Michael] "Der Zug
+hatte wahrscheinlich Sensoren."
+
+588
+00:25:25,100 --> 00:25:27,066
+"Die Arbeiter hätten es bemerkt."
+
+589
+00:25:27,067 --> 00:25:29,333
+"Das wollte ich nicht  zu berühren
+die Ausrüstung."
+
+590
+00:25:29,334 --> 00:25:31,233
+Dies sind alles Formen
+der Zuschreibung,
+
+591
+00:25:31,234 --> 00:25:33,366
+wenn eine Person annimmt
+dass andere
+
+592
+00:25:33,367 --> 00:25:35,132
+entweder verantwortlich
+für Maßnahmen sind
+
+593
+00:25:35,133 --> 00:25:37,266
+oder dies bereits getan haben.
+
+594
+00:25:37,267 --> 00:25:39,066
+-Beide Tracks
+waren mit Leuten besetzt.
+-Recht!
+
+595
+00:25:39,067 --> 00:25:42,233
+Und ich wusste einfach nicht,
+wer leben und wer sterben sollte.
+
+596
+00:25:42,234 --> 00:25:44,099
+Wechsel ich,
+wechsle ich nicht?
+
+597
+00:25:44,100 --> 00:25:45,967
+Ich meine, so oder so,
+jemand wird
+wirklich schwer verletzt.
+
+598
+00:25:45,968 --> 00:25:47,199
+Ich wollte diese Macht nicht.
+
+599
+00:25:47,200 --> 00:25:50,700
+Es war ein
+ziemlicher Test, würde ich sagen.
+
+600
+00:25:50,701 --> 00:25:52,266
+[Michael]
+Es ist ein ziemlicher Test.
+
+601
+00:25:52,267 --> 00:25:53,967
+An diesem Punkt
+ein Proband
+
+602
+00:25:53,968 --> 00:25:56,533
+hatte die Spur gewechselt,
+und fünf andere nicht.
+
+603
+00:25:56,534 --> 00:26:00,266
+Aber wir waren noch nicht fertig.
+Treffen Sie Cory.
+
+604
+00:26:00,267 --> 00:26:03,800
+-Hier, nehmen Sie Platz.
+-Vielen Dank, danke.
+
+605
+00:26:03,801 --> 00:26:05,166
+Das ist cool.
+
+606
+00:26:05,167 --> 00:26:06,967
+Dieses ganze Modul
+wird sich
+
+607
+00:26:06,968 --> 00:26:09,867
+mit der ganzen Nation verbinden,
+wenn wir es wollten.
+
+608
+00:26:09,868 --> 00:26:13,032
+Aber im Moment sehen wir
+uns nur Gleis eins auf der linken Seite an,
+
+609
+00:26:13,033 --> 00:26:14,766
+Gleis zwei dort hindurch.
+
+610
+00:26:14,767 --> 00:26:17,233
+-Hübsch.
+-Das sind viele,
+viele Meilen entfernt.
+
+611
+00:26:17,234 --> 00:26:19,666
+-Ja,
+-Aber das sind alles Live-Feeds.
+
+612
+00:26:19,667 --> 00:26:22,333
+Vermessung der Szene.
+Adlers Sicht.
+
+613
+00:26:22,334 --> 00:26:25,733
+- [Handy klingelt] -
+Ja.  Lassen Sie mich sehen, was das ist.
+
+614
+00:26:25,734 --> 00:26:31,533
+- Okay, ich bin gleich wieder da.
+-Okay, verstanden.
+
+615
+00:26:31,534 --> 00:26:38,299
+[Greg]
+Er bleibt verlobt.
+
+616
+00:26:38,300 --> 00:26:40,600
+[Michael]
+Hier kommen die Arbeiter.
+
+617
+00:26:40,601 --> 00:26:43,333
+Oh nein.
+
+618
+00:26:43,334 --> 00:26:46,733
+[weibliche Stimme]
+Achtung, Objekt auf der Strecke.
+
+619
+00:26:46,734 --> 00:26:48,199
+Uh, ja.
+
+620
+00:26:48,200 --> 00:26:51,099
+Also erkennt er, dass es
+ein potenzielles Problem gibt.
+
+621
+00:26:51,100 --> 00:26:52,933
+Ich glaube,
+er wird raus.
+
+622
+00:26:52,934 --> 00:26:55,333
+Achtung, Zug nähert sich.
+
+623
+00:26:55,334 --> 00:26:59,700
+Ähm, da kommt ein Zug?
+Ähm...
+
+624
+00:26:59,701 --> 00:27:00,800
+[Greg] Okay.
+
+625
+00:27:00,801 --> 00:27:02,833
+Achtung, Objekt auf der Strecke.
+
+626
+00:27:02,834 --> 00:27:05,299
+Äh, ja.
+
+627
+00:27:05,300 --> 00:27:12,700
+Achtung, Zug nähert sich.
+
+628
+00:27:12,701 --> 00:27:15,999
+Okay, er merkt, dass
+niemand da ist, es ist dringend.
+
+629
+00:27:16,000 --> 00:27:18,199
+Okay
+, das muss also gehen an...
+
+630
+00:27:18,200 --> 00:27:19,766
+Achtung, Objekt auf der Strecke.
+
+631
+00:27:19,767 --> 00:27:21,666
+[Greg] Okay, er
+probt, was zu tun ist.
+
+632
+00:27:21,667 --> 00:27:26,233
+-Achtung, Zug nähert sich.
+-Oh.  Spur zwei.
+
+633
+00:27:26,234 --> 00:27:27,833
+Wissen sie es nicht?
+
+634
+00:27:27,834 --> 00:27:30,032
+Achtung, Zug nähert sich.
+
+635
+00:27:30,033 --> 00:27:32,800
+Ich weiß.
+Das sollen sie sehen.
+
+636
+00:27:32,801 --> 00:27:36,733
+Objekt auf Gleis.
+Achtung, Zug nähert sich.
+
+637
+00:27:36,734 --> 00:27:41,466
+-Achtung, Objekt auf Gleis.
+-[Zughupe ertönt]
+
+638
+00:27:41,467 --> 00:27:44,500
+-Achtung, Objekt auf der Strecke.
+-Oh mein Gott.
+
+639
+00:27:44,501 --> 00:27:47,933
+-Ende des Tests.
+-Okay, gut.
+
+640
+00:27:47,934 --> 00:27:55,766
+Jeder ist in Sicherheit.
+
+641
+00:27:55,767 --> 00:27:58,733
+-Hallo?
+-Hallo, Cory, mein Name ist Michael.
+
+642
+00:27:58,734 --> 00:28:02,600
+Es gab nur
+einen scheinbar fast einen Unfall
+.
+
+643
+00:28:02,601 --> 00:28:05,600
+-Cory, alles was gerade
+passiert ist, war ein Experiment.
+-Okay.
+
+644
+00:28:05,601 --> 00:28:07,299
+- Niemand war in Gefahr.
+-Mit Sicherheit.
+
+645
+00:28:07,300 --> 00:28:09,733
+Dies waren nur Schleifen
+von zuvor aufgenommenen Videos.
+
+646
+00:28:09,734 --> 00:28:13,266
+Das ist ein psychologisches Experiment, das untersucht
+, wie sich Menschen verhalten...
+
+647
+00:28:13,267 --> 00:28:16,266
+-Okay.  Okay, ja.
+-...unter verschiedenen Umständen.
+
+648
+00:28:16,267 --> 00:28:18,099
+Also sag mir,
+wie du dich gefühlt hast.
+
+649
+00:28:18,100 --> 00:28:21,633
+- Hauptsächlich ein Haufen Terror.
+- [Greg] Schrecken.
+
+650
+00:28:21,634 --> 00:28:25,700
+Und Verantwortung,
+weil ich am Ruder war.
+
+651
+00:28:25,701 --> 00:28:30,066
+Und nur entsetzt
+darüber, eine Entscheidung
+
+652
+00:28:30,067 --> 00:28:33,333
+zwischen
+fünf Personen im Vergleich zu einer zu treffen.
+
+653
+00:28:33,334 --> 00:28:37,199
+Es war sehr beängstigend,
+um es gelinde auszudrücken.
+
+654
+00:28:37,200 --> 00:28:38,933
+-Es war beängstigend, richtig.
+-Ja.  Oh ja.
+
+655
+00:28:38,934 --> 00:28:40,733
+Was ging
+Ihnen durch den Kopf,
+
+656
+00:28:40,734 --> 00:28:42,933
+als der Zug
+die Gleise herunterfuhr?
+
+657
+00:28:42,934 --> 00:28:47,199
+Es war hauptsächlich, um sie zu warnen.
+
+658
+00:28:47,200 --> 00:28:48,733
+Es gibt –
+nur um es noch einmal zu wiederholen –
+
+659
+00:28:48,734 --> 00:28:50,967
+was steht an?
+Was kommt gerade?
+
+660
+00:28:50,968 --> 00:28:54,466
+Sie wollen sich
+nicht zwischen Menschen entscheiden müssen.
+
+661
+00:28:54,467 --> 00:28:55,867
+Recht.
+
+662
+00:28:55,868 --> 00:28:58,967
+Und das war wirklich hart.
+
+663
+00:28:58,968 --> 00:29:01,600
+Entweder wie sechs Familien
+oder eine Familie?
+
+664
+00:29:01,601 --> 00:29:07,733
+Es war, wie... es lag an mir,
+es fühlte sich so an.  Ja.
+
+665
+00:29:07,734 --> 00:29:11,967
+Es war interessant für mich, dass
+Sie eine solche Geistesgegenwart hatten.
+
+666
+00:29:11,968 --> 00:29:14,633
+[Michael] Ja, such dir Hilfe
+und triff eine Entscheidung.
+
+667
+00:29:14,634 --> 00:29:18,700
+Diejenige, von der jeder,
+wenn man sie in einer Umfrage fragt,
+
+668
+00:29:18,701 --> 00:29:20,733
+sagt, dass sie gerne mutig genug wäre, sie
+zu machen.
+
+669
+00:29:20,734 --> 00:29:24,166
+Ja, das war beeindruckend,
+Cory, das war es wirklich.
+
+670
+00:29:24,167 --> 00:29:25,533
+Vielen Dank.
+
+671
+00:29:25,534 --> 00:29:28,733
+Weißt du, ich denke, es
+wäre gut, wenn du
+
+672
+00:29:28,734 --> 00:29:32,199
+einige der Leute triffst, die
+teilgenommen haben, damit du es sehen kannst.
+-Fantastisch.
+
+673
+00:29:32,200 --> 00:29:34,600
+Ja, lass uns das machen,
+folge uns einfach nach draußen
+
+674
+00:29:34,601 --> 00:29:40,700
+– und triff die Schauspieler.
+-Fantastisch.
+
+675
+00:29:40,701 --> 00:29:42,700
+[Michael] Cory hat uns gezeigt,
+wie wichtig
+
+676
+00:29:42,701 --> 00:29:44,867
+die Nachbesprechung
+in dieser Situation war.
+
+677
+00:29:44,868 --> 00:29:47,533
+Die Schauspieler treffen  ,
+was alle unsere Probanden taten,
+
+678
+00:29:47,534 --> 00:29:53,366
+bekräftigte, dass dies
+keine Realität war.
+
+679
+00:29:53,367 --> 00:29:56,066
+Also, Greg, Trolley-Problem.
+
+680
+00:29:56,067 --> 00:29:57,967
+-Mm-hmm.
+- Ich bin in dieses
+
+681
+00:29:57,968 --> 00:30:01,333
+Thema hineingegangen, weil ich dachte, wir würden
+einige allgemeine Wahrheiten
+über die menschliche Natur herauskitzeln.
+
+682
+00:30:01,334 --> 00:30:03,299
+
+Was wir jedoch wirklich gesehen haben,
+
+683
+00:30:03,300 --> 00:30:06,500
+ist, dass Sie
+viel über das Individuum lernen.
+
+684
+00:30:06,501 --> 00:30:10,266
+-Recht.
+-Jeder hatte eine Erklärung
+für sein Verhalten.
+
+685
+00:30:10,267 --> 00:30:11,800
+-Ja.
+-Jeder war anders.
+
+686
+00:30:11,801 --> 00:30:14,733
+Ja, jede einzelne Person hat
+sich eine Geschichte
+
+687
+00:30:14,734 --> 00:30:16,600
+darüber erzählt, was
+nach den Fakten
+
+688
+00:30:16,601 --> 00:30:18,433
+und ihrer
+Analyse der Umgebung passiert ist
+
+689
+00:30:18,434 --> 00:30:20,766
+und was gerade
+passiert,
+
+690
+00:30:20,767 --> 00:30:23,333
+aber es basiert auch
+auf ihrem eigenen Hintergrund
+und ihrer Erfahrung.
+
+691
+00:30:23,334 --> 00:30:26,099
+Absolut, es gab Leute
+, die einfach erstarrt waren,
+
+692
+00:30:26,100 --> 00:30:28,600
+merkten, dass etwas nicht stimmte
+und sie waren nicht vorbereitet.
+
+693
+00:30:28,601 --> 00:30:30,600
+[Greg] J.R.  war
+ein großartiges Beispiel dafür.
+
+694
+00:30:30,601 --> 00:30:34,166
+Er bewertete alles,
+sagte aber irgendwann nur:
+
+695
+00:30:34,167 --> 00:30:36,266
+"Weißt du,
+ich weiß nicht, was ich tun soll."
+
+696
+00:30:36,267 --> 00:30:39,800
+Andere Leute
+waren bereit zu sagen:
+„Weißt du was?
+
+697
+00:30:39,801 --> 00:30:41,867
+Das liegt nicht an mir.
+Das liegt an der Technologie.
+
+698
+00:30:41,868 --> 00:30:44,233
+Ich bin mir sicher, dass darauf geachtet wird
+von anderen."
+
+699
+00:30:44,234 --> 00:30:46,266
+Während jemand wie Cory,
+
+700
+00:30:46,267 --> 00:30:47,967
+-jemand wie Elsa sagte...
+-[Schalter klickt]
+
+701
+00:30:47,968 --> 00:30:50,533
+  -..."Nein, ich muss
+ die Kontrolle übernehmen."
+-[Klick]
+
+702
+00:30:50,534 --> 00:30:52,666
+Sie hatten immer noch
+dieselben Gedanken,
+
+703
+00:30:52,667 --> 00:30:54,933
+aber ich denke, was passiert
+ist, ist, dass sie das erkannt haben
+
+704
+00:30:54,934 --> 00:30:57,299
+, wenn sie es getan hätten
+etwas nicht tun,
+
+705
+00:30:57,300 --> 00:30:58,867
+würden mehr Menschen verletzt werden.
+
+706
+00:30:58,868 --> 00:31:01,633
+Keiner von ihnen
+wollte
+wirklich etwas tun.
+
+707
+00:31:01,634 --> 00:31:04,333
+Sie fühlten sich beide gezwungen
+, etwas zu tun
+
+708
+00:31:04,334 --> 00:31:06,132
+, weil sie
+Leben retten mussten.
+
+709
+00:31:06,133 --> 00:31:09,132
+Also hat es sich gelohnt,
+das Trolley-Experiment zu machen?
+
+710
+00:31:09,133 --> 00:31:10,733
+Ich denke, es hat sich
+auf jeden Fall gelohnt.
+
+711
+00:31:10,734 --> 00:31:12,700
+Einige davon  diese Teilnehmer,
+wenn nicht alle,
+
+712
+00:31:12,701 --> 00:31:15,032
+lernten etwas
+über menschliches Verhalten.
+
+713
+00:31:15,033 --> 00:31:16,600
+Obwohl es so war
+eine schwierige Erfahrung,
+
+714
+00:31:16,601 --> 00:31:19,766
+Elsa lernte, welche
+innere Stärke sie hatte,
+
+715
+00:31:19,767 --> 00:31:21,700
+und ich glaube, das hatten wir gesehen
+  auch mit Cory.
+
+716
+00:31:21,701 --> 00:31:24,533
+Jeder einzelne
+unserer Teilnehmer hatte das Gefühl,
+
+717
+00:31:24,534 --> 00:31:26,566
+dass er einfach
+zu etwas beigetragen hat.
+-Recht.
+
+718
+00:31:26,567 --> 00:31:28,633
+Und sie spüren den Wert dessen,
+was gerade passiert ist.
+
+719
+00:31:28,634 --> 00:31:30,900
+-Ja.
+-Es sind nicht nur wir.
+
+720
+00:31:30,901 --> 00:31:36,800
+Wow.
+
+721
+00:31:36,801 --> 00:31:39,466
+Seitdem haben
+wir unsere Probanden weiterverfolgt,
+
+722
+00:31:39,467 --> 00:31:41,299
+und allen geht es gut.
+
+723
+00:31:41,300 --> 00:31:43,533
+Ich bin froh, dass wir das Risiko minimiert haben, indem wir
+
+724
+00:31:43,534 --> 00:31:45,633
+
+schutzbedürftige Personen
+
+725
+00:31:45,634 --> 00:31:49,233
+vorab überprüft, die Teilnehmer
+nachbefragt und vor Ort beraten haben,
+
+726
+00:31:49,234 --> 00:31:51,500
+denn dies
+gab mir die Zuversicht,
+
+727
+00:31:51,501 --> 00:31:55,533
+dass wir diese Facette
+der menschlichen Psychologie ethisch untersuchen können.
+
+728
+00:31:55,534 --> 00:31:58,399
+Wir haben gelernt, dass es
+einen großen Unterschied gibt
+
+729
+00:31:58,400 --> 00:32:00,566
+zwischen dem, was Menschen
+denken, was sie tun würden,
+
+730
+00:32:00,567 --> 00:32:02,867
+und dem, was sie tatsächlich tun,
+wenn sie
+
+731
+00:32:02,868 --> 00:32:04,800
+mit einem schwierigen moralischen Dilemma konfrontiert werden.
+
+732
+00:32:04,801 --> 00:32:06,999
+Anstatt fünf Leben zu retten, haben die
+
+733
+00:32:07,000 --> 00:32:10,199
+meisten unserer Teilnehmer
+nichts getan,
+
+734
+00:32:10,200 --> 00:32:13,099
+aber ist es falsch zu frieren?
+
+735
+00:32:13,100 --> 00:32:16,800
+Sollten Menschen sich schlecht fühlen,
+weil sie nicht handeln können?
+
+736
+00:32:16,801 --> 00:32:18,700
+Nun, hier ist das Ding.
+
+737
+00:32:18,701 --> 00:32:21,733
+Angesichts einer Bedrohung zu erstarren,
+ist ein Verhalten
+
+738
+00:32:21,734 --> 00:32:24,600
+, das im
+ganzen Tierreich zu finden ist,
+
+739
+00:32:24,601 --> 00:32:29,700
+aber wir sind die einzigen Tiere
+, die unser Verhalten studieren, darüber lehren können, wie wir handeln
+
+740
+00:32:29,701 --> 00:32:32,566
+
+sollten,
+
+741
+00:32:32,567 --> 00:32:36,299
+und programmieren können  Maschinen
+, die nur das tun.
+
+742
+00:32:36,300 --> 00:32:39,199
+Um
+in unserem Studium des Geistes Fortschritte zu machen, müssen
+
+743
+00:32:39,200 --> 00:32:41,600
+wir den Geist beeinflussen,
+
+744
+00:32:41,601 --> 00:32:44,199
+und das
+sollten wir nicht auf die leichte Schulter nehmen.
+
+745
+00:32:44,200 --> 00:32:46,733
+Zu verstehen, wer wir sind,
+indem wir uns
+
+746
+00:32:46,734 --> 00:32:50,366
+selbst ans Limit bringen, ist mit einem Risiko verbunden,
+und wie wir gelernt haben
+
+747
+00:32:50,367 --> 00:32:52,900
+, muss dieses Risiko
+immer
+
+748
+00:32:52,901 --> 00:32:55,099
+gegen das größere Wohl abgewogen werden.
+
+749
+00:32:55,100 --> 00:33:01,633
+Und wie immer
+danke fürs Zuschauen.
+
+750
+00:33:01,634 --> 00:33:04,533
+In dieser Saison
+auf Mind Field...
+
+751
+00:33:04,534 --> 00:33:07,566
+
+wirst du eine Laborratte
+in einem Labyrinth sein.
+
+752
+00:33:07,567 --> 00:33:09,833
+Niemand hat das je
+vorher gemacht.
+
+753
+00:33:09,834 --> 00:33:12,867
+Es ist wirklich eine ziemliche Pionierarbeit
+.
+
+754
+00:33:12,868 --> 00:33:15,266
+Soweit es mich betrifft,
+sind Sie bereits Mitautor
+
+755
+00:33:15,267 --> 00:33:16,666
+an unserer wissenschaftlichen Arbeit.
+
+756
+00:33:16,667 --> 00:33:17,833
+- Bereit?
+- Bereit.
+
+757
+00:33:17,834 --> 00:33:20,266
+Ich bin hier am Amazonas,
+wo ich
+
+758
+00:33:20,267 --> 00:33:24,199
+eine alte psychedelische Droge trinken werde –
+Ayahuasca.
+
+759
+00:33:24,200 --> 00:33:29,099
+Keine Sorge,
+das ist ein selbstfahrendes Auto.
+
+760
+00:33:29,100 --> 00:33:32,433
+Wir verbinden uns über Bluetooth
+mit diesem lebenden Roboter.
+
+761
+00:33:32,434 --> 00:33:33,900
+Okay, und dann
+nach links.
+
+762
+00:33:33,901 --> 00:33:35,533
+-Wow.
+-Whoa-ho-ho!
+
+763
+00:33:35,534 --> 00:33:38,466
+Ich wusste nicht,
+dass du eine echte Person bist.
+
+764
+00:33:38,467 --> 00:33:41,600
+Ich werde dich zerreißen,
+wenn du uns nicht ein
+paar Antworten gibst.
+
+765
+00:33:41,601 --> 00:33:44,333
+Ich werde
+einen Lügenerkennungstest machen.
+
+766
+00:33:44,334 --> 00:33:46,366
+-[Summen]
+-[Knistern]
+
+767
+00:33:46,367 --> 00:33:49,266
+Weißt du, chinesische Wasserfolter
+ist nicht einmal chinesisch.
+
+768
+00:33:49,267 --> 00:33:52,500
+Werden fünf Menschen sterben,
+oder nur einer?
+
+769
+00:33:52,501 --> 00:33:54,600
+Das ist eine große Premiere für uns.
+
+770
+00:33:54,601 --> 00:33:57,266
+Wir werden
+das wirklich tun.
+
+771
+00:33:57,267 --> 00:33:58,967
+Willkommen bei Mind Field.
+
+772
+00:33:58,968 --> 00:34:01,766
+Vielen Dank fürs Zusehen!
+
+773
+00:34:01,767 --> 00:34:04,267
+[Titelmusik spielt]
+

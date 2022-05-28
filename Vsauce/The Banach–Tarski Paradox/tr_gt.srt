@@ -1,0 +1,1752 @@
+1
+00:00:00,260 --> 00:00:03,799
+Selam, Vsauce.  Michael burada.
+
+
+2
+00:00:03,800 --> 00:00:08,199
+Görünüşe göre hiç yoktan çikolata yaratmanın ünlü bir yolu var
+.
+
+3
+00:00:08,200 --> 00:00:11,459
+Belki daha önce görmüşsünüzdür.
+Bu çikolata
+
+4
+00:00:11,460 --> 00:00:15,749
+4 kareye 8 karedir, ancak bunu böyle keserseniz
+
+5
+00:00:15,750 --> 00:00:19,188
+ve sonra böyle ve son olarak böyle
+
+6
+00:00:19,189 --> 00:00:22,198
+yaparsanız, parçaları bu şekilde yeniden düzenleyebilir
+
+7
+00:00:22,199 --> 00:00:25,659
+ve aynı 4'e 8
+
+8
+00:00:25,660 --> 00:00:29,538
+barla ancak bir arta kalan parça ile tamamlayabilirsiniz, görünüşe göre
+yaratılmış
+
+9
+00:00:29,539 --> 00:00:33,238
+havasız.  Bu illüzyonun popüler bir
+animasyonu
+
+10
+00:00:33,239 --> 00:00:37,058
+da var.  Ben buna bir illüzyon diyorum
+
+11
+00:00:37,059 --> 00:00:40,689
+çünkü sadece bu.  Numara yapmak.
+Gerçekte
+
+12
+00:00:40,690 --> 00:00:44,459
+, son çubuk biraz daha küçüktür.
+
+
+13
+00:00:44,460 --> 00:00:50,029
+Bu çok daha az çikolata içerir.
+Kesim boyunca her kare orijinalinde olduğundan daha kısadır
+
+14
+00:00:50,030 --> 00:00:50,909
+,
+
+15
+00:00:50,910 --> 00:00:55,069
+ancak kesim hemen fark edilmesini zorlaştırır
+.  Animasyon, aldatmacasını örtbas
+
+16
+00:00:55,070 --> 00:00:58,578
+etmeye çalıştığı için fazladan yanıltıcıdır
+.
+
+17
+00:00:58,579 --> 00:01:02,799
+Her karenin kaybolan yüksekliği
+
+
+18
+00:01:02,800 --> 00:01:06,349
+, parçanın fark edilmesini zorlaştırmak için hareket ederken gizlice eklenir
+.
+
+19
+00:01:06,350 --> 00:01:10,938
+Yani, hadi ama belli ki
+bir çikolatayı
+
+20
+00:01:10,939 --> 00:01:16,129
+kesip, başladığınızdan daha fazla parçayı yeniden düzenleyemezsiniz
+.
+
+21
+00:01:16,130 --> 00:01:19,199
+Yoksa yapabilir misin?
+Modern matematikteki en tuhaf
+
+22
+00:01:19,200 --> 00:01:22,879
+teoremlerden biri
+Banach-Tarski
+
+23
+00:01:22,880 --> 00:01:24,339
+paradoksu.
+
+24
+00:01:24,340 --> 00:01:28,639
+Aslında
+bir cismi
+
+25
+00:01:28,640 --> 00:01:31,959
+alıp 5
+
+26
+00:01:31,960 --> 00:01:37,509
+farklı parçaya ayırmanın bir yolu olduğunu kanıtlıyor.
+
+27
+00:01:37,510 --> 00:01:40,859
+Ve sonra, bu beş parça ile
+
+28
+00:01:40,860 --> 00:01:44,709
+onları yeniden düzenleyin.
+
+
+29
+00:01:44,710 --> 00:01:48,719
+Orijinal öğenin iki tam kopyasına gerdirme gerekmez
+
+30
+00:01:48,720 --> 00:01:52,299
+.  Aynı yoğunluk, aynı boyut,
+
+31
+00:01:52,300 --> 00:01:55,659
+aynı her şey.
+
+32
+00:01:55,660 --> 00:01:58,709
+Gerçekten.  Olduğu ve matematiği
+
+33
+00:01:58,710 --> 00:02:02,499
+ve kendimizi temel olarak sorgulama şekline dalmak
+
+
+34
+00:02:02,500 --> 00:02:07,619
+
+için birkaç soru sorarak başlamalıyız.
+
+35
+00:02:07,620 --> 00:02:11,099
+Öncelikle sonsuzluk nedir?
+
+36
+00:02:11,100 --> 00:02:13,639
+Bir sayı?
+Demek istediğim, sayı satırında hiçbir yerde yok
+
+37
+00:02:13,640 --> 00:02:16,958
+,
+ama sık sık
+
+38
+00:02:16,959 --> 00:02:21,009
+sonsuz "sayı" falan var gibi şeyler söylüyoruz.
+
+39
+00:02:21,010 --> 00:02:24,409
+Ve bildiğimiz kadarıyla, sonsuzluk gerçek olabilir.
+
+40
+00:02:24,410 --> 00:02:27,619
+Evren sonsuz büyüklükte
+
+41
+00:02:27,620 --> 00:02:31,458
+ve düz olabilir, sonsuza kadar sonsuza kadar uzanabilir
+
+42
+00:02:31,459 --> 00:02:34,499
+, hatta
+gözlemleyebileceğimiz
+
+43
+00:02:34,500 --> 00:02:37,879
+veya gözlemlemeyi umduğumuz kısmın bile ötesine geçebilir.
+
+44
+00:02:37,880 --> 00:02:41,529
+Sonsuzluk tam olarak budur.
+
+
+45
+00:02:41,530 --> 00:02:45,389
+Kendi başına bir sayı değil, bir boyut.
+Bitmeyen
+
+46
+00:02:45,390 --> 00:02:49,949
+bir şeyin boyutu.
+Sonsuzluk en büyük
+
+47
+00:02:49,950 --> 00:02:53,319
+sayı değildir, bunun yerine kaç tane sayı
+
+48
+00:02:53,320 --> 00:02:57,369
+olduğudur.  Ama
+sonsuzluğun farklı boyutları vardır.
+
+49
+00:02:57,370 --> 00:03:00,369
+Sonsuzluğun en küçük türü
+
+50
+00:03:00,370 --> 00:03:03,939
+sayılabilir sonsuzdur.
+
+
+51
+00:03:03,940 --> 00:03:07,809
+Sonsuza kadar saat sayısı.  Aynı zamanda var olan tam
+sayıların sayısıdır,
+
+52
+00:03:07,810 --> 00:03:10,829
+doğal sayı,
+
+
+53
+00:03:10,830 --> 00:03:14,219
+1, 2, 3, 4, 5, 6 gibi şeyleri sayarken kullandığımız sayılardır
+
+54
+00:03:14,220 --> 00:03:17,839
+.  Bunun gibi kümeler sonsuzdur,
+
+55
+00:03:17,840 --> 00:03:23,039
+ancak sayılabilirler.  Sayılabilir
+,
+
+56
+00:03:23,040 --> 00:03:26,269
+onları bir elementten diğerine
+
+57
+00:03:26,270 --> 00:03:31,279
+sınırlı bir süre içinde sayabileceğiniz anlamına gelir, bu sonlu
+zaman sizin
+
+58
+00:03:31,280 --> 00:03:32,159
+yaşayacağınızdan
+
+59
+00:03:32,160 --> 00:03:36,269
+veya evrenin var olacağından daha uzun olsa bile, yine de sınırlıdır.
+
+60
+00:03:36,270 --> 00:03:40,059
+Sayılamayan sonsuzluk ise kelimenin tam anlamıyla
+
+61
+00:03:40,060 --> 00:03:43,369
+daha büyüktür.
+Sayılamayacak kadar büyük.
+
+62
+00:03:43,370 --> 00:03:46,549
+Gerçek sayıların sayısı,
+
+63
+00:03:46,550 --> 00:03:50,019
+sadece tam sayılar değil, tüm sayıların
+
+64
+00:03:50,020 --> 00:03:53,559
+sayılamayacak kadar sonsuzdur.
+Kelimenin tam anlamıyla, aradaki her gerçek
+
+65
+00:03:53,560 --> 00:03:57,659
+sayıyı adlandırarak sonlu bir süre içinde 0'dan 1'e kadar
+
+
+66
+00:03:57,660 --> 00:04:00,909
+sayamazsınız.
+Demek istediğim,
+
+67
+00:04:00,910 --> 00:04:04,029
+nereden başlıyorsun?
+Sıfır,
+
+68
+00:04:04,030 --> 00:04:10,939
+tamam.
+Ama sonra ne geliyor?  0.000000...
+
+69
+00:04:10,940 --> 00:04:14,289
+Sonunda
+
+70
+00:04:14,290 --> 00:04:17,607
+1'in sonunda bir yere gittiğini hayal ederdik ama sonu yok.
+
+71
+00:04:17,608 --> 00:04:21,509
+Her zaman başka bir 0 ekleyebiliriz.
+Sayılamazlık
+
+72
+00:04:21,510 --> 00:04:26,149
+, bu kümeyi tüm tam sayılar kümesinden o kadar büyük yapar
+
+
+73
+00:04:26,150 --> 00:04:30,099
+ki, 0 ile 1 arasında bile
+
+74
+00:04:30,100 --> 00:04:34,079
+,
+tüm sonsuz sayı doğrusunda tam sayılardan daha fazla sayı vardır.
+
+75
+00:04:34,080 --> 00:04:37,119
+Georg Cantor'un ünlü çapraz argümanı
+
+76
+00:04:37,120 --> 00:04:40,179
+bunu açıklamaya yardımcı olur.  Sıfır ile bir arasındaki
+her sayıyı listelediğini hayal et
+
+77
+00:04:40,180 --> 00:04:45,769
+.  Sayılamayan olduklarından
+ve sırayla listelenemeyeceklerinden,
+
+78
+00:04:45,770 --> 00:04:48,859
+onları sonsuza kadar rastgele oluşturduğumuzu hayal
+
+79
+00:04:48,860 --> 00:04:54,039
+edelim.  Her sayı yeniden oluşturma
+
+80
+00:04:54,040 --> 00:04:59,819
+, bir tam sayı ile eşleştirilebilir.
+İkisi arasında bire bir denklik
+
+81
+00:04:59,820 --> 00:05:03,739
+varsa yani listemizdeki her gerçek sayı ile bir tam sayı eşleştirebilirsek
+
+
+82
+00:05:03,740 --> 00:05:06,779
+, bu sayılabilir
+
+83
+00:05:06,780 --> 00:05:11,489
+ve sayılamayan kümelerin aynı boyutta olduğu anlamına gelir.
+Ama
+
+84
+00:05:11,490 --> 00:05:14,839
+bu liste sonsuza kadar sürse de bunu yapamayız
+
+85
+00:05:14,840 --> 00:05:19,259
+.  Sonsuza kadar yeterli değil.
+Şunu izle.
+
+86
+00:05:19,260 --> 00:05:23,059
+Sonsuz gerçek sayılar listemizde çapraz olarak aşağı inersek
+
+
+87
+00:05:23,060 --> 00:05:27,239
+
+ve ilk sayının ilk ondalığını
+
+88
+00:05:27,240 --> 00:05:31,209
+ve ikinci sayının ikincisini
+, üçüncünün üçüncüsünü vb. alır
+
+89
+00:05:31,210 --> 00:05:34,728
+ve her birine bir eklersek,
+
+90
+00:05:34,729 --> 00:05:38,278
+dokuz
+
+
+91
+00:05:38,279 --> 00:05:41,978
+, açıkça 0 ile 1 arasında olan yeni bir gerçek sayı üretebiliriz,
+
+92
+00:05:41,979 --> 00:05:44,989
+ancak onu
+
+
+93
+00:05:44,990 --> 00:05:49,179
+sonsuz listemizdeki her sayıdan farklı olarak tanımladığımızdan
+ve en az bir yerde
+
+94
+00:05:49,180 --> 00:05:52,318
+listede açıkça yer almıyor.
+
+95
+00:05:52,319 --> 00:05:56,468
+Başka bir deyişle, her
+bir tam sayıyı
+
+96
+00:05:56,469 --> 00:06:00,019
+, tüm sonsuzluğu kullandık ve yine
+
+
+97
+00:06:00,020 --> 00:06:05,408
+de daha gerçek sayılar bulabiliriz.
+İşte doğru ama sezgisel olmayan başka bir şey daha var
+
+98
+00:06:05,409 --> 00:06:11,869
+.
+Çift
+
+99
+00:06:11,870 --> 00:06:17,819
+ve tek sayılar olduğu gibi aynı sayıda çift sayı vardır.  İlk başta, kulağa
+gülünç geliyor.  Açıkçası,
+
+100
+00:06:17,820 --> 00:06:22,218
+tüm tam sayıların yalnızca yarısı kadar çift sayı vardır,
+ancak bu sezgi yanlıştır.
+
+101
+00:06:22,219 --> 00:06:25,508
+Tüm tam sayıların kümesi daha yoğundur, ancak
+
+102
+00:06:25,509 --> 00:06:28,709
+her çift sayı bir
+tam sayı ile eşleştirilebilir.
+
+103
+00:06:28,710 --> 00:06:33,459
+Her iki kümenin de üyeleri asla tükenmeyecek
+, bu nedenle bu bire bir yazışma
+
+104
+00:06:33,460 --> 00:06:38,079
+, her iki kümenin de aynı boyutta olduğunu gösteriyor.
+
+105
+00:06:38,080 --> 00:06:41,538
+Başka bir deyişle, ikiye bölünmüş
+
+106
+00:06:41,539 --> 00:06:44,068
+sonsuzluk hala sonsuzdur.
+
+107
+00:06:44,069 --> 00:06:47,448
+Sonsuzluk artı bir de sonsuzdur.
+
+108
+00:06:47,449 --> 00:06:50,849
+Bunun iyi bir örneği, Hilbert'in
+
+
+109
+00:06:50,850 --> 00:06:54,138
+Grand Hotel'deki paradoksu.  Sonsuz sayıda odası olan
+bir otel hayal edin
+
+110
+00:06:54,139 --> 00:06:57,899
+
+.  Ama şimdi, her odaya
+
+111
+00:06:57,900 --> 00:07:02,329
+rezerve edilmiş bir kişi olduğunu hayal edin
+.
+
+112
+00:07:02,330 --> 00:07:07,839
+Görünüşe göre, dolu, değil mi?
+Hayır.
+
+113
+00:07:07,840 --> 00:07:10,679
+Sonsuz kümeler sağduyuya aykırıdır.
+
+114
+00:07:10,680 --> 00:07:14,079
+Görüyorsunuz, yeni bir misafir gelip bir oda isterse
+
+115
+00:07:14,080 --> 00:07:17,839
+, otelin tek yapması gereken
+1
+
+116
+00:07:17,840 --> 00:07:21,999
+numaralı odadaki konuğu 2 numaralı odaya taşımaktır. Ve 2 numaralı odadaki bir konuğu
+oda 3 ve 3 ila 4 ve 4 ila 5 numaralı odaya taşımaktır.
+
+117
+00:07:22,000 --> 00:07:23,209
+ve benzeri.
+
+118
+00:07:23,210 --> 00:07:26,649
+Oda sayısı hiç bitmediği için odalarımız bitmiyor
+
+119
+00:07:26,650 --> 00:07:30,138
+.
+Infinity
+
+120
+00:07:30,139 --> 00:07:34,029
+-1 de yine sonsuzdur.
+
+121
+00:07:34,030 --> 00:07:37,158
+Bir misafir otelden ayrılırsa,
+
+122
+00:07:37,159 --> 00:07:40,719
+her misafiri başka yöne kaydırabiliriz.
+Misafir 2, oda 1,
+
+123
+00:07:40,720 --> 00:07:44,408
+3'ten 2'ye, 4'ten 3'e vb. gider, çünkü
+
+124
+00:07:44,409 --> 00:07:48,908
+sonsuz sayıda misafirimiz var.  Bu
+onların hiç bitmeyen bir kaynağı.
+
+125
+00:07:48,909 --> 00:07:52,948
+Hiçbir oda boş bırakılmayacaktır.
+Görünen o
+
+126
+00:07:52,949 --> 00:07:56,609
+ki, sonsuzdan herhangi bir sonlu sayıyı çıkarabilir
+
+127
+00:07:56,610 --> 00:08:00,529
+ve yine de sonsuzla kalabilirsiniz.
+Umurumda değil.
+
+128
+00:08:00,530 --> 00:08:04,529
+Bu sonsuz.  Banach-Tarski henüz gözümüzün önünden ayrılmadı
+.
+
+129
+00:08:04,530 --> 00:08:07,609
+Bütün bunlar ilişkilidir.
+Artık şekillere geçmeye hazırız
+
+130
+00:08:07,610 --> 00:08:11,269
+.
+Hilbert'in oteli
+
+131
+00:08:11,270 --> 00:08:15,149
+bir daireye uygulanabilir.  Çevre etrafındaki noktalar misafir
+olarak düşünülebilir
+
+132
+00:08:15,150 --> 00:08:19,369
+.  Çemberden bir nokta çıkarırsak
+
+133
+00:08:19,370 --> 00:08:24,579
+o nokta gitmiş olur, değil mi?
+Sonsuzluk bize
+
+134
+00:08:24,580 --> 00:08:27,668
+bunun önemli olmadığını söylüyor.
+Çemberin
+
+135
+00:08:27,669 --> 00:08:31,249
+çevresi irrasyoneldir.  Yarıçap çarpı 2Pi.
+
+136
+00:08:31,250 --> 00:08:34,499
+Yani, bütünden başlayarak noktaları işaretlersek
+
+
+137
+00:08:34,500 --> 00:08:38,898
+, çevre boyunca saat yönünde giden her yarıçap uzunluğunu
+
+
+138
+00:08:38,899 --> 00:08:42,269
+asla aynı noktaya
+iki
+
+139
+00:08:42,270 --> 00:08:45,609
+kez inmeyeceğiz.
+Bir tam sayı ile işaretlediğimiz her noktayı sayabiliriz
+
+140
+00:08:45,610 --> 00:08:49,759
+.
+Yani bu set hiç bitmeyen,
+
+141
+00:08:49,760 --> 00:08:53,389
+ancak sayılabilir, tıpkı Hilbert'in otelindeki konuklar ve
+odalar gibi.
+
+142
+00:08:53,390 --> 00:08:56,669
+Ve o misafirler gibi,
+biri çıkış yapmış olsa bile
+
+143
+00:08:56,670 --> 00:09:00,069
+, geri kalanını değiştirebiliriz.
+Onları
+
+144
+00:09:00,070 --> 00:09:04,359
+saat yönünün tersine hareket ettirin ve her oda
+doldurulacaktır.
+
+145
+00:09:04,360 --> 00:09:07,589
+Nokta 1 deliği doldurmak için hareket eder, nokta 2
+
+146
+00:09:07,590 --> 00:09:10,949
+, nokta 1'in olduğu yeri doldurur,
+3, 2'yi doldurur
+
+147
+00:09:10,950 --> 00:09:16,049
+vb.  Bitmeyen bir
+numaralı nokta kaynağımız olduğundan,
+
+148
+00:09:16,050 --> 00:09:19,129
+doldurulmamış hiçbir delik bırakılmayacaktır.
+
+149
+00:09:19,130 --> 00:09:24,189
+Eksik nokta unutulur.
+Görünüşe göre onun tamamlanmasına hiç ihtiyacımız olmadı
+
+150
+00:09:24,190 --> 00:09:28,599
+.
+
+
+151
+00:09:28,600 --> 00:09:32,979
+Banach-Tarski ile uğraşmadan önce tartışmamız gereken sonsuzluğun son bir gerekli sonucu var.
+Ian Stewart
+
+152
+00:09:32,980 --> 00:09:36,259
+parlak bir sözlük önerdi.
+
+153
+00:09:36,260 --> 00:09:40,539
+Hiperwebster dediği biri.
+Hyperwebster, İngiliz alfabesindeki 26 harften
+
+154
+00:09:40,540 --> 00:09:44,069
+oluşan herhangi bir uzunluktaki olası her kelimeyi listeler
+
+155
+00:09:44,070 --> 00:09:47,559
+
+.
+
+156
+00:09:47,560 --> 00:09:51,329
+"a" ile başlar, ardından "aa",
+
+157
+00:09:51,330 --> 00:09:54,409
+ardından "aaa" ve ardından "aaaa" gelir.
+
+158
+00:09:54,410 --> 00:09:57,749
+Ve bunlardan sonsuz sayıda sonra, "ab",
+
+159
+00:09:57,750 --> 00:10:01,949
+sonra "aba", sonra "abaa", "abaaa"
+
+160
+00:10:01,950 --> 00:10:05,129
+, vb. "z, "za",
+
+161
+00:10:05,130 --> 00:10:08,289
+"zaa" vb.
+
+
+162
+00:10:08,290 --> 00:10:11,919
+sonsuz "z"ler dizisinde giriş.
+Böyle
+
+163
+00:10:11,920 --> 00:10:14,989
+bir sözlük her
+
+164
+00:10:14,990 --> 00:10:18,479
+bir kelimeyi içerecektir.
+Her bir düşünce,
+
+165
+00:10:18,480 --> 00:10:22,009
+tanım, tanım, gerçek, yalan, isim,
+
+166
+00:10:22,010 --> 00:10:25,239
+hikaye
+. Amelia Earhart'ın başına gelenler
+
+167
+00:10:25,240 --> 00:10:29,219
+o sözlükte olacaktı,
+her kelimede olduğu gibi.
+
+168
+00:10:29,220 --> 00:10:31,969
+Amelia Earhart'ın başına gelmeyen tek bir şey.
+
+169
+00:10:31,970 --> 00:10:35,259
+Alfabemizi kullanarak söylenebilecek her şey
+
+170
+00:10:35,260 --> 00:10:39,499
+.
+Açıkçası, çok büyük olurdu,
+
+171
+00:10:39,500 --> 00:10:43,009
+ancak bunu yayınlayan şirket, bir kısayol
+alabileceklerini fark edebilir
+
+172
+00:10:43,010 --> 00:10:46,799
+.
+
+
+173
+00:10:46,800 --> 00:10:49,959
+a'yı "A" başlıklı bir ciltte yazarlarsa
+
+174
+00:10:49,960 --> 00:10:54,209
+, ilk "a"yı yazdırmaları gerekmez.
+
+
+175
+00:10:54,210 --> 00:10:57,319
+
+
+
+176
+00:10:57,320 --> 00:11:00,759
+yayıncıya her "a" kelimesi
+
+177
+00:11:00,760 --> 00:11:04,309
+, ilk "a" yerine, şaşırtıcı bir şekilde
+
+178
+00:11:04,310 --> 00:11:07,909
+olası her kelimeye dönüşmüştür.
+
+
+179
+00:11:07,910 --> 00:11:13,999
+26 ciltten sadece bir tanesi
+tüm şeye ayrıştırılmıştır.
+
+180
+00:11:14,000 --> 00:11:17,629
+
+bu videonun
+
+181
+00:11:17,630 --> 00:11:21,269
+başlık paradoksunu araştırmaya hazır olduğumuzu.
+Ya bir nesneyi,
+
+182
+00:11:21,270 --> 00:11:24,709
+3 boyutlu bir şeyi bir Hiperwebster'a çevirsek?
+
+183
+00:11:24,710 --> 00:11:30,079
+Parçalarını
+bütüne ayırabilir miyiz?
+
+184
+00:11:30,080 --> 00:11:32,359
+Evet.
+Yapmamız gereken ilk şey,
+
+185
+00:11:32,360 --> 00:11:35,889
+kürenin yüzeyindeki her bir noktaya
+
+
+186
+00:11:35,890 --> 00:11:40,939
+bir isim ve sadece bir isim vermektir.  Bunu yapmanın iyi bir yolu,
+
+
+187
+00:11:40,940 --> 00:11:43,619
+belirli bir başlangıç noktasından onlara nasıl ulaşılabileceğine göre isim verme
+
+188
+00:11:43,620 --> 00:11:47,739
+tir.  Bu başlangıç noktasını küre
+
+
+189
+00:11:47,740 --> 00:11:51,739
+in yüzeyinde doğru uzunluktaki adımlarla hareket ettirirsek, kaç
+ kez veya 
+
+190
+00:11:51,740 --> 00:11:55,109
+angi yönde dönersek dönelim, asla
+
+
+191
+00:11:55,110 --> 00:11:58,419
+ geri dönmediğimiz sürece, asla aynı
+yere iki k
+
+192
+00:11:58,420 --> 00:12:03,079
+z gitmeyecektir.  .
+Bu paradoksa ulaşmak için sadece dört yöne dönmemiz gerekiyor.  İki dik eksen
+
+193
+00:12:03,080 --> 00:12:06,279
+etrafında yukarı, aşağı, sola ve sağa
+
+194
+00:12:06,280 --> 00:12:09,999
+.
+Sadece bu dört dönüşten herhangi bir sonlu uzunlukta
+
+195
+00:12:10,000 --> 00:12:13,229
+yapılabilecek her olası diziye ihtiyacımız olacak
+
+
+196
+00:12:13,230 --> 00:12:17,269
+
+.
+
+197
+00:12:17,270 --> 00:12:20,269
+Bu, sol, sağ,
+
+198
+00:12:20,270 --> 00:12:24,249
+yukarı ve aşağı ile sol sola,
+
+199
+00:12:24,250 --> 00:12:27,459
+sol yukarı, sol aşağıya ihtiyacımız olacağı anlamına gelir, ama tabii ki
+
+200
+00:12:27,460 --> 00:12:31,009
+sola sağa değil, çünkü, şey, bu
+geri izlemedir.  Sola
+
+201
+00:12:31,010 --> 00:12:34,759
+ve sonra sağa gitmek
+, herhangi bir şey yapmadan öncekiyle aynı olduğunuz anlamına gelir, yani
+
+202
+00:12:34,760 --> 00:12:37,869
+sol sağ yok, sağ sol yok ve yukarı
+aşağı ve
+
+203
+00:12:37,870 --> 00:12:42,219
+aşağı yukarı yok.  Ayrıca
+dönüşleri
+
+204
+00:12:42,220 --> 00:12:45,299
+sağdan sola sırayla yazdığıma dikkat edin, bu nedenle son
+
+205
+00:12:45,300 --> 00:12:48,949
+dönüş en soldaki harftir.
+Bu daha sonra önemli olacak.
+
+206
+00:12:48,950 --> 00:12:57,039
+Neyse.  Uzunluğu
+sonlu olan tüm olası izin verilen dönüş dizilerinin bir listesi
+
+207
+00:12:57,040 --> 00:13:00,209
+çok büyük.  Aslında sayılabilir sonsuz.
+
+208
+00:13:00,210 --> 00:13:03,579
+Ama burada her birini yeşil bir
+başlangıç
+
+209
+00:13:03,580 --> 00:13:06,879
+ına uygularsak ve sonra geldiğimiz noktayı bizi 
+
+
+210
+00:13:06,880 --> 00:13:09,929
+raya getiren diziden sonra adlandırırsak, yüzeyde sayı
+
+
+211
+00:13:09,930 --> 00:13:13,189
+abilir sonsuz bir nokta kümesini adlan
+
+
+212
+00:13:13,190 --> 00:13:17,049
+ırabiliriz.  Diyelim ki listemizdeki bu dört dizenin nasıl çalışacağına bakalım
+.
+
+213
+00:13:17,050 --> 00:13:21,849
+Sağ yukarı sol.  Tamam, başlangıç
+ını bu şekilde döndürmek bizi 
+
+214
+00:13:21,850 --> 00:13:27,259
+uraya [ __ ]
+rür.  Dizesindeki son dönüşe göre noktayı renklendirelim
+
+215
+00:13:27,260 --> 00:13:31,189
+, bu durumda kaldı ve bunun için
+
+216
+00:13:31,190 --> 00:13:34,338
+mor kullanacağız.
+Sonraki yukarı aşağı.
+
+217
+00:13:34,339 --> 00:13:38,729
+Bu dizi bizi buraya götürüyor.
+Noktayı DD olarak adlandırırız
+
+218
+00:13:38,730 --> 00:13:41,958
+ve aşağı dönüşle sonlandırdığımız için mavi renklendiririz
+
+219
+00:13:41,959 --> 00:13:46,099
+.
+Bu noktanın adı olacak olan RDR,
+
+220
+00:13:46,100 --> 00:13:49,879
+bizi buraya getiriyor.
+Ve son bir sağa dönüş
+
+221
+00:13:49,880 --> 00:13:52,989
+için kırmızıyı kullanalım.
+Son olarak, biten bir dizi
+
+222
+00:13:52,990 --> 00:13:56,069
+için noktayı turuncu renkle kodlayalım.
+
+223
+00:13:56,070 --> 00:13:59,289
+Şimdi,
+
+
+224
+00:13:59,290 --> 00:14:04,329
+her bir dizi için bu işlemi tamamladığımızı hayal edersek, adlandırılmış ve renk kodlu
+sayılabilir sonsuz sayıda noktamız olacak
+
+225
+00:14:04,330 --> 00:14:07,509
+.
+Bu harika, ama
+
+226
+00:14:07,510 --> 00:14:11,269
+yeterli değil.
+
+
+227
+00:14:11,270 --> 00:14:15,109
+Bir kürenin yüzeyinde sayılamayan sonsuz sayıda nokta vardır.
+
+228
+00:14:15,110 --> 00:14:18,139
+Ama merak etmeyin, kaçırdığımız bir noktayı seçebiliriz
+.
+
+229
+00:14:18,140 --> 00:14:21,559
+Herhangi bir noktayı yeşile boyayın,
+
+230
+00:14:21,560 --> 00:14:25,349
+yeni bir başlangıç noktası yapın ve ardından her diziy
+ burad
+
+231
+00:14:25,350 --> 00:14:28,659
+n çal�
+ştırın.  Bunu
+
+232
+00:14:28,660 --> 00:14:32,449
+sayılamayan sonsuz sayıda
+başlangıç noktasına yaptıktan sonra, gerçekten de yüze
+
+233
+00:14:32,450 --> 00:14:35,989
+deki her bir noktayı sadece bir kez adlandırmış ve renklendirmiş olaca
+
+
+234
+00:14:35,990 --> 00:14:39,708
+
+
+
+235
+00:14:39,709 --> 00:14:44,389
+�ız.  Direkler hariç.  Her dizinin iki dönme kutbu vardır
+.
+
+236
+00:14:44,390 --> 00:14:48,739
+Küre üzerinde
+tam olarak başladıkları yere geri dönen yerler.
+
+237
+00:14:48,740 --> 00:14:52,129
+Herhangi bir sağa veya sola dönüş sırası için
+
+238
+00:14:52,130 --> 00:14:55,299
+, yoklamalar kuzey ve
+güney kutuplarıdır.
+
+239
+00:14:55,300 --> 00:14:59,579
+Bunun gibi kutuplarla ilgili sorun
+, birden fazla dizinin
+
+240
+00:14:59,580 --> 00:15:00,279
+bizi onlara götürebilmesidir.
+
+241
+00:15:00,280 --> 00:15:03,849
+Birden fazla isim verilebilir
+
+242
+00:15:03,850 --> 00:15:08,289
+ve birden fazla renkle renklendirilebilirler.  Örneğin
+, kuzey veya güney kutbuna doğru başka bir sıra izlerseniz
+
+243
+00:15:08,290 --> 00:15:09,679
+,
+
+244
+00:15:09,680 --> 00:15:12,989
+sonraki tüm haklar veya sollar
+
+245
+00:15:12,990 --> 00:15:17,749
+eşit derecede geçerli adlar olacaktır.
+Bununla başa çıkmak için onları
+
+246
+00:15:17,750 --> 00:15:21,469
+normal şemanın dışında sayacağız ve hepsini sarıya boyayacağız.
+Her dizinin iki tane vardır,
+
+247
+00:15:21,470 --> 00:15:24,579
+bu yüzden sayılabilir sonsuz
+
+248
+00:15:24,580 --> 00:15:28,539
+sayıda vardır.  Şimdi, küre üzerindeki her noktaya
+sadece
+
+249
+00:15:28,540 --> 00:15:33,859
+bir isim ve altı renkten sadece biri verildiğinde
+, tüm küreyi
+
+250
+00:15:33,860 --> 00:15:39,629
+parçalara ayırmaya hazırız.  Yüzeydeki her nokta, merkez noktasına kadar altındaki
+benzersiz bir nokta çizgisine karşılık gelir
+
+251
+00:15:39,630 --> 00:15:43,269
+.
+Ve
+
+252
+00:15:43,270 --> 00:15:47,329
+her noktanın çizgisini onunla birlikte sürüklemiş olacağız.
+Bir kenara koyacağımız tek merkez nokta
+
+253
+00:15:47,330 --> 00:15:52,199
+.  Tamam, önce
+tüm sarı
+
+254
+00:15:52,200 --> 00:15:55,369
+kutupları, yeşil başlangıç noktalarını, turun
+
+255
+00:15:55,370 --> 00:15:59,389
+u yukarı noktalarını, mavi aşağı noktalarını ve k�
+
+256
+00:15:59,390 --> 00:16:03,539
+rmızı ve mor sol ve sağ nokta
+arı kesip çık
+
+257
+00:16:03,540 --> 00:16:06,099
+rıyoruz.  Tüm küre bu.
+Sadece
+
+258
+00:16:06,100 --> 00:16:10,589
+bu parçalarla her şeyi inşa edebilirsiniz
+.  Ama soldaki parçaya bir bakın.
+
+259
+00:16:10,590 --> 00:16:13,769
+Sola dönüşle
+
+260
+00:16:13,770 --> 00:16:17,219
+biten bir dizi üzerinden ulaşılan her noktadan oluşan bir parça olarak tanımlanır
+
+261
+00:16:17,220 --> 00:16:21,339
+.
+Bu parçayı
+
+262
+00:16:21,340 --> 00:16:24,729
+sağa döndürürsek, bu her noktanın adına bir "R" eklemekle aynı şeydir
+
+263
+00:16:24,730 --> 00:16:28,249
+.
+Ama sol ve sonra
+
+264
+00:16:28,250 --> 00:16:32,979
+sağ bir geri dönüş, birbirlerini iptal ediyorlar
+.  Ve onları azalttığınızda ne olduğuna bakın
+
+265
+00:16:32,980 --> 00:16:36,979
+.
+
+266
+00:16:36,980 --> 00:16:40,549
+Küme, adları
+L ile biten tüm noktaların,
+
+267
+00:16:40,550 --> 00:16:44,539
+aynı zamanda U, D ve dönme olmaksızın ulaşılan her noktanın
+
+268
+00:16:44,540 --> 00:16:47,869
+kümesiyle aynı olur.
+Başlangıç noktalarının tam seti budur
+
+269
+00:16:47,870 --> 00:16:53,039
+  Kürenin dörtte birinden daha azını
+,
+
+270
+00:16:53,040 --> 00:17:00,219
+sadece onu döndürerek neredeyse dörtte üçüne çevirdik.  Hiçbir şey eklemedik.
+Hiperwebster gibi.  Doğru
+
+271
+00:17:00,220 --> 00:17:00,919
+parçaya
+
+272
+00:17:00,920 --> 00:17:05,649
+, dönme kutuplarına ve merkez
+noktasına sahipsek, tüm küreyi tekrar elde etmiş oluruz
+
+273
+00:17:05,650 --> 00:17:09,759
+, ancak geriye kalan şeylerle.
+İkinci bir kopya yapmak
+
+274
+00:17:09,760 --> 00:17:13,259
+için yukarı parçayı aşağı çevirelim.
+
+
+275
+00:17:13,260 --> 00:17:16,958
+Aşağı inişler iptal çünkü,
+bu hiçbir yere gitmemekle aynı
+
+276
+00:17:16,959 --> 00:17:20,249
+ve elimizde bir dizi
+başlangıç noktası, tüm yukar
+
+277
+00:17:20,250 --> 00:17:24,549
+� parça, sağ parça ve sol parç
+ kaldı, ama burada bir sorun var. 
+
+278
+00:17:24,550 --> 00:17:28,729
+Bu ekstra başlangıç
+arına ihtiyacımız yok.  Hen�
+
+279
+00:17:28,730 --> 00:17:32,699
+orijinallerini kullanmadık.  Endişelenme,
+baştan başlayalım.
+
+280
+00:17:32,700 --> 00:17:35,699
+Aşağı döndürüldüğünde bir başlangıç noktasına dönüşen yukarı parçadan her şeyi hareket ettirebiliriz.  Bu,
+
+
+281
+00:17:35,700 --> 00:17:38,809
+
+ 
+
+282
+00:17:38,810 --> 00:17:42,629
+son dönüşü biten her nokta anlamına gelir
+.
+
+283
+00:17:42,630 --> 00:17:47,399
+Onları parçaya koyalım.  Elbette,
+
+
+284
+00:17:47,400 --> 00:17:51,919
+UU adlı noktalar döndürüldükten sonra sadece U adlı noktalara dönüşecek
+ve bu bize burada ve burada bir kopyasını verecektir
+
+285
+00:17:51,920 --> 00:17:55,129
+.
+Dolayısıyla, ortaya çıktığı gibi
+
+286
+00:17:55,130 --> 00:17:58,769
+, sadece bir Biz dizisi olan herhangi bir isimle tüm noktaları hareket ettirmemiz gerekiyor.
+
+287
+00:17:58,770 --> 00:18:01,959
+Onları aşağı parçaya koyacağız ve
+yukarı
+
+288
+00:18:01,960 --> 00:18:05,169
+parçayı aşağı döndüreceğiz, bu da onu
+yukarı sağ
+
+289
+00:18:05,170 --> 00:18:09,039
+ve sol parçalarla uyumlu hale getirecek, aşağı
+parçayı biraz yukarı
+
+290
+00:18:09,040 --> 00:18:12,928
+ve başlangıç noktası parçasıyla birlikte ekleyeceğiz ve ne
+edeyse bitirdik.  .
+
+291
+00:18:12,929 --> 00:18:15,859
+Bu kopyada döndürme ve merkez kutupları
+
+292
+00:18:15,860 --> 00:18:18,788
+eksik, ama endişelenmeyin.
+Eskiden dönme kutuplarının
+
+293
+00:18:18,789 --> 00:18:22,658
+olduğu yerde sayılabilir sonsuz sayıda delik
+
+
+294
+00:18:22,659 --> 00:18:28,129
+var,
+yani bu küreyi etrafında döndürebileceğimiz bir kutup var, öyle ki
+
+295
+00:18:28,130 --> 00:18:32,069
+her kutup deliği
+diğerine çarpmadan kendi etrafında dönüyor.
+
+296
+00:18:32,070 --> 00:18:35,648
+Pekala, bu sadece bir
+noktası eksik olan bir grup daire.
+
+297
+00:18:35,649 --> 00:18:40,519
+Her birini daha önce yaptığımız gibi dolduruyoruz.
+Aynı şeyi merkez noktası için de yapıyoruz.  Kürenin
+
+298
+00:18:40,520 --> 00:18:44,038
+içinde onu içeren bir daire hayal edin
+
+
+299
+00:18:44,039 --> 00:18:47,269
+ve sonsuzdan doldurun ve
+ne yaptığımıza bakın.
+
+300
+00:18:47,270 --> 00:18:53,329
+Bir küre aldık ve hiçbir şey eklemeden
+iki özdeş küre haline getirdik
+
+301
+00:18:53,330 --> 00:18:56,678
+.
+
+302
+00:18:56,679 --> 00:19:01,158
+Bir artı bir eşittir 1.
+Bunun
+
+303
+00:19:01,159 --> 00:19:04,928
+gerçekleşmesi biraz zaman aldı,
+ancak sonuçları çok büyük.
+
+304
+00:19:04,929 --> 00:19:09,599
+Ve matematikçiler, bilim adamları ve
+filozoflar hala bunları tartışıyorlar.
+
+305
+00:19:09,600 --> 00:19:13,569
+Gerçek dünyada böyle bir süreç olabilir
+mi?
+
+306
+00:19:13,570 --> 00:19:18,788
+Demek istediğim, matematiksel olarak gerçekleşebilir ve matematik
+
+
+307
+00:19:18,789 --> 00:19:21,319
+, gerçek dünyadaki birçok şeyi
+
+
+308
+00:19:21,320 --> 00:19:26,038
+şaşırtıcı bir doğrulukla soyut olarak tahmin etmemize ve tanımlamamıza izin verir, ancak Banach-Tarski
+
+309
+00:19:26,039 --> 00:19:29,928
+paradoksu bunu çok mu ileri götürüyor?
+Matematik ve fiziğin ayrıldığı bir yer
+
+310
+00:19:29,929 --> 00:19:33,329
+mi?
+Hala bilmiyoruz.
+
+311
+00:19:33,330 --> 00:19:38,748
+Tarih,
+
+
+312
+00:19:38,749 --> 00:19:42,589
+
+
+
+313
+00:19:42,590 --> 00:19:47,089
+yıllar, onyıllar, yüzyıllar boyunca gerçek dünyaya uygulanacağını düşünmediğimiz, soyut olarak geliştirilen matematiksel kavramların örnekleriyle doludur,
+ta ki sonunda bilim yetişip
+
+314
+00:19:47,090 --> 00:19:50,209
+bunların tamamen uygulanabilir
+
+315
+00:19:50,210 --> 00:19:56,768
+ve yararlı olduklarını anlayana kadar.  Banach-Tarski paradoksu
+aslında bizim gerçek dünyamızda da olabilir,
+
+316
+00:19:56,769 --> 00:20:01,199
+elbette ki tek yakalama,
+nesnenizi kestiğiniz beş parçanın
+
+317
+00:20:01,200 --> 00:20:05,439
+basit şekiller olmamasıdır.
+Sonsuz derecede karmaşık
+
+318
+00:20:05,440 --> 00:20:12,339
+ve ayrıntılı olmalıdırlar.  Bunu
+, ölçümlerin çok küçük olabileceği
+
+319
+00:20:12,340 --> 00:20:16,979
+ve
+herhangi bir şey yapmak için yalnızca sınırlı bir zamanın olduğu gerçek dünyada yapmak mümkün değil, ancak matematik
+
+320
+00:20:16,980 --> 00:20:19,508
+teorik olarak geçerli olduğunu söylüyor ve bazı bilim
+
+321
+00:20:19,509 --> 00:20:23,419
+adamları bunun fiziksel olarak da geçerli olabileceğini düşünüyor.
+
+322
+00:20:23,420 --> 00:20:26,408
+
+
+
+323
+00:20:26,409 --> 00:20:29,618
+Banach-Tarski tarafından yayınlanan
+
+324
+00:20:29,619 --> 00:20:32,949
+, küçük atom altı
+parçacıkların
+
+325
+00:20:32,950 --> 00:20:38,009
+yüksek enerjilerde çarpışması ve başladığımızdan
+daha fazla parçacığa dönüşmesi arasında bir bağlantı olduğunu öne süren çok sayıda makale yayınlandı
+
+326
+00:20:38,010 --> 00:20:42,319
+.
+
+327
+00:20:42,320 --> 00:20:46,619
+Biz sınırlı yaratıklarız.
+
+328
+00:20:46,620 --> 00:20:51,359
+Hayatlarımız küçüktür ve bilimsel
+olarak gerçeğin sadece küçük bir kısmını düşünebiliriz
+
+329
+00:20:51,360 --> 00:20:54,908
+.
+Bizim için ortak olan,
+
+330
+00:20:54,909 --> 00:20:59,028
+mevcut olanın sadece bir kıymığı.  Elektromanyetik spektrumun
+ancak bu kadarını görebiliriz
+
+331
+00:20:59,029 --> 00:20:59,989
+.
+
+332
+00:20:59,990 --> 00:21:03,428
+Uzayın uzantılarını ancak bu kadar derine inebiliriz
+.
+
+333
+00:21:03,429 --> 00:21:07,369
+Sağduyu, erişebildiğimiz şeyler için geçerlidir
+
+
+334
+00:21:07,370 --> 00:21:11,559
+.
+Ama sağduyu bundan ibaret.
+
+335
+00:21:11,560 --> 00:21:14,028
+Yaygın.
+Eğer istediğimiz tam anlam
+
+336
+00:21:14,029 --> 00:21:18,699
+ise,
+sonsuzluğa tuhaf ya da tuhaf demememiz gerektiğini kabul etmeye hazır olmalıyız
+
+337
+00:21:18,700 --> 00:21:20,329
+.
+
+338
+00:21:20,330 --> 00:21:24,668
+Kabul ederek ulaştığımız sonuçlar
+
+
+339
+00:21:24,669 --> 00:21:28,918
+
+, evreni anlamak, ölçmek, tahmin etmek ve düzenlemek için kullandığımız sistem içinde geçerlidir, doğrudur
+
+340
+00:21:28,919 --> 00:21:29,739
+.
+
+341
+00:21:29,740 --> 00:21:34,288
+Belki de sistemin hala
+mükemmelleştirilmesi gerekiyor, ancak günün sonunda
+
+342
+00:21:34,289 --> 00:21:40,479
+tarih bize
+evrenin garip olmadığını göstermeye devam ediyor.
+
+343
+00:21:40,480 --> 00:21:42,949
+Biz.
+
+344
+00:21:42,950 --> 00:21:44,609
+Ve her zamanki gibi,
+
+345
+00:21:44,610 --> 00:22:06,778
+izlediğiniz için teşekkürler.
+
+346
+00:22:06,779 --> 00:22:10,689
+Son olarak, her zaman olduğu gibi, açıklama
+daha fazlasını öğrenmek için bağlantılarla doludur.
+
+347
+00:22:10,690 --> 00:22:14,089
+Ayrıca,
+
+
+348
+00:22:14,090 --> 00:22:17,388
+aklımı Banach-Tarski'nin etrafında toplamama gerçekten yardımcı olan bir dizi kitap var.
+
+349
+00:22:17,389 --> 00:22:23,928
+Her şeyden önce, Leonard Wapner'ın "Bezelye ve Güneş".  Bu kitap harika ve
+
+350
+00:22:23,929 --> 00:22:28,939
+daha sonra ortaya çıkacak kanıtı anlamak için gereken ön bilgilerle dolu.
+Ayrıca
+
+351
+00:22:28,940 --> 00:22:33,018
+Banach-Tarski ve
+teoreminin matematik için ne anlama gelebileceğinin sonuçları hakkında da çok konuşuyor.
+
+352
+00:22:33,019 --> 00:22:37,719
+Ayrıca, matematikten
+, keşfedilip keşfedilmediğinden,
+
+353
+00:22:37,720 --> 00:22:41,658
+gerçekten evrenle
+eşleşip eşleşmediğinden bahsetmek istiyorsanız, Yanofsky'nin
+
+354
+00:22:41,659 --> 00:22:45,089
+"Aklın Dış Sınırları" harika.
+
+355
+00:22:45,090 --> 00:22:49,018
+Bu, tüm yıl boyunca okuduğum en sevdiğim kitap
+.  Bir başka güzeli de E.
+
+356
+00:22:49,019 --> 00:22:50,138
+Brian Davies'in
+
+357
+00:22:50,139 --> 00:22:53,488
+"Neden İnançlar Önemlidir".  Orada da görebileceğiniz gibi, bu aslında
+Corn'un en sevdiği kitap
+
+358
+00:22:53,489 --> 00:22:57,388
+.
+Lezzetli ve bilebileceğimiz
+
+359
+00:22:57,389 --> 00:22:59,758
+şeylerin sınırları,
+
+
+360
+00:22:59,759 --> 00:23:03,918
+bilimin ve matematiğin ne olduğu hakkında birçok harika bilgiyle dolu.
+
+361
+00:23:03,919 --> 00:23:08,398
+Sonsuzluğu ve matematiği seviyorsanız,
+Matt Parker'ın
+
+362
+00:23:08,399 --> 00:23:11,959
+"Dördüncü Boyutta Yapılması ve Yapılması Gereken Şeyler"i bundan daha fazla tavsiye edemem.  O çok komik ve bu kitap
+
+363
+00:23:11,960 --> 00:23:15,308
+bazı harika şeyleri açıklamakta çok çok harika
+.
+
+364
+00:23:15,309 --> 00:23:19,229
+Bu yüzden okumaya devam edin
+ve izleyecek bir şey arıyorsanız,
+
+365
+00:23:19,230 --> 00:23:22,729
+umarım Kevin Lieber'ın
+
+
+366
+00:23:22,730 --> 00:23:26,108
+Field Day filmini izlemişsinizdir.  Orada zaten Whittier, Alaska hakkında bir belgesel çekmiştim.
+
+367
+00:23:26,109 --> 00:23:29,618
+Kevin'in internette bir
+şeyler yayınlamak
+
+368
+00:23:29,619 --> 00:23:32,808
+ve insanların bunlara tepki vermesini sağlamakla ilgili harika bir kısa filmi var.
+Jake Roper'ın
+
+369
+00:23:32,809 --> 00:23:34,178
+yakında Field Day'de bir şeyler yapacağına dair bir söylenti var.
+
+370
+00:23:34,179 --> 00:23:37,268
+Öyleyse benimkine bakın, Kevin'inkine bakın ve
+
+371
+00:23:37,269 --> 00:23:41,138
+yaklaşan Jake Roper eylemi için Field Day'e abone olun
+, tamam mı?
+
+372
+00:23:41,139 --> 00:23:45,508
+Aslında şu anda bu odada,
+merhaba de Jake.  [Jake:] Merhaba.  Bu arada bunu çektiğin için teşekkürler
+
+373
+00:23:45,509 --> 00:23:46,028
+.
+
+374
+00:23:46,029 --> 00:23:49,949
+Çocuklar, kim olduğunuzu gerçekten takdir ediyorum.
+
+375
+00:23:49,950 --> 00:23:51,629
+Ve her zamanki gibi,
+
+376
+00:23:51,630 --> 00:23:52,750
+izlediğiniz için teşekkürler.
+

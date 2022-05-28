@@ -1,0 +1,796 @@
+1
+00:00:07,220 --> 00:00:10,558
+Hola Vsauce. Es Michael. Estoy
+
+2
+00:00:10,559 --> 00:00:13,959
+distorsionado. Los
+píxeles que estás viendo se
+
+3
+00:00:13,960 --> 00:00:18,179
+desplazaron en el tiempo.
+Se trazaron en una inclinación
+
+4
+00:00:18,180 --> 00:00:21,778
+y mientras más oscura es la
+región en que se trazaron, más atrás
+
+5
+00:00:21,779 --> 00:00:25,589
+se quedan. El efecto es
+realmente gracioso, pero definitivamente
+
+6
+00:00:25,590 --> 00:00:31,229
+no es realista. ¿O lo es?
+
+7
+00:00:31,230 --> 00:00:35,819
+Muchas, muchas cámaras digitales
+populares adolecen de distorsión inducida por retraso,
+
+8
+00:00:35,820 --> 00:00:39,019
+como la que acabas de ver, aunque mucho,
+
+9
+00:00:39,020 --> 00:00:42,459
+mucho más sutil. Por
+lo general, es completamente
+
+10
+00:00:42,460 --> 00:00:45,709
+imperceptible. Se
+denomina un efecto "rolling shutter".
+
+11
+00:00:45,710 --> 00:00:48,789
+En lugar de ajustar una exposición completa de una vez,
+
+12
+00:00:48,790 --> 00:00:52,198
+rápidamente se escanean
+franjas de cada fotograma.
+
+13
+00:00:52,199 --> 00:00:56,709
+Normalmente, no se puede detectar.
+Pero cuando el sujeto cambia más rápido de lo que la
+
+14
+00:00:56,710 --> 00:00:57,549
+cámara puede detectar,
+
+15
+00:00:57,550 --> 00:01:03,209
+obtienes el famoso efecto de "rolling
+shutter" de gelatina tambaleante. Las cosas muy
+
+16
+00:01:03,210 --> 00:01:06,799
+rápidas, como las cuerdas de guitarra que
+vibran y los propulsores de los aeroplanos,
+
+17
+00:01:06,800 --> 00:01:11,709
+son víctimas famosas, pero las
+personas también. Luke Mandel envió esta foto
+
+18
+00:01:11,710 --> 00:01:16,618
+a Boing Boing[.net]. Su cámara escaneó
+de izquierda a derecha y, en ese momento,
+
+19
+00:01:16,619 --> 00:01:20,209
+logró capturar un parpadeo, los ojos cerrados
+
+20
+00:01:20,210 --> 00:01:25,169
+cuando el escaneo comenzó y, luego,
+abiertos en el reflejo, escaneados una fracción
+
+21
+00:01:25,170 --> 00:01:28,739
+de segundo después.
+Pero el efecto "rolling shutter"
+
+22
+00:01:28,740 --> 00:01:32,699
+no es solo una pura curiosidad. Constituye
+
+23
+00:01:32,700 --> 00:01:36,129
+una distorsión fundamental e inevitable que
+
+24
+00:01:36,130 --> 00:01:39,709
+afecta todo lo que vemos. Con efecto
+
+25
+00:01:39,710 --> 00:01:44,118
+o no. Lo primero es lo primero,
+hablemos sobre las distorsiones.
+
+26
+00:01:44,119 --> 00:01:47,408
+Una alucinación es
+una distorsión de la realidad
+
+27
+00:01:47,409 --> 00:01:51,389
+cuando no hay un
+estímulo aparente. Si simplemente
+
+28
+00:01:51,390 --> 00:01:55,699
+malinterpretas un
+estímulo real, esa es una ilusión.
+
+29
+00:01:55,700 --> 00:01:59,908
+Pero algunas distorsiones se producen
+antes de que nuestros órganos sensoriales
+
+30
+00:01:59,909 --> 00:02:03,179
+y mentes se interpongan. Estas se denominan
+
+31
+00:02:03,180 --> 00:02:08,339
+fenómenos ópticos. No son el
+resultado de un error sensorial ni de la percepción.
+
+32
+00:02:08,340 --> 00:02:13,659
+En cambio, los fenómenos ópticos son
+distorsiones provocadas por las propiedades de la luz
+
+33
+00:02:13,660 --> 00:02:14,499
+y la materia
+
+34
+00:02:14,500 --> 00:02:17,969
+en y por sí mismas. Si miras al cielo
+
+35
+00:02:17,970 --> 00:02:21,639
+y ves un vívido mate gigante,
+
+36
+00:02:21,640 --> 00:02:24,899
+estás alucinando. Pero si ves un
+
+37
+00:02:24,900 --> 00:02:28,999
+Gran Cucharón plano en dos
+dimensiones al conectar los puntos, estás viendo
+
+38
+00:02:29,000 --> 00:02:32,289
+una ilusión. Es una
+ilusión porque esos puntos solo
+
+39
+00:02:32,290 --> 00:02:37,509
+parecen estar en el mismo plano,
+como agujeros clavados en el oscuro techo del cielo.
+
+40
+00:02:37,510 --> 00:02:40,608
+En realidad, esos puntos son estrellas
+
+41
+00:02:40,609 --> 00:02:44,729
+años luz alejadas unas
+de otras en tres dimensiones.
+
+42
+00:02:44,730 --> 00:02:48,839
+Una brillante visualización en 3D
+en tiempo real libre del espacio de Celestron
+
+43
+00:02:48,840 --> 00:02:52,439
+muestra que, desde diferentes
+perspectivas, además de la nuestra
+
+44
+00:02:52,440 --> 00:02:56,409
+parece mucho más un cucharón o un arado.
+
+45
+00:02:56,410 --> 00:02:59,659
+De hecho, todas las constelaciones y asterismos
+
+46
+00:02:59,660 --> 00:03:03,649
+son ilusiones geocéntricas.
+Desde una perspectiva más amplia
+
+47
+00:03:03,650 --> 00:03:06,729
+sus esquemas apuntan hacia el interior,
+
+48
+00:03:06,730 --> 00:03:09,789
+el único punto humilde en el espacio
+
+49
+00:03:09,790 --> 00:03:13,559
+que les dio sus nombres.
+Pero no puedes culparnos.
+
+50
+00:03:13,560 --> 00:03:18,419
+Es decir, la Tierra es la única
+perspectiva que cualquier humano ha tenido.
+
+51
+00:03:18,420 --> 00:03:22,208
+E incluso, el Voyager 1, el
+objeto más distante hecho por el hombre,
+
+52
+00:03:22,209 --> 00:03:26,059
+aún no está cerca de estar lo
+suficientemente alejado como para que las constelaciones
+
+53
+00:03:26,060 --> 00:03:29,759
+parezcan remotamente
+distintas de como se ven en la Tierra.
+
+54
+00:03:29,760 --> 00:03:33,569
+Tampoco es nuestra culpa
+ni de nuestros ojos y cerebros,
+
+55
+00:03:33,570 --> 00:03:37,108
+que las estrellas muy
+distantes no estuvieran incluidas
+
+56
+00:03:37,109 --> 00:03:40,809
+en nuestro primer juego
+de conexión de puntos cósmicos.
+
+57
+00:03:40,810 --> 00:03:44,078
+Por cierto, nuestra
+visión podría haber sido mejor
+
+58
+00:03:44,079 --> 00:03:47,129
+pero los fenómenos
+ópticos también tienen la culpa.
+
+59
+00:03:47,130 --> 00:03:52,349
+Si no fuera por el desplazamiento hacia
+el rojo y la ley de la inversa del cuadrado y la
+
+60
+00:03:52,350 --> 00:03:55,599
+extinción de la luz, los objetos
+distantes podrían verse en toda su gloria.
+
+61
+00:03:55,600 --> 00:03:59,819
+El cielo nocturno luciría
+fenomenal. Muchas estructuras
+
+62
+00:03:59,820 --> 00:04:03,149
+allí son enormes. Son solo
+
+63
+00:04:03,150 --> 00:04:06,849
+demasiado tenues para
+que se aprecie su enormidad.
+
+64
+00:04:06,850 --> 00:04:11,869
+Cuando vemos las imágenes del telescopio
+Hubble de objetos distantes, como la Nebulosa de
+
+65
+00:04:11,870 --> 00:04:15,509
+la Hélice, es fácil pensar eso,
+sin un telescopio para acercarlo,
+
+66
+00:04:15,510 --> 00:04:19,289
+el objeto debe ser solo
+un punto diminuto en el cielo.
+
+67
+00:04:19,290 --> 00:04:23,418
+Pero, en realidad,
+aunque la Nebulosa de la Hélice
+
+68
+00:04:23,419 --> 00:04:26,679
+esté a 700 años luz de distancia, tiene
+
+69
+00:04:26,680 --> 00:04:31,159
+tiene un radio de 3 años luz.
+Si pudiéramos hacer que la Nebulosa fuera
+
+70
+00:04:31,160 --> 00:04:34,339
+menos tenue, si nuestros ojos pudieran
+
+71
+00:04:34,340 --> 00:04:37,728
+realmente estar expuestos por un tiempo
+prolongado a ella, veríamos la Nebulosa de la
+
+72
+00:04:37,729 --> 00:04:42,839
+Hélice tal como es realmente:
+casi un 70% del diámetro aparente
+
+73
+00:04:42,840 --> 00:04:47,379
+de nuestra Luna. Esta es
+una imagen seria. Eso es lo grande
+
+74
+00:04:47,380 --> 00:04:50,799
+que la Nebulosa de la Hélice
+aparecería en el cielo nocturno de la Tierra
+
+75
+00:04:50,800 --> 00:04:54,359
+si no fuera tan tenue.
+A propósito, nuestra Luna es
+
+76
+00:04:54,360 --> 00:04:59,199
+pequeña en el cielo. Es fácil
+pensar que la Luna es esa enorme cosa
+
+77
+00:04:59,200 --> 00:05:02,909
+con forma de pelota de béisbol
+allí en el cielo, pero eso es una ilusión.
+
+78
+00:05:02,910 --> 00:05:06,959
+Prueba esto la próxima vez que
+veas la Luna. Toma una hoja de cuaderno
+
+79
+00:05:06,960 --> 00:05:10,299
+y notarás que el diámetro angular de la Luna
+
+80
+00:05:10,300 --> 00:05:14,839
+es del mismo tamaño que un agujero
+perforado en una hoja sostenida con
+
+81
+00:05:14,840 --> 00:05:19,879
+tu brazo extendido. En
+serio, pruébalo. Esto demuestra lo
+
+82
+00:05:19,880 --> 00:05:23,619
+lo linda y pequeña que es
+nuestra Luna. La Nebulosa de Orión
+
+83
+00:05:23,620 --> 00:05:27,099
+aparecería incluso más
+grande, si viéramos toda su luz.
+
+84
+00:05:27,100 --> 00:05:30,179
+Y ¿la Galaxia de Andrómeda? Solo
+
+85
+00:05:30,180 --> 00:05:34,969
+una mancha en el cielo para nuestros ojos.
+Pero si nuestros ojos fueran mejores para
+
+86
+00:05:34,970 --> 00:05:38,419
+recibir la luz tenue, veríamos
+la verdadera extensión de Andrómeda
+
+87
+00:05:38,420 --> 00:05:41,689
+en nuestro cielo. Por supuesto, nuestro
+
+88
+00:05:41,690 --> 00:05:44,719
+cielo nocturno no se
+ve así. Los objetos distantes
+
+89
+00:05:44,720 --> 00:05:49,519
+más tenues, eso es una decepción. Pero la
+luz sigue ganando cuando se trata de velocidad
+
+90
+00:05:49,520 --> 00:05:55,329
+La luz viaja a la velocidad más
+rápida. De hecho, en el vacío, la luz viaja
+
+91
+00:05:55,330 --> 00:05:58,539
+a 300,000 kilómetros por segundo.
+
+92
+00:05:58,540 --> 00:06:01,069
+Eso es rápido.
+
+93
+00:06:01,070 --> 00:06:04,629
+Pero no realmente. Es decir,
+no en comparación con lo alejadas
+
+94
+00:06:04,630 --> 00:06:08,199
+que están las cosas en
+el universo. Sydney, Australia
+
+95
+00:06:08,200 --> 00:06:12,279
+se encuentra a un catorceavo
+de un segundo luz de distancia de Londres
+
+96
+00:06:12,280 --> 00:06:13,919
+Pero la Galaxia de Andrómeda está
+
+97
+00:06:13,920 --> 00:06:18,549
+a 2,500,000 años luz de Londres.
+
+98
+00:06:18,550 --> 00:06:22,829
+Para ponerlo en perspectiva, hagamos un
+viaje a la velocidad de la luz de Londres
+
+99
+00:06:22,830 --> 00:06:25,809
+a Sydney. Se parecería a esto... ¿Listos?
+
+100
+00:06:25,810 --> 00:06:30,849
+Tres, dos, uno, ¡partimos!
+
+101
+00:06:30,850 --> 00:06:35,229
+¡Bien! OK, OK. Aquí está
+la Galaxia de Andrómeda
+
+102
+00:06:35,230 --> 00:06:40,519
+OK, ahora, dejando de lado los
+efectos de la relatividad, veamos cómo sería
+
+103
+00:06:40,520 --> 00:06:43,179
+viajar a la Galaxia de Andrómeda
+
+104
+00:06:43,180 --> 00:06:46,019
+a la velocidad de la luz. ¿Estás listo? Bien.
+
+105
+00:06:46,020 --> 00:06:54,359
+Tres, dos, uno, ¡partimos!
+
+106
+00:06:54,360 --> 00:06:57,449
+Sí. En serio, es muy
+
+107
+00:06:57,450 --> 00:07:01,349
+aburrido. Incluso a la velocidad de la luz,
+
+108
+00:07:01,350 --> 00:07:05,229
+la mayor velocidad posible,
+dentro de un año a partir de ahora
+
+109
+00:07:05,230 --> 00:07:08,999
+ahora no estaríamos
+ni a una millonésima de allí.
+
+110
+00:07:09,000 --> 00:07:11,329
+Esa es la distancia
+
+111
+00:07:11,330 --> 00:07:14,979
+a la que Andrómeda se
+encuentra. En cierto modo, es casi triste.
+
+112
+00:07:14,980 --> 00:07:20,289
+Pero esto nos lleva de
+regreso al efecto de "rolling shutter"
+
+113
+00:07:20,290 --> 00:07:25,959
+La Galaxia de Andrómeda es enorme.
+Tiene más de cien mil años luz de radio
+
+114
+00:07:25,960 --> 00:07:29,589
+y nuestra visión de ella es parcial.
+
+115
+00:07:29,590 --> 00:07:33,819
+Lo que significa que, en el plano
+en que lo veamos, la luz proveniente de atrás
+
+116
+00:07:33,820 --> 00:07:39,239
+representa cómo se veía
+Andrómeda hace miles y miles de años antes
+
+117
+00:07:39,240 --> 00:07:42,329
+de lo que la luz de adelante representa.
+
+118
+00:07:42,330 --> 00:07:45,689
+Los cambios en su apariencia
+nos llegan más pronto desde adelante
+
+119
+00:07:45,690 --> 00:07:50,269
+que desde atrás. Andrómeda está
+rotando, girando a cientos de kilómetros
+
+120
+00:07:50,270 --> 00:07:51,909
+por segundo en algunos lugares.
+
+121
+00:07:51,910 --> 00:07:55,669
+Ahora, un retraso entre la luz
+proveniente de los puntos cercanos
+
+122
+00:07:55,670 --> 00:07:58,879
+y lejanos en un objeto que gira provoca
+
+123
+00:07:58,880 --> 00:08:03,689
+una imagen torcida. El efecto de
+"rolling shutter" en una escala cósmica
+
+124
+00:08:03,690 --> 00:08:06,699
+aplicado a, por ejemplo, un
+tablero de ajedrez visto desde el frente
+
+125
+00:08:06,700 --> 00:08:11,259
+es muy flipante e impresionante.
+
+126
+00:08:11,260 --> 00:08:13,789
+Por lo tanto, ¿significa esto que vemos versiones
+
+127
+00:08:13,790 --> 00:08:18,199
+de efecto "rolling shutter", movedizas, de
+espejo de casa de la risa de Andrómeda
+
+128
+00:08:18,200 --> 00:08:21,669
+y otras galaxias
+distantes? Bueno, técnicamente,
+
+129
+00:08:21,670 --> 00:08:26,659
+sí, pero la distorsión es
+insignificante. Además, se puede
+
+130
+00:08:26,660 --> 00:08:30,019
+ignorar. ¿Por qué? Bien,
+
+131
+00:08:30,020 --> 00:08:33,668
+las velocidades usadas
+en estas visualizaciones no son
+
+132
+00:08:33,669 --> 00:08:38,249
+a escala. En promedio, sí,
+la materia dentro de las galaxias
+
+133
+00:08:38,250 --> 00:08:41,699
+orbita el centro de la galaxia
+a cientos de kilómetros por segundo,
+
+134
+00:08:41,700 --> 00:08:45,559
+pero las galaxias
+son tan enormes que les lleva
+
+135
+00:08:45,560 --> 00:08:49,209
+cientos de millones de
+años completar solo una
+
+136
+00:08:49,210 --> 00:08:53,739
+rotación. En otras
+palabras, el retraso entre la luz
+
+137
+00:08:53,740 --> 00:08:56,999
+que llega a ti desde puntos
+cercanos y distantes en una galaxia,
+
+138
+00:08:57,000 --> 00:09:00,289
+no es nada comparado con el tiempo que demora
+
+139
+00:09:00,290 --> 00:09:03,859
+la materia en la galaxia
+para viajar esa misma distancia.
+
+140
+00:09:03,860 --> 00:09:06,989
+En el caso de
+Andrómeda, si insistieras en verla
+
+141
+00:09:06,990 --> 00:09:10,379
+tal como realmente es,
+
+142
+00:09:10,380 --> 00:09:15,559
+es decir, corregido cualquier retraso
+producido por el hecho de que la velocidad de la luz
+
+143
+00:09:15,560 --> 00:09:18,799
+es finita, los puntos más extremos en la Galaxia
+
+144
+00:09:18,800 --> 00:09:23,039
+solo necesitarían ser ajustados
+aproximadamente una diezmilésima
+
+145
+00:09:23,040 --> 00:09:26,419
+del ancho de cualquier
+imagen. En este caso, menos de un píxel.
+
+146
+00:09:26,420 --> 00:09:30,799
+Por lo que no es un
+gran problema. Pero tampoco es nada.
+
+147
+00:09:30,800 --> 00:09:34,529
+Es real. De hecho, todo lo que miramos es,
+
+148
+00:09:34,530 --> 00:09:37,669
+de alguna manera, distorsionado
+por el hecho de que la velocidad de la luz
+
+149
+00:09:37,670 --> 00:09:40,749
+es finita. Tus propios pies se encuentran
+
+150
+00:09:40,750 --> 00:09:47,139
+a 5 o 6 nanosegundos luz de distancia de
+tus ojos, lo que significa que cuando miras tus
+
+151
+00:09:47,140 --> 00:09:50,949
+pies miras dónde estaban entre 5 y 6
+
+152
+00:09:50,950 --> 00:09:55,229
+nanosegundos atrás. 5
+a 6 nanosegundos en el pasado.
+
+153
+00:09:55,230 --> 00:09:58,249
+Por supuesto, un retraso
+tan breve es mucho más indetectable,
+
+154
+00:09:58,250 --> 00:10:01,879
+pero se puede calcular. Si te hace sentir
+
+155
+00:10:01,880 --> 00:10:05,219
+un poco triste saber que
+incluso con la mente más aguda
+
+156
+00:10:05,220 --> 00:10:09,549
+o los mejores instrumentos,
+las apariencias aún dependen
+
+157
+00:10:09,550 --> 00:10:13,139
+de dónde te encuentras.
+Ese fenómeno óptico asegura
+
+158
+00:10:13,140 --> 00:10:17,679
+que las apariencias sean
+siempre (¿)relativas(?). No te sientas mal.
+
+159
+00:10:17,680 --> 00:10:21,669
+Llamamos a las personas
+más cercanas nuestros parientes.
+
+160
+00:10:21,670 --> 00:10:25,069
+Realmente somos una familia, una gran familia
+
+161
+00:10:25,070 --> 00:10:28,479
+de marcos de referencia que, como
+una familia, no siempre están de acuerdo,
+
+162
+00:10:28,480 --> 00:10:31,569
+pero que tienen muchas
+cosas geniales que mirar.
+
+163
+00:10:31,570 --> 00:10:35,489
+Quiero agradecer a mi
+editor, Guy, por ayudarme con el
+
+164
+00:10:35,490 --> 00:10:51,888
+efecto de "rolling shutter" de este video.
+
+165
+00:10:51,889 --> 00:10:54,448
+Y para ti, como siempre,
+
+166
+00:10:54,449 --> 00:11:21,969
+gracias por vernos.
+
+167
+00:11:21,970 --> 00:11:23,009
+Oh, aquí hay algo genial.
+
+168
+00:11:23,010 --> 00:11:26,039
+Estaré en el Fan Fest de YouTube con HP
+
+169
+00:11:26,040 --> 00:11:29,579
+en la India muy, muy pronto. Revisa la
+descripción para obtener más información. Si puedes
+
+170
+00:11:29,580 --> 00:11:30,069
+hazlo,
+
+171
+00:11:30,070 --> 00:11:31,020
+Espero verte allí.
+

@@ -1,0 +1,732 @@
+1
+00:00:07,220 --> 00:00:10,558
+Hey, Vsoße.  Michael hier.  Ich bin
+
+2
+00:00:10,559 --> 00:00:13,959
+verzerrt.  Die Pixel, die Sie beobachten, wurden
+
+3
+00:00:13,960 --> 00:00:18,179
+zeitlich verschoben.  Sie wurden einem Gradienten zugeordnet
+
+4
+00:00:18,180 --> 00:00:21,778
+und je dunkler die Region, der sie zugeordnet sind,
+desto weiter
+
+5
+00:00:21,779 --> 00:00:25,589
+hinken sie hinterher.  Der Effekt macht wirklich Spaß, ist aber sicherlich
+
+6
+00:00:25,590 --> 00:00:31,229
+nicht realistisch.  Oder ist es?
+
+7
+00:00:31,230 --> 00:00:35,819
+Viele, viele populäre Digitalkameras leiden
+unter verzögerungsinduzierten Verzerrungen,
+
+8
+00:00:35,820 --> 00:00:39,019
+wie das, was Sie gerade gesehen haben, wenn auch viel,
+
+9
+00:00:39,020 --> 00:00:42,459
+viel subtiler.  Meist völlig
+
+10
+00:00:42,460 --> 00:00:45,709
+unbemerkt.  Das nennt sich Rolling-Shutter.
+
+11
+00:00:45,710 --> 00:00:48,789
+Anstatt sofort eine Vollbelichtung zu machen
+
+12
+00:00:48,790 --> 00:00:52,198
+, scannen sie schnell Streifen von jedem Bild.  Es ist
+
+13
+00:00:52,199 --> 00:00:56,709
+normalerweise nicht nachweisbar.  Aber wenn sich das
+Motiv schneller ändert als die Kamera
+
+14
+00:00:56,710 --> 00:00:57,549
+scannt, entsteht
+
+15
+00:00:57,550 --> 00:01:03,209
+der berühmte geloey wackelnde Rolling-
+Shutter-Effekt.  Wirklich schnelle
+
+16
+00:01:03,210 --> 00:01:06,799
+Dinge wie vibrierende Gitarrensaiten und
+Flugzeugpropeller
+
+17
+00:01:06,800 --> 00:01:11,709
+sind berühmte Opfer, aber Menschen können es auch sein.
+Luke Mandel schickte dieses Foto
+
+18
+00:01:11,710 --> 00:01:16,618
+an Boing Boing[.net].  Seine Kamera scannt von links nach
+rechts und schaffte es in diesem Fall,
+
+19
+00:01:16,619 --> 00:01:20,209
+ein Blinzeln einzufangen, die Augen waren geschlossen,
+
+20
+00:01:20,210 --> 00:01:25,169
+als der Scan begann, und öffneten sich dann in der
+Reflexion, die einen
+
+21
+00:01:25,170 --> 00:01:28,739
+Bruchteil einer Sekunde später gescannt wurde.
+Aber der Rolling-Shutter-Effekt
+
+22
+00:01:28,740 --> 00:01:32,699
+ist nicht nur eine nette Kuriosität.  Es stellt
+
+23
+00:01:32,700 --> 00:01:36,129
+eine grundlegende und unausweichliche Verzerrung dar, die sich
+
+24
+00:01:36,130 --> 00:01:39,709
+auf alles auswirkt, was wir sehen.  Rollladen
+
+25
+00:01:39,710 --> 00:01:44,118
+oder nicht.  Lassen Sie uns zuerst über Verzerrungen sprechen.
+
+26
+00:01:44,119 --> 00:01:47,408
+Eine Halluzination ist eine Verzerrung der Realität,
+
+27
+00:01:47,409 --> 00:01:51,389
+wenn es keinen offensichtlichen Reiz gibt.  Wenn Sie lediglich
+
+28
+00:01:51,390 --> 00:01:55,699
+einen tatsächlichen Reiz falsch interpretieren, ist das eine Illusion.
+
+29
+00:01:55,700 --> 00:01:59,908
+Aber einige Verzerrungen treten auf, bevor unsere Sinnesorgane
+
+30
+00:01:59,909 --> 00:02:03,179
+und unser Verstand in die Quere kommen.  Sie werden
+
+31
+00:02:03,180 --> 00:02:08,339
+optische Phänomene genannt.  Sie sind nicht das
+Ergebnis falscher Empfindungen oder Wahrnehmungen.
+
+32
+00:02:08,340 --> 00:02:13,659
+Stattdessen sind optische Phänomene Verzerrungen,
+die durch die bloßen Eigenschaften von Licht
+
+33
+00:02:13,660 --> 00:02:14,499
+und Materie
+
+34
+00:02:14,500 --> 00:02:17,969
+an und für sich verursacht werden.  Wenn Sie in den Himmel blicken
+
+35
+00:02:17,970 --> 00:02:21,639
+und einen riesigen leuchtenden Trinkkürbis sehen,
+
+36
+00:02:21,640 --> 00:02:24,899
+halluzinieren Sie.  Aber wenn Sie einen flachen
+
+37
+00:02:24,900 --> 00:02:28,999
+zweidimensionalen
+Großen Wagen sehen, der die Punkte verbindet, sehen Sie
+
+38
+00:02:29,000 --> 00:02:32,289
+eine Illusion.  Es ist eine Illusion, weil diese Punkte
+
+39
+00:02:32,290 --> 00:02:37,509
+lediglich auf derselben Ebene zu liegen scheinen, wie
+Löcher, die in das dunkle Dach des Himmels gestochen wurden.
+
+40
+00:02:37,510 --> 00:02:40,608
+In Wirklichkeit sind diese Punkte Sterne, die
+
+41
+00:02:40,609 --> 00:02:44,729
+in drei Dimensionen Lichtjahre voneinander entfernt sind.
+
+42
+00:02:44,730 --> 00:02:48,839
+Wie Celestrons brillante kostenlose Echtzeit-
+3D-Visualisierung des Weltraums
+
+43
+00:02:48,840 --> 00:02:52,439
+zeigt, sehen sie aus anderen Perspektiven als unserer eigenen
+
+44
+00:02:52,440 --> 00:02:56,409
+viel weniger wie eine Kelle oder ein Pflug aus.
+
+45
+00:02:56,410 --> 00:02:59,659
+Tatsächlich sind alle Konstellationen und
+
+46
+00:02:59,660 --> 00:03:03,649
+Asterismen geozentrische Illusionen.  Aus einer weiteren Perspektive zeigen
+
+47
+00:03:03,650 --> 00:03:06,729
+ihre Umrisse nach innen,
+
+48
+00:03:06,730 --> 00:03:09,789
+zu dem einzigen niedrigen Punkt im Raum
+
+49
+00:03:09,790 --> 00:03:13,559
+, der ihnen ihren Namen gab.  Aber Sie können uns keinen Vorwurf machen.
+
+50
+00:03:13,560 --> 00:03:18,419
+Ich meine, die Erde ist die einzige Perspektive, die je ein
+Mensch hatte.
+
+51
+00:03:18,420 --> 00:03:22,208
+Und selbst Voyager 1,
+das am weitesten entfernte von Menschenhand geschaffene Objekt,
+
+52
+00:03:22,209 --> 00:03:26,059
+ist noch nicht einmal annähernd so weit
+entfernt, dass die Konstellationen
+
+53
+00:03:26,060 --> 00:03:29,759
+auch nur entfernt anders aussehen könnten als hier auf der Erde.
+
+54
+00:03:29,760 --> 00:03:33,569
+Es ist auch nicht unsere Schuld, die Schuld unserer Augen und unseres Gehirns
+
+55
+00:03:33,570 --> 00:03:37,108
+, dass weit entfernte Sterne nicht
+
+56
+00:03:37,109 --> 00:03:40,809
+in unser frühes kosmisches Verbinde-den-Punkt-Spiel einbezogen wurden.
+
+57
+00:03:40,810 --> 00:03:44,078
+Klar, unser Sehvermögen könnte besser sein,
+
+58
+00:03:44,079 --> 00:03:47,129
+aber auch optische Phänomene sind daran schuld.
+
+59
+00:03:47,130 --> 00:03:52,349
+Wenn es nicht die Rotverschiebung und das
+umgekehrte Quadratgesetz und die Lichtauslöschung gäbe,
+
+60
+00:03:52,350 --> 00:03:55,599
+könnten entfernte Dinge in ihrer ganzen Pracht gesehen werden.
+
+61
+00:03:55,600 --> 00:03:59,819
+Der Nachthimmel würde phänomenal aussehen.  Viele
+
+62
+00:03:59,820 --> 00:04:03,149
+Bauwerke dort oben sind riesig.  Sie sind einfach
+
+63
+00:04:03,150 --> 00:04:06,849
+zu dunkel, um ihre Größe zu schätzen.
+
+64
+00:04:06,850 --> 00:04:11,869
+Wenn wir Bilder des Hubble-Teleskops von
+entfernten Objekten wie dem Helix-Nebel sehen, ist
+
+65
+00:04:11,870 --> 00:04:15,509
+es leicht zu glauben, dass das Objekt ohne ein Zoom-Teleskop
+
+66
+00:04:15,510 --> 00:04:19,289
+nur ein winziger Punkt am Himmel sein muss.
+
+67
+00:04:19,290 --> 00:04:23,418
+Aber in Wirklichkeit hat der Helixnebel, obwohl er
+
+68
+00:04:23,419 --> 00:04:26,679
+700 Lichtjahre entfernt ist, einen
+
+69
+00:04:26,680 --> 00:04:31,159
+Durchmesser von 3 Lichtjahren.  Wenn wir den Helixnebel
+
+70
+00:04:31,160 --> 00:04:34,339
+weniger dunkel machen könnten, wenn unsere Augen ihn
+
+71
+00:04:34,340 --> 00:04:37,728
+wirklich lange belichten könnten,
+würden wir den Helixnebel so sehen,
+
+72
+00:04:37,729 --> 00:04:42,839
+wie er wirklich ist – fast 70 % des scheinbaren
+
+73
+00:04:42,840 --> 00:04:47,379
+Durchmessers unseres Mondes.  Das ist ein ernstes Bild.
+So groß
+
+74
+00:04:47,380 --> 00:04:50,799
+würde der Helixnebel am
+Nachthimmel von der Erde aus erscheinen,
+
+75
+00:04:50,800 --> 00:04:54,359
+wenn er nur nicht so dunkel wäre.  Unser Mond
+
+76
+00:04:54,360 --> 00:04:59,199
+ist übrigens winzig klein am Himmel.  Es ist leicht,
+sich den Mond als ein riesiges Ding von der
+
+77
+00:04:59,200 --> 00:05:02,909
+Größe eines Baseballs da oben am Himmel vorzustellen,
+aber das ist eine Illusion.
+
+78
+00:05:02,910 --> 00:05:06,959
+Versuchen Sie dies, wenn Sie das nächste Mal den
+Mond sehen.  Nehmen Sie ein Blatt Notizbuchpapier
+
+79
+00:05:06,960 --> 00:05:10,299
+und Sie werden feststellen, dass der
+Winkeldurchmesser des
+
+80
+00:05:10,300 --> 00:05:14,839
+Mondes die gleiche Größe hat wie ein Loch, das in ein Blatt Notizbuchpapier gestanzt ist,
+das Sie
+
+81
+00:05:14,840 --> 00:05:19,879
+in Armlänge entfernt halten.  Im Ernst, versuchen Sie es
+einmal.  Es zeigt, wie
+
+82
+00:05:19,880 --> 00:05:23,619
+süß und winzig unser kleiner Mond ist.
+Der Orionnebel
+
+83
+00:05:23,620 --> 00:05:27,099
+würde noch größer erscheinen, wenn wir sein ganzes Licht sehen würden.
+
+84
+00:05:27,100 --> 00:05:30,179
+Und die Andromeda-Galaxie?  Für
+
+85
+00:05:30,180 --> 00:05:34,969
+unsere Augen nur ein Fleck am Himmel.  Aber wenn unsere
+Augen besser darin
+
+86
+00:05:34,970 --> 00:05:38,419
+wären, schwaches Licht zu erfassen, würden wir Andromedas wahre Ausdehnung
+
+87
+00:05:38,420 --> 00:05:41,689
+an unserem Himmel sehen.  Unser
+
+88
+00:05:41,690 --> 00:05:44,719
+Nachthimmel sieht natürlich nicht so aus.  Entfernte Objekte
+
+89
+00:05:44,720 --> 00:05:49,519
+sind dunkler, das ist ein Mist.  Aber Licht gewinnt immer noch,
+wenn es um Geschwindigkeit geht.
+
+90
+00:05:49,520 --> 00:05:55,329
+Licht breitet sich mit der schnellsten Geschwindigkeit aus.
+Tatsächlich legt Licht im Vakuum
+
+91
+00:05:55,330 --> 00:05:58,539
+300.000 Kilometer pro Sekunde zurück.
+
+92
+00:05:58,540 --> 00:06:01,069
+Das ist schnell.
+
+93
+00:06:01,070 --> 00:06:04,629
+Aber nicht wirklich.  Ich meine, nicht im Vergleich dazu, wie weit die
+
+94
+00:06:04,630 --> 00:06:08,199
+Dinge im Universum voneinander entfernt sind.  Sydney, Australien,
+
+95
+00:06:08,200 --> 00:06:12,279
+ist 1/14 Lichtsekunde von London entfernt.
+
+96
+00:06:12,280 --> 00:06:13,919
+Aber die Andromeda-Galaxie ist
+
+97
+00:06:13,920 --> 00:06:18,549
+2.500.000 Lichtjahre von London entfernt.
+
+98
+00:06:18,550 --> 00:06:22,829
+Um das ins rechte Licht zu rücken, machen wir eine
+Reise mit Lichtgeschwindigkeit von London
+
+99
+00:06:22,830 --> 00:06:25,809
+nach Sydney.  Es würde so aussehen ... Bereit?
+
+100
+00:06:25,810 --> 00:06:30,849
+Drei, zwei, eins, los!
+
+101
+00:06:30,850 --> 00:06:35,229
+Hübsch!  Also gut.  Hier ist die Andromeda-Galaxie.
+
+102
+00:06:35,230 --> 00:06:40,519
+Okay, lassen Sie uns nun, abgesehen von relativistischen Effekten
+, einen Blick darauf werfen, wie es aussehen würde,
+
+103
+00:06:40,520 --> 00:06:43,179
+mit Lichtgeschwindigkeit zur Andromeda-Galaxie zu reisen
+
+104
+00:06:43,180 --> 00:06:46,019
+.  Sind Sie bereit?  In Ordnung.
+
+105
+00:06:46,020 --> 00:06:54,359
+Drei, zwei, eins, los!
+
+106
+00:06:54,360 --> 00:06:57,449
+Ja.  Ich meine, im Ernst, es ist
+
+107
+00:06:57,450 --> 00:07:01,349
+ziemlich lahm.  Selbst mit Lichtgeschwindigkeit,
+
+108
+00:07:01,350 --> 00:07:05,229
+der höchstmöglichen Geschwindigkeit, werden
+
+109
+00:07:05,230 --> 00:07:08,999
+wir in einem Jahr noch nicht einmal ein Millionstel des Weges zurückgelegt haben.
+
+110
+00:07:09,000 --> 00:07:11,329
+So weit ist
+
+111
+00:07:11,330 --> 00:07:14,979
+Andromeda entfernt.  Irgendwie ist es fast
+
+112
+00:07:14,980 --> 00:07:20,289
+traurig.  Aber das bringt uns zurück
+zum Rolling-Shutter-Effekt.
+
+113
+00:07:20,290 --> 00:07:25,959
+Die Andromeda-Galaxie ist riesig.  Es hat
+einen Durchmesser von mehr als hunderttausend Lichtjahren,
+
+114
+00:07:25,960 --> 00:07:29,589
+und unser Blick darauf ist geneigt.
+
+115
+00:07:29,590 --> 00:07:33,819
+Das bedeutet, dass das Licht von hinten in der Ebene, in der wir es betrachten,
+
+
+116
+00:07:33,820 --> 00:07:39,239
+darstellt, wie Andromeda
+Tausende und Abertausende von Jahren vor
+
+117
+00:07:39,240 --> 00:07:42,329
+dem aussah, was das Licht von vorne darstellt.
+
+118
+00:07:42,330 --> 00:07:45,689
+Veränderungen in seinem Aussehen erreichen uns
+eher von vorne
+
+119
+00:07:45,690 --> 00:07:50,269
+als von hinten.  Andromeda dreht sich,
+dreht sich an manchen Stellen mit Hunderten von Kilometern pro
+
+120
+00:07:50,270 --> 00:07:51,909
+Sekunde.
+
+121
+00:07:51,910 --> 00:07:55,669
+Nun führt eine Verzögerung zwischen Licht, das von nahen
+
+122
+00:07:55,670 --> 00:07:58,879
+und fernen Punkten auf einem sich drehenden Objekt kommt,
+
+123
+00:07:58,880 --> 00:08:03,689
+zu einem verzerrten Bild.  Der Rolling-Shutter-
+Effekt auf kosmischer Ebene
+
+124
+00:08:03,690 --> 00:08:06,699
+, der beispielsweise auf ein Schachbrett angewendet wird und die Vorderseite
+
+125
+00:08:06,700 --> 00:08:11,259
+vor der Rückseite sieht, ist ziemlich trippig und dramatisch.  Bedeutet das
+
+126
+00:08:11,260 --> 00:08:13,789
+also, dass wir
+
+127
+00:08:13,790 --> 00:08:18,199
+
+Versionen von Andromeda
+
+128
+00:08:18,200 --> 00:08:21,669
+und anderen fernen Galaxien mit wackeligen Spiegeln und Rolling-Shutter-Effekten sehen?  Nun, technisch
+
+129
+00:08:21,670 --> 00:08:26,659
+ja, aber die Verzerrung ist vernachlässigbar.  Es kann auch
+
+130
+00:08:26,660 --> 00:08:30,019
+ignoriert werden.  Wieso den?  Nun,
+
+131
+00:08:30,020 --> 00:08:33,668
+die in diesen Visualisierungen verwendeten Geschwindigkeiten sind
+
+132
+00:08:33,669 --> 00:08:38,249
+nicht maßstabsgetreu.  Ja, im Durchschnitt umkreist Materie innerhalb von Galaxien
+
+133
+00:08:38,250 --> 00:08:41,699
+das galaktische Zentrum mit Hunderten
+von Kilometern pro Sekunde,
+
+134
+00:08:41,700 --> 00:08:45,559
+aber Galaxien sind so riesig, dass sie
+
+135
+00:08:45,560 --> 00:08:49,209
+Hunderte von Millionen Jahren brauchen, um nur eine Umdrehung zu vollenden
+
+136
+00:08:49,210 --> 00:08:53,739
+.  Mit anderen Worten, die Verzögerung zwischen Licht,
+
+137
+00:08:53,740 --> 00:08:56,999
+das Sie von nahen und fernen Punkten in einer Galaxie erreicht,
+
+138
+00:08:57,000 --> 00:09:00,289
+ist nichts im Vergleich zu der Zeit, die
+
+139
+00:09:00,290 --> 00:09:03,859
+Materie in der Galaxie benötigt, um dieselbe Entfernung zurückzulegen.
+
+140
+00:09:03,860 --> 00:09:06,989
+Wenn Sie im Fall von Andromeda darauf bestehen würden
+
+141
+00:09:06,990 --> 00:09:10,379
+, Andromeda so zu sehen, wie es wirklich ist,
+
+142
+00:09:10,380 --> 00:09:15,559
+das heißt, korrigiert um Verzögerungen, die durch
+die Tatsache verursacht werden, dass die Lichtgeschwindigkeit
+
+143
+00:09:15,560 --> 00:09:18,799
+endlich ist, müssten die extremsten Punkte auf der
+
+144
+00:09:18,800 --> 00:09:23,039
+Galaxie nur um angepasst werden  etwa ein 10.000stel
+
+145
+00:09:23,040 --> 00:09:26,419
+der Breite eines Bildes.  In diesem Fall weniger als ein Pixel.
+
+146
+00:09:26,420 --> 00:09:30,799
+Es ist also keine große Sache.  Aber es ist kein Nichtsgeschäft.
+
+147
+00:09:30,800 --> 00:09:34,529
+Es ist echt.  Tatsächlich wird alles, was wir betrachten,
+
+148
+00:09:34,530 --> 00:09:37,669
+in gewisser Weise durch die Tatsache verzerrt, dass die
+
+149
+00:09:37,670 --> 00:09:40,749
+Lichtgeschwindigkeit endlich ist.  Ihre eigenen Füße sind etwa
+
+150
+00:09:40,750 --> 00:09:47,139
+5 bis 6 Nanosekunden von Ihren
+Augen entfernt, was bedeutet, dass Sie, wenn Sie auf Ihre Füße schauen,
+
+151
+00:09:47,140 --> 00:09:50,949
+sehen, wo sie vor 5 bis 6
+
+152
+00:09:50,950 --> 00:09:55,229
+Nanosekunden waren.  5 bis 6 Nanosekunden in der Vergangenheit.
+
+153
+00:09:55,230 --> 00:09:58,249
+Natürlich ist eine so kurze Verzögerung
+so gut wie nicht nachweisbar,
+
+154
+00:09:58,250 --> 00:10:01,879
+aber sie ist kalkulierbar.  Wenn es Sie
+
+155
+00:10:01,880 --> 00:10:05,219
+ein wenig traurig macht zu wissen, dass selbst mit dem schärfsten Verstand
+
+156
+00:10:05,220 --> 00:10:09,549
+oder den besten Instrumenten das Aussehen immer noch davon abhängt,
+
+157
+00:10:09,550 --> 00:10:13,139
+wo Sie sich befinden.  Dass optische Phänomene dafür sorgen, dass der
+
+158
+00:10:13,140 --> 00:10:17,679
+Schein immer relativ ist (?).
+
+159
+00:10:17,680 --> 00:10:21,669
+Wir nennen die Menschen, die uns am nächsten stehen, unsere Verwandten.
+
+160
+00:10:21,670 --> 00:10:25,069
+Wir sind wirklich nur eine Familie, eine große Familie
+
+161
+00:10:25,070 --> 00:10:28,479
+von Referenzrahmen, die
+wie eine Familie nicht immer einer Meinung sind,
+
+162
+00:10:28,480 --> 00:10:31,569
+aber viele coole Dinge zu sehen haben.
+
+163
+00:10:31,570 --> 00:10:35,489
+Ich möchte meinem Redakteur Guy für seine Hilfe beim
+
+164
+00:10:35,490 --> 00:10:51,888
+Rolling-Shutter-Effekt in diesem Video danken.
+
+165
+00:10:51,889 --> 00:10:54,448
+Und ich möchte mich bei Ihnen bedanken, denn wie immer
+
+166
+00:10:54,449 --> 00:11:21,969
+danke fürs Zuschauen.
+
+167
+00:11:21,970 --> 00:11:23,009
+Oh, hier ist etwas Cooles.
+
+168
+00:11:23,010 --> 00:11:26,039
+Ich werde sehr, sehr bald beim YouTube Fan Fest mit HP
+
+169
+00:11:26,040 --> 00:11:29,579
+in Indien sein.  Weitere Informationen finden Sie in der
+Beschreibung.  Wenn Sie
+
+170
+00:11:29,580 --> 00:11:30,069
+es schaffen,
+
+171
+00:11:30,070 --> 00:11:31,020
+hoffe ich, Sie dort zu sehen.
+

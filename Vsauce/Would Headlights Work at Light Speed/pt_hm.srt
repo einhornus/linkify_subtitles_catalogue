@@ -1,0 +1,822 @@
+1
+00:00:00,290 --> 00:00:04,679
+Ei, Vsauce. Michael aqui. Se você estivesse dirigindo um carro
+
+2
+00:00:04,680 --> 00:00:08,379
+à velocidade da luz e você ligasse os faróis
+
+3
+00:00:08,380 --> 00:00:12,399
+o que aconteceria? A luz seria capaz de sair
+
+4
+00:00:12,400 --> 00:00:15,808
+ou seus faróis apenas ficariam escuros?
+
+5
+00:00:15,809 --> 00:00:19,139
+Ou talvez, a luz aparecesse, mas ficasse acumulada
+
+6
+00:00:19,140 --> 00:00:22,538
+no interior do farol como uma pia transbordando.
+
+7
+00:00:22,539 --> 00:00:27,559
+Ou talvez a luz sairia, mas a
+duas vezes a velocidade da luz - em sua
+
+8
+00:00:27,560 --> 00:00:30,659
+velocidade normal mais a velocidade de seu carro?
+
+9
+00:00:30,660 --> 00:00:35,199
+Não, isso não soa bem. Nenhuma dessas
+respostas soa bem porque,
+
+10
+00:00:35,200 --> 00:00:38,648
+é claro, não há uma resposta.
+
+11
+00:00:38,649 --> 00:00:41,939
+Um carro não pode viajar à velocidade
+
+12
+00:00:41,940 --> 00:00:46,179
+da luz. Nada que tenha massa pode.
+
+13
+00:00:46,180 --> 00:00:50,339
+Mas vamos lá, você pode dizer, há coisas
+que podem viajar à velocidade da luz.
+
+14
+00:00:50,340 --> 00:00:54,409
+Coisas que não têm massa, como os fótons. Vamos construir um carro
+
+15
+00:00:54,410 --> 00:00:57,538
+feito de luz. Ok.
+
+16
+00:00:57,539 --> 00:01:01,108
+Vamos usar essa sugestão porque imaginar como é ser
+
+17
+00:01:01,109 --> 00:01:04,999
+luz, traz várias perguntas sobre
+
+18
+00:01:05,000 --> 00:01:08,359
+luz, sobre por que as coisas são do jeito que são
+
+19
+00:01:08,360 --> 00:01:12,509
+e sobre se somos ou não, reais.
+
+20
+00:01:12,510 --> 00:01:16,949
+A fim de entendermos o que eu quero dizer, precisamos
+falar sobre "C".
+
+21
+00:01:16,950 --> 00:01:18,819
+A velocidade da luz.
+
+22
+00:01:18,820 --> 00:01:23,869
+Ela é constante. Contanto que você não esteja acelerando, você pode se mover tão rápido ou
+
+23
+00:01:23,870 --> 00:01:27,759
+lento ou em qualquer direção que quiser e mesmo assim,
+
+24
+00:01:27,760 --> 00:01:30,899
+sempre verá a luz se movendo a velocidade
+
+25
+00:01:30,900 --> 00:01:36,429
+da luz. Mesmo quando a luz parece desacelerar, à medida que passa através de diferentes materiais,
+
+26
+00:01:36,430 --> 00:01:40,729
+os fótons propriamente ditos ainda estarão
+sempre viajando em "C".
+
+27
+00:01:40,730 --> 00:01:43,999
+Eles estão apenas tomando um caminho mais longo, que demora
+
+28
+00:01:44,000 --> 00:01:49,029
+mais tempo. Essa lei sempre é válida
+porque sempre que você se move
+
+29
+00:01:49,030 --> 00:01:52,089
+em relação a outras coisas,  suas medidas em relação a elas e as delas
+
+30
+00:01:52,090 --> 00:01:53,269
+em relação a você
+
+31
+00:01:53,270 --> 00:01:58,529
+mudam. Quando você se move, tudo o que não se move com você parece
+
+32
+00:01:58,530 --> 00:02:02,859
+encurtado em comprimento e percebendo o tempo mais lento
+
+33
+00:02:02,860 --> 00:02:06,789
+Ao passo em que, para todo o resto, é em você
+que essas mudanças acontecem.
+
+34
+00:02:06,790 --> 00:02:12,069
+Essas mudanças realmente acontecem - só não são mensuráveis ou percebíveis nas velocidades que
+
+35
+00:02:12,070 --> 00:02:13,599
+nós costumamos viajar.
+
+36
+00:02:13,600 --> 00:02:16,929
+Por exemplo, andando em direção a sua geladeira para fazer um lanche
+
+37
+00:02:16,930 --> 00:02:20,669
+você perceberá a sua geladeira estando 100 quadrilionésimos
+
+38
+00:02:20,670 --> 00:02:25,469
+de um metro mais perto e mais "fina" do que quando você está imóvel.
+
+39
+00:02:25,470 --> 00:02:28,739
+Você também vai notar que a geladeira experienciará o tempo mais lentamente
+
+40
+00:02:28,740 --> 00:02:32,379
+do que você. Cada um dos seus segundos
+será 100 quadrilionésimos
+
+41
+00:02:32,380 --> 00:02:35,488
+de um segundo maior que o seu. Mas sua geladeira
+
+42
+00:02:35,489 --> 00:02:38,809
+medirá que essas transformações estão
+acontecendo em você.
+
+43
+00:02:38,810 --> 00:02:42,529
+Esses números são pequenos, 
+mas a velocidades próximas da luz
+
+44
+00:02:42,530 --> 00:02:46,659
+essas mudanças podem ser dramáticas. Como eu havia
+mencionado em um vídeo anterior,
+
+45
+00:02:46,660 --> 00:02:54,159
+para uma partícula viajando em direção à terra
+estando a 99,9999999999991% C (Velocidade da Luz)
+
+46
+00:02:54,160 --> 00:02:57,559
+toda a Terra parecerá ter somente
+
+47
+00:02:57,560 --> 00:03:00,649
+70 metros de profundidade. O nosso planeta inteiro!
+
+48
+00:03:00,650 --> 00:03:03,708
+Agora, com tudo isso em mente, vamos dar uma
+olhada nos faróis
+
+49
+00:03:03,709 --> 00:03:07,238
+sendo usada por uma nave estacionária e uma que está se movendo
+
+50
+00:03:07,239 --> 00:03:09,489
+a 99 por cento da velocidade da luz.
+
+51
+00:03:09,490 --> 00:03:13,469
+A nave próxima da velocidade da luz seria achatada na direção que viaja para nós
+
+52
+00:03:13,470 --> 00:03:17,429
+enquanto a estacionária estaria normal. No momento em que os faróis são ligados
+
+53
+00:03:17,430 --> 00:03:21,019
+a luz que vem de ambas as naves viaja
+à mesma taxa.
+
+54
+00:03:21,020 --> 00:03:24,279
+A velocidade da fonte da luz não tornará ela mais rápido
+
+55
+00:03:24,280 --> 00:03:27,689
+A velocidade da nave em movimento, contudo, dá energia a luz
+
+56
+00:03:27,690 --> 00:03:31,179
+na direção que está indo, causando um
+desvio para o azul a partir da frente e um desvio para o vermelho
+
+57
+00:03:31,180 --> 00:03:32,109
+por trás.
+
+58
+00:03:32,110 --> 00:03:35,329
+O que é muito legal é que, embora isto seria apenas o que nós
+
+59
+00:03:35,330 --> 00:03:39,159
+veríamos, flutuando no espaço em repouso com a nave parada.
+
+60
+00:03:39,160 --> 00:03:44,389
+A tripulação da nave em movimento
+não veria a luz do farol apenas gradualmente acelerando à frente deles
+
+61
+00:03:44,390 --> 00:03:49,079
+como nós fazemos, eles iriam vê-lo exatamente
+o que a tripulação da nave estacionária vê.
+
+62
+00:03:49,080 --> 00:03:52,818
+Feixes de luz rapidamente fogem do seu
+faróis na velocidade da luz
+
+63
+00:03:52,819 --> 00:03:57,389
+como se a nave estavam se movendo. Agora a explicação: Vamos dizer que esta distância
+
+64
+00:03:57,390 --> 00:04:01,809
+é uma segundo-luz. A distância que a luz viaja em um segundo. Que é
+
+65
+00:04:01,810 --> 00:04:06,719
+299.792.458 metros.
+
+66
+00:04:06,720 --> 00:04:09,479
+Agora, depois de um dos nossos segundos, com certeza,
+
+67
+00:04:09,480 --> 00:04:14,169
+as duas luzes terão viajado um segundo-luz. Mas para a tripulação da nave em movimento
+
+68
+00:04:14,170 --> 00:04:16,389
+mede a velocidade da luz assim como a nave em repouso.
+
+69
+00:04:16,390 --> 00:04:20,379
+Mas como é que isso faz sentido?
+Quero dizer, a luz não viajou um segundo-luz para
+
+70
+00:04:20,380 --> 00:04:25,409
+eles ainda. Sem problemas. Você vê, o que eles consideram ser um segundo-luz
+
+71
+00:04:25,410 --> 00:04:28,409
+é menor do que o nós consideramos. E
+
+72
+00:04:28,410 --> 00:04:31,779
+eles não concordariam que um segundo se passou. Porque, é claro, para nós
+
+73
+00:04:31,780 --> 00:04:36,859
+o tempo é mais lento para eles. O segundo deles termina um pouco mais tarde, então o que fazemos,
+
+74
+00:04:36,860 --> 00:04:40,749
+Até o ponto em que a luz deles, de fato, viajou um segundo-luz
+
+75
+00:04:40,750 --> 00:04:44,049
+a partir deles. Observadores muitas vezes discordam
+
+76
+00:04:44,050 --> 00:04:48,679
+sobre tempo e espaço, mas aqueles
+desentendimentos sempre conspiram
+
+77
+00:04:48,680 --> 00:04:52,679
+para se certificar de que eles concordam em uma coisa.
+A velocidade da luz.
+
+78
+00:04:52,680 --> 00:04:57,429
+É sempre a mesma para todos.
+
+79
+00:04:57,430 --> 00:04:59,679
+Mas e se você estivesse viajando
+
+80
+00:04:59,680 --> 00:05:03,959
+à velocidade da luz? Bem, a única
+coisa que poderia fazer isso seria um
+
+81
+00:05:03,960 --> 00:05:07,939
+veículo sem massa. Então, tudo bem, vamos supor
+que nós podemos construir um.
+
+82
+00:05:07,940 --> 00:05:11,129
+Tal veículo iria viajar com
+
+83
+00:05:11,130 --> 00:05:14,609
+a luz. A luz nunca iria avançar
+
+84
+00:05:14,610 --> 00:05:17,809
+nem um pouquinho à frente dele. Não importa o quão curto
+
+85
+00:05:17,810 --> 00:05:21,168
+ele pensou que era um metro. Não importa quanto tempo ele pensou que era um segundo.
+
+86
+00:05:21,169 --> 00:05:25,719
+O veículo nunca registraria a luz se movendo na sua frente.
+
+87
+00:05:25,720 --> 00:05:31,049
+Ele diria que a luz era estacionária.
+Não concordaria que a luz viajou
+
+88
+00:05:31,050 --> 00:05:35,939
+à velocidade da luz. Certo? Na verdade não.
+
+89
+00:05:35,940 --> 00:05:39,679
+Entenda, na velocidade da luz não há nada
+
+90
+00:05:39,680 --> 00:05:44,579
+para ver. Não porque não há nada para
+ver, mas porque não há nada
+
+91
+00:05:44,580 --> 00:05:47,839
+para considerar.
+
+92
+00:05:47,840 --> 00:05:51,549
+Como vimos, quando a velocidade de um objeto se aproxima de
+
+93
+00:05:51,550 --> 00:05:55,189
+"C", o tempo para tudo em torno dele se aproxima
+
+94
+00:05:55,190 --> 00:05:58,369
+uma paralisação. Um objeto
+
+95
+00:05:58,370 --> 00:06:02,418
+viajando muito muito muito muito muito muito
+perto da velocidade da luz
+
+96
+00:06:02,419 --> 00:06:05,809
+poderia viajar por bilhões de nossos anos
+
+97
+00:06:05,810 --> 00:06:08,969
+antes de um único segundo ter passado para ele.
+
+98
+00:06:08,970 --> 00:06:13,129
+Mas um veículo sem massa, viajando na velocidade da luz,
+
+99
+00:06:13,130 --> 00:06:16,258
+poderia viajar para sempre
+
+100
+00:06:16,259 --> 00:06:19,418
+antes de um instante sequer tenha começado para ele.
+
+101
+00:06:19,419 --> 00:06:22,688
+Ele experimenta nenhum momento.
+
+102
+00:06:22,689 --> 00:06:25,998
+E ele não teria tempo para fazer qualquer coisa.
+
+103
+00:06:25,999 --> 00:06:29,149
+Certamente não há tempo para ligar seus
+
+104
+00:06:29,150 --> 00:06:32,228
+faróis. O conceito de tempo nem mesmo
+
+105
+00:06:32,229 --> 00:06:36,628
+se aplica. Um veículo sem massa não poderia ter seus faróis acesos
+
+106
+00:06:36,629 --> 00:06:40,619
+antes de atingir "C", porque um objeto
+sem massa
+
+107
+00:06:40,620 --> 00:06:45,079
+deve sempre viajar em "C". Tal objeto
+
+108
+00:06:45,080 --> 00:06:48,788
+nunca teria um antes. Sua origem,
+
+109
+00:06:48,789 --> 00:06:53,179
+sua jornada e seu destino são simultâneos para ele.
+
+110
+00:06:53,180 --> 00:06:56,339
+Uma viagem de bilhões de anos-luz de um quasar distante
+
+111
+00:06:56,340 --> 00:06:59,508
+pode demorar para um fóton um bilhão de anos
+
+112
+00:06:59,509 --> 00:07:02,598
+para nós. Mas, literalmente, não há tempo
+
+113
+00:07:02,599 --> 00:07:07,249
+para o fóton. E para o fóton, a
+distância para nós daquele quasar
+
+114
+00:07:07,250 --> 00:07:10,359
+é literalmente nada. Fótons
+
+115
+00:07:10,360 --> 00:07:15,079
+são como nós vemos. Como sabemos nada sobre o nosso lugar no universo,
+
+116
+00:07:15,080 --> 00:07:19,378
+e a energia que eles trazem para o nosso planeta a partir do Sol é responsável por quase
+
+117
+00:07:19,379 --> 00:07:24,549
+toda a vida na Terra. Mas, apesar dessa lista
+de realizações,
+
+118
+00:07:24,550 --> 00:07:27,149
+eles não pensam muito de si.
+
+119
+00:07:27,150 --> 00:07:30,199
+Na verdade, no que diz respeito a eles, eles
+
+120
+00:07:30,200 --> 00:07:33,609
+nem sequer existem. Observadores exteriores, é claro,
+
+121
+00:07:33,610 --> 00:07:37,089
+os veem e podem medir seu
+movimento à velocidade da luz
+
+122
+00:07:37,090 --> 00:07:41,179
+sem nada passando ou ganhando deles.
+Então, se você estava se movendo
+
+123
+00:07:41,180 --> 00:07:44,439
+à velocidade da luz, você teria que estar sem massa,
+
+124
+00:07:44,440 --> 00:07:45,709
+como um fóton,
+
+125
+00:07:45,710 --> 00:07:49,569
+e você não notaria nada, porque para
+você não haveria nada,
+
+126
+00:07:49,570 --> 00:07:54,259
+e não há tempo para perceber isso. Outras pessoas
+veriam você fazendo nada
+
+127
+00:07:54,260 --> 00:07:58,629
+e você estaria inconsciente de si mesmo. Você
+nunca poderia ligar os faróis
+
+128
+00:07:58,630 --> 00:08:03,479
+porque você se sentiria exatamente como você se
+sentiu antes que você existisse.
+
+129
+00:08:03,480 --> 00:08:08,399
+Mas porque é que a velocidade da luz é o que é?
+
+130
+00:08:08,400 --> 00:08:12,009
+Quero dizer, isso é o quão longe a luz viaja
+
+131
+00:08:12,010 --> 00:08:15,119
+em um segundo. Poderia também viajar
+
+132
+00:08:15,120 --> 00:08:19,999
+até aqui, ou até aqui, ou até aqui?
+Poderíamos conceber um universo onde a luz
+
+133
+00:08:20,000 --> 00:08:24,709
+viaja tão rapidamente? Sim, facilmente.
+
+134
+00:08:24,710 --> 00:08:28,309
+Então, por que é que o universo em que vivemos
+
+135
+00:08:28,310 --> 00:08:32,699
+é apenas um desses caminhos? Por que são as leis
+
+136
+00:08:32,700 --> 00:08:35,849
+da física o que são? Ao invés de
+
+137
+00:08:35,850 --> 00:08:38,928
+alguma outra forma que poderiam ser.
+
+138
+00:08:38,929 --> 00:08:43,609
+Bem, há um monte de teorias, mas até
+agora nós não estamos exatamente certos como
+
+139
+00:08:43,610 --> 00:08:46,939
+testar qualquer um delas, porque estamos presos neste
+
+140
+00:08:46,940 --> 00:08:50,969
+universo e ainda não sei como
+criar universos próprios
+
+141
+00:08:50,970 --> 00:08:55,269
+para experiências. Mas talvez haja
+algo que ainda temos de descobrir que
+
+142
+00:08:55,270 --> 00:08:59,999
+compele a realidade para ser dessa maneira, e somente desta forma.
+
+143
+00:09:00,000 --> 00:09:04,109
+Ou, talvez, nada compele a estar dessa
+maneira mas em vez disso
+
+144
+00:09:04,110 --> 00:09:07,559
+há um multiverso. Cada universo possível
+
+145
+00:09:07,560 --> 00:09:11,769
+existe. Alguns deles sucumbiram
+imediatamente, alguns deles estão vazios e escuro,
+
+146
+00:09:11,770 --> 00:09:15,449
+alguns deles envolvem você que está assistindo este vídeo, mas
+
+147
+00:09:15,450 --> 00:09:17,789
+a Terra tem dois Sóis.
+
+148
+00:09:17,790 --> 00:09:21,479
+Para aqueles de vocês, assistindo nesse universo, foi provavelmente muito confuso
+
+149
+00:09:21,480 --> 00:09:25,689
+o que acabei de dizer, porque a sua terra tem dois Sóis.
+Mas o ponto é, o multiverso
+
+150
+00:09:25,690 --> 00:09:29,579
+seria uma explicação muito elegante.
+Ou talvez,
+
+151
+00:09:29,580 --> 00:09:33,399
+universos nascem dentro de buracos negros.
+
+152
+00:09:33,400 --> 00:09:39,169
+Universos cujas leis físicas são apenas
+ligeiramente diferente do universo que deu à luz a ele.
+
+153
+00:09:39,170 --> 00:09:42,969
+Desta forma, os universos poderiam se replicar
+de acordo com a seleção natural.
+
+154
+00:09:42,970 --> 00:09:46,569
+Universos que são mais aptos para a criação de buracos negros
+
+155
+00:09:46,570 --> 00:09:49,689
+teriam, então, mais universos bebês,
+
+156
+00:09:49,690 --> 00:09:52,709
+tornando universos que suportam buracos negros mais comuns,
+
+157
+00:09:52,710 --> 00:09:57,009
+como talvez o único em que estamos. E isso é de muito sorte, porque universos que
+
+158
+00:09:57,010 --> 00:10:01,588
+suportam os buracos negros, suportam Sóis, e nós.
+
+159
+00:10:01,589 --> 00:10:05,139
+Ou - e aqui está a minha teoria favorita -
+
+160
+00:10:05,140 --> 00:10:11,079
+talvez nós apenas estamos vivendo em uma simulação.
+E alguém ou alguma coisa a programando
+
+161
+00:10:11,080 --> 00:10:13,699
+Isso soa muito sci-fi.
+
+162
+00:10:13,700 --> 00:10:16,949
+Certo. Mas eu gosto de como Julian Baggini coloca em
+
+163
+00:10:16,950 --> 00:10:21,789
+"O porco que quer ser comido".
+Se você assumir, que em algum ponto no tempo,
+
+164
+00:10:21,790 --> 00:10:25,499
+a realidade virtual pode se tornar boa o suficiente
+que até mesmo seus próprios habitantes
+
+165
+00:10:25,500 --> 00:10:29,219
+não saibam que eles estavam em uma simulação,
+e se você assumir
+
+166
+00:10:29,220 --> 00:10:32,519
+que a criação de tais simulações seria a maneira
+
+167
+00:10:32,520 --> 00:10:36,209
+mais fácil do que criar verdadeiras
+criaturas de carne e de sangue
+
+168
+00:10:36,210 --> 00:10:39,369
+que exigem um universo inteiro
+e bilhões de anos.
+
+169
+00:10:39,370 --> 00:10:45,249
+Bem, então é muito fácil de concluir que
+muitos muitos muitos muitos mais simulados
+
+170
+00:10:45,250 --> 00:10:48,769
+seres falsos poderiam ser criados do que os reais.
+
+171
+00:10:48,770 --> 00:10:54,039
+Digamos, 999 falsos para cada um real
+
+172
+00:10:54,040 --> 00:10:57,949
+O que é mais provável?
+Que você é parte do 0,1%
+
+173
+00:10:57,950 --> 00:11:03,699
+que são reais, ou que você é parte do 99,9%
+
+174
+00:11:03,700 --> 00:11:07,099
+que pensam que eles são reais, mas não são.
+
+175
+00:11:07,100 --> 00:11:11,349
+Talvez, nós vivemos em uma simulação
+criado por alguma outra
+
+176
+00:11:11,350 --> 00:11:14,619
+espécie inteligente. John Gribbin,
+
+177
+00:11:14,620 --> 00:11:18,289
+no entanto, aponta um caminho possível para
+descartar essa idéia:
+
+178
+00:11:18,290 --> 00:11:21,399
+números irracionais. Tal como a raiz quadrada de 2
+
+179
+00:11:21,400 --> 00:11:25,499
+ou Pi. Estes números não acabam.
+
+180
+00:11:25,500 --> 00:11:28,099
+Quero dizer, eles contêm uma infinita,
+
+181
+00:11:28,100 --> 00:11:32,369
+não repetida sequência de dígitos, que
+significaria que quem programou o
+
+182
+00:11:32,370 --> 00:11:36,409
+Universo poderia caber todos os, digamos, Pi.
+
+183
+00:11:36,410 --> 00:11:41,129
+Assim, se em nossa busca incansável de
+cálculo mais e mais e mais
+
+184
+00:11:41,130 --> 00:11:42,309
+dígitos do Pi,
+
+185
+00:11:42,310 --> 00:11:46,489
+nós sempre nos depararmos com uma série infinita de repetição
+
+186
+00:11:46,490 --> 00:11:51,259
+ou o fim, poderia ser um sinal muito bom de que vivemos
+
+187
+00:11:51,260 --> 00:11:55,969
+em uma simulação. Um universo que não é real.
+
+188
+00:11:55,970 --> 00:11:59,199
+Mas até agora não encontramos isso e nós
+não achamos que iremos.
+
+189
+00:11:59,200 --> 00:12:04,958
+Então, obrigado números irracionais, por nos manter reais.
+
+190
+00:12:04,959 --> 00:12:06,118
+E como sempre,
+
+191
+00:12:06,119 --> 00:12:07,859
+obrigado por assistir.
+

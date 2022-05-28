@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:03,299
+De hoofdvideo spreekt over een genetisch broed model
+
+2
+00:00:03,300 --> 00:00:05,679
+over hoe je machines kan laten leren.
+
+3
+00:00:05,680 --> 00:00:08,799
+Deze methode is gemakkelijker om uit te leggen of gewoon te laten zien
+
+4
+00:00:08,800 --> 00:00:13,459
+Hier is een machine die leert lopen of Mario te spelen of heel hoog te springen
+
+5
+00:00:13,460 --> 00:00:17,059
+Een genetische code is een oudere code, maar het klopt nog steeds
+
+6
+00:00:17,060 --> 00:00:20,719
+en persoonlijk geloof ik dat in de toekomst genetische modellen een herleving krijgen wanneer
+
+7
+00:00:20,720 --> 00:00:23,339
+computer kracht absurde waardes benaderen
+
+8
+00:00:23,340 --> 00:00:27,459
+Maar, momenteel is "deap learning" en "recursive neural networks" hot en
+
+9
+00:00:27,460 --> 00:00:29,859
+dat is waar lineaire algebra echt stijgt
+
+10
+00:00:29,860 --> 00:00:33,799
+en uitlegbaarheid in een korte video echt daalt
+
+11
+00:00:33,800 --> 00:00:35,939
+Maar als ik, soort van, moet uitleggen hoe ze werken
+
+12
+00:00:35,940 --> 00:00:38,939
+in een voetnoot, voor de goede orde, is het zoals dit:
+
+13
+00:00:38,940 --> 00:00:41,699
+Geen oneindig warenhuis. Maar één student
+
+14
+00:00:41,700 --> 00:00:46,599
+Docent bot heeft de zelfde test, maar deze keer, "Bouw Bot" is "Knop Aanpas Bot"
+
+15
+00:00:46,600 --> 00:00:51,639
+waar elke knop staat voor hoe gevoelig de connectie is in studentbot zijn hoofd.
+
+16
+00:00:51,640 --> 00:00:55,439
+Er zijn veel connecties in zijn hoofd dus ook veel knoppen
+
+17
+00:00:55,440 --> 00:00:56,899
+HEEL VEEL
+
+18
+00:00:56,900 --> 00:01:01,459
+Docent bot laat Student bot een foto zien en Knop Aanpas bot, maakt die knop
+
+19
+00:01:01,460 --> 00:01:05,119
+sterker of zwakker zodat Student bot dichter bij het antwoord komt.
+
+20
+00:01:05,120 --> 00:01:10,599
+Het is een beetje hetzelfde als het aanpassen van de knoppen op een radio. Is dat nog steeds een ding? Hebben auto's nog radio's?
+
+21
+00:01:10,600 --> 00:01:13,939
+Ik weet het niet. Hoe dan ook. Je weet misschien de precieze frequentie van het station niet
+
+22
+00:01:13,940 --> 00:01:17,699
+maar je kan wel merken of je dichterbij komt of verder weg.
+
+23
+00:01:17,700 --> 00:01:22,519
+Het is zoals dat, maar dan met honderd duizenden knoppen en heel veel wiskunde
+
+24
+00:01:22,520 --> 00:01:24,479
+en dat is alleen maar voor één test vraag
+
+25
+00:01:24,480 --> 00:01:27,339
+Wanneer Docent Bot de volgende foto introduceert
+
+26
+00:01:27,340 --> 00:01:32,399
+Knop Aanpas Bot moet alle knoppen aanpassen zodat Student Bot beide vragen kan beantwoorden
+
+27
+00:01:32,400 --> 00:01:34,619
+Wanneer de test langer wordt
+
+28
+00:01:34,620 --> 00:01:39,899
+wordt dit een gestoorde hoeveelheid wiskunde en fijn stellen voor Knop Aanpas Bot
+
+29
+00:01:39,900 --> 00:01:42,839
+Maar wanneer het klaar is, is er een student bot die
+
+30
+00:01:42,840 --> 00:01:46,359
+een best goede taak kan doen in het herkennen van nieuwe foto's
+
+31
+00:01:46,360 --> 00:01:50,339
+ook al heeft die nog steeds last van eerder genoemde problemen in de hoofd video
+
+32
+00:01:50,340 --> 00:01:55,839
+In iedergeval dat is de meest baby eerste introductie in neurale netwerken die je ooit gaat horen
+
+33
+00:01:55,840 --> 00:01:58,719
+als het interessant voor je klinkt en je van wiskunde en code houd
+
+34
+00:01:58,720 --> 00:02:01,179
+ga zoeken naar de details
+
+35
+00:02:01,180 --> 00:02:04,879
+machines die leren zijn de toekomst voor alles
+
+36
+00:02:04,880 --> 00:02:08,038
+Misschien, wel letterlijk, de toekomst van alles
+
+37
+00:02:08,039 --> 00:02:12,098
+en gegeven wat we ze hebben laten doorstaan, mogen de bots genade hebben voor ons allen
+

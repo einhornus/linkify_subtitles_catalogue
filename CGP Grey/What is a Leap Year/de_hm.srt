@@ -1,0 +1,359 @@
+1
+00:00:00,700 --> 00:00:04,119
+Ein Kalenderjahr besteht aus
+365 Tagen, eine Zahl, die sich weigert
+
+2
+00:00:04,120 --> 00:00:08,768
+ohne Rest geteilt zu werden, weshalb wir bei
+ungleichen Monaten mit 30 oder 31 Tagen landen, außer
+
+3
+00:00:08,769 --> 00:00:13,218
+Februar, -- der kleinste des Wurfs -- der bekommt
+nur 28 Tage. Außer er bekommt 29 Tage und
+
+4
+00:00:13,219 --> 00:00:15,869
+das Jahr ist 366 Tage lang.
+
+5
+00:00:15,870 --> 00:00:18,909
+Warum passiert das? In was für einem verrückten
+Universum leben wir, wo einige Jahre länger
+
+6
+00:00:18,910 --> 00:00:19,639
+als andere sind?
+
+7
+00:00:19,640 --> 00:00:22,189
+Um das zu beantworten, müssen
+wir wissen: Was ist ein Jahr?
+
+8
+00:00:22,190 --> 00:00:25,609
+Vereinfacht gesagt: Ein Jahr ist die Zeit,
+die die Erde benötigt, um einmal die
+
+9
+00:00:25,610 --> 00:00:28,319
+Sonne zu umrunden. Dies passiert
+mit dem Wechsel der Jahreszeiten.
+
+10
+00:00:28,320 --> 00:00:31,729
+Allerdings ist das Zeichnen eines solchen Diagramms,
+in welchem die Erde munter um die Sonne kreist,
+
+11
+00:00:31,730 --> 00:00:35,189
+leicht, doch ein Jahr genau zu messen,
+während man auf der Erde ist, schwer, weil
+
+12
+00:00:35,190 --> 00:00:37,429
+das Universum keine
+Übersichtskarte bereitstelt.
+
+13
+00:00:37,430 --> 00:00:40,499
+Auf der Erde sieht man nur, wie sich die
+Jahreszeiten ändern und um deren Kommen und Gehen
+
+14
+00:00:40,500 --> 00:00:45,259
+zu verfolgen, ist der einfachste Weg, die Tage
+zu zählen, was einen 365-Tage-Kalender ergibt.
+
+15
+00:00:45,260 --> 00:00:49,209
+Doch sobald man anfängt, diesen Kalender
+zu benutzen, gerät er langsam aus dem Takt.
+
+16
+00:00:49,210 --> 00:00:52,078
+Und mit jedem Jahr wird der Abstand größer
+und größer und größer
+
+17
+00:00:52,079 --> 00:00:55,809
+In drei Jahrzehten wäre der Kalender eine Woche
+hinterher und in einigen hundert Jahren wären die
+
+18
+00:00:55,810 --> 00:01:00,099
+Jahreszeiten umgedreht -- was bedeutet, dass Weihnachten
+im Sommer gefeiert wird -- was verrückt wäre.
+
+19
+00:01:00,100 --> 00:01:03,148
+Warum passiert das? Haben wir die Tage falsch
+gezählt? Der Kalender sagt voraus, dass die Erde
+
+20
+00:01:03,149 --> 00:01:08,068
+8.760 Stunden benötigt, um die Sonne zu umrunden.
+Aber wenn man mit einer Stoppuhr nachmisst,
+
+21
+00:01:08,069 --> 00:01:11,478
+würde man sehen, dass das Jahr
+um fast sechs Stunden länger ist,
+
+22
+00:01:11,479 --> 00:01:16,099
+als der Kalender sagt. Also ist unser Kalender immer
+ein wenig schneller als die Jahreszeiten tatsächlich
+
+23
+00:01:16,100 --> 00:01:17,019
+wechseln.
+
+24
+00:01:17,020 --> 00:01:20,629
+Und so kommen wir zum grundlegenden
+Problem aller Kalender: der Tag-/Nachtwechsel,
+
+25
+00:01:20,630 --> 00:01:23,748
+der zwar einfach zu zählen ist, aber
+nichts mit dem Jahreswechsel zu tun hat.
+
+26
+00:01:23,749 --> 00:01:27,239
+Tag und Nacht werden durch das Drehen der Erde um ihre
+eigene Achse verursacht. Wenn man auf der der Sonne
+
+27
+00:01:27,240 --> 00:01:30,739
+zugewandten Seite ist, ist es Tag, und wenn man auf
+der anderen Seite ist, ist es Nacht. Doch diese Rotation
+
+28
+00:01:30,740 --> 00:01:34,008
+ist nicht weiter mit der Umkreisung der Sonne
+verbunden als eine sich drehende Ballerina
+
+29
+00:01:34,009 --> 00:01:36,618
+auf einem Lastwagen mit der
+Geschwindigkeit des Lastwagens.
+
+30
+00:01:36,619 --> 00:01:39,258
+Das Zählen der Umdrehungen der Ballerina, um zu messen,
+wie lange der Lastwagen für das Fahren eines Kreises
+
+31
+00:01:39,259 --> 00:01:43,358
+braucht, gibt einem vielleicht eine grobe Vorstellung, doch
+es wäre verrückt zu erwarten, dass das genau wäre.
+
+32
+00:01:43,359 --> 00:01:46,478
+Die Tage zu zählen, um die Umlaufbahn
+zu verfolgen, ist so ziemlich das Gleiche
+
+33
+00:01:46,479 --> 00:01:50,788
+und so sollte es also auch nicht überraschend sein,
+wenn sich die Erde nicht zufällig genau 365 mal dreht.
+
+34
+00:01:50,789 --> 00:01:56,309
+Irritierenderweise sind 365 Tage zu wenig und 366 Tage
+zu viel und würden die Jahreszeiten trotzdem dazu
+
+35
+00:01:56,310 --> 00:01:58,739
+treiben, aus dem Takt zu geraten,
+nur in die entgegengesetzte Richtung.
+
+36
+00:01:58,740 --> 00:02:02,068
+Die Lösung für all dies ist das Schaltjahr:
+Wenn Februar einen zusätzlichen Tag bekommt,
+
+37
+00:02:02,069 --> 00:02:03,438
+aber nur alle vier Jahre.
+
+38
+00:02:03,439 --> 00:02:07,038
+Das klappt ganz gut, weil der Kalender jedes Jahr
+einen viertel Tag zu kurz ist und man so nach vier
+
+39
+00:02:07,039 --> 00:02:09,388
+Jahren nur einen extra Tag addieren
+muss, um das wieder auszugleichen.
+
+40
+00:02:09,389 --> 00:02:11,229
+Juhu! Das Problem wurde gelöst.
+
+41
+00:02:11,230 --> 00:02:12,539
+Leider nicht.
+
+42
+00:02:12,540 --> 00:02:15,738
+Den Kalender um einen Tag alle vier Jahre
+zu verlängern ist etwas zu viel und der Kalender
+
+43
+00:02:15,739 --> 00:02:19,128
+hinkt den Jahreszeiten immer noch mit
+einem Jahr alle hundert Jahre hinterher.
+
+44
+00:02:19,129 --> 00:02:22,458
+Was genug für die Desinteressierten ist, aber
+noch nicht genug für die Kalender-Designer, die alles
+
+45
+00:02:22,459 --> 00:02:23,679
+perfekt haben wollen.
+
+46
+00:02:23,680 --> 00:02:26,738
+Um die Unregelmäßigkeit zu beheben, wird das
+Schaltjahr jedes Jahrhundert übersprungen.
+
+47
+00:02:26,739 --> 00:02:30,539
+1896 und 1904 waren also
+Schaltjahre, aber nicht 1900.
+
+48
+00:02:30,540 --> 00:02:34,238
+Das ist besser, aber lässt den Kalender immer
+noch aus dem Takt geraten mit einem Fehler von
+
+49
+00:02:34,239 --> 00:02:35,999
+1 Tag in 400 Jahren.
+
+50
+00:02:36,000 --> 00:02:39,029
+Also wurde eine zusätzliche Klausel hinzugefügt um
+die Jahrhundert-Regel zu überspringen, wenn das
+
+51
+00:02:39,030 --> 00:02:41,878
+Jahrhundert durch 400 teilbar
+ist, dann ist es ein Schaltjahr.
+
+52
+00:02:41,879 --> 00:02:45,158
+1900 und 2100 sind also keine
+Schaltjahre, aber 2000 ist eines.
+
+53
+00:02:45,159 --> 00:02:49,179
+Mit diesen drei Regeln ist der Fehler nur
+noch 1 Tag in fast 8000 Jahren, also sagt
+
+54
+00:02:49,180 --> 00:02:52,568
+der aktuelle Kalender "Mission erfüllt"
+und nennt ihn einen Tag.
+
+55
+00:02:52,569 --> 00:02:55,389
+Was wohl durchaus sinnvoll ist, weil
+8000 Jahre zuvor, die Menschen gerade
+
+56
+00:02:55,390 --> 00:02:58,729
+herausgefunden haben, dass Landwirtschaft eine
+gute Idee ist und wir 8000 Jahre in der Zukunft
+
+57
+00:02:58,730 --> 00:03:01,548
+hoffentlich einen Kalender mit einer
+besseren Zeitmessung benutzen.
+
+58
+00:03:01,549 --> 00:03:06,149
+Aber vielleicht bist du ein Mathematiker und ein Fehler
+von 0,0001 Prozent ist in deinen Augen grauenhaft
+
+59
+00:03:06,150 --> 00:03:07,078
+und muss behoben werden.
+
+60
+00:03:07,079 --> 00:03:10,729
+"Pech gehabt" sagt das Universum, weil nicht einmal
+die Länge eines Tages konstant ist. Es variiert
+
+61
+00:03:10,730 --> 00:03:14,929
+zufällig um einige Millisekunden und sinkt
+durchschnittlich langsam um etwa 1 Millisekunde
+
+62
+00:03:14,930 --> 00:03:18,809
+pro hundert Jahre. Das heißt, dass es buchstäblich
+unmöglich ist, einen perfekten Kalender, der ewig
+
+63
+00:03:18,810 --> 00:03:19,968
+hält, zu bauen.
+
+64
+00:03:19,969 --> 00:03:23,089
+Theoretisch verlängert sich die Länge eines Tages
+auf einen jetzigen Monat -- aber keine Sorge:
+
+65
+00:03:23,090 --> 00:03:27,018
+In der Praxis dauert das Dutzende von Milliarden
+von Jahren und unsere expandierende Sonne wird
+
+66
+00:03:27,019 --> 00:03:28,798
+die Erde zerstören,
+lange bevor das passiert.
+
+67
+00:03:28,799 --> 00:03:32,128
+Sorry, bin nicht ganz sicher, wie wir vom Zählen der
+Tage des Monats zum feurigen unvermeidlichen
+
+68
+00:03:32,129 --> 00:03:35,298
+Ende aller Menschen gelangt sind -- außer
+natürlich wir haben ein hinreichend finanziertes
+
+69
+00:03:35,299 --> 00:03:37,348
+Weltraumprogramm (wink, wink) --
+aber da haben wir es.
+
+70
+00:03:37,349 --> 00:03:40,408
+Für die nächsten acht Jahrtausend Schaltjahre wird
+der Kalender mit den Jahreszeiten im Takt bleiben
+
+71
+00:03:40,409 --> 00:03:43,889
+in einer überraschend
+komplizierten Weise.
+
+72
+00:03:43,890 --> 00:03:47,289
+Du kannst mehr über Umlaufbahnen, verschiedene Arten
+von Jahren und supermassiven schwarzen Löchern
+
+73
+00:03:47,290 --> 00:03:50,248
+bei Minute Physics lernen. Wie immer hat Henry gute
+Arbeit geleistet, dies alles in seinem neuen Video
+
+74
+00:03:50,249 --> 00:03:51,590
+zu erklären. Schaut mal rein.
+

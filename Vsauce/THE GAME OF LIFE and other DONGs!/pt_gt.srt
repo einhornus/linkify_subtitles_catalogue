@@ -1,0 +1,419 @@
+1
+00:00:00,710 --> 00:00:03,658
+Olá, Vsauce.
+Michael aqui com algumas coisas que você pode fazer
+
+2
+00:00:03,659 --> 00:00:07,298
+online agora, pessoal.
+Vamos começar os DONGs nas mãos certas
+
+3
+00:00:07,299 --> 00:00:14,079
+com misternicehands.com.
+Você pode puxar o dedo dele.
+
+4
+00:00:14,080 --> 00:00:15,209
+Wordle.net
+
+5
+00:00:15,210 --> 00:00:19,538
+analisa o texto, como em um site,
+e gera uma
+
+6
+00:00:19,539 --> 00:00:24,049
+nuvem de palavras gratuita com tamanhos divertidos correlacionados com
+a frequência com que as palavras
+
+7
+00:00:24,050 --> 00:00:28,079
+são usadas.  Muito incrível, certo?
+Mas é a
+
+8
+00:00:28,080 --> 00:00:31,129
+coisa mais incrível dot com?
+
+9
+00:00:31,130 --> 00:00:35,179
+O site coloca duas coisas uma contra a
+outra e permite que você vote em qual das
+
+10
+00:00:35,180 --> 00:00:36,019
+duas coisas
+
+11
+00:00:36,020 --> 00:00:39,869
+é incrível.
+Por exemplo, peregrinos contra Andrew Jackson.
+
+12
+00:00:39,870 --> 00:00:43,718
+Vou ter que ir com os peregrinos.
+Mas tabela periódica
+
+13
+00:00:43,719 --> 00:00:48,339
+ou Orson Welles?  Qual é mais incrível?
+Ok, é difícil, mas vou ter que ir com
+
+14
+00:00:48,340 --> 00:00:49,359
+Mendeleev.
+
+15
+00:00:49,360 --> 00:00:52,729
+Agora, o site tabula as respostas de todos
+e exibe uma lista
+
+16
+00:00:52,730 --> 00:00:56,109
+do que as pessoas consideram atualmente
+as mais incríveis.
+
+17
+00:00:56,110 --> 00:00:59,319
+Observe que, neste momento, a vida está sendo vencida
+
+18
+00:00:59,320 --> 00:01:02,659
+pela Internet.
+Tem uma música presa na sua cabeça?
+
+19
+00:01:02,660 --> 00:01:06,438
+Vá para unhearit.com, um site dedicado a tocar
+
+20
+00:01:06,439 --> 00:01:09,868
+músicas igualmente cativantes,
+com a esperança de remover aquela
+
+21
+00:01:09,869 --> 00:01:13,469
+que está presa na sua cabeça.
+E se você gosta do que ouve, confira
+
+22
+00:01:13,470 --> 00:01:17,599
+TuneGlue.  Digite uma banda para adicioná-los
+ao campo e depois expanda-os
+
+23
+00:01:17,600 --> 00:01:21,319
+para ver outras bandas relacionadas.
+Agora, eu também gosto do Music-Map,
+
+24
+00:01:21,320 --> 00:01:25,269
+onde você pode inserir o nome de um músico
+e outras bandas orbitam-no em distâncias
+
+25
+00:01:25,270 --> 00:01:27,899
+relacionadas à semelhança de seus estilos.
+
+26
+00:01:27,900 --> 00:01:31,489
+Se você está cansado de programas de reconhecimento de música
+que não permitem que você cante
+
+27
+00:01:31,490 --> 00:01:32,359
+sua própria música ou
+
+28
+00:01:32,360 --> 00:01:36,758
+sussurre, entre em midomi.com.
+Ainda não é perfeito,
+
+29
+00:01:36,759 --> 00:01:40,089
+mas sou terrível e Midomi ainda
+
+30
+00:01:40,090 --> 00:01:44,609
+entendeu o que eu estava tentando fazer.
+"Eu não vou perder um bebê,
+
+31
+00:01:44,610 --> 00:01:50,209
+então por que você não me mata?"
+Incrível.
+
+32
+00:01:50,210 --> 00:01:54,079
+Mais uma performance impecável de Michael Stevens.
+
+33
+00:01:54,080 --> 00:01:56,908
+ThunderShark78 me apresentou ao Fracuum,
+
+34
+00:01:56,909 --> 00:02:00,019
+uma série de labirintos nos quais você se encolhe continuamente
+
+35
+00:02:00,020 --> 00:02:04,099
+.
+A perspectiva é bem legal.
+
+36
+00:02:04,100 --> 00:02:06,849
+Agora vamos entrar em matemática com o
+
+37
+00:02:06,850 --> 00:02:11,149
+Jogo da Vida de Conway.  Este é um doozy,
+mas é realmente famoso.  Agora estou
+
+38
+00:02:11,150 --> 00:02:14,299
+jogando como uma versão para download para PC, Mac ou Linux,
+
+39
+00:02:14,300 --> 00:02:17,729
+conhecido como "Golly".
+Então, o jogo em si
+
+40
+00:02:17,730 --> 00:02:21,488
+é simplesmente uma grade que eu posso preencher e se uma célula
+
+41
+00:02:21,489 --> 00:02:25,449
+está viva ou morta determina como será a próxima
+
+42
+00:02:25,450 --> 00:02:28,488
+geração.
+O que tornou este jogo tão famoso
+
+43
+00:02:28,489 --> 00:02:32,919
+é que usando apenas algumas
+regras determinísticas, somos capazes de criar coisas bastante
+
+44
+00:02:32,920 --> 00:02:34,089
+complexas
+
+45
+00:02:34,090 --> 00:02:37,799
+.
+Agora, classicamente, as regras são muito
+
+46
+00:02:37,800 --> 00:02:41,889
+simples.  O destino de uma célula depende do
+status de seus 1,
+
+47
+00:02:41,890 --> 00:02:45,659
+2, 3, 4, 5, 6, 7, 8 vizinhos.
+
+48
+00:02:45,660 --> 00:02:49,609
+Se duas ou três células o cercarem,
+
+49
+00:02:49,610 --> 00:02:53,738
+tudo ficará bem,
+continuará a viver.  Mas se menos de dois,
+
+50
+00:02:53,739 --> 00:02:58,518
+ou se existirem mais de três ao seu redor
+, morrerá de isolamento ou
+
+51
+00:02:58,519 --> 00:03:01,679
+superlotação.
+Agora, da mesma forma, se
+
+52
+00:03:01,680 --> 00:03:06,268
+uma célula vazia morta tiver 3, exatamente três vizinhos,
+
+53
+00:03:06,269 --> 00:03:09,708
+ela ganhará vida.
+Então, a próxima geração dessa forma se
+
+54
+00:03:09,709 --> 00:03:13,999
+parece com isso.
+É incrível como apenas algumas
+
+55
+00:03:14,000 --> 00:03:17,559
+regras determinísticas simples podem permitir que você crie
+
+56
+00:03:17,560 --> 00:03:20,658
+formas como esta, conhecida como planador, que ao
+
+57
+00:03:20,659 --> 00:03:25,239
+longo de sucessivas gerações realmente se locomove.
+
+58
+00:03:25,240 --> 00:03:28,749
+Ah, e o GMSlash me mostrou uma versão em que as células
+
+59
+00:03:28,750 --> 00:03:32,979
+são cogumelos, e quanto mais uma célula
+vive, maior fica o cogumelo.
+
+60
+00:03:32,980 --> 00:03:36,318
+Mas o que é um jogo da vida sem amor?
+
+61
+00:03:36,319 --> 00:03:41,559
+Os fãs da mídia me enviaram um jogo pretensioso,
+um poema interativo maravilhoso que é
+
+62
+00:03:41,560 --> 00:03:46,529
+tocante, mas consciente de si mesmo.
+E Connor me mostrou um amor ainda mais trágico,
+
+63
+00:03:46,530 --> 00:03:49,669
+um jogo onde você interpreta um cara apaixonado
+
+64
+00:03:49,670 --> 00:03:52,889
+por um zumbi.
+Faça com que ela o siga,
+
+65
+00:03:52,890 --> 00:03:56,199
+mas mantenha-a em uma gaiola.
+Também é fofo Night
+
+66
+00:03:56,200 --> 00:04:01,238
+of the Loving Dead.  Você interpreta um esqueleto que
+deve encontrar partes de seu corpo para se reunir
+
+67
+00:04:01,239 --> 00:04:04,958
+com seu verdadeiro amor.
+À medida que você adquire órgãos, como seu cérebro,
+
+68
+00:04:04,959 --> 00:04:08,059
+você pode começar a usar novos poderes.
+Agora, se você não está
+
+69
+00:04:08,060 --> 00:04:12,389
+apaixonado por um zumbi e prefere
+se preparar para o ataque,
+
+70
+00:04:12,390 --> 00:04:15,449
+TheArzonite oferece Map of the Dead,
+
+71
+00:04:15,450 --> 00:04:19,828
+um mapa global do Google que delineia áreas
+onde a atividade zumbi provavelmente será
+
+72
+00:04:19,829 --> 00:04:20,539
+maior
+
+73
+00:04:20,540 --> 00:04:24,739
+no caso de um surto.  Ele inclui
+pontos de referência úteis, como
+
+74
+00:04:24,740 --> 00:04:25,869
+lojas de comida e munição próximas,
+
+75
+00:04:25,870 --> 00:04:30,869
+para que você possa planejar sua estratégia agora.
+Se tudo isso é um pouco assustador para você,
+
+76
+00:04:30,870 --> 00:04:32,758
+relaxe com o z0r.de do
+
+77
+00:04:32,759 --> 00:04:37,039
+N3xTB0y, uma coleção de imagens em loop rápido
+
+78
+00:04:37,040 --> 00:04:42,089
+e música boba.  Shantuku descobriu esta escala interativa da ferramenta universo.
+
+79
+00:04:42,090 --> 00:04:46,769
+Nós cobrimos coisas como esta antes,
+mas você nunca pode ter o suficiente.
+
+80
+00:04:46,770 --> 00:04:50,758
+Enquanto estamos no espaço,
+vamos ter uma paixão cósmica de avião maior,
+
+81
+00:04:50,759 --> 00:04:55,019
+como Amonfobious'.  Colide com
+itens menores para crescer e evitar
+
+82
+00:04:55,020 --> 00:04:58,079
+objetos celestes gigantes e perigosos.
+
+83
+00:04:58,080 --> 00:05:01,429
+Aqui no YouTube, Vixolent postou
+um jogo interativo muito bem feito
+
+84
+00:05:01,430 --> 00:05:06,649
+.  Você joga dentro de um único vídeo e
+seu uso de anotações é bastante
+
+85
+00:05:06,650 --> 00:05:11,369
+engenhoso.
+E TheRealMcJoni fez este impressionante vídeo interativo de
+
+86
+00:05:11,370 --> 00:05:15,138
+dominó.
+Os truques e o layout são muito legais
+
+87
+00:05:15,139 --> 00:05:18,749
+e você pode escolher uma direção no
+final do vídeo - vamos torcer para que seja a
+
+88
+00:05:18,750 --> 00:05:20,239
+correta.
+
+89
+00:05:20,240 --> 00:05:23,739
+De volta à Metronomia.
+Inscreva-se no Vsauce para mais.
+
+90
+00:05:23,740 --> 00:05:24,839
+E como sempre,
+
+91
+00:05:24,840 --> 00:05:26,480
+obrigado por assistir.
+

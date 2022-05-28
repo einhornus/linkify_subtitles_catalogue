@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:03,299
+La vidéo principale parle d'un modèle de sélection génétique
+
+2
+00:00:03,300 --> 00:00:05,679
+de la façon de faire des machines capables d'apprendre.
+
+3
+00:00:05,680 --> 00:00:08,799
+Cette méthode est plus simple à expliquer ou tout simplement plus simple à montrer.
+
+4
+00:00:08,800 --> 00:00:13,459
+Voici une machine qui apprend à marcher ou à jouer à Mario ou à sauter très haut.
+
+5
+00:00:13,460 --> 00:00:17,059
+Un code génétique est un code ancien, mais il fonctionne toujours bien.
+
+6
+00:00:17,060 --> 00:00:20,719
+et je pense personnellement que dans le futur, les modèles génétiques réapparaîtront
+
+7
+00:00:20,720 --> 00:00:23,339
+quand la puissance de calcul des ordinateurs s'approchera du dément.
+
+8
+00:00:23,340 --> 00:00:27,459
+La mode actuelle va plutôt aux réseaux de neurones récursifs et l'apprentissage profond
+
+9
+00:00:27,460 --> 00:00:29,859
+et c'est là que l'algèbre linéaire devient important
+
+10
+00:00:29,860 --> 00:00:33,799
+et que les possibilités de l'expliquer simplement dans une courte vidéo, elles, décroissent.
+
+11
+00:00:33,800 --> 00:00:35,939
+Mais si je devais expliquer vaguement la façon dont ils travaillent
+
+12
+00:00:35,940 --> 00:00:38,939
+dans une note de bas de page, juste pour l'histoire, cela ressemblerait à ça:
+
+13
+00:00:38,940 --> 00:00:41,699
+Pas d'entrepôt infini. Juste un étudiant.
+
+14
+00:00:41,700 --> 00:00:46,599
+Prof-Bot a le même test, mais cette fois Bot-constructeur est "Bot-Régleur de boutons"
+
+15
+00:00:46,600 --> 00:00:51,639
+où chaque bouton représente la sensibilité d'une connexion dans la tête d'Elève-Bot.
+
+16
+00:00:51,640 --> 00:00:55,439
+Il y a beaucoup de connexions dans sa tête donc beaucoup de boutons.
+
+17
+00:00:55,440 --> 00:00:56,899
+Beaucoup BEAUCOUP.
+
+18
+00:00:56,900 --> 00:01:01,459
+Prof-Bot montre à Elève-Bot une photo et Bot-Régleur ajuste ce bouton
+
+19
+00:01:01,460 --> 00:01:05,119
+plus ou moins fort pour rapprocher Elève-Bot de la réponse.
+
+20
+00:01:05,120 --> 00:01:10,599
+C'est un peu comme le réglage du bouton sur une radio. Est-ce que ça existe encore ? Est-ce que les voitures ont encore des radios ?
+
+21
+00:01:10,600 --> 00:01:13,939
+Je ne sais pas, bref. Vous ne connaissez peut-être pas la fréquence exacte de la station
+
+22
+00:01:13,940 --> 00:01:17,699
+mais vous pouvez dire si vous vous approchez de cette station ou pas.
+
+23
+00:01:17,700 --> 00:01:22,519
+C'est comme ça, mais avec cent mille boutons et beaucoup de mathématiques,
+
+24
+00:01:22,520 --> 00:01:24,479
+et ça c'est juste pour une seule question.
+
+25
+00:01:24,480 --> 00:01:27,339
+Quand Prof-Bot présente la photo suivante,
+
+26
+00:01:27,340 --> 00:01:32,399
+Bot-Régleur doit régler tous les boutons de façon à ce que Elève-Bot puisse répondre aux deux questions.
+
+27
+00:01:32,400 --> 00:01:34,619
+A mesure que le test s'allonge,
+
+28
+00:01:34,620 --> 00:01:39,899
+cela devient une quantité folle de mathématiques et de réglage pour Bot-Régleur.
+
+29
+00:01:39,900 --> 00:01:42,839
+Mais quand c'est fait, il y a un élève-Bot
+
+30
+00:01:42,840 --> 00:01:46,359
+qui est très bon pour reconnaître de nouvelles photos,
+
+31
+00:01:46,360 --> 00:01:50,339
+bien qu'il souffre encore de certains des problèmes mentionnés dans la vidéo principale.
+
+32
+00:01:50,340 --> 00:01:55,839
+Quoi qu'il en soit, c'est l'introduction la plus enfantine aux réseaux neuronaux que vous ne verrez jamais.
+
+33
+00:01:55,840 --> 00:01:58,719
+Si cela vous semble intéressant, que vous aimez les mathématiques et le code,
+
+34
+00:01:58,720 --> 00:02:01,179
+allez creuser dans les détails;
+
+35
+00:02:01,180 --> 00:02:04,879
+les machines qui apprennent sont l'avenir de tout.
+
+36
+00:02:04,880 --> 00:02:08,038
+Peut-être, littéralement, l'avenir de tout,
+
+37
+00:02:08,039 --> 00:02:12,098
+et compte tenu de ce que nous leur avons fait, puissent les bots avoir pitié de nous.
+

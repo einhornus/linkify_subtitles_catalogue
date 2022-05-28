@@ -1,0 +1,488 @@
+1
+00:00:00,310 --> 00:00:03,059
+Hola, Vsauce.  Michael aquí,
+y acabo de regresar de
+
+2
+00:00:03,060 --> 00:00:06,459
+VidCon.  Toda la convención fue
+increíble, pero todo el tiempo que estuve
+
+3
+00:00:06,460 --> 00:00:07,099
+allí
+
+4
+00:00:07,100 --> 00:00:11,619
+pensé mucho en el video.
+Todos vemos video
+
+5
+00:00:11,620 --> 00:00:15,239
+y muchos de nosotros trabajamos con video,
+pero ¿qué es?  Quiero decir, ¿qué es realmente un
+
+6
+00:00:15,240 --> 00:00:18,919
+video?  Bueno, adivina qué, hoy
+vamos a echar un vistazo.
+
+7
+00:00:18,920 --> 00:00:22,948
+Para empezar, creo que deberíamos
+empezar desde abajo
+
+8
+00:00:22,949 --> 00:00:26,299
+con el lenguaje.
+¿Qué significa la palabra registro?
+
+9
+00:00:26,300 --> 00:00:29,759
+La historia detrás de la palabra 'grabar' es
+realmente genial y me pone un poco
+
+10
+00:00:29,760 --> 00:00:30,759
+sentimental.
+
+11
+00:00:30,760 --> 00:00:34,689
+La palabra 'registro' proviene del latín,
+donde "re" significa de
+
+12
+00:00:34,690 --> 00:00:38,439
+nuevo y "cor" significa el corazón o el alma.
+
+13
+00:00:38,440 --> 00:00:42,199
+Entonces, cuando grabas algo,
+literalmente lo estás devolviendo
+
+14
+00:00:42,200 --> 00:00:46,038
+a tu corazón, devolviéndolo a tu
+alma, recordándolo.
+
+15
+00:00:46,039 --> 00:00:49,288
+Ahora, eso suena muy bien y bonito,
+pero en realidad tenía más que ver con el
+
+16
+00:00:49,289 --> 00:00:49,699
+hecho de que
+
+17
+00:00:49,700 --> 00:00:53,979
+la gente antigua pensaba que el corazón
+era que éramos recuerdos almacenados, no el cerebro.
+
+18
+00:00:53,980 --> 00:00:57,468
+La razón por la que una secuencia de imágenes fijas
+puede parecer que se
+
+19
+00:00:57,469 --> 00:01:01,488
+está moviendo es un efecto conocido como "movimiento beta".
+Si las imágenes se mueven lo suficientemente rápido,
+
+20
+00:01:01,489 --> 00:01:04,937
+nuestro cerebro no puede comprenderlas como
+imágenes separadas y se crea la ilusión de
+
+21
+00:01:04,938 --> 00:01:05,609
+movimiento
+
+22
+00:01:05,610 --> 00:01:09,169
+.
+Ahora, durante mucho tiempo grabamos
+
+23
+00:01:09,170 --> 00:01:12,959
+imágenes en movimiento en películas fotográficas,
+pero más tarde surgió
+
+24
+00:01:12,960 --> 00:01:16,789
+una nueva forma de capturar imágenes en movimiento
+y se llamó
+
+25
+00:01:16,790 --> 00:01:20,188
+"video".
+Video proviene del latín para "yo veo"
+
+26
+00:01:20,189 --> 00:01:24,258
+y, en lugar de preservar
+químicamente una imagen en movimiento en una
+
+27
+00:01:24,259 --> 00:01:28,548
+película fotográfica de celuloide, el
+video es una
+
+28
+00:01:28,549 --> 00:01:33,219
+representación electrónica de la imagen en movimiento.
+Ahora, en el mundo real, las cosas simplemente
+
+29
+00:01:33,220 --> 00:01:37,158
+suceden.  Las cosas
+suceden continuamente.  Pero en el mundo de una cámara,
+
+30
+00:01:37,159 --> 00:01:38,118
+ya sea de película
+
+31
+00:01:38,119 --> 00:01:41,789
+o de video, casi siempre es
+en forma de frecuencias de cuadro.
+
+32
+00:01:41,790 --> 00:01:46,078
+Fotografías del mundo tomadas a
+cierta velocidad que luego se pasan rápidamente
+
+33
+00:01:46,079 --> 00:01:49,658
+produciendo, a través del movimiento beta,
+la ilusión de movimiento.
+
+34
+00:01:49,659 --> 00:01:53,749
+Cuando una cámara graba a una
+velocidad de fotogramas más baja, la reproducción a menudo se ve
+
+35
+00:01:53,750 --> 00:01:58,648
+nerviosa y salta así.  Más fotogramas
+por segundo significa que
+
+36
+00:01:58,649 --> 00:02:00,109
+se toma más información cada segundo,
+
+37
+00:02:00,110 --> 00:02:03,609
+lo que conduce a una mayor fluidez.
+Pero eso lleva a una lata entera de gusanos,
+
+38
+00:02:03,610 --> 00:02:06,618
+que es una gran transición a una
+conversación que tuve con Dylan de
+
+39
+00:02:06,619 --> 00:02:08,119
+HouseholdHacker en VidCon.
+
+40
+00:02:08,120 --> 00:02:11,239
+Enrolle la cinta.
+
+41
+00:02:11,240 --> 00:02:16,799
+Hola, Vsauce.  Michael aquí, y yo estoy en el baño de VidCon y tengo un invitado especial.  Justo
+
+42
+00:02:16,800 --> 00:02:20,259
+afuera es Dylan de HouseholdHacker.
+Oye, ¿qué está pasando a todos?
+
+43
+00:02:20,260 --> 00:02:24,068
+Sabes, tengo una buena pregunta para ti
+basada en la velocidad de fotogramas y otras cosas.  ¿Qué
+
+44
+00:02:24,069 --> 00:02:24,549
+dirías que
+
+45
+00:02:24,550 --> 00:02:31,049
+ve el ojo humano como velocidad de fotogramas?  Muy buena pregunta.  ¿A qué velocidad de fotogramas vemos el mundo con nuestros
+
+46
+00:02:31,050 --> 00:02:32,098
+globos oculares?
+Quiero decir,
+
+47
+00:02:32,099 --> 00:02:35,409
+¿qué tan rápido viaja la información
+desde nuestro ojo hasta nuestro cerebro?
+
+48
+00:02:35,410 --> 00:02:39,729
+Obviamente, no puede ser demasiado bajo,
+porque los objetos rápidos no parecen estar
+
+49
+00:02:39,730 --> 00:02:40,539
+saltando,
+
+50
+00:02:40,540 --> 00:02:44,979
+se ven bastante fluidos.  Bueno, es una
+pregunta con trampa porque nuestros ojos
+
+51
+00:02:44,980 --> 00:02:48,878
+no son cámaras.
+En cambio, rastrean objetos
+
+52
+00:02:48,879 --> 00:02:52,219
+y reciben un flujo continuo de fotones
+en la retina que
+
+53
+00:02:52,220 --> 00:02:55,249
+envía información a través de una reacción química
+
+54
+00:02:55,250 --> 00:02:59,149
+al cerebro.  Ahora, esto es lo que hacemos ahora.
+La corteza visual de nuestro cerebro
+
+55
+00:02:59,150 --> 00:03:02,408
+suele retener esa información
+de nuestra retina durante aproximadamente una quinceava parte
+
+56
+00:03:02,409 --> 00:03:06,399
+de un segundo.  Entonces, si una animación se mueve
+quince fotogramas por segundo
+
+57
+00:03:06,400 --> 00:03:09,719
+o más rápido, se verá agradable y fluida.
+Pero
+
+58
+00:03:09,720 --> 00:03:14,158
+si es inferior a quince fotogramas por segundo,
+nuestro cerebro no se deja engañar por el movimiento beta
+
+59
+00:03:14,159 --> 00:03:19,699
+y parecerá que salta.  Entonces, básicamente,
+cuanto más rápida sea la velocidad de fotogramas, mejor
+
+60
+00:03:19,700 --> 00:03:24,268
+se verá todo al final.  Aquí está la cosa.
+Si las velocidades de fotogramas aumentan cada vez más
+
+61
+00:03:24,269 --> 00:03:27,499
+, terminas con una imagen que en
+realidad puede causar dolores de cabeza cuando la gente la
+
+62
+00:03:27,500 --> 00:03:28,548
+mira en la pantalla.
+
+63
+00:03:28,549 --> 00:03:31,988
+Uhm... Toma, te explicaré por qué.
+Sostenga esta cámara por un segundo.
+
+64
+00:03:31,989 --> 00:03:35,449
+Ah, sí, no hay problema.
+Así que volvamos al punto
+
+65
+00:03:35,450 --> 00:03:39,059
+sobre nuestros ojos rastreando objetos.
+Si hago esto,
+
+66
+00:03:39,060 --> 00:03:42,708
+muevo mi mano frente a mi cara
+y la sigo con los ojos,
+
+67
+00:03:42,709 --> 00:03:47,339
+puedo ver mi mano, tiene sentido.  Pero
+en cierto punto, mi mano se moverá tan rápido
+
+68
+00:03:47,340 --> 00:03:51,238
+que es solo un borrón y la razón por la
+que es borroso es porque mi ojo
+
+69
+00:03:51,239 --> 00:03:56,889
+solo puede seguir tan rápido.  Y cuando los objetos se mueven
+más rápido de lo que pueden rastrear nuestros globos oculares, su cerebro
+
+70
+00:03:56,890 --> 00:03:57,529
+agrega
+
+71
+00:03:57,530 --> 00:04:00,899
+desenfoque de movimiento.  De esa manera tenemos una sensación de
+movimiento,
+
+72
+00:04:00,900 --> 00:04:04,139
+pero no vemos algo como una mano que aparece al azar por
+
+73
+00:04:04,140 --> 00:04:07,818
+todos lados.
+Pero esto se convierte en un problema con los nuevos programas de
+
+74
+00:04:07,819 --> 00:04:09,658
+alta definición en
+
+75
+00:04:09,659 --> 00:04:13,639
+televisores grandes, porque algunos de esos
+programas llegan a su televisor
+
+76
+00:04:13,640 --> 00:04:16,948
+a velocidades de cuadro de hasta 1000 cuadros por segundo.
+
+77
+00:04:16,949 --> 00:04:20,737
+Y los objetos, como una pelota de tenis,
+que normalmente viaja tan rápido que
+
+78
+00:04:20,738 --> 00:04:24,439
+nuestros ojos no pueden seguirlos y se ven borrosos
+, no se ven borrosos,
+
+79
+00:04:24,440 --> 00:04:28,239
+porque la cámara puede verlos
+claramente.  Y cuando ve ese programa
+
+80
+00:04:28,240 --> 00:04:28,969
+en la
+
+81
+00:04:28,970 --> 00:04:32,469
+televisión, en realidad puede tener dolor de cabeza o
+marearse, por lo que tienen que encontrar formas de volver a
+
+82
+00:04:32,470 --> 00:04:33,649
+agregar
+
+83
+00:04:33,650 --> 00:04:37,159
+desenfoque a las imágenes HD.
+Bastante ordenado, ¿verdad?
+
+84
+00:04:37,160 --> 00:04:40,379
+Esa es una gran información.  ¿Cómo
+aprendiste esto?  Para eso estoy aquí, hombre.
+
+85
+00:04:40,380 --> 00:04:45,918
+Gracias.  Nos vemos.
+Nos vemos.
+
+86
+00:04:45,919 --> 00:04:52,219
+Ya sabes, el baño.  Sabes.
+Te escuché salir.  ¿Te lavaste las manos?
+
+87
+00:04:52,220 --> 00:04:55,249
+Uhm, sí.
+
+88
+00:04:55,250 --> 00:04:58,829
+Ahí vas.  Algunos datos interesantes sobre el
+video que aprendí mientras volaba
+
+89
+00:04:58,830 --> 00:04:59,589
+hacia
+
+90
+00:04:59,590 --> 00:05:03,719
+y desde VidCon de Nueva York a Los Ángeles.
+Fue un vuelo largo, pero aprendí mucho
+
+91
+00:05:03,720 --> 00:05:07,508
+y quiero terminar con algunos números sobre
+YouTube específicamente.
+
+92
+00:05:07,509 --> 00:05:11,258
+YouTube aloja videos de todo el mundo.
+
+
+93
+00:05:11,259 --> 00:05:14,839
+Cantidades masivas, masivas.
+De hecho, cada minuto del día la
+
+94
+00:05:14,840 --> 00:05:18,749
+gente sube videos a YouTube.
+Y si tuviera que tomar todo el video
+
+95
+00:05:18,750 --> 00:05:22,549
+subido a YouTube en un minuto dado, en
+total equivaldría a
+
+96
+00:05:22,550 --> 00:05:27,249
+48 horas.  Así es.  Cada minuto se suben
+dos días completos de video
+
+97
+00:05:27,250 --> 00:05:31,698
+a YouTube
+.  Ustedes son parte de algo
+
+98
+00:05:31,699 --> 00:05:35,198
+gigantesco.  Muy bien, ahora a finales de esta semana
+tendré un nuevo episodio de IMG.
+
+99
+00:05:35,199 --> 00:05:38,569
+Y muy pronto tendremos episodios de
+DONG, LÜt, será genial, así que
+
+100
+00:05:38,570 --> 00:05:40,579
+asegúrate de estar suscrito para no perderte nada.
+
+101
+00:05:40,580 --> 00:05:41,619
+Y como siempre,
+
+102
+00:05:41,620 --> 00:05:49,299
+gracias por mirar.
+
+103
+00:05:49,300 --> 00:05:51,460
+No lo son, no son la misma persona.
+

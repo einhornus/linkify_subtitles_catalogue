@@ -1,0 +1,707 @@
+1
+00:00:00,020 --> 00:00:03,019
+Im Internet sind die Algorithmen überall um Sie herum.
+
+2
+00:00:03,020 --> 00:00:07,319
+Sie sehen sich dieses Video an, weil ein Algorithmus es Ihnen (unter anderem) zum Klicken gebracht hat,
+
+3
+00:00:07,320 --> 00:00:10,159
+was Sie getan haben, und der Algorithmus hat es zur Kenntnis genommen.
+
+4
+00:00:10,160 --> 00:00:13,659
+Wenn Sie das TweetBook öffnen, entscheidet der Algorithmus, was Sie sehen.
+
+5
+00:00:13,660 --> 00:00:16,959
+Wenn Sie Ihre Fotos durchsuchen, übernimmt A der Algorithmus die Suche.
+
+6
+00:00:16,960 --> 00:00:18,959
+Vielleicht macht er sogar einen kleinen Film für Sie.
+
+7
+00:00:18,960 --> 00:00:21,799
+Wenn Sie etwas kaufen, legt A der Algorithmus den Preis fest
+
+8
+00:00:21,800 --> 00:00:25,999
+und A ist der Algorithmus bei Ihrer Bank und überwacht Transaktionen auf Betrug.
+
+9
+00:00:26,000 --> 00:00:28,179
+Die Börse ist voll von Algorithmen
+
+10
+00:00:28,180 --> 00:00:29,739
+, die mit Algorithmen handeln.
+
+11
+00:00:29,740 --> 00:00:34,239
+Angesichts dessen möchten Sie vielleicht wissen, wie diese kleinen algorithmischen Bots, die Ihre Welt gestalten, funktionieren,
+
+12
+00:00:34,240 --> 00:00:36,039
+insbesondere wenn dies nicht der Fall ist.
+
+13
+00:00:36,040 --> 00:00:37,079
+In Ye Olden Days
+
+14
+00:00:37,080 --> 00:00:41,899
+bauten Menschen algorithmische Bots, indem sie ihnen Anweisungen gaben, die die Menschen erklären konnten.
+
+15
+00:00:41,900 --> 00:00:43,799
+"Wenn dies, dann das."
+
+16
+00:00:43,800 --> 00:00:49,079
+Aber viele Probleme sind einfach zu groß und schwer für einen Menschen, um einfache Anweisungen zu schreiben.
+
+17
+00:00:49,080 --> 00:00:53,559
+Es gibt eine Unmenge an Finanztransaktionen pro Sekunde, welche sind betrügerisch?
+
+18
+00:00:53,560 --> 00:00:55,979
+Es gibt octillion-Videos auf NetMeTube.
+
+19
+00:00:55,980 --> 00:01:01,679
+Welche acht sollte der Benutzer als Empfehlungen sehen?  Was sollte überhaupt nicht auf der Website erlaubt sein?
+
+20
+00:01:01,680 --> 00:01:06,219
+Was ist der maximale Preis, den dieser Benutzer derzeit für diesen Flugplatz zahlen wird?
+
+21
+00:01:06,220 --> 00:01:08,499
+Antworten auf diese Fragen geben algorithmische Bots.
+
+22
+00:01:08,500 --> 00:01:11,919
+Keine perfekten Antworten,
+aber viel besser als ein Mensch es könnte.
+
+23
+00:01:11,920 --> 00:01:15,859
+Aber wie diese Bots genau funktionieren,
+weiß immer mehr niemand.
+
+24
+00:01:15,860 --> 00:01:17,919
+Nicht einmal die Menschen, die sie gebaut
+
+25
+00:01:17,920 --> 00:01:18,879
+oder "gebaut" haben,
+
+26
+00:01:18,880 --> 00:01:19,859
+wie wir sehen werden ...
+
+27
+00:01:19,860 --> 00:01:23,419
+Jetzt wollen Unternehmen, die diese Bots
+verwenden, nicht darüber sprechen, wie sie funktionieren,
+
+28
+00:01:23,420 --> 00:01:25,819
+weil die Bots wertvolle Mitarbeiter sind.
+
+29
+00:01:25,820 --> 00:01:27,299
+Sehr, SEHR wertvoll.
+
+30
+00:01:27,300 --> 00:01:30,699
+Und wie ihre Gehirne aufgebaut sind, ist ein streng gehütetes Geschäftsgeheimnis.
+
+31
+00:01:30,700 --> 00:01:32,999
+Im Moment ist die Schneide höchstwahrscheinlich sehr
+
+32
+00:01:33,000 --> 00:01:34,639
+„Ich hoffe, Sie mögen lineare Algebra“,
+
+33
+00:01:34,640 --> 00:01:37,339
+aber was die aktuelle Hotness auf einer bestimmten Seite ist
+
+34
+00:01:37,340 --> 00:01:41,299
+und wie die Bots funktionieren,
+ist ein bisschen „Ich weiß nicht“ und wird es immer sein.
+
+35
+00:01:41,300 --> 00:01:45,599
+Lassen Sie uns also über eine der kurioseren, aber verständlicheren Möglichkeiten sprechen, wie Bots „gebaut“ werden KÖNNEN,
+
+36
+00:01:45,600 --> 00:01:48,319
+ohne zu verstehen, wie ihr Gehirn funktioniert.
+
+37
+00:01:48,320 --> 00:01:51,239
+Angenommen, Sie möchten einen Bot, der erkennen kann,
+was auf einem Bild zu sehen ist.
+
+38
+00:01:51,240 --> 00:01:53,219
+Ist es eine Biene oder ist es eine Drei?
+
+39
+00:01:53,220 --> 00:01:55,759
+Es ist einfach für Menschen (selbst kleine Menschen),
+
+40
+00:01:55,760 --> 00:01:59,819
+aber es ist unmöglich, einem Bot
+in Bot-Sprache einfach zu sagen, wie es geht,
+
+41
+00:01:59,820 --> 00:02:03,679
+weil wir wirklich nur wissen,
+dass das eine Biene und das eine Drei ist.
+
+42
+00:02:03,680 --> 00:02:07,099
+Wir können mit Worten sagen, was sie anders macht,
+aber Bots verstehen keine Worte.
+
+43
+00:02:07,100 --> 00:02:10,978
+Und es ist die Verkabelung in unserem Gehirn
+, die es trotzdem möglich macht.
+
+44
+00:02:10,979 --> 00:02:16,799
+Während ein einzelnes Neuron verstanden werden kann und der allgemeine Zweck von Neuronenclustern vage erfasst wird, ist
+
+45
+00:02:16,800 --> 00:02:18,459
+das Ganze jenseits davon.
+
+46
+00:02:18,460 --> 00:02:20,019
+Trotzdem funktioniert es.
+
+47
+00:02:20,020 --> 00:02:22,119
+Um also einen Bot zu bekommen, der diese Sortierung durchführen kann,
+
+48
+00:02:22,120 --> 00:02:23,419
+müssen Sie ihn nicht selbst bauen.
+
+49
+00:02:23,420 --> 00:02:27,199
+Sie bauen einen Bot, der Bots baut,
+und einen Bot, der Bots lehrt.
+
+50
+00:02:27,200 --> 00:02:31,679
+Die Gehirne dieser Bots sind einfacher,
+etwas, was ein intelligenter menschlicher Programmierer machen kann.
+
+51
+00:02:31,680 --> 00:02:35,139
+Der Builder-Bot baut Bots,
+obwohl er darin nicht sehr gut ist.
+
+52
+00:02:35,140 --> 00:02:39,359
+Zunächst verbindet es die Kabel und Module in den Bot-Gehirnen fast willkürlich.
+
+53
+00:02:39,360 --> 00:02:41,479
+Dies führt zu einigen sehr ...
+
+54
+00:02:41,480 --> 00:02:44,439
+"speziellen" Schüler-Bots, die zum Unterrichten an den Lehrer-Bot gesendet werden.
+
+55
+00:02:44,440 --> 00:02:47,699
+Natürlich kann auch der Teacher-
+Bot eine Biene nicht von einer Drei unterscheiden;
+
+56
+00:02:47,700 --> 00:02:51,219
+Wenn der Mensch einen Lehrer-Bot bauen könnte, um das zu tun
+, dann wäre das Problem gelöst.
+
+57
+00:02:51,220 --> 00:02:54,779
+Stattdessen gibt der Mensch dem Lehrer-Bot einen Haufen „Bienen“-Fotos und „drei“ Fotos
+
+58
+00:02:54,780 --> 00:02:56,959
+und einen Antwortschlüssel dazu, was was ist.
+
+59
+00:02:56,960 --> 00:02:58,439
+Der Lehrer-Bot kann nicht unterrichten,
+
+60
+00:02:58,440 --> 00:03:00,679
+aber der Lehrer-Bot kann TESTEN.
+
+61
+00:03:00,680 --> 00:03:03,848
+Die bezaubernden Schüler-Bots strecken ihre Zunge heraus, bemühen sich sehr,
+
+62
+00:03:03,849 --> 00:03:05,779
+aber sie sind schlecht in dem, was sie tun.
+
+63
+00:03:05,780 --> 00:03:07,159
+Sehr sehr schlecht.
+
+64
+00:03:07,160 --> 00:03:10,039
+Und es ist wirklich nicht ihre Schuld,
+sie wurden so gebaut.
+
+65
+00:03:10,040 --> 00:03:13,599
+Mit den Noten in der Hand nehmen die Schüler-Bots einen Schandmarsch zurück zum Builder-Bot.
+
+66
+00:03:13,600 --> 00:03:15,759
+diejenigen, die am besten abgeschnitten haben, werden beiseite gelegt,
+
+67
+00:03:15,760 --> 00:03:17,419
+die anderen recycelt.
+
+68
+00:03:17,420 --> 00:03:19,699
+Der Builder-Bot ist immer noch nicht gut darin, Bots zu bauen,
+
+69
+00:03:19,700 --> 00:03:23,519
+aber jetzt nimmt er die verbleibenden
+und erstellt Kopien mit Änderungen in neuen Kombinationen.
+
+70
+00:03:23,520 --> 00:03:25,479
+Zurück zur Schule gehen sie.
+
+71
+00:03:25,480 --> 00:03:28,939
+Der Teacher-Bot unterrichtet – äh, testet erneut und der Builder-Bot baut erneut.
+
+72
+00:03:28,940 --> 00:03:30,919
+Und immer wieder.
+
+73
+00:03:30,920 --> 00:03:34,239
+Nun, ein Baumeister, der nach dem Zufallsprinzip baut,
+und ein Lehrer, der nicht lehrt, sondern nur testet,
+
+74
+00:03:34,240 --> 00:03:38,019
+und Schüler, die nicht lernen können, sie sind einfach das, was sie sind, sollten theoretisch nicht funktionieren
+
+75
+00:03:38,020 --> 00:03:39,759
+, aber in der Praxis schon.
+
+76
+00:03:39,760 --> 00:03:44,999
+Zum Teil, weil das Schlachthaus des Erbauer-Bots bei jeder Iteration das Beste behält und den Rest verwirft,
+
+77
+00:03:45,000 --> 00:03:50,839
+und zum Teil, weil der Lehrer-Bot kein altmodisches Schulhaus mit einem Raum und einem Dutzend Schülern beaufsichtigt,
+
+78
+00:03:50,840 --> 00:03:54,479
+sondern ein unendliches Lagerhaus mit Tausenden von Schülern.
+
+79
+00:03:54,480 --> 00:03:57,739
+Der Test besteht nicht aus zehn Fragen, sondern aus einer Million Fragen.
+
+80
+00:03:57,740 --> 00:04:01,419
+Und wie oft wiederholt sich die Test-, Build-, Test-Schleife?
+
+81
+00:04:01,420 --> 00:04:03,939
+So viele wie nötig.
+
+82
+00:04:03,940 --> 00:04:06,578
+Zuerst haben die überlebenden Schüler nur Glück,
+
+83
+00:04:06,579 --> 00:04:10,459
+aber indem sie genug glückliche Bots kombinieren und nur das behalten, was funktioniert,
+
+84
+00:04:10,460 --> 00:04:13,239
+und zufällig mit neuen Kopien davon
+
+85
+00:04:13,240 --> 00:04:16,018
+herumspielen, taucht schließlich ein Schüler-Bot auf, der kein Glück hat und
+
+86
+00:04:16,019 --> 00:04:19,659
+vielleicht kaum Bienen von Dreien unterscheiden kann  .
+
+87
+00:04:19,660 --> 00:04:23,319
+Während dieser Bot kopiert und verändert wird,
+steigt langsam die durchschnittliche Testpunktzahl
+
+88
+00:04:23,320 --> 00:04:27,659
+und somit wird die Note, die benötigt wird, um die nächste Runde zu überstehen, immer höher.
+
+89
+00:04:27,660 --> 00:04:30,579
+Machen Sie weiter so und irgendwann wird aus dem unendlichen Lagerhaus
+
+90
+00:04:30,580 --> 00:04:31,099
+(Schlachthaus)
+
+91
+00:04:31,100 --> 00:04:36,759
+ein Studenten-Bot auftauchen, der eine Biene von einer Drei auf einem Foto, das er noch nie zuvor gesehen hat, ziemlich gut unterscheiden kann.
+
+92
+00:04:36,760 --> 00:04:40,759
+Aber wie der Schüler-Bot das macht, können weder der Lehrer-Bot noch der Erbauer-Bot
+
+93
+00:04:40,760 --> 00:04:43,099
+noch der menschliche Aufseher verstehen.
+
+94
+00:04:43,100 --> 00:04:45,499
+Auch nicht der Studenten-Bot selbst.
+
+95
+00:04:45,500 --> 00:04:51,319
+Nachdem so viele nützliche zufällige Änderungen
+beibehalten wurden, ist die Verdrahtung in seinem Kopf unglaublich kompliziert,
+
+96
+00:04:51,320 --> 00:04:57,139
+und während eine einzelne Codezeile verstanden und der allgemeine Zweck von Codeclustern vage erfasst werden kann, ist
+
+97
+00:04:57,140 --> 00:04:58,919
+das Ganze jenseits,
+
+98
+00:04:58,920 --> 00:05:00,599
+nichtsdestotrotz funktioniert es.
+
+99
+00:05:00,600 --> 00:05:05,219
+Aber das ist frustrierend, zumal der Schüler-Bot genau
+
+100
+00:05:05,220 --> 00:05:07,999
+nur die Art von Fragen sehr gut kann, die ihm beigebracht wurden.
+
+101
+00:05:08,000 --> 00:05:13,519
+Es ist großartig mit Fotos, aber nutzlos mit Videos oder verwirrt, wenn die Fotos auf dem Kopf stehen,
+
+102
+00:05:13,520 --> 00:05:17,119
+oder Dinge, die offensichtlich keine Bienen sind, es ist selbstbewusst.
+
+103
+00:05:17,120 --> 00:05:18,519
+Da der Lehrer-Bot nicht unterrichten kann, kann
+
+104
+00:05:18,520 --> 00:05:23,239
+der menschliche Aufseher ihm nur mehr Fragen stellen, um den Test noch länger zu machen und
+
+105
+00:05:23,240 --> 00:05:26,719
+die Arten von Fragen einzubeziehen, die die besten Bots falsch machen.
+
+106
+00:05:26,720 --> 00:05:28,639
+Das ist wichtig zu verstehen.
+
+107
+00:05:28,640 --> 00:05:32,539
+Das ist ein Grund, warum Unternehmen davon
+besessen sind, Daten zu sammeln.
+
+108
+00:05:32,540 --> 00:05:35,859
+Mehr Daten bedeuten längere Tests und bessere Bots.
+
+109
+00:05:35,860 --> 00:05:38,859
+Wenn Sie also das "Sind Sie ein Mensch?"  Wenn Sie auf einer Website testen,
+
+110
+00:05:38,860 --> 00:05:41,459
+beweisen Sie nicht nur, dass Sie ein Mensch sind
+(hoffentlich),
+
+111
+00:05:41,460 --> 00:05:45,239
+sondern helfen auch beim Aufbau des Tests, um Bots zu entwickeln, die lesen oder zählen
+
+112
+00:05:45,240 --> 00:05:47,639
+oder Seen von Bergen oder Pferde von Menschen unterscheiden können.
+
+113
+00:05:47,640 --> 00:05:50,079
+Sehen Sie in letzter Zeit viele Fragen zum Autofahren?
+
+114
+00:05:50,080 --> 00:05:52,879
+Hmm...!  Wofür könnte das ein Test sein?
+
+115
+00:05:52,880 --> 00:05:56,379
+Um herauszufinden, was auf einem Foto oder auf einem Schild zu sehen ist, oder um Videos zu filtern,
+
+116
+00:05:56,380 --> 00:05:59,259
+müssen Menschen ausreichend korrekte Tests durchführen.
+
+117
+00:05:59,260 --> 00:06:02,219
+Aber es gibt noch eine andere Art von Test, der sich selbst macht.
+
+118
+00:06:02,220 --> 00:06:04,519
+Tests an Menschen.
+
+119
+00:06:04,520 --> 00:06:11,179
+Sagen wir zum Beispiel ganz hypothetisch, dass NetMeTube wollte, dass Benutzer so lange wie möglich weiterschauen?
+
+120
+00:06:11,180 --> 00:06:14,539
+Nun, wie lange ein Benutzer auf der Website bleibt, ist einfach zu messen.
+
+121
+00:06:14,540 --> 00:06:18,619
+Der Lehrer-Bot gibt also jedem Schüler-Bot eine Reihe von NetMeTube-Benutzern zur Überwachung,
+
+122
+00:06:18,620 --> 00:06:21,579
+die Schüler-Bots sehen, was ihre Benutzer sehen, sehen sich ihre Dateien an
+
+123
+00:06:21,580 --> 00:06:24,819
+und tun ihr Bestes, um die Videos
+auszuwählen, die den Benutzer auf der Website halten.
+
+124
+00:06:24,820 --> 00:06:27,299
+Je länger der Durchschnitt, desto höher ihr Testergebnis.
+
+125
+00:06:27,300 --> 00:06:29,399
+Bauen, testen, wiederholen.
+
+126
+00:06:29,400 --> 00:06:34,039
+Eine Million Zyklen später gibt es einen Studenten-Bot, der ziemlich gut darin ist, die Benutzer im Auge zu behalten,
+
+127
+00:06:34,040 --> 00:06:36,639
+zumindest im Vergleich zu dem, was ein Mensch bauen könnte.
+
+128
+00:06:36,640 --> 00:06:40,199
+Aber wenn die Leute fragen:
+"Wie wählt der NetMeTube-Algorithmus Videos aus?"
+
+129
+00:06:40,200 --> 00:06:44,039
+Auch hier gibt es keine gute Antwort, außer auf den Bot
+
+130
+00:06:44,040 --> 00:06:46,139
+und die Benutzerdaten zu verweisen, auf die er Zugriff hatte,
+
+131
+00:06:46,140 --> 00:06:51,419
+und vor allem, wie die menschlichen Aufseher den
+Lehrer-Bot anweisen, den Test zu punkten.
+
+132
+00:06:51,420 --> 00:06:54,799
+Darin versucht der Bot gut zu sein, um zu überleben.
+
+133
+00:06:54,800 --> 00:06:59,419
+Aber was der Bot denkt oder wie er es denkt,
+ist nicht wirklich erkennbar.
+
+134
+00:06:59,420 --> 00:07:02,999
+Alles, was bekannt ist, ist, dass dieser Studenten-Bot
+der Algorithmus sein wird,
+
+135
+00:07:03,000 --> 00:07:09,159
+weil er bei dem von Menschen entworfenen Test um Punkt ein Prozent besser ist als der vorherige Bot.
+
+136
+00:07:09,160 --> 00:07:13,779
+Überall im Internet, hinter den Kulissen,
+gibt es also Tests, um die Benutzerinteraktion zu steigern,
+
+137
+00:07:13,780 --> 00:07:17,239
+oder Preise genau richtig festzulegen, um den Umsatz zu maximieren,
+
+138
+00:07:17,240 --> 00:07:22,179
+oder von all Ihren Freunden die Posts auszuwählen, die Ihnen am besten gefallen, oder Artikel, die die Leute am meisten teilen werden,  oder Wasauchimmer.
+
+139
+00:07:22,180 --> 00:07:24,839
+Wenn es testbar ist, ist es lehrbar.  Nun, "lehrbar",
+
+140
+00:07:24,840 --> 00:07:29,899
+und ein Schüler-Bot wird aus dem
+Lagerhaus den Algorithmus seiner Domäne absolvieren.
+
+141
+00:07:29,900 --> 00:07:31,539
+Zumindest für eine kleine Weile.
+
+142
+00:07:31,540 --> 00:07:36,439
+Wir sind daran gewöhnt, dass die Werkzeuge, die wir benutzen, jemand versteht, auch wenn wir sie nicht verstehen,
+
+143
+00:07:36,440 --> 00:07:40,979
+aber mit unseren Maschinen, die lernen, sind wir zunehmend in der Lage, Werkzeuge zu benutzen
+
+144
+00:07:40,980 --> 00:07:42,459
+oder von Werkzeugen benutzt zu werden,
+
+145
+00:07:42,460 --> 00:07:45,719
+die nein  man, nicht einmal ihre Schöpfer, verstehen.
+
+146
+00:07:45,720 --> 00:07:49,219
+Wir können nur hoffen, sie mit den von uns durchgeführten Tests anleiten zu können,
+
+147
+00:07:49,220 --> 00:07:50,939
+und wir müssen uns damit anfreunden,
+
+148
+00:07:50,940 --> 00:07:58,239
+da unsere algorithmischen Bot-Freunde überall sind
+und nirgendwo hingehen.
+
+149
+00:07:58,240 --> 00:08:00,699
+OK.  Die Bots schauen zu.
+
+150
+00:08:00,700 --> 00:08:02,319
+Du weißt, was kommt.
+
+151
+00:08:02,320 --> 00:08:04,919
+An dieser Stelle muss ich Sie bitten...
+
+152
+00:08:04,920 --> 00:08:06,179
+zu liken... zu
+
+153
+00:08:06,180 --> 00:08:07,499
+kommentieren...
+
+154
+00:08:07,500 --> 00:08:09,479
+...und zu abonnieren.
+
+155
+00:08:09,480 --> 00:08:11,299
+Und klingel mich.
+
+156
+00:08:11,300 --> 00:08:13,759
+Und auf dem TweetBook teilen.
+
+157
+00:08:13,760 --> 00:08:15,779
+Der Algorithmus schaut zu.
+
+158
+00:08:15,780 --> 00:08:18,199
+Es wird den Leuten das Video nicht zeigen ... es
+
+159
+00:08:18,200 --> 00:08:21,179
+sei denn, Sie tun dies.
+
+160
+00:08:21,180 --> 00:08:24,259
+Schaut, worauf ihr mich reduziert habt, Bots.
+
+161
+00:08:24,260 --> 00:08:26,339
+Was willst du?  Willst du Wiedergabezeit?
+
+162
+00:08:26,340 --> 00:08:28,119
+Ist es das was du willst?
+
+163
+00:08:28,120 --> 00:08:30,299
+Bußgeld.
+
+164
+00:08:30,300 --> 00:08:34,259
+(seufz...) Hey Leute, wusstet ihr, dass ich auch Podcasts habe, die ihr euch anhören könnt?
+
+165
+00:08:34,260 --> 00:08:40,599
+Vielleicht sogar nur im Hintergrund, während Sie stundenlang Ihr Zimmer aufräumen?  Oder Wasauchimmer?
+
+166
+00:08:40,600 --> 00:08:47,019
+Es gibt stundenlange Audiounterhaltung für Sie
+und Zeit für die Bots, die Ihre Aktionen überwachen.
+
+167
+00:08:47,020 --> 00:08:50,519
+Gehen Sie voran und - und machen Sie einen Klick.
+Unterhalten Sie sich.
+
+168
+00:08:50,520 --> 00:08:51,739
+Hilf mir.
+
+169
+00:08:51,740 --> 00:08:53,420
+Helfen Sie den Bots.
+

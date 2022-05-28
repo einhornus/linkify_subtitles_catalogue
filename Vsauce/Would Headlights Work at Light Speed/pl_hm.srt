@@ -1,0 +1,826 @@
+1
+00:00:00,290 --> 00:00:04,679
+Hej, Vsauce, tutaj Michael.
+Gdybyś jechał samochodem
+
+2
+00:00:04,680 --> 00:00:08,379
+z prędkością światła i włączył światła z przodu auta,
+
+3
+00:00:08,380 --> 00:00:12,399
+co by się stało? Czy światło byłoby w stanie "wyjść" z lampy
+
+4
+00:00:12,400 --> 00:00:15,808
+czy może światła pozostałyby czarne?
+
+5
+00:00:15,809 --> 00:00:19,139
+A może inaczej - światło pojawiłoby się, ale zatrzymałoby się
+
+6
+00:00:19,140 --> 00:00:22,538
+w reflektorach jak przepełniająca się umywalka?
+
+7
+00:00:22,539 --> 00:00:27,559
+A może światło wyleciałoby z reflektora i poruszało się z większą prędkością - swoją normalną
+
+8
+00:00:27,560 --> 00:00:30,659
+plus z prędkością samochodu?
+
+9
+00:00:30,660 --> 00:00:35,199
+Nie. To nie brzmi dobrze. Żadna z tych odpowiedzi nie brzmi dobrze, bo...
+
+10
+00:00:35,200 --> 00:00:38,648
+oczywiście nie ma poprawnej odpowiedzi.
+
+11
+00:00:38,649 --> 00:00:41,939
+Samochód nie może podróżować z prędkością
+
+12
+00:00:41,940 --> 00:00:46,179
+światła. Nic, co posiada masę, nie może.
+
+13
+00:00:46,180 --> 00:00:50,339
+Ale koniec końców są rzeczy, które jednak mogą poruszać się z prędkością światła.
+
+14
+00:00:50,340 --> 00:00:54,409
+Rzeczy, które nie mają masy, czyli na przykład fotony.
+Zbudujmy więc samochód
+
+15
+00:00:54,410 --> 00:00:57,538
+ze światła.
+
+16
+00:00:57,539 --> 00:01:01,108
+Przyjmijmy to jako sugestię, ponieważ wyobrażanie sobie jak to jest
+
+17
+00:01:01,109 --> 00:01:04,999
+być światłem przynosi wiele pytań o
+
+18
+00:01:05,000 --> 00:01:08,359
+światło, o to dlaczego rzeczy są takie jakie są
+
+19
+00:01:08,360 --> 00:01:12,509
+i czy jesteśmy prawdziwi czy nie.
+
+20
+00:01:12,510 --> 00:01:16,949
+By zrozumieć o czym mówię, musimy porozmawiać o "C".
+
+21
+00:01:16,950 --> 00:01:18,819
+O prędkości światła.
+
+22
+00:01:18,820 --> 00:01:23,869
+Jest ona stała. Tak długo jak nie przyśpieszasz, możesz poruszać się bardzo szybko lub
+
+23
+00:01:23,870 --> 00:01:24,599
+wolno
+
+24
+00:01:24,600 --> 00:01:27,759
+w jakimkolwiek kierunku chcesz - i wciąż
+
+25
+00:01:27,760 --> 00:01:30,899
+zobaczysz światło poruszające się z prędkością
+
+26
+00:01:30,900 --> 00:01:35,499
+światła. Nawet, kiedy wydaje się, że zwalnia przechodząc przez różne
+
+27
+00:01:35,500 --> 00:01:36,429
+rzeczy,
+
+28
+00:01:36,430 --> 00:01:40,729
+prędkość fotonów wciąż będzie wynosiła "C".
+
+29
+00:01:40,730 --> 00:01:43,999
+Wybierają one jednak dłuższą ścieżkę, która zajmuje
+
+30
+00:01:44,000 --> 00:01:49,029
+więcej czasu. To prawo jest zawsze prawdziwe, ponieważ kiedykolwiek się poruszasz
+
+31
+00:01:49,030 --> 00:01:52,089
+względem innych rzeczy, twoje pomiary wobec nich, i ich
+
+32
+00:01:52,090 --> 00:01:53,269
+pomiary wobec ciebie
+
+33
+00:01:53,270 --> 00:01:58,529
+zmieniają się. Kiedy się poruszasz, wszystko co nie porusza się z tobą wydaje się mieć
+
+34
+00:01:58,530 --> 00:01:59,199
+skróconą
+
+35
+00:01:59,200 --> 00:02:02,859
+długość, a także wydaje się doświadczać upływu czasu wolniej.
+
+36
+00:02:02,860 --> 00:02:06,789
+Jednakże dla wszystkich tych obiektów, te zmiany zachodzą na tobie.
+
+37
+00:02:06,790 --> 00:02:12,069
+Zmiany te zachodzą naprawdę - nie są jednak zauważalne czy możliwe do obliczenia przy prędkościach
+
+38
+00:02:12,070 --> 00:02:13,599
+z którymi poruszamy się na co dzień.
+
+39
+00:02:13,600 --> 00:02:16,929
+Na przykład, kiedy idziesz do lodówki po przekąskę
+
+40
+00:02:16,930 --> 00:02:20,669
+zmierzyłbyś, że lodówka jest 100 kwadrylionowych
+
+41
+00:02:20,670 --> 00:02:25,469
+metra bliżej i jest o tyle samo krótsza, niż gdybyś patrzył na nią stojąc.
+
+42
+00:02:25,470 --> 00:02:28,739
+Zauważysz również, że czas dla niej płynie wolniej
+
+43
+00:02:28,740 --> 00:02:32,379
+niż dla ciebie. Każda jej sekunda będzie o 100 kwadrylionowych sekundy
+
+44
+00:02:32,380 --> 00:02:35,488
+dłuższa od twojej. Tymczasem twoja lodówka
+
+45
+00:02:35,489 --> 00:02:38,809
+zmierzyłaby takie same różnice w tobie.
+
+46
+00:02:38,810 --> 00:02:42,529
+To małe liczby, ale przy prędkości bliższej prędkości światła
+
+47
+00:02:42,530 --> 00:02:46,659
+stają się one dramatyczne. Jak wspomniałem w poprzednim filmie,
+
+48
+00:02:46,660 --> 00:02:54,159
+dla cząsteczki poruszającej się z 99,999999999991% "c"
+
+49
+00:02:54,160 --> 00:02:57,559
+cała Ziemia wydawałaby się
+
+50
+00:02:57,560 --> 00:03:00,649
+grubości 70m. Cała nasza planeta.
+
+51
+00:03:00,650 --> 00:03:03,708
+Teraz, pamiętając o tym wszystkim, przyjrzyjmy się reflektorom
+
+52
+00:03:03,709 --> 00:03:07,238
+używanym przez stojący statek i statek poruszający się
+
+53
+00:03:07,239 --> 00:03:09,489
+z prędkością 99% "c".
+
+54
+00:03:09,490 --> 00:03:12,749
+Bliski prędkości światła statek byłby spłaszczony w kierunku poruszania się
+
+55
+00:03:12,750 --> 00:03:13,469
+z naszej perspektywy
+
+56
+00:03:13,470 --> 00:03:17,429
+podczas gdy stojący nie. Jeśli włączyłyby światła,
+
+57
+00:03:17,430 --> 00:03:21,019
+światło wychodzące z nich poruszałoby się z tą samą prędkością.
+
+58
+00:03:21,020 --> 00:03:24,279
+Prędkość źródła światła nie przyspieszy tego.
+
+59
+00:03:24,280 --> 00:03:27,689
+Prędkość poruszającego się statku daje natomiast energię
+
+60
+00:03:27,690 --> 00:03:31,179
+w kierunku w jakim się porusza, powodując przesunięcie ku niebieskiemu na wprost i ku czerwonemu
+
+61
+00:03:31,180 --> 00:03:32,109
+z tyłu.
+
+62
+00:03:32,110 --> 00:03:35,329
+To co jest naprawdę ciekawe, to to że
+
+63
+00:03:35,330 --> 00:03:39,159
+zobaczymy ten efekt, będąc w przestrzeni wraz ze stojącym statkiem.
+
+64
+00:03:39,160 --> 00:03:43,568
+Załoga szybkiego statku nie zobaczy, że promień bardzo powoli
+
+65
+00:03:43,569 --> 00:03:44,389
+ich wyprzedza,
+
+66
+00:03:44,390 --> 00:03:49,079
+tak jak my to widzimy. Oni zobaczą dokładnie to co odbiera załoga stojącego statku.
+
+67
+00:03:49,080 --> 00:03:52,818
+Promienie światła szybko wyprzedzające reflektory z prędkością światła,
+
+68
+00:03:52,819 --> 00:03:57,389
+tak jakby zupełnie się nie poruszali. Dlaczego? Powiedzmy, że ten dystans
+
+69
+00:03:57,390 --> 00:04:01,809
+to sekunda świetlna. Dystans jaki światło przebywa w ciągu sekundy - to jest:
+
+70
+00:04:01,810 --> 00:04:06,719
+299,792,458 metrów.
+
+71
+00:04:06,720 --> 00:04:09,479
+Teraz po jednej sekundzie, z pewnością,
+
+72
+00:04:09,480 --> 00:04:14,169
+oba promienie przebyłyby sekundę świetlną. Ale załoga poruszającego się statku
+
+73
+00:04:14,170 --> 00:04:16,389
+mierzy tą samą prędkość światła co my.
+
+74
+00:04:16,390 --> 00:04:20,379
+Jak więc miałoby to mieć sens? Mam na myśli to, że światło nie przebyło sekundy świetlnej
+
+75
+00:04:20,380 --> 00:04:25,409
+od nich. Żaden problem. Jak widać, to co dla nich jest sekundą świetlna
+
+76
+00:04:25,410 --> 00:04:28,409
+jest krótsze, niż dla nas. Dodatkowo
+
+77
+00:04:28,410 --> 00:04:31,779
+nie zgodzą się, że minęła już sekunda. Ponieważ, oczywiście
+
+78
+00:04:31,780 --> 00:04:32,239
+dla nas
+
+79
+00:04:32,240 --> 00:04:36,859
+czas jest wolniejszy niż dla nich. Dla nich sekunda kończy się później, niż dla nas,
+
+80
+00:04:36,860 --> 00:04:40,749
+to jest - kiedy ich światło przebyło ich sekundę świetlną
+
+81
+00:04:40,750 --> 00:04:44,049
+od nich. Obserwatorzy często nie będą się zgadzać
+
+82
+00:04:44,050 --> 00:04:48,679
+co do czasu i przestrzeni, ale zawsze będą zgadzać się
+
+83
+00:04:48,680 --> 00:04:52,679
+co do jednej rzeczy. Prędkości światła.
+
+84
+00:04:52,680 --> 00:04:57,429
+Jest ona zawsze taka sama dla każdego.
+
+85
+00:04:57,430 --> 00:04:59,679
+Lecz co gdybyś podróżował
+
+86
+00:04:59,680 --> 00:05:03,959
+z prędkością światła? Jedyne co dałoby radę, to
+
+87
+00:05:03,960 --> 00:05:07,939
+pozbawiony masy pojazd. Załóżmy więc, że możemy taki zbudować.
+
+88
+00:05:07,940 --> 00:05:11,129
+Taki pojazd podróżowałby z prędkością
+
+89
+00:05:11,130 --> 00:05:14,609
+światła. Światło nigdy nie wyprzedziłoby go
+
+90
+00:05:14,610 --> 00:05:17,809
+chociaż o kawałek. Nie ważne jak krótki
+
+91
+00:05:17,810 --> 00:05:21,168
+wydawałby się metr. Nie ważne jak długa wydawałaby się sekunda.
+
+92
+00:05:21,169 --> 00:05:25,719
+Pojazd nigdy nie zauważyłby światła przed nim.
+
+93
+00:05:25,720 --> 00:05:31,049
+Powiedziałby więc, że światło stoi. Nie zgodziłby się, że porusza się
+
+94
+00:05:31,050 --> 00:05:35,939
+z prędkością "C". Prawda? Nie do końca.
+
+95
+00:05:35,940 --> 00:05:39,679
+Przy prędkości światła, nie ma nic
+
+96
+00:05:39,680 --> 00:05:44,579
+do zobaczenia. Nie dlatego, że nie ma nic co można by zobaczyć, ale dlatego
+
+97
+00:05:44,580 --> 00:05:47,839
+że nie ma niczego co mogłoby patrzeć.
+
+98
+00:05:47,840 --> 00:05:51,549
+Jak zobaczyliśmy, gdy prędkość obiektu zbliża się
+
+99
+00:05:51,550 --> 00:05:55,189
+do "C", czas wszystkiego na około zbliża się
+
+100
+00:05:55,190 --> 00:05:58,369
+do zatrzymania. Obiekt
+
+101
+00:05:58,370 --> 00:06:02,418
+poruszający się bardzo bardzo bardzo bardzo blisko prędkości światła,
+
+102
+00:06:02,419 --> 00:06:05,809
+może podróżować przez miliardy naszych lat,
+
+103
+00:06:05,810 --> 00:06:08,969
+zanim minie dla niego sekunda.
+
+104
+00:06:08,970 --> 00:06:13,129
+Ale pozbawiony masy pojazd, podróżujący z prędkością "C"
+
+105
+00:06:13,130 --> 00:06:16,258
+mógłby lecieć w nieskończoność
+
+106
+00:06:16,259 --> 00:06:19,418
+zanim zaczęłaby się dla niego chwila.
+
+107
+00:06:19,419 --> 00:06:22,688
+Nie odczuwa on czasu.
+
+108
+00:06:22,689 --> 00:06:25,998
+I nie miałby czasu by zrobić cokolwiek.
+
+109
+00:06:25,999 --> 00:06:29,149
+Z pewnością nie miałby czasu by włączyć
+
+110
+00:06:29,150 --> 00:06:32,228
+światła. Nawet sama idea czasu dla niego
+
+111
+00:06:32,229 --> 00:06:36,628
+nie istnieje. Pozbawiony masy pojazd nie mógłby nawet włączyć świateł
+
+112
+00:06:36,629 --> 00:06:40,619
+przed osiągnięciem "C", ponieważ obiekt bez masy
+
+113
+00:06:40,620 --> 00:06:45,079
+zawsze musi poruszać się z taką prędkością. Taki obiekt
+
+114
+00:06:45,080 --> 00:06:48,788
+nie posiadałby czegoś takiego jak "przed". Jego początek,
+
+115
+00:06:48,789 --> 00:06:53,179
+podróż i koniec są dla niego jednoczesne.
+
+116
+00:06:53,180 --> 00:06:56,339
+Przebycie miliarda lat świetlnych z odległego kwazara
+
+117
+00:06:56,340 --> 00:06:59,508
+może zająć fotonowi miliard lat
+
+118
+00:06:59,509 --> 00:07:02,598
+dla nas. Lecz zajmuje dosłownie zero czasu
+
+119
+00:07:02,599 --> 00:07:07,249
+dla fotonu. I dla takiego fotonu, odległość do nas od kwazara
+
+120
+00:07:07,250 --> 00:07:10,359
+jest dosłownie niczym. Fotony
+
+121
+00:07:10,360 --> 00:07:15,079
+są tym co widzimy. Tym w jaki sposób dowiadujemy się czegokolwiek o naszym położeniu we wszechświecie,
+
+122
+00:07:15,080 --> 00:07:19,378
+a energia jaką przekazują nam od Słońca jest odpowiedzialna za niemal
+
+123
+00:07:19,379 --> 00:07:24,549
+całe życie na Ziemi. Jednak mimo ich zasług,
+
+124
+00:07:24,550 --> 00:07:27,149
+one nie myślą za dużo o sobie.
+
+125
+00:07:27,150 --> 00:07:30,199
+Tak naprawdę, z tego co im wiadomo,
+
+126
+00:07:30,200 --> 00:07:33,609
+nawet nie istnieją. Zewnętrzny obserwator oczywiście
+
+127
+00:07:33,610 --> 00:07:37,089
+widzi je i może je mierzyć jak przemieszczają się z prędkością światła,
+
+128
+00:07:37,090 --> 00:07:41,179
+przy czym nic ich nie wyprzedza ani nie dogania. Tak więc, jeśli poruszalibyśmy się
+
+129
+00:07:41,180 --> 00:07:44,439
+z prędkością światła, musielibyśmy być pozbawieni masy,
+
+130
+00:07:44,440 --> 00:07:45,709
+jak foton,
+
+131
+00:07:45,710 --> 00:07:49,569
+i nie zauważylibyśmy niczego, bo dla nas niczego by nie było,
+
+132
+00:07:49,570 --> 00:07:54,259
+i nie byłoby by czasu by to zobaczyć. Inni widzieliby nas nie robiących nic,
+
+133
+00:07:54,260 --> 00:07:58,629
+ale my nie bylibyśmy świadomi siebie. Nie moglibyśmy włączyć świateł,
+
+134
+00:07:58,630 --> 00:08:03,479
+ponieważ czulibyśmy się dokładnie jak przed poczęciem.
+
+135
+00:08:03,480 --> 00:08:08,399
+Lecz dlaczego prędkość światła jest taka jaka jest?
+
+136
+00:08:08,400 --> 00:08:12,009
+To znaczy, to jest droga jaką światło przebywa
+
+137
+00:08:12,010 --> 00:08:15,119
+w ciągu sekundy. Czy mogłoby to być
+
+138
+00:08:15,120 --> 00:08:19,909
+tyle lub tyle lub tyle? Czy może istnieć wszechświat w którym światło
+
+139
+00:08:19,910 --> 00:08:20,499
+porusza się
+
+140
+00:08:20,500 --> 00:08:24,709
+tak szybko? Tak, mógłby.
+
+141
+00:08:24,710 --> 00:08:28,309
+Tak więc, dlaczego świat w którym żyjemy,
+
+142
+00:08:28,310 --> 00:08:32,699
+jest taki jak jest? Dlaczego prawa
+
+143
+00:08:32,700 --> 00:08:35,849
+fizyki są takie jakie są? Zamiast
+
+144
+00:08:35,850 --> 00:08:38,928
+innych jakie mogłyby być?
+
+145
+00:08:38,929 --> 00:08:43,609
+Jest wiele teorii na ten temat, jednak jak na razie nie jesteśmy pewni jak
+
+146
+00:08:43,610 --> 00:08:46,939
+mielibyśmy je sprawdzić, ponieważ jesteśmy uwięzieni w tym
+
+147
+00:08:46,940 --> 00:08:50,969
+wszechświecie i nie wiemy jeszcze jak tworzyć inne
+
+148
+00:08:50,970 --> 00:08:55,269
+do eksperymentów. Ale być może jest coś, co odkryliśmy co
+
+149
+00:08:55,270 --> 00:08:56,199
+zmusza
+
+150
+00:08:56,200 --> 00:08:59,999
+rzeczywistość do bycia taką jaką jest.
+
+151
+00:09:00,000 --> 00:09:04,109
+Albo może nic tego nie wymusza, ale są
+
+152
+00:09:04,110 --> 00:09:07,559
+różne wszechświaty? Każdy jeden możliwy wszechświat
+
+153
+00:09:07,560 --> 00:09:11,769
+istnieje. Jedne zapadają się natychmiast, inne są puste i ciemne,
+
+154
+00:09:11,770 --> 00:09:15,449
+w niektórych jesteś ty oglądający ten film,
+
+155
+00:09:15,450 --> 00:09:17,789
+ale Ziemia ma dwa Słońca.
+
+156
+00:09:17,790 --> 00:09:21,479
+Dla tych z was, którzy są w tym wszechświecie bardzo mylące musi być
+
+157
+00:09:21,480 --> 00:09:22,099
+to co właśnie powiedziałem,
+
+158
+00:09:22,100 --> 00:09:25,689
+ponieważ wasza Ziemia ma dwa Słońca. Ale istotne jest to, że multiwszechświat
+
+159
+00:09:25,690 --> 00:09:29,579
+jest dość eleganckim wyjaśnieniem. A może
+
+160
+00:09:29,580 --> 00:09:33,399
+wszechświaty rodzą się w czarnych dziurach?
+
+161
+00:09:33,400 --> 00:09:37,879
+Wszechświaty których prawa fizyki tylko delikatnie różnią się od tych
+
+162
+00:09:37,880 --> 00:09:39,169
+które posiada jego wszechświat macierzysty?
+
+163
+00:09:39,170 --> 00:09:42,969
+Tym sposobem wszechświaty mogą się rozmnażać na prawach naturalnej selekcji.
+
+164
+00:09:42,970 --> 00:09:46,569
+Wszechświat, który umożliwia tworzenie czarnych dziur
+
+165
+00:09:46,570 --> 00:09:49,689
+będzie miał więcej wszechświatów potomnych,
+
+166
+00:09:49,690 --> 00:09:52,709
+tworząc wszechświaty, które częściej tworzą czarne dziury,
+
+167
+00:09:52,710 --> 00:09:57,009
+jak być może ten w którym jesteśmy. A przy okazji, szczęśliwie wszechświat,
+
+168
+00:09:57,010 --> 00:09:58,229
+umożliwiający tworzenie czarnych dziur,
+
+169
+00:09:58,230 --> 00:10:01,588
+umożliwia tworzenie Słońca i nas.
+
+170
+00:10:01,589 --> 00:10:05,139
+A może - to moja ulubiona teoria -
+
+171
+00:10:05,140 --> 00:10:09,469
+może żyjemy w symulacji. A ktoś lub coś innego
+
+172
+00:10:09,470 --> 00:10:11,079
+zaprogramowało ją.
+
+173
+00:10:11,080 --> 00:10:13,699
+To brzmi jak science-fiction.
+
+174
+00:10:13,700 --> 00:10:16,949
+Pewnie. Ale podoba mi się jak wyjaśnia to Julian Baggini.
+
+175
+00:10:16,950 --> 00:10:21,789
+"Świnia, która chce być zjedzona". Jeśli założymy, że w pewnym momencie w przyszłości,
+
+176
+00:10:21,790 --> 00:10:25,499
+wirtualna rzeczywistość może stać się wystarczająco dokładna, tak, że nawet jej mieszkańcy
+
+177
+00:10:25,500 --> 00:10:29,219
+nie są świadomi, że są w symulacji, i jeśli założymy
+
+178
+00:10:29,220 --> 00:10:32,519
+że stworzenie takiej symulacji jest
+
+179
+00:10:32,520 --> 00:10:36,209
+dużo łatwiejsze niż tworzenie prawdziwych istot,
+
+180
+00:10:36,210 --> 00:10:39,369
+które potrzebują całego wszechświata i miliardów lat,
+
+181
+00:10:39,370 --> 00:10:45,249
+Cóż, łatwo wywnioskować że znacznie znacznie więcej symulowanych
+
+182
+00:10:45,250 --> 00:10:48,769
+nieprawdziwych istot może być stworzonych, niż istot prawdziwych.
+
+183
+00:10:48,770 --> 00:10:52,239
+Powiedzmy w proporcji 999 symulacji do jednej
+
+184
+00:10:52,240 --> 00:10:54,039
+prawdziwej.
+
+185
+00:10:54,040 --> 00:10:57,949
+Co jest bardziej prawdopodobne? Że jesteś częścią 0,1%
+
+186
+00:10:57,950 --> 00:11:03,699
+prawdziwych czy częścią 99,9%
+
+187
+00:11:03,700 --> 00:11:06,119
+tych którzy myślą że są prawdziwi, ale
+
+188
+00:11:06,120 --> 00:11:11,349
+nie są. Być może żyjemy w symulacji stworzonej przez jakieś inne
+
+189
+00:11:11,350 --> 00:11:14,619
+inteligentne gatunki. John Gribbin
+
+190
+00:11:14,620 --> 00:11:18,289
+jednak, zauważa sposób na obalenie tej teorii:
+
+191
+00:11:18,290 --> 00:11:21,399
+liczby niewymierne. Jak pierwiastek kwadratowy z 2.
+
+192
+00:11:21,400 --> 00:11:24,889
+albo pi. Te liczby
+
+193
+00:11:24,890 --> 00:11:28,099
+nie kończą się. To znaczy zawierają niekończący się
+
+194
+00:11:28,100 --> 00:11:32,369
+niepowtarzalny ciąg cyfr, który oznacza, że ktokolwiek zaprogramował
+
+195
+00:11:32,370 --> 00:11:33,409
+ten wszechświat mógł
+
+196
+00:11:33,410 --> 00:11:36,409
+wpasować wszystko w, powiedzmy, liczbę pi.
+
+197
+00:11:36,410 --> 00:11:41,129
+Więc, jeśli w naszym nieskończonym pościgu za obliczeniem kolejnych kolejnych kolejnych
+
+198
+00:11:41,130 --> 00:11:42,309
+cyfr liczby pi,
+
+199
+00:11:42,310 --> 00:11:46,489
+kiedykolwiek dojdziemy do powtarzającej się serii
+
+200
+00:11:46,490 --> 00:11:51,259
+lub do końca, to może być dobry znak na to, że żyjemy
+
+201
+00:11:51,260 --> 00:11:55,969
+w symulacji. Taki wszechświat nie jest prawdziwy.
+
+202
+00:11:55,970 --> 00:11:59,199
+Jednak jak dotąd, nie doszliśmy do tego i nie sądzę, żebyśmy kiedykolwiek do tego doszli.
+
+203
+00:11:59,200 --> 00:12:02,919
+Tak więc, dziękuję wam, liczby niewymierne, za utrzymywanie
+
+204
+00:12:02,920 --> 00:12:04,958
+świata realnym.
+
+205
+00:12:04,959 --> 00:12:06,118
+I jak zawsze,
+
+206
+00:12:06,119 --> 00:12:07,859
+dzięki na oglądanie.
+

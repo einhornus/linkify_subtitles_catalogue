@@ -1,0 +1,1026 @@
+1
+00:00:03,770 --> 00:00:08,989
+Früher musste jeder Mensch jagen oder sammeln, um zu überleben.  Aber Menschen sind intelligent faul, also haben
+
+2
+00:00:08,990 --> 00:00:13,679
+wir Werkzeuge entwickelt, um unsere Arbeit zu erleichtern.  Von Stöcken über Pflüge bis hin zu Traktoren haben wir uns
+
+3
+00:00:13,680 --> 00:00:18,139
+von allen, die Lebensmittel zubereiten müssen, zu einer modernen Landwirtschaft entwickelt, in der fast niemand Lebensmittel zubereiten muss
+
+4
+00:00:18,140 --> 00:00:20,399
+– und dennoch haben wir immer noch Überfluss.
+
+5
+00:00:20,400 --> 00:00:24,079
+Natürlich ist es nicht nur Landwirtschaft, es ist
+alles.  Wir haben die letzten
+
+6
+00:00:24,080 --> 00:00:29,579
+Jahrtausende damit verbracht, Werkzeuge zu bauen, um körperliche
+Arbeit aller Art zu reduzieren.  Das sind mechanische Muskeln.
+
+7
+00:00:29,580 --> 00:00:34,139
+Stärker, zuverlässiger und unermüdlicher
+als menschliche Muskeln es je sein könnten.
+
+8
+00:00:34,140 --> 00:00:38,659
+Und das ist gut so.  Das Ersetzen menschlicher Arbeit
+durch mechanische Muskeln gibt den Menschen die Freiheit, sich zu spezialisieren,
+
+9
+00:00:38,660 --> 00:00:44,369
+und das lässt alle besser dran – sogar diejenigen, die
+noch körperliche Arbeit verrichten.  So
+
+10
+00:00:44,370 --> 00:00:46,609
+wachsen Volkswirtschaften und der Lebensstandard steigt.
+
+11
+00:00:46,610 --> 00:00:51,229
+Einige Leute haben sich darauf spezialisiert, Programmierer
+und Ingenieure zu werden, deren Aufgabe es ist, mechanische Köpfe zu bauen
+
+12
+00:00:51,230 --> 00:00:56,119
+.  So wie mechanische Muskeln die Nachfrage nach menschlicher
+Arbeit verringert haben, so machen mechanische Köpfe
+
+13
+00:00:56,120 --> 00:00:59,099
+menschliche Gehirnarbeit weniger gefragt.
+
+14
+00:00:59,100 --> 00:01:03,808
+Das ist eine wirtschaftliche Revolution.  Sie denken vielleicht,
+wir waren schon einmal hier, aber das sind wir nicht.
+
+15
+00:01:03,809 --> 00:01:05,499
+Diesmal ist es anders.
+
+16
+00:01:05,500 --> 00:01:07,129
+## Körperliche Arbeit
+
+17
+00:01:07,130 --> 00:01:11,619
+Wenn Sie an Automatisierung denken, denken Sie wahrscheinlich
+an Folgendes: riesige, maßgefertigte, teure,
+
+18
+00:01:11,620 --> 00:01:16,449
+effiziente, aber wirklich dumme Roboter,
+die für die Welt und ihre eigene Arbeit blind sind.  Sie waren eine
+
+19
+00:01:16,450 --> 00:01:20,449
+beängstigende Art der Automatisierung, aber sie haben
+die Welt nicht erobert, weil sie nur
+
+20
+00:01:20,450 --> 00:01:23,309
+in engen Situationen kosteneffektiv sind.
+
+21
+00:01:23,310 --> 00:01:27,288
+Aber sie sind die alte Art der Automatisierung, das
+ist die neue Art.
+
+22
+00:01:27,289 --> 00:01:28,319
+Lernen Sie Baxter kennen.
+
+23
+00:01:28,320 --> 00:01:32,199
+Im Gegensatz zu diesen Dingen, die qualifizierte
+Bediener und Techniker und Millionen von Dollar erfordern, hat
+
+24
+00:01:32,200 --> 00:01:37,038
+Baxter eine Vision und kann lernen, was
+Sie von ihm wollen, indem er Ihnen dabei zusieht.
+
+25
+00:01:37,039 --> 00:01:41,578
+Und er kostet weniger als das durchschnittliche
+Jahresgehalt eines menschlichen Arbeiters.  Im Gegensatz zu seinen älteren
+
+26
+00:01:41,579 --> 00:01:46,648
+Brüdern ist er nicht auf einen bestimmten
+Job vorprogrammiert, er kann jede Arbeit erledigen, die in
+
+27
+00:01:46,649 --> 00:01:51,398
+Reichweite seiner Arme liegt.  Baxter ist das, was
+man sich als Allzweckroboter vorstellen könnte, und
+
+28
+00:01:51,399 --> 00:01:53,578
+Allzweck ist eine große Sache.
+
+29
+00:01:53,579 --> 00:01:58,848
+Denken Sie an Computer, auch sie begannen als sehr
+kundenspezifisch und sehr teuer, aber als billige
+
+30
+00:01:58,849 --> 00:02:02,748
+Allzweckcomputer auftauchten, wurden sie
+schnell für alles unerlässlich.
+
+31
+00:02:02,749 --> 00:02:07,428
+Ein Allzweckcomputer kann genauso einfach
+Wechselgeld berechnen oder Sitze in einem Flugzeug zuweisen
+
+32
+00:02:07,429 --> 00:02:13,179
+oder ein Spiel spielen oder irgendetwas anderes tun, indem er einfach
+seine Software austauscht.  Und diese enorme Nachfrage nach
+
+33
+00:02:13,180 --> 00:02:18,169
+Computern aller Art macht sie
+jedes Jahr sowohl leistungsfähiger als auch billiger.
+
+34
+00:02:18,170 --> 00:02:23,319
+Baxter ist heute der Computer der 1980er Jahre.
+Er ist nicht der Höhepunkt, sondern der Anfang.  Selbst
+
+35
+00:02:23,320 --> 00:02:27,959
+wenn Baxter langsam ist, sind seine Stromkosten pro Stunde ein paar Cent
+wert, während seine fleischbasierte
+
+36
+00:02:27,960 --> 00:02:32,899
+Konkurrenz einen Mindestlohn kostet.  Ein Zehntel der
+Geschwindigkeit ist immer noch kostengünstig, wenn es ein
+
+37
+00:02:32,900 --> 00:02:36,609
+Hundertstel des Preises ist.  Und obwohl Baxter nicht
+so schlau ist wie einige der anderen Dinge, über die wir
+
+38
+00:02:36,610 --> 00:02:40,599
+sprechen werden, ist er schlau genug, um
+viele Jobs mit geringer Qualifikation zu übernehmen.
+
+39
+00:02:40,600 --> 00:02:45,289
+Und wir haben bereits gesehen, wie dümmere Roboter als
+Baxter Arbeitsplätze ersetzen können.  In neuen Supermärkten
+
+40
+00:02:45,290 --> 00:02:50,539
+, wo früher 30 Menschen waren, überwacht jetzt ein Mensch
+30 Kassierroboter.
+
+41
+00:02:50,540 --> 00:02:54,819
+Oder nehmen Sie die hunderttausenden weltweit beschäftigten Baristas
+?  Da kommt ein Barista-Roboter
+
+42
+00:02:54,820 --> 00:02:59,959
+für sie.  Sicher, vielleicht macht dein Typ den doppelten Mokka-was auch immer
+einfach perfekt und du würdest niemand
+
+43
+00:02:59,960 --> 00:03:05,259
+anderem vertrauen – aber Millionen von Menschen ist das egal
+und sie wollen einfach nur eine anständige Tasse Kaffee.  Oh, und
+
+44
+00:03:05,260 --> 00:03:09,299
+übrigens ist dieser Roboter eigentlich ein riesiges
+Netzwerk von Robotern, die sich merken, wer Sie sind
+
+45
+00:03:09,300 --> 00:03:13,039
+und wie Sie Ihren Kaffee mögen, egal wo
+Sie sind.  Ziemlich bequem.
+
+46
+00:03:13,040 --> 00:03:17,649
+Wir stellen uns den technologischen Wandel als schickes
+neues teures Zeug vor, aber die wirkliche Veränderung ergibt sich
+
+47
+00:03:17,650 --> 00:03:22,359
+daraus, dass das Zeug des letzten Jahrzehnts billiger und
+schneller wird.  Das passiert jetzt mit Robotern
+
+48
+00:03:22,360 --> 00:03:27,229
+.  Und weil ihr mechanischer Verstand
+in der Lage ist, Entscheidungen zu treffen, übertreffen sie
+
+49
+00:03:27,230 --> 00:03:31,729
+Menschen um Jobs auf eine Weise, wie es kein rein mechanischer
+Muskel jemals könnte.
+
+50
+00:03:31,730 --> 00:03:33,669
+## Luddite-Pferde
+
+51
+00:03:33,670 --> 00:03:38,179
+Stellen Sie sich ein Paar Pferde in den frühen 1900er Jahren vor
+, die über Technologie sprechen.  Man befürchtet, dass all
+
+52
+00:03:38,180 --> 00:03:41,169
+diese neuen mechanischen Muskeln Pferde
+überflüssig machen werden.
+
+53
+00:03:41,170 --> 00:03:45,419
+Der andere erinnert ihn daran, dass alles
+bisher ihr Leben einfacher gemacht hat – erinnerst du dich an all
+
+54
+00:03:45,420 --> 00:03:50,209
+die Landarbeit?  Erinnerst du dich daran, wie du von Küste zu Küste
+geeilt bist, um Post auszuliefern?  Erinnerst du dich daran, in die Schlacht zu reiten?
+
+55
+00:03:50,210 --> 00:03:54,929
+Alles schrecklich.  Diese Jobs in der Stadt sind ziemlich bequem, und mit so vielen Menschen in den Städten
+
+56
+00:03:54,930 --> 00:03:57,399
+wird es mehr Jobs für Pferde geben als je zuvor.
+
+57
+00:03:57,400 --> 00:04:00,199
+Selbst wenn dieses Autoding abhebt - könnte er sagen - wird es
+
+58
+00:04:00,200 --> 00:04:02,679
+neue Jobs für Pferde geben, die wir uns nicht vorstellen können.
+
+59
+00:04:02,680 --> 00:04:08,239
+Aber Sie, lieber Zuschauer, von jenseits des Jahres 2000 wissen,
+was passiert ist – es gibt immer noch Arbeitspferde,
+
+60
+00:04:08,240 --> 00:04:13,649
+aber nichts wie früher.  Die Pferdepopulation
+erreichte 1915 ihren Höhepunkt – von diesem Zeitpunkt an war
+
+61
+00:04:13,650 --> 00:04:14,649
+es nur noch ein Rückgang.
+
+62
+00:04:14,650 --> 00:04:18,898
+Es gibt keine Wirtschaftsregel, die besagt, dass
+bessere Technologie mehr bessere Arbeitsplätze
+
+63
+00:04:18,899 --> 00:04:24,598
+für Pferde schafft.  Es klingt schockierend dumm, das überhaupt
+laut auszusprechen, aber tauschen Sie Pferde gegen Menschen
+
+64
+00:04:24,599 --> 00:04:27,388
+und plötzlich denken die Leute, dass es ungefähr
+richtig klingt.
+
+65
+00:04:27,389 --> 00:04:31,459
+So wie mechanische Muskeln Pferde aus
+der Wirtschaft verdrängt haben, werden mechanische Köpfe das
+
+66
+00:04:31,460 --> 00:04:37,098
+Gleiche mit Menschen tun.  Nicht sofort, nicht überall,
+aber in ausreichend großer Zahl und bald genug,
+
+67
+00:04:37,099 --> 00:04:42,098
+dass es ein riesiges Problem werden wird, wenn
+wir nicht vorbereitet sind.  Und wir sind nicht vorbereitet.
+
+68
+00:04:42,099 --> 00:04:46,098
+Sie mögen, wie das zweite Pferd, jetzt auf den
+Stand der Technik blicken und denken, das kann
+
+69
+00:04:46,099 --> 00:04:50,309
+unmöglich Ihren Job ersetzen.  Aber die Technologie
+wird besser, billiger und schneller mit einer Geschwindigkeit, mit der die
+
+70
+00:04:50,310 --> 00:04:52,089
+Biologie nicht mithalten kann.
+
+71
+00:04:52,090 --> 00:04:56,519
+So wie das Auto für das Pferd der Anfang vom Ende war
+, zeigt uns das Auto jetzt
+
+72
+00:04:56,520 --> 00:04:57,709
+die Gestalt der Dinge, die noch kommen werden.
+
+73
+00:04:57,710 --> 00:05:01,998
+## Automobile
+
+74
+00:05:01,999 --> 00:05:05,998
+Selbstfahrende Autos sind nicht die Zukunft: Sie sind
+hier und sie funktionieren.  Selbstfahrende Autos sind
+
+75
+00:05:05,999 --> 00:05:09,418
+Hunderttausende von Kilometern
+entlang der kalifornischen Küste und durch
+
+76
+00:05:09,419 --> 00:05:12,198
+Städte gefahren – alles ohne menschliches Eingreifen.
+
+77
+00:05:12,199 --> 00:05:16,869
+Die Frage ist nicht, ob sie Autos ersetzen,
+sondern wie schnell.  Sie müssen nicht perfekt sein,
+
+78
+00:05:16,870 --> 00:05:22,579
+sie müssen nur besser sein als wir.
+Übrigens töten menschliche
+
+79
+00:05:22,580 --> 00:05:26,978
+Autofahrer allein in den Vereinigten Staaten jedes Jahr 40.000 Menschen mit Autos.
+Angesichts der Tatsache, dass selbstfahrende Autos nicht blinzeln,
+
+80
+00:05:26,979 --> 00:05:30,959
+während der Fahrt keine SMS schreiben, nicht schläfrig
+oder dumm werden, ist es leicht zu sehen, dass sie besser sind
+
+81
+00:05:30,960 --> 00:05:33,778
+als Menschen, weil sie es bereits sind.
+
+82
+00:05:33,779 --> 00:05:39,149
+Selbstfahrende Autos überhaupt als Autos
+zu bezeichnen, ist so, als würde man die ersten Autos als mechanische
+
+83
+00:05:39,150 --> 00:05:44,089
+Pferde bezeichnen.  Autos in all ihren Formen sind so viel
+mehr als Pferde, dass die Verwendung des Namens
+
+84
+00:05:44,090 --> 00:05:48,709
+Ihre Vorstellung davon einschränkt, was sie überhaupt tun können.
+Nennen wir selbstfahrende Autos, was sie wirklich
+
+85
+00:05:48,710 --> 00:05:49,288
+sind:
+
+86
+00:05:49,289 --> 00:05:55,128
+Autos: die Lösung für das Transport-Objekte-von-Punkt-A-nach-Punkt-B-
+Problem.  Herkömmliche Autos haben zufällig die
+
+87
+00:05:55,129 --> 00:05:59,668
+Größe eines Menschen, um Menschen zu transportieren, aber winzige Autos
+können in Lagerhäusern arbeiten und riesige Autos
+
+88
+00:05:59,669 --> 00:06:04,538
+können in Gruben arbeiten.
+Der Transport von Sachen ist wer weiß wie viele Arbeitsplätze, aber die
+
+89
+00:06:04,539 --> 00:06:09,318
+Transportindustrie in den Vereinigten Staaten beschäftigt etwa
+drei Millionen Menschen.  Weltweit hochgerechnet sind das
+
+90
+00:06:09,319 --> 00:06:13,468
+mindestens 70 Millionen Arbeitsplätze
+.
+
+91
+00:06:13,469 --> 00:06:15,269
+Diese Jobs sind vorbei.
+
+92
+00:06:15,270 --> 00:06:19,369
+Das übliche Argument ist, dass die Gewerkschaften dies verhindern
+werden.  Aber die Geschichte ist voll von Arbeitern, die
+
+93
+00:06:19,370 --> 00:06:24,869
+gegen Technologien gekämpft haben, die sie ersetzen würden,
+und die Arbeiter verlieren immer.  Die Wirtschaft
+
+94
+00:06:24,870 --> 00:06:30,388
+gewinnt immer und es gibt enorme Anreize in den
+unterschiedlichsten Branchen, Autos einzuführen.
+
+95
+00:06:30,389 --> 00:06:34,748
+Für viele Transportunternehmen macht der
+Mensch etwa ein Drittel ihrer Gesamtkosten aus.  Das sind
+
+96
+00:06:34,749 --> 00:06:39,438
+nur die reinen Gehaltskosten.  Menschen, die
+in ihren Fernverkehrs-Lkw schlafen, kosten Zeit und Geld.
+
+97
+00:06:39,439 --> 00:06:44,068
+Unfälle kosten Geld.  Unachtsamkeit kostet Geld.
+Wenn Sie glauben, dass Versicherungsunternehmen dagegen sein
+
+98
+00:06:44,069 --> 00:06:48,688
+werden, wissen Sie was?  Ihr perfekter Fahrer ist einer
+, der seine kleinen Prämien zahlt und nie
+
+99
+00:06:48,689 --> 00:06:50,098
+in einen Unfall gerät.
+
+100
+00:06:50,099 --> 00:06:54,109
+Die Autos kommen und sie sind der erste
+Ort, an dem die meisten Menschen wirklich sehen werden, wie die
+
+101
+00:06:54,110 --> 00:06:58,489
+Roboter die Gesellschaft verändern.  Aber es gibt viele
+andere Orte in der Wirtschaft, an denen das
+
+102
+00:06:58,490 --> 00:07:00,859
+Gleiche passiert, nur weniger sichtbar.
+
+103
+00:07:00,860 --> 00:07:03,939
+So geht es mit Autos, so geht es mit allem.
+
+104
+00:07:03,940 --> 00:07:06,579
+## Die Form der Zukunft
+
+105
+00:07:06,580 --> 00:07:10,739
+Es ist leicht, sich Autos und Baxters anzusehen und zu
+denken: Die Technologie hat schon immer geringqualifizierte
+
+106
+00:07:10,740 --> 00:07:15,399
+Jobs beseitigt, die wir sowieso nicht wollen
+.  Sie werden qualifizierter und arbeiten besser
+
+107
+00:07:15,400 --> 00:07:17,899
+ausgebildet – so wie sie es immer getan haben.
+
+108
+00:07:17,900 --> 00:07:22,579
+Selbst wenn man das Problem ignoriert, hundert Millionen
+zusätzliche Menschen durch die Hochschulbildung zu
+
+109
+00:07:22,580 --> 00:07:27,008
+drängen, ist die Büroarbeit auch kein sicherer Hafen.
+Wenn Ihr Job darin besteht, vor einem Bildschirm zu sitzen
+
+110
+00:07:27,009 --> 00:07:31,109
+und zu tippen und zu klicken – wie Sie es vielleicht
+gerade jetzt tun sollten – kommen die Bots
+
+111
+00:07:31,110 --> 00:07:32,538
+auch für Sie, Kumpel.
+
+112
+00:07:32,539 --> 00:07:37,598
+Software-Bots sind sowohl immateriell als auch viel
+schneller und billiger als physische Roboter.
+
+113
+00:07:37,599 --> 00:07:41,959
+Da Angestellte aus Unternehmenssicht
+sowohl teurer als auch
+
+114
+00:07:41,960 --> 00:07:46,128
+zahlreicher sind, ist der Anreiz, ihre Arbeit zu automatisieren,
+größer als bei geringqualifizierter Arbeit.
+
+115
+00:07:46,129 --> 00:07:51,008
+Und genau dafür sind
+Automatisierungsingenieure da.  Dies sind erfahrene Programmierer, deren
+
+116
+00:07:51,009 --> 00:07:54,758
+gesamte Aufgabe darin besteht, Ihren Job durch einen Software-Bot zu ersetzen
+.
+
+117
+00:07:54,759 --> 00:07:58,938
+Sie denken vielleicht, dass selbst der klügste Automatisierungsingenieur der Welt
+niemals einen Bot bauen könnte, um Ihre Arbeit zu erledigen
+
+118
+00:07:58,939 --> 00:08:03,668
+– und Sie könnten Recht haben – aber die
+Schneide der Programmierung sind nicht superkluge Programmierer
+
+119
+00:08:03,669 --> 00:08:08,588
+, die Bots schreiben, sondern superkluge Programmierer
+, die Bots schreiben  die sich selbst beibringen,
+
+120
+00:08:08,589 --> 00:08:11,748
+Dinge zu tun, die der Programmierer ihnen niemals beibringen könnte
+.
+
+121
+00:08:11,749 --> 00:08:15,528
+Wie das funktioniert, geht weit über den Rahmen
+dieses Videos hinaus, aber unter dem Strich gibt es nur
+
+122
+00:08:15,529 --> 00:08:20,248
+begrenzte Möglichkeiten, einem Bot eine Menge Dinge
+zu zeigen, die er tun muss, ihm eine Menge richtig gemachter
+
+123
+00:08:20,249 --> 00:08:23,968
+Dinge zu zeigen, und er kann herausfinden, wie es geht  die
+zu erledigende Arbeit.
+
+124
+00:08:23,969 --> 00:08:28,098
+Selbst mit nur einem Ziel und ohne Wissen darüber
+, wie es geht, können die Bots noch lernen.  Nehmen Sie den
+
+125
+00:08:28,099 --> 00:08:33,678
+Aktienmarkt, der in vielerlei Hinsicht
+kein menschliches Unterfangen mehr ist.  Es sind meistens Bots, die sich
+
+126
+00:08:33,679 --> 00:08:38,158
+selbst beigebracht haben, Aktien zu handeln, Aktien
+mit anderen Bots zu handeln, die sich das selbst beigebracht haben.
+
+127
+00:08:38,159 --> 00:08:42,038
+Infolgedessen ist das Parkett der New Yorker
+Börse nicht mehr mit Händlern gefüllt, die ihrer
+
+128
+00:08:42,039 --> 00:08:44,779
+täglichen Arbeit nachgehen, es ist größtenteils ein Fernsehgerät.
+
+129
+00:08:44,780 --> 00:08:48,969
+Bots haben also den Markt gelernt und Bots haben
+gelernt zu schreiben.  Wenn Sie in letzter Zeit eine Zeitung zur
+
+130
+00:08:48,970 --> 00:08:53,239
+Hand genommen haben, haben Sie wahrscheinlich bereits eine Geschichte gelesen,
+die von einem Bot geschrieben wurde.  Es gibt Unternehmen,
+
+131
+00:08:53,240 --> 00:08:57,939
+die Bots beibringen, alles zu schreiben:
+Sportgeschichten, TPS-Berichte, sagen wir sogar, diese
+
+132
+00:08:57,940 --> 00:08:59,729
+Quartalsberichte, die Sie bei der Arbeit schreiben.
+
+133
+00:08:59,730 --> 00:09:03,679
+Papierkram, Entscheidungsfindung, Schreiben –
+viel menschliche Arbeit fällt in diese Kategorie,
+
+134
+00:09:03,680 --> 00:09:09,509
+und die Nachfrage nach menschlicher Metallarbeit in diesen
+Bereichen ist rückläufig.  Aber sicher sind die
+
+135
+00:09:09,510 --> 00:09:11,999
+Berufe sicher vor Bots?  Ja?
+
+136
+00:09:12,000 --> 00:09:15,539
+## Professionelle Bots
+
+137
+00:09:15,540 --> 00:09:19,889
+Wenn Sie an „Anwalt“ denken, denken Sie leicht
+an Gerichtsverfahren.  Aber der Großteil der Anwälte besteht tatsächlich
+
+138
+00:09:19,890 --> 00:09:24,379
+darin, juristische Dokumente zu entwerfen, den wahrscheinlichen
+Ausgang und die Auswirkungen von Gerichtsverfahren vorherzusagen, und etwas, das
+
+139
+00:09:24,380 --> 00:09:28,729
+als „Discovery“ bezeichnet wird, bei dem Kisten mit
+Papierkram auf die Anwälte geworfen werden und sie
+
+140
+00:09:28,730 --> 00:09:32,609
+das Muster oder das eine ausfindig machen müssen  -Platzieren Sie die
+Transaktion unter allem.
+
+141
+00:09:32,610 --> 00:09:38,699
+Dies kann Bot-Arbeit sein.  Insbesondere Discovery
+ist in vielen Kanzleien bereits keine menschliche Aufgabe.
+
+142
+00:09:38,700 --> 00:09:42,419
+Nicht weil es keinen Papierkram zu erledigen
+gibt, es gibt mehr davon denn je, sondern weil
+
+143
+00:09:42,420 --> 00:09:46,719
+clevere Recherche-Bots Millionen
+von E-Mails, Memos und Konten in Stunden statt
+
+144
+00:09:46,720 --> 00:09:51,749
+Wochen durchgehen – was menschliche Forscher
+nicht nur in Bezug auf Kosten und Zeit erdrückt  , am
+
+145
+00:09:51,750 --> 00:09:56,809
+wichtigsten, Genauigkeit.  Bots werden nicht schläfrig, wenn
+sie eine Million E-Mails lesen.
+
+146
+00:09:56,810 --> 00:10:01,339
+Aber das ist das Einfache: IBM hat einen Bot
+namens Watson: Sie haben vielleicht gesehen, wie er im Fernsehen
+
+147
+00:10:01,340 --> 00:10:05,589
+Menschen bei Jeopardy zerstört hat – aber das war
+nur ein lustiges Nebenprojekt für ihn.
+
+148
+00:10:05,590 --> 00:10:09,809
+Watsons Hauptaufgabe ist es, der beste
+Arzt der Welt zu sein: zu verstehen, was die Leute
+
+149
+00:10:09,810 --> 00:10:14,249
+in ihren eigenen Worten sagen, und genaue
+Diagnosen zurückzugeben.  Und das tut er bereits bei
+
+150
+00:10:14,250 --> 00:10:17,709
+Slone-Kettering, indem er Ratschläge zur Behandlung von Lungenkrebs gibt
+.
+
+151
+00:10:17,710 --> 00:10:21,699
+Genauso wie Auto nicht perfekt sein müssen – sie
+müssen nur weniger Fehler machen als Menschen
+
+152
+00:10:21,700 --> 00:10:23,929
+– gilt dasselbe für Doctor Bots.
+
+153
+00:10:23,930 --> 00:10:28,099
+Menschliche Ärzte sind keineswegs perfekt – die
+Häufigkeit und Schwere von Fehldiagnosen sind
+
+154
+00:10:28,100 --> 00:10:33,239
+erschreckend – und menschliche Ärzte sind
+im Umgang mit der komplizierten Krankengeschichte eines Menschen stark eingeschränkt
+
+155
+00:10:33,240 --> 00:10:37,939
+.  Jedes Medikament
+und die Wechselwirkung jedes Medikaments mit jedem anderen
+
+156
+00:10:37,940 --> 00:10:40,939
+Medikament zu verstehen, liegt außerhalb des menschlichen Erkenntnisvermögens.
+
+157
+00:10:40,940 --> 00:10:45,449
+Vor allem, wenn es Forschungsroboter gibt,
+deren ganze Aufgabe darin besteht, Tausende neuer
+
+158
+00:10:45,450 --> 00:10:47,029
+Medikamente gleichzeitig zu testen.
+
+159
+00:10:47,030 --> 00:10:51,199
+Und menschliche Ärzte können sich nur durch ihre
+eigenen Erfahrungen verbessern.  Doctor Bots können von
+
+160
+00:10:51,200 --> 00:10:54,929
+den Erfahrungen jedes Doctor Bots lernen.  Kann
+die neuesten medizinischen Forschungsergebnisse lesen und
+
+161
+00:10:54,930 --> 00:10:59,189
+alles verfolgen, was mit all seinen Patienten weltweit passiert,
+und Korrelationen herstellen, die
+
+162
+00:10:59,190 --> 00:11:01,759
+sonst unmöglich zu finden wären.
+
+163
+00:11:01,760 --> 00:11:06,349
+Nicht alle Ärzte werden weggehen, aber wenn die Arzt-
+Bots mit Menschen vergleichbar sind und sie
+
+164
+00:11:06,350 --> 00:11:10,849
+nur so weit entfernt sind wie Ihr Telefon, wird der Bedarf
+an Allgemeinmedizinern geringer sein.
+
+165
+00:11:10,850 --> 00:11:15,349
+Fachleute, Angestellte und
+Geringqualifizierte haben also alle Probleme mit
+
+166
+00:11:15,350 --> 00:11:21,259
+der Automatisierung.  Aber vielleicht sind Sie unbeeindruckt, weil
+Sie eine besonders kreative Schneeflocke sind.
+
+167
+00:11:21,260 --> 00:11:23,619
+Rate mal?  Du bist nicht so besonders.
+
+168
+00:11:23,620 --> 00:11:27,679
+## Creative Bots
+
+169
+00:11:27,680 --> 00:11:32,679
+Kreativität mag sich magisch anfühlen, ist es aber nicht.
+Das Gehirn ist eine komplizierte Maschine – vielleicht
+
+170
+00:11:32,680 --> 00:11:36,929
+die komplizierteste Maschine im ganzen
+Universum – aber das hat uns nicht davon abgehalten, zu
+
+171
+00:11:36,930 --> 00:11:38,219
+versuchen, es zu simulieren.
+
+172
+00:11:38,220 --> 00:11:42,049
+Es gibt diese Vorstellung, dass mechanische Köpfe es uns ermöglichen werden, kreative Arbeit zu machen, so wie
+es uns mechanische Muskeln ermöglicht haben, in denkende Berufe zu
+
+173
+00:11:42,050 --> 00:11:45,509
+
+wechseln.
+
+174
+00:11:45,510 --> 00:11:50,449
+Aber selbst wenn wir davon ausgehen, dass der menschliche Geist magisch kreativ ist – das ist es
+nicht, aber nur um der Argumentation willen –, ist die
+
+175
+00:11:50,450 --> 00:11:55,939
+künstlerische Kreativität nicht das, wovon die meisten Jobs
+abhängen.  Die Zahl der Schriftsteller und Dichter
+
+176
+00:11:55,940 --> 00:12:00,629
+und Regisseure und Schauspieler und Künstler, die
+tatsächlich ihren Lebensunterhalt mit ihrer Arbeit verdienen, ist ein winziger,
+
+177
+00:12:00,630 --> 00:12:04,549
+winziger Teil der Erwerbsbevölkerung.  Und
+da es sich um Berufe handelt, die von der
+
+178
+00:12:04,550 --> 00:12:08,609
+Popularität abhängig sind, werden sie immer nur einen sehr kleinen
+Teil der Bevölkerung ausmachen.
+
+179
+00:12:08,610 --> 00:12:12,799
+So etwas wie eine auf Gedichten und Malerei basierende Ökonomie kann es nicht geben
+.
+
+180
+00:12:12,800 --> 00:12:17,269
+Oh, übrigens, diese Musik im Hintergrund
+, die du hörst?  Es wurde von einem Bot geschrieben.
+
+181
+00:12:17,270 --> 00:12:21,789
+Ihr Name ist Emily Howell und sie kann den
+ganzen Tag kostenlos unendlich viel neue Musik schreiben.
+
+182
+00:12:21,790 --> 00:12:25,049
+Und die Leute können den Unterschied zwischen ihr und menschlichen Komponisten nicht erkennen,
+
+183
+00:12:25,050 --> 00:12:26,999
+wenn sie einem Blindtest unterzogen werden.
+
+184
+00:12:27,000 --> 00:12:31,079
+Über künstliche Kreativität zu sprechen, wird
+schnell komisch – was bedeutet das überhaupt?
+
+185
+00:12:31,080 --> 00:12:33,799
+Aber es ist nichtsdestotrotz ein sich entwickelndes Feld.
+
+186
+00:12:33,800 --> 00:12:37,389
+Früher dachten die Leute, dass Schachspielen
+eine einzigartig kreative menschliche Fähigkeit sei, die
+
+187
+00:12:37,390 --> 00:12:43,519
+Maschinen niemals vollbringen könnten, bis sie die
+Besten von uns schlagen.  Und so wird es mit allen menschlichen Talenten gehen.
+
+188
+00:12:43,520 --> 00:12:47,219
+## Fazit
+
+189
+00:12:47,220 --> 00:12:51,219
+Richtig: Das war vielleicht eine Menge zu verarbeiten
+, und Sie sollten es vielleicht ablehnen - es ist
+
+190
+00:12:51,220 --> 00:12:55,609
+leicht, zynisch zu sein gegenüber den endlosen und idiotischen
+Vorhersagen von Zukünften, die es nie gibt.
+
+191
+00:12:55,610 --> 00:13:00,199
+Deshalb ist es wichtig, noch einmal zu betonen, dass
+dieses Zeug keine Science-Fiction ist.  Die Roboter
+
+192
+00:13:00,200 --> 00:13:05,529
+sind gerade hier.
+In Labors und Lagern
+
+193
+00:13:05,530 --> 00:13:07,469
+auf der ganzen Welt gibt es eine erschreckende Menge an Arbeitsautomatisierung.
+
+194
+00:13:07,470 --> 00:13:12,949
+Wir haben schon früher wirtschaftliche
+Revolutionen erlebt, aber die Roboterrevolution ist anders.
+
+195
+00:13:12,950 --> 00:13:17,989
+Pferde sind jetzt nicht arbeitslos, weil
+sie als Spezies faul geworden sind, sie sind arbeitslos.
+
+196
+00:13:17,990 --> 00:13:21,439
+Es gibt wenig Arbeit, die ein Pferd leisten kann,
+um seinen Unterstand und sein Heu zu bezahlen.
+
+197
+00:13:21,440 --> 00:13:26,619
+Und viele aufgeweckte, vollkommen fähige Menschen
+werden das neue Pferd finden:
+
+198
+00:13:26,620 --> 00:13:28,219
+ohne eigenes Verschulden arbeitsunfähig.
+
+199
+00:13:28,220 --> 00:13:33,009
+Aber wenn Sie immer noch glauben, dass neue Jobs uns retten werden
+: Hier ist ein letzter Punkt, den Sie berücksichtigen sollten.  Die
+
+200
+00:13:33,010 --> 00:13:38,619
+US-Volkszählung von 1776 erfasste nur wenige Arten
+von Jobs.  Jetzt gibt es Hunderte von Arten von
+
+201
+00:13:38,620 --> 00:13:42,869
+Jobs, aber die neuen machen keinen bedeutenden
+Teil der Erwerbsbevölkerung aus.
+
+202
+00:13:42,870 --> 00:13:46,879
+Hier ist die Liste der Jobs, geordnet nach der Anzahl
+der Personen, die sie ausüben – es ist eine ernüchternde
+
+203
+00:13:46,880 --> 00:13:52,369
+Liste mit der Transportbranche an der
+Spitze.  Weiter nach unten: Alle diese Arbeiten existierten
+
+204
+00:13:52,370 --> 00:13:58,449
+in irgendeiner Form vor hundert Jahren, und fast
+alle von ihnen sind Ziele für die Automatisierung.  Erst
+
+205
+00:13:58,450 --> 00:14:02,659
+bei Platz 33 der Liste gibt es
+endlich etwas Neues.
+
+206
+00:14:02,660 --> 00:14:07,339
+Denken Sie nicht, dass jeder Barista oder Angestellter seinen Job verlieren muss, bevor die Dinge ein Problem darstellen.
+
+207
+00:14:07,340 --> 00:14:10,009
+Die Arbeitslosenquote während der Weltwirtschaftskrise
+betrug 25 %.
+
+208
+00:14:10,010 --> 00:14:17,359
+Diese obige Liste entspricht 45 % der Belegschaft.  Gerade das,
+worüber wir heute gesprochen haben, das Zeug, das
+
+209
+00:14:17,360 --> 00:14:22,519
+bereits funktioniert, kann uns ziemlich bald über diese Zahl bringen
+.  Und da
+
+210
+00:14:22,520 --> 00:14:28,209
+neue Arten von Arbeit selbst in unserem modernen technologischen Wunderland
+keinen bedeutenden Teil der Wirtschaft ausmachen, ist
+
+211
+00:14:28,210 --> 00:14:29,989
+dies ein großes Problem.
+
+212
+00:14:29,990 --> 00:14:34,869
+In diesem Video geht es nicht darum, wie schlecht Automatisierung ist, sondern darum,
+dass Automatisierung unvermeidlich ist.  Es ist
+
+213
+00:14:34,870 --> 00:14:39,959
+ein Werkzeug, um mit wenig Aufwand Fülle zu produzieren.
+Wir müssen jetzt darüber nachdenken, was zu
+
+214
+00:14:39,960 --> 00:14:44,519
+tun ist, wenn große Teile der Bevölkerung
+unverschuldet arbeitslos werden.
+
+215
+00:14:44,520 --> 00:14:49,220
+Was in einer Zukunft zu tun ist, in der sich Menschen für die meisten
+Jobs nicht bewerben müssen.
+

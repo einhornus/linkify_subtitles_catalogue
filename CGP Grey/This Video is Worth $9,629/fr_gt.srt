@@ -1,0 +1,284 @@
+1
+00:00:00,000 --> 00:00:05,459
+Avant le chargement de cette vidéo, vous avez probablement regardé une annonce et/ou une annonce apparaîtra à peu près...
+
+2
+00:00:05,460 --> 00:00:06,359
+maintenant.
+
+3
+00:00:06,360 --> 00:00:08,899
+Comment cette annonce exacte s'est-elle retrouvée sur cette vidéo ?
+
+4
+00:00:08,900 --> 00:00:12,839
+Et, ce que vous voulez vraiment savoir, combien d'argent ces choses rapportent-elles ?
+
+5
+00:00:12,840 --> 00:00:14,899
+D'accord, il y a trois joueurs dans ce jeu.
+
+6
+00:00:14,900 --> 00:00:21,079
+Les créateurs qui créent des vidéos, les annonceurs qui font les publicités et YouTube, qui joue le rôle d'entremetteur entremetteur qui fait le match.
+
+7
+00:00:21,080 --> 00:00:26,739
+Maintenant, contrairement aux vieux médias mourants où un mec dans une pièce pouvait placer des publicités sur un contenu connu prévisible à un horaire insouciant,
+
+8
+00:00:26,740 --> 00:00:32,239
+YouTube ne fonctionne pas comme ça.  Ça ne peut pas fonctionner comme ça, car sur YouTube, il n'y a pas d'horaire.
+
+9
+00:00:32,240 --> 00:00:35,139
+À tout moment, une vidéo virale sauvage peut apparaître.
+
+10
+00:00:35,140 --> 00:00:39,359
+Au cours d'une journée normale, 65 années de vidéo sont téléchargées sur YouTube,
+
+11
+00:00:39,360 --> 00:00:42,819
+et les gens regardent un milliard d'heures de vidéo.
+
+12
+00:00:42,820 --> 00:00:46,979
+C'est une cascade sans fin de contenu aléatoire qui ne cesse de croître.
+
+13
+00:00:46,980 --> 00:00:52,259
+Embaucher suffisamment d'humains pour catégoriser toutes ces vidéos et y faire correspondre les publicités serait impossible.
+
+14
+00:00:52,260 --> 00:00:53,999
+C'est un travail pour les bots.
+
+15
+00:00:54,000 --> 00:01:00,319
+Au moment où chaque nouvelle vidéo est téléchargée, les bots de YouTube se mettent au travail, regardent le titre, les mots-clés, les légendes, les commentaires, la controverse, le
+
+16
+00:01:00,320 --> 00:01:04,779
+tout pour deviner au mieux à quelle catégorie elle appartient.
+
+17
+00:01:04,780 --> 00:01:12,239
+Pendant ce temps, les annonceurs disent à leur  propres bots sur quelle catégorie de vidéos ils veulent que leurs publicités soient diffusées et quel type éviter.
+
+18
+00:01:12,240 --> 00:01:19,599
+Et c'est là que YouTube gagne son argent : entre le moment où vous cliquez sur une vidéo et sa lecture, un robot YouTube organise une enchère,
+
+19
+00:01:19,600 --> 00:01:26,759
+annonçant les catégories dans lesquelles il suppose que la vidéo se trouve, ouvrant la parole à tous les robots annonceurs intéressés pour placer leurs offres.  .
+
+20
+00:01:26,760 --> 00:01:32,739
+Le bot annonceur gagnant est celui avec l'annonce qui rapportera très probablement à YouTube et au créateur le plus d'argent à ce moment-là.
+
+21
+00:01:32,740 --> 00:01:37,319
+Mais ce n'est pas nécessairement le plus offrant - différentes annonces paient de différentes manières.
+
+22
+00:01:37,320 --> 00:01:38,199
+Par exemple,
+
+23
+00:01:38,200 --> 00:01:43,479
+les annonces vidéo désactivables, l'annonceur ne paie pas si le spectateur saute dès qu'il le peut.
+
+24
+00:01:43,480 --> 00:01:47,259
+L'annonceur ne paie que si son annonce est cliquée ou regardée.
+
+25
+00:01:47,260 --> 00:01:50,679
+Une enchère super élevée ne signifie rien si l'annonce est super ennuyeuse.
+
+26
+00:01:50,680 --> 00:01:53,899
+Aucun clic n'équivaut à aucun dollar pour YouTube ou le créateur.
+
+27
+00:01:53,900 --> 00:02:00,019
+Il y a donc un parti pris contre l'ennuyeux : le bot commissaire-priseur préférera une enchère plus basse pour une annonce avec un taux de clics plus élevé,
+
+28
+00:02:00,020 --> 00:02:03,319
+qu'une enchère plus élevée pour une annonce avec un taux de clics plus faible.
+
+29
+00:02:03,320 --> 00:02:05,719
+Mais ennuyeux est dans l'œil du spectateur,
+
+30
+00:02:05,720 --> 00:02:08,999
+donc en plus des bots de YouTube essayant de deviner de quoi parle la vidéo,
+
+31
+00:02:09,000 --> 00:02:12,159
+il y a des bots qui essaient de deviner de quoi parle le spectateur.
+
+32
+00:02:12,160 --> 00:02:18,299
+En examinant leur historique de surveillance, leur appareil et leur activité pour essayer de deviner leur âge, leurs chromosomes, leurs revenus, leur emplacement et leurs intérêts.
+
+33
+00:02:18,300 --> 00:02:21,179
+Ces informations font également partie de l'enchère,
+
+34
+00:02:21,180 --> 00:02:27,199
+et les annonceurs peuvent demander à leurs robots de n'enchérir que sur des données démographiques spécifiques dans des emplacements spécifiques dans des catégories spécifiques,
+
+35
+00:02:27,200 --> 00:02:29,199
+et uniquement jusqu'à des montants spécifiques.
+
+36
+00:02:29,200 --> 00:02:33,999
+Donc, quelle que soit l'annonce que vous avez vue avant cette vidéo, elle n'avait pas prévu d'être là, c'était le résultat de
+
+37
+00:02:34,000 --> 00:02:40,159
+suppositions de robots sur la vidéo, et de suppositions de robots sur vous, et de soumissions de robots pour attirer votre attention à cette milliseconde exacte.
+
+38
+00:02:40,160 --> 00:02:46,479
+Regardez des vidéos de cette chaîne sur l'appareil d'une personne démographiquement différente et vous verrez différents types d'annonces.
+
+39
+00:02:46,480 --> 00:02:49,399
+Vous devriez l'essayer avec cette vidéo sur au moins deux ou trois ou quatre...
+
+40
+00:02:49,400 --> 00:02:51,419
+Regardez, regardez cette vidéo sur beaucoup d'appareils différents.
+
+41
+00:02:51,420 --> 00:02:51,979
+Quoi qu'il en soit,
+
+42
+00:02:51,980 --> 00:02:55,999
+si vous voulez savoir combien les annonceurs paient YouTube et les créateurs, il n'y a pas de réponse unique.
+
+43
+00:02:56,000 --> 00:02:59,499
+Tout est une enchère instantanée et varie énormément selon la catégorie de vidéo,
+
+44
+00:02:59,500 --> 00:03:03,999
+les téléspectateurs, la période de l'année, le budget publicitaire, le nombre d'enchères qui se déroulent à ce moment précis
+
+45
+00:03:04,000 --> 00:03:05,039
+et leur taux de remplissage.
+
+46
+00:03:05,040 --> 00:03:08,579
+C'est des millions de matches par minute d'offre et de demande.
+
+47
+00:03:08,580 --> 00:03:13,859
+Les chaînes avec des données démographiques prisées peuvent gagner cinq fois plus par vue que les autres chaînes.
+
+48
+00:03:13,860 --> 00:03:15,319
+Mais...
+
+49
+00:03:15,320 --> 00:03:19,399
+Vous et moi savons tous les deux qu'il y a encore une sorte de nombre moyen.
+
+50
+00:03:19,400 --> 00:03:23,479
+Quelque chose à utiliser comme stade de baseball, et c'est ce que vous voulez savoir.
+
+51
+00:03:23,480 --> 00:03:24,539
+En moyenne,
+
+52
+00:03:24,540 --> 00:03:25,679
+ce nombre,
+
+53
+00:03:25,680 --> 00:03:27,179
+combien de Benjamins ?
+
+54
+00:03:27,180 --> 00:03:30,379
+D'accord, une estimation raisonnable est qu'une vue vaut
+
+55
+00:03:30,380 --> 00:03:30,879
+un quart d'
+
+56
+00:03:30,880 --> 00:03:32,179
+un quart d'un centime,
+
+57
+00:03:32,180 --> 00:03:34,659
+un quart d'un centime, réparti entre YouTube et le créateur.
+
+58
+00:03:34,660 --> 00:03:38,639
+c'est la première fois qu'un centime s'avère une trop grande valeur.
+
+59
+00:03:38,640 --> 00:03:45,119
+Donc, une meilleure façon d'y penser est que 1000 vues génèrent environ 2,50 $ de dollars publicitaires.
+
+60
+00:03:45,120 --> 00:03:49,259
+YouTube partage ensuite cet argent entre le créateur et eux-mêmes, cinquante-cinq à quarante-cinq
+
+61
+00:03:49,260 --> 00:03:52,459
+environ 1,40 $ pour le créateur et 1,10 $ pour YouTube.
+
+62
+00:03:52,460 --> 00:03:54,539
+Ou, si vous voulez voir grand,
+
+63
+00:03:54,540 --> 00:03:59,799
+chaque million de vues coûte 1 400 $ pour le créateur et 1 100 $ pour YouTube.
+
+64
+00:03:59,800 --> 00:04:00,299
+encore une fois,
+
+65
+00:04:00,300 --> 00:04:01,419
+en moyenne.
+
+66
+00:04:01,420 --> 00:04:06,359
+Certaines chaînes peuvent partager 50 cents pour mille ou 4,50 pour mille.
+
+67
+00:04:06,360 --> 00:04:07,839
+Tout dépend de l'enchère.
+
+68
+00:04:07,840 --> 00:04:09,079
+C'est ainsi que cela fonctionne.
+
+69
+00:04:09,080 --> 00:04:14,459
+Un Niagara de contenu, trié et vendu par des bots, à des bots, pour être regardé par les humains.
+
+70
+00:04:14,460 --> 00:04:17,759
+* La musique de fond passe au premier plan *
+
+71
+00:04:17,760 --> 00:04:34,340
+* Fin de la musique d'ardoise *
+

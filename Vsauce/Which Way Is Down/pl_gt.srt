@@ -1,0 +1,1276 @@
+1
+00:00:00,020 --> 00:00:03,199
+Hej, Vsosie.  Michael tutaj.
+
+2
+00:00:03,200 --> 00:00:05,199
+Tu na dole.
+
+3
+00:00:05,200 --> 00:00:07,739
+Ale gdzie jest dół?
+
+4
+00:00:07,740 --> 00:00:14,679
+A ile waży puch?  Puch waży około jednej setnej grama na centymetr sześcienny.
+
+5
+00:00:14,680 --> 00:00:20,239
+Jest lekka i przewiewna, co czyni ją doskonałym źródłem izolacji i wyporności dla ptaków wodnych.
+
+6
+00:00:20,240 --> 00:00:22,939
+Ale jeśli puścisz dół...
+
+7
+00:00:22,940 --> 00:00:25,039
+to upadnie.
+
+8
+00:00:25,040 --> 00:00:26,679
+Więc to jest droga w dół.
+
+9
+00:00:26,680 --> 00:00:29,239
+To jest kierunek, w którym grawitacja przyciąga wszystko.
+
+10
+00:00:29,240 --> 00:00:33,099
+Teraz, dla kogoś po drugiej stronie Ziemi, mój dół to ich góra.
+
+11
+00:00:33,100 --> 00:00:38,519
+Ale gdzie idą spadające rzeczy?  Dlaczego rzeczy spadają?
+
+12
+00:00:38,520 --> 00:00:44,399
+Czy są popychane, ciągnięte, czy może to z powodu podróży w czasie?
+
+13
+00:00:44,400 --> 00:00:49,139
+Po pierwsze: zamieńmy Słońce w czarną dziurę.
+
+14
+00:00:49,140 --> 00:00:55,039
+Możemy to zrobić za pomocą Universe Sandbox 2, ten symulator rozwali Twój umysł.  Kocham to.
+
+15
+00:00:55,040 --> 00:00:59,379
+Tak naprawdę kocham to tak bardzo, że umieściłem kod, aby otrzymać grę za darmo w obecnym Curiosity Box.
+
+16
+00:00:59,380 --> 00:01:02,199
+Jeśli jeszcze nie subskrybujesz skrzynki, tracisz!
+
+17
+00:01:02,200 --> 00:01:06,239
+Dobra, spójrz, na potrzeby tego filmu chcemy Układu Słonecznego.
+
+18
+00:01:06,240 --> 00:01:10,439
+I oto jest.  Zauważ, że wszystko wokół Słońca porusza się dość szybko.
+
+19
+00:01:10,440 --> 00:01:14,719
+To dlatego, że obecnie mamy ustawioną grę tak, że każda sekunda, która nam upływa
+
+20
+00:01:14,720 --> 00:01:17,219
+, to prawie 14 dni w grze.
+
+21
+00:01:17,220 --> 00:01:20,739
+Jeśli zmienię to na jedną sekundę,
+
+22
+00:01:20,740 --> 00:01:23,579
+będziemy patrzeć na Układ Słoneczny w czasie rzeczywistym.
+
+23
+00:01:23,580 --> 00:01:26,419
+Zauważysz, że wygląda prawie tak, jakby był zamrożony.
+
+24
+00:01:26,420 --> 00:01:31,759
+Mimo że Ziemia krąży wokół Słońca z prędkością około 30 km/s, wydaje się, że ledwie się porusza.
+
+25
+00:01:31,760 --> 00:01:35,659
+Taka jest ogromna przestrzeń.  Zresztą wróćmy do 14 dni
+
+26
+00:01:35,660 --> 00:01:37,569
+mi się podoba ten wniosek.  Spójrzmy teraz na Słońce
+
+27
+00:01:37,570 --> 00:01:43,389
+Obecnie nie jest to czarna dziura, ale możemy to zmienić.  To, co musimy zrobić, to skompresować Słońce.
+
+28
+00:01:43,390 --> 00:01:49,298
+Zablokujmy więc jego masę, aby się nie zmieniała, gdy zmniejszamy jego promień.
+
+29
+00:01:49,299 --> 00:01:52,579
+Zróbmy jak najmniejszy promień.
+
+30
+00:01:52,580 --> 00:01:59,139
+I gdzie to poszło?  Cóż, nadal tam jest, po prostu stała się czarną dziurą.
+
+31
+00:01:59,140 --> 00:02:03,539
+Dość strasznie, ale teraz spójrzmy na resztę Układu Słonecznego.
+
+32
+00:02:03,540 --> 00:02:06,818
+W porządku, oddalam i-
+
+33
+00:02:06,819 --> 00:02:07,959
+huh.
+
+34
+00:02:07,960 --> 00:02:11,239
+Nic się nie zmieniło.  Mam na myśli, że coś się zmieniło.
+
+35
+00:02:11,240 --> 00:02:16,259
+Jest zimniej i ciemniej, ale nic nie wylatuje w kosmos ani nie zostaje wciągnięte.
+
+36
+00:02:16,260 --> 00:02:20,339
+Widzisz, zmniejszając Słońce, nie zmieniliśmy kierunku w dół dla planet.
+
+37
+00:02:20,340 --> 00:02:25,919
+Zawsze są przyciągane przez grawitację w kierunku jego środka i sprawiając, że jest mniejszy, nie porusza się tam, gdzie był środek.
+
+38
+00:02:25,920 --> 00:02:32,259
+Ale także siła tej siły, która przyciągała ich na środek słońca, pozostała taka sama.
+
+39
+00:02:32,260 --> 00:02:35,619
+To daje nam wskazówkę, czym jest dół.
+
+40
+00:02:35,620 --> 00:02:40,259
+Wskazówką jest druga rzecz, której nie zmieniliśmy: masa.
+
+41
+00:02:40,260 --> 00:02:45,459
+Masa jest miarą tego, jak trudno jest coś przyspieszyć;  zmienić jego ruch.
+
+42
+00:02:45,460 --> 00:02:50,259
+Teraz te dwie kule mają zerowy ruch względem mnie.
+
+43
+00:02:50,260 --> 00:02:54,339
+Uderzanie wokół tej pustej plastikowej kuli
+
+44
+00:02:54,340 --> 00:03:01,419
+jest dość łatwe, ale zrobienie tego samego z tą solidną stalową kulką
+
+45
+00:03:01,420 --> 00:03:03,119
+jest o wiele trudniejsze.
+
+46
+00:03:03,120 --> 00:03:06,479
+Teraz grawitacja i waga nie mają z tym nic wspólnego.
+
+47
+00:03:06,480 --> 00:03:10,279
+Grawitacja działa w dół, nie wbrew mojemu poziomemu uderzeniu.
+
+48
+00:03:10,280 --> 00:03:16,598
+Oczywiście grawitacja przyczynia się do tarcia, ale tarcie działa na mnie, gdy zaczynam poruszać piłką,
+
+49
+00:03:16,599 --> 00:03:19,018
+ale działa na mnie, gdy zatrzymam piłkę.
+
+50
+00:03:19,019 --> 00:03:23,078
+A stalową kulkę trudniej zatrzymać niż plastikową.
+
+51
+00:03:23,079 --> 00:03:27,148
+Różnica polega na masie.  Stalowa kula
+
+52
+00:03:27,149 --> 00:03:30,939
+jest masywniejsza. Odporniejsza na zmianę ruchu.
+
+53
+00:03:30,940 --> 00:03:36,699
+Msza jest nieodłączną własnością;  nie zależy od tego, co jest w pobliżu lub zmienia się z miejsca na miejsce.
+
+54
+00:03:36,700 --> 00:03:40,619
+Czasami można to traktować jako ilość materii, którą coś ma.
+
+55
+00:03:40,620 --> 00:03:43,959
+Twoja masa jest taka sama bez względu na to, gdzie jesteś.
+
+56
+00:03:43,960 --> 00:03:47,999
+Na Księżycu, na Ziemi, w środku przestrzeni międzygalaktycznej unoszącej się dookoła.
+
+57
+00:03:48,000 --> 00:03:53,819
+Ale to wszystko powiedziawszy, masa wydaje się dbać o to, co jest w pobliżu.
+
+58
+00:03:53,820 --> 00:03:57,159
+Masa kocha towarzystwo.
+
+59
+00:03:57,160 --> 00:04:03,608
+Rzeczy o masie i/lub energii są przyciągane przez siłę, którą nazywamy grawitacją.
+
+60
+00:04:03,609 --> 00:04:08,639
+Uczucie grawitacji to tylko ty i ziemia, którzy są do siebie przyciągani.
+
+61
+00:04:08,640 --> 00:04:13,479
+Teraz każda porcja obiektu o masie przyciąga do siebie inne porcje.
+
+62
+00:04:13,480 --> 00:04:19,018
+Średnia z całego tego ciągnięcia to przyciąganie między środkami masy.
+
+63
+00:04:19,019 --> 00:04:26,579
+Gigantyczne rzeczy, takie jak Ziemia, wywierają oczywisty wpływ, ale wszystko działa.  Nawet baseball.
+
+64
+00:04:26,580 --> 00:04:36,159
+Te dwie piłki są przyciągane przez własną grawitację.
+
+65
+00:04:36,160 --> 00:04:43,239
+Poza tym, że ich masy są tak małe, siła jest znikoma i nie jest w stanie pokonać tarcia ani wypchnąć z drogi powietrza.
+
+66
+00:04:43,240 --> 00:04:44,888
+Nigdy się nie połączą
+
+67
+00:04:44,889 --> 00:04:52,029
+Ale jeśli umieścisz dwie piłki baseballowe w odległości jednego metra na środku pustej przestrzeni, gdzie żadne inne siły nie mogłyby na nie działać
+
+68
+00:04:52,030 --> 00:04:57,129
+, dosłownie spadłyby razem i zderzyły się.
+
+69
+00:04:57,130 --> 00:05:01,598
+Zajęłoby to trzy dni, ale tak się stanie.
+
+70
+00:05:01,599 --> 00:05:08,319
+Isaac Newton odkrył, że siła siły łączącej dwie rzeczy jest równa iloczynowi ich mas
+
+71
+00:05:08,320 --> 00:05:15,779
+podzielonych przez odległość między ich środkami masy do kwadratu razy duże G, czyli stałą grawitacyjną.
+
+72
+00:05:15,780 --> 00:05:20,999
+Jeśli sprawisz, że jeden z dwóch obiektów stanie się masywniejszy lub zbliżysz je do siebie, siła będzie
+
+73
+00:05:21,000 --> 00:05:26,039
+silniejsza i ta siła przyciągania jest tym, co nazywamy wagą.
+
+74
+00:05:26,040 --> 00:05:31,459
+Zatem masa jest samoistna, podczas gdy waga zależy od tego, co znajduje się w pobliżu.
+
+75
+00:05:31,460 --> 00:05:35,419
+Dziwna rzecz dzieje się, gdy ważysz się na większości wag.
+
+76
+00:05:35,420 --> 00:05:39,639
+Waga to siła, ale wagi wyświetlają funty lub kilogramy,
+
+77
+00:05:39,640 --> 00:05:41,979
+które są jednostkami masy.
+
+78
+00:05:41,980 --> 00:05:44,839
+To, co się dzieje, polega na tym, że waga jest
+
+79
+00:05:44,840 --> 00:05:46,699
+aktywowana siłą.
+
+80
+00:05:46,700 --> 00:05:47,289
+Każda siła.
+
+81
+00:05:47,290 --> 00:05:52,249
+Nie musi to być spowodowane grawitacją.  Skala pokazuje następnie, jaka ilość masy w
+
+82
+00:05:52,250 --> 00:05:57,949
+pobliżu powierzchni Ziemi byłaby przyciągnięta do Ziemi z wykrytą siłą.
+
+83
+00:05:57,950 --> 00:06:04,039
+Ponieważ łuski są zwykle używane na powierzchni ziemi, ludzie, na których jedyną siłą działającą jest grawitacja
+
+84
+00:06:04,040 --> 00:06:12,949
+, zwykle nie są zbyt daleko.  Ale można je łatwo oszukać, co dalej prowadzi do pomylenia masy z wagą.
+
+85
+00:06:12,950 --> 00:06:20,839
+Zauważ, że waga jest wzajemna.  Ziemia ciągnie cię w dół z tą samą siłą, z jaką podciągasz się na ziemi.
+
+86
+00:06:20,840 --> 00:06:23,989
+Według skali ważę
+
+87
+00:06:23,990 --> 00:06:30,759
+180 funtów na ziemi...
+
+88
+00:06:30,760 --> 00:06:36,699
+A ziemia waży 180 funtów na mnie.
+
+89
+00:06:36,700 --> 00:06:41,559
+Ale ponieważ masa Ziemi jest o wiele większa niż moja, a
+
+90
+00:06:41,560 --> 00:06:46,809
+im coś jest masywniejsze, tym bardziej opiera się ruchowi, nasze
+
+91
+00:06:46,810 --> 00:06:51,159
+równe i przeciwne siły przyśpieszają mnie o wiele bardziej niż Ziemia.
+
+92
+00:06:51,160 --> 00:06:58,869
+Jeśli upuścisz ołówek z wysokości 6 stóp, ołówek nie spadnie po prostu na ziemię.  Dokładniej,
+
+93
+00:06:58,870 --> 00:07:01,269
+oboje się spotykają.
+
+94
+00:07:01,270 --> 00:07:03,719
+Są przyciągane do siebie przez równe siły,
+
+95
+00:07:03,720 --> 00:07:06,249
+ale ta sama siła porusza ołówkiem o
+
+96
+00:07:06,250 --> 00:07:11,439
+wiele bardziej niż ziemia.  Kiedy puścisz ołówek, ziemia jest dosłownie przyciągana
+
+97
+00:07:11,440 --> 00:07:17,459
+do ołówka przez własną grawitację ołówka, na odległość równą około 9
+
+98
+00:07:17,460 --> 00:07:20,019
+trylionowych szerokości protonu.  Ta
+
+99
+00:07:20,020 --> 00:07:26,579
+sama siła przesuwa ołówek o pozostałą odległość, która wciąż wynosi prawie sześć stóp.
+
+100
+00:07:26,580 --> 00:07:33,069
+Na wysokości orbity Międzynarodowej Stacji Kosmicznej Ty i Ziemia jesteście przyciągani o około
+
+101
+00:07:33,070 --> 00:07:39,819
+10% mniej niż na powierzchni;  około osiem przecinek osiem razy większa od twojej masy, ale nie zero.
+
+102
+00:07:39,820 --> 00:07:47,469
+Z tego powodu nieważcy astronauci w zerowej grawitacji nie są ani nieważcy, ani w zerowej grawitacji.
+
+103
+00:07:47,470 --> 00:07:51,969
+Ich siła ciężaru nie jest w stanie zbliżyć ich do Ziemi, ponieważ poruszają się poziomo
+
+104
+00:07:51,970 --> 00:07:58,299
+tak szybko, że spadają tak szybko, jak powierzchnia Ziemi odchyla się od nich.
+
+105
+00:07:58,300 --> 00:08:03,189
+I chociaż doświadczają 90 procent grawitacji, którą ty i ja czujemy teraz
+
+106
+00:08:03,190 --> 00:08:04,749
+(dlatego nie odlatują po prostu)
+
+107
+00:08:04,750 --> 00:08:12,309
+Nie ma żadnych sił, zwanych siłami grawitacji, które mogłyby oprzeć się ich ciężarowi, ponieważ wszystko wokół nich  spada też.
+
+108
+00:08:12,310 --> 00:08:17,079
+To odporność na siłę ciężaru, stres,
+
+109
+00:08:17,080 --> 00:08:24,129
+deformacje, które są potrzebne, aby poczuć wagę.  Tym, czego tak naprawdę brakuje astronautom na orbicie, jest
+
+110
+00:08:24,130 --> 00:08:26,349
+pozorna waga.
+
+111
+00:08:26,350 --> 00:08:29,459
+Podobnie balon z helem ma masę.
+
+112
+00:08:29,460 --> 00:08:36,028
+To znaczy, jest zrobiony z materii, ma masę, więc przyciąga go ziemia.
+
+113
+00:08:36,029 --> 00:08:43,978
+Spróbujmy zmierzyć jego siłę ciężaru.
+
+114
+00:08:43,979 --> 00:08:46,889
+OK, ma ujemną wagę pozorną.
+
+115
+00:08:46,890 --> 00:08:52,859
+Dzieje się tak, ponieważ jego przyciąganie do ziemi jest słabsze niż siły wyporu z otaczającego powietrza, które go wypychają.
+
+116
+00:08:52,860 --> 00:08:54,499
+Teraz, gdy porusza się w górę
+
+117
+00:08:54,500 --> 00:09:02,278
+, popycha cząsteczki powietrza w dół, ale przenoszą one tę siłę szeroko.  Nie tylko bezpośrednio na wagę.
+
+118
+00:09:02,279 --> 00:09:08,189
+Siły wyporu są spowodowane tym, że gdy zanurzysz się w płynie takim jak woda lub powietrze,
+
+119
+00:09:08,190 --> 00:09:10,979
+cząsteczki znajdujące się niżej znajdują się pod większym ciśnieniem.
+
+120
+00:09:10,980 --> 00:09:13,439
+Są dociskane ciężarem wszystkich molekuł
+
+121
+00:09:13,440 --> 00:09:18,569
+nad nimi i są bliżej ziemi, więc są do niej przyciągane z większą siłą.  Teraz, gdy mają większą
+
+122
+00:09:18,570 --> 00:09:22,259
+presję, mają większy cios, gdy zderzają się z przedmiotami.
+
+123
+00:09:22,260 --> 00:09:23,458
+Tak więc,
+
+124
+00:09:23,459 --> 00:09:25,619
+poziomo, te zderzenia znikają,
+
+125
+00:09:25,620 --> 00:09:32,549
+ale w pionie, silniejsze zderzenia od dołu zwyciężają, zapewniając siłę nośną.
+
+126
+00:09:32,550 --> 00:09:38,609
+Dzieje się to nawet na twoim własnym ciele.  Powietrze unosi cię na całej jego powierzchni z siłą około jednego
+
+127
+00:09:38,610 --> 00:09:45,838
+Newtona, która jest równa sile ciężaru jabłka.  Więc jeśli ważyłbyś się w próżni, ważyłbyś o
+
+128
+00:09:45,839 --> 00:09:48,269
+tym znacznie więcej.
+
+129
+00:09:48,270 --> 00:09:54,679
+Ale to nie wszystko Obroty Ziemi powodują, że wybrzusza się na równiku, więc im bliżej jesteś,
+
+130
+00:09:54,680 --> 00:10:02,099
+Im dalej jesteś od środka masy Ziemi i tym mniej będzie spadać twoja rzeczywista masa grawitacyjna
+
+131
+00:10:02,100 --> 00:10:04,289
+Zawsze się zmienia, mam na myśli,
+
+132
+00:10:04,290 --> 00:10:11,249
+gdzie znajduje się środek Ziemi  masa?  Zawsze byłby taki sam jak geometryczny środek Ziemi, gdyby
+
+133
+00:10:11,250 --> 00:10:18,379
+skład Ziemi był jednorodny, ale Ziemia zawiera kieszenie masywnych skał na różnych głębokościach wody góry
+
+134
+00:10:18,380 --> 00:10:24,239
+Porusza się zmieniając wnętrze i powietrze oraz sezonowy lód i chociaż są one daleko
+
+135
+00:10:24,240 --> 00:10:31,708
+Grawitacja rozciąga się na zawsze od wszystkiego  więc księżyc, słońce, planety, wszystkie one przyciągają cię
+
+136
+00:10:31,709 --> 00:10:32,819
+bez znaczenia,
+
+137
+00:10:32,820 --> 00:10:39,659
+Ale naprawdę.  Ważysz około milionowej swojej wagi mniej, gdy księżyc znajduje się bezpośrednio nad tobą
+
+138
+00:10:39,660 --> 00:10:48,249
+Ta masywna, zmieniająca się równowaga materii na Ziemi i gdziekolwiek indziej we wszechświecie oznacza, że dół zawsze zmien
+
+139
+00:10:48,250 --> 00:10:51,099
+a się w stosunku do obrotu Ziemi Przek
+
+140
+00:10:51,100 --> 00:10:57,039
+zywia to, co uważasz za kierunek  w dół od środka masy ponieważ nacisk, który otrzymujesz od obrotu Ziemi
+
+141
+00:10:57,040 --> 00:11:01,929
+Wydaje sięnieznacznie unosić Cię zmniejszając pozorną wagę i pochylając sięw
+
+142
+00:11:01,930 --> 00:11:03,309
+kierunkurównika
+
+143
+00:11:03,310 --> 00:11:10,929
+Wynik netto to pozorna redukcja wagi na równiku o około pół procenta jeśli skala  zgadnie, że twoja masa musi wynosić
+
+144
+00:11:10,930 --> 00:11:14,768
+200 funtów na biegunach, zgadnie, że
+
+145
+00:11:14,769 --> 00:11:18,309
+na równiku masz 199 funtów.  Mnożnik 9,8
+
+146
+00:11:18,310 --> 00:11:25,208
+używany tak często w fizyce jest obliczany na podstawie tego, jak te czynniki wpływają na kogoś na 45 stopniach szerokości geograficznej,
+
+147
+00:11:25,209 --> 00:11:30,819
+wszystkie te wpływy na kierunek w dół skutkują całkowitym odchyleniem pionowym.
+
+148
+00:11:30,820 --> 00:11:35,049
+To tylko najwyżej kilka sekund kątowych w dowolnym miejscu na ziemi
+
+149
+00:11:35,050 --> 00:11:48,398
+To nie wystarczy, aby to odczuć, ale zmiany kierunku i siły można wykorzystać do zbadania kształtu dna morza.
+
+150
+00:11:48,399 --> 00:11:54,578
+Chodzi o to, że wszystkie nasze upadki nie są wiązką promieniście symetrycznych linii
+
+151
+00:11:54,579 --> 00:11:57,549
+Down to nieuczesany bałagan.
+
+152
+00:11:57,550 --> 00:12:03,639
+Teraz ponieważ ciała stałe nie płyną mogą mieć kształty które nie zwracają na to dużo uwagi ale woda może
+
+153
+00:12:03,640 --> 00:12:11,379
+płynąć ignorując wpływy takie jak wiatr i przypływy powierzchnia oceanów i jezior i kałuż jest zawsze prostopadła
+
+154
+00:12:11,380 --> 00:12:17,859
+W dół gdyby woda mogła przechodzić przez ląd  , lub gdyby ziemia była zanurzona w wodzie
+
+155
+00:12:17,860 --> 00:12:21,789
+Grawitacja byłaby taka sama wszędzie na wyboistej powierzchni
+
+156
+00:12:21,790 --> 00:12:26,708
+Taka powierzchnia nazywana jest geoidą i może byćnarysowana na dowolnej wysokości
+
+157
+00:12:26,709 --> 00:12:32,458
+Jeśli chcesz zbudowaćstół całkowicie zakrywający ziemię to musiałby to byćtoczony  falowanie
+
+158
+00:12:32,459 --> 00:12:35,889
+Z' prawie 100 metrów w niektórych punktach, aby była
+
+159
+00:12:35,890 --> 00:12:40,239
+pozioma, aby kula umieszczona gdziekolwiek na niej nie toczyła się.
+
+160
+00:12:40,240 --> 00:12:44,109
+Oto G Ziemi. Przesadziłem tysiąc razy.
+
+161
+00:12:44,110 --> 00:12:48,179
+Ważyłbyś około jednej setnej procenta mniej kilka gramów  tutaj?
+
+162
+00:12:48,180 --> 00:12:54,258
+Wtedy można by powiedzieć, że gdzie grawitacja jest nieco silniejszym punktem jest siła i kierunek W
+
+163
+00:12:54,259 --> 00:12:59,488
+dół jest zmienny w zależności od położenia i zmienia się w czasie
+
+164
+00:12:59,489 --> 00:13:04,738
+Więc w dół jest wystarczająco łatwym wektorem fluktuacyjnym, z wyjątkiem?
+
+165
+00:13:04,739 --> 00:13:09,539
+Dlaczego materia miałaby przyciągać materię w pierwszej kolejności?
+
+166
+00:13:09,540 --> 00:13:14,368
+Isaac Newton był w stanie opisać przyciąganie, ale go nie wyjaśnić,
+
+167
+00:13:14,369 --> 00:13:20,638
+ludzkość zbliżyła się jednak, gdy Albert Einstein przedstawił swoją ogólną teorię względności,
+
+168
+00:13:20,639 --> 00:13:24,328
+Einstein dużo myślał o tym, że wszystko spada na ziemię
+
+169
+00:13:24,329 --> 00:13:26,508
+W tym samym tempie, bez względu na to,
+
+170
+00:13:26,509 --> 00:13:33,108
+jak masywne jest coś po upuszczeniu  przyspieszy w kierunku ziemi, zyskując około 9,8
+
+171
+00:13:33,109 --> 00:13:37,588
+metra na sekundę na każdą sekundę upadku.  To oznacza, że młotek To je
+
+172
+00:13:37,589 --> 00:13:47,818
+t dość masywny, a nie tak masywne pióro, gdy spadnie z tej samej wysokości, uderzy w ziemię w tym samym czasie. Dobra
+
+173
+00:13:47,819 --> 00:13:50,278
+ to, co się właśnie wydarzyło... było
+
+174
+00:13:50,279 --> 00:13:51,988
+"powietrznym" rorem
+
+175
+00:13:51,989 --> 00:13:53,038
+  niezręczny śmiech
+
+176
+00:13:53,039 --> 00:13:56,548
+Aby wpaść w powietrze, coś musi wypychać powietrze z drogi
+
+177
+00:13:56,549 --> 00:14:01,888
+Ale jeśli ma dużą powierzchnię i małą siłę ciężaru, będzie miało dużo powietrza do poruszania się
+
+178
+00:14:01,889 --> 00:14:07,459
+Ale nie będzie w stanie poruszać tego powietrza  bardzo szybko.  W próżni rzeczy spadają w tym samym tempie, niezależnie od
+
+179
+00:14:07,460 --> 00:14:14,039
+masy.  Zostało to słynnie zademonstrowane przez dowódcę Apollo 15, Davida Scotta na Księżycu.
+
+180
+00:14:14,040 --> 00:14:20,279
+I rzucę ich tutaj i miejmy nadzieję, że uderzą w ziemię w tym samym czasie.
+
+181
+00:14:20,280 --> 00:14:21,259
+A co powiesz na to?
+
+182
+00:14:21,260 --> 00:14:27,148
+To dziwne, prawda?  Mam na myśli, że jeśli cięższy przedmiot jest ciągnięty z większą siłą,
+
+183
+00:14:27,149 --> 00:14:31,409
+czy nie powinien spaść szybciej?  Cóż, wyjaśnienie Newtona było proste:
+
+184
+00:14:31,410 --> 00:14:34,588
+większe masy są przyciągane z większymi siłami,
+
+185
+00:14:34,589 --> 00:14:39,898
+ale będą również wymagać większej siły do przyspieszenia, tak samo jak mniej masywna rzecz Coś 
+
+186
+00:14:39,899 --> 00:14:46,768
+to razy masywniejsze może wymagać sto razy większej siły, ale będzie przyciągane przez grawi
+
+187
+00:14:46,769 --> 00:14:52,498
+ację  100 razy więcej, więc wszystko spada na ziemię w tym samym tempie.
+
+188
+00:14:52,499 --> 00:14:56,969
+Co za zabawny zbieg okoliczności, prawda?
+
+189
+00:14:56,970 --> 00:14:58,738
+Może nie
+
+190
+00:14:58,739 --> 00:15:03,888
+Einstein zdał sobie sprawę, że istnieje inny sposób, w jaki rzeczy wydają się spadać
+
+191
+00:15:03,889 --> 00:15:05,398
+ze swoich mas.
+
+192
+00:15:05,399 --> 00:15:13,318
+Wyobraź sobie piórko i młot unoszące się w przestrzeni w pokoju, jeśli pokój nagle przyspieszy do 9,8
+
+193
+00:15:13,319 --> 00:15:18,719
+M/s^2 pióro i młotek będą  uderzyć w podłogę w tym samym czasie, co
+
+194
+00:15:18,720 --> 00:15:24,659
+więcej, niezależnie od tego, czy jest to pokój zbliżający się do nich, czy też nagle włącza się grawitacja
+
+195
+00:15:24,660 --> 00:15:28,078
+Żaden obiekt nie poczuje żadnej siły, która je popycha.
+
+196
+00:15:28,079 --> 00:15:35,398
+Nie ma sposobu, aby stwierdzić, które z tych zdarzeń się wydarzyły.  Jest to słynna zasada równoważności Einsteina.
+
+197
+00:15:35,399 --> 00:15:40,438
+Kiedyś przyznał, że jego największą myślą w historii było to, że człowiek
+
+198
+00:15:40,439 --> 00:15:42,628
+spada z dachu
+
+199
+00:15:42,629 --> 00:15:49,528
+Chociaż spadając, człowiek nie odczuwałby na nim żadnych sił.  Przyspiesza
+
+200
+00:15:49,529 --> 00:15:50,909
+swobodny spadek Jest nie do
+
+201
+00:15:50,910 --> 00:15:57,688
+odróżnienia od samotnego unoszenia się w przestrzeni od nie wywierania na ciebie żadnych sił z powodu braku ruchu
+
+202
+00:15:57,689 --> 00:16:03,808
+Co jeśli grawitacja w ogóle nie jest siłą Co jeśli rzeczy nie upadną, ponieważ są pchane lub ciągnięte
+
+203
+00:16:03,809 --> 00:16:08,099
+Ale ponieważ nie  pchanie lub ciągnięcie
+
+204
+00:16:08,100 --> 00:16:13,648
+Aby zobaczyć, jak to może być, musimy porozmawiać o prostych
+
+205
+00:16:13,649 --> 00:16:17,488
+liniach Mam tu chowany uchwyt na identyfikator
+
+206
+00:16:17,489 --> 00:16:20,698
+To świetny sposób na sprawdzenie prostych ścieżek
+
+207
+00:16:20,699 --> 00:16:24,168
+Ponieważ sznurek jest zawsze napięty Karta,
+
+208
+00:16:24,169 --> 00:16:26,748
+którą mam za sobą, ma  dwie narysowane na nim linie
+
+209
+00:16:26,749 --> 00:16:32,058
+I jeśli podczas wyciągania sznurka zawsze pozostaje pomiędzy tymi dwiema liniami
+
+210
+00:16:32,059 --> 00:16:34,859
+, będę wiedział, że nigdy się nie skręciłem
+
+211
+00:16:34,860 --> 00:16:40,948
+Gdy go pociągałem, ponieważ każdy obrót przełoży się na inny kąt między liniami na karcie a sznurkiem
+
+212
+00:16:40,949 --> 00:16:47,398
+Teraz  jeśli położę dwa z nich na płaskim stole i wyjmę je, zawsze upewniając się, że idą prosto przed siebie.
+
+213
+00:16:47,399 --> 00:16:55,798
+Nigdy się nie spotkają.  Będą zawsze równoległe, ale teraz połóżmy je na kuli o zakrzywionej powierzchni.
+
+214
+00:16:55,799 --> 00:17:03,058
+Znowu ciągnę obie struny do przodu, upewniając się, że zawsze są wyciągane prosto.  Nie odwracaj się.
+
+215
+00:17:03,059 --> 00:17:06,129
+Czekaj, zeszli się razem.
+
+216
+00:17:06,130 --> 00:17:08,709
+Cóż, nie odwrócili się. Wyglądać.
+
+217
+00:17:08,710 --> 00:17:16,389
+Może jest jakaś dziwna siła, która połączyła moje ręce i tak jak grawitacja.  Nie czułem tego, ale to się stało
+
+218
+00:17:16,390 --> 00:17:17,559
+Nie
+
+219
+00:17:17,560 --> 00:17:23,139
+Co się stało nie było wynikiem siły, a było to po prostu naturalnym skutkiem?
+
+220
+00:17:23,140 --> 00:17:30,639
+Krzywizna, o której możesz pomyśleć, poczekaj chwilę, to te naprawdę proste linie.  Mam na myśli to, że dla mnie nie wyglądają tak prosto
+
+221
+00:17:30,640 --> 00:17:38,439
+Ponadto, co jeśli po prostu poruszały się wzdłuż linii szerokości geograficznych, to nigdy się nie spotkały i wyglądają dość cholernie prosto
+
+222
+00:17:38,440 --> 00:17:46,269
+Ale nie są prostą linią nigdy się nie skręca i chociaż linie szerokości geograficznych  patrz prosto na pierwszy rzut oka
+
+223
+00:17:46,270 --> 00:17:48,279
+podążanie za jednym wymaga
+
+224
+00:17:48,280 --> 00:17:54,329
+obracania, aby znaleźć proste linie na powierzchniach, niezależnie od tego, czy są płaskie, czy zakrzywione.
+
+225
+00:17:54,330 --> 00:17:58,319
+Uwielbiam test wstążki.  Teraz możesz użyć prawdziwej wstążki.
+
+226
+00:17:58,320 --> 00:18:04,479
+Ale odkryłem, że pasek papieru działa.  Nawet lepiej.  Przyjrzyjmy się tej ścieżce tutaj.
+
+227
+00:18:04,480 --> 00:18:10,319
+Na początku jest prosta, ale teraz zakrzywia się, jeśli dwie osoby podróżują tym łukiem
+
+228
+00:18:10,320 --> 00:18:16,989
+I chcą pozostać razem, osoba w środku będzie musiała pokonać krótszą odległość niż osoba na  na zewnątrz
+
+229
+00:18:16,990 --> 00:18:20,429
+Ponieważ obie strony tego paska papieru nie mogązmienićswojej długości
+
+230
+00:18:20,430 --> 00:18:25,599
+Pomogą nam znaleźćprostąścieżkęjeśli pasek papieru może leżećpłasko
+
+231
+00:18:25,600 --> 00:18:29,229
+Będziemy wiedzieliże znaleźliśmy prostą linię i jak
+
+232
+00:18:29,230 --> 00:18:32,889
+widać pasek może leżeć  płaski i podążaj prostą częścią tej ścieżki
+
+233
+00:18:32,890 --> 00:18:36,339
+Ale jeśli chodzi o krzywą, aby teraz podążać ścieżką
+
+234
+00:18:36,340 --> 00:18:40,329
+Pasek dobrze ma za dużo materiału w środku i ten materiał
+
+235
+00:18:40,330 --> 00:18:47,769
+pęcznieje i opuszcza płaszczyznę, więc wiemy, że ta część  ścieżka nie jest prosta
+
+236
+00:18:47,770 --> 00:18:52,659
+Użyjmy testu wstążki, aby znaleźć proste linie na powierzchni stożka
+
+237
+00:18:52,660 --> 00:18:58,929
+Wygląda na to, że jest wyrównany bezpośrednio od podstawy do końca wydaje się, że byłby prosty i wystarczająco pewny
+
+238
+00:18:58,930 --> 00:19:05,079
+Tak, wstążka leży płasko na  tą ścieżką, ale co tam  znaleźć pierścień wokół stożka?
+
+239
+00:19:05,080 --> 00:19:11,459
+Nie, nie działa na krótszych dystansach, bliżej wierzchołka stożka, oznacza to, że na górze jest za dużo wstążki
+
+240
+00:19:11,460 --> 00:19:13,179
+Więc nie leży płasko
+
+241
+00:19:13,180 --> 00:19:20,919
+Zobaczmy, co jeszcze tam jest, ale poza tym dobrze, jeśli zacznę tutaj i po prostu pozwolę
+
+242
+00:19:20,920 --> 00:19:22,689
+wstążce  leżeć płasko
+
+243
+00:19:22,690 --> 00:19:26,428
+Huh Dostaję trochę krzywy kształt, taki jak ten
+
+244
+00:19:26,429 --> 00:19:33,189
+Mówię, że wyglądam krzywo, ponieważ podczas gdy ktoś powie, że u podstawy ta ścieżka może wydawać się w górę
+
+245
+00:19:33,190 --> 00:19:39,939
+Zwolnij zmień kierunek, a potem opadaj coraz szybciej, ponieważ wstążka na takiej ścieżce jest  płaski
+
+246
+00:19:39,940 --> 00:19:44,109
+Właściwie jest przeznaczony dla mieszkańców na powierzchni stożków
+
+247
+00:19:44,110 --> 00:19:48,058
+Idealnie prosty jeśli prześledzimy ścieżkę wstążek do
+
+248
+00:19:48,059 --> 00:19:56,529
+stożka Widać to wyraźnie ponieważstożek można spłaszczyćlinia prosta na zakrzywionej powierzchni nazywana jest geodezją
+
+249
+00:19:56,530 --> 00:20:01,509
+Tutaj jest geodezja na sferze  równik to jeden
+
+250
+00:20:01,510 --> 00:20:05,369
+Tu jest inny linia szerokości geograficznej nie jest geodezyjna
+
+251
+00:20:05,370 --> 00:20:10,089
+To nie jest prosta linia, żeby zobaczyć, dlaczego spróbujmy podążać za nią ze wstążką Ty
+
+252
+00:20:10,090 --> 00:20:13,329
+Wiesz, co muszę ciągle podnosić
+
+253
+00:20:13,330 --> 00:20:17,499
+Tak, zobacz, że odległości wokół kuli stają się krótsze  jak my  idź w
+
+254
+00:20:17,500 --> 00:20:19,799
+górę Więc na wstążce jest za dużo materiału
+
+255
+00:20:19,800 --> 00:20:24,759
+i opuszcza powierzchnię ta ścieżka zawiera skręty i aby to zrobić
+
+256
+00:20:24,760 --> 00:20:27,749
+Siła musi działaćna ciebie jeśli nie ma żadnych sił
+
+257
+00:20:27,750 --> 00:20:35,349
+Czy to jest ścieżka którą zauważyszże wstążka zaczyna sięporuszać  na wschód, ale potem opada na
+
+258
+00:20:35,350 --> 00:20:37,389
+południe
+
+259
+00:20:37,390 --> 00:20:39,939
+Falls
+
+260
+00:20:39,940 --> 00:20:56,589
+Einstein zdał sobie sprawę, że krzywizna może powodować pozorne przyciąganie się do siebie
+
+261
+00:20:56,590 --> 00:21:02,369
+nawzajem.  nie chodźcie razem, więc po coś w spoczynku.  Jak zaczyna się spadanie?
+
+262
+00:21:02,370 --> 00:21:07,989
+Chodzi mi o to, że ta rzecz musi poruszać się w tym kierunku, ale jest w spoczynku, dobrze, dobrze
+
+263
+00:21:07,990 --> 00:21:08,489
+Tak,
+
+264
+00:21:08,490 --> 00:21:14,649
+ale jest tylko w stanie spoczynku w przestrzeni i to nie jest cała historia w górę w dół
+
+265
+00:21:14,650 --> 00:21:23,319
+Dalej do tyłu i lewo-prawo to wszystko, czego potrzebujesz, aby opisać, gdzie ma miejsce zdarzenie, ale  pełny opis będzie również musiał opisywać
+
+266
+00:21:23,320 --> 00:21:30,279
+Kiedy razem te cztery wymiary tworzą scenerię, w której wszystko w naszym wszechświecie się dzieje
+
+267
+00:21:30,280 --> 00:21:31,659
+Czasoprzestrzeń
+
+268
+00:21:31,660 --> 00:21:39,009
+Ponieważ możemy mówić o spadającym ołówku używając tylko jednego wymiaru przestrzennego w górę i w dół, możemy użyć kawałka papieru, aby  model
+
+269
+00:21:39,010 --> 00:21:43,659
+Czasoprzestrzeń dla tego.  Dobra, więc wznosimy się i opadamy, ale musimy dodać inny
+
+270
+00:21:43,660 --> 00:21:45,459
+kierunek, w którym ołówek porusza się w
+
+271
+00:21:45,460 --> 00:21:46,299
+czasie
+
+272
+00:21:46,300 --> 00:21:50,339
+Teraz, jeśli na ołówek nie działają żadne siły, nie będzie się poruszał w przestrzeni.
+
+273
+00:21:50,340 --> 00:21:54,839
+Będzie się tylko starzeć i jak widać,  to się starzeje
+
+274
+00:21:54,840 --> 00:22:00,639
+Nie upadnie, jeśli czasoprzestrzeń będzie płaska, kiedy puszczę ołówek
+
+275
+00:22:00,640 --> 00:22:09,189
+, nigdzie nie pójdzie, ale teraz pozwólmy ziemi, która jest masywna, aby manipulować czasoprzestrzenią, powiedzmy w
+
+276
+00:22:09,190 --> 00:22:14,079
+stożek  Żadnych sił działających na niego każda część ołówka przebiega po prostej
+
+277
+00:22:14,080 --> 00:22:20,859
+Ale na stożku jak widzieliśmy wcześniej taka ścieżka będzie wyglądać tak będzie spadać
+
+278
+00:22:20,860 --> 00:22:25,209
+Dzieje się tak ponieważ odległości wokół stożka są krótsze wyżej na górze
+
+279
+00:22:25,210 --> 00:22:29,499
+Czas biegnie szybciej dalej od masywu  obiekt, ale iść prosto
+
+280
+00:22:29,500 --> 00:22:34,629
+Nie obrócić każda część ołówka musi pokonywać taką samą odległość w czasoprzestrzeni w
+
+281
+00:22:34,630 --> 00:22:36,189
+ten sposób
+
+282
+00:22:36,190 --> 00:22:43,749
+Tylko wtedy, gdy ołówek uderza w ziemię, odpychanie ich wzajemnych elektronów zapewnia siłę odpychającą ołówek od geodezyjnego
+
+283
+00:22:43,750 --> 00:22:50,258
+Dla ziemi  czas to seria wycinków z tej ewolucji ołówki bez siły
+
+284
+00:22:50,259 --> 00:22:58,148
+Geod  esic dlatego wypada nie pchać ani ciągnąć tylko ołówków naturalna tendencja do podążania po linii prostej,
+
+285
+00:22:58,149 --> 00:23:04,869
+dopóki coś na to nie zadziała.  Użyliśmy tylko jednego wymiaru przestrzeni i jednego czasu, ponieważ
+
+286
+00:23:04,870 --> 00:23:12,099
+wizualizacja naszych wszechświatów, trzech przestrzeni i jednego czasu, zabrałaby nas poza granice tego, co można by pokazać na papierze lub ekranach,
+
+287
+00:23:12,100 --> 00:23:13,388
+ale matematyka
+
+288
+00:23:13,389 --> 00:23:15,158
+może nas tam zabrać
+
+289
+00:23:15,159 --> 00:23:19,148
+Ogólna teoria względności pozwala nam obliczyć, jak  dużo masy i energii
+
+290
+00:23:19,149 --> 00:23:26,648
+Zakrzywiona czasoprzestrzeń i została wykorzystana do wyjaśnienia rzeczy, których starsza teoria Newtona o spadaniu w wyniku
+
+291
+00:23:26,649 --> 00:23:34,839
+sił nie mogła lubić anomalii na orbicie rtęci, która krąży najbliżej Słońca i dlatego jest najbardziej dotknięta uściskiem Słońca  w
+
+292
+00:23:34,840 --> 00:23:42,008
+czasoprzestrzeni wiele innych eksperymentów potwierdziło ogólny obraz względności Wszechświata, pasujący do wniosku, że
+
+293
+00:23:42,009 --> 00:23:44,619
+nie ma
+
+294
+00:23:44,620 --> 00:23:47,079
+grawitacji, jest tylko
+
+295
+00:23:47,080 --> 00:23:52,959
+czasoprzestrzeń, jej krzywizna i my w niej.  Jak to ujął John Wheeler,
+
+296
+00:23:52,960 --> 00:24:00,668
+czasoprzestrzeń chwyta masę, mówiąc jej, jak poruszać masą, chwyta czasoprzestrzeń, mówiąc jej, jak się zakrzywiać?
+
+297
+00:24:00,669 --> 00:24:07,599
+Względem Ziemi nie poruszamy się bardzo szybko, nawet samoloty odrzutowe poruszają się nieznacznie blisko prędkości światła
+
+298
+00:24:07,600 --> 00:24:10,959
+Tak więc względem Ziemi poruszamy się prawie
+
+299
+00:24:10,960 --> 00:24:17,739
+Wyłącznie w czasie jako takim bardziej wpływa na nas sposób, w jaki czas jest zakrzywiony przez masę
+
+300
+00:24:17,740 --> 00:24:19,658
+Niż przestrzeń  zakrzywiony?
+
+301
+00:24:19,659 --> 00:24:25,239
+Doprowadziło to wielu do twierdzenia, że w większości czujesz się tak, jakbyś był wpychany w ziemię Nie z
+
+302
+00:24:25,240 --> 00:24:27,518
+powodu siły zwanej grawitacją, Ale p
+
+303
+00:24:27,519 --> 00:24:33,758
+nieważ czas płynie szybciej dla twojej głowy niż dla twoich stóp w dół, jest wzgl�
+
+304
+00:24:33,759 --> 00:24:41,979
+dny i ciągle się zmienia,  ale istnieje z powodu i zawsze zmierza w kierunku wolniejszego czasu
+
+305
+00:24:41,980 --> 00:24:46,689
+Bertrand Russell nazwał to prawem kosmicznego lenistwa
+
+306
+00:24:46,690 --> 00:24:54,428
+Wszystko jest naturalnie kierowane tam, gdzie czas jest najwolniejszy, nazywamy to
+
+307
+00:24:54,429 --> 00:24:56,529
+spadaniem,
+
+308
+00:24:56,530 --> 00:25:00,579
+więc nie musisz niczego trzymać w dół  -mało
+
+309
+00:25:00,580 --> 00:25:04,749
+czasu zajmie się tym dla Ciebie
+
+310
+00:25:04,750 --> 00:25:06,489
+i jak zawsze
+
+311
+00:25:06,490 --> 00:25:19,189
+Dziękujemy za oglądanie
+
+312
+00:25:19,190 --> 00:25:24,919
+Pamiętaj, że możesz wesprzeć badania Vsauce i Alzheimera, subskrybując
+
+313
+00:25:24,920 --> 00:25:29,389
+pudełko ciekawości Vsauce, obecne zawiera kod, aby uzyskać bezpłatną kopię piaskownicy wszechświata 2
+
+314
+00:25:29,390 --> 00:25:35,589
+jest niesamowita i cała masa innych zabawek naukowych i narzędzi wybranych przeze mnie Jake i Kevin.
+
+315
+00:25:35,590 --> 00:25:42,129
+Uwielbiam to wszystko, więc mam nadzieję, że zobaczymy Cię na żywo w Brain Candy.  Niedługo przyjedziemy do wielu wielu miast
+
+316
+00:25:42,130 --> 00:25:45,339
+Mam nadzieję, że w jednym z was, idąc na pokaz, można zobaczyć Adama
+
+317
+00:25:45,340 --> 00:25:51,769
+I robię rzeczy, których być może nie widzieliście, robimy, zanim również zbadamy naukę i powszechne
+
+318
+00:25:51,770 --> 00:25:55,789
+błędne wyobrażenia stojące za wszystkimi rzeczami
+
+319
+00:25:55,790 --> 00:26:03,159
+Err.  Może powiedziałem za dużo.  Może nie, mam nadzieję, że Cię tam zobaczę i jak zawsze dziękuję za oglądanie
+

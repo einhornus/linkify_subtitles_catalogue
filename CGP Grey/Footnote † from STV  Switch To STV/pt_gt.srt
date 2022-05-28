@@ -1,0 +1,284 @@
+1
+00:00:00,000 --> 00:00:01,499
+Imagine que você está no comando do governo
+
+2
+00:00:01,500 --> 00:00:04,899
+e decide que é hora de pegar seu conselho da selva existente
+
+3
+00:00:04,900 --> 00:00:07,799
+e trocá-lo para STV.
+
+4
+00:00:07,800 --> 00:00:09,499
+Uma das coisas que é uma opção é
+
+5
+00:00:09,500 --> 00:00:14,499
+porque a STV exige que haja mais de um representante por faixa,
+
+6
+00:00:14,500 --> 00:00:16,999
+você pode triplicar, no mínimo,
+
+7
+00:00:17,000 --> 00:00:19,999
+ou quintuplicar o número de políticos que você tem, o
+
+8
+00:00:20,000 --> 00:00:22,499
+que pode ser algo que você quer fazer,
+
+9
+00:00:22,500 --> 00:00:25,799
+mas há  muitas boas razões pelas quais você pode não querer fazer isso.
+
+10
+00:00:25,800 --> 00:00:27,099
+Aqui está uma maneira mais razoável
+
+11
+00:00:27,100 --> 00:00:29,999
+de mudar um país para STV.
+
+12
+00:00:30,000 --> 00:00:32,999
+Aqui está um mapa de nossas faixas eleitorais atuais,
+
+13
+00:00:33,000 --> 00:00:34,999
+cada uma das quais envia um representante.
+
+14
+00:00:35,000 --> 00:00:37,499
+Então, no Passo 1, vamos nos livrar de todos esses intervalos
+
+15
+00:00:37,500 --> 00:00:39,499
+e redesenhar os limites.
+
+16
+00:00:39,500 --> 00:00:41,799
+Então, em vez de todos serem eleitos de uma faixa
+
+17
+00:00:41,800 --> 00:00:45,499
+, vamos sortear faixas que tenham cinco representantes em cada uma.
+
+18
+00:00:45,500 --> 00:00:47,299
+Agora, se a representação local significa alguma coisa,
+
+19
+00:00:47,300 --> 00:00:49,999
+você provavelmente vai querer tentar traçar esses limites
+
+20
+00:00:50,000 --> 00:00:51,999
+de maneira significativa em seu país.
+
+21
+00:00:52,000 --> 00:00:53,999
+Então, eles seguem os limites naturais,
+
+22
+00:00:54,000 --> 00:00:56,499
+ou seguem os limites da cidade, ou os limites históricos...
+
+23
+00:00:56,500 --> 00:00:59,499
+você vai querer tentar igualá-los o mais próximo possível.
+
+24
+00:00:59,500 --> 00:01:00,799
+Mas uma coisa importante a perceber
+
+25
+00:01:00,800 --> 00:01:03,399
+é que você não precisa ter todos os
+
+26
+00:01:03,400 --> 00:01:06,999
+intervalos exatamente do mesmo tamanho em termos de representantes.
+
+27
+00:01:07,000 --> 00:01:08,999
+Então, no canto inferior do mapa aqui
+
+28
+00:01:09,000 --> 00:01:10,999
+você pode ver que temos uma espécie de "cidade animal".
+
+29
+00:01:11,000 --> 00:01:11,999
+E então o que você pode fazer é, em
+
+30
+00:01:12,000 --> 00:01:13,799
+vez de tentar dividir isso em
+
+31
+00:01:13,800 --> 00:01:16,299
+um monte de 5 faixas representativas,
+
+32
+00:01:16,300 --> 00:01:18,999
+você pode pegar e dizer "Não, vamos apenas cortá-lo em dois".
+
+33
+00:01:19,000 --> 00:01:21,999
+Há a metade norte da cidade e a metade sul da cidade
+
+34
+00:01:22,000 --> 00:01:25,499
+e são duas faixas com nove representantes cada.
+
+35
+00:01:25,500 --> 00:01:29,799
+Agora você pode estar se perguntando "Por que você não faz apenas um intervalo com 18 representantes?"
+
+36
+00:01:29,800 --> 00:01:33,999
+A resposta é que há uma espécie de compensação para fazer intervalos maiores.
+
+37
+00:01:34,000 --> 00:01:36,039
+Quanto maior o intervalo, você tem o benefício
+
+38
+00:01:36,040 --> 00:01:39,999
+de ser mais representativo da população local.
+
+39
+00:01:40,000 --> 00:01:43,399
+Então, em teoria, um intervalo com 40 ou 50 representantes
+
+40
+00:01:43,400 --> 00:01:46,799
+seria ainda melhor do que um intervalo com apenas, digamos, cinco.
+
+41
+00:01:46,800 --> 00:01:48,799
+Mas o preço que você paga por um intervalo maior
+
+42
+00:01:48,800 --> 00:01:50,799
+é uma eleição mais complicada,
+
+43
+00:01:50,800 --> 00:01:53,999
+porque se houver, digamos, nove vagas disponíveis,
+
+44
+00:01:54,000 --> 00:02:01,499
+você provavelmente terá pelo menos vinte candidatos concorrendo
+
+45
+00:02:01,500 --> 00:02:05,999
+.  Provavelmente estamos olhando para uma eleição que terá 40 ou 50 candidatos, o
+
+46
+00:02:06,000 --> 00:02:11,499
+que está um pouco além do que você pode esperar que uma pessoa razoável seja capaz de distinguir.
+
+47
+00:02:11,500 --> 00:02:13,299
+Mesmo dezoito anos está ficando um pouco lá em cima,
+
+48
+00:02:13,300 --> 00:02:17,999
+e é por isso que os sistemas STV razoáveis permitem que você apenas liste seus favor
+
+49
+00:02:18,000 --> 00:02:20,999
+tos até onde quiser.  Diga 1-5.
+
+50
+00:02:21,000 --> 00:02:24,999
+E então não preencha mais a cédula porque você não se importa mais
+
+51
+00:02:25,000 --> 00:02:28,499
+Agora o outro lado deste problema é quando você tem uma região muito escassamente povoada
+
+52
+00:02:28,500 --> 00:02:30,499
+como temos no canto superior esquerdo aqui.
+
+53
+00:02:30,500 --> 00:02:33,499
+Muitos países têm sua própria versão de regiões de sobrevoo
+
+54
+00:02:33,500 --> 00:02:37,999
+onde a população é ampla, amplamente distribuída e muito escassa.
+
+55
+00:02:38,000 --> 00:02:43,399
+Nesse caso, tentar desenhar um intervalo que tivesse cinco representantes pode ser comicamente grande,
+
+56
+00:02:43,400 --> 00:02:46,499
+tão grande a ponto de zombar da própria noção de
+
+57
+00:02:46,500 --> 00:02:49,999
+que esses representantes são "locais", em qualquer sentido dessa palavra.
+
+58
+00:02:50,000 --> 00:02:52,999
+Portanto, se você tiver uma região muito escassamente povoada,
+
+59
+00:02:53,000 --> 00:02:54,999
+também poderá ter um intervalo menor.
+
+60
+00:02:55,000 --> 00:02:59,499
+Então, neste caso, vamos fazer um intervalo com três representantes no canto.
+
+61
+00:02:59,500 --> 00:03:02,999
+Agora, como antes, a vantagem que você obtém com uma eleição menor
+
+62
+00:03:03,000 --> 00:03:06,999
+é que é mais fácil de acompanhar - haverá menos candidatos concorrendo.
+
+63
+00:03:07,000 --> 00:03:12,499
+No entanto, intervalos menores são muito mais suscetíveis à manipulação intencional
+
+64
+00:03:12,500 --> 00:03:14,499
+e três são aproximadamente esse número.
+
+65
+00:03:14,500 --> 00:03:17,999
+Se o seu país está mudando para o voto transferível único
+
+66
+00:03:18,000 --> 00:03:20,999
+e quer fazer todas as faixas três,
+
+67
+00:03:21,000 --> 00:03:24,999
+você deve ficar muito desconfiado porque três é capaz de gerrymander.
+
+68
+00:03:25,000 --> 00:03:28,199
+Está indo menos proporcional do que um intervalo maior.
+
+69
+00:03:28,200 --> 00:03:30,999
+É aceitável sob certas circunstâncias razoáveis,
+
+70
+00:03:31,000 --> 00:03:33,999
+mas definitivamente não deveria ser o padrão.
+
+71
+00:03:34,000 --> 00:03:39,000
+Cinco deve ser o mínimo, e nove provavelmente deve ser o máximo.
+

@@ -1,0 +1,868 @@
+1
+00:00:04,859 --> 00:00:07,759
+Olá, Vsauce.  Miguel aqui.
+Isso
+
+2
+00:00:07,760 --> 00:00:12,909
+é chamado de efeito dolly zoom
+e a ótica que o torna
+
+3
+00:00:12,910 --> 00:00:16,249
+possível também é responsável pelo que é chamado de
+
+4
+00:00:16,250 --> 00:00:20,589
+ilusão do terminador da lua.
+
+5
+00:00:20,590 --> 00:00:23,629
+Um terminador é a linha entre um
+
+6
+00:00:23,630 --> 00:00:26,689
+lado iluminado e escuro.
+A luz chega
+
+7
+00:00:26,690 --> 00:00:30,299
+perpendicular ao terminador,
+mas nem sempre
+
+8
+00:00:30,300 --> 00:00:34,039
+parece.
+Talvez você já tenha notado isso antes.  Quando a Lua
+
+9
+00:00:34,040 --> 00:00:37,509
+e o Sol estão ao mesmo tempo,
+e a uma boa distância
+
+10
+00:00:37,510 --> 00:00:40,749
+no céu, a direção de onde a Lua está sendo
+
+11
+00:00:40,750 --> 00:00:43,808
+iluminada nem sempre parece estar alinhada
+
+12
+00:00:43,809 --> 00:00:49,119
+com a posição do Sol.
+O que está acontecendo aqui?
+
+13
+00:00:49,120 --> 00:00:50,878
+A resposta está
+
+14
+00:00:50,879 --> 00:00:54,728
+nos ângulos visuais.
+Quanto mais longe de você algo estiver
+
+15
+00:00:54,729 --> 00:00:59,978
+, menor parecerá ser.
+Em termos psicofísicos, seu ângulo visual
+
+16
+00:00:59,979 --> 00:01:04,369
+encolhe - o ângulo dentro do seu campo de
+visão que se estende.
+
+17
+00:01:04,370 --> 00:01:08,209
+Agora, isso significa que tudo o
+que olhamos é encurtado,
+
+18
+00:01:08,210 --> 00:01:12,099
+ou seja, diminui a incisão em direção à linha do horizonte.
+
+19
+00:01:12,100 --> 00:01:15,539
+Uma linha infinitamente distante.
+Coisas tão distantes
+
+20
+00:01:15,540 --> 00:01:18,629
+são escorçadas até o ponto em que
+não têm altura
+
+21
+00:01:18,630 --> 00:01:21,719
+alguma.
+Essa distorção
+
+22
+00:01:21,720 --> 00:01:25,789
+afeta tudo o que vemos.
+Mas isso não nos confunde, porque
+
+23
+00:01:25,790 --> 00:01:30,219
+nossos cérebros sabem disso.
+Podemos olhar para um objeto que é encurtado e
+
+24
+00:01:30,220 --> 00:01:33,619
+descobrir como ele provavelmente se parece.
+
+25
+00:01:33,620 --> 00:01:36,799
+Por exemplo, uma porta é um retângulo,
+
+26
+00:01:36,800 --> 00:01:39,949
+mas é destruída pelo escorço quando
+
+27
+00:01:39,950 --> 00:01:43,709
+aberta.
+Distâncias mais próximas parecem maiores.  A forma toda
+
+28
+00:01:43,710 --> 00:01:48,499
+é diferente, mas seu cérebro não se
+assusta toda vez que uma porta se abre,
+
+29
+00:01:48,500 --> 00:01:49,709
+porque entende
+
+30
+00:01:49,710 --> 00:01:53,109
+que sensações diferentes não significam necessariamente
+
+31
+00:01:53,110 --> 00:01:56,449
+coisas reais diferentes.
+Chama-se
+
+32
+00:01:56,450 --> 00:02:00,579
+constância subjetiva.
+Nossos cérebros habilmente levam em consideração
+
+33
+00:02:00,580 --> 00:02:04,569
+experiências anteriores e pistas de perspectiva do
+mundo circundante
+
+34
+00:02:04,570 --> 00:02:07,729
+para calcular em tempo real se as mudanças
+
+35
+00:02:07,730 --> 00:02:11,109
+no que sentimos são devido a mudanças reais
+
+36
+00:02:11,110 --> 00:02:15,988
+nas coisas que estamos olhando ou são
+apenas produtos de suas posições
+
+37
+00:02:15,989 --> 00:02:17,789
+ou do ambiente.
+
+38
+00:02:17,790 --> 00:02:21,219
+Por exemplo, eu, neste momento, nesta tela de vídeo,
+
+39
+00:02:21,220 --> 00:02:25,129
+sou vulnerável ao escorço.
+Mas eu provavelmente pareço
+
+40
+00:02:25,130 --> 00:02:28,989
+bem para você.
+No entanto, se enquadrarmos bem de perto
+
+41
+00:02:28,990 --> 00:02:32,729
+e removermos as pistas de perspectiva ao redor,
+posso parecer
+
+42
+00:02:32,730 --> 00:02:36,519
+estranho, estranho, um pouco assustador,
+
+43
+00:02:36,520 --> 00:02:40,529
+distendido.
+Estou escorçado sem as ferramentas necessárias
+
+44
+00:02:40,530 --> 00:02:44,509
+ao meu redor para você se ajustar mentalmente.
+Este
+
+45
+00:02:44,510 --> 00:02:48,089
+é provavelmente o ponto crucial da ilusão do terminador lunar
+
+46
+00:02:48,090 --> 00:02:51,339
+.
+Dê uma olhada neste.
+
+47
+00:02:51,340 --> 00:02:54,419
+A linha onde essa parede encontra o teto
+
+48
+00:02:54,420 --> 00:02:57,629
+é uma linha reta.
+Sério, dê uma olhada.
+
+49
+00:02:57,630 --> 00:03:01,269
+Se você olhar para a esquerda e para a direita
+, continua a parecer reto
+
+50
+00:03:01,270 --> 00:03:04,589
+e acredite, este edifício foi construído com tetos retos e nivelados
+
+51
+00:03:04,590 --> 00:03:07,779
+.
+Mas não é isso que seus olhos
+
+52
+00:03:07,780 --> 00:03:10,889
+percebem.
+Uma câmera ajudará a
+
+53
+00:03:10,890 --> 00:03:15,129
+demonstrar isso.  Ele não adiciona o
+processamento pós-sensação que nossos
+
+54
+00:03:15,130 --> 00:03:15,929
+cérebros fazem
+
+55
+00:03:15,930 --> 00:03:19,889
+e também podemos enquadrar para remover outras
+pistas nos dizendo o que pensar.
+
+56
+00:03:19,890 --> 00:03:23,249
+Agora, com certeza, bem na nossa frente a linha está
+
+57
+00:03:23,250 --> 00:03:26,599
+nivelada com a tela da câmera
+- é uma linha reta - mas
+
+58
+00:03:26,600 --> 00:03:31,039
+se movermos nossos olhos através da linha,
+veja o que acontece.  Se eu fizer o pan desta forma,
+
+59
+00:03:31,040 --> 00:03:35,208
+a inclinação muda e agora a linha
+parece estar
+
+60
+00:03:35,209 --> 00:03:38,319
+subindo e para a esquerda.
+E se eu desloquei
+
+61
+00:03:38,320 --> 00:03:42,919
+dessa maneira, a linha parece estar se movendo para
+cima e para a direita.
+
+62
+00:03:42,920 --> 00:03:47,539
+O que está acontecendo aqui?
+Uma linha reta não pode ter inclinação variável,
+
+63
+00:03:47,540 --> 00:03:51,098
+é isso que uma linha curva faz.
+
+64
+00:03:51,099 --> 00:03:54,858
+Assim como a curva que pensamos ver
+entre o Sol
+
+65
+00:03:54,859 --> 00:03:57,858
+e a Lua.
+Mas espere.  Se
+
+66
+00:03:57,859 --> 00:04:01,149
+a linha entre o Sol e a Lua é
+curva por causa do escorço,
+
+67
+00:04:01,150 --> 00:04:04,919
+por que não vemos linhas como esta como curvas?
+Bem,
+
+68
+00:04:04,920 --> 00:04:08,979
+aqui está uma pista.
+Pistas.
+
+69
+00:04:08,980 --> 00:04:12,658
+Sabemos como devem ser os quartos.
+Nós sabemos como eles são construídos.  Temos
+
+70
+00:04:12,659 --> 00:04:15,279
+experiência com eles e há outras
+coisas no meio ambiente
+
+71
+00:04:15,280 --> 00:04:20,028
+nos ajudando.  Mas quando você olha para o céu,
+não há muito para ajudá-lo.
+
+72
+00:04:20,029 --> 00:04:24,369
+Na ausência de pistas sobre distância
+e perspectiva, nossos cérebros assumem que
+
+73
+00:04:24,370 --> 00:04:25,788
+o que quer que estejamos olhando é
+
+74
+00:04:25,789 --> 00:04:29,569
+equidistante de nós, tornando o céu uma espécie de
+
+75
+00:04:29,570 --> 00:04:32,668
+superfície de cúpula, como uma tela de planetário.
+
+76
+00:04:32,669 --> 00:04:36,788
+A única pista que temos então é o horizonte,
+mas é um arenque vermelho,
+
+77
+00:04:36,789 --> 00:04:41,109
+porque o horizonte não escorça.
+É apenas um lugar onde
+
+78
+00:04:41,110 --> 00:04:44,769
+devido ao escorço tudo se torna infinitamente plano.
+
+79
+00:04:44,770 --> 00:04:48,728
+Brian Rogers e Olga Naumenko
+demonstraram que essas coisas resultam
+
+80
+00:04:48,729 --> 00:04:52,399
+na ilusão do exterminador usando um planetário.
+
+81
+00:04:52,400 --> 00:04:57,239
+Eles projetaram dois pontos em sua cúpula,
+imitando nossa percepção do Sol
+
+82
+00:04:57,240 --> 00:05:01,388
+e da Lua.  Eles então pediram
+aos participantes para colocar um terceiro ponto na
+
+83
+00:05:01,389 --> 00:05:02,859
+linha reta que os conecta.
+
+84
+00:05:02,860 --> 00:05:06,259
+Mas, assim como na ilusão do terminador lunar, as pessoas
+
+85
+00:05:06,260 --> 00:05:10,689
+colocaram incorretamente o terceiro ponto.
+Eles foram influenciados por um desejo de permanecer
+
+86
+00:05:10,690 --> 00:05:12,579
+paralelo ao horizonte,
+
+87
+00:05:12,580 --> 00:05:17,168
+como se estivesse sujeito às mesmas regras de escorço.
+Nossos cérebros também
+
+88
+00:05:17,169 --> 00:05:21,579
+muitas vezes não levam em consideração o escorço
+quando se trata de raios crepusculares,
+
+89
+00:05:21,580 --> 00:05:24,579
+feixes de luz fluindo através de lacunas nas nuvens.
+
+90
+00:05:24,580 --> 00:05:28,569
+Eles parecem convergir de um ponto comum,
+como se o Sol estivesse
+
+91
+00:05:28,570 --> 00:05:32,559
+apenas alguns milhares de metros acima da Terra, mas, é
+claro, na verdade, o Sol está extremamente
+
+92
+00:05:32,560 --> 00:05:33,459
+distante
+
+93
+00:05:33,460 --> 00:05:38,779
+e essas linhas são exatamente paralelas.
+
+94
+00:05:38,780 --> 00:05:42,889
+É verdade.  Eles parecem convergir
+pela mesma razão que os trilhos da ferrovia
+
+95
+00:05:42,890 --> 00:05:44,079
+parecem convergir.
+
+96
+00:05:44,080 --> 00:05:47,339
+O ângulo visual da distância que os separa
+
+97
+00:05:47,340 --> 00:05:51,089
+diminui à medida que você olha para baixo.
+Às vezes,
+
+98
+00:05:51,090 --> 00:05:54,849
+nosso cérebro faz o oposto.
+Eles assumem
+
+99
+00:05:54,850 --> 00:05:58,179
+e consideram o escorço mesmo quando não está
+
+100
+00:05:58,180 --> 00:06:01,259
+realmente lá, como nesta ilusão, onde
+
+101
+00:06:01,260 --> 00:06:05,989
+os carros parecem ter tamanhos diferentes, mas
+na verdade na página
+
+102
+00:06:05,990 --> 00:06:11,209
+são todos do mesmo tamanho.  Todo o resto
+na imagem é afetado pelo escorço,
+
+103
+00:06:11,210 --> 00:06:15,859
+então nossos cérebros assumem que os carros
+também são e decidem que para que
+
+104
+00:06:15,860 --> 00:06:19,189
+todos tenham o mesmo ângulo visual, o que eles têm,
+
+105
+00:06:19,190 --> 00:06:22,799
+os mais distantes devem ser literalmente maiores
+
+106
+00:06:22,800 --> 00:06:26,259
+na vida real.
+A taxa na qual o ângulo visual
+
+107
+00:06:26,260 --> 00:06:30,109
+de algo que você está olhando muda à medida que
+você se aproxima ou se afasta dele
+
+108
+00:06:30,110 --> 00:06:33,339
+não é constante.
+Para cortar o
+
+109
+00:06:33,340 --> 00:06:36,719
+ângulo visual de um objeto pela metade, sua distância de você
+
+110
+00:06:36,720 --> 00:06:39,839
+deve dobrar.
+Isso significa que objetos
+
+111
+00:06:39,840 --> 00:06:44,879
+realmente muito distantes exigem muito
+mais movimento para ter seu ângulo visual
+
+112
+00:06:44,880 --> 00:06:47,599
+alterado em comparação com objetos mais próximos.
+
+113
+00:06:47,600 --> 00:06:51,159
+Isso é chamado de paralaxe e é uma das principais razões pelas quais o
+
+114
+00:06:51,160 --> 00:06:54,209
+movimento nos permite aprender muito sobre
+
+115
+00:06:54,210 --> 00:06:57,289
+profundidade.
+É por isso que as coisas na beira da estrada
+
+116
+00:06:57,290 --> 00:07:01,799
+passam zunindo por você enquanto você passa,
+enquanto características distantes da paisagem
+
+117
+00:07:01,800 --> 00:07:06,319
+parecem apenas passar rastejando.
+Uma coisa realmente distante, como,
+
+118
+00:07:06,320 --> 00:07:10,479
+digamos, a Lua, a 384.000 quilômetros de distância,
+
+119
+00:07:10,480 --> 00:07:14,629
+parece se mover tão pouco quanto você, pode
+
+120
+00:07:14,630 --> 00:07:16,638
+parecer estar seguindo você.
+
+121
+00:07:16,639 --> 00:07:21,858
+Não é, claro.  É apenas geometria.
+Pelas mesmas razões,
+
+122
+00:07:21,859 --> 00:07:26,308
+mover uma câmera pelo espaço
+afetará o ângulo visual de coisas mais próximas
+
+123
+00:07:26,309 --> 00:07:26,858
+,
+
+124
+00:07:26,859 --> 00:07:29,998
+como a caneca Vsauce aqui de forma muito mais dramática do que
+
+125
+00:07:29,999 --> 00:07:33,608
+coisas distantes,
+como o álbum de Jake Chudnow contra a parede.
+
+126
+00:07:33,609 --> 00:07:36,688
+Ele mal muda de tamanho à medida que nos movemos para
+
+127
+00:07:36,689 --> 00:07:40,498
+frente e para trás.
+Mas, ao contrário do movimento, o zoom
+
+128
+00:07:40,499 --> 00:07:43,538
+aumenta o ângulo visual de
+tudo igualmente,
+
+129
+00:07:43,539 --> 00:07:46,918
+independentemente da profundidade.
+Observe que ao dar zoom,
+
+130
+00:07:46,919 --> 00:07:51,958
+o álbum distante cresce e
+encolhe junto com a caneca.  Agora, se você mover para dentro
+
+131
+00:07:51,959 --> 00:07:55,168
+enquanto afasta o zoom, ou vice-versa,
+
+132
+00:07:55,169 --> 00:07:58,338
+o zoom será mais aparente ao olhar para
+
+133
+00:07:58,339 --> 00:08:01,938
+coisas distantes, enquanto o movimento mais aparente para coisas próximas.
+
+134
+00:08:01,939 --> 00:08:05,938
+O resultado pode ser trippy.
+Aqui eu fui colocado onde ambos os
+
+135
+00:08:05,939 --> 00:08:09,838
+efeitos se cancelam,
+então tudo ao meu redor
+
+136
+00:08:09,839 --> 00:08:14,138
+muda.  Outra grande ilusão que
+tira proveito da paralaxe
+
+137
+00:08:14,139 --> 00:08:17,598
+é a popular ilusão de campo de estrelas ou corredor.
+
+138
+00:08:17,599 --> 00:08:21,178
+Cubra o meio do vídeo
+e você parecerá estar se movendo
+
+139
+00:08:21,179 --> 00:08:25,468
+muito mais rápido.
+Mas se você cobrir as bordas, parecerá estar se movendo
+
+140
+00:08:25,469 --> 00:08:29,628
+muito mais devagar.  Tudo o que você está fazendo é alterar
+as pistas de perspectiva que seu cérebro
+
+141
+00:08:29,629 --> 00:08:30,288
+recebe
+
+142
+00:08:30,289 --> 00:08:33,619
+sobre o movimento.
+O material mais próximo na borda
+
+143
+00:08:33,620 --> 00:08:36,957
+muda de posição mais rápido do
+que o material de distância à frente.
+
+144
+00:08:36,958 --> 00:08:39,989
+Então, se você cobrir as coisas de distância lenta, seu cérebro só terá as coisas que
+
+145
+00:08:39,990 --> 00:08:44,969
+se movem mais rápido para
+julgar a velocidade.  Mas cubra as
+
+146
+00:08:44,970 --> 00:08:48,289
+coisas próximas mais rápidas e as coisas mais lentas se tornam as novas
+
+147
+00:08:48,290 --> 00:08:52,579
+próximas.
+Seu cérebro assume que você desacelerou.
+
+148
+00:08:52,580 --> 00:08:56,059
+A ótica e a matemática por trás de todos esses efeitos
+
+149
+00:08:56,060 --> 00:08:59,328
+foram compreendidas pelo menos milhares de anos atrás.
+
+150
+00:08:59,329 --> 00:09:02,958
+Durante o Renascimento, os artistas usaram esse
+conhecimento para produzir
+
+151
+00:09:02,959 --> 00:09:05,989
+pinturas que imitavam muito
+
+152
+00:09:05,990 --> 00:09:09,979
+bem a realidade.
+Quero dizer, a perspectiva é bastante realista.
+
+153
+00:09:09,980 --> 00:09:14,779
+Mas... o renascimento?
+
+154
+00:09:14,780 --> 00:09:17,939
+Por que demorou tanto para chegarmos lá?
+
+155
+00:09:17,940 --> 00:09:20,659
+Quero dizer, olhe para esta pintura pré-renascentista.
+
+156
+00:09:20,660 --> 00:09:24,659
+O que diabos está acontecendo aqui?
+A perspectiva está toda errada.  Isso não é
+
+157
+00:09:24,660 --> 00:09:26,709
+o que uma cena realmente
+
+158
+00:09:26,710 --> 00:09:31,919
+pareceria.
+Artistas e espectadores contemporâneos de obras como essa
+
+159
+00:09:31,920 --> 00:09:35,189
+viam o mundo como nós,
+
+160
+00:09:35,190 --> 00:09:39,349
+viam o escorço - não podiam deixar de
+vê-lo.  O escorço está bem à
+
+161
+00:09:39,350 --> 00:09:40,149
+vista.
+
+162
+00:09:40,150 --> 00:09:43,329
+Não, o escorço é à
+
+163
+00:09:43,330 --> 00:09:46,599
+vista.
+Então, o que dá?
+
+164
+00:09:46,600 --> 00:09:52,099
+Os artistas medievais eram apenas um bando de crianças de cinco anos?
+
+165
+00:09:52,100 --> 00:09:53,289
+Não.
+
+166
+00:09:53,290 --> 00:09:57,499
+Não no sentido de que a pergunta está errada.
+
+167
+00:09:57,500 --> 00:10:01,339
+A perspectiva de aparência realista foi usada
+muito antes do Renascimento.
+
+168
+00:10:01,340 --> 00:10:04,659
+Agora, pode não ter sido sempre
+uma perspectiva matematicamente formal,
+
+169
+00:10:04,660 --> 00:10:09,819
+mas o escorço foi entendido.
+A arte ocidental passou disso
+
+170
+00:10:09,820 --> 00:10:14,469
+para isso, não porque os humanos de
+repente se tornaram mais inteligentes,
+
+171
+00:10:14,470 --> 00:10:17,639
+mas por causa de uma diferença de desejo.
+
+172
+00:10:17,640 --> 00:10:22,259
+O que para nós hoje pode parecer irrealista e, portanto
+
+173
+00:10:22,260 --> 00:10:24,469
+, ruim, foi, em seu tempo,
+
+174
+00:10:24,470 --> 00:10:28,399
+deliberado e popular.
+A mudança
+
+175
+00:10:28,400 --> 00:10:32,619
+para imitar o mundo matematicamente,
+como se fosse visto através de uma janela,
+
+176
+00:10:32,620 --> 00:10:36,469
+era mais sobre interesses culturais e objetividade e
+
+177
+00:10:36,470 --> 00:10:40,189
+o indivíduo do que sobre
+artistas de repente se tornando
+
+178
+00:10:40,190 --> 00:10:44,609
+mais inteligentes.
+Além disso, ilusões de perspectiva mostram que o que
+
+179
+00:10:44,610 --> 00:10:48,199
+pensamos que vemos nem sempre é o que estamos vendo.
+
+180
+00:10:48,200 --> 00:10:50,909
+O desenho de uma criança pode parecer grosseiro
+
+181
+00:10:50,910 --> 00:10:54,319
+em termos de imitação matemática objetiva,
+
+182
+00:10:54,320 --> 00:10:57,809
+mas há outras coisas sobre o mundo e
+
+183
+00:10:57,810 --> 00:11:01,729
+nossa experiência que vale a pena imitar.
+
+
+184
+00:11:01,730 --> 00:11:05,039
+Provocar o menos óbvio para mostrar
+algo pessoal
+
+185
+00:11:05,040 --> 00:11:08,789
+às vezes é ainda mais difícil do que seguir as
+grades de perspectiva que
+
+186
+00:11:08,790 --> 00:11:12,819
+Picasso colocou desta forma: "Levei quatro anos
+
+187
+00:11:12,820 --> 00:11:17,849
+para aprender a pintar como Rafael,
+mas uma vida inteira para aprender a pintar
+
+188
+00:11:17,850 --> 00:11:19,899
+como uma criança".
+
+189
+00:11:19,900 --> 00:11:21,119
+E como sempre,
+
+190
+00:11:21,120 --> 00:11:22,500
+obrigado por assistir.
+

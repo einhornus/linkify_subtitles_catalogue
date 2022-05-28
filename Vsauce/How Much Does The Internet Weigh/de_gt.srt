@@ -1,0 +1,267 @@
+1
+00:00:00,470 --> 00:00:02,199
+Hey, Vsoße.
+Michael hier.
+
+2
+00:00:02,200 --> 00:00:08,379
+Und diese Erdbeere wiegt etwa 50 Gramm,
+was laut Russell Seitz
+
+3
+00:00:08,380 --> 00:00:14,379
+auch das Gewicht des gesamten Internets ist.
+Was bedeutet das?
+
+4
+00:00:14,380 --> 00:00:19,309
+Ich meine, das Internet ist ein gigantischer Ort und
+wie misst man Informationen?
+
+5
+00:00:19,310 --> 00:00:22,768
+Fangen wir mit einem Kindle etwas kleiner an
+.
+
+6
+00:00:22,769 --> 00:00:27,178
+Im Moment lese ich Gadsby, ein
+großartiger Roman, der absolut Sinn macht, außer dass
+
+7
+00:00:27,179 --> 00:00:31,839
+er geschrieben wurde, ohne jemals den Buchstaben
+„e“ zu verwenden, was großartig ist.
+
+8
+00:00:31,840 --> 00:00:35,719
+Aber als ich Gadsby auf meinen Kindle legte, nahm mein
+Kindle dann an Gewicht zu?
+
+9
+00:00:35,720 --> 00:00:40,599
+Na ja, theoretisch schon.
+Informationen werden auf Flash-Laufwerken wie
+
+10
+00:00:40,600 --> 00:00:45,889
+diesem und auf meinem Kindle in Binärform gespeichert.
+Und diese Binärdatei existiert physikalisch, weil
+
+11
+00:00:45,890 --> 00:00:50,679
+Elektronen Floating-Gate-Transistoren aufladen.
+Und die Sache mit Elektronen ist, dass
+
+12
+00:00:50,680 --> 00:00:55,239
+sie Masse haben.
+Tatsächlich schätzte ein Professor in Berkeley,
+
+13
+00:00:55,240 --> 00:01:00,699
+dass, wenn ein Kindle vollständig mit Büchern gefüllt ist,
+sein Gewicht um etwa 10 bis zu den negativen
+
+14
+00:01:00,700 --> 00:01:05,549
+18 Gramm zunimmt.
+Diese Zahl ist umwerfend winzig.
+
+15
+00:01:05,550 --> 00:01:11,109
+Tatsächlich sagt er, dass, wenn Sie
+den Akku eines Kindle vollständig aufladen, er 100 Millionen Mal
+
+16
+00:01:11,110 --> 00:01:13,869
+mehr Masse gewinnt, als wenn Sie ihn mit
+Büchern füllen.
+
+17
+00:01:13,870 --> 00:01:16,809
+Aber selbst dann ist die Zahl unmöglich zu
+messen.
+
+18
+00:01:16,810 --> 00:01:22,529
+Die spezifischsten Waagen, die wir je entwickelt haben,
+messen nur etwa 10 hoch minus 9
+
+19
+00:01:22,530 --> 00:01:25,299
+Gramm.
+Also lass uns größer werden.
+
+20
+00:01:25,300 --> 00:01:30,069
+Russell Seitz hat seine Messung entwickelt,
+weil das Internet aus Netzwerken
+
+21
+00:01:30,070 --> 00:01:36,559
+von Servern besteht, und es sind etwa 75 bis 100 Millionen
+Server, die in Betrieb sind, damit das Internet funktioniert.
+
+22
+00:01:36,560 --> 00:01:42,259
+Zusammen ergeben diese vielen Server etwa 40
+Milliarden Watt Strom, und wir wissen, dass
+
+23
+00:01:42,260 --> 00:01:46,239
+ein Verstärker etwa 10 hoch 18 Elektronen pro
+Sekunde verbraucht.
+
+24
+00:01:46,240 --> 00:01:50,949
+Und da wir das Gewicht eines Elektrons kennen
+, können wir berechnen, dass das gesamte
+
+25
+00:01:50,950 --> 00:01:55,709
+Internet wirklich nur etwa 50 Gramm Elektronen
+in Bewegung sind.
+
+26
+00:01:55,710 --> 00:01:59,809
+Jetzt umfasst diese Zahl nur Server.
+Und Seitz sagt, wenn Sie die
+
+27
+00:01:59,810 --> 00:02:04,059
+Chips auch in PCs einbauen wollen, ist die Zahl
+etwa dreimal größer.
+
+28
+00:02:04,060 --> 00:02:07,119
+Aber es gibt ein Gewicht des Internets,
+das mich ein bisschen mehr beeindruckt.
+
+29
+00:02:07,120 --> 00:02:11,779
+Es ist eine Berechnung nicht der Energie, die benötigt wird
+, um das Internet zu bedienen, sondern der Energie, die
+
+30
+00:02:11,780 --> 00:02:16,439
+in den eigentlichen Informationen enthalten ist.
+Die Videos, die Bilder, die E-Mails.
+
+31
+00:02:16,440 --> 00:02:20,639
+Wie viel wiegen sie alle zusammen, wenn sie
+gelagert werden?
+
+32
+00:02:20,640 --> 00:02:26,348
+Nun, hier ist das Ding.
+Es braucht ungefähr 8 Milliarden Elektronen, um
+
+33
+00:02:26,349 --> 00:02:29,788
+eine E-Mail zu speichern.
+8 Milliarden klingen viel, aber Elektronen
+
+34
+00:02:29,789 --> 00:02:36,479
+sind winzig und so wiegt eine E-Mail nur etwa
+zwei Zehntausendstel einer
+
+35
+00:02:36,480 --> 00:02:39,699
+Billiardstel Unze.
+Aber das Internet enthält viele E-Mails
+
+36
+00:02:39,700 --> 00:02:44,399
+und es enthält viele Videos und Bilder und
+Promi-Gerüchte, also wie viel wiegt es
+
+37
+00:02:44,400 --> 00:02:47,659
+insgesamt?
+Nun, die erste Frage, die wir uns stellen müssen, ist,
+
+38
+00:02:47,660 --> 00:02:53,319
+wie groß das Internet ist, und das ist schwer
+zu berechnen, aber Eric Schmidt, der damalige CEO von
+
+39
+00:02:53,320 --> 00:03:00,429
+Google, schätzte einmal, dass das gesamte
+Internet etwa 5 Millionen Terabyte an Informationen enthält,
+
+40
+00:03:00,430 --> 00:03:05,729
+von denen er sagte  , Google hat nur
+0,004 % indexiert.
+
+41
+00:03:05,730 --> 00:03:10,889
+Okay, ohne die Energie zu zählen, die
+für die Bereitstellung des Internets benötigt wird, belaufen sich die Informationen selbst
+
+42
+00:03:10,890 --> 00:03:16,899
+im Internet auf etwa 5 Millionen Terabyte.
+Jetzt wissen wir, wie viele Elektronen es braucht,
+
+43
+00:03:16,900 --> 00:03:21,289
+um ein einzelnes Byte zu bilden, und wir kennen die Masse
+eines Elektrons, und so können Sie mit ein wenig
+
+44
+00:03:21,290 --> 00:03:26,919
+Mathematik herausfinden, dass das gesamte Internet,
+alles darin, zusammengenommen nur
+
+45
+00:03:26,920 --> 00:03:33,699
+0,2 Millionstel eines wiegt  Unze.
+Stellen Sie es sich so vor: jedes einzelne Video auf
+
+46
+00:03:33,700 --> 00:03:38,719
+YouTube, jedes einzelne Video im gesamten
+Web, jedes einzelne Bild, jede einzelne Website,
+
+47
+00:03:38,720 --> 00:03:42,139
+jede E-Mail, die Sie gesendet haben, jeder
+Liebesbrief, den Sie geschrieben haben, jedes Foto Ihrer
+
+48
+00:03:42,140 --> 00:03:47,848
+Enkelkinder  Sie erhalten haben, wird
+kollektiv in einer Masse von etwa der
+
+49
+00:03:47,849 --> 00:03:54,878
+Größe des kleinstmöglichen Sandkorns gehalten.
+Wenn Sie @tweetsauce auf Twitter folgen, können Sie
+
+50
+00:03:54,879 --> 00:03:56,859
+noch mehr erfahren.
+Ich werde dort einige weitere Fakten über Elektrizität im Allgemeinen teilen, die ich in diesem Video nicht aufgenommen habe
+
+51
+00:03:56,860 --> 00:03:59,979
+
+.
+
+52
+00:03:59,980 --> 00:04:02,379
+Liken Sie uns auf Facebook, um zu zeigen, dass Sie Klasse haben.
+
+53
+00:04:02,380 --> 00:04:02,999
+Und wie immer
+
+54
+00:04:03,000 --> 00:04:04,420
+danke fürs Zuschauen.
+

@@ -1,0 +1,465 @@
+1
+00:00:00,000 --> 00:00:01,279
+Atrapado en una intersección
+
+2
+00:00:01,280 --> 00:00:04,699
+, siempre observa cómo se desarrolla
+el Problema Fundamental del Tráfico.
+
+3
+00:00:04,700 --> 00:00:07,679
+En verde, el primer auto acelera, y luego el siguiente,
+
+4
+00:00:07,680 --> 00:00:10,939
+y luego el siguiente, y luego el siguiente, y luego tú,
+
+5
+00:00:10,940 --> 00:00:12,459
+solo para alcanzar el rojo.
+
+6
+00:00:12,460 --> 00:00:14,539
+Si los autos hubieran acelerado simultáneamente
+
+7
+00:00:14,540 --> 00:00:16,378
+, habrías logrado pasar.
+
+8
+00:00:16,379 --> 00:00:19,319
+La coordinación, no los automóviles, es el problema,
+
+9
+00:00:19,320 --> 00:00:22,469
+porque somos
+monos conductores con tiempos de reacción lentos
+
+10
+00:00:22,470 --> 00:00:24,179
+y períodos de atención breves.
+
+11
+00:00:24,180 --> 00:00:29,359
+Incluso si intentáramos que todos
+pisaran el pedal en 3-2-1-ahora
+
+12
+00:00:29,360 --> 00:00:30,679
+sería un desafío.
+
+13
+00:00:30,680 --> 00:00:34,039
+Esta descoordinación limita
+la cantidad de automóviles que pueden atravesar una intersección
+
+14
+00:00:34,040 --> 00:00:36,199
+y cuando uno retrocede hasta el siguiente
+
+15
+00:00:36,200 --> 00:00:40,699
+, es cuando ocurren cascadas de embotellamientos del tamaño de una ciudad, que tardan una
+eternidad en despejarse.
+
+16
+00:00:40,700 --> 00:00:44,539
+En general, más intersecciones equivalen a más
+descoordinación, lo que equivale a más tráfico.
+
+17
+00:00:44,540 --> 00:00:47,579
+Este es el motivo detrás de las grandes autopistas:
+sin intersecciones.
+
+18
+00:00:47,580 --> 00:00:50,459
+Se divide y se fusiona, sí.  Intersecciones, n.
+
+19
+00:00:50,460 --> 00:00:53,398
+Sin paradas, sin problemas de coordinación, sin tráfico
+
+20
+00:00:53,399 --> 00:00:54,639
+Bueno, esa es la teoría de todos modos.
+
+21
+00:00:54,640 --> 00:00:57,179
+Las intersecciones fuera de una
+carretera retrocederán hacia ella.
+
+22
+00:00:57,180 --> 00:01:00,939
+Nuevamente, porque los tiempos de reacción humanos
+limitan cuántos autos pueden escapar de la rampa de salida
+
+23
+00:01:00,940 --> 00:01:02,268
+cuando cambia la luz.
+
+24
+00:01:02,269 --> 00:01:06,599
+Pero, incluso sin intersecciones,
+todavía habría tráfico en la carretera.
+
+25
+00:01:06,600 --> 00:01:08,239
+El tráfico simplemente puede aparecer.
+
+26
+00:01:08,240 --> 00:01:10,519
+Tome una carretera de un solo carril con autos felices circulando
+
+27
+00:01:10,520 --> 00:01:12,439
+hasta que un pollo cruce la carretera.
+
+28
+00:01:12,440 --> 00:01:13,859
+El conductor que lo ve frena un poco,
+
+29
+00:01:13,860 --> 00:01:17,379
+el conductor detrás de él no se da cuenta de inmediato
+y frena un poco más fuerte de lo necesario,
+
+30
+00:01:17,380 --> 00:01:21,219
+el conductor detrás de él hace lo mismo
+hasta que alguien se detiene por completo
+
+31
+00:01:21,220 --> 00:01:25,359
+y, oh, mira, los autos se acercan a
+velocidades de autopista.  ahora debe parar también.
+
+32
+00:01:25,360 --> 00:01:30,059
+Aunque el pollo se fue hace mucho tiempo
+, dejó una intersección fantasma en la carretera.
+
+33
+00:01:30,060 --> 00:01:32,739
+Esto es lo que sucede cuando
+estás atascado en el tráfico durante horas pensando:
+
+34
+00:01:32,740 --> 00:01:36,119
+"Debe haber una pila mortal más adelante"
+y luego, de repente, el tráfico se
+
+35
+00:01:36,120 --> 00:01:39,059
+acaba sin restos a la vista,
+para tu alivio si eres una buena persona
+
+36
+00:01:39,060 --> 00:01:40,679
+y apacible.  molestia si no lo eres.
+
+37
+00:01:40,680 --> 00:01:42,859
+Acabas de pasar por una
+intersección fantasma,
+
+38
+00:01:42,860 --> 00:01:44,639
+cuya causa se ha ido hace mucho tiempo.
+
+39
+00:01:44,640 --> 00:01:47,139
+Y esta intersección fantasma se mueve.
+
+40
+00:01:47,140 --> 00:01:50,079
+Es realmente una serpiente de tránsito deslizándose por la carretera
+
+41
+00:01:50,080 --> 00:01:53,519
+devorando los autos que se aproximan en un extremo
+y expulsándolos por el otro.
+
+42
+00:01:53,520 --> 00:01:55,739
+En una carretera de circunvalación, un solo automóvil que reduce la velocidad
+
+43
+00:01:55,740 --> 00:01:58,559
+iniciará un Ouroboros de tráfico que durará para siempre,
+
+44
+00:01:58,560 --> 00:02:01,339
+aunque no haya ningún problema con la carretera.
+
+45
+00:02:01,340 --> 00:02:04,879
+Si los conductores pudieran coordinarse para
+acelerar y separarse simultáneamente,
+
+46
+00:02:04,880 --> 00:02:06,859
+volvería la conducción fácil.
+
+47
+00:02:06,860 --> 00:02:09,159
+Pero no pueden, así que el tráfico es eterno.
+
+48
+00:02:09,160 --> 00:02:13,039
+En las carreteras, las serpientes de tráfico crecen
+si los autos se comen más rápido de lo que se excretan,
+
+49
+00:02:13,040 --> 00:02:15,359
+y se encogen si se excretan más rápido de lo que se comen, y
+
+50
+00:02:15,360 --> 00:02:19,499
+mueren cuando el último auto se aleja acelerando
+antes de que el próximo auto deba detenerse.
+
+51
+00:02:19,500 --> 00:02:22,819
+Ahora, en las autopistas de varios carriles,
+no es necesario que haya gallinas para iniciar un embotellamiento.
+
+52
+00:02:22,820 --> 00:02:26,759
+Un conductor que cruza carriles rápidamente
+con autos demasiado cerca es suficiente
+
+53
+00:02:26,760 --> 00:02:29,719
+para que nazca una serpiente de tránsito que vive durante
+horas y leguas.
+
+54
+00:02:29,720 --> 00:02:34,919
+Es este cruce rápido lo que hace que los
+conductores de atrás frenen en exceso y comiencen una reacción en cadena.
+
+55
+00:02:34,920 --> 00:02:39,619
+Pero *podemos* hacer que las
+serpientes del tráfico sean menos probables al cambiar la forma en que conducimos.
+
+56
+00:02:39,620 --> 00:02:42,819
+Su objetivo como conductor es
+mantenerse a la misma distancia del automóvil de adelante
+
+57
+00:02:42,820 --> 00:02:45,419
+que del automóvil de atrás en todo momento.
+
+58
+00:02:45,420 --> 00:02:48,509
+Tailgating es un problema.  No solo
+porque hace que los accidentes sean más probables, sino
+
+59
+00:02:48,510 --> 00:02:53,068
+porque usted, como el que sigue, puede iniciar una
+serpiente de tráfico si el conductor de adelante frena.
+
+60
+00:02:53,069 --> 00:02:54,988
+¡Siempre en el medio!
+
+61
+00:02:54,989 --> 00:02:57,208
+Esto le brinda la mayor cantidad de tiempo
+para evitar el frenado excesivo,
+
+62
+00:02:57,209 --> 00:03:00,539
+pero también le da
+la mayor cantidad de tiempo al conductor detrás de usted.
+
+63
+00:03:00,540 --> 00:03:01,649
+Y cuando está atascado en el tráfico,
+
+64
+00:03:01,650 --> 00:03:06,298
+esta regla haría que todos los autos apartaran a la serpiente más rápido.
+
+65
+00:03:06,299 --> 00:03:10,439
+Esa es la solución simple para el tráfico:
+hacer que los humanos cambien su comportamiento,
+
+66
+00:03:10,440 --> 00:03:13,859
+tal vez compartiendo este video para mostrar
+cómo y por qué ocurre el tráfico,
+
+67
+00:03:13,860 --> 00:03:18,999
+por qué los que siguen detrás son un problema y cómo podemos trabajar juntos para mejorar las carreteras para todos.
+
+68
+00:03:19,000 --> 00:03:20,479
+El fin.
+
+69
+00:03:20,480 --> 00:03:21,568
+Excepto, sí...
+
+70
+00:03:21,569 --> 00:03:25,799
+desear a una estrella que las personas sean
+mejores de lo que son es una solución terrible.
+
+71
+00:03:25,800 --> 00:03:26,579
+Cada vez.
+
+72
+00:03:26,580 --> 00:03:29,789
+En cambio, lo que funciona es una
+solución estructuralmente sistematizada
+
+73
+00:03:29,790 --> 00:03:32,449
+que es exactamente lo que son los autos sin conductor.
+
+74
+00:03:32,450 --> 00:03:34,069
+Los autos que se conducen solos se pueden programar
+
+75
+00:03:34,070 --> 00:03:36,519
+para permanecer en el medio y acelerar simultáneamente.
+
+76
+00:03:36,520 --> 00:03:37,499
+Simplemente lo harán.
+
+77
+00:03:37,500 --> 00:03:41,339
+Cuantos más autos autónomos haya en una intersección
+, más eficiente será la intersección.
+
+78
+00:03:41,340 --> 00:03:45,719
+Un carril sólido de autos sin conductor
+aumenta enormemente el rendimiento.
+
+79
+00:03:45,720 --> 00:03:46,729
+¡Mmm, en realidad!
+
+80
+00:03:46,730 --> 00:03:49,979
+Si prohíbe la entrada de humanos en la carretera
+(lo que deberíamos hacer de todos modos
+
+81
+00:03:49,980 --> 00:03:52,299
+), puede deshacerse de la intersección por completo.
+
+82
+00:03:52,300 --> 00:03:57,418
+Después de todo, un semáforo es solo una herramienta para que los conductores
+en una carretera se comuniquen con los conductores
+
+83
+00:03:57,419 --> 00:03:59,579
+en otra, de manera deficiente y tosca.
+
+84
+00:03:59,580 --> 00:04:02,379
+Rojo es igual a "No te vayas ahora,
+estamos llegando por la intersección".
+
+85
+00:04:02,380 --> 00:04:03,639
+Verde es igual a "bueno para llevar".
+
+86
+00:04:03,640 --> 00:04:07,399
+Pero los coches autónomos pueden
+comunicarse entre sí a la velocidad de la luz.
+
+87
+00:04:07,400 --> 00:04:10,229
+con ese tipo de coordinación, no se necesita semáforo.
+
+88
+00:04:10,230 --> 00:04:14,669
+Al igual que con la autopista, la mejor
+intersección es ninguna intersección.
+
+89
+00:04:14,670 --> 00:04:16,989
+Los humanos nunca conducirán con esta precisión.
+
+90
+00:04:16,990 --> 00:04:19,879
+En la intersección, el problema fundamental con el tráfico
+
+91
+00:04:19,880 --> 00:04:23,259
+que observas, así como todo, es la gente.
+
+92
+00:04:23,260 --> 00:04:25,339
+Entonces, la solución realmente simple para el tráfico
+
+93
+00:04:25,340 --> 00:04:30,259
+: no más monos conduciendo automóviles.
+
+94
+00:04:30,260 --> 00:04:33,239
+Este video ha sido presentado
+en parte por Audible.com,
+
+95
+00:04:33,240 --> 00:04:37,279
+con más de 180,000 audiolibros
+y productos de audio hablados.
+
+96
+00:04:37,280 --> 00:04:41,599
+Obtenga una prueba gratuita hoy en audible.com/grey
+
+97
+00:04:41,600 --> 00:04:44,019
+Si le gusta pensar en cómo el futuro puede ser mejor,
+
+98
+00:04:44,020 --> 00:04:46,779
+¿por qué no lee la biografía de Elon Musk:
+
+99
+00:04:46,780 --> 00:04:51,039
+"Tesla, SpaceX, and the Quest for a Fantastic Future"
+de Ashlee Vance
+
+100
+00:04:51,040 --> 00:04:52,539
+es  disponible en Audible.  Escúchelo
+
+101
+00:04:52,540 --> 00:04:58,709
+con su prueba gratuita de 30 días que puede
+obtener en audible.com/grey
+
+102
+00:04:58,710 --> 00:05:02,829
+Audible es el lugar al que voy para todos mis audiolibros, y usted también debería hacerlo.
+
+103
+00:05:02,830 --> 00:05:06,129
+Es un universo casi infinito de
+cosas interesantes para escuchar.
+
+104
+00:05:06,130 --> 00:05:08,870
+Pruébelos y gracias a Audible por
+apoyar el canal.
+

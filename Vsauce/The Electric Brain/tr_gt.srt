@@ -1,0 +1,3432 @@
+1
+00:00:06,072 --> 00:00:09,140
+Sinir
+sistemi temelde elektrikseldir.
+
+2
+00:00:09,141 --> 00:00:10,375
+Kolumuzu hareket
+
+3
+00:00:10,376 --> 00:00:11,676
+ettirdiğimizde hareket eder çünkü onu kontrol
+
+4
+00:00:11,677 --> 00:00:14,512
+eden kasa bir sinyal gönderilir
+
+5
+00:00:14,513 --> 00:00:16,414
+ve bu mesaj sinir hücrelerinin
+
+
+6
+00:00:16,415 --> 00:00:19,150
+içinde ve dışında hareket eden yüklü atomlardan oluşur
+.
+
+7
+00:00:19,151 --> 00:00:20,852
+Elektrik.
+
+8
+00:00:20,853 --> 00:00:22,554
+Şimdi,
+beyin elektrik olduğu için, elektriği
+
+9
+00:00:22,555 --> 00:00:24,756
+
+
+
+10
+00:00:24,757 --> 00:00:26,524
+beynin ne yaptığını kaydetmek
+
+11
+00:00:26,525 --> 00:00:28,860
+veya tamamen atlamak
+
+12
+00:00:28,861 --> 00:00:31,629
+ve bir vücudu kontrol etmek için de kullanabiliriz.
+-[bip]
+
+13
+00:00:31,630 --> 00:00:33,865
+Bu,
+
+
+14
+00:00:33,866 --> 00:00:36,334
+diğer insanların bedenlerini hareket ettirmek, felçli
+
+15
+00:00:36,335 --> 00:00:38,736
+insanlara hareket kazandırmak
+,
+
+16
+00:00:38,737 --> 00:00:41,473
+yapay bir elle
+kendi elimizmiş gibi hissetmek
+
+17
+00:00:41,474 --> 00:00:44,776
+ve hatta insanların zihinlerini okumak için zihnimizi kullanabileceğimiz anlamına gelir.
+
+18
+00:00:44,777 --> 00:00:46,377
+Şok edici!
+
+19
+00:00:46,378 --> 00:01:09,434
+[tema müziği çalıyor]
+
+20
+00:01:09,435 --> 00:01:12,237
+Elektrik 1800'lere kadar gerçekten anlaşılmamış olsa da
+
+21
+00:01:12,238 --> 00:01:14,405
+
+, vücudu etkileme yeteneği
+
+22
+00:01:14,406 --> 00:01:17,308
+en azından antik Roma döneminden beri biliniyordu
+
+23
+00:01:17,309 --> 00:01:18,776
+, saygın doktor
+
+24
+00:01:18,777 --> 00:01:20,645
+Scribonius Largus
+
+25
+00:01:20,646 --> 00:01:21,779
+
+
+26
+00:01:21,780 --> 00:01:23,348
+yanlışlıkla
+
+27
+00:01:23,349 --> 00:01:24,816
+elektrikli balığa basan bir adam hakkında yazdı
+
+28
+00:01:24,817 --> 00:01:27,785
+ve  aniden
+gut ağrısından kurtuldu.
+
+29
+00:01:27,786 --> 00:01:29,487
+Scribonius bazı deneyler yaptı
+
+30
+00:01:29,488 --> 00:01:31,789
+ve başınıza
+elektrikli bir balık koyabileceğinizi
+
+31
+00:01:31,790 --> 00:01:36,928
+
+ve baş ağrılarını giderebileceğinizi buldu.
+
+32
+00:01:36,929 --> 00:01:38,530
+Yüzyıllar sonra, 1804'te
+
+33
+00:01:38,531 --> 00:01:40,832
+İtalyan fizikçi
+Giovanni Aldini
+
+34
+00:01:40,833 --> 00:01:43,401
+,
+insanların kaslarını
+
+35
+00:01:43,402 --> 00:01:49,374
+elektrikle hareket ettirebildiğini keşfetti.
+
+36
+00:01:49,375 --> 00:01:50,942
+İdam edilmiş bir suçlunun cesedini canlandırmak için elektriği kullanarak Avrupa dünyasını şaşırttı.
+
+37
+00:01:50,943 --> 00:01:53,211
+Ceset gözlerini açtı
+
+38
+00:01:53,212 --> 00:01:55,547
+ve hatta oturur gibi oldu.
+
+39
+00:01:55,548 --> 00:01:59,284
+Ancak Aldini sadece
+insanları şok etmeye çalışmıyordu.
+
+40
+00:01:59,285 --> 00:02:02,887
+
+
+
+41
+00:02:02,888 --> 00:02:05,223
+Hem düşüncelerimizi hem de hareketlerimizi
+
+42
+00:02:05,224 --> 00:02:07,725
+kontrol eden hücreler olan nöronların elektrikle çalıştığını dünyaya gösteriyordu.
+
+43
+00:02:07,726 --> 00:02:17,702
+[vızıltı]
+
+44
+00:02:17,703 --> 00:02:20,805
+
+Bir kişinin
+
+45
+00:02:20,806 --> 00:02:24,375
+vücudunu kontrol etmek için beynini baypas ettiğinizi hayal edin.
+
+46
+00:02:24,376 --> 00:02:25,810
+Normalde
+vücudunuzu hareket ettirdiğinizde
+
+47
+00:02:25,811 --> 00:02:27,812
+beyniniz
+
+
+48
+00:02:27,813 --> 00:02:29,247
+sinirler aracılığıyla elektrik sinyalleri gönderir.
+
+49
+00:02:29,248 --> 00:02:30,982
+Ancak
+
+50
+00:02:30,983 --> 00:02:32,350
+bu sinyalleri göndermek
+
+51
+00:02:32,351 --> 00:02:34,519
+için elektrotlar kullanabilirsek
+
+
+52
+00:02:34,520 --> 00:02:36,287
+, beynin dahil olmasına ihtiyaç duymadan bir kişinin vücudunu kontrol edebiliriz
+.
+
+53
+00:02:36,288 --> 00:02:38,323
+
+Onları uzaktan kumandayla kontrol edebiliyorduk
+
+54
+00:02:38,324 --> 00:02:40,925
+ve
+bugün hamamböcekleriyle yapmak üzere olduğumuz şey bu
+
+55
+00:02:40,926 --> 00:02:49,334
+.
+
+56
+00:02:49,335 --> 00:02:51,769
+Backyard Brains'den Tim Marzullo ile birlikteyim
+
+
+57
+00:02:51,770 --> 00:02:54,305
+ve Tim, sen
+biraz hamamböceği getirmişsin.
+
+58
+00:02:54,306 --> 00:02:56,608
+[Tim] Evet, Michael,
+hamamböcekleri
+
+59
+00:02:56,609 --> 00:02:58,643
+çevrelerini algılamak
+ve hareket etmek için antenlerini kullanırlar
+
+60
+00:02:58,644 --> 00:03:01,246
+ve biz de
+hamamböceğini kandırmaya
+
+61
+00:03:01,247 --> 00:03:02,847
+ve
+
+
+62
+00:03:02,848 --> 00:03:04,716
+
+birkaç dakika boyunca hareketini kontrol etmeye çalışacağız.
+
+63
+00:03:04,717 --> 00:03:05,984
+Kandırın, nasıl kandırırız?
+
+64
+00:03:05,985 --> 00:03:08,853
+Antenlerine
+
+
+65
+00:03:08,854 --> 00:03:10,688
+
+
+
+66
+00:03:10,689 --> 00:03:12,590
+elektriksel darbeler
+göndermek için sinir sistemini ele geçireceğimiz hamamböceği üzerinde bir ameliyat yapacağız.
+
+67
+00:03:12,591 --> 00:03:14,325
+[Michael]
+Pekala, hadi başlayalım.
+
+68
+00:03:14,326 --> 00:03:16,027
+-[Tim] Hadi yapalım.
+-[Michael] Bugün yanımda
+
+69
+00:03:16,028 --> 00:03:18,730
+son teknoloji bir
+hamamböceği ameliyathanesi getirdim.
+
+70
+00:03:18,731 --> 00:03:20,832
+Şimdi, hamamböceği ameliyatını nasıl yaparsın?
+
+
+71
+00:03:20,833 --> 00:03:23,801
+Bir kavanoz buzlu suyumuz var
+ve anestezi
+
+72
+00:03:23,802 --> 00:03:25,637
+sağlamak
+için
+
+73
+00:03:25,638 --> 00:03:27,872
+hamamböceklerini buzlu suya koyacağız
+ve sinir sistemleri
+
+74
+00:03:27,873 --> 00:03:30,341
+
+elektrik uyarılarını durduracak.
+
+75
+00:03:30,342 --> 00:03:32,343
+Bir
+veya iki dakika sonra hareket etmeyi bırakacaklarını fark edeceğiz.
+
+76
+00:03:32,344 --> 00:03:34,412
+[Michael] Hamam
+böcekleri uyuşturulduktan sonra
+
+77
+00:03:34,413 --> 00:03:36,414
+
+ameliyat için hazırdılar.
+
+78
+00:03:36,415 --> 00:03:37,749
+[Tim] Pekala
+, şimdi yapacağımız
+
+79
+00:03:37,750 --> 00:03:39,484
+şey elektrotları bağlamak.
+
+80
+00:03:39,485 --> 00:03:40,718
+Yani
+burada küçük konektörümüz var.
+
+81
+00:03:40,719 --> 00:03:42,420
+Üç teli vardır.
+Topraklama kablosu vardır
+
+82
+00:03:42,421 --> 00:03:43,755
+
+ve sol anten
+
+83
+00:03:43,756 --> 00:03:45,556
+ve sağ anten için bir kablosu vardır.
+
+84
+00:03:45,557 --> 00:03:49,327
+Tam burada hamamböceğine
+küçük bir Superglue boncuk
+
+85
+00:03:49,328 --> 00:03:51,462
+koyacağım ve sonra
+
+
+86
+00:03:51,463 --> 00:03:53,998
+elektrotu hamamböceğinin kafasına yapıştıracağım.
+
+87
+00:03:53,999 --> 00:03:56,334
+[Michael] Ardından
+, topraklama
+
+88
+00:03:56,335 --> 00:03:58,703
+kablosunu kanadın uçuş
+kasına yerleştirdik.
+
+89
+00:03:58,704 --> 00:03:59,904
+-[Tim] Buyrun.
+-[Michael] Harika.
+
+90
+00:03:59,905 --> 00:04:01,472
+[Tim]
+Kabloyu arkaya koydum.
+
+91
+00:04:01,473 --> 00:04:02,907
+[Michael
+] Kalan iki kablo
+
+92
+00:04:02,908 --> 00:04:04,976
+
+antene takılır.
+
+93
+00:04:04,977 --> 00:04:06,711
+[Tim] Şimdi
+anteni
+
+94
+00:04:06,712 --> 00:04:08,346
+tam şurada keseceğim ve biz...
+
+95
+00:04:08,347 --> 00:04:09,814
+[Michael] Ve şimdi
+içi boş bir tüp olduğu için... ...
+
+96
+00:04:09,815 --> 00:04:11,015
+
+kabloyu içeri sokabiliriz.
+
+97
+00:04:11,016 --> 00:04:12,917
+[Tim] Şimdi,
+ne yapacağım
+
+98
+00:04:12,918 --> 00:04:15,320
+Yapacağım şey,
+onu sadece antene yerleştireceğim.
+
+99
+00:04:15,321 --> 00:04:17,455
+-Tamam?
+-[Michael] Anladım, vay.
+
+100
+00:04:17,456 --> 00:04:19,824
+[Tim] Ve
+sol anten için hazır.
+
+101
+00:04:19,825 --> 00:04:23,061
+Oraya gidiyoruz.
+Tam oraya gitti.
+
+102
+00:04:23,062 --> 00:04:25,630
+Hamamböceğini buzlu suya geri koyacağım.
+
+103
+00:04:25,631 --> 00:04:27,999
+Şimdi
+bunun onlara
+
+104
+00:04:28,000 --> 00:04:29,600
+ve yaşam kalitelerine ne yaptığına işaret etmeye değer.
+
+105
+00:04:29,601 --> 00:04:30,868
+[Tim] Evet, ameliyattan sonra
+
+106
+00:04:30,869 --> 00:04:32,070
+onları evlerine geri götüreceğim
+
+
+107
+00:04:32,071 --> 00:04:33,338
+, kabloları keseceğim
+ve bu hamamböcekleri
+
+108
+00:04:33,339 --> 00:04:34,739
+emekli olacak.
+
+109
+00:04:34,740 --> 00:04:36,474
+[Michael] Ve anten
+tekrar büyüyecek mi?
+
+110
+00:04:36,475 --> 00:04:39,377
+[Tim] Evet,
+onları üreyen kolonimize geri
+
+111
+00:04:39,378 --> 00:04:40,678
+vereceğim ve gösteriden sonra mutlu hamamböceği hayatları yaşayacaklar
+
+
+112
+00:04:40,679 --> 00:04:42,046
+.
+
+113
+00:04:42,047 --> 00:04:43,881
+-[Michael] Harika.
+-[Tim] Pekala.
+
+114
+00:04:43,882 --> 00:04:45,750
+-Artık gitmeye hazırız.
+-[Michael] Harika.
+
+115
+00:04:45,751 --> 00:04:48,653
+Siber-
+roach'ımız artık nörolojik
+
+116
+00:04:48,654 --> 00:04:50,755
+olarak harici kontrol için kablolanmıştır.
+
+117
+00:04:50,756 --> 00:04:52,790
+[Michael]
+Bu son teknoloji bir
+
+118
+00:04:52,791 --> 00:04:54,492
+hamamböceği yarış pisti.
+
+119
+00:04:54,493 --> 00:04:56,861
+Tim ve ben bir test sürüşü için
+birkaç robo-böcek almak üzereyiz
+
+120
+00:04:56,862 --> 00:04:58,129
+.
+
+121
+00:04:58,130 --> 00:04:59,430
+Ama önce Tim,
+
+122
+00:04:59,431 --> 00:05:01,599
+
+sıradan bir hamam böceğinin nasıl
+
+123
+00:05:01,600 --> 00:05:03,768
+hareket
+ettiğini ve antenini nasıl kullandığını görmek istiyorum.
+
+124
+00:05:03,769 --> 00:05:04,936
+[Tim] Şimdi
+bu adamın nereye gittiğini görelim.
+
+125
+00:05:04,937 --> 00:05:06,003
+Elimi keşfetmek istiyor.
+
+126
+00:05:06,004 --> 00:05:07,538
+Pekala,
+ve sonra, oh vay.
+
+127
+00:05:07,539 --> 00:05:08,873
+-Vay.
+-Yarışıyor.
+
+128
+00:05:08,874 --> 00:05:10,942
+Ve
+o duvara sarıldığını görebiliyorsunuz.  Duvara
+
+129
+00:05:10,943 --> 00:05:13,578
+vurmaya devam ettiğini ve ilerlemeye devam ettiğini görebilirsiniz
+.
+
+130
+00:05:13,579 --> 00:05:15,046
+Yolun ortasında değil
+
+
+131
+00:05:15,047 --> 00:05:16,681
+, kenarında.
+-[Michael] Evet.
+
+132
+00:05:16,682 --> 00:05:18,783
+Bildiğimiz gibi,
+hamam böcekleri antenlerini
+
+133
+00:05:18,784 --> 00:05:20,618
+çevrelerini keşfetmek,
+
+134
+00:05:20,619 --> 00:05:23,020
+yiyecek ve barınak bulmak için kullanırlar.
+
+135
+00:05:23,021 --> 00:05:25,757
+Hiçbir duvar veya
+engel algılanmadığında
+
+136
+00:05:25,758 --> 00:05:27,158
+, hamamböcekleri
+
+137
+00:05:27,159 --> 00:05:28,926
+istedikleri gibi hareket etmekte özgür hissettiler.
+
+138
+00:05:28,927 --> 00:05:30,595
+-Hey, millet...
+-[Tim] Hey, hey, hey.
+
+139
+00:05:30,596 --> 00:05:31,696
+[Michael] kurallara uyun.
+
+140
+00:05:31,697 --> 00:05:33,498
+Robo-roach'ımızı test etme zamanı gelmişti
+
+141
+00:05:33,499 --> 00:05:35,400
+.
+
+142
+00:05:35,401 --> 00:05:37,001
+[Michael] Bu
+
+
+143
+00:05:37,002 --> 00:05:38,803
+
+, Bluetooth cihazıyla birlikte pil.
+
+144
+00:05:38,804 --> 00:05:40,438
+[Tim] Ve şimdi onları fişe
+takacağım.
+
+145
+00:05:40,439 --> 00:05:42,540
+[Michael]
+Gerçek voltajlardan bahsediyoruz.
+
+146
+00:05:42,541 --> 00:05:44,575
+[Tim] Evet çünkü
+
+
+147
+00:05:44,576 --> 00:05:46,411
+
+sinirlerle sinirlerin anlayacağı dilden konuşuyoruz.
+
+148
+00:05:46,412 --> 00:05:48,012
+[Michael] Tim, hamamböceğinin sırtındaki elektrotla iletişim kuran bir uygulama
+
+149
+00:05:48,013 --> 00:05:49,480
+geliştirdi
+
+
+150
+00:05:49,481 --> 00:05:50,715
+.
+
+151
+00:05:50,716 --> 00:05:51,916
+Sağa kaydırdığımızda
+
+152
+00:05:51,917 --> 00:05:53,551
+, elektrot
+
+153
+00:05:53,552 --> 00:05:54,952
+, hamamböceğinin sol antenine bir sinyal göndererek, sol tarafında bir
+
+154
+00:05:54,953 --> 00:05:57,555
+engelin algılanmasını uyararak
+
+
+155
+00:05:57,556 --> 00:05:59,724
+
+, hamamböceğinin
+
+156
+00:05:59,725 --> 00:06:02,126
+sağa hareket etmesine ve tersi yönde hareket etmesine neden olur.
+
+157
+00:06:02,127 --> 00:06:03,728
+Hangi yöne gitmeliyiz,
+sola mı, sağa mı?
+
+158
+00:06:03,729 --> 00:06:04,896
+Bence sola gitmeliyiz.
+
+159
+00:06:04,897 --> 00:06:07,198
+Ayrıldı.  Vay canına.
+
+160
+00:06:07,199 --> 00:06:08,866
+-[Tim] Pekala, bu...
+-[Michael] Donut yapıyor.
+
+161
+00:06:08,867 --> 00:06:10,701
+Tamam, bu
+biraz fazla yüksekti.
+
+162
+00:06:10,702 --> 00:06:12,870
+[Michael]
+
+
+163
+00:06:12,871 --> 00:06:15,072
+En uygun ayarı bulmak için sinyalin yoğunluğunu ayarladık.
+
+164
+00:06:15,073 --> 00:06:17,775
+Pekala, şimdi
+sağa
+
+165
+00:06:17,776 --> 00:06:19,110
+dönüp fabrikadan geri dönmesini sağlamaya çalışacağım.
+
+166
+00:06:19,111 --> 00:06:20,645
+-[Tim] Ah.
+-[Michael] İyi iş çıkardın.
+
+167
+00:06:20,646 --> 00:06:21,979
+-[Tim] Tamam, çok iyi.
+-[Michael] İyi iş çıkardın.
+
+168
+00:06:21,980 --> 00:06:24,549
+Şimdi
+bir yol olup olmadığını bilmiyor,
+
+169
+00:06:24,550 --> 00:06:26,584
+bu yüzden ona
+bir şekilde devam
+
+170
+00:06:26,585 --> 00:06:28,152
+etmesini söylemem gerekecek - sağa, güzel.
+-[Tim] Tamam, çok iyi.
+
+171
+00:06:28,153 --> 00:06:30,221
+-[Michael]
+Evet, güzel, buraya gel.
+-Pekala, o nerede?
+
+172
+00:06:30,222 --> 00:06:31,789
+O sadece--
+sıcak hava balonuna mı gitmek istiyor?
+
+173
+00:06:31,790 --> 00:06:33,124
+
+Sıcak hava balonuna gitmek istiyor,
+
+174
+00:06:33,125 --> 00:06:35,226
+ama ben onun
+
+
+175
+00:06:35,227 --> 00:06:36,794
+fabrikada çalışmasını tercih ederim,
+bu yüzden ben... Ben...
+
+176
+00:06:36,795 --> 00:06:37,995
+
+"İşe geri döneceğim" dedi.
+
+177
+00:06:37,996 --> 00:06:39,464
+[Michael] Sola kaydıracağım.
+
+178
+00:06:39,465 --> 00:06:41,732
+-[Tim] Tamam.
+-İşte, güzel.  Tamam, sola.
+
+179
+00:06:41,733 --> 00:06:43,034
+-[Tim] Çok iyi.
+-[Michael] Şimdi doğru.
+
+180
+00:06:43,035 --> 00:06:45,069
+-[Tim] Ooh.  Tamam.
+-[Michael] Güzel.
+
+181
+00:06:45,070 --> 00:06:47,004
+-[Michael] Pekala,
+bunu izle.  Ve sağa dön.
+-[Tim] Tamam.
+
+182
+00:06:47,005 --> 00:06:48,206
+[Michael] İyi, iyi, iyi.
+Sağa dönün.
+
+183
+00:06:48,207 --> 00:06:49,874
+[Tim] Pekala,
+biraz dönüyor.
+
+184
+00:06:49,875 --> 00:06:51,576
+-[Michael] Sağa dön, oh.
+-[Tim] Oh, görüyorsun
+
+185
+00:06:51,577 --> 00:06:53,177
+-zamanla uyum sağlıyor.
+-[Michael] Zamanla uyum sağlıyor.
+
+186
+00:06:53,178 --> 00:06:54,812
+Yani
+
+187
+00:06:54,813 --> 00:06:56,814
+
+vücutları üzerindeki otonom kontrollerini ellerinden alıyoruz.
+
+188
+00:06:56,815 --> 00:06:58,816
+Sadece şu ya da bu şekilde
+
+
+189
+00:06:58,817 --> 00:07:01,252
+hareket etmeye karar vermeleri gerektiğini düşünmelerine neden oluyoruz
+.
+
+190
+00:07:01,253 --> 00:07:04,155
+[Tim] Evet, bazı insanlar elektriksel uyarımla bütün bir insanlığı
+
+
+191
+00:07:04,156 --> 00:07:05,890
+
+
+
+192
+00:07:05,891 --> 00:07:08,259
+kontrol edeceğim kaygan bir yokuşta olduğumuzdan biraz korkardı
+
+
+193
+00:07:08,260 --> 00:07:10,795
+,
+ama görebilirsiniz ki hamamböceğinin
+
+194
+00:07:10,796 --> 00:07:12,530
+başka birçok duyusal
+sinyali var.
+
+195
+00:07:12,531 --> 00:07:14,131
+
+aldığımız, rekabet ettiğimiz.
+
+196
+00:07:14,132 --> 00:07:16,801
+-Ee Tim, bu çok güzeldi...
+-[Tim] Uh-huh.
+
+197
+00:07:16,802 --> 00:07:18,169
+-biraz tuhaf.
+-[Tim] Ah-huh.
+
+198
+00:07:18,170 --> 00:07:19,737
+
+
+
+199
+00:07:19,738 --> 00:07:21,706
+
+Yaşayan bir organizmayı kontrol etmek konusunda tamamen rahat hissetmiyordum.
+
+200
+00:07:21,707 --> 00:07:23,140
+-HI-hı.
+-Ama burada bir şey var
+
+201
+00:07:23,141 --> 00:07:25,109
+ki, bu
+
+
+202
+00:07:25,110 --> 00:07:26,978
+beyinleri anlamanın geleceği için gerçekten önemli.
+
+203
+00:07:26,979 --> 00:07:28,846
+[Tim] Elbette,
+bu teknolojiyi
+
+204
+00:07:28,847 --> 00:07:32,216
+
+koklear implantlar gibi biyomedikal uygulamalarda
+
+205
+00:07:32,217 --> 00:07:34,752
+ve
+Parkinson'u tedavi etmek için derin beyin stimülasyonunda kullanıyoruz.
+
+206
+00:07:34,753 --> 00:07:37,555
+Ancak
+bilinç, dikkat
+
+207
+00:07:37,556 --> 00:07:40,558
+ve irade gibi şeyler şu anda
+gerçekten
+
+208
+00:07:40,559 --> 00:07:41,726
+sinirbilim araştırmalarının en ileri noktasında.
+
+209
+00:07:41,727 --> 00:07:43,160
+Nasıl
+kararlar veriyorsun?
+
+210
+00:07:43,161 --> 00:07:44,829
+Sinirbilimin harika
+yanı,
+
+211
+00:07:44,830 --> 00:07:54,939
+tamamen
+açık olmasıdır.
+
+212
+00:07:54,940 --> 00:07:56,674
+[Michael
+] Çok yakın bir gelecekte
+
+213
+00:07:56,675 --> 00:07:59,644
+siber
+hamamböcekleri hayat kurtarabilir.
+
+214
+00:07:59,645 --> 00:08:01,712
+Texas A&M
+
+215
+00:08:01,713 --> 00:08:04,048
+ve North Carolina
+State Üniversitesi'ndeki
+
+216
+00:08:04,049 --> 00:08:06,150
+
+
+
+217
+00:08:06,151 --> 00:08:09,887
+araştırmacılar, arama ve kurtarma görevlerinde robo-roaches için çığır açan bir kullanım geliştiriyor
+.  Hamamböceklerinin antenlerine
+
+218
+00:08:09,888 --> 00:08:11,756
+teller yerleştirmek yerine,
+
+219
+00:08:11,757 --> 00:08:13,057
+
+
+220
+00:08:13,058 --> 00:08:14,892
+daha uzun vadeli bir etki sağlamak
+
+221
+00:08:14,893 --> 00:08:17,028
+için böceğin
+gerçek sinir sistemlerine alıcılar yerleştiriyorlar
+
+222
+00:08:17,029 --> 00:08:19,797
+
+.
+
+223
+00:08:19,798 --> 00:08:22,567
+Plan,
+
+
+224
+00:08:22,568 --> 00:08:23,968
+
+
+225
+00:08:23,969 --> 00:08:25,636
+çökmüş bir bina gibi bir felaket bölgesine bir robo-roaches sürüsünü salmak.
+
+226
+00:08:25,637 --> 00:08:27,271
+Hamam böcekleri keşfederken,
+
+227
+00:08:27,272 --> 00:08:30,074
+görüntüleri
+ve verileri, felaket bölgesinin
+
+228
+00:08:30,075 --> 00:08:32,176
+ayrıntılı bir 3D haritasını oluşturan bir bilgisayara geri gönderecekler
+
+229
+00:08:32,177 --> 00:08:34,211
+.
+
+230
+00:08:34,212 --> 00:08:36,747
+Siber böcekler
+arama alanından
+
+231
+00:08:36,748 --> 00:08:38,615
+uzaklaşırsa, sinirleri
+
+232
+00:08:38,616 --> 00:08:39,683
+onları tekrar içeri yönlendirmek için uyarılır.
+
+233
+00:08:39,684 --> 00:08:41,652
+Bir hamamböceği hayatta kalan birini tespit ederse, kurbanın yerini bildiren
+
+234
+00:08:41,653 --> 00:08:43,254
+bir sinyal
+
+235
+00:08:43,255 --> 00:08:45,723
+gönderilir.
+
+236
+00:08:45,724 --> 00:08:48,259
+Henüz gerçek bir dünya
+testi yapılmamış olsa da,
+
+237
+00:08:48,260 --> 00:08:50,328
+bilim adamları bunu
+
+238
+00:08:50,329 --> 00:08:53,197
+önümüzdeki 10 yıl içinde yapmayı umuyorlar.
+
+239
+00:08:53,198 --> 00:08:54,899
+Bu arada,
+
+240
+00:08:54,900 --> 00:08:56,901
+hamamböceklerini siber hacklemek için kullanılan teknolojinin aynısı
+
+241
+00:08:56,902 --> 00:09:04,709
+insanlarda da kullanılabilir.
+
+242
+00:09:04,710 --> 00:09:08,079
+Tim
+, kolumu hareket ettirdiğimde beynim kaslarıma
+
+243
+00:09:08,080 --> 00:09:09,847
+
+elektrik sinyalleri gönderiyor
+
+244
+00:09:09,848 --> 00:09:12,049
+
+ve onlar buna tepki veriyor ve
+
+245
+00:09:12,050 --> 00:09:14,285
+kasılıyor
+ve serbest kalıyorlar.
+
+246
+00:09:14,286 --> 00:09:17,855
+Ama kaslarımı elektriksel olarak uyarmak
+için bir pil kullanmak üzeresin
+
+247
+00:09:17,856 --> 00:09:19,624
+
+.
+
+248
+00:09:19,625 --> 00:09:21,225
+Tabi tabi.
+
+249
+00:09:21,226 --> 00:09:23,327
+[Michael]Bir insanın
+sinir sistemi
+
+250
+00:09:23,328 --> 00:09:25,696
+ameliyat gerektirmeden hacklenebilir.
+
+251
+00:09:25,697 --> 00:09:27,965
+Tim
+,
+
+252
+00:09:27,966 --> 00:09:30,001
+
+Bluetooth
+
+253
+00:09:30,002 --> 00:09:32,003
+aracılığıyla iPad'indeki bir uygulamayla iletişim kuran ön koluma elektrotlar bağladı.
+
+254
+00:09:32,004 --> 00:09:33,871
+[Tim] Yani
+
+
+255
+00:09:33,872 --> 00:09:35,206
+kas aktivitenizin sinyallerini yükselteceğim.
+
+256
+00:09:35,207 --> 00:09:37,408
+Yani bir nöron
+kasla her konuştuğunda, kas
+
+257
+00:09:37,409 --> 00:09:39,076
+
+
+
+258
+00:09:39,077 --> 00:09:40,745
+da nöronlar gibi elektriksel bir uyarı gönderir.
+
+259
+00:09:40,746 --> 00:09:42,647
+Böylece
+bu elektriksel
+darbeleri burada görebiliriz.
+
+260
+00:09:42,648 --> 00:09:44,048
+Yani senden yapmanı istediğim şey
+
+261
+00:09:44,049 --> 00:09:45,983
+- sözleşme.
+-[Michael homurdanır] Ah, evet.
+
+262
+00:09:45,984 --> 00:09:47,351
+[Tim] Pekala,
+işte böyle
+, dürtüleri
+
+263
+00:09:47,352 --> 00:09:49,420
+görebilirsin - içinde meydana gelen...
+-Bunu izle.
+
+264
+00:09:49,421 --> 00:09:50,888
+[Tim] Yani bu vızıltı
+
+
+265
+00:09:50,889 --> 00:09:52,323
+birçok kas
+lifinin ateşlenmesinin sesi...
+
+266
+00:09:52,324 --> 00:09:54,091
+-[Michael] Çok, çok.
+- Aksiyon potansiyellerini ateşler
+
+267
+00:09:54,092 --> 00:09:56,227
+çünkü
+
+
+268
+00:09:56,228 --> 00:09:57,928
+
+siz vücudunuzu hareket ettirmeye karar verdiğinizde nöronlar bu kaslarda sinaps yapar.  Elini
+
+269
+00:09:57,929 --> 00:09:59,897
+pasif bir şekilde hareket ettirmeme
+izin ver.
+
+270
+00:09:59,898 --> 00:10:02,400
+O kadar aktivite görmüyoruz,
+belki biraz esneme aktivitesi
+
+271
+00:10:02,401 --> 00:10:03,934
+ama şimdi bana diren.
+
+272
+00:10:03,935 --> 00:10:05,336
+-Artık hareket yok...
+-[Michael] Vay canına.
+
+273
+00:10:05,337 --> 00:10:06,904
+ama
+elektriksel aktivite görüyoruz
+
+274
+00:10:06,905 --> 00:10:08,239
+çünkü bu
+kasılmadan kaynaklanıyor.
+
+275
+00:10:08,240 --> 00:10:09,340
+Bunun güzel
+
+
+276
+00:10:09,341 --> 00:10:10,708
+
+
+
+277
+00:10:10,709 --> 00:10:12,977
+
+yanı, beyninizle gönüllü hareketler yaptığınız için
+
+278
+00:10:12,978 --> 00:10:15,913
+bu
+kas kasılmalarını
+
+279
+00:10:15,914 --> 00:10:17,248
+kullanabilir ve
+robotiği kontrol etmek için kullanabiliriz.
+
+280
+00:10:17,249 --> 00:10:19,083
+[Michael] Tamam, Tim,
+bunların hepsi gerçekten harika,
+
+281
+00:10:19,084 --> 00:10:21,118
+ama
+bugün seni buraya davet etmemin
+
+282
+00:10:21,119 --> 00:10:22,820
+ve
+tüm bunları getirmeni söylememin asıl sebebi,
+
+283
+00:10:22,821 --> 00:10:25,690
+
+başka bir insanı kontrol etmek istemem.  Yalan?
+
+284
+00:10:25,691 --> 00:10:27,458
+-Merhaba Michael.
+-Geldiğin için teşekkürler.
+
+285
+00:10:27,459 --> 00:10:29,960
+Alie, az önce söylediklerimi duyduktan sonra biraz endişeli olabilirsin
+
+
+286
+00:10:29,961 --> 00:10:31,295
+
+ama...
+
+287
+00:10:31,296 --> 00:10:32,963
+Evet, evet, seni duydum.
+
+288
+00:10:32,964 --> 00:10:35,299
+Bu bilim için
+ve her iki yönde de gidecek.
+
+289
+00:10:35,300 --> 00:10:37,368
+Kolumu da kontrol etmene izin vereceğim
+.  Hazır mısın?
+
+290
+00:10:37,369 --> 00:10:39,136
+Peki.  Bekle, önce ben mi
+gidiyorum?
+
+291
+00:10:39,137 --> 00:10:41,772
+İlk sen gideceksin,
+bence bu önemli, evet.
+
+292
+00:10:41,773 --> 00:10:43,908
+-For...
+-Rastgeleleştirme için.
+
+293
+00:10:43,909 --> 00:10:45,342
+-[Alie] Tamam.
+-Daha önce kimsenin görmediği bir yazı tura attım
+
+294
+00:10:45,343 --> 00:10:47,211
+
+ama oldu.
+
+295
+00:10:47,212 --> 00:10:50,448
+
+Ologiespodcast'inden Alie Ward, beynin vücuda nasıl sinyal gönderdiğini
+
+296
+00:10:50,449 --> 00:10:52,116
+test etmeme izin verecek kadar cesurdu
+
+297
+00:10:52,117 --> 00:10:54,385
+
+
+
+298
+00:10:54,386 --> 00:10:58,055
+, bu durumda
+beynim
+
+299
+00:10:58,056 --> 00:11:00,291
+vücudunu hareket ettirmek için sinyaller gönderiyor.
+
+300
+00:11:00,292 --> 00:11:01,959
+Ve
+aramıza bir ekran yerleştirdik,
+
+301
+00:11:01,960 --> 00:11:04,061
+böylece sinyal gönderen
+bir hareket yaptığımda göremez
+
+302
+00:11:04,062 --> 00:11:06,464
+.
+
+303
+00:11:06,465 --> 00:11:08,065
+Tamam, hadi yapalım.
+Yani, Michael.
+
+304
+00:11:08,066 --> 00:11:10,267
+Peki.
+Yumuşak mı yoksa sıkıca mı kasmalıyım?
+
+305
+00:11:10,268 --> 00:11:11,869
+-Böyle
+git, evet.
+-Bütün yol mu?
+
+306
+00:11:11,870 --> 00:11:14,138
+-Tamam, başlıyoruz.
+-Pekala.
+
+307
+00:11:14,139 --> 00:11:16,107
+-Bir şey hissettin mi?
+-Henüz değil, hayır.
+
+308
+00:11:16,108 --> 00:11:17,308
+-Yeterince güçlü değilim.
+-Tamam,
+
+309
+00:11:17,309 --> 00:11:18,876
+açacağım - biraz, tamam mı?
+-[Alie] Tamam, evet.
+
+310
+00:11:18,877 --> 00:11:20,511
+Biraz iğne batıyormuş gibi hissettiriyor
+.
+
+311
+00:11:20,512 --> 00:11:22,046
+[Tim] Tamam.  Saat ikidesin.
+Ben dörde çıkacağım, tamam mı?
+
+312
+00:11:22,047 --> 00:11:23,481
+-[Alie] Pekala.
+-Peki.
+
+313
+00:11:23,482 --> 00:11:24,949
+Şimdi kontrat,
+Michael.
+
+314
+00:11:24,950 --> 00:11:27,818
+Ah!
+
+315
+00:11:27,819 --> 00:11:30,020
+Bu gerçekten, gerçekten,
+gerçekten tuhaftı.
+
+316
+00:11:30,021 --> 00:11:32,323
+-[Tim] Sözleşme.
+-Oh, bu gerçekten garip.
+
+317
+00:11:32,324 --> 00:11:34,191
+-[Tim] Tamam.
+-Bu gerçekten garip.
+
+318
+00:11:34,192 --> 00:11:36,360
+Oh, bu--
+ben-- hala bunu aşamadım.
+
+319
+00:11:36,361 --> 00:11:38,529
+Sanki, uh,
+ben bir kuklayım
+
+320
+00:11:38,530 --> 00:11:40,831
+ve sadece ipler
+çekiliyormuş gibi hissediyorum.
+
+321
+00:11:40,832 --> 00:11:43,134
+[Michael]
+Bilim adına, kontrolleri
+
+322
+00:11:43,135 --> 00:11:46,370
+Alie'ye vermem adil oldu
+.
+
+323
+00:11:46,371 --> 00:11:47,805
+Ama aynı zamanda birinin hareketlerimi kontrol etmesinin
+
+324
+00:11:47,806 --> 00:11:49,273
+nasıl bir şey olduğunu da bilmek
+istiyordum
+
+325
+00:11:49,274 --> 00:11:51,208
+.
+
+326
+00:11:51,209 --> 00:11:53,477
+Pekala, şimdi
+Alie vücudumu kontrol ederken,
+
+327
+00:11:53,478 --> 00:11:56,113
+
+biraz sıcak,
+
+328
+00:11:56,114 --> 00:11:57,848
+parlak kırmızı domates çorbası
+
+329
+00:11:57,849 --> 00:11:59,483
+ve güzel bir
+bardak üzüm suyunun tadını çıkarmanın iyi olacağını düşündüm.
+
+330
+00:11:59,484 --> 00:12:02,319
+Hatta biraz yazı
+yazabilirim, [alay eder] çoklu görev.
+
+331
+00:12:02,320 --> 00:12:06,023
+Yani, ee,
+gücü deneyebilir miyiz,
+
+332
+00:12:06,024 --> 00:12:07,391
+uh, sadece,
+biraz,
+
+333
+00:12:07,392 --> 00:12:08,793
+bana ne olacağına dair bir fikir edinebilir miyiz?
+-Pekala.
+
+334
+00:12:08,794 --> 00:12:10,027
+Bu yüzden, onu
+ikiye gerçekten indireceğim.
+
+335
+00:12:10,028 --> 00:12:11,195
+-[Michael] Güzel, evet.
+-[Tim] Tamam.
+
+336
+00:12:11,196 --> 00:12:13,197
+Ve, uh, tamam,
+şimdi kontrat yap, Alie.
+
+337
+00:12:13,198 --> 00:12:14,832
+Tamam.
+
+338
+00:12:14,833 --> 00:12:16,967
+-Ah, tamam, evet, hissettim.
+-Yine sözleşme.
+
+339
+00:12:16,968 --> 00:12:18,169
+-Ben hissettim...
+-Tamam.  Bunu hissettin mi?
+
+340
+00:12:18,170 --> 00:12:19,336
+-Evet.
+-[Tim] Pekala
+
+341
+00:12:19,337 --> 00:12:20,971
+, şimdi dörde çevireceğim
+.
+
+342
+00:12:20,972 --> 00:12:23,107
+Peki.
+
+343
+00:12:23,108 --> 00:12:24,408
+Pekala,
+şimdi sözleşme.
+
+344
+00:12:24,409 --> 00:12:27,111
+-Hazır mısın?
+-Aynen.
+
+345
+00:12:27,112 --> 00:12:29,914
+[kahkahalar]
+
+346
+00:12:29,915 --> 00:12:31,115
+Vay canına.
+
+347
+00:12:31,116 --> 00:12:32,449
+Bu, um,
+
+348
+00:12:32,450 --> 00:12:35,219
+kolumu hareket ettiren ben değilim.
+
+349
+00:12:35,220 --> 00:12:37,121
+Veya vücudunuzun geri kalanı
+tepki verir.
+
+350
+00:12:37,122 --> 00:12:38,989
+[Michael] Şey-- evet,
+ben gergin bir insanım,
+
+351
+00:12:38,990 --> 00:12:40,391
+bu yüzden
+benden daha fazlasını alacaksın.
+
+352
+00:12:40,392 --> 00:12:45,496
+-Peki.
+-[Michael] Şimdi,
+
+353
+00:12:45,497 --> 00:12:47,998
+ben sadece güzel,
+rahatlatıcı bir yudum alırken lütfen beni kontrol etme...
+
+354
+00:12:47,999 --> 00:12:51,135
+[Alie kıkırdar]
+
+355
+00:12:51,136 --> 00:12:52,970
+[Tim]
+Onu beş buçuk'a çevireceğim.
+
+356
+00:12:52,971 --> 00:12:55,573
+[Michael] Tamam, ben sadece
+
+
+357
+00:12:55,574 --> 00:13:00,611
+bu çorbanın tadına bakacağım.
+
+358
+00:13:00,612 --> 00:13:03,447
+Bu çok kötü.
+Bayıldım.  [kıkırdar]
+
+359
+00:13:03,448 --> 00:13:07,184
+İşin en kötü yanı
+bu çorbanın çok ılık olması.
+
+360
+00:13:07,185 --> 00:13:11,422
+Tamam.  Şimdi,
+lütfen huzur içinde yememe izin verin.
+
+361
+00:13:11,423 --> 00:13:13,190
+-Üzgünüm.
+-[Michael] Pekala,
+
+362
+00:13:13,191 --> 00:13:14,992
+biraz ara vereceğim
+ve bir şeyler yazacağım.
+
+363
+00:13:14,993 --> 00:13:16,293
+Seni yalnız
+bırakacağım, seni yalnız bırakacağım.
+
+364
+00:13:16,294 --> 00:13:21,265
+Peki.
+
+365
+00:13:21,266 --> 00:13:22,533
+[inler]
+
+366
+00:13:22,534 --> 00:13:25,002
+
+Deniyorum-- buna karşı koyabilirim, ama...
+
+367
+00:13:25,003 --> 00:13:27,104
+Hamam böcekleri gibi,
+vücudum
+
+368
+00:13:27,105 --> 00:13:30,207
+da sinyale uyum sağlamayı öğreniyordu.
+
+369
+00:13:30,208 --> 00:13:35,079
+Bilime.
+
+370
+00:13:35,080 --> 00:13:46,657
+
+Elektrofizyolojinin güzelliği budur.
+
+371
+00:13:46,658 --> 00:13:48,025
+Tabii ki
+nöronlarımızın
+
+372
+00:13:48,026 --> 00:13:49,393
+elektrikle çalışması, onlardan
+
+373
+00:13:49,394 --> 00:13:51,962
+da kayıt yapabileceğimiz anlamına geliyor
+
+
+374
+00:13:51,963 --> 00:13:54,431
+ve bunun inanılmaz
+tıbbi uygulamaları var.
+
+375
+00:13:54,432 --> 00:13:57,301
+Elektroensefalogram
+veya EEG
+
+376
+00:13:57,302 --> 00:13:58,969
+1920'lerde ortaya çıktı ve
+
+377
+00:13:58,970 --> 00:14:01,071
+doktorların
+beynin bazı
+
+378
+00:14:01,072 --> 00:14:03,974
+elektrik
+sinyallerini görünür beyin dalgaları olarak görmelerini sağladı.
+
+379
+00:14:03,975 --> 00:14:05,442
+Ancak 1980'lerde
+
+380
+00:14:05,443 --> 00:14:07,678
+bilim adamları
+,
+
+381
+00:14:07,679 --> 00:14:09,914
+
+felçli hastaların
+
+382
+00:14:09,915 --> 00:14:11,348
+robotik bir kolu hareket ettirmelerine izin verme rüyası gibi bazı görevler
+
+383
+00:14:11,349 --> 00:14:13,317
+için çok daha zengin bir
+beyin sinyaline ihtiyacınız olduğunu fark ettiler.
+
+384
+00:14:13,318 --> 00:14:14,418
+Çünkü bir kolu hareket ettirmek
+
+385
+00:14:14,419 --> 00:14:16,220
+çok fazla bilgi gerektirir.
+
+386
+00:14:16,221 --> 00:14:18,255
+Üst
+
+
+387
+00:14:18,256 --> 00:14:19,657
+kolunuzu, önkolunuzu,
+
+388
+00:14:19,658 --> 00:14:22,026
+elinizi, parmaklarınızı
+3B uzayda nasıl hareket ettireceğiniz konusunda bilgiye ihtiyacınız var.
+
+389
+00:14:22,027 --> 00:14:24,528
+EEG bunu yapmak için yeterli
+bilgiyi taşımaz,
+
+390
+00:14:24,529 --> 00:14:26,463
+çünkü aldığı elektrik sinyalleri
+
+
+391
+00:14:26,464 --> 00:14:28,432
+
+
+
+392
+00:14:28,433 --> 00:14:30,334
+kafatasımız ve derimizden geçtikten sonra bozulur.
+
+393
+00:14:30,335 --> 00:14:32,937
+Yani, eğer
+protez bir
+
+394
+00:14:32,938 --> 00:14:35,539
+uzvu sadece zihninizle kontrol etmek istiyorsanız,
+araştırmacılar doğrudan beyinden
+
+395
+00:14:35,540 --> 00:14:39,076
+kayıt yapmanız gerektiğini fark
+ettiler.
+
+396
+00:14:39,077 --> 00:14:40,344
+Ve 2006'da
+
+397
+00:14:40,345 --> 00:14:42,479
+bilim adamları
+sonunda tam da bunu yaptı.
+
+398
+00:14:42,480 --> 00:14:44,181
+İlk kez
+
+399
+00:14:44,182 --> 00:14:46,016
+
+felçli bir insanın beynine elektrot yerleştirdiler
+
+400
+00:14:46,017 --> 00:14:47,518
+.
+
+401
+00:14:47,519 --> 00:14:49,320
+Ve
+ilk test hastasından bu yana,
+
+402
+00:14:49,321 --> 00:14:50,955
+birkaç felçli hastaya,
+
+403
+00:14:50,956 --> 00:14:52,389
+
+
+404
+00:14:52,390 --> 00:14:54,458
+
+robotik kolları zihinleriyle kontrol etmelerini sağlayan beyin implantları verildi
+
+405
+00:14:54,459 --> 00:14:56,093
+.
+
+406
+00:14:56,094 --> 00:14:59,163
+
+Beyin anlayışımız geliştikçe
+
+407
+00:14:59,164 --> 00:15:00,497
+ve bilgisayarlarımız beyinden gelen
+
+408
+00:15:00,498 --> 00:15:02,633
+sinyallerin kodunu çözmede daha iyi hale geldikçe
+,
+
+409
+00:15:02,634 --> 00:15:05,970
+bu hastalar bu robotik
+kollar üzerinde giderek daha iyi kontrol
+
+410
+00:15:05,971 --> 00:15:08,372
+sahibi oluyorlar.
+
+411
+00:15:08,373 --> 00:15:11,375
+Son zamanlarda bilim,
+
+
+412
+00:15:11,376 --> 00:15:13,243
+
+felçli hastaların
+
+413
+00:15:13,244 --> 00:15:15,446
+robotik uzuvlarını kontrol etmesine
+
+414
+00:15:15,447 --> 00:15:18,382
+izin vermekten,
+onlara kendi uzuvlarının kontrolünü vermeye doğru büyük bir adım attı.
+
+415
+00:15:18,383 --> 00:15:21,618
+
+
+
+416
+00:15:21,619 --> 00:15:24,555
+Bu hastalardan biri olan
+Ian Burkhart ile tanışmak için Ohio Eyalet Üniversitesi'ne gittim.
+
+417
+00:15:24,556 --> 00:15:27,191
+19 yaşında,
+arkadaşlarıyla tatil yaparken,
+
+418
+00:15:27,192 --> 00:15:29,326
+Ian kumsalda bir dalgaya daldı
+
+
+419
+00:15:29,327 --> 00:15:31,495
+ve kumlu zeminde boynunu kırarak göğsünden
+
+
+420
+00:15:31,496 --> 00:15:35,199
+aşağısı felç
+oldu.
+
+421
+00:15:35,200 --> 00:15:36,700
+[Ian]
+
+422
+00:15:36,701 --> 00:15:38,135
+Vurur vurmaz felç olduğumu biliyordum.
+
+423
+00:15:38,136 --> 00:15:40,170
+Ve
+suda yüzüstü
+
+424
+00:15:40,171 --> 00:15:42,039
+yüzüyordum ve kalkamıyordum.
+-Yapabilir misin...
+
+425
+00:15:42,040 --> 00:15:43,474
+[Ian] Hiçbir şeyi hareket ettiremedim
+.
+
+426
+00:15:43,475 --> 00:15:45,743
+19 yaşında
+ve bağımsız,
+
+427
+00:15:45,744 --> 00:15:48,012
+
+üniversitede tek başına yaşamaktan bugüne gidiyorsunuz.
+
+428
+00:15:48,013 --> 00:15:49,713
+
+
+429
+00:15:49,714 --> 00:15:52,649
+Yemek yemekten
+tuvalete gitmeye,
+
+430
+00:15:52,650 --> 00:15:55,219
+oturmaya
+, tekerlekli sandalyeme oturmaya kadar her şeyi yapmak için yardıma ihtiyacım var.
+
+431
+00:15:55,220 --> 00:15:56,587
+Omuzlarımı
+oldukça iyi hareket
+
+432
+00:15:56,588 --> 00:15:58,022
+
+
+
+433
+00:15:58,023 --> 00:15:59,156
+ettirebiliyorum, kollarımı biraz hareket ettirmeme izin veren pazılarımı hareket ettirebiliyorum
+
+
+434
+00:15:59,157 --> 00:16:01,058
+
+ama pazımdan aşağı hiçbir şey yok.
+
+435
+00:16:01,059 --> 00:16:03,427
+[Michael]
+Ohio Eyaletindeki doktorlar, NeuroLife adlı en son teknolojiyi
+
+436
+00:16:03,428 --> 00:16:06,530
+
+
+
+437
+00:16:06,531 --> 00:16:08,298
+kullanan
+
+438
+00:16:08,299 --> 00:16:09,533
+bir araştırma
+ve geliştirme firması olan Battelle tarafından geliştirilen devrim niteliğinde bir deneysel tedavi hakkında
+
+439
+00:16:09,534 --> 00:16:11,235
+
+
+440
+00:16:11,236 --> 00:16:12,636
+Ian'a başvurmuştu.
+
+441
+00:16:12,637 --> 00:16:14,538
+
+
+442
+00:16:14,539 --> 00:16:16,206
+Ian'ın motor korteksine, laboratuvarda bir bilgisayara bağlıyken
+
+443
+00:16:16,207 --> 00:16:18,575
+
+elini tekrar hareket ettirmesine izin verecek bir çip yerleştirmek istediler
+
+444
+00:16:18,576 --> 00:16:21,812
+
+.
+
+445
+00:16:21,813 --> 00:16:24,681
+
+
+
+446
+00:16:24,682 --> 00:16:27,351
+Ohio Eyalet
+Üniversitesi'ndeki Wexner Tıp Merkezi'ne araştırmacılarla tanışmak
+
+447
+00:16:27,352 --> 00:16:30,154
+ve bu son teknoloji ürünü eylem halindeyken tanık olmak için davet edildim
+.
+
+448
+00:16:30,155 --> 00:16:32,823
+[Sam] İlk önce
+Ian'ı sisteme bağlayacağız.
+
+449
+00:16:32,824 --> 00:16:35,225
+[Ian] Parça,
+uh, kafatasımdan şu şekilde çıkıyor...
+
+450
+00:16:35,226 --> 00:16:37,194
+-[Michael] Evet.
+-[Ian] ...referans,
+bu kaide.
+
+451
+00:16:37,195 --> 00:16:39,196
+
+Küçük bir koruyucu kapağın altında
+
+452
+00:16:39,197 --> 00:16:43,067
+, ama 7/24 orada
+ve beynimin yüzeyindeki gerçek mikroçip dizisine giden bazı kablolara yol açıyor
+
+453
+00:16:43,068 --> 00:16:44,735
+
+
+
+454
+00:16:44,736 --> 00:16:47,237
+
+.
+
+455
+00:16:47,238 --> 00:16:49,673
+[Michael]
+Beynin asıl organına itildi.
+
+456
+00:16:49,674 --> 00:16:51,175
+[Ian] Aynen.
+
+457
+00:16:51,176 --> 00:16:52,509
+[Michael
+] Ian'ın kafasındaki mikroçip, beyninin harekete neden
+
+458
+00:16:52,510 --> 00:16:53,811
+olan kan akışını
+
+459
+00:16:53,812 --> 00:16:56,180
+ve elektriksel uyarılarını algılar
+
+
+460
+00:16:56,181 --> 00:16:58,248
+
+.
+
+461
+00:16:58,249 --> 00:16:59,683
+[Sam]
+Demek gerçek çip bu.
+
+462
+00:16:59,684 --> 00:17:01,185
+Beyninin yüzeyinde oturuyor
+.
+
+463
+00:17:01,186 --> 00:17:02,519
+[Michael] Vay canına.
+
+464
+00:17:02,520 --> 00:17:04,221
+Ian'ın beyni, beyin aktivitesini
+
+
+465
+00:17:04,222 --> 00:17:06,289
+okuyan ve analiz
+
+466
+00:17:06,290 --> 00:17:07,558
+eden bir yazılıma bağlı.
+
+467
+00:17:07,559 --> 00:17:09,860
+Bu
+
+468
+00:17:09,861 --> 00:17:11,528
+, Ian'ın motor korteksine canlı bir bakış.
+
+469
+00:17:11,529 --> 00:17:12,695
+[Marcie] Evet.
+
+470
+00:17:12,696 --> 00:17:15,766
+Yani
+kolunuzu hareket ettirmeyi düşünüyorsanız,
+
+471
+00:17:15,767 --> 00:17:17,468
+daha fazla aktivite mi görmeliyiz - yoksa
+
+472
+00:17:17,469 --> 00:17:19,636
+farklı bir model mi?
+-[Ian] Evet.
+
+473
+00:17:19,637 --> 00:17:21,538
+[Michael]
+Seansın başında
+
+474
+00:17:21,539 --> 00:17:24,341
+
+, kod çözücüyü beyniyle kalibre etmek için
+
+475
+00:17:24,342 --> 00:17:26,143
+Ian'dan,
+
+
+476
+00:17:26,144 --> 00:17:28,479
+
+
+
+477
+00:17:28,480 --> 00:17:30,247
+el hareketlerinin görüntülerini izleyerek elini hareket ettirmeyi düşünmesi istenir.
+
+478
+00:17:30,248 --> 00:17:32,649
+[Ian]
+Bilgisayarımın beni
+
+479
+00:17:32,650 --> 00:17:34,885
+uyardığını göreceksin ve
+bunu yapmamı istediğinde,
+
+480
+00:17:34,886 --> 00:17:36,787
+
+düşündüğüm şey bu.
+
+481
+00:17:36,788 --> 00:17:38,322
+
+"Düşünmek" ne demek?
+
+482
+00:17:38,323 --> 00:17:40,324
+[Ian]
+
+
+483
+00:17:40,325 --> 00:17:42,693
+Düşünebildiğim kadar - bu hareketi hayal etmek.
+-Evet.
+
+484
+00:17:42,694 --> 00:17:45,863
+Ian'ın beyni
+elini hareket ettirmeyi düşünürken...
+
+485
+00:17:45,864 --> 00:17:47,798
+-[Sam] Tamam, Ian, hazır mısın?
+-Aynen.
+
+486
+00:17:47,799 --> 00:17:49,533
+[Michael]
+...elektrik sinyalleri
+
+487
+00:17:49,534 --> 00:17:51,135
+çip tarafından algılanır
+
+488
+00:17:51,136 --> 00:17:53,670
+ve kod çözücüye gönderilir.
+
+489
+00:17:53,671 --> 00:17:55,139
+Sonra
+o bilgiyi
+
+490
+00:17:55,140 --> 00:17:57,808
+alıyoruz ve
+kapalı bir el ile ilişkilendiriyoruz.
+
+491
+00:17:57,809 --> 00:18:00,210
+Böylece kod çözücü şimdi
+
+
+492
+00:18:00,211 --> 00:18:02,312
+
+aynı şeyi tekrar düşünüp düşünmediğini anlayabilir.
+
+493
+00:18:02,313 --> 00:18:04,414
+[Michael]Ardından
+, kod çözücü, Ian'ın kas hareketini
+
+494
+00:18:04,415 --> 00:18:06,316
+kontrol edebilen bir cihaza bir sinyal gönderir
+
+495
+00:18:06,317 --> 00:18:08,152
+.  Ian'ın kolundaki
+
+496
+00:18:08,153 --> 00:18:10,254
+bu özel kılıf
+,
+
+497
+00:18:10,255 --> 00:18:12,422
+
+
+
+498
+00:18:12,423 --> 00:18:15,159
+
+
+
+499
+00:18:15,160 --> 00:18:17,227
+
+
+
+500
+00:18:17,228 --> 00:18:19,496
+
+
+
+501
+00:18:19,497 --> 00:18:21,298
+elini kapatmak
+
+502
+00:18:21,299 --> 00:18:22,933
+veya başparmağını hareket ettirmek gibi beyninin düşündüğü belirli hareketleri üretmek için ön kolundaki kasları uyaran yüz otuz elektrot içerir.
+
+503
+00:18:22,934 --> 00:18:26,670
+Şimdi Ian'ın
+felçli elini düşünceleriyle hareket ettirdiğini görme zamanıydı
+
+504
+00:18:26,671 --> 00:18:28,305
+.
+
+505
+00:18:28,306 --> 00:18:30,307
+[Sam] Ian, eğer
+bir sonrakine hazırsan...
+
+506
+00:18:30,308 --> 00:18:31,909
+-[Ian] Evet.
+-Seni geri sayacağım.
+
+507
+00:18:31,910 --> 00:18:40,884
+Üç iki bir.
+
+508
+00:18:40,885 --> 00:18:42,186
+[Michael] Vay.
+
+509
+00:18:42,187 --> 00:18:45,489
+[Marcie] Demek
+kod çözücü buydu.
+
+510
+00:18:45,490 --> 00:18:46,690
+Düşüncelerini çözmek mi?
+
+511
+00:18:46,691 --> 00:18:48,325
+-Düşüncelerini çözmek.
+-[Michael] Vay canına.
+
+512
+00:18:48,326 --> 00:18:50,561
+[Marcie] Ian
+hareketlerin kontrolündeydi.
+
+513
+00:18:50,562 --> 00:18:52,329
+[Michael] İyi iş çıkardın.
+
+514
+00:18:52,330 --> 00:18:54,264
+Zaten, Ian'ın başarıları elini kapatmanın
+
+515
+00:18:54,265 --> 00:18:56,900
+çok ötesine geçiyor
+.
+
+516
+00:18:56,901 --> 00:18:59,236
+Bu
+son teknolojinin yardımıyla,
+
+517
+00:18:59,237 --> 00:19:01,371
+
+kendi felçli elini
+
+518
+00:19:01,372 --> 00:19:03,373
+kullanarak günlük hareketlerden Guitar Hero oynamaya kadar bir
+dizi ince motor görevi yapabilir
+
+519
+00:19:03,374 --> 00:19:06,210
+
+
+520
+00:19:06,211 --> 00:19:08,845
+.  Ian gibi
+
+521
+00:19:08,846 --> 00:19:10,914
+başka kaç kişi
+var?
+
+522
+00:19:10,915 --> 00:19:13,317
+Şu anda dünyada,
+
+523
+00:19:13,318 --> 00:19:15,552
+belki beş?
+
+524
+00:19:15,553 --> 00:19:18,789
+[Michael]Ian
+
+
+525
+00:19:18,790 --> 00:19:21,725
+, laboratuvar dışında da daha fazla bağımsızlık kazanmaya devam ediyor.
+
+526
+00:19:21,726 --> 00:19:23,660
+İnsanlar
+hiç seninle araba
+
+527
+00:19:23,661 --> 00:19:25,662
+
+kullanıp "Aman Tanrım,
+
+528
+00:19:25,663 --> 00:19:27,497
+şey, açıkçası
+bu tehlikeli" gibi gergin oluyorlar mı?
+
+529
+00:19:27,498 --> 00:19:29,399
+[Ian] Sanırım yolda
+
+
+530
+00:19:29,400 --> 00:19:32,936
+araba kullanan herkes, otoyolda
+
+
+531
+00:19:32,937 --> 00:19:34,471
+saatte 70 mil hızla giderken ellerimin boş olduğunu bilseydi
+
+
+532
+00:19:34,472 --> 00:19:35,872
+, bundan hoşlanmayabilirlerdi.
+
+533
+00:19:35,873 --> 00:19:37,407
+Ama onlar... onların
+endişelenecek bir şeyleri yok.
+
+534
+00:19:37,408 --> 00:19:38,875
+[Ian] Doğru, evet
+ve muhtemelen daha güvendeyim
+
+535
+00:19:38,876 --> 00:19:41,011
+çünkü
+ellerimi direksiyondan
+
+536
+00:19:41,012 --> 00:19:43,380
+çekemiyorum -cep telefonuma biniyorum ve...
+-Doğru.  Evet.
+
+537
+00:19:43,381 --> 00:19:45,249
+Telsizle oynamıyorsun
+ve...
+
+538
+00:19:45,250 --> 00:19:47,284
+Evet,
+araba kullanırken bunu yapmamalıyım.
+
+539
+00:19:47,285 --> 00:19:50,320
+[Michael] Ian'ın
+gelişimi gerçekten ilham vericiydi
+
+540
+00:19:50,321 --> 00:19:52,556
+ve bu onun için sadece bir
+başlangıçtı.  Kendiniz için geleceğe
+
+541
+00:19:52,557 --> 00:19:56,393
+dair umutlarınız nelerdir?
+
+
+542
+00:19:56,394 --> 00:19:59,296
+[Ian] Umarım, bir
+
+
+543
+00:19:59,297 --> 00:20:01,765
+sonraki sürüme geçebilirim
+ve bilirsiniz,
+
+544
+00:20:01,766 --> 00:20:03,033
+daha fazla yeteneğe
+
+545
+00:20:03,034 --> 00:20:05,902
+sahip olabilirim ve
+işleri çok daha kolay yapabilirim.
+
+546
+00:20:05,903 --> 00:20:08,372
+Uzun vadede, umarım
+bu
+
+547
+00:20:08,373 --> 00:20:10,040
+, insanların sadece kullandığı bir cihaz olabilir.
+
+548
+00:20:10,041 --> 00:20:12,276
+
+Omurilik yaralanması olan biri var
+
+549
+00:20:12,277 --> 00:20:13,610
+ve kaldığı yerden devam edebiliyor
+
+550
+00:20:13,611 --> 00:20:15,279
+.
+
+551
+00:20:15,280 --> 00:20:17,514
+
+Bence, yaptığımız iş
+
+552
+00:20:17,515 --> 00:20:20,651
+
+daha önce hiç yapılmamış bir şey
+
+553
+00:20:20,652 --> 00:20:31,361
+ve bu son teknolojide olmak gerçekten heyecan verici
+.
+
+554
+00:20:31,362 --> 00:20:33,463
+Hareketi eski haline getirmek
+bir şeydir,
+
+555
+00:20:33,464 --> 00:20:35,732
+peki ya his,
+
+556
+00:20:35,733 --> 00:20:37,301
+duyum?
+
+557
+00:20:37,302 --> 00:20:39,536
+Beynimizin
+
+
+558
+00:20:39,537 --> 00:20:42,806
+somatosensör korteksine gönderilen sinyaller
+nedeniyle cildimizle hissederiz.
+
+559
+00:20:42,807 --> 00:20:45,709
+Pittsburgh Üniversitesi'ndeki araştırmacılar,
+
+
+560
+00:20:45,710 --> 00:20:47,477
+
+bir kişinin
+
+561
+00:20:47,478 --> 00:20:48,979
+somatosensör korteksindeki implantlara bağlı robotik parmaklara sensörler koyarak,
+
+562
+00:20:48,980 --> 00:20:50,981
+
+
+
+563
+00:20:50,982 --> 00:20:52,916
+Nathan Copeland'ın
+
+564
+00:20:52,917 --> 00:20:57,688
+
+robotik bir el aracılığıyla hissetmesini sağladı.
+
+565
+00:20:57,689 --> 00:20:59,756
+Nathan
+
+
+566
+00:20:59,757 --> 00:21:01,491
+,
+
+567
+00:21:01,492 --> 00:21:02,926
+biri
+
+568
+00:21:02,927 --> 00:21:04,795
+robotik bir kolu kontrol etmek için motor korteksine
+
+569
+00:21:04,796 --> 00:21:05,929
+
+
+570
+00:21:05,930 --> 00:21:08,598
+ve somatosensoriyel korteksine ikinci bir implant olmak üzere iki implant almak için beyin ameliyatı geçirdi.
+
+571
+00:21:08,599 --> 00:21:09,800
+Bu ikinci implant
+
+572
+00:21:09,801 --> 00:21:11,568
+beynini uyarır ve stimülasyon
+
+573
+00:21:11,569 --> 00:21:13,603
+modeli
+
+
+574
+00:21:13,604 --> 00:21:15,639
+
+robot elinin hangi kısmına dokunulduğuna bağlıdır.
+
+575
+00:21:15,640 --> 00:21:18,575
+Yani, robota
+belirli bir parmağa dokunursanız,
+
+576
+00:21:18,576 --> 00:21:21,578
+Nathan'ın
+somatosensör
+
+577
+00:21:21,579 --> 00:21:23,814
+korteksinin normalde
+o parmağa tepki veren kısmı
+
+578
+00:21:23,815 --> 00:21:25,849
+uyarılır.
+
+579
+00:21:25,850 --> 00:21:27,951
+[Nathan] Pinky.
+
+580
+00:21:27,952 --> 00:21:29,753
+Ortada.
+
+581
+00:21:29,754 --> 00:21:33,056
+[Michael]Beyni
+bunu dokunma olarak yorumluyor.
+
+582
+00:21:33,057 --> 00:21:35,926
+Nathan ve Ian'ın
+kayda değer başarıları
+
+583
+00:21:35,927 --> 00:21:37,694
+, ilgili araştırmacılarla iletişim
+kurma yetenekleriyle desteklendi
+
+584
+00:21:37,695 --> 00:21:39,996
+
+.
+
+585
+00:21:39,997 --> 00:21:41,865
+Ancak
+
+
+586
+00:21:41,866 --> 00:21:44,935
+sadece
+hareket
+
+587
+00:21:44,936 --> 00:21:47,404
+edemeyen değil aynı zamanda konuşamayan insanlar için ne yapılabilir?
+
+588
+00:21:47,405 --> 00:21:49,539
+Steve Kaplan,
+
+589
+00:21:49,540 --> 00:21:52,776
+
+
+
+590
+00:21:52,777 --> 00:21:55,078
+rodeo için bir at güreşçisi
+olan Laurie ile çıkan 57 yaşında aktif bir bilgisayar programcısıydı.
+
+591
+00:21:55,079 --> 00:21:57,080
+Ancak
+bir yıl önce
+
+592
+00:21:57,081 --> 00:21:59,049
+büyük bir felç geçirmesiyle
+,
+
+593
+00:21:59,050 --> 00:22:01,451
+
+onu bitkisel hayatta,
+
+594
+00:22:01,452 --> 00:22:03,687
+hareket edemez ve konuşamaz halde bırakınca her şey değişti.
+
+595
+00:22:03,688 --> 00:22:06,623
+Doktorlar başlangıçta
+Steve'in beyin ölümünü ilan etti.
+
+596
+00:22:06,624 --> 00:22:08,558
+Bununla birlikte,
+
+597
+00:22:08,559 --> 00:22:09,826
+vücudunun içinde tamamen bilinçliydi,
+
+598
+00:22:09,827 --> 00:22:11,962
+ancak bunu onlara söyleyemezdi.
+
+599
+00:22:11,963 --> 00:22:13,864
+
+Bir hemşire
+
+600
+00:22:13,865 --> 00:22:16,600
+, Steve'in göz
+hareketlerinin kasıtlı
+
+601
+00:22:16,601 --> 00:22:19,736
+olduğunu fark edene kadar, ona
+kilitlenme sendromu teşhisi kondu; bu,
+
+602
+00:22:19,737 --> 00:22:21,972
+
+insanları
+
+603
+00:22:21,973 --> 00:22:23,707
+akıllarından başka her şeyi çalan bir durum.
+
+604
+00:22:23,708 --> 00:22:26,576
+Normal bir beyin
+
+
+605
+00:22:26,577 --> 00:22:29,045
+, duyulardan elektrik
+sinyallerini alıp onlara geri gönderirken
+
+606
+00:22:29,046 --> 00:22:31,581
+, felç
+, elektrik
+
+607
+00:22:31,582 --> 00:22:34,184
+sinyallerinin Steve'in beynini terk etmesini engelledi.
+
+608
+00:22:34,185 --> 00:22:35,986
+Geçen yıl boyunca,
+
+609
+00:22:35,987 --> 00:22:37,988
+
+fizyoterapistlerin yardımıyla
+
+610
+00:22:37,989 --> 00:22:39,856
+Steve,
+boynunda çok küçük bir
+
+611
+00:22:39,857 --> 00:22:42,125
+hareket aralığını yeniden kazandı.  Kilitli
+
+612
+00:22:42,126 --> 00:22:45,662
+kalma sendromu
+
+
+613
+00:22:45,663 --> 00:22:47,964
+hakkında daha fazla bilgi edinmek için Steve ve şimdiki karısı Laurie ile oturdum
+.
+
+614
+00:22:47,965 --> 00:22:50,767
+Steve, Laurie, merhaba.
+
+615
+00:22:50,768 --> 00:22:52,936
+Hala
+konuşamıyor olsa da,
+
+616
+00:22:52,937 --> 00:22:54,938
+yeni bilimsel
+gelişmeler sayesinde
+
+617
+00:22:54,939 --> 00:22:57,207
+Steve,
+
+
+618
+00:22:57,208 --> 00:22:58,909
+bir bilgisayar kullanarak dış dünyayla iletişim kurabiliyor.
+
+619
+00:22:58,910 --> 00:23:00,677
+[bilgisayar erkek sesi]
+Merhaba Michael.
+
+620
+00:23:00,678 --> 00:23:01,678
+[Michael]
+Tanıştığıma memnun oldum Steve.
+
+621
+00:23:01,679 --> 00:23:02,746
+
+Tanıştığıma memnun oldum, Laurie.
+
+622
+00:23:02,747 --> 00:23:03,914
+Öncelikle
+
+
+623
+00:23:03,915 --> 00:23:05,515
+bize biraz zaman ayırdığınız için çok teşekkür ederiz.
+
+624
+00:23:05,516 --> 00:23:08,452
+Steve'in nasıl
+iletişim kurmaya başladığını anlat.
+
+625
+00:23:08,453 --> 00:23:10,554
+[Laurie] Eh, bilirsin,
+
+
+626
+00:23:10,555 --> 00:23:11,755
+kilitli kalma sendromunun
+
+627
+00:23:11,756 --> 00:23:13,056
+ne olduğunu açıkladıklarında
+
+
+628
+00:23:13,057 --> 00:23:15,058
+
+bir sürü soru sordum ve pek fazla cevap yoktu.
+
+629
+00:23:15,059 --> 00:23:16,660
+-Evet.
+-[Laurie] Başlangıçta
+
+630
+00:23:16,661 --> 00:23:19,796
+evet
+için bir kez, hayır için iki kez gözlerini kırptı.
+
+631
+00:23:19,797 --> 00:23:22,866
+Ve bu
+iletişimin ilk bölümleriydi.
+
+632
+00:23:22,867 --> 00:23:24,534
+Sonra
+bize bir tahta verdiler
+
+633
+00:23:24,535 --> 00:23:26,236
+ve
+ben ABC'leri inceledim
+
+634
+00:23:26,237 --> 00:23:27,737
+ve
+
+635
+00:23:27,738 --> 00:23:28,839
+istediğini elde ettiğimde gözlerini kapadı.
+
+636
+00:23:28,840 --> 00:23:29,973
+Yazacaktım
+
+637
+00:23:29,974 --> 00:23:31,508
+ve böyle başladı.
+
+638
+00:23:31,509 --> 00:23:33,109
+[Michael]Tahmin edebileceğiniz gibi,
+
+639
+00:23:33,110 --> 00:23:35,679
+Laurie ve Steve'in
+ilk iletişim yöntemi
+
+640
+00:23:35,680 --> 00:23:38,915
+yavaş
+ve özenli bir süreçti.
+
+641
+00:23:38,916 --> 00:23:40,817
+Ancak sadece aylar sonra, kilitli hastalara
+
+642
+00:23:40,818 --> 00:23:42,519
+yardım etmek için çalışan bir mühendis
+
+643
+00:23:42,520 --> 00:23:43,720
+
+
+644
+00:23:43,721 --> 00:23:44,955
+Steve'e
+
+645
+00:23:44,956 --> 00:23:46,923
+göz hareketlerini izleyen bir makine yaptı.
+
+646
+00:23:46,924 --> 00:23:49,993
+Steve ekrandaki farklı harflere bakarken
+
+
+647
+00:23:49,994 --> 00:23:52,529
+, makine
+baktığı yeri
+
+648
+00:23:52,530 --> 00:23:54,664
+sentezlenmiş
+sesli konuşmaya çevirir.
+
+649
+00:23:54,665 --> 00:23:56,533
+[bilgisayar erkek sesi]
+İyileşmek istiyorum.
+
+650
+00:23:56,534 --> 00:23:59,102
+[Michael] Steve ekrandaki harfleri tararken iletişimde
+hala küçük bir gecikme olsa da
+
+651
+00:23:59,103 --> 00:24:01,037
+
+
+
+652
+00:24:01,038 --> 00:24:02,706
+,
+
+653
+00:24:02,707 --> 00:24:04,541
+bu yöntem çok daha akıcı
+
+654
+00:24:04,542 --> 00:24:10,113
+ve önemli ölçüde daha hızlı.
+
+655
+00:24:10,114 --> 00:24:12,516
+Bilgisayar iletişim kurmama yardımcı oluyor
+
+
+656
+00:24:12,517 --> 00:24:14,618
+[Michael] Evet.
+Gözlerinle yazabilirsin.
+
+657
+00:24:14,619 --> 00:24:15,819
+[Laurie]
+Bu şey harika.
+
+658
+00:24:15,820 --> 00:24:18,021
+E-
+posta gönderebilir, mesaj atabilir, bir
+
+659
+00:24:18,022 --> 00:24:19,523
+
+şeye ihtiyacı olursa beni arayabilir.
+
+660
+00:24:19,524 --> 00:24:20,857
+Bu büyük bir rahatlama.
+
+661
+00:24:20,858 --> 00:24:21,925
+[bilgisayar erkek sesi
+] Harikalar yaratıyor.
+
+662
+00:24:21,926 --> 00:24:23,593
+[Michael
+] Harikalar yaratıyor, evet.
+
+663
+00:24:23,594 --> 00:24:24,794
+-Uh-hmm, [kıkırdar]
+-[Michael] Bir şeye bakıp yazabilmenin ve sonra konuşabilmenin senin için
+
+664
+00:24:24,795 --> 00:24:26,696
+ne kadar duygusal
+
+
+665
+00:24:26,697 --> 00:24:29,132
+
+
+
+666
+00:24:29,133 --> 00:24:30,600
+olacağını hayal edebiliyordum.
+
+667
+00:24:30,601 --> 00:24:33,036
+Ve Laurie
+
+
+668
+00:24:33,037 --> 00:24:35,906
+, aklından,
+kalbinden,
+
+669
+00:24:35,907 --> 00:24:37,607
+özellikle
+de uzun zaman sonra ilk kez gelen kelimeleri
+
+670
+00:24:37,608 --> 00:24:39,175
+duyman için.
+-[Laurie] Evet.
+
+671
+00:24:39,176 --> 00:24:47,584
+İlk söylediğin şey neydi
+, Steve?
+
+672
+00:24:47,585 --> 00:24:49,586
+[bilgisayar erkek sesi] İlk
+mesaj doğum günün kutlu olsun.
+
+673
+00:24:49,587 --> 00:24:51,855
+[kahkahalar]
+
+674
+00:24:51,856 --> 00:24:53,056
+Ne doğum günü hediyesi.
+
+675
+00:24:53,057 --> 00:24:54,858
+[Laurie güler]
+Gerçekten öyleydi.
+
+676
+00:24:54,859 --> 00:24:57,160
+[Michael]Steve'in kaydettiği ilerleme
+dikkate değer
+
+677
+00:24:57,161 --> 00:24:58,895
+ve geçen yıl fiziksel olarak kaydettiği inanılmaz ilerlemelerle
+
+
+678
+00:24:58,896 --> 00:25:01,197
+
+yeni iletişim
+
+679
+00:25:01,198 --> 00:25:02,933
+
+kurma ve dış dünyayla bağlantı kurma yeteneği arasındaki bağlantıyı inkar etmek zor olurdu
+
+680
+00:25:02,934 --> 00:25:04,634
+
+
+681
+00:25:04,635 --> 00:25:06,970
+
+.
+
+682
+00:25:06,971 --> 00:25:09,039
+- Tavana bak.
+-[Michael] Evet.
+
+683
+00:25:09,040 --> 00:25:12,008
+- Başparmaklarınıza bakın.
+-[boğazını temizliyor]
+
+684
+00:25:12,009 --> 00:25:13,944
+Bana bak
+, güzel karın.
+
+685
+00:25:13,945 --> 00:25:15,712
+[kahkahalar]
+
+686
+00:25:15,713 --> 00:25:17,881
+[Michael]Laurie ve Steve, Steve'in
+bir gün
+
+687
+00:25:17,882 --> 00:25:19,349
+
+
+
+688
+00:25:19,350 --> 00:25:26,656
+kilitli kalma sendromundan tamamen kurtulacağını umuyor.
+
+689
+00:25:26,657 --> 00:25:29,626
+Steve'in göz takip
+cihazı elektrikli
+
+690
+00:25:29,627 --> 00:25:32,629
+ve beyni de öyle.
+
+691
+00:25:32,630 --> 00:25:34,631
+Steve'in gözlerini hareket ettirebilmesi gerçeğiyle bağlantılılar.
+
+692
+00:25:34,632 --> 00:25:36,199
+Ancak bazı kilitli
+
+693
+00:25:36,200 --> 00:25:38,969
+
+hastalar göz hareketlerini bile kontrol edemezler.
+
+694
+00:25:38,970 --> 00:25:40,203
+Tamamen kilitli sendrom olarak bilinen şeye sahipler
+
+695
+00:25:40,204 --> 00:25:43,773
+
+.
+
+696
+00:25:43,774 --> 00:25:46,242
+Bu hastalar
+için Steve'in iletişim kurmasına yardımcı olan göz izleme teknolojisi
+
+697
+00:25:46,243 --> 00:25:49,279
+
+işe yaramaz.
+
+698
+00:25:49,280 --> 00:25:51,781
+Ancak Avrupa'daki araştırmacılar,
+yakın zamanda
+
+699
+00:25:51,782 --> 00:25:53,984
+, tamamen
+kilitli hastaların
+
+700
+00:25:53,985 --> 00:25:57,387
+
+sadece düşüncelerini kullanarak iletişim kurmasına izin vermenin bir yolunu buldu.
+
+701
+00:25:57,388 --> 00:25:59,656
+Araştırmacılar, beyindeki kan akışını
+
+702
+00:25:59,657 --> 00:26:02,325
+
+
+
+703
+00:26:02,326 --> 00:26:03,927
+invazif olmayan bir şekilde ölçebilen yakın kızılötesi spektroskopi ile EEG'yi birleştirdi
+
+704
+00:26:03,928 --> 00:26:06,096
+
+.
+
+705
+00:26:06,097 --> 00:26:07,230
+Hastalara, araştırmacıların yanıtlarını bildiği
+
+706
+00:26:07,231 --> 00:26:08,932
+basit evet veya hayır soruları soruldu ve
+
+707
+00:26:08,933 --> 00:26:10,900
+bu,
+
+
+708
+00:26:10,901 --> 00:26:13,770
+
+bir makineyi
+
+709
+00:26:13,771 --> 00:26:15,939
+hangi beyin sinyallerinin evet
+
+710
+00:26:15,940 --> 00:26:18,274
+, hangi beyin sinyallerinin
+hayır anlamına geldiğini tanıması için eğitmelerine izin verdi.
+
+711
+00:26:18,275 --> 00:26:20,343
+Araştırmacılar
+daha sonra hastalara cevabını bildikleri
+
+712
+00:26:20,344 --> 00:26:22,979
+yeni bir dizi soru sordular
+
+713
+00:26:22,980 --> 00:26:24,414
+ve sadece düşüncelerini
+
+714
+00:26:24,415 --> 00:26:26,149
+kullanarak hastalar
+
+715
+00:26:26,150 --> 00:26:29,786
+soruların
+%70'ine doğru cevaplar verebildiler.
+
+716
+00:26:29,787 --> 00:26:32,288
+Şimdi, yalnızca
+evet veya hayır yanıtları
+
+717
+00:26:32,289 --> 00:26:33,423
+vermek sınırlı olabilir,
+
+718
+00:26:33,424 --> 00:26:35,158
+ancak bu teknoloji yeni.
+
+719
+00:26:35,159 --> 00:26:37,927
+Bütün bunlar
+sadece bu yıl oldu.
+
+720
+00:26:37,928 --> 00:26:39,829
+Bu hızlı gelişmeler,
+
+721
+00:26:39,830 --> 00:26:43,233
+
+
+
+722
+00:26:43,234 --> 00:26:44,901
+dünyanın dört bir yanındaki araştırmacıların ve deneklerin özveri ve çabaları sayesinde
+
+723
+00:26:44,902 --> 00:26:46,736
+, yavaş ama emin adımlarla
+
+724
+00:26:46,737 --> 00:26:49,739
+
+zihnin gizemlerini parçalıyor.
+
+725
+00:26:49,740 --> 00:26:51,274
+Zihni ne
+
+
+726
+00:26:51,275 --> 00:26:52,809
+kadar iyi
+anlarsak
+
+727
+00:26:52,810 --> 00:26:54,444
+
+
+
+728
+00:26:54,445 --> 00:26:56,813
+
+
+
+729
+00:26:56,814 --> 00:26:58,448
+, psikolojik veya nörolojik koşullar nedeniyle istediklerini yapmakta zorlanan milyonlarca insana o kadar iyi yardımcı olabiliriz
+
+730
+00:26:58,449 --> 00:27:03,019
+ve nihayetinde kendimizi o kadar
+iyi anlarız.
+
+731
+00:27:03,020 --> 00:27:04,888
+Ve her zamanki gibi,
+
+732
+00:27:04,889 --> 00:27:08,191
+izlediğiniz için teşekkürler.
+
+733
+00:27:08,192 --> 00:27:11,129
+[tema müziği çalıyor]
+

@@ -1,0 +1,2582 @@
+1
+00:00:06,023 --> 00:00:09,131
+El sistema nervioso es,
+fundamentalmente, eléctrico.
+
+2
+00:00:09,132 --> 00:00:10,513
+Cuando movemos el brazo
+
+3
+00:00:10,514 --> 00:00:14,265
+se hace por una señal
+enviada al músculo que lo controla.
+
+4
+00:00:14,266 --> 00:00:16,532
+Ese mensaje está compuesto
+de átomos cargados
+
+5
+00:00:16,533 --> 00:00:18,961
+que entran y salen
+de las células nerviosas.
+
+6
+00:00:18,962 --> 00:00:20,734
+Es electricidad.
+
+7
+00:00:20,735 --> 00:00:22,633
+Como el cerebro es eléctrico
+
+8
+00:00:22,634 --> 00:00:26,535
+podríamos usar la electricidad para grabar
+lo que hace el cerebro
+
+9
+00:00:26,536 --> 00:00:31,692
+o ignorarlo completamente
+y controlar el cuerpo.
+
+10
+00:00:31,693 --> 00:00:34,144
+Eso significa que podríamos
+usar nuestras mentes
+
+11
+00:00:34,145 --> 00:00:35,982
+para mover el cuerpo de otra persona,
+
+12
+00:00:35,983 --> 00:00:38,609
+restaurar el movimiento 
+a personas paralizadas,
+
+13
+00:00:38,610 --> 00:00:41,450
+sentir a través de una mano artificial
+como si fuera nuestra
+
+14
+00:00:41,451 --> 00:00:44,658
+e incluso leer la mente de las personas.
+
+15
+00:00:44,659 --> 00:01:07,954
+¡Impresionante!
+
+16
+00:01:07,955 --> 00:01:12,088
+Aunque la electricidad no se entendió
+completamente sino hasta el siglo 19,
+
+17
+00:01:12,089 --> 00:01:17,349
+su habilidad para influir el cuerpo
+se conoce desde la época romana.
+
+18
+00:01:17,350 --> 00:01:20,607
+El doctor Scribonius Largus
+
+19
+00:01:20,608 --> 00:01:25,029
+escribió sobre un hombre
+que, por accidente, pisó un pez eléctrico
+
+20
+00:01:25,030 --> 00:01:27,758
+y se alivió de su dolor de gota.
+
+21
+00:01:27,759 --> 00:01:29,615
+Scribonius realizó unos experimentos
+
+22
+00:01:29,616 --> 00:01:33,278
+y descubrió que puedes colocar
+un pez eléctrico en tu cabeza
+
+23
+00:01:33,279 --> 00:01:35,652
+y librarte de los dolores de cabeza.
+
+24
+00:01:35,653 --> 00:01:38,477
+En 1804, muchos siglos después,
+
+25
+00:01:38,478 --> 00:01:40,891
+el físico italiano, Giovanni Aldini
+
+26
+00:01:40,892 --> 00:01:43,649
+descubrió que podía mover
+los músculos de las personas
+
+27
+00:01:43,650 --> 00:01:45,051
+con electricidad.
+
+28
+00:01:45,052 --> 00:01:47,752
+Sorprendió al mundo europeo
+usando electricidad
+
+29
+00:01:47,753 --> 00:01:51,012
+para reanimar el cadáver
+de un criminal ejecutado.
+
+30
+00:01:51,013 --> 00:01:55,479
+El cadáver abrió los ojos
+y hasta parece que logró sentarse.
+
+31
+00:01:55,480 --> 00:01:59,115
+Pero Aldini no solo quería
+sorprender a las personas.
+
+32
+00:01:59,116 --> 00:02:01,510
+Le estaba mostrando al mundo
+que las neuronas,
+
+33
+00:02:01,511 --> 00:02:04,924
+las células que controlan
+los pensamientos y los movimientos,
+
+34
+00:02:04,925 --> 00:02:07,758
+funcionan con la electricidad.
+
+35
+00:02:07,759 --> 00:02:18,404
+El cerebro eléctrico
+
+36
+00:02:18,405 --> 00:02:21,004
+Imaginen desviar la función
+del cerebro de una persona
+
+37
+00:02:21,005 --> 00:02:24,107
+para controlar su cuerpo.
+
+38
+00:02:24,108 --> 00:02:27,959
+Normalmente, cuando mueven el cuerpo,
+el cerebro envía señales eléctricas
+
+39
+00:02:27,960 --> 00:02:29,255
+a través de los nervios.
+
+40
+00:02:29,256 --> 00:02:32,251
+Pero si pudiéramos usar electrodos
+para enviar esas señales
+
+41
+00:02:32,252 --> 00:02:34,351
+podríamos controlar
+el cuerpo de una persona
+
+42
+00:02:34,352 --> 00:02:36,335
+sin necesitar la función de su cerebro.
+
+43
+00:02:36,336 --> 00:02:38,430
+Podríamos controlarla
+con un control remoto
+
+44
+00:02:38,431 --> 00:02:45,127
+y eso es lo que haremos hoy
+con algunas cucarachas.
+
+45
+00:02:45,128 --> 00:02:49,255
+Demostración N°. 1
+Robo-cucaracha
+
+46
+00:02:49,256 --> 00:02:54,056
+Estoy con Tim Marzullo de Backyard Brains
+y trajo algunas cucarachas.
+
+47
+00:02:54,057 --> 00:02:58,786
+Sí, las cucarachas usan sus antenas
+para sentir su entorno y moverse.
+
+48
+00:02:58,787 --> 00:03:02,923
+Vamos a intentar engañar a una cucaracha
+y controlar sus movimientos
+
+49
+00:03:02,924 --> 00:03:04,658
+durante un par de minutos.
+
+50
+00:03:04,659 --> 00:03:06,042
+¿Y cómo la engañarás?
+
+51
+00:03:06,043 --> 00:03:08,525
+Le haremos una cirugía a la cucaracha
+
+52
+00:03:08,526 --> 00:03:10,597
+para secuestrarle su sistema nervioso
+
+53
+00:03:10,598 --> 00:03:12,849
+y enviar impulsos eléctricos
+a sus antenas.
+
+54
+00:03:12,850 --> 00:03:14,816
+- Muy bien, hagámoslo.
+- Comencemos.
+
+55
+00:03:14,817 --> 00:03:18,292
+Traje una sala de operaciones
+única para la cucaracha.
+
+56
+00:03:18,293 --> 00:03:20,634
+¿Cómo le haces una cirugía
+a una cucaracha?
+
+57
+00:03:20,635 --> 00:03:23,774
+Tenemos una jarra de agua fría,
+y para inducir la anestesia
+
+58
+00:03:23,775 --> 00:03:26,960
+vamos a introducir las cucarachas
+en el agua fría
+
+59
+00:03:26,961 --> 00:03:30,002
+y su sistema nervioso dejará
+de mandar impulsos eléctricos.
+
+60
+00:03:30,003 --> 00:03:32,251
+Notaremos que en unos minutos
+dejarán de moverse
+
+61
+00:03:32,252 --> 00:03:36,380
+Cuando fueron anestesiadas,
+estaban listas para la cirugía.
+
+62
+00:03:36,381 --> 00:03:39,125
+Bien, ahora vamos a unir los electrodos.
+
+63
+00:03:39,126 --> 00:03:40,641
+Aquí está el pequeño conector.
+
+64
+00:03:40,642 --> 00:03:42,608
+Tiene tres cables, un cable de tierra
+
+65
+00:03:42,609 --> 00:03:45,139
+uno para la antena izquierda
+y otro para la derecha.
+
+66
+00:03:45,140 --> 00:03:48,938
+Voy a poner una gota de pegamento
+del lado derecho de la cucaracha
+
+67
+00:03:48,939 --> 00:03:54,140
+y luego, voy a pegar el electrodo
+en la cabeza de la cucaracha.
+
+68
+00:03:54,141 --> 00:03:58,625
+Luego, insertamos el cable de tierra
+en el músculo del ala.
+
+69
+00:03:58,626 --> 00:03:59,973
+- Está listo.
+- Genial.
+
+70
+00:03:59,974 --> 00:04:01,350
+Puse el cable en la espalda.
+
+71
+00:04:01,351 --> 00:04:04,980
+Los dos cables restantes
+se insertaron en las antenas.
+
+72
+00:04:04,981 --> 00:04:07,867
+Ahora voy a recortar la antena justo ahí.
+
+73
+00:04:07,868 --> 00:04:11,390
+- Como queda un tubo hueco...
+- Podemos introducir el cable.
+
+74
+00:04:11,391 --> 00:04:15,251
+Ahora voy a insertarlo en la antena.
+
+75
+00:04:15,252 --> 00:04:17,296
+- ¿Ves?
+- Entiendo, vaya.
+
+76
+00:04:17,297 --> 00:04:19,576
+Y está lista para la antena izquierda.
+
+77
+00:04:19,577 --> 00:04:21,617
+Ahí tenemos, entró directamente.
+
+78
+00:04:21,618 --> 00:04:25,122
+Sumergiré a la cucaracha
+en el agua fría de nuevo.
+
+79
+00:04:25,123 --> 00:04:28,278
+Es importante destacar
+lo que esto les causa
+
+80
+00:04:28,279 --> 00:04:29,599
+y a su calidad de vida.
+
+81
+00:04:29,600 --> 00:04:31,967
+Después de la cirugía,
+las regresaré a sus hogares
+
+82
+00:04:31,968 --> 00:04:34,705
+les cortaré los cables
+y estarán libres otra vez.
+
+83
+00:04:34,706 --> 00:04:36,342
+¿Y la antena volverá a crecer?
+
+84
+00:04:36,343 --> 00:04:39,278
+Sí, y las devolveré
+a nuestra colonia de reproducción
+
+85
+00:04:39,279 --> 00:04:41,858
+y vivirán felices para siempre
+después del programa.
+
+86
+00:04:41,859 --> 00:04:43,774
+- Asombroso.
+- Muy bien.
+
+87
+00:04:43,775 --> 00:04:45,909
+- Estamos listos para comenzar.
+- Genial.
+
+88
+00:04:45,910 --> 00:04:49,082
+Nuestra cucaracha cibernética
+tenía cables neurológicos
+
+89
+00:04:49,083 --> 00:04:50,824
+para su control externo.
+
+90
+00:04:50,825 --> 00:04:54,273
+Este es un circuito único para cucarachas.
+
+91
+00:04:54,274 --> 00:04:56,810
+Estamos a punto de llevar
+a estas robo-cucarachas
+
+92
+00:04:56,811 --> 00:04:58,198
+a una prueba de conducción.
+
+93
+00:04:58,199 --> 00:05:01,782
+Pero primero, Tim,
+quiero ver cómo una cucaracha normal
+
+94
+00:05:01,783 --> 00:05:03,700
+mueve y usa sus antenas.
+
+95
+00:05:03,701 --> 00:05:06,435
+Veamos adónde se dirige,
+quiere explorar mi mano.
+
+96
+00:05:06,436 --> 00:05:07,647
+Muy bien, ahora... vaya.
+
+97
+00:05:07,648 --> 00:05:08,902
+- Vaya.
+- Salió corriendo.
+
+98
+00:05:08,903 --> 00:05:11,111
+Puedes ver que está chocando la pared.
+
+99
+00:05:11,112 --> 00:05:13,747
+Sigue golpeando la pared y moviéndose.
+
+100
+00:05:13,748 --> 00:05:16,625
+No está en medio del camino,
+está en el borde.
+
+101
+00:05:16,626 --> 00:05:17,815
+Como sabemos
+
+102
+00:05:17,816 --> 00:05:20,757
+las cucarachas usan sus antenas
+para explorar su alrededor
+
+103
+00:05:20,758 --> 00:05:23,149
+y localizar comida y refugio.
+
+104
+00:05:23,150 --> 00:05:25,695
+Cuando no detectan
+paredes ni obstáculos
+
+105
+00:05:25,696 --> 00:05:28,967
+las cucarachas se sienten libres
+para moverse hacia donde quieran.
+
+106
+00:05:28,968 --> 00:05:30,547
+- Hola, chicos.
+- Vaya, vaya.
+
+107
+00:05:30,548 --> 00:05:31,775
+Sigan las reglas.
+
+108
+00:05:31,776 --> 00:05:35,076
+Llegó el momento de la prueba
+de nuestra robo-cucaracha.
+
+109
+00:05:35,077 --> 00:05:38,915
+Esta es la batería
+con el dispositivo Bluetooth.
+
+110
+00:05:38,916 --> 00:05:40,329
+Ahora las voy a conectar.
+
+111
+00:05:40,330 --> 00:05:42,372
+Estamos usando voltajes reales.
+
+112
+00:05:42,373 --> 00:05:46,504
+Sí, porque nos referimos a los nervios
+en un lenguaje que entienden.
+
+113
+00:05:46,505 --> 00:05:47,711
+Tim creó una aplicación
+
+114
+00:05:47,712 --> 00:05:50,748
+que comunica a los electrodos
+en la espalda de la cucaracha.
+
+115
+00:05:50,749 --> 00:05:53,785
+Cuando lo movemos a la derecha,
+el electrodo envía una señal
+
+116
+00:05:53,786 --> 00:05:55,751
+a la antena izquierda de la cucaracha
+
+117
+00:05:55,752 --> 00:05:58,366
+que se interpreta como un obstáculo
+de su lado izquierdo
+
+118
+00:05:58,367 --> 00:06:02,158
+lo que hace que la cucaracha
+se mueva hacia la derecha y viceversa.
+
+119
+00:06:02,159 --> 00:06:03,887
+¿La muevo a la izquierda o derecha?
+
+120
+00:06:03,888 --> 00:06:07,200
+- Hacia la izquierda.
+- Izquierda.
+
+121
+00:06:07,201 --> 00:06:08,699
+Eso fue genial.
+
+122
+00:06:08,700 --> 00:06:10,614
+Creo que está un poco alto.
+
+123
+00:06:10,615 --> 00:06:13,009
+Ajustamos la intensidad de la señal
+
+124
+00:06:13,010 --> 00:06:14,945
+para encontrar el ajuste perfecto.
+
+125
+00:06:14,946 --> 00:06:17,954
+Ahora voy a tratar de hacer
+que gire a la derecha
+
+126
+00:06:17,955 --> 00:06:19,622
+y pase por la fábrica.
+
+127
+00:06:19,623 --> 00:06:20,884
+Buen trabajo.
+
+128
+00:06:20,885 --> 00:06:22,098
+Muy buen trabajo.
+
+129
+00:06:22,099 --> 00:06:24,271
+Ahora no sabe si es un camino
+
+130
+00:06:24,272 --> 00:06:27,493
+así que haré que continúe
+hacia el lado derecho.
+
+131
+00:06:27,494 --> 00:06:31,801
+- Bien, ven aquí.
+- ¿Quiere ir al globo aerostático?
+
+132
+00:06:31,802 --> 00:06:33,293
+Quiere dar un paseo
+
+133
+00:06:33,294 --> 00:06:36,546
+pero prefiero que vaya
+a trabajar en la fábrica.
+
+134
+00:06:36,547 --> 00:06:37,834
+Mejor vuelve al trabajo.
+
+135
+00:06:37,835 --> 00:06:39,305
+Voy a moverlo a la izquierda.
+
+136
+00:06:39,306 --> 00:06:41,525
+Bien, ahora a la izquierda.
+
+137
+00:06:41,526 --> 00:06:43,723
+- Muy bien.
+- Ahora a la derecha.
+
+138
+00:06:43,724 --> 00:06:44,791
+- Eso es.
+- Bien.
+
+139
+00:06:44,792 --> 00:06:47,193
+- Mira esto, gira a la derecha.
+- Bien.
+
+140
+00:06:47,194 --> 00:06:49,234
+Muy bien, ahora gira a la derecha.
+
+141
+00:06:49,235 --> 00:06:52,989
+- Gira a la derecha.
+- Se adapta con el tiempo.
+
+142
+00:06:52,990 --> 00:06:56,696
+Estamos tomando el control
+autónomo de su cuerpo.
+
+143
+00:06:56,697 --> 00:06:58,925
+Estamos haciendo que piensen
+
+144
+00:06:58,926 --> 00:07:01,551
+que deben decidir moverse
+a un lado u otro.
+
+145
+00:07:01,552 --> 00:07:04,274
+Algunas personas se asustaron un poco
+
+146
+00:07:04,275 --> 00:07:06,269
+que estábamos tramando algo raro
+
+147
+00:07:06,270 --> 00:07:09,777
+y que controlaríamos a toda la humanidad
+con estímulos eléctricos
+
+148
+00:07:09,778 --> 00:07:12,142
+pero puedes ver que hay
+varias señales sensoriales
+
+149
+00:07:12,143 --> 00:07:14,170
+que la cucaracha recibe y no controlamos.
+
+150
+00:07:14,171 --> 00:07:17,981
+Tim, estuvo genial y un poco raro.
+
+151
+00:07:17,982 --> 00:07:21,843
+No me sentí muy cómodo
+controlando un organismo vivo.
+
+152
+00:07:21,844 --> 00:07:24,089
+Pero hay algo aquí muy importante
+
+153
+00:07:24,090 --> 00:07:26,870
+para el futuro
+del entendimiento del cerebro.
+
+154
+00:07:26,871 --> 00:07:28,708
+Claro, usamos esta tecnología
+
+155
+00:07:28,709 --> 00:07:32,018
+en aplicaciones biomédicas,
+como el implante coclear
+
+156
+00:07:32,019 --> 00:07:34,911
+y estimulación profunda del cerebro
+para tratar el Parkinson.
+
+157
+00:07:34,912 --> 00:07:37,217
+Pero la conciencia y la atención
+
+158
+00:07:37,218 --> 00:07:41,418
+están, en la actualidad, a la vanguardia
+de la investigación en neurociencia
+
+159
+00:07:41,419 --> 00:07:42,969
+y cómo se toman las decisiones.
+
+160
+00:07:42,970 --> 00:07:55,001
+Lo maravilloso de la neurociencia
+es que es muy abierta.
+
+161
+00:07:55,002 --> 00:07:56,623
+En un futuro no muy lejano
+
+162
+00:07:56,624 --> 00:07:59,476
+las cucarachas cibernéticas
+podrían salvar vidas.
+
+163
+00:07:59,477 --> 00:08:01,661
+Estudios en la Universidad Texas A&amp;M
+
+164
+00:08:01,662 --> 00:08:03,750
+y en la Universidad de Carolina del Norte
+
+165
+00:08:03,751 --> 00:08:05,512
+están desarrollando el uso innovador
+
+166
+00:08:05,513 --> 00:08:09,609
+de robo-cucarachas en misiones
+de búsqueda y rescate.
+
+167
+00:08:09,610 --> 00:08:12,615
+En lugar de instalar cables
+en las antenas de la cucaracha
+
+168
+00:08:12,616 --> 00:08:16,210
+están implantando receptores
+en el sistema nervioso del insecto
+
+169
+00:08:16,211 --> 00:08:18,625
+para asegurar un efecto a largo plazo.
+
+170
+00:08:18,626 --> 00:08:22,069
+El plan es liberar un ejército
+de robo-cucarachas
+
+171
+00:08:22,070 --> 00:08:25,428
+en una área de desastre,
+como un edificio colapsado.
+
+172
+00:08:25,429 --> 00:08:27,520
+Mientras las cucarachas exploran
+
+173
+00:08:27,521 --> 00:08:30,333
+enviarán imágenes y datos
+a una computadora
+
+174
+00:08:30,334 --> 00:08:34,084
+que creará un mapa detallado en 3D
+de la zona de desastre.
+
+175
+00:08:34,085 --> 00:08:37,096
+Si los insectos cibernéticos se desvían
+del área de búsqueda
+
+176
+00:08:37,097 --> 00:08:40,205
+sus nervios son estimulados
+para regresar a la ruta.
+
+177
+00:08:40,206 --> 00:08:42,504
+Si una cucaracha detecta un sobreviviente
+
+178
+00:08:42,505 --> 00:08:45,995
+enviará una señal
+con la ubicación de la víctima.
+
+179
+00:08:45,996 --> 00:08:48,738
+Aunque no se ha realizado
+una prueba real, por ahora
+
+180
+00:08:48,739 --> 00:08:53,129
+los científicos esperan hacerla
+en los próximos diez años.
+
+181
+00:08:53,130 --> 00:08:57,388
+Mientras tanto, la misma tecnología,
+usada en las cucarachas cibernéticas
+
+182
+00:08:57,389 --> 00:09:00,505
+también puede ser usada en humanos.
+
+183
+00:09:00,506 --> 00:09:04,501
+Demostración N°. 2
+Hackear el cerebro humano
+
+184
+00:09:04,502 --> 00:09:07,931
+Tim, cuando muevo mi brazo
+
+185
+00:09:07,932 --> 00:09:10,086
+mi cerebro está enviando
+señales eléctricas
+
+186
+00:09:10,087 --> 00:09:14,327
+a mis músculos y responden a eso,
+se contraen y se sueltan.
+
+187
+00:09:14,328 --> 00:09:17,657
+Ahora estás a punto de usar una batería
+
+188
+00:09:17,658 --> 00:09:19,812
+para estimular eléctricamente
+mis músculos.
+
+189
+00:09:19,813 --> 00:09:20,967
+Sí, así es.
+
+190
+00:09:20,968 --> 00:09:23,466
+El sistema nervioso de los humanos
+puede ser hackeado
+
+191
+00:09:23,467 --> 00:09:25,298
+sin necesidad de cirugías.
+
+192
+00:09:25,299 --> 00:09:28,064
+Tim conectó electrodos a mi antebrazo
+
+193
+00:09:28,065 --> 00:09:31,625
+que se comunican a través de Bluetooth,
+a una aplicación en su iPad.
+
+194
+00:09:31,626 --> 00:09:34,690
+Voy a amplificar las señales
+de la actividad de tus músculos.
+
+195
+00:09:34,691 --> 00:09:37,567
+Así que cada vez que una neurona
+se comunique con el músculo
+
+196
+00:09:37,568 --> 00:09:40,545
+el músculo envía un impulso eléctrico,
+como las neuronas.
+
+197
+00:09:40,546 --> 00:09:42,705
+Podemos ver
+estos impulsos eléctricos aquí.
+
+198
+00:09:42,706 --> 00:09:45,175
+Ahora quiero que lo contraigas.
+
+199
+00:09:45,176 --> 00:09:47,850
+Muy bien, ahí están,
+puedes ver los impulsos.
+
+200
+00:09:47,851 --> 00:09:49,492
+Mira esto.
+
+201
+00:09:49,493 --> 00:09:52,553
+Ese ruido es el sonido
+de muchas fibras musculares.
+
+202
+00:09:52,554 --> 00:09:53,294
+Son muchas.
+
+203
+00:09:53,295 --> 00:09:54,669
+Envían acciones potenciales
+
+204
+00:09:54,670 --> 00:09:57,971
+porque las neuronas hacen sinapsis
+en esos músculos cuando te mueves.
+
+205
+00:09:57,972 --> 00:09:59,785
+Déjame mover un poco tu mano.
+
+206
+00:09:59,786 --> 00:10:02,437
+No vemos mucha actividad,
+quizás haya un estiramiento.
+
+207
+00:10:02,438 --> 00:10:03,768
+Ahora haz fuerza.
+
+208
+00:10:03,769 --> 00:10:08,133
+No hay movimiento,
+pero vemos actividad por la contracción.
+
+209
+00:10:08,134 --> 00:10:09,614
+Lo genial de esto
+
+210
+00:10:09,615 --> 00:10:12,749
+es que como estás haciendo
+movimientos voluntarios con tu cerebro
+
+211
+00:10:12,750 --> 00:10:15,745
+podemos aprovechar
+estas contracciones musculares
+
+212
+00:10:15,746 --> 00:10:17,537
+y usarlas para el control robótico.
+
+213
+00:10:17,538 --> 00:10:18,895
+Tim, esto es asombroso.
+
+214
+00:10:18,896 --> 00:10:21,137
+Pero la verdadera razón
+por la que te invité hoy
+
+215
+00:10:21,138 --> 00:10:22,662
+y te dije que trajeras todo esto
+
+216
+00:10:22,663 --> 00:10:24,942
+es porque quiero controlar a otro humano.
+
+217
+00:10:24,943 --> 00:10:26,728
+- ¿Alie?
+- Hola, Michael.
+
+218
+00:10:26,729 --> 00:10:27,717
+Gracias por venir.
+
+219
+00:10:27,718 --> 00:10:31,456
+Alie, debes estar un poco nerviosa
+después de escucharme.
+
+220
+00:10:31,457 --> 00:10:32,876
+Sí, te escuché muy bien.
+
+221
+00:10:32,877 --> 00:10:35,408
+Esto es por la ciencia
+y lo haremos los dos.
+
+222
+00:10:35,409 --> 00:10:37,987
+Dejaré que controles mi brazo también,
+¿estás lista?
+
+223
+00:10:37,988 --> 00:10:39,215
+¿Seré la primera?
+
+224
+00:10:39,216 --> 00:10:41,434
+Serás la primera,
+creo que es muy importante.
+
+225
+00:10:41,435 --> 00:10:44,095
+- ¿Por qué?
+- Para que sea aleatorio.
+
+226
+00:10:44,096 --> 00:10:47,583
+Lancé una moneda antes,
+que nadie vio, pero lo hice.
+
+227
+00:10:47,584 --> 00:10:49,830
+Alie Ward, del podcast Ologies,
+
+228
+00:10:49,831 --> 00:10:51,998
+fue muy valiente 
+para dejarme probar
+
+229
+00:10:51,999 --> 00:10:54,367
+cómo el cerebro envía señales al cuerpo.
+
+230
+00:10:54,368 --> 00:10:59,343
+En este caso, mi cerebro enviará señales
+para mover su cuerpo.
+
+231
+00:10:59,344 --> 00:11:02,088
+Colocamos una pantalla entre nosotros
+
+232
+00:11:02,089 --> 00:11:04,450
+para que no pueda ver
+cuando haga un movimiento
+
+233
+00:11:04,451 --> 00:11:06,376
+que envíe la señal.
+
+234
+00:11:06,377 --> 00:11:08,157
+Muy bien, comencemos.
+
+235
+00:11:08,158 --> 00:11:10,446
+¿Debo contraerlo suave o firmemente?
+
+236
+00:11:10,447 --> 00:11:11,651
+Solo hazlo completo.
+
+237
+00:11:11,652 --> 00:11:14,040
+- Bien, aquí vamos.
+- Bien.
+
+238
+00:11:14,041 --> 00:11:15,949
+- ¿Sentiste algo?
+- No, todavía no.
+
+239
+00:11:15,950 --> 00:11:18,517
+- No soy muy fuerte.
+- Le subiré un poco, ¿de acuerdo?
+
+240
+00:11:18,518 --> 00:11:20,339
+Sí, se sienten pinchazos suaves.
+
+241
+00:11:20,340 --> 00:11:22,933
+Están en el nivel dos,
+ahora lo subiré a cuatro.
+
+242
+00:11:22,934 --> 00:11:27,740
+Contrae, Michael.
+
+243
+00:11:27,741 --> 00:11:29,853
+Eso fue demasiado raro.
+
+244
+00:11:29,854 --> 00:11:32,115
+- Contrae.
+- Qué extraño.
+
+245
+00:11:32,116 --> 00:11:34,370
+- Bien.
+- Esto es muy raro.
+
+246
+00:11:34,371 --> 00:11:36,252
+Todavía no supero eso.
+
+247
+00:11:36,253 --> 00:11:40,833
+Se siente como si fuera una marioneta
+y están tirando de los hilos.
+
+248
+00:11:40,834 --> 00:11:42,416
+Por el bien de la ciencia,
+
+249
+00:11:42,417 --> 00:11:46,062
+era justo que le diera a Alie
+una oportunidad en los controles.
+
+250
+00:11:46,063 --> 00:11:47,634
+Pero también quería saber
+
+251
+00:11:47,635 --> 00:11:51,001
+qué se siente que alguien
+controle mis movimientos.
+
+252
+00:11:51,002 --> 00:11:53,586
+Mientras Alie controla mi cuerpo
+
+253
+00:11:53,587 --> 00:11:57,570
+se me ocurrió que sería genial
+disfrutar de una sopa caliente de tomate
+
+254
+00:11:57,571 --> 00:11:59,482
+y una copa de jugo de uva.
+
+255
+00:11:59,483 --> 00:12:02,162
+También podría escribir, soy mulfuncional.
+
+256
+00:12:02,163 --> 00:12:05,845
+Podemos probar la fuerza
+
+257
+00:12:05,846 --> 00:12:08,445
+con un poco de información
+de lo que me va a pasar.
+
+258
+00:12:08,446 --> 00:12:10,106
+Lo pondré en el nivel dos.
+
+259
+00:12:10,107 --> 00:12:10,907
+Está bien.
+
+260
+00:12:10,908 --> 00:12:13,376
+Bien, ahora contrae, Alie.
+
+261
+00:12:13,377 --> 00:12:14,834
+Muy bien.
+
+262
+00:12:14,835 --> 00:12:16,810
+- Sí, lo sentí.
+- Contrae otra vez.
+
+263
+00:12:16,811 --> 00:12:18,347
+- Sentí...
+- ¿Sentiste eso?
+
+264
+00:12:18,348 --> 00:12:19,079
+Sí.
+
+265
+00:12:19,080 --> 00:12:20,914
+Ahora voy a subirlo a cuatro.
+
+266
+00:12:20,915 --> 00:12:23,109
+Aquí vamos.
+
+267
+00:12:23,110 --> 00:12:24,330
+Bien, ahora contrae.
+
+268
+00:12:24,331 --> 00:12:29,682
+- ¿Estás listo?
+- Sí.
+
+269
+00:12:29,683 --> 00:12:30,917
+Vaya.
+
+270
+00:12:30,918 --> 00:12:35,101
+Ese no fui yo moviendo el brazo.
+
+271
+00:12:35,102 --> 00:12:37,290
+Ni el resto de tu cuerpo.
+
+272
+00:12:37,291 --> 00:12:40,475
+Sí, soy una persona activa,
+así que obtendrás más de mí.
+
+273
+00:12:40,476 --> 00:12:41,296
+Bien.
+
+274
+00:12:41,297 --> 00:12:50,927
+Por favor, no me controles
+mientras tomo un sorbo de...
+
+275
+00:12:50,928 --> 00:12:52,882
+Lo subiré a cinco y medio.
+
+276
+00:12:52,883 --> 00:13:00,804
+Tomaré un buen sorbo de esta sopa.
+
+277
+00:13:00,805 --> 00:13:03,119
+Es muy cruel, me encanta.
+
+278
+00:13:03,120 --> 00:13:06,836
+La parte más cruel es
+que la sopa está tibia.
+
+279
+00:13:06,837 --> 00:13:11,464
+Ahora déjenme comer en paz.
+
+280
+00:13:11,465 --> 00:13:12,645
+Lo siento.
+
+281
+00:13:12,646 --> 00:13:14,624
+Bueno, haré una pausa y escribiré algo.
+
+282
+00:13:14,625 --> 00:13:15,916
+Te dejaré tranquilo.
+
+283
+00:13:15,917 --> 00:13:22,071
+Bien.
+
+284
+00:13:22,072 --> 00:13:24,344
+Puedo resistirlo, pero…
+
+285
+00:13:24,345 --> 00:13:25,886
+Al igual que las cucarachas,
+
+286
+00:13:25,887 --> 00:13:30,379
+mi cuerpo estaba aprendiendo
+a adaptarse a la señal.
+
+287
+00:13:30,380 --> 00:13:34,851
+Por la ciencia.
+
+288
+00:13:34,852 --> 00:13:45,970
+Esa es la belleza de la electrofisiología.
+
+289
+00:13:45,971 --> 00:13:49,215
+El hecho de que nuestras neuronas
+funcionen con electricidad
+
+290
+00:13:49,216 --> 00:13:51,754
+significa que podemos aprender de ellas
+
+291
+00:13:51,755 --> 00:13:54,254
+y eso tiene aplicaciones
+médicas asombrosas.
+
+292
+00:13:54,255 --> 00:13:58,671
+El electroencefalograma, o EEG,
+surgió en la década de los 20
+
+293
+00:13:58,672 --> 00:14:02,100
+y le permitió a los doctores ver 
+algunas señales eléctricas del cerebro
+
+294
+00:14:02,101 --> 00:14:03,666
+como ondas cerebrales visibles.
+
+295
+00:14:03,667 --> 00:14:05,125
+Pero a mediados de los años 80
+
+296
+00:14:05,126 --> 00:14:07,598
+los científicos se dieron cuenta
+que algunas cosas,
+
+297
+00:14:07,599 --> 00:14:10,022
+como el sueño de lograr
+que pacientes con parálisis
+
+298
+00:14:10,023 --> 00:14:13,017
+movieran un brazo robótico,
+necesitan una señal más fuerte.
+
+299
+00:14:13,018 --> 00:14:15,967
+Eso se debe a que mover un brazo
+necesita mucha información.
+
+300
+00:14:15,968 --> 00:14:17,767
+Se necesita información 
+de cómo mover
+
+301
+00:14:17,768 --> 00:14:19,264
+la parte superior del brazo,
+
+302
+00:14:19,265 --> 00:14:22,056
+el antebrazo, la mano y los dedos
+a través de un espacio 3D
+
+303
+00:14:22,057 --> 00:14:24,687
+El EEG no contiene suficiente
+información para hacer eso
+
+304
+00:14:24,688 --> 00:14:26,582
+ya que las señales eléctricas que toma
+
+305
+00:14:26,583 --> 00:14:30,361
+se distorsionan luego de hacerse camino
+a través del cráneo y la piel.
+
+306
+00:14:30,362 --> 00:14:32,875
+Si quieren controlar
+una extremidad protésica
+
+307
+00:14:32,876 --> 00:14:34,572
+usando solo su mente
+
+308
+00:14:34,573 --> 00:14:38,688
+los investigadores descubrieron
+que necesitarían grabarlo con el cerebro.
+
+309
+00:14:38,689 --> 00:14:42,382
+En el 2006, los científicos lograron eso.
+
+310
+00:14:42,383 --> 00:14:45,680
+Implantaron un electrodo en el cerebro
+de una persona con parálisis
+
+311
+00:14:45,681 --> 00:14:47,275
+por primera vez.
+
+312
+00:14:47,276 --> 00:14:49,208
+Desde esa primera prueba en un paciente
+
+313
+00:14:49,209 --> 00:14:52,473
+varios pacientes con parálisis
+han recibido implantes para el cerebro
+
+314
+00:14:52,474 --> 00:14:56,361
+que les permite controlar
+brazos robóticos usando sus mentes.
+
+315
+00:14:56,362 --> 00:14:59,242
+Mientras más aumenta
+nuestro entendimiento del cerebro
+
+316
+00:14:59,243 --> 00:15:00,776
+y nuestras computadoras mejoran
+
+317
+00:15:00,777 --> 00:15:02,963
+en la decodificación
+de las señales del cerebro
+
+318
+00:15:02,964 --> 00:15:06,448
+estos pacientes están obteniendo
+cada vez más control
+
+319
+00:15:06,449 --> 00:15:09,084
+de estos brazos robóticos.
+
+320
+00:15:09,085 --> 00:15:11,814
+Recientemente,
+la ciencia ha dado un gran paso
+
+321
+00:15:11,815 --> 00:15:14,012
+desde permitirle
+a los pacientes con parálisis
+
+322
+00:15:14,013 --> 00:15:16,005
+controlar extremidades robóticas
+
+323
+00:15:16,006 --> 00:15:18,521
+hasta darles el control
+de sus propias extremidades.
+
+324
+00:15:18,522 --> 00:15:20,992
+Viajé a la Universidad de Ohio
+
+325
+00:15:20,993 --> 00:15:23,558
+para conocer a uno de estos pacientes,
+Ian Burkhart.
+
+326
+00:15:23,559 --> 00:15:26,883
+A los 19 años, mientras disfrutaba
+de unas vacaciones con sus amigos,
+
+327
+00:15:26,884 --> 00:15:28,728
+Ian se zambulló en una ola en la playa
+
+328
+00:15:28,729 --> 00:15:31,377
+y se rompió el cuello
+al chocar con la arena,
+
+329
+00:15:31,378 --> 00:15:35,041
+lo que lo dejó paralizado
+del pecho para abajo.
+
+330
+00:15:35,042 --> 00:15:38,000
+Supe que estaba paralizado
+desde el momento en que me golpeé.
+
+331
+00:15:38,001 --> 00:15:40,289
+Quedé flotando con la cabeza
+sumergida en el agua
+
+332
+00:15:40,290 --> 00:15:41,501
+y no podía levantarme.
+
+333
+00:15:41,502 --> 00:15:43,296
+No podía moverme para nada.
+
+334
+00:15:43,297 --> 00:15:45,852
+Pasas de ser un joven independiente
+
+335
+00:15:45,853 --> 00:15:48,060
+que está en la universidad,
+a lo que soy ahora.
+
+336
+00:15:48,061 --> 00:15:49,823
+Necesito ayuda para todo.
+
+337
+00:15:49,824 --> 00:15:54,811
+Para comer, ir al baño, sentarme,
+subir a mi silla de ruedas.
+
+338
+00:15:54,812 --> 00:15:56,557
+Puedo mover mis hombros muy bien.
+
+339
+00:15:56,558 --> 00:15:59,200
+Puedo mover mis bíceps,
+que me permiten mover los brazos
+
+340
+00:15:59,201 --> 00:16:00,970
+pero nada más hacia abajo.
+
+341
+00:16:00,971 --> 00:16:03,506
+Los doctores de Ohio hablaron con Ian
+
+342
+00:16:03,507 --> 00:16:06,183
+sobre un tratamiento
+experimental revolucionario
+
+343
+00:16:06,184 --> 00:16:09,277
+desarrollado por Battelle,
+una firma de desarrollo e investigación
+
+344
+00:16:09,278 --> 00:16:12,644
+que usa tecnología de vanguardia,
+llamada NeuroLife.
+
+345
+00:16:12,645 --> 00:16:16,079
+Querían implantar un chip
+en la corteza motora de Ian
+
+346
+00:16:16,080 --> 00:16:18,089
+que le permitiría mover su mano otra vez
+
+347
+00:16:18,090 --> 00:16:21,515
+mientras estaba conectado
+a una computadora en el laboratorio.
+
+348
+00:16:21,516 --> 00:16:24,235
+Fui invitado a Wexner Medical Center
+
+349
+00:16:24,236 --> 00:16:27,203
+en la Universidad de Ohio,
+para conocer a los investigadores
+
+350
+00:16:27,204 --> 00:16:30,506
+y ser testigo del trabajo en acción.
+
+351
+00:16:30,507 --> 00:16:32,943
+Primero,
+vamos a conectar a Ian al sistema.
+
+352
+00:16:32,944 --> 00:16:36,976
+La pieza sobresale de mi cráneo,
+como referencia.
+
+353
+00:16:36,977 --> 00:16:39,255
+Está debajo de una capa protectora
+
+354
+00:16:39,256 --> 00:16:42,959
+pero está ahí todo el tiempo
+y lleva a unos cables
+
+355
+00:16:42,960 --> 00:16:46,780
+que van al sistema del microchip,
+que está en la superficie de mi cerebro.
+
+356
+00:16:46,781 --> 00:16:49,723
+Llega al órgano real del cerebro.
+
+357
+00:16:49,724 --> 00:16:50,687
+Así es.
+
+358
+00:16:50,688 --> 00:16:53,684
+El microchip en la cabeza de Ian
+detecta el flujo de la sangre
+
+359
+00:16:53,685 --> 00:16:55,912
+y los impulsos eléctricos de su cerebro
+
+360
+00:16:55,913 --> 00:16:58,161
+que están asociados con el movimiento.
+
+361
+00:16:58,162 --> 00:16:59,703
+Este es el verdadero chip.
+
+362
+00:16:59,704 --> 00:17:02,043
+Está ubicado
+en la superficie de su cerebro.
+
+363
+00:17:02,044 --> 00:17:04,410
+El cerebro de Ian
+está conectado al software
+
+364
+00:17:04,411 --> 00:17:07,616
+que lee y analiza
+la actividad de su cerebro.
+
+365
+00:17:07,617 --> 00:17:11,640
+Este es un vistazo en vivo,
+en la corteza motora de Ian.
+
+366
+00:17:11,641 --> 00:17:12,449
+Sí.
+
+367
+00:17:12,450 --> 00:17:15,629
+Si piensas en mover tu brazo
+
+368
+00:17:15,630 --> 00:17:18,819
+¿veríamos más actividad
+o un patrón diferente?
+
+369
+00:17:18,820 --> 00:17:19,950
+Sí.
+
+370
+00:17:19,951 --> 00:17:21,688
+Al inicio de la sesión,
+
+371
+00:17:21,689 --> 00:17:24,479
+para poder calibrar
+el decodificador con su cerebro,
+
+372
+00:17:24,480 --> 00:17:27,382
+se le pidió a Ian que pensara
+en mover su brazo
+
+373
+00:17:27,383 --> 00:17:30,287
+mirando imágenes de movimientos de manos.
+
+374
+00:17:30,288 --> 00:17:32,859
+Verás que la computadora me pide algo
+
+375
+00:17:32,860 --> 00:17:36,560
+y mientras lo hace,
+ya estoy pensando en eso.
+
+376
+00:17:36,561 --> 00:17:38,341
+¿A qué te refieres con pensar en eso?
+
+377
+00:17:38,342 --> 00:17:41,886
+Solo pienso lo más que puedo
+e imagino ese movimiento.
+
+378
+00:17:41,887 --> 00:17:42,856
+Entiendo.
+
+379
+00:17:42,857 --> 00:17:46,012
+Mientras el cerebro de Ian
+piensa en el movimiento de su mano…
+
+380
+00:17:46,013 --> 00:17:47,791
+- Ian, ¿estás listo?
+- Sí.
+
+381
+00:17:47,792 --> 00:17:51,163
+…sus señales eléctricas
+son detectadas por el chip
+
+382
+00:17:51,164 --> 00:17:53,694
+y son enviadas al decodificador.
+
+383
+00:17:53,695 --> 00:17:55,407
+Luego, tomamos esa información
+
+384
+00:17:55,408 --> 00:17:57,988
+y la asociamos con una mano cerrada.
+
+385
+00:17:57,989 --> 00:18:02,161
+Ahora el decodificador puede reconocer
+si él está pensando lo mismo.
+
+386
+00:18:02,162 --> 00:18:04,573
+Luego, el decodificador envía una señal
+
+387
+00:18:04,574 --> 00:18:08,005
+a un dispositivo que puede controlar
+el movimiento del músculo de Ian.
+
+388
+00:18:08,006 --> 00:18:10,492
+Esta manga especial, en el brazo de Ian
+
+389
+00:18:10,493 --> 00:18:12,621
+contiene 130 electrodos
+
+390
+00:18:12,622 --> 00:18:15,087
+que estimulan los músculos en su antebrazo
+
+391
+00:18:15,088 --> 00:18:18,648
+para producir los movimientos específicos
+que su cerebro está pensando
+
+392
+00:18:18,649 --> 00:18:23,256
+como cerrar la mano o mover el pulgar.
+
+393
+00:18:23,257 --> 00:18:26,940
+Ahora, era momento de ver a Ian
+mover su mano paralizada
+
+394
+00:18:26,941 --> 00:18:28,314
+con sus pensamientos.
+
+395
+00:18:28,315 --> 00:18:30,336
+Ian, ¿estás listo para el siguiente?
+
+396
+00:18:30,337 --> 00:18:32,008
+- Sí.
+- Voy a contar.
+
+397
+00:18:32,009 --> 00:18:40,927
+Tres, dos, uno.
+
+398
+00:18:40,928 --> 00:18:42,078
+Vaya.
+
+399
+00:18:42,079 --> 00:18:45,021
+Eso fue el decodificador.
+
+400
+00:18:45,022 --> 00:18:46,800
+¿Está decodificando sus pensamientos?
+
+401
+00:18:46,801 --> 00:18:48,244
+- Sí.
+- Vaya.
+
+402
+00:18:48,245 --> 00:18:50,394
+Ian estaba en control de los movimientos.
+
+403
+00:18:50,395 --> 00:18:52,191
+Buen trabajo.
+
+404
+00:18:52,192 --> 00:18:56,593
+Los logros de Ian llegaron
+mucho más allá de cerrar la mano.
+
+405
+00:18:56,594 --> 00:18:59,118
+Con la ayuda
+de la tecnología de vanguardia
+
+406
+00:18:59,119 --> 00:19:01,170
+puede usar su propia mano paralizada
+
+407
+00:19:01,171 --> 00:19:03,532
+para realizar varias tareas motoras,
+
+408
+00:19:03,533 --> 00:19:06,202
+desde movimientos cotidianos
+
+409
+00:19:06,203 --> 00:19:08,789
+hasta jugar Guitar Hero.
+
+410
+00:19:08,790 --> 00:19:11,024
+¿Cuántas personas son como Ian?
+
+411
+00:19:11,025 --> 00:19:16,245
+Actualmente, en el mundo,
+se podría decir que quizás cinco.
+
+412
+00:19:16,246 --> 00:19:21,648
+Ian continúa ganando independencia,
+fuera del laboratorio también.
+
+413
+00:19:21,649 --> 00:19:27,261
+¿Algunas personas te han comentado
+que esto les parece peligroso?
+
+414
+00:19:27,262 --> 00:19:30,630
+Creo que si todos
+los que me encuentro en la calle
+
+415
+00:19:30,631 --> 00:19:32,559
+supieran que no tengo uso de mis manos
+
+416
+00:19:32,560 --> 00:19:34,590
+y voy a 70 millas
+por hora en la autopista
+
+417
+00:19:34,591 --> 00:19:35,852
+quizás no les guste eso.
+
+418
+00:19:35,853 --> 00:19:37,546
+Pero no tienen por qué preocuparse.
+
+419
+00:19:37,547 --> 00:19:39,025
+Y quizás soy más seguro
+
+420
+00:19:39,026 --> 00:19:41,161
+porque no puedo quitar
+mis manos del volante
+
+421
+00:19:41,162 --> 00:19:42,612
+para tomar mi teléfono.
+
+422
+00:19:42,613 --> 00:19:44,981
+Claro, no estás jugando con la radio.
+
+423
+00:19:44,982 --> 00:19:47,166
+Cosas que no debería
+hacer mientras conduzco.
+
+424
+00:19:47,167 --> 00:19:52,319
+El progreso de Ian es inspirador
+y esto es solo el comienzo para él.
+
+425
+00:19:52,320 --> 00:19:56,461
+¿Qué esperas en el futuro para ti?
+
+426
+00:19:56,462 --> 00:20:00,818
+Espero poder mejorar
+y pasar a la próxima etapa
+
+427
+00:20:00,819 --> 00:20:05,846
+para tener más capacidades
+y poder hacer cosas más fácilmente.
+
+428
+00:20:05,847 --> 00:20:08,460
+A largo plazo, espero que este
+pueda ser un dispositivo
+
+429
+00:20:08,461 --> 00:20:10,120
+que las personas puedan usar.
+
+430
+00:20:10,121 --> 00:20:14,881
+Si alguien sufre una lesión medular,
+que pueda continuar con su vida.
+
+431
+00:20:14,882 --> 00:20:17,643
+Creo que el trabajo que estamos haciendo
+
+432
+00:20:17,644 --> 00:20:20,740
+es algo que no se ha hecho antes
+
+433
+00:20:20,741 --> 00:20:31,343
+y es muy gratificante
+estar a la vanguardia.
+
+434
+00:20:31,344 --> 00:20:35,343
+Devolver el movimiento es una cosa,
+¿pero qué hay de sentir?
+
+435
+00:20:35,344 --> 00:20:37,123
+Las sensaciones.
+
+436
+00:20:37,124 --> 00:20:38,789
+Sentimos con nuestra piel
+
+437
+00:20:38,790 --> 00:20:42,479
+por las señales enviadas
+a la corteza somatosensorial del cerebro.
+
+438
+00:20:42,480 --> 00:20:45,472
+Al colocar sensores en dedos robóticos
+
+439
+00:20:45,473 --> 00:20:48,706
+conectados a implantes en la corteza
+somatosensorial de una persona,
+
+440
+00:20:48,707 --> 00:20:51,121
+los investigadores
+en la Universidad de Pittsburgh
+
+441
+00:20:51,122 --> 00:20:57,781
+le han permitido a Nathan Copeland
+sentir con su mano robótica.
+
+442
+00:20:57,782 --> 00:21:01,254
+Nathan pasó por cirugía cerebral
+para recibir dos implantes
+
+443
+00:21:01,255 --> 00:21:04,678
+uno en su corteza motora,
+para controlar el brazo robótico
+
+444
+00:21:04,679 --> 00:21:08,232
+y un segundo implante
+en su corteza somatosensorial.
+
+445
+00:21:08,233 --> 00:21:11,381
+Este segundo implante estimula su cerebro
+
+446
+00:21:11,382 --> 00:21:15,442
+y el patrón de estimulación depende
+de lo que toque la mano robótica.
+
+447
+00:21:15,443 --> 00:21:18,705
+Si tocan al robot en un dedo específico,
+
+448
+00:21:18,706 --> 00:21:21,658
+la parte de la corteza
+somatosensorial de Nathan
+
+449
+00:21:21,659 --> 00:21:25,652
+que depende de ese dedo, se estimula.
+
+450
+00:21:25,653 --> 00:21:28,605
+Dedo meñique.
+
+451
+00:21:28,606 --> 00:21:29,636
+Dedo medio.
+
+452
+00:21:29,637 --> 00:21:33,049
+Su cerebro interpreta que hubo un toque.
+
+453
+00:21:33,050 --> 00:21:35,499
+Los logros notables de Nathan e Ian
+
+454
+00:21:35,500 --> 00:21:37,374
+han sido apoyados por sus habilidades
+
+455
+00:21:37,375 --> 00:21:40,026
+para comunicarse
+con los investigadores involucrados.
+
+456
+00:21:40,027 --> 00:21:41,835
+¿Pero qué se puede hacer por aquellos
+
+457
+00:21:41,836 --> 00:21:47,640
+que no solo no se pueden mover,
+sino que tampoco pueden hablar?
+
+458
+00:21:47,641 --> 00:21:51,723
+Steve Kaplan era un programador
+de computadoras de 57 años
+
+459
+00:21:51,724 --> 00:21:55,111
+que salía con Laurie,
+una vaquera de rodeo.
+
+460
+00:21:55,112 --> 00:21:57,520
+Pero todo cambió hace un año,
+
+461
+00:21:57,521 --> 00:21:59,559
+cuando sufrió un derrame masivo
+
+462
+00:21:59,560 --> 00:22:03,680
+que lo dejó en estado vegetal,
+y no podía moverse ni hablar.
+
+463
+00:22:03,681 --> 00:22:06,673
+Los doctores declararon a Steve
+con muerte cerebral.
+
+464
+00:22:06,674 --> 00:22:09,931
+Sin embargo, dentro de su cuerpo,
+estaba totalmente consciente
+
+465
+00:22:09,932 --> 00:22:11,965
+pero no podía decirles nada.
+
+466
+00:22:11,966 --> 00:22:13,824
+No fue hasta que una enfermera notó
+
+467
+00:22:13,825 --> 00:22:16,650
+que los movimientos de los ojos
+de Steve eran intencionales
+
+468
+00:22:16,651 --> 00:22:19,976
+y fue diagnosticado
+con síndrome de enclaustramiento
+
+469
+00:22:19,977 --> 00:22:24,160
+una condición que le quita todo
+a las personas, menos sus mentes.
+
+470
+00:22:24,161 --> 00:22:26,676
+Mientras el cerebro normal
+recibe señales eléctricas
+
+471
+00:22:26,677 --> 00:22:29,365
+de los sentidos y envía señales de vuelta,
+
+472
+00:22:29,366 --> 00:22:31,721
+el derrame evita
+que las señales eléctricas
+
+473
+00:22:31,722 --> 00:22:34,277
+salgan del cerebro de Steve.
+
+474
+00:22:34,278 --> 00:22:37,701
+El año pasado,
+con la ayuda de fisioterapeutas
+
+475
+00:22:37,702 --> 00:22:42,048
+Steve ha recuperado movimiento
+limitado en su cuello.
+
+476
+00:22:42,049 --> 00:22:45,225
+Me reuní con Steve y su esposa, Laurie,
+
+477
+00:22:45,226 --> 00:22:48,568
+para saber más
+sobre el síndrome de enclaustramiento.
+
+478
+00:22:48,569 --> 00:22:50,590
+Hola, Steve y Laurie.
+
+479
+00:22:50,591 --> 00:22:53,206
+Aunque todavía no puede hablar
+
+480
+00:22:53,207 --> 00:22:55,188
+gracias a los avances científicos
+
+481
+00:22:55,189 --> 00:22:57,457
+Steve puede comunicarse
+con el mundo exterior
+
+482
+00:22:57,458 --> 00:22:59,219
+usando una computadora.
+
+483
+00:22:59,220 --> 00:23:00,510
+Hola, Michael.
+
+484
+00:23:00,511 --> 00:23:02,358
+Un gusto conocerlos, Steve y Laurie.
+
+485
+00:23:02,359 --> 00:23:05,034
+Primero que nada, gracias por su tiempo.
+
+486
+00:23:05,035 --> 00:23:08,284
+Cuéntame cómo Steve comenzó a comunicarse.
+
+487
+00:23:08,285 --> 00:23:11,518
+Hice muchas preguntas
+sobre el síndrome de enclaustramiento
+
+488
+00:23:11,519 --> 00:23:14,761
+cuando me explicaron qué era,
+pero no obtuve muchas respuestas.
+
+489
+00:23:14,762 --> 00:23:15,591
+Bien.
+
+490
+00:23:15,592 --> 00:23:16,670
+Al comienzo
+
+491
+00:23:16,671 --> 00:23:20,044
+solo podía pestañear una vez
+para decir que sí y dos para no.
+
+492
+00:23:20,045 --> 00:23:22,737
+Así comenzó a comunicarse.
+
+493
+00:23:22,738 --> 00:23:25,849
+Luego, nos dieron una pizarra
+y pasamos al abecedario.
+
+494
+00:23:25,850 --> 00:23:28,847
+Cerraba los ojos
+cuando llegaba a lo que quería.
+
+495
+00:23:28,848 --> 00:23:31,281
+Lo escribía y así comenzó todo.
+
+496
+00:23:31,282 --> 00:23:32,763
+Como pueden imaginar,
+
+497
+00:23:32,764 --> 00:23:35,462
+el primer método de Laurie y Steve
+para comunicarse
+
+498
+00:23:35,463 --> 00:23:38,619
+fue un proceso lento y laborioso.
+
+499
+00:23:38,620 --> 00:23:40,130
+Pero meses después,
+
+500
+00:23:40,131 --> 00:23:42,843
+un ingeniero que trabaja
+para ayudar a estos pacientes,
+
+501
+00:23:42,844 --> 00:23:46,627
+creó una máquina para Steve
+que rastrea los movimientos de sus ojos.
+
+502
+00:23:46,628 --> 00:23:49,696
+Mientras Steve mira
+diferentes letras en la pantalla
+
+503
+00:23:49,697 --> 00:23:52,042
+la máquina traduce lo que está mirando
+
+504
+00:23:52,043 --> 00:23:54,498
+en un discurso audible resumido.
+
+505
+00:23:54,499 --> 00:23:56,396
+Quiero recuperarme.
+
+506
+00:23:56,397 --> 00:24:00,222
+Aunque hay un pequeño retraso
+en la comunicación
+
+507
+00:24:00,223 --> 00:24:02,797
+mientras Steve escanea
+las letras en la pantalla
+
+508
+00:24:02,798 --> 00:24:07,076
+este método es mucho más fluido
+y significativamente más rápido.
+
+509
+00:24:07,077 --> 00:24:09,936
+No puedo salir del caparazón
+creado por mí.
+
+510
+00:24:09,937 --> 00:24:12,349
+La computadora me ayuda a comunicarme.
+
+511
+00:24:12,350 --> 00:24:14,491
+Sí, puedes escribir con tus ojos.
+
+512
+00:24:14,492 --> 00:24:15,859
+Esta máquina es asombrosa.
+
+513
+00:24:15,860 --> 00:24:19,661
+Puede enviar correos, mensajes
+o llamarme si lo necesita.
+
+514
+00:24:19,662 --> 00:24:21,977
+- Es un gran alivio.
+- Es una maravilla.
+
+515
+00:24:21,978 --> 00:24:24,053
+Sí, lo es.
+
+516
+00:24:24,054 --> 00:24:27,114
+Me imagino lo emotivo
+que debió haber sido para ti
+
+517
+00:24:27,115 --> 00:24:30,503
+poder mirar, escribir algo
+y luego comunicarlo.
+
+518
+00:24:30,504 --> 00:24:35,426
+Y, Laurie, al oír las palabras
+que salen de su mente
+
+519
+00:24:35,427 --> 00:24:38,465
+especialmente por primera vez
+después de mucho tiempo.
+
+520
+00:24:38,466 --> 00:24:39,205
+Sí.
+
+521
+00:24:39,206 --> 00:24:47,107
+¿Qué fue lo primero que dijiste, Steve?
+
+522
+00:24:47,108 --> 00:24:51,568
+El primer mensaje fue feliz cumpleaños.
+
+523
+00:24:51,569 --> 00:24:53,146
+Un gran regalo de cumpleaños.
+
+524
+00:24:53,147 --> 00:24:54,711
+De verdad que lo fue.
+
+525
+00:24:54,712 --> 00:24:57,300
+El progreso de Steve es notable
+
+526
+00:24:57,301 --> 00:25:01,635
+y sería difícil negar la conexión
+entre su nueva habilidad para comunicarse
+
+527
+00:25:01,636 --> 00:25:04,722
+y conectarse con el mundo exterior,
+con los increíbles avances
+
+528
+00:25:04,723 --> 00:25:07,200
+que ha logrado físicamente
+desde el año pasado.
+
+529
+00:25:07,201 --> 00:25:09,319
+- Mira hacia el techo.
+- Bien.
+
+530
+00:25:09,320 --> 00:25:11,602
+Ahora mira tus pulgares.
+
+531
+00:25:11,603 --> 00:25:15,475
+Ahora mira a tu hermosa esposa.
+
+532
+00:25:15,476 --> 00:25:17,394
+Laurie y Steve esperan que un día
+
+533
+00:25:17,395 --> 00:25:26,789
+Steve se recupere por completo
+del síndrome de enclaustramiento.
+
+534
+00:25:26,790 --> 00:25:29,469
+El dispositivo de rastreo ocular
+de Steve es eléctrico
+
+535
+00:25:29,470 --> 00:25:31,137
+y también lo es su cerebro.
+
+536
+00:25:31,138 --> 00:25:34,639
+Están conectados por el movimiento
+de los ojos de Steve.
+
+537
+00:25:34,640 --> 00:25:36,619
+Pero algunos pacientes con esta condición
+
+538
+00:25:36,620 --> 00:25:38,882
+no pueden controlar
+el movimiento de sus ojos.
+
+539
+00:25:38,883 --> 00:25:40,603
+Tienen lo que se conoce
+
+540
+00:25:40,604 --> 00:25:43,597
+como síndrome
+de enclaustramiento completo.
+
+541
+00:25:43,598 --> 00:25:44,786
+Para estos pacientes,
+
+542
+00:25:44,787 --> 00:25:47,912
+la tecnología de rastreo ocular
+que ayudó a Steve a comunicarse,
+
+543
+00:25:47,913 --> 00:25:49,275
+no funcionaría.
+
+544
+00:25:49,276 --> 00:25:51,887
+Pero investigadores en Europa
+descubrieron una manera
+
+545
+00:25:51,888 --> 00:25:54,130
+de permitirle a los pacientes
+con esta condición
+
+546
+00:25:54,131 --> 00:25:57,109
+comunicarse usando sus pensamientos.
+
+547
+00:25:57,110 --> 00:26:02,485
+Los investigadores combinaron el EEG
+con espectroscopia infrarroja
+
+548
+00:26:02,486 --> 00:26:05,707
+que mide de manera no invasiva
+el flujo de la sangre en el cerebro.
+
+549
+00:26:05,708 --> 00:26:08,642
+Se le hicieron preguntas
+sencillas a los pacientes
+
+550
+00:26:08,643 --> 00:26:10,900
+de las cuales se sabían las respuestas
+
+551
+00:26:10,901 --> 00:26:13,900
+lo que les permitió entrenar
+una máquina para que reconociera
+
+552
+00:26:13,901 --> 00:26:16,189
+cuáles señales significaban sí
+
+553
+00:26:16,190 --> 00:26:18,008
+y cuáles señales significaban que no.
+
+554
+00:26:18,009 --> 00:26:20,273
+Luego, les realizaron a los pacientes
+
+555
+00:26:20,274 --> 00:26:23,125
+otra serie de preguntas
+de las cuales sabían la respuesta
+
+556
+00:26:23,126 --> 00:26:24,624
+y con sus pensamientos
+
+557
+00:26:24,625 --> 00:26:27,179
+los pacientes dieron
+respuestas correctas
+
+558
+00:26:27,180 --> 00:26:29,629
+al 70% de las preguntas.
+
+559
+00:26:29,630 --> 00:26:33,316
+Dar respuestas de sí o no
+puede parecer limitado,
+
+560
+00:26:33,317 --> 00:26:35,308
+pero esta tecnología es nueva.
+
+561
+00:26:35,309 --> 00:26:37,937
+Todo esto sucedió este año.
+
+562
+00:26:37,938 --> 00:26:40,779
+Estos avances rápidos,
+
+563
+00:26:40,780 --> 00:26:43,513
+gracias a la dedicación y esfuerzo
+de los investigadores
+
+564
+00:26:43,514 --> 00:26:46,651
+y sujetos alrededor del mundo,
+de manera lenta pero segura
+
+565
+00:26:46,652 --> 00:26:49,502
+están despejando
+los misterios de la mente.
+
+566
+00:26:49,503 --> 00:26:51,284
+Mientas más entendamos la mente,
+
+567
+00:26:51,285 --> 00:26:53,409
+mejor podremos ayudar
+a millones de personas
+
+568
+00:26:53,410 --> 00:26:55,594
+que tienen problemas
+para hacer lo que quieren
+
+569
+00:26:55,595 --> 00:26:58,493
+ya sea por condiciones
+psicológicas o neurológicas.
+
+570
+00:26:58,494 --> 00:27:02,882
+Y finalmente, podremos
+entendernos a nosotros mismos.
+
+571
+00:27:02,883 --> 00:27:05,889
+Como siempre, gracias por vernos.
+

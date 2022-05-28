@@ -1,0 +1,497 @@
+1
+00:00:00,459 --> 00:00:04,058
+La regina leonessa sta cercando di rendere
+le elezioni nel Regno degli Animali più eque.
+
+2
+00:00:04,059 --> 00:00:07,929
+Ora il regno è diviso in distretti, ognuno
+dei quali seleziona un rappresentante
+
+3
+00:00:07,930 --> 00:00:10,808
+per andare il consiglio della giungla
+che fa le leggi per il regno.
+
+4
+00:00:10,809 --> 00:00:15,709
+Ma i suoi cittadini non sono felici, è facile
+vedere il perchè: il consiglio è pieno di scimmie.
+
+5
+00:00:15,710 --> 00:00:19,758
+Ovviamente alcuni cittadini sono scimmie,
+ma non tutti. Questo consiglio non
+
+6
+00:00:19,759 --> 00:00:21,629
+rappresenta giustamente il regno.
+
+7
+00:00:21,630 --> 00:00:25,478
+La regina leonessa visina uno dei distretti
+per capire il problema e trovare una soluzione.
+
+8
+00:00:25,479 --> 00:00:30,658
+In questo distretto ci sono cinque scimmie,
+quattro tigri, tre gudi, due linci e un bufalo.
+
+9
+00:00:30,659 --> 00:00:34,869
+Un animale per specie si candida e 
+tutti i cittadini votano la propria specie.
+
+10
+00:00:34,870 --> 00:00:38,909
+La regola è che il candidato con più voti
+vince, in questo caso la scimmia.
+
+11
+00:00:38,910 --> 00:00:43,959
+Ma il risultato è deludente, visto che i
+due terzi dei cittadini in questo distretto
+
+12
+00:00:43,960 --> 00:00:45,748
+*non sono* scimmie e non voretebbero
+per le scimmie.
+
+13
+00:00:45,749 --> 00:00:50,439
+Questo si ripete per tutti i distretti del regno
+le scimmie hanno più voti di tutti gli altri
+
+14
+00:00:50,440 --> 00:00:55,408
+Quindi vincono tutte le elezioni,
+pur essendo una minoranza della popolazione.
+
+15
+00:00:55,409 --> 00:00:59,378
+Un maggiore esame rivela che i consiglieri
+indipendenti ingaggiati per disegnare
+
+16
+00:00:59,379 --> 00:01:03,678
+i confini dei distretti non erano
+così poi indipendenti.
+
+17
+00:01:03,679 --> 00:01:07,629
+Il risultato sono cittadini infelici che non
+si fidato del consiglio della giungla per
+
+18
+00:01:07,630 --> 00:01:09,319
+fare leggi eque, e lo fanno giuntamente.
+
+19
+00:01:09,320 --> 00:01:13,519
+Regine leonessa vuole massimizzare il numero 
+di cittadini felici dei risultati delle elezioni.
+
+20
+00:01:13,520 --> 00:01:17,459
+Un modo per farlo è abolire i distretti
+e usare un sistema proporzionale... ...ma i suoi
+
+21
+00:01:17,460 --> 00:01:19,839
+cittadini *volgiono* rappresentanti locali.
+
+22
+00:01:19,840 --> 00:01:24,109
+Quindi la regina leonessa ha bisogno di un
+sistema che faccia felici i cittadini con un
+
+23
+00:01:24,110 --> 00:01:27,429
+consiglio più rappresentativo mantenendo
+le elezioni locali.
+
+24
+00:01:27,430 --> 00:01:31,339
+Dopo un po' di ricerca trova come fare:
+il voto singolo trasferibile
+
+25
+00:01:31,340 --> 00:01:36,429
+Il grande cambiamento con VST è che i distretti 
+hanno più di un rappresentante, che potrebbe
+
+26
+00:01:36,430 --> 00:01:40,589
+sembrare strano, ma decide di provarlo:
+prende tre distretti che mandavano
+
+27
+00:01:40,590 --> 00:01:45,328
+un rappresentante a testa e li combina
+in un unico grande distretto con tre rappresentanti
+
+28
+00:01:45,329 --> 00:01:49,849
+Il giorno delle elezioni i cittadini vallo alle
+urne e i risultati di questo ditretto
+
+29
+00:01:49,850 --> 00:01:53,339
+sono gli stessi dei vecchi: 34% per 
+la scimmia, 33% per il gufo e 33% per la lince
+
+30
+00:01:53,340 --> 00:01:56,478
+Ma non vince chi ha più voti: con VST
+per capire i vincitori si prendono i votanti
+
+31
+00:01:56,479 --> 00:02:02,389
+e li si divide per il numero di rappresentati
+che servono in questo caso 3, che da 33%
+
+32
+00:02:02,390 --> 00:02:04,538
+di voti il necessario per vincere.
+
+33
+00:02:04,539 --> 00:02:08,788
+Quindi *tutti e tre* i candidati vanno
+al consiglio, ciò rappresenta correttamente
+
+34
+00:02:08,789 --> 00:02:09,829
+i cittadini nel distretto.
+
+35
+00:02:09,830 --> 00:02:14,909
+Mentre con il vecchio sistema ogni distretto
+avrebbe mandato una schimmia. Lasciando
+
+36
+00:02:14,910 --> 00:02:19,329
+i 2/3 dei cittadini senza rappresentaza.
+Un distretto più grande con più rappresentanti
+
+37
+00:02:19,330 --> 00:02:20,579
+permette al distretto di essere
+più proporzionale.
+
+38
+00:02:20,580 --> 00:02:24,829
+Questa prova ha funzionato, ma è
+stata una prova troppo semplice
+
+39
+00:02:24,830 --> 00:02:27,889
+Ora la regina vuole vedere cosa succede
+in un'elezione dove non tutti vincono.
+
+40
+00:02:27,890 --> 00:02:32,839
+Il prossimo grande distretto ha 5 candidati:
+Gorilla, Tarsio, Scimmia, Tigre
+
+41
+00:02:32,840 --> 00:02:36,279
+e Lince, tre dei quali possono diventare rappresentanti.
+
+42
+00:02:36,280 --> 00:02:40,579
+I cittadini votano e questi sono i risultati primari:
+
+43
+00:02:40,580 --> 00:02:43,499
+Tarsio al 5%
+Gorilla al 28%
+
+44
+00:02:43,500 --> 00:02:46,309
+Scimmia al 33%
+Tigre al 21%
+
+45
+00:02:46,310 --> 00:02:47,729
+Lince al 13%
+
+46
+00:02:47,730 --> 00:02:53,059
+Come prima, un candidato ha bisogno del 33%
+per vincere. Scimmia è immediatamente eletta
+
+47
+00:02:53,060 --> 00:02:55,069
+Come uno dei tre rappresentanti.
+
+48
+00:02:55,070 --> 00:02:59,829
+Ma nessun altro ha raggiunto il quorum,
+come sono selezionati gli atri rappresentanti?
+
+49
+00:02:59,830 --> 00:03:04,229
+Primo passo: esclusione del perdente maggiore.
+Scusa tarsio, non hai mai avuto possibilità.
+
+50
+00:03:04,230 --> 00:03:07,969
+Ora, quanto i cittadini hanno votato, potevano
+semplicemente mettere una X sul loro preferito
+
+51
+00:03:07,970 --> 00:03:13,359
+Ma con VST possono ordinare i loro
+candidati preferiti. Questo è importante
+
+52
+00:03:13,360 --> 00:03:18,029
+perché fa vedere come sarebbero andate
+le elezioni se non avesse partecipato un candidato.
+
+53
+00:03:18,030 --> 00:03:22,719
+I piccoli e preoccupati Tarsi avrebbero votato
+per il calmo Gorilla senta Tarsio come
+
+54
+00:03:22,720 --> 00:03:28,049
+candidato. Quindi se il loro candidato non vince
+essi vogliono che i loro voti dadano a Gorilla.
+
+55
+00:03:28,050 --> 00:03:32,369
+Ciò permette a Gorilla di raggiungere il 33%
+e diventare il prossimo rappresentante.
+
+56
+00:03:32,370 --> 00:03:36,219
+Ordinare i candidati permette ai cittadini
+di supportare il preferito senza preoccupazione.
+
+57
+00:03:36,220 --> 00:03:40,359
+Non ha senso votare strategicamente in base
+agli altri voti. Il sistema lavore per massimizzare
+
+58
+00:03:40,360 --> 00:03:42,289
+la felicità dei cittadini per il risultato.
+
+59
+00:03:42,290 --> 00:03:46,589
+Ritornando al distretto: manca un rappresentante
+da selezionare, il prossimo perdente è Lince.
+
+60
+00:03:46,590 --> 00:03:50,169
+Ai suoi elettori non piacciono i primati, ma
+supportano le idee di Tigre,
+
+61
+00:03:50,170 --> 00:03:54,869
+quindi se Lince non vince, vorrebbero che
+i loro voti andassero a lui. Tigre così raggiunge il 33%
+
+62
+00:03:54,870 --> 00:03:57,259
+e diventa il terzo e ultimo rappresentante
+
+63
+00:03:57,260 --> 00:04:02,009
+I risultati dell'elezione sembrano buoni, considerando 
+la prima *e* seconda scelta dei cittadini.
+
+64
+00:04:02,010 --> 00:04:06,569
+Ora più cittadini hanno un rappresentante locale
+a cui sono affiliati, mentre
+
+65
+00:04:06,570 --> 00:04:09,479
+usando il vecchio sistema,
+a tutti capita una scimmia.
+
+66
+00:04:09,480 --> 00:04:13,509
+Infine la regina vuole sapere quello che succede
+in un distretto con solo due partiti.
+
+67
+00:04:13,510 --> 00:04:17,078
+Sotto il sistema a maggioranza semplice, più
+candidati di uno stesso partito sarebbero
+
+68
+00:04:17,079 --> 00:04:20,898
+sconvenienti: dividerebbero i loro elettori
+e regalerebbero la vittoria all'altro partito.
+
+69
+00:04:20,899 --> 00:04:26,239
+La regina crea un distretto composto per
+2/3 da tigri e per 1/3 da gorilla, che come prima
+
+70
+00:04:26,240 --> 00:04:28,008
+hanno bisogno di tre rappresentanti.
+
+71
+00:04:28,009 --> 00:04:33,468
+Proprio perché con VST i cittadini ordinano
+i candidati, ci può essere più di un candidato
+
+72
+00:04:33,469 --> 00:04:36,359
+allo stesso tempo senza problemi.
+
+73
+00:04:36,360 --> 00:04:40,138
+Si candidano due tigri e due gorilla.
+
+74
+00:04:40,139 --> 00:04:55,429
+La tigre bianca viene eletta,
+ma cosa accade dopo? infatti mentre tigre
+
+75
+00:04:55,430 --> 00:04:59,228
+sembra essere il perdente peggiore, è anche
+ovvio che avrebbe ricevuto molti più voti se
+
+76
+00:04:59,229 --> 00:05:04,218
+la tigre bianca non avesse parteciparo. se un
+candidato ha più voti di quanti gliene servono, come
+
+77
+00:05:04,219 --> 00:05:09,309
+la tigre bianca, il primo passo è dare i voti in più
+alla loro seconda scelta. Ciò fa raggiungere
+
+78
+00:05:09,310 --> 00:05:12,688
+a tigre il 33%, e lo fa diventare 
+il prossimo rappresentante
+
+79
+00:05:12,689 --> 00:05:14,859
+Portebbe sembrare streno, ma ci sono
+due cose da considerare:
+
+80
+00:05:14,860 --> 00:05:18,609
+1) se i voti extre venissero ignorati, e tigre
+eliminata, gorilla prenderebbe
+
+81
+00:05:18,610 --> 00:05:23,089
+le due vincite rimanenti, che ovviamente
+non rappresenterebbe il distretto.
+
+82
+00:05:23,090 --> 00:05:27,739
+2) ignorando quei voti extra punirebbe i cittadini 
+che hanno votato i candidati più popolari,
+
+83
+00:05:27,740 --> 00:05:32,859
+ciò farebbe pensare ai cittadini come gli altri
+hanno votato, piuttosto che a quello
+
+84
+00:05:32,860 --> 00:05:38,059
+che realmente vogliono. Se un candidato
+riceve voti extra significa che
+
+85
+00:05:38,060 --> 00:05:42,668
+Coloro che lo hanno votato rappresentano
+una grande parte della popolazione
+
+86
+00:05:42,669 --> 00:05:44,498
+quindi dovrebbero giustamente
+ricevereve più rappresentazione.
+
+87
+00:05:44,499 --> 00:05:48,908
+Quindi: i voti extra vanno a tigre,
+e l'elezione finisce come prima: Gorilla bianco
+
+88
+00:05:48,909 --> 00:05:52,968
+arriva ultimo ed è eliminato, la seconda
+scelta dei candidati è il candidato più giovane
+
+89
+00:05:52,969 --> 00:05:55,778
+quindi Gorilla raggiunge il quorum
+e i risultati sono equi.
+
+90
+00:05:55,779 --> 00:06:00,498
+La Regina Leonessa ha visto che VST funziona..
+ Sia che il distretto abbia tanti o pochi partiti,
+
+91
+00:06:00,499 --> 00:06:02,198
+il processo è sempre lo stesso:
+
+92
+00:06:02,199 --> 00:06:06,628
+1. I cittadini ordinano i candidati.
+2. i candidati sopra il quorum vincono subito.
+
+93
+00:06:06,629 --> 00:06:09,498
+3. I voti extra vanno alla scelta successiva.
+
+94
+00:06:09,499 --> 00:06:13,679
+4. Se non c'è un vincitore, l'ultimo è eliminato,
+e i voti vanno alla scelta successiva.
+
+95
+00:06:13,680 --> 00:06:16,598
+5. Ripetere fino a che tutti i vincitori 
+sono stati trovati.
+
+96
+00:06:16,599 --> 00:06:21,168
+Questo provesso serve a massimizzare
+i cittadini felici del risultato.
+
+97
+00:06:21,169 --> 00:06:25,869
+VST ha molti vantaggi rispetto alla
+maggioranza semplice:
+
+98
+00:06:25,870 --> 00:06:29,628
+1. I cittadini possono votare per il loro
+preferito senza preoccuparsi degli altri.
+
+99
+00:06:29,629 --> 00:06:32,658
+2. È più proporzionale. Quindi la scorrettezza
+
+100
+00:06:32,659 --> 00:06:37,378
+sui confini incide di meno.
+3. Quasi tutti i cittadini hanno un rappresentante locale
+
+101
+00:06:37,379 --> 00:06:39,188
+Per il quale hanno effettivamente votato.
+
+102
+00:06:39,189 --> 00:06:42,968
+Alla fine la Regina Leonessa decide di
+cambiare le elezione e renderle
+
+103
+00:06:42,969 --> 00:06:45,649
+a voto singolo trasferibile per
+migliorare il consiglio della giungla.
+

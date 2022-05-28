@@ -1,0 +1,312 @@
+1
+00:00:00,000 --> 00:00:02,139
+Hello Internet. We need to talk about locks
+
+2
+00:00:02,140 --> 00:00:04,279
+The physical and the digital.
+
+3
+00:00:04,280 --> 00:00:07,619
+In the physical world, locks aren't as good as you think they are.
+
+4
+00:00:07,620 --> 00:00:10,899
+The lock on your door stops worries, not burglars,
+
+5
+00:00:10,900 --> 00:00:13,319
+As two minutes of searching will reveal.
+
+6
+00:00:13,320 --> 00:00:17,299
+Spend more, get more; but all fail with tools and time enough.
+
+7
+00:00:17,300 --> 00:00:21,119
+That physical locks are bad at locking mostly doesn't matter in normal life,
+
+8
+00:00:21,120 --> 00:00:24,179
+Because burglars are constrained by the physical world.
+
+9
+00:00:24,180 --> 00:00:27,539
+A burglar must cruise the neighborhood, spending their time to pick a target,
+
+10
+00:00:27,540 --> 00:00:31,439
+Which makes a house that looks secure most of the way toward being secure.
+
+11
+00:00:31,440 --> 00:00:34,659
+Each target house can then only be attacked one at a time,
+
+12
+00:00:34,660 --> 00:00:37,599
+And comes with a risk of being physically caught in the act.
+
+13
+00:00:37,600 --> 00:00:42,039
+But digital is different. The constraints of the physical no longer apply.
+
+14
+00:00:42,040 --> 00:00:46,099
+On the Internet, a digital lock must protect you from, not just the neighborhood burglar,
+
+15
+00:00:46,100 --> 00:00:52,039
+But all burglars everywhere. For, on the Internet, there's no such thing as distance.
+
+16
+00:00:52,040 --> 00:00:55,799
+Internet burglars don't crack digital locks personally, they build burglar bots
+
+17
+00:00:55,800 --> 00:00:59,679
+That try millions of combinations just to see what opens.
+
+18
+00:00:59,680 --> 00:01:04,859
+One lock down the street or a country-full on the other side of the world — it's all the same.
+
+19
+00:01:04,860 --> 00:01:09,719
+Actually, other side of the world is better — a dude in East-whatever-landia stealing your identity
+
+20
+00:01:09,720 --> 00:01:12,539
+Has a near-zero chance of getting caught.
+
+21
+00:01:12,540 --> 00:01:17,379
+This is bad news, but thanks to mathematics, digital locks can be made unbreakable.
+
+22
+00:01:17,380 --> 00:01:22,739
+This is encryption — a digital lock that, without the password, cannot be opened.
+
+23
+00:01:22,740 --> 00:01:26,419
+Burglar bots will plough through all the possibilities, but a secure password
+
+24
+00:01:26,420 --> 00:01:29,719
+Will take longer than the heat death of the Universe to guess.
+
+25
+00:01:29,720 --> 00:01:33,839
+No password, no entry. No matter how much of a l33t hacker your mom is
+
+26
+00:01:33,840 --> 00:01:36,299
+Your private files stay private.
+
+27
+00:01:36,300 --> 00:01:40,659
+Which might just be the greatest social good mathematics has done mankind.
+
+28
+00:01:40,660 --> 00:01:45,259
+But it's easy to imagine unbreakable digital locks as bad news.
+
+29
+00:01:45,260 --> 00:01:48,899
+Maximum lazy: ticking time bomb, the location and off-code of which
+
+30
+00:01:48,900 --> 00:01:51,299
+Are locked on the phone of a dead man.
+
+31
+00:01:51,300 --> 00:01:55,699
+Now, were the information on a piece of paper in a safe room, no problem:
+
+32
+00:01:55,700 --> 00:01:59,739
+In the physical world, if you can't crack the lock, then you crack the wall.
+
+33
+00:01:59,740 --> 00:02:05,819
+Society agrees, under this scenario, it's reasonable for police to get in, no matter what it takes.
+
+34
+00:02:05,820 --> 00:02:11,739
+Note: this means real-world locks aren't just physically weak, but also legally weak.
+
+35
+00:02:11,740 --> 00:02:16,499
+We could live in a world with privacy laws that forbade police to break into all locks,
+
+36
+00:02:16,500 --> 00:02:19,759
+no matter how flimsy, but we don't, because that would be dumb.
+
+37
+00:02:19,760 --> 00:02:20,759
+Hmmm...
+
+38
+00:02:20,760 --> 00:02:24,219
+This is where gears turn in government heads.
+
+39
+00:02:24,220 --> 00:02:29,939
+If digital locks are physically invulnerable, maybe they can be made legally vulnerable:
+
+40
+00:02:29,940 --> 00:02:35,219
+To require digital locks be built with a keyhole for which police have the key.
+
+41
+00:02:35,220 --> 00:02:39,599
+Highly secure, top secret, for emergencies only, surely.
+
+42
+00:02:39,600 --> 00:02:44,199
+This legal vulnerability to ban citizens from owning perfect digital locks,
+
+43
+00:02:44,200 --> 00:02:47,759
+To require companies manufacture their devices with keyholes, is an idea
+
+44
+00:02:47,760 --> 00:02:50,219
+That many, many governments are interested in.
+
+45
+00:02:50,220 --> 00:02:54,559
+And governments point out that a warrant which lets police into your house and into your papers
+
+46
+00:02:54,560 --> 00:02:56,579
+Should let police into your phone.
+
+47
+00:02:56,580 --> 00:03:01,459
+If your home is your castle, but the need, pressing enough, the police bring a battering ram.
+
+48
+00:03:01,460 --> 00:03:06,179
+But there's no battering ram to crack open a well-locked phone to comply with a warrant.
+
+49
+00:03:06,180 --> 00:03:07,599
+Not helpfully, anyway.
+
+50
+00:03:07,600 --> 00:03:14,119
+Which is a problem: again, we all ideally want police to crack digital locks sometimes.
+
+51
+00:03:14,120 --> 00:03:20,159
+But at our current level on the tech tree, digital locks that cannot be opened are a thing that exists.
+
+52
+00:03:20,160 --> 00:03:24,779
+And because they are made of math, something a skilled coder can build at home,
+
+53
+00:03:24,780 --> 00:03:30,999
+Trying to ban digital locks for everyone is pretty close to trying to ban an idea.
+
+54
+00:03:31,000 --> 00:03:32,539
+Good luck with that.
+
+55
+00:03:32,540 --> 00:03:38,499
+But even were it possible to successfully ban perfect digital locks in a country, remember:
+
+56
+00:03:38,500 --> 00:03:41,259
+On the Internet, there is no such thing as distance.
+
+57
+00:03:41,260 --> 00:03:45,859
+Even if your government is a Xanadu bureaucracy of the Seraphim Incorruptible,
+
+58
+00:03:45,860 --> 00:03:47,479
+There are demons elsewhere.
+
+59
+00:03:47,480 --> 00:03:52,259
+Unbreakable digital locks are the foundation upon which computing and Internet-ing is built.
+
+60
+00:03:52,260 --> 00:03:54,999
+Banking, buying, blogging, vlogging, gaming, tweeting, beating, meeting —
+
+61
+00:03:55,000 --> 00:03:58,339
+All of this is possible because of unbreakable digital locks.
+
+62
+00:03:58,340 --> 00:04:02,299
+They've existed since computers filled rooms, but now, with computers in our pockets,
+
+63
+00:04:02,300 --> 00:04:08,299
+We rely on those locks to protect the content of our lives — the content of our minds.
+
+64
+00:04:08,300 --> 00:04:13,919
+Forced weakness, even with the best of intentions, places everyone in danger.
+
+65
+00:04:13,920 --> 00:04:16,659
+The nature of a keyhole is to be cracked,
+
+66
+00:04:16,660 --> 00:04:20,299
+And the nature of the Internet is to bring demons to the door.
+
+67
+00:04:20,300 --> 00:04:25,359
+No matter how much we might wish it, there is no way to build a digital lock
+
+68
+00:04:25,360 --> 00:04:28,719
+That only angels can open and demons cannot.
+
+69
+00:04:28,720 --> 00:04:32,239
+Anyone saying otherwise is either ignorant of the mathematics,
+
+70
+00:04:32,240 --> 00:04:38,339
+Or less of an angel than they appear.
+
+71
+00:04:38,340 --> 00:04:41,199
+This video has been brought to you in part by Audible.com,
+
+72
+00:04:41,200 --> 00:04:45,319
+where there's more than 180,000 audio books and spoken audio products.
+
+73
+00:04:45,320 --> 00:04:49,439
+Get a free trial today at Audible.com/grey.
+
+74
+00:04:49,440 --> 00:04:52,499
+This time, I'm going to recommend Daemon by Daniel Suarez.
+
+75
+00:04:52,500 --> 00:04:55,779
+I never like to say anything about fictional books, I don't like spoilers,
+
+76
+00:04:55,780 --> 00:05:00,299
+but if you've made it to the end of a video about encryption, this one's for you.
+
+77
+00:05:00,300 --> 00:05:07,059
+Why don't you give it a try as part of your free 30-day trial at Audible.com/grey?
+
+78
+00:05:07,060 --> 00:05:11,400
+And show Audible that you support this channel.
+

@@ -1,0 +1,608 @@
+1
+00:00:00,410 --> 00:00:04,449
+Feliz Ano Novo, Vsauce!  Miguel aqui.
+E em homenagem a 2013
+
+2
+00:00:04,450 --> 00:00:07,949
+vamos discutir 13 coisas.
+
+3
+00:00:07,950 --> 00:00:12,239
+Para começar, onde gastar todo esse dinheiro que
+você pegou nas férias?
+
+4
+00:00:12,240 --> 00:00:16,048
+Agora, muitos sites vendem coisas legais.
+A United Nuclear vende
+
+5
+00:00:16,049 --> 00:00:20,379
+Aerogel, isótopos radioativos, esquemas de motores a jato
+
+6
+00:00:20,380 --> 00:00:25,858
+e até bolinhas de gude dopadas com urânio.
+A Maths Gear vende esses dados não transitivos legais
+
+7
+00:00:25,859 --> 00:00:26,858
+que comprei
+
+8
+00:00:26,859 --> 00:00:31,749
+ontem, assim como a Grand Illusions.
+Mas eles também carregam truques de mágica explosivos
+
+9
+00:00:31,750 --> 00:00:32,319
+,
+
+10
+00:00:32,320 --> 00:00:35,738
+máscaras de ilusão de ótica e um pôster
+
+11
+00:00:35,739 --> 00:00:39,148
+desta imagem.
+O que torna essa
+
+12
+00:00:39,149 --> 00:00:42,628
+imagem tão especial?
+Bem, é um exemplo
+
+13
+00:00:42,629 --> 00:00:45,949
+do efeito terra.
+Mesmo que pareça conter
+
+14
+00:00:45,950 --> 00:00:49,589
+um monte de cores diferentes -
+laranjas, amarelos e verdes,
+
+15
+00:00:49,590 --> 00:00:52,979
+a imagem inteira é na verdade feita de nada
+
+16
+00:00:52,980 --> 00:00:57,628
+além de vermelho.  Seriamente.  Eu vinculei a
+imagem nas descrições, para que você possa pegá-
+
+17
+00:00:57,629 --> 00:00:59,078
+la e investigá-la usando
+
+18
+00:00:59,079 --> 00:01:02,569
+seu editor de imagens favorito.
+Os amarelos são na verdade
+
+19
+00:01:02,570 --> 00:01:06,789
+vermelhos claros ou rosa.
+E o verde é apenas vermelho cinza fosco
+
+20
+00:01:06,790 --> 00:01:09,978
+.
+O que está acontecendo é chamado de
+
+21
+00:01:09,979 --> 00:01:14,309
+constância de cor.
+Seu sistema visual, seus olhos e seu cérebro
+
+22
+00:01:14,310 --> 00:01:17,679
+calculam as condições médias de iluminação
+de uma cena
+
+23
+00:01:17,680 --> 00:01:22,478
+e então subtraem essas condições,
+para que as cores permaneçam relativamente constantes.
+
+24
+00:01:22,479 --> 00:01:25,989
+É por isso que um objeto azul parece azul,
+seja
+
+25
+00:01:25,990 --> 00:01:29,809
+sob o sol do meio-dia ou um pôr do sol vermelho escuro
+ou luz fluorescente ou
+
+26
+00:01:29,810 --> 00:01:30,809
+luz incandescente.
+
+27
+00:01:30,810 --> 00:01:33,999
+É um sistema muito brilhante, mas pode
+
+28
+00:01:34,000 --> 00:01:38,769
+nos enganar.  Imagens especiais, como esta,
+parecem ser iluminadas com muita
+
+29
+00:01:38,770 --> 00:01:39,289
+luz vermelha,
+
+30
+00:01:39,290 --> 00:01:43,679
+então seu cérebro realmente subtrai o vermelho
+e faz suposições.
+
+31
+00:01:43,680 --> 00:01:47,469
+Existem muitos outros exemplos do
+efeito da terra e outras maneiras pelas quais nosso
+
+32
+00:01:47,470 --> 00:01:49,039
+sistema visual mente para nós.
+
+33
+00:01:49,040 --> 00:01:53,259
+Mas sabe o que mais é mentira?
+
+34
+00:01:53,260 --> 00:01:55,669
+Pingos de chuva.
+Bem, pelo menos
+
+35
+00:01:55,670 --> 00:01:59,449
+essa representação de gotas de chuva.
+As gotas de chuva não têm a forma de
+
+36
+00:01:59,450 --> 00:02:03,859
+lágrimas.
+A tensão superficial significa que pequenas gotas são esféricas,
+
+37
+00:02:03,860 --> 00:02:07,539
+mas quando elas combinam o ar e ficam
+maiores, a pressão do ar abaixo
+
+38
+00:02:07,540 --> 00:02:09,779
+delas faz com que o fundo fique
+
+39
+00:02:09,780 --> 00:02:13,259
+achatado, o que significa que as gotas de chuva têm o
+formato menos de
+
+40
+00:02:13,260 --> 00:02:17,899
+lágrima e mais de pão de hambúrguer.
+
+41
+00:02:17,900 --> 00:02:20,519
+Mas quantas gotas de chuva já caíram
+
+42
+00:02:20,520 --> 00:02:24,439
+em terra?
+É uma pergunta divertida
+
+43
+00:02:24,440 --> 00:02:27,829
+e há muitos recursos
+discutindo quantos pingos de chuva caem
+
+44
+00:02:27,830 --> 00:02:29,409
+durante uma tempestade típica,
+
+45
+00:02:29,410 --> 00:02:34,238
+mas ao longo de toda a história?
+Vamos para mathforum.org para este.
+
+46
+00:02:34,239 --> 00:02:35,939
+O doutor Ian calculou, de maneira
+
+47
+00:02:35,940 --> 00:02:39,939
+bastante grosseira, mas divertida, que dada
+a porcentagem de terra
+
+48
+00:02:39,940 --> 00:02:43,389
+geralmente coberta por terra e a quantidade de chuva que
+
+49
+00:02:43,390 --> 00:02:47,279
+normalmente cai na terra e o volume de uma gota de chuva,
+
+50
+00:02:47,280 --> 00:02:50,738
+o número total de gotas de chuva que caíram na terra,
+
+51
+00:02:50,739 --> 00:02:54,249
+desde que a terra  começou, é cerca de 16 vezes
+
+52
+00:02:54,250 --> 00:02:57,359
+10 elevado a 28.
+Então, a
+
+53
+00:02:57,360 --> 00:03:00,559
+terra teve muitas gotas de chuva.
+
+54
+00:03:00,560 --> 00:03:05,238
+Mas você sabe o que a terra não tem
+muito?  Belos e velhos pedaços de rocha lunar.
+
+55
+00:03:05,239 --> 00:03:08,359
+O material da Lua é incrivelmente raro.
+
+56
+00:03:08,360 --> 00:03:11,568
+Só podemos obter pedaços da Lua de duas maneiras.
+
+
+57
+00:03:11,569 --> 00:03:14,609
+Visitando-o ou encontrando pedaços da
+Lua que foram arrancados
+
+58
+00:03:14,610 --> 00:03:18,159
+há muito tempo e eventualmente caíram na Terra.
+
+59
+00:03:18,160 --> 00:03:21,799
+Curiosamente, você pode comprar pinturas
+
+60
+00:03:21,800 --> 00:03:25,059
+contendo vestígios de poeira lunar feitas
+
+61
+00:03:25,060 --> 00:03:28,949
+por um astronauta.
+Eu discuti isso com meus amigos no emostyle,
+
+62
+00:03:28,950 --> 00:03:33,369
+link do vídeo na descrição.
+Mas a questão é que você não terá
+
+63
+00:03:33,370 --> 00:03:37,399
+uma grande e velha pedra lunar tão cedo.
+Curiosamente,
+
+64
+00:03:37,400 --> 00:03:41,408
+um número surpreendente de rochas que
+trouxemos da
+
+65
+00:03:41,409 --> 00:03:45,098
+Lua foram roubados ou simplesmente
+
+66
+00:03:45,099 --> 00:03:48,509
+perdidos.
+Por exemplo, em 2002, os
+
+67
+00:03:48,510 --> 00:03:52,369
+estagiários Thad Roberts e Tiffany Fowler roubaram
+
+68
+00:03:52,370 --> 00:03:55,889
+101 gramas de material lunar
+
+69
+00:03:55,890 --> 00:04:00,029
+do Centro Espacial Johnson.
+Eles comemoraram jogando as pedras em uma
+
+70
+00:04:00,030 --> 00:04:00,559
+cama,
+
+71
+00:04:00,560 --> 00:04:05,128
+e acho que a melhor maneira de explicar o que
+aconteceu em seguida seria apenas apontar
+
+72
+00:04:05,129 --> 00:04:07,029
+que o livro baseado nessa história verdadeira
+
+73
+00:04:07,030 --> 00:04:12,109
+se chama "Sexo na Lua".
+Ou, de um ângulo diferente,
+
+74
+00:04:12,110 --> 00:04:15,869
+divertido.
+Isso foi construído usando o fabricante Side View.
+
+75
+00:04:15,870 --> 00:04:19,689
+Digite uma palavra ou nome e ele
+construirá a palavra usando
+
+76
+00:04:19,690 --> 00:04:23,969
+pontos, que de outro ângulo dizem
+outra coisa.  Por exemplo, Vsauce
+
+77
+00:04:23,970 --> 00:04:27,779
+pode ser vácuo.
+Se você prefere pontos que representam pessoas,
+
+78
+00:04:27,780 --> 00:04:33,629
+Brandon Martin-Anderson tem exatamente o que
+você precisa.  Todo o Censo dos EUA de 2010
+
+79
+00:04:33,630 --> 00:04:37,039
+em um mapa com um ponto para cada
+
+80
+00:04:37,040 --> 00:04:41,409
+pessoa.
+Os dados são específicos até o tamanho de um
+
+81
+00:04:41,410 --> 00:04:44,799
+bloco individual.
+É muito divertido brincar com ele, assim como
+
+82
+00:04:44,800 --> 00:04:49,599
+o Calvin and Hobbes pesquisável.
+Eu compartilhei isso no @tweetsauce algumas semanas atrás.
+
+83
+00:04:49,600 --> 00:04:53,728
+Digite uma palavra e você encontrará todas
+as histórias em quadrinhos de Calvin e Hobbes
+
+84
+00:04:53,729 --> 00:04:59,309
+que usaram essa palavra.  Palavras ou frases
+que ajudam a lembrar de algo são
+
+85
+00:04:59,310 --> 00:04:59,899
+chamadas de
+
+86
+00:04:59,900 --> 00:05:03,049
+mnemônicos.
+Por exemplo, se você quiser lembrar a
+
+87
+00:05:03,050 --> 00:05:07,429
+velocidade exata da luz em metros por segundo no
+vácuo, basta contar o número de letras
+
+88
+00:05:07,430 --> 00:05:10,508
+e cada palavra desta frase.
+"
+
+89
+00:05:10,509 --> 00:05:15,709
+Garantimos certeza, referindo-nos claramente a
+esse mnemônico leve."
+
+90
+00:05:15,710 --> 00:05:19,138
+Ou se você é como eu, sua maior
+dificuldade é soletrar a palavra
+
+91
+00:05:19,139 --> 00:05:22,559
+diarreia.
+Bem, não se preocupe.  Lembre-se de que a
+
+92
+00:05:22,560 --> 00:05:25,749
+diarreia é um monte
+
+93
+00:05:25,750 --> 00:05:30,369
+de quantidades infinitas.
+Todos nós já vimos ilusões como essa antes.
+
+94
+00:05:30,370 --> 00:05:34,258
+Quatro círculos com cantos recortados.
+Percebemos
+
+95
+00:05:34,259 --> 00:05:38,829
+um quadrado real repousando sobre
+círculos, mesmo que nenhum quadrado
+
+96
+00:05:38,830 --> 00:05:42,129
+esteja lá.
+Agora, curiosamente, se você pegar essa forma
+
+97
+00:05:42,130 --> 00:05:46,029
+e colocá-la em cima do texto, as letras dentro do
+
+98
+00:05:46,030 --> 00:05:50,228
+quadrado falso parecerão maiores que o resto das letras.
+
+99
+00:05:50,229 --> 00:05:54,149
+Isso ocorre porque nosso cérebro assume que as letras estão mais próximas de nós do
+
+100
+00:05:54,150 --> 00:05:58,739
+que o resto do texto.  Afinal,
+as letras estão em cima de um quadrado
+
+101
+00:05:58,740 --> 00:06:02,399
+que está em cima de círculos em cima do texto.
+
+102
+00:06:02,400 --> 00:06:05,689
+Falando em tamanho, vamos dar uma olhada na escala
+
+103
+00:06:05,690 --> 00:06:08,929
+do nosso sistema solar.
+OMGspace.net
+
+104
+00:06:08,930 --> 00:06:12,818
+é um site que contém imagens do
+Sol e dos planetas
+
+105
+00:06:12,819 --> 00:06:15,869
+em escala.
+Não apenas em tamanho, mas também em
+
+106
+00:06:15,870 --> 00:06:20,179
+distância.  Se você rolar o suficiente
+, eventualmente chegará a Mercúrio
+
+107
+00:06:20,180 --> 00:06:24,309
+e depois a Vênus e depois à Terra e assim por diante.
+Ou, basta clicar no nome de um planeta
+
+108
+00:06:24,310 --> 00:06:27,939
+e fazer com que o site o leve até lá imediatamente.
+Se esse tipo de coisa faz você se
+
+109
+00:06:27,940 --> 00:06:28,709
+sentir
+
+110
+00:06:28,710 --> 00:06:33,089
+pequeno e insignificante, corra e pegue
+
+111
+00:06:33,090 --> 00:06:36,489
+um elogio de emergência ponto com.
+
+112
+00:06:36,490 --> 00:06:40,219
+O site continuará elogiando você
+até que você se sinta melhor,
+
+113
+00:06:40,220 --> 00:06:43,728
+mas se praticar a paciência é mais sua coisa, confira
+
+114
+00:06:43,729 --> 00:06:48,959
+chickenonaraft.com.
+Geo sketch é uma maneira muito divertida de desenhar.
+
+115
+00:06:48,960 --> 00:06:52,489
+Você tem esse estranho mecanismo de dobra que
+
+116
+00:06:52,490 --> 00:06:56,709
+desenha.
+Você pode controlar individualmente a taxa de rotação de cada
+
+117
+00:06:56,710 --> 00:07:00,989
+articulação para ver como ela afeta a imagem.
+Mas se você preferir combinar a rotação
+
+118
+00:07:00,990 --> 00:07:02,409
+com o nosso sistema solar,
+
+119
+00:07:02,410 --> 00:07:05,499
+confira a gravidade.
+Clique e arraste para colocar
+
+120
+00:07:05,500 --> 00:07:09,038
+objetos de tamanhos variados no espaço e observe como
+
+121
+00:07:09,039 --> 00:07:12,089
+eles interagem.
+Então lá vai
+
+122
+00:07:12,090 --> 00:07:15,209
+que foram cerca de 13 coisas.
+
+123
+00:07:15,210 --> 00:07:18,228
+Eu acho.  Eu realmente não sei.
+Mas há mais.
+
+124
+00:07:18,229 --> 00:07:22,249
+Eu criei uma playlist de vídeos que você deveria ver totalmente.
+
+125
+00:07:22,250 --> 00:07:26,059
+Eu hospedo a playlist e você pode iniciá-la
+clicando no link na parte superior da
+
+126
+00:07:26,060 --> 00:07:27,138
+descrição deste vídeo
+
+127
+00:07:27,139 --> 00:07:30,799
+ou nesta anotação.
+Eu chamo isso de inclinação para trás,
+
+128
+00:07:30,800 --> 00:07:34,659
+porque você inicia a lista de reprodução e
+apenas se inclina e deixa o YouTube
+
+129
+00:07:34,660 --> 00:07:37,918
+fazer o trabalho.
+Então, o que você está esperando?  Vá em frente e clique
+
+130
+00:07:37,919 --> 00:07:39,899
+e eu vou te ver lá.
+
+131
+00:07:39,900 --> 00:07:41,209
+E como sempre,
+
+132
+00:07:41,210 --> 00:07:42,270
+obrigado por assistir.
+

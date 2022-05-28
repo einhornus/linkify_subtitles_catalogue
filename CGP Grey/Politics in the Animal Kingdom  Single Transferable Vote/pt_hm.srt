@@ -1,0 +1,425 @@
+1
+00:00:00,459 --> 00:00:04,058
+A Rainha Leoa quer tornar as eleições no seu reino animal mais justas. Atualmente
+
+2
+00:00:04,059 --> 00:00:07,929
+ela divide os seus cidadãos em zonas eleitornais, e cada um desses grupos escolhe um representante que vai
+
+3
+00:00:07,930 --> 00:00:10,808
+para o conselho da selva para legislar para o reino.
+
+4
+00:00:10,809 --> 00:00:15,709
+Mas seus cidadãos estão infelizes, e é fácil ver o motivo; o conselho está cheio de macacos.
+
+5
+00:00:15,710 --> 00:00:19,758
+Claro que alguns de seus cidadãos são macacos, mas não todos. Este conselho não representa
+
+6
+00:00:19,759 --> 00:00:21,629
+bem seus súditos.
+
+7
+00:00:21,630 --> 00:00:25,478
+A Rainha Leoa visita uma das zonas eleitorais para descobrir o que está errado e como resolver o problema.
+
+8
+00:00:25,479 --> 00:00:30,658
+Nesta zona eleitoral temos, cinco macacos, quatro tigres, três corujas, dois linces e um búfalo. Um
+
+9
+00:00:30,659 --> 00:00:34,869
+de cada se candidata a representante e todos os cidadãos votam na sua própria espécie.
+
+10
+00:00:34,870 --> 00:00:38,909
+A regra nas eleições é que o candidato com mais votos vence, e nesse caso é o macaco.
+
+11
+00:00:38,910 --> 00:00:43,959
+Mas é um resultado bem insatisfatório, considerando que 2/3 dos cidadãos nessa zona eleitoral *não* são
+
+12
+00:00:43,960 --> 00:00:45,748
+macacos e não votariam nos macacos.
+
+13
+00:00:45,749 --> 00:00:50,439
+Isso se repete em todas as zonas eleitorais do reino: os macacos sempre acabam recebendo mais votos que
+
+14
+00:00:50,440 --> 00:00:55,408
+todo mundo, e vencem todas as eleições, apesar de serem uma minoria da população.
+
+15
+00:00:55,409 --> 00:00:59,378
+Um olhar mais de perto mostra que os assessores independentes que foram contratados para delimitar as
+
+16
+00:00:59,379 --> 00:01:03,678
+zonas eleitorais não eram tão independentes como pareciam inicialmente.
+
+17
+00:01:03,679 --> 00:01:07,629
+O resultado são cidadãos infelizes que não confiam no conselho da selva para fazer leis justas
+
+18
+00:01:07,630 --> 00:01:09,319
+para todos, e acertadamente.
+
+19
+00:01:09,320 --> 00:01:13,519
+A rainha Leoa quer maximizar o número de cidadãos felizes com o resultado das eleições.
+
+20
+00:01:13,520 --> 00:01:17,459
+Uma maneira de fazer isso é abolir as zonas eleitorais e usar um sistema proporcional... Mas seus
+
+21
+00:01:17,460 --> 00:01:19,839
+súditos *querem* representantes locais.
+
+22
+00:01:19,840 --> 00:01:24,109
+Então, a Rainha Leoa precisa de um sistema que tanto deixe seus cidadãos satisfeitos por terem maior representatividade
+
+23
+00:01:24,110 --> 00:01:27,429
+no conselho quanto mantenha as eleições locais.
+
+24
+00:01:27,430 --> 00:01:31,339
+Depois de pesquisar um pouco, ela descobre um jeito: Voto Único Transferível (VUT/STV).
+
+25
+00:01:31,340 --> 00:01:36,429
+A grande mudança do VUT é que cada zona eleitoral elege mais de um representante, o que pode parecer
+
+26
+00:01:36,430 --> 00:01:40,589
+meio estranho, mas a Rainha Leoa decide testar; ela pega três zona eleitorais que costumavam
+
+27
+00:01:40,590 --> 00:01:45,328
+eleger um representante cada e junta em um grupo maior que vai eleger três.
+
+28
+00:01:45,329 --> 00:01:49,849
+No dia da eleição os cidadãos vão as urnas e os resultados neste novo grupo são iguais a como eram
+
+29
+00:01:49,850 --> 00:01:53,339
+no sistema antigo.
+
+30
+00:01:53,340 --> 00:01:56,478
+Mas no VUT, para apurar os vencedores, pega-se o número total de votos
+
+31
+00:01:56,479 --> 00:02:02,389
+e divide-se esse número pelo número de representantes necessários, neste caso 3, o que faz com que 33% seja a
+
+32
+00:02:02,390 --> 00:02:04,538
+porcentagem de votos que cada candidato precisa para vencer.
+
+33
+00:02:04,539 --> 00:02:08,788
+Então todos os três candidatos vão para o conselho - que representa com precisão todos os cidadãos
+
+34
+00:02:08,789 --> 00:02:09,829
+nessa zona eleitoral.
+
+35
+00:02:09,830 --> 00:02:14,909
+Enquanto, no sistema antigo, cada grupo teria enviado um macaco, deixando 2/3 da população
+
+36
+00:02:14,910 --> 00:02:19,329
+sem representação. Uma zona eleitoral maior com mais representantes permite que a zona eleitoral seja
+
+37
+00:02:19,330 --> 00:02:20,579
+mais representativa.
+
+38
+00:02:20,580 --> 00:02:24,829
+Esse teste acabou bem, mas também foi
+bem simples; agora a Rainha Leoa quer
+
+39
+00:02:24,830 --> 00:02:27,889
+ver como é numa eleição onde nem todos vencem.
+
+40
+00:02:27,890 --> 00:02:32,839
+A próxima grande zona eleitoral em que ela faz o teste tem cinco candidatos concorrendo: Gorila, Társio, Macaco,
+
+41
+00:02:32,840 --> 00:02:36,279
+Tigre, e Lince, três dos quais podem ser representantes.
+
+42
+00:02:36,280 --> 00:02:40,579
+O dia da eleição vem e vai, e eis os resultados das primeiras escolhas dos cidadãos:
+
+43
+00:02:40,580 --> 00:02:43,499
+Társio recebe 5%;
+Gorila recebe 28%;
+
+44
+00:02:43,500 --> 00:02:46,309
+Macaco recebe 33%;
+Tigre recebe 21%;
+
+45
+00:02:46,310 --> 00:02:47,729
+Lince recebe 13%.
+
+46
+00:02:47,730 --> 00:02:53,059
+Como antes, um candidato precisa de 33% para vencer. O Macaco tem a porcentagem necessária, e é eleito imediatamente
+
+47
+00:02:53,060 --> 00:02:55,069
+como um dos três representantes.
+
+48
+00:02:55,070 --> 00:02:59,829
+Mas mais ninguém chegou a receber os 33% necessários; como os outros dois representantes são escolhidos?
+
+49
+00:02:59,830 --> 00:03:04,229
+Primeiro:  o candidato menos votado é eliminado. Desculpa, Társio; você não tinha chance mesmo.
+
+50
+00:03:04,230 --> 00:03:07,969
+Quando os cidadãos votaram, eles podiam ter só colocado um X ao lado do candidato que eles mais preferiam
+
+51
+00:03:07,970 --> 00:03:13,359
+mas com VUT eles também puderam classificar os seus candidatos favoritos. Isso é importante porque
+
+52
+00:03:13,360 --> 00:03:18,029
+mostra como a eleição teria sido
+se um dos candidatos não tivesse concorrido.
+
+53
+00:03:18,030 --> 00:03:22,719
+Os társios, pequenos e preocupados, teriam votado para o grande e calmo Gorila se o Társio não tivesse
+
+54
+00:03:22,720 --> 00:03:28,049
+concorrido; Então, se o candidato deles não pode ganhar, eles querem que seus votos vão para o Gorila.
+
+55
+00:03:28,050 --> 00:03:32,369
+Isso traz o Gorila até 33% e ele se torna
+o próximo representante.
+
+56
+00:03:32,370 --> 00:03:36,219
+A classifação deixa os cidadãos apoiarem o candidato preferido deles sem preocupações; não há nenhum motivo
+
+57
+00:03:36,220 --> 00:03:40,359
+em votar estrategicamente e levando em conta como os outros vão votar. O sistema tenta maximizar
+
+58
+00:03:40,360 --> 00:03:42,289
+a satisfação dos eleitores com o  resultado.
+
+59
+00:03:42,290 --> 00:03:46,589
+Voltando à zona eleitoral: ainda falta eleger um representante: o segundo candidato menos votado é o Lince.
+
+60
+00:03:46,590 --> 00:03:50,169
+Os eleitores dele não gostam de símios, mas eles acham que os interesses do Tigre são parecidos com os deles
+
+61
+00:03:50,170 --> 00:03:54,869
+e por isso, se o Lince não pode vencer, eles querem que o Tigre ganhe seus votos. O Tigre os recebe, atinge 33% e
+
+62
+00:03:54,870 --> 00:03:57,259
+se torna o terceiro e último representante.
+
+63
+00:03:57,260 --> 00:04:02,009
+O resultado das eleições é otimo, especialmente levando em conta as primeiras *e* segundas escolhas dos eleitores.
+
+64
+00:04:02,010 --> 00:04:06,569
+Agora, mais cidadãos têm um representante local com o qual eles estão mais satisfeitos, enquanto
+
+65
+00:04:06,570 --> 00:04:09,479
+no sistema antigo, todo mundo teria um macaco.
+
+66
+00:04:09,480 --> 00:04:13,509
+Por último, a Rainha Leoa quer saber o que acontece em uma escala com apenas dois partidos políticos.
+
+67
+00:04:13,510 --> 00:04:17,078
+Num sistema de maioria-simples, se vários candidatos de um mesmo partido concorressem seria um
+
+68
+00:04:17,079 --> 00:04:20,898
+desastre; eles dividiriam os eleitores e dariam a vitória prá oposição.
+
+69
+00:04:20,899 --> 00:04:26,239
+A Rainha Leoa faz uma última zona eleitoral de teste que tem 2/3 de tigres e 1/3 de gorilas, e que, como antes,
+
+70
+00:04:26,240 --> 00:04:28,008
+precisa de três representantes.
+
+71
+00:04:28,009 --> 00:04:33,468
+Como com o VUT os cidadãos classificam seus candidatos, mais de um candidato por partido pode concorrer
+
+72
+00:04:33,469 --> 00:04:36,359
+sem problema nenhum.
+
+73
+00:04:36,360 --> 00:04:40,138
+Os tigres tem dois candidatos, e os gorilas também.
+
+74
+00:04:40,139 --> 00:04:55,429
+O Tigre Branco ganha um monte de votos, enquanto os gorilas estão dividos entre o candidato veterano e um novato.
+
+75
+00:04:55,430 --> 00:04:59,228
+Mas o que acontece depois? Enquanto o Tigre parece ser o menos votado, também é óbvio que ele teria ganho muito mais votos se o Tigre
+
+76
+00:04:59,229 --> 00:05:04,218
+Branco não estivesse concorrendo. Se um candidato tem mais votos do que ele precisa, como o Tigre Branco,
+
+77
+00:05:04,219 --> 00:05:09,309
+o primeiro passo é dar os votos que sobraram prá segunda escolha de seus eleitores. Isso deixa o Tigre
+
+78
+00:05:09,310 --> 00:05:12,688
+com 33% e ele se torna o próximo representante.
+
+79
+00:05:12,689 --> 00:05:14,859
+Se isso parece estranho, há duas coisas
+a considerar:
+
+80
+00:05:14,860 --> 00:05:18,609
+1) Se, ao invés disso, os votos extras forem ignorados, e o Tigre seja eliminado, os Gorilas iriam
+
+81
+00:05:18,610 --> 00:05:23,089
+ficar com as duas vitórias restantes, o que, obviamente, não representaria bem a zona eleitoral.
+
+82
+00:05:23,090 --> 00:05:27,739
+2) Ignorar estes votos que sobraram é punir os cidadãos que apoiaram o candidato popular,
+
+83
+00:05:27,740 --> 00:05:32,859
+o que faz com que os eleitores comecem a pensar sobre como os outros vão votar, em vez de votar em quem
+
+84
+00:05:32,860 --> 00:05:38,059
+eles mesmos querem. Se um dos candidatos conseguir votos extras, também significa que
+
+85
+00:05:38,060 --> 00:05:42,668
+aqueles que votaram nele são uma grande parcela da população e, portanto, devem ter
+
+86
+00:05:42,669 --> 00:05:44,498
+mais representação.
+
+87
+00:05:44,499 --> 00:05:48,908
+Depois de os votos extras irem para o Tigre, a eleição termina como antes; O Gorila Branco
+
+88
+00:05:48,909 --> 00:05:52,968
+ficou em último, é eliminado, e a segunda escolha de seus eleitores é o candidato mais jovem; assim,
+
+89
+00:05:52,969 --> 00:05:55,778
+o Gorila entra. E os resultados são justos.
+
+90
+00:05:55,779 --> 00:06:00,498
+Rainha Leoa viu o VUT funcionando. Não importa se um grupo tem um partido ou um monte. O processo
+
+91
+00:06:00,499 --> 00:06:02,198
+ainda é o mesmo:
+
+92
+00:06:02,199 --> 00:06:06,628
+1. Os cidadãos classificam seus candidatos favoritos.
+2. Qualquer candidato acima do limiar vence
+
+93
+00:06:06,629 --> 00:06:09,498
+imediatamente,
+3. Votos em excesso vão para a sua próxima escolha dos eleitores.
+
+94
+00:06:09,499 --> 00:06:13,679
+4. Se não houver vencedor, o candidato menos votado é eliminado, e os votos vão para a próxima escolha de seus eleitores.
+
+95
+00:06:13,680 --> 00:06:16,598
+5. Isso se repete até que sejam eleitos todos os representantes necessários.
+
+96
+00:06:16,599 --> 00:06:20,658
+Todo esse processo é pensado para maximizar o número de cidadãos satisfeitos
+
+97
+00:06:20,659 --> 00:06:21,168
+com o resultado.
+
+98
+00:06:21,169 --> 00:06:25,869
+Isso mostra que o VUT tem muitas vantagens sobre o sistema antigo, onde o candidato com mais votos vence:
+
+99
+00:06:25,870 --> 00:06:29,628
+1. Os cidadãos podem votar  no seu candidato favorito sem se preocupar com o que todo mundo
+
+100
+00:06:29,629 --> 00:06:32,658
+vai fazer. 2. É mais proporcional, então mexer nas zonas eleitorais
+
+101
+00:06:32,659 --> 00:06:37,378
+dá menos problemas. 3. Quase todos os cidadãos terão um representante local
+
+102
+00:06:37,379 --> 00:06:39,188
+em quem eles votaram.
+
+103
+00:06:39,189 --> 00:06:42,968
+No final, a Rainha Leoa decide mudar as
+eleições do conselho para o Voto Único Transferível
+
+104
+00:06:42,969 --> 00:06:45,649
+para fazer um melhor conselho da selva para todos.
+

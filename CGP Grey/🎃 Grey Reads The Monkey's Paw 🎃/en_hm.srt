@@ -1,0 +1,1471 @@
+1
+00:00:01,390 --> 00:00:02,509
+# The Monkey's Paw
+
+2
+00:00:02,510 --> 00:00:03,888
+by W. W. Jacobs
+
+3
+00:00:03,889 --> 00:00:10,419
+Without, the night was cold and wet, but in
+the small parlour of Laburnam Villa the blinds
+
+4
+00:00:10,420 --> 00:00:16,019
+were drawn and the fire burned brightly. Father
+and son were at chess, the former, who possessed
+
+5
+00:00:16,020 --> 00:00:21,489
+ideas about the game involving radical changes,
+putting his king into such sharp and unnecessary
+
+6
+00:00:21,490 --> 00:00:26,428
+perils that it even provoked comment from
+the white-haired old lady knitting placidly
+
+7
+00:00:26,429 --> 00:00:27,428
+by the fire.
+
+8
+00:00:27,429 --> 00:00:32,109
+"Hark at the wind," said Mr. White, who, having
+seen a fatal mistake after it was too late,
+
+9
+00:00:32,110 --> 00:00:35,559
+was amiably desirous of preventing his son
+from seeing it.
+
+10
+00:00:35,560 --> 00:00:40,759
+"I'm listening," said the latter, grimly surveying
+the board as he stretched out his hand. "Check."
+
+11
+00:00:40,760 --> 00:00:44,869
+"I should hardly think that he'd come to-night,"
+said his father, with his hand poised over
+
+12
+00:00:44,870 --> 00:00:45,869
+the board.
+
+13
+00:00:45,870 --> 00:00:47,259
+"Mate," replied the son.
+
+14
+00:00:47,260 --> 00:00:52,479
+"That's the worst of living so far out," bawled
+Mr. White, with sudden and unlooked-for violence;
+
+15
+00:00:52,480 --> 00:00:57,538
+"of all the beastly, slushy, out-of-the-way
+places to live in, this is the worst. Pathway's
+
+16
+00:00:57,539 --> 00:01:02,279
+a bog, and the road's a torrent. I don't know
+what people are thinking about. I suppose
+
+17
+00:01:02,280 --> 00:01:05,978
+because only two houses in the road are let,
+they think it doesn't matter."
+
+18
+00:01:05,979 --> 00:01:10,408
+"Never mind, dear," said his wife, soothingly;
+"perhaps you'll win the next one."
+
+19
+00:01:10,409 --> 00:01:14,118
+Mr. White looked up sharply, just in time
+to intercept a knowing glance between mother
+
+20
+00:01:14,119 --> 00:01:19,209
+and son. The words died away on his lips,
+and he hid a guilty grin in his thin grey
+
+21
+00:01:19,210 --> 00:01:20,209
+beard.
+
+22
+00:01:20,210 --> 00:01:24,369
+"There he is," said Herbert White, as the
+gate banged to loudly and heavy footsteps
+
+23
+00:01:24,370 --> 00:01:26,048
+came toward the door.
+
+24
+00:01:26,049 --> 00:01:30,319
+The old man rose with hospitable haste, and
+opening the door, was heard condoling with
+
+25
+00:01:30,320 --> 00:01:35,968
+the new arrival. The new arrival also condoled
+with himself, so that Mrs. White said, "Tut,
+
+26
+00:01:35,969 --> 00:01:41,368
+tut!" and coughed gently as her husband entered
+the room, followed by a tall, burly man, beady
+
+27
+00:01:41,369 --> 00:01:43,379
+of eye and rubicund of visage.
+
+28
+00:01:43,380 --> 00:01:46,529
+"Sergeant-Major Morris," he said, introducing
+him.
+
+29
+00:01:46,530 --> 00:01:51,078
+The sergeant-major shook hands, and taking
+the proffered seat by the fire, watched contentedly
+
+30
+00:01:51,079 --> 00:01:55,879
+while his host got out whiskey and tumblers
+and stood a small copper kettle on the fire.
+
+31
+00:01:55,880 --> 00:02:00,539
+At the third glass his eyes got brighter,
+and he began to talk, the little family circle
+
+32
+00:02:00,540 --> 00:02:05,209
+regarding with eager interest this visitor
+from distant parts, as he squared his broad
+
+33
+00:02:05,210 --> 00:02:10,579
+shoulders in the chair and spoke of wild scenes
+and doughty deeds; of wars and plagues and
+
+34
+00:02:10,580 --> 00:02:12,339
+strange peoples.
+
+35
+00:02:12,340 --> 00:02:16,229
+"Twenty-one years of it," said Mr. White,
+nodding at his wife and son. "When he went
+
+36
+00:02:16,230 --> 00:02:19,659
+away he was a slip of a youth in the warehouse.
+Now look at him."
+
+37
+00:02:19,660 --> 00:02:22,719
+"He don't look to have taken much harm," said
+Mrs. White, politely.
+
+38
+00:02:22,720 --> 00:02:27,419
+"I'd like to go to India myself," said the
+old man, "just to look round a bit, you know."
+
+39
+00:02:27,420 --> 00:02:31,908
+"Better where you are," said the sergeant-major,
+shaking his head. He put down the empty glass,
+
+40
+00:02:31,909 --> 00:02:33,848
+and sighing softly, shook it again.
+
+41
+00:02:33,849 --> 00:02:38,579
+"I should like to see those old temples and
+fakirs and jugglers," said the old man. "What
+
+42
+00:02:38,580 --> 00:02:42,458
+was that you started telling me the other
+day about a monkey's paw or something, Morris?"
+
+43
+00:02:42,459 --> 00:02:45,689
+"Nothing," said the soldier, hastily. "Leastways
+nothing worth hearing."
+
+44
+00:02:45,690 --> 00:02:48,149
+"Monkey's paw?" said Mrs. White, curiously.
+
+45
+00:02:48,150 --> 00:02:52,249
+"Well, it's just a bit of what you might call
+magic, perhaps," said the sergeant-major,
+
+46
+00:02:52,250 --> 00:02:53,249
+offhandedly.
+
+47
+00:02:53,250 --> 00:02:58,238
+His three listeners leaned forward eagerly.
+The visitor absent-mindedly put his empty
+
+48
+00:02:58,239 --> 00:03:02,339
+glass to his lips and then set it down again.
+His host filled it for him.
+
+49
+00:03:02,340 --> 00:03:07,369
+"To look at," said the sergeant-major, fumbling
+in his pocket, "it's just an ordinary little
+
+50
+00:03:07,370 --> 00:03:09,289
+paw, dried to a mummy."
+
+51
+00:03:09,290 --> 00:03:13,949
+He took something out of his pocket and proffered
+it. Mrs. White drew back with a grimace, but
+
+52
+00:03:13,950 --> 00:03:16,329
+her son, taking it, examined it curiously.
+
+53
+00:03:16,330 --> 00:03:20,669
+"And what is there special about it?" inquired
+Mr. White as he took it from his son, and
+
+54
+00:03:20,670 --> 00:03:22,929
+having examined it, placed it upon the table.
+
+55
+00:03:22,930 --> 00:03:27,628
+"It had a spell put on it by an old fakir,"
+said the sergeant-major, "a very holy man.
+
+56
+00:03:27,629 --> 00:03:31,059
+He wanted to show that fate ruled people's
+lives, and that those who interfered with
+
+57
+00:03:31,060 --> 00:03:35,329
+it did so to their sorrow. He put a spell
+on it so that three separate men could each
+
+58
+00:03:35,330 --> 00:03:37,119
+have three wishes from it."
+
+59
+00:03:37,120 --> 00:03:41,298
+His manner was so impressive that his hearers
+were conscious that their light laughter jarred
+
+60
+00:03:41,299 --> 00:03:42,298
+somewhat.
+
+61
+00:03:42,299 --> 00:03:45,009
+"Well, why don't you have three, sir?" said
+Herbert White, cleverly.
+
+62
+00:03:45,010 --> 00:03:49,779
+The soldier regarded him in the way that middle
+age is wont to regard presumptuous youth.
+
+63
+00:03:49,780 --> 00:03:53,419
+"I have," he said, quietly, and his blotchy
+face whitened.
+
+64
+00:03:53,420 --> 00:03:56,578
+"And did you really have the three wishes
+granted?" asked Mrs. White.
+
+65
+00:03:56,579 --> 00:04:00,899
+"I did," said the sergeant-major, and his
+glass tapped against his strong teeth.
+
+66
+00:04:00,900 --> 00:04:03,839
+"And has anybody else wished?" persisted the
+old lady.
+
+67
+00:04:03,840 --> 00:04:08,158
+"The first man had his three wishes. Yes,"
+was the reply; "I don't know what the first
+
+68
+00:04:08,159 --> 00:04:11,848
+two were, but the third was for death. That's
+how I got the paw."
+
+69
+00:04:11,849 --> 00:04:14,589
+His tones were so grave that a hush fell upon
+the group.
+
+70
+00:04:14,590 --> 00:04:18,088
+"If you've had your three wishes, it's no
+good to you now, then, Morris," said the old
+
+71
+00:04:18,089 --> 00:04:20,789
+man at last. "What do you keep it for?"
+
+72
+00:04:20,790 --> 00:04:26,049
+The soldier shook his head. "Fancy, I suppose,"
+he said, slowly. "I did have some idea of
+
+73
+00:04:26,050 --> 00:04:30,850
+selling it, but I don't think I will. It has
+caused enough mischief already. Besides, people
+
+74
+00:04:30,851 --> 00:04:35,079
+won't buy. They think it's a fairy tale; some
+of them, and those who do think anything of
+
+75
+00:04:35,080 --> 00:04:37,989
+it want to try it first and pay me afterward."
+
+76
+00:04:37,990 --> 00:04:41,939
+"If you could have another three wishes,"
+said the old man, eyeing him keenly, "would
+
+77
+00:04:41,940 --> 00:04:42,939
+you have them?"
+
+78
+00:04:42,940 --> 00:04:45,589
+"I don't know," said the other. "I don't know."
+
+79
+00:04:45,590 --> 00:04:50,109
+He took the paw, and dangling it between his
+forefinger and thumb, suddenly threw it upon
+
+80
+00:04:50,110 --> 00:04:54,189
+the fire. White, with a slight cry, stooped
+down and snatched it off.
+
+81
+00:04:54,190 --> 00:04:56,739
+"Better let it burn," said the soldier, solemnly.
+
+82
+00:04:56,740 --> 00:04:59,709
+"If you don't want it, Morris," said the other,
+"give it to me."
+
+83
+00:04:59,710 --> 00:05:04,029
+"I won't," said his friend, doggedly. "I threw
+it on the fire. If you keep it, don't blame
+
+84
+00:05:04,030 --> 00:05:07,759
+me for what happens. Pitch it on the fire
+again like a sensible man."
+
+85
+00:05:07,760 --> 00:05:11,859
+The other shook his head and examined his
+new possession closely. "How do you do it?"
+
+86
+00:05:11,860 --> 00:05:12,859
+he inquired.
+
+87
+00:05:12,860 --> 00:05:16,739
+"Hold it up in your right hand and wish aloud,"
+said the sergeant-major, "but I warn you of
+
+88
+00:05:16,740 --> 00:05:17,739
+the consequences."
+
+89
+00:05:17,740 --> 00:05:22,449
+"Sounds like the Arabian Nights," said Mrs.
+White, as she rose and began to set the supper.
+
+90
+00:05:22,450 --> 00:05:25,439
+"Don't you think you might wish for four pairs
+of hands for me?"
+
+91
+00:05:25,440 --> 00:05:29,319
+Her husband drew the talisman from pocket,
+and then all three burst into laughter as
+
+92
+00:05:29,320 --> 00:05:33,309
+the sergeant-major, with a look of alarm on
+his face, caught him by the arm.
+
+93
+00:05:33,310 --> 00:05:37,739
+"If you must wish," he said, gruffly, "wish
+for something sensible."
+
+94
+00:05:37,740 --> 00:05:41,729
+Mr. White dropped it back in his pocket, and
+placing chairs, motioned his friend to the
+
+95
+00:05:41,730 --> 00:05:46,139
+table. In the business of supper the talisman
+was partly forgotten, and afterward the three
+
+96
+00:05:46,140 --> 00:05:50,489
+sat listening in an enthralled fashion to
+a second instalment of the soldier's adventures
+
+97
+00:05:50,490 --> 00:05:51,489
+in India.
+
+98
+00:05:51,490 --> 00:05:55,219
+"If the tale about the monkey's paw is not
+more truthful than those he has been telling
+
+99
+00:05:55,220 --> 00:05:59,169
+us," said Herbert, as the door closed behind
+their guest, just in time for him to catch
+
+100
+00:05:59,170 --> 00:06:01,609
+the last train, "we sha'nt make much out of
+it."
+
+101
+00:06:01,610 --> 00:06:05,719
+"Did you give him anything for it, father?"
+inquired Mrs. White, regarding her husband
+
+102
+00:06:05,720 --> 00:06:06,719
+closely.
+
+103
+00:06:06,720 --> 00:06:10,969
+"A trifle," said he, colouring slightly. "He
+didn't want it, but I made him take it. And
+
+104
+00:06:10,970 --> 00:06:13,339
+he pressed me again to throw it away."
+
+105
+00:06:13,340 --> 00:06:17,789
+"Likely," said Herbert, with pretended horror.
+"Why, we're going to be rich, and famous and
+
+106
+00:06:17,790 --> 00:06:21,859
+happy. Wish to be an emperor, father, to begin
+with; then you can't be henpecked."
+
+107
+00:06:21,860 --> 00:06:26,419
+He darted round the table, pursued by the
+maligned Mrs. White armed with an antimacassar.
+
+108
+00:06:26,420 --> 00:06:30,419
+Mr. White took the paw from his pocket and
+eyed it dubiously. "I don't know what to wish
+
+109
+00:06:30,420 --> 00:06:35,429
+for, and that's a fact," he said, slowly.
+"It seems to me I've got all I want."
+
+110
+00:06:35,430 --> 00:06:38,819
+"If you only cleared the house, you'd be quite
+happy, wouldn't you?" said Herbert, with his
+
+111
+00:06:38,820 --> 00:06:42,599
+hand on his shoulder. "Well, wish for two
+hundred pounds, then; that 'll just do it."
+
+112
+00:06:42,600 --> 00:06:48,089
+His father, smiling shamefacedly at his own
+credulity, held up the talisman, as his son,
+
+113
+00:06:48,090 --> 00:06:52,679
+with a solemn face, somewhat marred by a wink
+at his mother, sat down at the piano and struck
+
+114
+00:06:52,680 --> 00:06:54,109
+a few impressive chords.
+
+115
+00:06:54,110 --> 00:06:57,579
+"I wish for two hundred pounds," said the
+old man distinctly.
+
+116
+00:06:57,580 --> 00:07:01,929
+A fine crash from the piano greeted the words,
+interrupted by a shuddering cry from the old
+
+117
+00:07:01,930 --> 00:07:04,269
+man. His wife and son ran toward him.
+
+118
+00:07:04,270 --> 00:07:07,959
+"It moved," he cried, with a glance of disgust
+at the object as it lay on the floor.
+
+119
+00:07:07,960 --> 00:07:10,649
+"As I wished, it twisted in my hand like a
+snake."
+
+120
+00:07:10,650 --> 00:07:14,779
+"Well, I don't see the money," said his son
+as he picked it up and placed it on the table,
+
+121
+00:07:14,780 --> 00:07:15,969
+"and I bet I never shall."
+
+122
+00:07:15,970 --> 00:07:20,419
+"It must have been your fancy, father," said
+his wife, regarding him anxiously.
+
+123
+00:07:20,420 --> 00:07:25,209
+He shook his head. "Never mind, though; there's
+no harm done, but it gave me a shock all the
+
+124
+00:07:25,210 --> 00:07:26,209
+same."
+
+125
+00:07:26,210 --> 00:07:29,879
+They sat down by the fire again while the
+two men finished their pipes. Outside, the
+
+126
+00:07:29,880 --> 00:07:34,009
+wind was higher than ever, and the old man
+started nervously at the sound of a door banging
+
+127
+00:07:34,010 --> 00:07:39,499
+upstairs. A silence unusual and depressing
+settled upon all three, which lasted until
+
+128
+00:07:39,500 --> 00:07:42,029
+the old couple rose to retire for the night.
+
+129
+00:07:42,030 --> 00:07:45,799
+"I expect you'll find the cash tied up in
+a big bag in the middle of your bed," said
+
+130
+00:07:45,800 --> 00:07:49,599
+Herbert, as he bade them good-night, "and
+something horrible squatting up on top of
+
+131
+00:07:49,600 --> 00:07:53,289
+the wardrobe watching you as you pocket your
+ill-gotten gains."
+
+132
+00:07:53,290 --> 00:07:58,029
+He sat alone in the darkness, gazing at the
+dying fire, and seeing faces in it. The last
+
+133
+00:07:58,030 --> 00:08:03,209
+face was so horrible and so simian that he
+gazed at it in amazement. It got so vivid
+
+134
+00:08:03,210 --> 00:08:07,559
+that, with a little uneasy laugh, he felt
+on the table for a glass containing a little
+
+135
+00:08:07,560 --> 00:08:12,599
+water to throw over it. His hand grasped the
+monkey's paw, and with a little shiver he
+
+136
+00:08:12,600 --> 00:08:17,399
+wiped his hand on his coat and went up to
+bed.
+
+137
+00:08:17,400 --> 00:08:18,399
+II.
+
+138
+00:08:18,400 --> 00:08:21,669
+In the brightness of the wintry sun next morning
+as it streamed over the breakfast table he
+
+139
+00:08:21,670 --> 00:08:26,219
+laughed at his fears. There was an air of
+prosaic wholesomeness about the room which
+
+140
+00:08:26,220 --> 00:08:30,299
+it had lacked on the previous night, and the
+dirty, shrivelled little paw was pitched on
+
+141
+00:08:30,300 --> 00:08:34,369
+the sideboard with a carelessness which betokened
+no great belief in its virtues.
+
+142
+00:08:34,370 --> 00:08:39,319
+"I suppose all old soldiers are the same,"
+said Mrs. White. "The idea of our listening
+
+143
+00:08:39,320 --> 00:08:44,019
+to such nonsense! How could wishes be granted
+in these days? And if they could, how could
+
+144
+00:08:44,020 --> 00:08:45,959
+two hundred pounds hurt you, father?"
+
+145
+00:08:45,960 --> 00:08:48,869
+"Might drop on his head from the sky," said
+the frivolous Herbert.
+
+146
+00:08:48,870 --> 00:08:53,420
+"Morris said the things happened so naturally,"
+said his father, "that you might if you so
+
+147
+00:08:53,421 --> 00:08:55,189
+wished attribute it to coincidence."
+
+148
+00:08:55,190 --> 00:08:59,289
+"Well, don't break into the money before I
+come back," said Herbert as he rose from the
+
+149
+00:08:59,290 --> 00:09:03,489
+table. "I'm afraid it'll turn you into a mean,
+avaricious man, and we shall have to disown
+
+150
+00:09:03,490 --> 00:09:04,489
+you."
+
+151
+00:09:04,490 --> 00:09:08,419
+His mother laughed, and following him to the
+door, watched him down the road; and returning
+
+152
+00:09:08,420 --> 00:09:12,710
+to the breakfast table, was very happy at
+the expense of her husband's credulity. All
+
+153
+00:09:12,711 --> 00:09:16,850
+of which did not prevent her from scurrying
+to the door at the postman's knock, nor prevent
+
+154
+00:09:16,851 --> 00:09:21,209
+her from referring somewhat shortly to retired
+sergeant-majors of bibulous habits when she
+
+155
+00:09:21,210 --> 00:09:23,879
+found that the post brought a tailor's bill.
+
+156
+00:09:23,880 --> 00:09:27,809
+"Herbert will have some more of his funny
+remarks, I expect, when he comes home," she
+
+157
+00:09:27,810 --> 00:09:29,379
+said, as they sat at dinner.
+
+158
+00:09:29,380 --> 00:09:34,310
+"I dare say," said Mr. White, pouring himself
+out some beer; "but for all that, the thing
+
+159
+00:09:34,311 --> 00:09:36,679
+moved in my hand; that I'll swear to."
+
+160
+00:09:36,680 --> 00:09:39,739
+"You thought it did," said the old lady soothingly.
+
+161
+00:09:39,740 --> 00:09:44,969
+"I say it did," replied the other. "There
+was no thought about it; I had just—- What's
+
+162
+00:09:44,970 --> 00:09:46,269
+the matter?"
+
+163
+00:09:46,270 --> 00:09:51,059
+His wife made no reply. She was watching the
+mysterious movements of a man outside, who,
+
+164
+00:09:51,060 --> 00:09:55,429
+peering in an undecided fashion at the house,
+appeared to be trying to make up his mind
+
+165
+00:09:55,430 --> 00:09:59,559
+to enter. In mental connection with the two
+hundred pounds, she noticed that the stranger
+
+166
+00:09:59,560 --> 00:10:05,299
+was well dressed, and wore a silk hat of glossy
+newness. Three times he paused at the gate,
+
+167
+00:10:05,300 --> 00:10:10,189
+and then walked on again. The fourth time
+he stood with his hand upon it, and then with
+
+168
+00:10:10,190 --> 00:10:15,079
+sudden resolution flung it open and walked
+up the path. Mrs. White at the same moment
+
+169
+00:10:15,080 --> 00:10:19,529
+placed her hands behind her, and hurriedly
+unfastening the strings of her apron, put
+
+170
+00:10:19,530 --> 00:10:22,839
+that useful article of apparel beneath the
+cushion of her chair.
+
+171
+00:10:22,840 --> 00:10:27,459
+She brought the stranger, who seemed ill at
+ease, into the room. He gazed at her furtively,
+
+172
+00:10:27,460 --> 00:10:31,659
+and listened in a preoccupied fashion as the
+old lady apologized for the appearance of
+
+173
+00:10:31,660 --> 00:10:36,289
+the room, and her husband's coat, a garment
+which he usually reserved for the garden.
+
+174
+00:10:36,290 --> 00:10:40,609
+She then waited as patiently as her sex would
+permit, for him to broach his business, but
+
+175
+00:10:40,610 --> 00:10:43,129
+he was at first strangely silent.
+
+176
+00:10:43,130 --> 00:10:47,829
+"I—was asked to call," he said at last,
+and stooped and picked a piece of cotton from
+
+177
+00:10:47,830 --> 00:10:51,429
+his trousers. "I come from 'Maw and Meggins.'"
+
+178
+00:10:51,430 --> 00:10:55,699
+The old lady started. "Is anything the matter?"
+she asked, breathlessly. "Has anything happened
+
+179
+00:10:55,700 --> 00:10:57,439
+to Herbert? What is it? What is it?"
+
+180
+00:10:57,440 --> 00:11:01,709
+Her husband interposed. "There, there, mother,"
+he said, hastily. "Sit down, and don't jump
+
+181
+00:11:01,710 --> 00:11:06,459
+to conclusions. You've not brought bad news,
+I'm sure, sir;" and he eyed the other wistfully.
+
+182
+00:11:06,460 --> 00:11:08,459
+"I'm sorry—" began the visitor.
+
+183
+00:11:08,460 --> 00:11:11,209
+"Is he hurt?" demanded the mother, wildly.
+
+184
+00:11:11,210 --> 00:11:17,639
+The visitor bowed in assent. "Badly hurt,"
+he said, quietly, "but he is not in any pain."
+
+185
+00:11:17,640 --> 00:11:22,669
+"Oh, thank God!" said the old woman, clasping
+her hands. "Thank God for that! Thank—"
+
+186
+00:11:22,670 --> 00:11:26,669
+She broke off suddenly as the sinister meaning
+of the assurance dawned upon her and she saw
+
+187
+00:11:26,670 --> 00:11:31,859
+the awful confirmation of her fears in the
+other's averted face. She caught her breath,
+
+188
+00:11:31,860 --> 00:11:37,150
+and turning to her slower-witted husband,
+laid her trembling old hand upon his. There
+
+189
+00:11:37,151 --> 00:11:38,579
+was a long silence.
+
+190
+00:11:38,580 --> 00:11:43,429
+"He was caught in the machinery," said the
+visitor at length in a low voice.
+
+191
+00:11:43,430 --> 00:11:48,699
+"Caught in the machinery," repeated Mr. White,
+in a dazed fashion, "yes."
+
+192
+00:11:48,700 --> 00:11:53,789
+He sat staring blankly out at the window,
+and taking his wife's hand between his own,
+
+193
+00:11:53,790 --> 00:11:58,939
+pressed it as he had been wont to do in their
+old courting-days nearly forty years before.
+
+194
+00:11:58,940 --> 00:12:06,109
+"He was the only one left to us," he said,
+turning gently to the visitor. "It is hard."
+
+195
+00:12:06,110 --> 00:12:11,149
+The other coughed, and rising, walked slowly
+to the window. "The firm wished me to convey
+
+196
+00:12:11,150 --> 00:12:16,239
+their sincere sympathy with you in your great
+loss," he said, without looking round. "I
+
+197
+00:12:16,240 --> 00:12:21,009
+beg that you will understand I am only their
+servant and merely obeying orders."
+
+198
+00:12:21,010 --> 00:12:26,689
+There was no reply; the old woman's face was
+white, her eyes staring, and her breath inaudible;
+
+199
+00:12:26,690 --> 00:12:30,659
+on the husband's face was a look such as his
+friend the sergeant might have carried into
+
+200
+00:12:30,660 --> 00:12:31,789
+his first action.
+
+201
+00:12:31,790 --> 00:12:37,069
+"I was to say that 'Maw and Meggins' disclaim
+all responsibility," continued the other.
+
+202
+00:12:37,070 --> 00:12:42,819
+"They admit no liability at all, but in consideration
+of your son's services, they wish to present
+
+203
+00:12:42,820 --> 00:12:45,399
+you with a certain sum as compensation."
+
+204
+00:12:45,400 --> 00:12:50,539
+Mr. White dropped his wife's hand, and rising
+to his feet, gazed with a look of horror at
+
+205
+00:12:50,540 --> 00:12:54,599
+his visitor. His dry lips shaped the words,
+"How much?"
+
+206
+00:12:54,600 --> 00:12:57,889
+"Two hundred pounds," was the answer.
+
+207
+00:12:57,890 --> 00:13:02,289
+Unconscious of his wife's shriek, the old
+man smiled faintly, put out his hands like
+
+208
+00:13:02,290 --> 00:13:06,829
+a sightless man, and dropped, a senseless
+heap, to the floor.
+
+209
+00:13:06,830 --> 00:13:08,179
+III.
+
+210
+00:13:08,180 --> 00:13:13,549
+In the huge new cemetery, some two miles distant,
+the old people buried their dead, and came
+
+211
+00:13:13,550 --> 00:13:18,589
+back to a house steeped in shadow and silence.
+It was all over so quickly that at first they
+
+212
+00:13:18,590 --> 00:13:23,129
+could hardly realize it, and remained in a
+state of expectation as though of something
+
+213
+00:13:23,130 --> 00:13:28,149
+else to happen —something else which was
+to lighten this load, too heavy for old hearts
+
+214
+00:13:28,150 --> 00:13:29,249
+to bear.
+
+215
+00:13:29,250 --> 00:13:34,779
+But the days passed, and expectation gave
+place to resignation—the hopeless resignation
+
+216
+00:13:34,780 --> 00:13:40,359
+of the old, sometimes miscalled, apathy. Sometimes
+they hardly exchanged a word, for now they
+
+217
+00:13:40,360 --> 00:13:44,659
+had nothing to talk about, and their days
+were long to weariness.
+
+218
+00:13:44,660 --> 00:13:49,189
+It was about a week after that the old man,
+waking suddenly in the night, stretched out
+
+219
+00:13:49,190 --> 00:13:54,039
+his hand and found himself alone. The room
+was in darkness, and the sound of subdued
+
+220
+00:13:54,040 --> 00:13:58,009
+weeping came from the window. He raised himself
+in bed and listened.
+
+221
+00:13:58,010 --> 00:14:01,369
+"Come back," he said, tenderly. "You will
+be cold."
+
+222
+00:14:01,370 --> 00:14:05,559
+"It is colder for my son," said the old woman,
+and wept afresh.
+
+223
+00:14:05,560 --> 00:14:10,459
+The sound of her sobs died away on his ears.
+The bed was warm, and his eyes heavy with
+
+224
+00:14:10,460 --> 00:14:15,739
+sleep. He dozed fitfully, and then slept until
+a sudden wild cry from his wife awoke him
+
+225
+00:14:15,740 --> 00:14:16,789
+with a start.
+
+226
+00:14:16,790 --> 00:14:19,449
+"The paw!" she cried wildly. "The monkey's
+paw!"
+
+227
+00:14:19,450 --> 00:14:23,469
+He started up in alarm. "Where? Where is it?
+What's the matter?"
+
+228
+00:14:23,470 --> 00:14:27,349
+She came stumbling across the room toward
+him. "I want it," she said, quietly. "You've
+
+229
+00:14:27,350 --> 00:14:28,349
+not destroyed it?"
+
+230
+00:14:28,350 --> 00:14:32,399
+"It's in the parlour, on the bracket," he
+replied, marvelling. "Why?"
+
+231
+00:14:32,400 --> 00:14:35,119
+She cried and laughed together, and bending
+over, kissed his cheek.
+
+232
+00:14:35,120 --> 00:14:39,579
+"I only just thought of it," she said, hysterically.
+"Why didn't I think of it before? Why didn't
+
+233
+00:14:39,580 --> 00:14:40,579
+you think of it?"
+
+234
+00:14:40,580 --> 00:14:42,079
+"Think of what?" he questioned.
+
+235
+00:14:42,080 --> 00:14:45,509
+"The other two wishes," she replied, rapidly.
+"We've only had one."
+
+236
+00:14:45,510 --> 00:14:48,579
+"Was not that enough?" he demanded, fiercely.
+
+237
+00:14:48,580 --> 00:14:52,649
+"No," she cried, triumphantly; "we'll have
+one more. Go down and get it quickly, and
+
+238
+00:14:52,650 --> 00:14:54,299
+wish our boy alive again."
+
+239
+00:14:54,300 --> 00:14:58,779
+The man sat up in bed and flung the bedclothes
+from his quaking limbs. "Good God, you are
+
+240
+00:14:58,780 --> 00:15:00,039
+mad!" he cried, aghast.
+
+241
+00:15:00,040 --> 00:15:03,929
+"Get it," she panted; "get it quickly, and
+wish—Oh, my boy, my boy!"
+
+242
+00:15:03,930 --> 00:15:08,149
+Her husband struck a match and lit the candle.
+"Get back to bed," he said, unsteadily. "You
+
+243
+00:15:08,150 --> 00:15:09,159
+don't know what you are saying."
+
+244
+00:15:09,160 --> 00:15:13,299
+"We had the first wish granted," said the
+old woman, feverishly; "why not the second?"
+
+245
+00:15:13,300 --> 00:15:15,539
+"A coincidence," stammered the old man.
+
+246
+00:15:15,540 --> 00:15:19,259
+"Go and get it and wish," cried his wife,
+quivering with excitement.
+
+247
+00:15:19,260 --> 00:15:24,759
+The old man turned and regarded her, and his
+voice shook. "He has been dead ten days, and
+
+248
+00:15:24,760 --> 00:15:31,289
+besides he—I would not tell you else, but—I
+could only recognize him by his clothing.
+
+249
+00:15:31,290 --> 00:15:35,049
+If he was too terrible for you to see then,
+how now?"
+
+250
+00:15:35,050 --> 00:15:39,049
+"Bring him back," cried the old woman, and
+dragged him toward the door. "Do you think
+
+251
+00:15:39,050 --> 00:15:41,389
+I fear the child I have nursed?"
+
+252
+00:15:41,390 --> 00:15:45,879
+He went down in the darkness, and felt his
+way to the parlour, and then to the mantelpiece.
+
+253
+00:15:45,880 --> 00:15:50,489
+The talisman was in its place, and a horrible
+fear that the unspoken wish might bring his
+
+254
+00:15:50,490 --> 00:15:55,509
+mutilated son before him ere he could escape
+from the room seized upon him, and he caught
+
+255
+00:15:55,510 --> 00:16:00,209
+his breath as he found that he had lost the
+direction of the door. His brow cold with
+
+256
+00:16:00,210 --> 00:16:04,659
+sweat, he felt his way round the table, and
+groped along the wall until he found himself
+
+257
+00:16:04,660 --> 00:16:08,399
+in the small passage with the unwholesome
+thing in his hand.
+
+258
+00:16:08,400 --> 00:16:13,169
+Even his wife's face seemed changed as he
+entered the room. It was white and expectant,
+
+259
+00:16:13,170 --> 00:16:18,349
+and to his fears seemed to have an unnatural
+look upon it. He was afraid of her.
+
+260
+00:16:18,350 --> 00:16:20,648
+"Wish!" she cried, in a strong voice.
+
+261
+00:16:20,649 --> 00:16:23,659
+"It is foolish and wicked," he faltered.
+
+262
+00:16:23,660 --> 00:16:25,809
+"Wish!" repeated his wife.
+
+263
+00:16:25,810 --> 00:16:29,329
+He raised his hand. "I wish my son alive again."
+
+264
+00:16:29,330 --> 00:16:34,109
+The talisman fell to the floor, and he regarded
+it fearfully. Then he sank trembling into
+
+265
+00:16:34,110 --> 00:16:39,669
+a chair as the old woman, with burning eyes,
+walked to the window and raised the blind.
+
+266
+00:16:39,670 --> 00:16:44,009
+He sat until he was chilled with the cold,
+glancing occasionally at the figure of the
+
+267
+00:16:44,010 --> 00:16:48,439
+old woman peering through the window. The
+candle-end, which had burned below the rim
+
+268
+00:16:48,440 --> 00:16:53,940
+of the china candlestick, was throwing pulsating
+shadows on the ceiling and walls, until, with
+
+269
+00:16:53,941 --> 00:16:59,209
+a flicker larger than the rest, it expired.
+The old man, with an unspeakable sense of
+
+270
+00:16:59,210 --> 00:17:04,118
+relief at the failure of the talisman, crept
+back to his bed, and a minute or two afterward
+
+271
+00:17:04,119 --> 00:17:07,509
+the old woman came silently and apathetically
+beside him.
+
+272
+00:17:07,510 --> 00:17:13,308
+Neither spoke, but lay silently listening
+to the ticking of the clock. A stair creaked,
+
+273
+00:17:13,309 --> 00:17:18,618
+and a squeaky mouse scurried noisily through
+the wall. The darkness was oppressive, and
+
+274
+00:17:18,619 --> 00:17:23,729
+after lying for some time screwing up his
+courage, he took the box of matches, and striking
+
+275
+00:17:23,730 --> 00:17:25,789
+one, went downstairs for a candle.
+
+276
+00:17:25,790 --> 00:17:30,259
+At the foot of the stairs the match went out,
+and he paused to strike another; and at the
+
+277
+00:17:30,260 --> 00:17:36,669
+same moment a knock, so quiet and stealthy
+as to be scarcely audible, sounded on the
+
+278
+00:17:36,670 --> 00:17:38,029
+front door.
+
+279
+00:17:38,030 --> 00:17:42,119
+The matches fell from his hand and spilled
+in the passage. He stood motionless, his breath
+
+280
+00:17:42,120 --> 00:17:46,719
+suspended until the knock was repeated. Then
+he turned and fled swiftly back to his room,
+
+281
+00:17:46,720 --> 00:17:50,689
+and closed the door behind him. A third knock
+sounded through the house.
+
+282
+00:17:50,690 --> 00:17:53,249
+"What's that?" cried the old woman, starting
+up.
+
+283
+00:17:53,250 --> 00:17:57,599
+"A rat," said the old man in shaking tones—"a
+rat. It passed me on the stairs."
+
+284
+00:17:57,600 --> 00:18:01,739
+His wife sat up in bed listening. A loud knock
+resounded through the house.
+
+285
+00:18:01,740 --> 00:18:03,919
+"It's Herbert!" she screamed. "It's Herbert!"
+
+286
+00:18:03,920 --> 00:18:07,889
+She ran to the door, but her husband was before
+her, and catching her by the arm, held her
+
+287
+00:18:07,890 --> 00:18:08,889
+tightly.
+
+288
+00:18:08,890 --> 00:18:10,619
+"What are you going to do?" he whispered hoarsely.
+
+289
+00:18:10,620 --> 00:18:15,169
+"It's my boy; it's Herbert!" she cried, struggling
+mechanically. "I forgot it was two miles away.
+
+290
+00:18:15,170 --> 00:18:18,259
+What are you holding me for? Let go. I must
+open the door."
+
+291
+00:18:18,260 --> 00:18:21,359
+"For God's sake don't let it in," cried the
+old man, trembling.
+
+292
+00:18:21,360 --> 00:18:26,029
+"You're afraid of your own son," she cried,
+struggling. "Let me go. I'm coming, Herbert;
+
+293
+00:18:26,030 --> 00:18:27,029
+I'm coming."
+
+294
+00:18:27,030 --> 00:18:30,869
+There was another knock, and another. The
+old woman with a sudden wrench broke free
+
+295
+00:18:30,870 --> 00:18:35,219
+and ran from the room. Her husband followed
+to the landing, and called after her appealingly
+
+296
+00:18:35,220 --> 00:18:39,399
+as she hurried downstairs. He heard the chain
+rattle back and the bottom bolt drawn slowly
+
+297
+00:18:39,400 --> 00:18:43,529
+and stiffly from the socket. Then the old
+woman's voice, strained and panting.
+
+298
+00:18:43,530 --> 00:18:46,939
+"The bolt," she cried, loudly. "Come down.
+I can't reach it."
+
+299
+00:18:46,940 --> 00:18:50,779
+But her husband was on his hands and knees
+groping wildly on the floor in search of the
+
+300
+00:18:50,780 --> 00:18:55,558
+paw. If he could only find it before the thing
+outside got in. A perfect fusillade of knocks
+
+301
+00:18:55,559 --> 00:18:58,779
+reverberated through the house, and he heard
+the scraping of a chair as his wife put it
+
+302
+00:18:58,780 --> 00:19:02,899
+down in the passage against the door. He heard
+the creaking of the bolt as it came slowly
+
+303
+00:19:02,900 --> 00:19:06,439
+back, and at the same moment he found the
+monkey's paw, and frantically breathed his
+
+304
+00:19:06,440 --> 00:19:08,439
+third and last wish.
+
+305
+00:19:08,440 --> 00:19:12,709
+The knocking ceased, although the echoes of
+it were still in the house. He heard the chair
+
+306
+00:19:12,710 --> 00:19:18,979
+drawn back, and the door opened. A cold wind
+rushed up the staircase, and a long loud wail
+
+307
+00:19:18,980 --> 00:19:23,909
+of disappointment and misery from his wife
+gave him courage to run down to her side,
+
+308
+00:19:23,910 --> 00:19:28,489
+and then to the gate beyond. The street lamp
+flickering opposite shone on a quiet and deserted
+
+309
+00:19:28,490 --> 00:19:28,491
+road.
+

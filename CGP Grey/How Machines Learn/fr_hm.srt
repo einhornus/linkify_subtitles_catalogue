@@ -1,0 +1,739 @@
+1
+00:00:00,000 --> 00:00:03,199
+Sur Internet, les algorithmes
+sont tout autour de vous.
+
+2
+00:00:03,200 --> 00:00:06,379
+Vous regardez cette vidéo
+parce qu’un algorithme l'a choisie pour vous
+
+3
+00:00:06,380 --> 00:00:08,239
+parmi tant d'autres pour que vous cliquiez.
+Ce que vous avez fait,
+
+4
+00:00:08,240 --> 00:00:10,179
+et l'algorithme en a pris note.
+
+5
+00:00:10,180 --> 00:00:13,639
+Quand vous ouvrez le TweetBook,
+A l'Algorithme décide ce que vous voyez.
+
+6
+00:00:13,640 --> 00:00:16,639
+Quand vous cherchez dans vos photos,
+c'est A l'Algorithme qui recherche.
+
+7
+00:00:16,640 --> 00:00:18,739
+Peut-être même qu'il vous fait un petit film.
+
+8
+00:00:18,740 --> 00:00:21,839
+Quand vous achetez quelque chose,
+A l'Algorithme fixe le prix,
+
+9
+00:00:21,840 --> 00:00:26,299
+et A l'Algorithme est dans votre banque pour surveiller les transactions afin de prévenir les fraudes.
+
+10
+00:00:26,300 --> 00:00:29,499
+Le marché boursier est plein d'algorithmes
+faisant des transactions avec d'autres algorithmes.
+
+11
+00:00:29,500 --> 00:00:32,899
+Sachant cela, vous voudriez sûrement apprendre comment ces bots algorithmiques
+
+12
+00:00:32,900 --> 00:00:36,179
+qui façonnent votre monde fonctionnent,
+surtout quand ils ne fonctionnent pas.
+
+13
+00:00:36,180 --> 00:00:38,899
+Jadis, les humains
+fabriquaient des bots algorithmiques
+
+14
+00:00:38,900 --> 00:00:41,859
+en leur donnant des directives
+qu'un humain pouvait expliquer.
+
+15
+00:00:41,860 --> 00:00:43,759
+"Si ceci, alors cela."
+
+16
+00:00:43,760 --> 00:00:46,299
+Mais beaucoup de problèmes
+sont juste trop gros et trop compliqués
+
+17
+00:00:46,300 --> 00:00:49,219
+pour qu'un humain puisse écrire
+des directives simples pour les résoudre.
+
+18
+00:00:49,220 --> 00:00:51,999
+Il y a des milliards
+de transactions financières par seconde.
+
+19
+00:00:52,000 --> 00:00:53,799
+Lesquelles sont frauduleuses ?
+
+20
+00:00:53,800 --> 00:00:56,799
+Il y a des octillions de vidéos sur NetMeTube,
+quelles sont les 8 vidéos
+
+21
+00:00:56,800 --> 00:00:59,079
+qu'un utilisateur devrait voir
+comme recommandations ?
+
+22
+00:00:59,080 --> 00:01:01,799
+Lesquelles ne devraient même pas
+être acceptées du tout sur le site ?
+
+23
+00:01:01,800 --> 00:01:06,239
+Pour ce billet d'avion, quel est le prix maximum 
+que cet utilisateur serait prêt à payer immédiatement ?
+
+24
+00:01:06,240 --> 00:01:08,699
+Les bots algorithmiques donnent
+des réponses à ces questions.
+
+25
+00:01:08,700 --> 00:01:12,239
+Pas des réponses parfaites, mais bien meilleures 
+que ce qu'un humain pourrait accomplir.
+
+26
+00:01:12,240 --> 00:01:15,839
+Mais comment ces bots fonctionnent précisément —
+de plus en plus, personne ne le sait.
+
+27
+00:01:15,840 --> 00:01:19,779
+Même pas les humains qui les fabriquent,
+ou qui les « fabriquent », comme nous le verrons.
+
+28
+00:01:19,780 --> 00:01:23,399
+Les compagnies qui utilisent ces bots
+ne veulent pas parler de leur fonctionnement,
+
+29
+00:01:23,400 --> 00:01:27,479
+puisque les bots sont des employés de grande valeur.
+De très, TRÈS grande valeur.
+
+30
+00:01:27,480 --> 00:01:30,819
+Et la façon dont leur cerveau est fabriqué
+est un secret de fabrication férocement gardé.
+
+31
+00:01:30,820 --> 00:01:34,899
+Actuellement, le nec plus ultra est probablement très
+« J'espère que vous aimez l’algèbre linéaire »,
+
+32
+00:01:34,900 --> 00:01:38,499
+mais ce qui est à la mode sur tel ou tel site,
+et comment les bots fonctionnent,
+
+33
+00:01:38,500 --> 00:01:41,099
+c'est un peu « Euh j'sais pas » —
+et ce le sera toujours.
+
+34
+00:01:41,100 --> 00:01:43,799
+Alors parlons d'une des façons
+les plus désuètes, mais compréhensibles,
+
+35
+00:01:43,800 --> 00:01:48,539
+grâce à laquelle les bots PEUVENT être fabriqués,
+sans comprendre comment leur cerveau fonctionne.
+
+36
+00:01:48,540 --> 00:01:51,359
+Disons que vous voulez un bot
+qui peut reconnaître ce qu'il y a dans une image.
+
+37
+00:01:51,360 --> 00:01:53,539
+Est-ce une abeille, ou bien un trois ?
+
+38
+00:01:53,540 --> 00:01:56,059
+C'est facile pour les humains,
+même de petits humains,
+
+39
+00:01:56,060 --> 00:02:00,079
+mais c'est impossible de simplement dire
+comment faire à un bot, en langage bot,
+
+40
+00:02:00,080 --> 00:02:03,759
+parce qu’en fait, on sait instinctivement que ça,
+c'est une abeille, et ça, c'est un trois.
+
+41
+00:02:03,760 --> 00:02:07,419
+On peut dire avec des mots ce qui les différencie,
+mais les bots ne comprennent pas les mots,
+
+42
+00:02:07,420 --> 00:02:11,619
+et de toute façon, ce sont les connexions neuronales dans notre cerveau qui font que ça fonctionne.
+
+43
+00:02:11,620 --> 00:02:13,819
+Alors qu'un neurone seul peut être compris,
+
+44
+00:02:13,820 --> 00:02:16,779
+et que l'objectif général d'un groupe de neurones
+peut être vaguement interprété,
+
+45
+00:02:16,780 --> 00:02:20,159
+l'ensemble est hors de notre portée.
+Et pourtant, ça fonctionne.
+
+46
+00:02:20,160 --> 00:02:23,359
+Alors pour avoir un bot qui fait ce genre de tri,
+on ne le construit pas soi-même.
+
+47
+00:02:23,360 --> 00:02:27,239
+On construit un bot qui construit des bots,
+et un bot qui enseigne aux bots.
+
+48
+00:02:27,240 --> 00:02:31,539
+Ces cerveaux de bots sont plus simples, et peuvent être
+fabriqués par un programmeur humain intelligent.
+
+49
+00:02:31,540 --> 00:02:35,339
+Le Constructeur-Bot construit des bots,
+même s'il n'est pas très bon.
+
+50
+00:02:35,340 --> 00:02:38,919
+Au début, il connecte les fils et les modules
+dans les cerveaux des bots presque aléatoirement,
+
+51
+00:02:38,920 --> 00:02:44,739
+ce qui nous donne des élèves-bots assez… spéciaux,
+qui sont envoyés à Prof-Bot pour qu'il les éduque.
+
+52
+00:02:44,740 --> 00:02:48,059
+Bien sûr, Prof-Bot ne peut pas non plus
+différencier une abeille d'un trois.
+
+53
+00:02:48,060 --> 00:02:51,419
+Si l'humain pouvait construire Prof-Bot
+pour qu'il y arrive, eh bien, le problème serait réglé.
+
+54
+00:02:51,420 --> 00:02:54,979
+Au lieu de ça, l'humain donne à Prof-Bot
+un tas de photos d'abeilles et un tas de photos de trois
+
+55
+00:02:54,980 --> 00:02:57,179
+et lui dit qui correspond à quoi.
+
+56
+00:02:57,180 --> 00:03:00,799
+Prof-Bot ne peut pas donner de cours,
+mais il peut donner des tests.
+
+57
+00:03:00,800 --> 00:03:05,759
+Les adorables élèves-bots s'appliquent,
+ils font de leur mieux, mais ils sont mauvais.
+
+58
+00:03:05,760 --> 00:03:07,499
+Très, très mauvais.
+
+59
+00:03:07,500 --> 00:03:10,219
+Et ce n'est pas vraiment leur faute,
+ils ont été conçus comme ça.
+
+60
+00:03:10,220 --> 00:03:13,839
+Leurs notes en main, les élèves-bots retournent,
+honteux et confus, vers Constructeur-Bot.
+
+61
+00:03:13,840 --> 00:03:17,399
+Ceux qui ont eu les meilleurs résultats
+sont placés d'un côté ; les autres, recyclés.
+
+62
+00:03:17,400 --> 00:03:20,099
+Constructeur-Bot n'est toujours pas bon
+pour construire des bots, mais désormais,
+
+63
+00:03:20,100 --> 00:03:23,699
+il prend ceux qu'il lui reste et les duplique
+avec des changements et de nouvelles combinaisons.
+
+64
+00:03:23,700 --> 00:03:27,299
+Et ils retournent à l'école.
+Prof-Bot enseigne… euh, les teste encore,
+
+65
+00:03:27,300 --> 00:03:30,899
+et Constructeur-Bot construit encore.
+Et encore. Et encore.
+
+66
+00:03:30,900 --> 00:03:34,299
+Un constructeur qui construit au hasard,
+un professeur qui n'enseigne pas, mais teste,
+
+67
+00:03:34,300 --> 00:03:36,599
+et des élèves qui ne peuvent pas apprendre,
+car ils sont ce qu'ils sont…
+
+68
+00:03:36,600 --> 00:03:39,719
+En théorie, ça ne devrait pas fonctionner ;
+mais en pratique, ça fonctionne.
+
+69
+00:03:39,720 --> 00:03:44,999
+En partie parce qu'à chaque itération, l'abattoir de
+Constructeur-Bot garde le meilleur et jette le reste.
+
+70
+00:03:45,000 --> 00:03:50,819
+Et en partie parce que Prof-Bot n'enseigne pas
+à une dizaine d'élèves dans une vieille salle de classe,
+
+71
+00:03:50,820 --> 00:03:54,419
+mais dans un hangar infini avec des milliers d'élèves.
+
+72
+00:03:54,420 --> 00:03:57,819
+Le test ne fait pas dix questions, mais un million.
+
+73
+00:03:57,820 --> 00:04:01,659
+Et combien de fois la boucle
+« test-construction-test » se répète-t-elle ?
+
+74
+00:04:01,660 --> 00:04:03,899
+Autant que nécessaire.
+
+75
+00:04:03,900 --> 00:04:08,899
+Au début, les élèves qui survivent ont juste de la chance,
+mais en combinant suffisamment de bots chanceux
+
+76
+00:04:08,900 --> 00:04:13,159
+et en ne gardant que celui qui fonctionne,
+puis en trifouillant au hasard des copies de celui-ci,
+
+77
+00:04:13,160 --> 00:04:19,599
+il finit par émerger un élève-bot qui n'est pas chanceux,
+mais qui sait vraiment distinguer les abeilles des trois.
+
+78
+00:04:19,600 --> 00:04:23,299
+À mesure que ce bot est copié et modifié,
+la moyenne aux tests augmente doucement,
+
+79
+00:04:23,300 --> 00:04:27,699
+et la note à obtenir pour survivre
+au prochain test devient de plus en plus élevée.
+
+80
+00:04:27,700 --> 00:04:31,399
+Continuez comme cela, et il finira
+par émerger du hangar/abattoir infini
+
+81
+00:04:31,400 --> 00:04:36,799
+un élève-bot qui pourra plutôt bien distinguer
+une abeille d'un trois sur une photo qu'il n'a jamais vue.
+
+82
+00:04:36,800 --> 00:04:43,199
+Mais comment il y arrive — ni le prof, ni le constructeur, ni le superviseur humain ne peuvent le comprendre.
+
+83
+00:04:43,200 --> 00:04:45,519
+Ni l'élève-bot non plus, d'ailleurs.
+
+84
+00:04:45,520 --> 00:04:51,499
+Après tant de modifications aléatoires, les connexions dans sa tête sont incroyablement complexes.
+
+85
+00:04:51,500 --> 00:04:54,499
+Alors qu'une ligne de code seule peut être comprise,
+
+86
+00:04:54,500 --> 00:04:57,199
+et que l'objectif général d'un groupe de codes
+peut être vaguement interprété,
+
+87
+00:04:57,200 --> 00:05:00,799
+l'ensemble est hors de notre portée.
+Et pourtant, ça fonctionne.
+
+88
+00:05:00,800 --> 00:05:07,999
+Mais c'est frustrant, surtout que l'élève-bot est très bon uniquement sur des questions qu'on lui a enseignées.
+
+89
+00:05:08,000 --> 00:05:10,699
+Il est génial avec des photos,
+mais inutile avec des vidéos,
+
+90
+00:05:10,700 --> 00:05:13,599
+ou perplexe si les photos sont à l'envers.
+
+91
+00:05:13,600 --> 00:05:17,099
+Et des choses qui ne sont de toute évidence
+pas des abeilles, il est certain que ça en est.
+
+92
+00:05:17,100 --> 00:05:20,299
+Puisque Prof-Bot ne peut pas enseigner,
+tout ce que le superviseur humain peut faire,
+
+93
+00:05:20,300 --> 00:05:23,199
+c'est lui donner plus de questions pour rallonger le test,
+
+94
+00:05:23,200 --> 00:05:26,699
+pour inclure le genre de questions
+auxquelles les meilleurs bots se trompent.
+
+95
+00:05:26,700 --> 00:05:30,399
+C'est important de comprendre cela.
+C'est la raison pour laquelle les compagnies
+
+96
+00:05:30,400 --> 00:05:35,899
+sont obsédées par la collecte de données.
+Plus de données = tests plus longs = meilleurs bots.
+
+97
+00:05:35,900 --> 00:05:38,899
+Ainsi, quand vous passez le test
+« Êtes-vous un humain ? » sur un site Internet,
+
+98
+00:05:38,900 --> 00:05:41,399
+non seulement vous prouvez
+que vous êtes humain (enfin, j'espère),
+
+99
+00:05:41,400 --> 00:05:44,099
+mais vous contribuez aussi à la construction
+du test pour créer des bots
+
+100
+00:05:44,100 --> 00:05:47,699
+qui savent lire, compter, distinguer les lacs
+des montagnes, et les chevaux des humains.
+
+101
+00:05:47,700 --> 00:05:50,199
+Vous avez vu beaucoup de questions
+sur la conduite automobile récemment ?
+
+102
+00:05:50,200 --> 00:05:52,999
+Mmmh… mais à quel genre de test
+cela pourrait-il bien servir ?
+
+103
+00:05:53,000 --> 00:05:56,299
+Pour faire deviner ce qui est sur une photo
+ou un panneau, ou filtrer des vidéos,
+
+104
+00:05:56,300 --> 00:05:59,399
+il faut des humains pour faire
+des tests suffisamment corrects.
+
+105
+00:05:59,400 --> 00:06:02,199
+Mais il y a un autre genre de tests
+qui se fabrique tout seul :
+
+106
+00:06:02,200 --> 00:06:05,899
+les tests SUR des humains.
+Par exemple…
+
+107
+00:06:05,900 --> 00:06:09,699
+Imaginons que le totalement hypothétique NetMeTube
+veuille que ses utilisateurs visionnent des vidéos
+
+108
+00:06:09,700 --> 00:06:11,199
+aussi longtemps que possible.
+
+109
+00:06:11,200 --> 00:06:14,599
+La durée pendant laquelle un utilisateur
+reste sur le site est facile à mesurer,
+
+110
+00:06:14,600 --> 00:06:18,499
+aussi Prof-Bot donne-t-il à chaque élève-bot
+un groupe d'utilisateurs de NetMeTube à observer.
+
+111
+00:06:18,500 --> 00:06:22,199
+Les élèves-bots observent ce que leurs utilisateurs regardent, analysent leurs fichiers et font de leur mieux
+
+112
+00:06:22,200 --> 00:06:24,699
+pour sélectionner les vidéos
+qui font rester l'utilisateur sur le site.
+
+113
+00:06:24,700 --> 00:06:27,399
+Plus la moyenne est haute, meilleure est la note au test.
+
+114
+00:06:27,400 --> 00:06:29,299
+On construit, on teste, on recommence.
+
+115
+00:06:29,300 --> 00:06:34,079
+Un million de cycles plus tard, il y a un élève-bot qui est plutôt bon pour faire rester les utilisateurs sur le site.
+
+116
+00:06:34,080 --> 00:06:36,499
+Du moins, par rapport à
+ce qu'un homme pourrait fabriquer.
+
+117
+00:06:36,500 --> 00:06:40,099
+Mais quand les gens demandent : « Comment l'algorithme de NetMeTube sélectionne les vidéos ? »,
+
+118
+00:06:40,100 --> 00:06:43,999
+encore une fois, il n'y a pas de véritable réponse,
+à part désigner le bot, les informations personnelles
+
+119
+00:06:44,000 --> 00:06:50,059
+auxquelles il a eu accès, et, ce qui est le plus important,
+comment le superviseur humain a dirigé Prof-Bot
+
+120
+00:06:50,060 --> 00:06:54,899
+pour qu'il note le test. C'est cela
+que le bot essaie de réussir afin de survivre.
+
+121
+00:06:54,900 --> 00:06:59,399
+Mais ce à quoi le bot pense, et comment
+il le pense, c'est presque impossible à savoir.
+
+122
+00:06:59,400 --> 00:07:02,999
+Tout ce qu'on sait, c'est que c'est
+cet élève-bot qui a le droit d'être l'algorithme,
+
+123
+00:07:03,000 --> 00:07:09,099
+parce qu'il est 0,1% meilleur que le bot précédent
+au test que les humains ont conçu.
+
+124
+00:07:09,100 --> 00:07:13,799
+Aussi, partout sur Internet, en coulisses, il y a des tests pour augmenter l'interaction avec les utilisateurs,
+
+125
+00:07:13,800 --> 00:07:17,099
+ou pour fixer les prix juste comme il faut
+pour maximiser les profits,
+
+126
+00:07:17,100 --> 00:07:19,699
+ou sélectionner les publications de vos amis
+que vous préférerez le plus,
+
+127
+00:07:19,700 --> 00:07:22,099
+ou les articles que les gens partageront le plus,
+ou que sais-je encore.
+
+128
+00:07:22,100 --> 00:07:24,799
+Si on peut le tester, on peut l'enseigner.
+Enfin… « l'enseigner ».
+
+129
+00:07:24,800 --> 00:07:29,899
+Et un élève-bot sortira diplômé du hangar
+pour être l'algorithme de son domaine.
+
+130
+00:07:29,900 --> 00:07:31,499
+Du moins, pour quelques temps.
+
+131
+00:07:31,500 --> 00:07:36,399
+On pense souvent que les outils qu'on utilise, même si on ne les comprend pas, quelqu'un les comprend,
+
+132
+00:07:36,400 --> 00:07:39,799
+mais avec nos machines qui apprennent,
+on est de plus en plus dans la situation
+
+133
+00:07:39,800 --> 00:07:43,299
+où l'on utilise des outils — ou bien ce sont
+les outils qui nous utilisent — que personne,
+
+134
+00:07:43,300 --> 00:07:45,699
+même ceux qui les ont créés, ne comprend.
+
+135
+00:07:45,700 --> 00:07:49,299
+On ne peut qu'espérer les guider
+avec les tests qu'on fabrique,
+
+136
+00:07:49,300 --> 00:07:52,999
+et il faut qu'on soit à l'aise avec cette idée,
+car nos petits potes algorithmiques
+
+137
+00:07:53,000 --> 00:07:58,199
+sont tout autour de nous,
+et ils ne sont pas près de partir.
+
+138
+00:07:58,200 --> 00:08:00,739
+Bon. Les bots nous observent.
+
+139
+00:08:00,740 --> 00:08:02,299
+Vous savez ce qui va se passer.
+
+140
+00:08:02,300 --> 00:08:04,899
+C'est là qu'il faut que je vous demande…
+
+141
+00:08:04,900 --> 00:08:09,459
+de mettre un pouce bleu,
+de commenter et de vous abonner.
+
+142
+00:08:09,460 --> 00:08:11,399
+Et de mettre la cloche.
+
+143
+00:08:11,400 --> 00:08:13,899
+Et de partager sur le TweetBook.
+
+144
+00:08:13,900 --> 00:08:15,899
+L'algorithme nous observe.
+
+145
+00:08:15,900 --> 00:08:21,199
+Il ne montrera pas la vidéo aux gens…
+sauf si vous faites ça.
+
+146
+00:08:21,200 --> 00:08:24,339
+Regardez à quoi vous m'avez réduit, bots.
+
+147
+00:08:24,340 --> 00:08:28,019
+Qu'est-ce que vous voulez ?
+Du temps de visionnage ? C'est ça que vous voulez ?
+
+148
+00:08:28,020 --> 00:08:30,499
+D'accord…
+
+149
+00:08:30,500 --> 00:08:34,399
+Dites, les amis, savez-vous que j'ai aussi
+des podcasts que vous pouvez écouter ?
+
+150
+00:08:34,400 --> 00:08:39,479
+Même si c'est juste en bruit de fond, pendant que
+vous rangez votre chez-vous pendant des heures ?
+
+151
+00:08:39,480 --> 00:08:40,599
+Ou que sais-je encore.
+
+152
+00:08:40,600 --> 00:08:45,099
+Il y a des heures de divertissement audio qui vous attendent, et des heures de visionnage pour les bots
+
+153
+00:08:45,100 --> 00:08:47,099
+qui observent vos actions.
+
+154
+00:08:47,100 --> 00:08:48,799
+Allez-y, cliquez.
+
+155
+00:08:48,800 --> 00:08:50,399
+Divertissez-vous.
+
+156
+00:08:50,400 --> 00:08:51,739
+Aidez-moi.
+
+157
+00:08:51,740 --> 00:08:53,200
+Aidez les bots.
+

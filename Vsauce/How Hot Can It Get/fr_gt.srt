@@ -1,0 +1,708 @@
+1
+00:00:02,810 --> 00:00:03,969
+Hé, Vsauce.
+
+2
+00:00:03,970 --> 00:00:09,308
+Michel ici.  Et mon thé est assez chaud,
+mais ce n'est pas la chose la plus chaude de l'
+
+3
+00:00:09,309 --> 00:00:10,879
+univers.
+
+4
+00:00:10,880 --> 00:00:14,959
+Donc qu'est-ce?
+Je veux dire, nous savons qu'il y a un zéro absolu,
+
+5
+00:00:14,960 --> 00:00:19,868
+mais y a-t-il un chaud absolu ?
+Un point auquel quelque chose est si chaud
+
+6
+00:00:19,869 --> 00:00:23,899
+qu'il ne peut pas devenir plus chaud.
+Eh bien pour le savoir, commençons
+
+7
+00:00:23,900 --> 00:00:28,188
+par le corps humain.
+Votre température interne
+
+8
+00:00:28,189 --> 00:00:32,089
+n'est pas constante.
+37 degrés, 98,6.
+
+9
+00:00:32,090 --> 00:00:36,959
+Bien sûr.  Mais ce sont des moyennes.
+La température interne de votre corps fluctue
+
+10
+00:00:36,960 --> 00:00:38,779
+d'environ un degré Fahrenheit -
+
+11
+00:00:38,780 --> 00:00:42,979
+un demi-degré Celsius - tout au long de la journée selon un cycle.
+
+12
+00:00:42,980 --> 00:00:46,369
+En supposant que vous dormiez la nuit, à 4h30 du matin,
+
+13
+00:00:46,370 --> 00:00:50,409
+votre corps atteint sa température naturelle la plus
+froide.
+
+14
+00:00:50,410 --> 00:00:54,279
+Et à 19h  il atteint son maximum.
+
+15
+00:00:54,280 --> 00:00:57,628
+Mais une fièvre dangereuse n'est pas bonne.
+
+16
+00:00:57,629 --> 00:01:01,269
+108 degrés Fahrenheit est presque toujours
+
+17
+00:01:01,270 --> 00:01:05,079
+mortel.
+La température de l'air la plus élevée enregistrée sur
+
+18
+00:01:05,080 --> 00:01:08,349
+toute la Terre s'est produite quatre fois dans la
+
+19
+00:01:08,350 --> 00:01:12,639
+Vallée de la Mort, où elle a atteint 129
+
+20
+00:01:12,640 --> 00:01:17,228
+degrés Fahrenheit.
+180 degrés Fahrenheit est la
+
+21
+00:01:17,229 --> 00:01:18,639
+température recommandée pour l'eau
+
+22
+00:01:18,640 --> 00:01:22,019
+lors de la préparation du café.
+Et à 210 degrés Fahrenheit,
+
+23
+00:01:22,020 --> 00:01:24,279
+un gâteau est fait.
+
+24
+00:01:24,280 --> 00:01:28,739
+2 000 degrés Fahrenheit est la
+température de la lave
+
+25
+00:01:28,740 --> 00:01:32,789
+fraîchement sortie du sol.
+Mais allez.  Fabriquez votre propre lave
+
+26
+00:01:32,790 --> 00:01:38,019
+comme Green Science Pro.  Ce gars utilise
+des lentilles de Fresnel pour concentrer l'énergie du soleil
+
+27
+00:01:38,020 --> 00:01:42,158
+sur ce qu'il veut.
+Il s'agit d'un petit morceau d'obsidienne,
+
+28
+00:01:42,159 --> 00:01:46,339
+de verre volcanique, qu'il peut faire fondre en véritable lave
+
+29
+00:01:46,340 --> 00:01:50,908
+directement dans son jardin.
+Gardez à l'esprit que le Soleil a cet effet
+
+30
+00:01:50,909 --> 00:01:54,449
+même s'il se trouve à 93 millions de kilomètres de la
+
+31
+00:01:54,450 --> 00:01:57,898
+Terre.
+Juste à la surface du Soleil, c'est une autre histoire.
+
+32
+00:01:57,899 --> 00:02:02,379
+La surface pointe à 10 000 degrés Fahrenheit,
+
+33
+00:02:02,380 --> 00:02:05,999
+mais le centre, où se produit la fusion, est ridicule.
+
+34
+00:02:06,000 --> 00:02:09,138
+Les températures y atteignent 28
+
+35
+00:02:09,139 --> 00:02:12,759
+millions de degrés Fahrenheit, également
+
+36
+00:02:12,760 --> 00:02:16,068
+appelés 15 millions de Kelvin.
+L'échelle Kelvin
+
+37
+00:02:16,069 --> 00:02:19,369
+a des unités qui ont la même taille qu'un degré Celsius,
+
+38
+00:02:19,370 --> 00:02:22,708
+mais c'est une échelle absolue, où 0 est
+
+39
+00:02:22,709 --> 00:02:27,389
+le zéro absolu.  Lorsque la matière atteint des
+températures aussi élevées que celles trouvées
+
+40
+00:02:27,390 --> 00:02:28,609
+au centre du Soleil,
+
+41
+00:02:28,610 --> 00:02:31,988
+une énorme quantité d'énergie est
+
+42
+00:02:31,989 --> 00:02:35,318
+émise.
+Si vous ne deviez chauffer que la tête
+
+43
+00:02:35,319 --> 00:02:38,619
+d'une épingle à la température du centre du Soleil,
+
+44
+00:02:38,620 --> 00:02:42,878
+cela tuerait toute personne à moins de 1 000 milles de celle-ci.
+
+45
+00:02:42,879 --> 00:02:46,708
+En parlant de cela, l'énergie émise par un objet
+
+46
+00:02:46,709 --> 00:02:50,219
+nous en dit souvent beaucoup sur la température
+
+47
+00:02:50,220 --> 00:02:54,059
+de cet objet.
+Tout objet au-dessus du zéro absolu
+
+48
+00:02:54,060 --> 00:02:57,318
+émet une forme de rayonnement électromagnétique.
+
+49
+00:02:57,319 --> 00:03:00,759
+Toi et moi, nous ne brillons pas visiblement, mais nous émettons de
+
+50
+00:03:00,760 --> 00:03:05,249
+la lumière infrarouge.
+Nous ne pouvons pas le voir, mais les caméras infrarouges le
+
+51
+00:03:05,250 --> 00:03:08,639
+peuvent.
+WBT a de superbes vidéos
+
+52
+00:03:08,640 --> 00:03:11,639
+et le voici, caché dans un
+
+53
+00:03:11,640 --> 00:03:15,449
+sac poubelle noir opaque.
+Maintenant, nous ne pouvons pas le voir, mais son corps
+
+54
+00:03:15,450 --> 00:03:19,658
+brille par infrarouge.
+Si vous voulez que quelque chose soit à la bonne
+
+55
+00:03:19,659 --> 00:03:21,268
+température pour briller dans le
+
+56
+00:03:21,269 --> 00:03:24,738
+spectre visible, vous devrez atteindre le point Draper, à
+
+57
+00:03:24,739 --> 00:03:29,848
+environ 798 Kalvin.
+À ce stade, presque tous les
+
+58
+00:03:29,849 --> 00:03:33,878
+objets commenceront à briller d'un rouge mort.
+
+59
+00:03:33,879 --> 00:03:37,179
+Nous pouvons calculer la longueur d'onde attendue du rayonnement
+
+60
+00:03:37,180 --> 00:03:40,899
+provenant d'un objet en raison de sa
+température et cette longueur d'onde
+
+61
+00:03:40,900 --> 00:03:45,408
+devient de plus en plus petite à mesure que
+l'objet devient de plus en plus chaud.
+
+62
+00:03:45,409 --> 00:03:50,119
+Cela va des ondes radio aux micro-ondes
+en passant par l'infrarouge divisible
+
+63
+00:03:50,120 --> 00:03:54,068
+, jusqu'aux rayons X et aux rayons gamma,
+qui sont créés au milieu
+
+64
+00:03:54,069 --> 00:03:57,318
+de notre Soleil.
+À des températures aussi chaudes que le Soleil, la
+
+65
+00:03:57,319 --> 00:04:02,378
+matière existe dans un quatrième état.
+Ni solide, ni liquide, ni gazeux,
+
+66
+00:04:02,379 --> 00:04:06,839
+mais plutôt un état dans lequel les électrons
+s'éloignent du
+
+67
+00:04:06,840 --> 00:04:11,548
+plasma des noyaux.  Si vous avez vu ma température
+chuter, vous savez que vous pourriez faire du
+
+68
+00:04:11,549 --> 00:04:17,119
+plasma en passant au micro-ondes.
+
+69
+00:04:17,120 --> 00:04:22,499
+Mais ne le faites pas.  De plus, notre Soleil n'est
+même pas près d'être la chose la plus chaude de
+
+70
+00:04:22,500 --> 00:04:23,489
+l'univers.
+
+71
+00:04:23,490 --> 00:04:27,409
+Je veux dire, bien sûr, 15 millions de Kelvin, c'est assez incroyable,
+
+72
+00:04:27,410 --> 00:04:31,759
+mais la température maximale atteinte lors d'
+une explosion thermonucléaire
+
+73
+00:04:31,760 --> 00:04:35,049
+est de 350 millions de
+
+74
+00:04:35,050 --> 00:04:39,469
+Kelvin, ce qui compte à peine,
+car la température est atteinte
+
+75
+00:04:39,470 --> 00:04:43,388
+si brièvement.
+Mais à l'intérieur du noyau d'une étoile,
+
+76
+00:04:43,389 --> 00:04:46,559
+8 fois plus grosse que notre Soleil,
+
+77
+00:04:46,560 --> 00:04:51,138
+au dernier jour de sa vie,
+alors qu'elle s'effondre sur elle-même,
+
+78
+00:04:51,139 --> 00:04:54,339
+on atteindrait une température de 3
+
+79
+00:04:54,340 --> 00:04:58,289
+milliards de Kelvin.
+Ou si vous voulez être cool,
+
+80
+00:04:58,290 --> 00:05:01,809
+3 GigaKelvin.
+Mais soyons plus chauds.
+
+81
+00:05:01,810 --> 00:05:06,509
+À 1 TeraKelvin, les choses deviennent bizarres.
+
+82
+00:05:06,510 --> 00:05:10,079
+Vous vous souvenez de ce plasma dont nous
+parlions dont le Soleil est fait ?
+
+83
+00:05:10,080 --> 00:05:14,909
+Eh bien, à 1 TeraKelvin, les électrons
+ne sont pas la seule chose qui s'éloigne.
+
+84
+00:05:14,910 --> 00:05:19,009
+Les hèdrons eux-mêmes, les protons et les
+neutrons du noyau se
+
+85
+00:05:19,010 --> 00:05:22,388
+fondent en bizarreries et en gluons,
+
+86
+00:05:22,389 --> 00:05:25,499
+une sorte de soupe.
+Mais quelle
+
+87
+00:05:25,500 --> 00:05:29,399
+est la température d'un TeraKelvin ?
+Terriblement chaud.
+
+88
+00:05:29,400 --> 00:05:33,149
+Il y a une étoile nommée WR
+
+89
+00:05:33,150 --> 00:05:37,049
+104, à environ 8 000 années-lumière de nous.
+
+90
+00:05:37,050 --> 00:05:41,168
+Sa masse est l'équivalent de 25
+
+91
+00:05:41,169 --> 00:05:44,319
+de nos Soleils, et quand il mourra,
+
+92
+00:05:44,320 --> 00:05:49,059
+quand il s'effondrera, sa
+température interne sera si grande
+
+93
+00:05:49,060 --> 00:05:53,909
+que l'énergie émise,
+le rayonnement gamma qu'il projette dans l'espace
+
+94
+00:05:53,910 --> 00:05:57,359
+sera plus fort que toute la quantité
+d'énergie que notre  Sun
+
+95
+00:05:57,360 --> 00:06:01,719
+ne créera jamais de toute sa vie.
+
+96
+00:06:01,720 --> 00:06:04,159
+Les sursauts gamma sont assez étroits,
+
+97
+00:06:04,160 --> 00:06:07,478
+donc la Terre est très probablement en sécurité,
+mais que se passerait-il si ce n'était pas le cas ?
+
+98
+00:06:07,479 --> 00:06:10,788
+Eh bien, lorsque WR 104 s'effondrera,
+
+99
+00:06:10,789 --> 00:06:15,138
+même si la Terre se trouve à 4 702 billions de kilomètres,
+
+100
+00:06:15,139 --> 00:06:17,609
+l'énergie qu'elle libère
+
+101
+00:06:17,610 --> 00:06:21,638
+serait toujours une mauvaise nouvelle.
+Une exposition de 10
+
+102
+00:06:21,639 --> 00:06:24,948
+secondes signifierait la perte d'un quart de la couche d'ozone de la Terre,
+
+103
+00:06:24,949 --> 00:06:28,908
+entraînant une extinction massive, l'épuisement de la chaîne alimentaire
+
+104
+00:06:28,909 --> 00:06:31,299
+et la famine
+
+105
+00:06:31,300 --> 00:06:35,568
+à 8 000 années-lumière de distance.
+Plus près de chez nous
+
+106
+00:06:35,569 --> 00:06:39,638
+, ici même sur terre en Suisse, des
+scientifiques ont réussi à écraser des
+
+107
+00:06:39,639 --> 00:06:40,559
+protons
+
+108
+00:06:40,560 --> 00:06:43,758
+dans des noyaux, ce qui a entraîné des températures bien
+
+109
+00:06:43,759 --> 00:06:47,228
+supérieures à 1 TeraKelvin.
+Ils ont pu atteindre la
+
+110
+00:06:47,229 --> 00:06:50,318
+gamme 2 à 13 ExaKelvin.
+
+111
+00:06:50,319 --> 00:06:53,508
+Mais tout va bien, car ces températures
+
+112
+00:06:53,509 --> 00:06:57,698
+durent un instant incroyablement bref et
+n'impliquent qu'un petit nombre
+
+113
+00:06:57,699 --> 00:07:03,459
+de particules.  Rappelez-vous comment nous pourrions
+calculer la longueur d'onde du
+
+114
+00:07:03,460 --> 00:07:06,429
+rayonnement émis par un objet en fonction de sa température ?
+
+115
+00:07:06,430 --> 00:07:10,068
+Eh bien, si un objet devait atteindre une température
+
+116
+00:07:10,069 --> 00:07:14,038
+de 1,41 fois 10 à 32
+
+117
+00:07:14,039 --> 00:07:20,388
+Kelvin, le rayonnement qu'il admettrait
+aurait une longueur d'onde de 1,616
+
+118
+00:07:20,389 --> 00:07:25,779
+fois 10 à -26 nanomètres,
+
+119
+00:07:25,780 --> 00:07:28,919
+ce qui est minuscule.
+
+120
+00:07:28,920 --> 00:07:32,709
+Comme si petit, il a en fait un nom spécial.
+
+121
+00:07:32,710 --> 00:07:37,568
+C'est la distance de Planck,
+qui selon la mécanique quantique
+
+122
+00:07:37,569 --> 00:07:42,819
+est la distance la plus courte possible dans notre univers.
+
+123
+00:07:42,820 --> 00:07:45,459
+D'accord, et si nous ajoutions
+
+124
+00:07:45,460 --> 00:07:50,179
+encore plus d'énergie ?
+La longueur d'onde ne serait-elle pas plus petite ?  C'est censé le faire,
+
+125
+00:07:50,180 --> 00:07:53,749
+mais pourtant ça ne peut pas.
+C'est là que nous avons un problème.
+
+126
+00:07:53,750 --> 00:07:57,478
+Au-dessus de 1,41 fois 10 à 32 Kelvin,
+
+127
+00:07:57,479 --> 00:08:01,689
+la température de Planck,
+nos théories ne fonctionnent pas.
+
+128
+00:08:01,690 --> 00:08:05,339
+L'objet deviendrait plus chaud que la
+
+129
+00:08:05,340 --> 00:08:08,758
+température.
+Il ferait si chaud
+
+130
+00:08:08,759 --> 00:08:11,758
+que ce que c'est ne serait pas considéré comme une
+
+131
+00:08:11,759 --> 00:08:16,879
+température.  Théoriquement, il n'y a pas de
+limite à la quantité d'énergie que nous pourrions
+
+132
+00:08:16,880 --> 00:08:17,278
+continuer à
+
+133
+00:08:17,279 --> 00:08:21,429
+ajouter au système.
+Nous ne savons tout simplement pas ce qui se passerait
+
+134
+00:08:21,430 --> 00:08:25,249
+s'il devenait plus chaud que la température de Planck.
+Classiquement,
+
+135
+00:08:25,250 --> 00:08:29,638
+on pourrait dire qu'une telle quantité d'énergie en
+un seul endroit provoquerait instantanément la formation d'un
+
+136
+00:08:29,639 --> 00:08:30,569
+trou noir.
+
+137
+00:08:30,570 --> 00:08:34,588
+Et un trou noir formé d'énergie
+a un nom spécial -
+
+138
+00:08:34,589 --> 00:08:38,418
+un Kugelblitz.
+Donc, fondamentalement, ce que j'essaie de dire,
+
+139
+00:08:38,419 --> 00:08:42,908
+c'est que lorsque vous voulez dire à quelqu'un que vous
+aimez que vous pensez qu'il est
+
+140
+00:08:42,909 --> 00:08:46,739
+sexy, si sexy que même la science ne peut pas le
+comprendre
+
+141
+00:08:46,740 --> 00:08:51,299
+, appelez-le simplement un Kugelblitz.
+Enfin,
+
+142
+00:08:51,300 --> 00:08:54,369
+voici quelque chose d'amusant.
+Le Soleil
+
+143
+00:08:54,370 --> 00:08:58,869
+a environ 4,7 milliards d'années,
+à mi-chemin de son cycle de vie
+
+144
+00:08:58,870 --> 00:09:02,588
+et jusqu'à présent, il a brûlé 100
+
+145
+00:09:02,589 --> 00:09:04,009
+Terres
+
+146
+00:09:04,010 --> 00:09:07,619
+de carburant, ce qui semble beaucoup, mais le Soleil
+
+147
+00:09:07,620 --> 00:09:11,259
+a la taille de 300 000 Terres.
+
+148
+00:09:11,260 --> 00:09:15,859
+En raison de cet écart, vous pouvez
+vous amuser mathématiquement en comparant
+
+149
+00:09:15,860 --> 00:09:20,849
+votre production d'énergie à celle du Soleil.
+Le Soleil est bien plus chaud que nous
+
+150
+00:09:20,850 --> 00:09:25,399
+et il produit bien plus d'énergie que nous.
+Bad Astronomy s'est beaucoup amusé avec celui-ci
+
+151
+00:09:25,400 --> 00:09:29,379
+et bien que cela ne signifie vraiment
+rien, il est techniquement vrai, en
+
+152
+00:09:29,380 --> 00:09:32,479
+raison de la taille énorme du Soleil, qu'un
+
+153
+00:09:32,480 --> 00:09:35,569
+centimètre cube d'humain produit plus d'
+
+154
+00:09:35,570 --> 00:09:39,479
+énergie qu'un centimètre cube moyen
+
+155
+00:09:39,480 --> 00:09:43,459
+du Soleil  .
+Ce qui devrait vous faire sentir
+
+156
+00:09:43,460 --> 00:09:45,599
+bien au chaud à l'intérieur.
+
+157
+00:09:45,600 --> 00:09:49,840
+И, как всегда, спасибо за смотрящий.
+[I, kak vsegda , spasibo za smotryashchiy.]
+[Et comme toujours, merci d'avoir regardé.]
+

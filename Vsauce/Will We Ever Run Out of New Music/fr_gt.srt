@@ -1,0 +1,565 @@
+1
+00:00:00,570 --> 00:00:08,839
+Hé, Vsauce.  Michel ici.  Et l'iTunes Store contient 28 millions de chansons différentes.
+
+2
+00:00:08,840 --> 00:00:15,739
+Last.fm contient 45 millions de chansons et la
+base de données Gracenote d'artistes, de titres et de
+
+3
+00:00:15,740 --> 00:00:24,239
+labels contient 130 millions de chansons différentes.
+C'est beaucoup.  Si vous deviez écouter
+
+4
+00:00:24,240 --> 00:00:28,649
+toutes les chansons de la base de données Gracenote les unes
+après les autres dans une liste de lecture géante, cela
+
+5
+00:00:28,650 --> 00:00:33,759
+vous prendrait plus de 1 200 ans.
+
+6
+00:00:33,760 --> 00:00:40,578
+Mais puisqu'il existe un nombre fini de tons que
+nos oreilles peuvent distinguer et qu'il
+
+7
+00:00:40,579 --> 00:00:48,699
+suffit de quelques notes en commun pour que deux
+idées musicales sonnent de la même manière, allons-nous un jour manquer
+
+8
+00:00:48,700 --> 00:00:50,999
+de musique nouvelle ?
+
+9
+00:00:51,000 --> 00:00:56,939
+Y aura-t-il un jour où toutes les
+brèves mélodies possibles auront été écrites et enregistrées
+
+10
+00:00:56,940 --> 00:01:01,179
+et qu'il ne nous restera plus rien de nouveau à faire ?
+
+11
+00:01:01,180 --> 00:01:05,599
+Une bonne règle empirique pourrait être de dire que
+si la technologie d'enregistrement moderne ne peut pas distinguer
+
+12
+00:01:05,600 --> 00:01:12,059
+la différence entre deux chansons, eh bien,
+nous non plus.  Alors, commençons par là, avec des
+
+13
+00:01:12,060 --> 00:01:19,059
+téléchargements numériques, des MP3, des CD et un calcul
+effectué par Covered in Bees.
+
+14
+00:01:19,060 --> 00:01:25,438
+La musique numérique est faite de "bits".
+Beaucoup, beaucoup de morceaux.  Mais chaque bit individuel
+
+15
+00:01:25,439 --> 00:01:29,719
+existe dans l'un des deux états suivants : un "0" ou un "1".
+
+16
+00:01:29,720 --> 00:01:35,438
+Maintenant, ce que cela signifie dans le sens où pour un
+fichier audio donné, disons de 5 minutes, le nombre
+
+17
+00:01:35,439 --> 00:01:43,298
+de possibilités, mathématiquement parlant,
+est énorme, mais incroyablement fini.
+
+18
+00:01:43,299 --> 00:01:51,429
+Un disque compact, qui échantillonne de la musique à 44,1
+kHz, aura besoin d'environ 211 millions de bits
+
+19
+00:01:51,430 --> 00:01:57,258
+pour stocker une chanson de 5 minutes.  Et parce qu'un
+bit peut exister dans deux états, soit un "0"
+
+20
+00:01:57,259 --> 00:02:03,609
+ou un "1", le nombre de
+façons différentes possibles d'organiser ces 211 000 000 bits est de
+
+21
+00:02:03,610 --> 00:02:07,929
+2 à la puissance 211e million.
+
+22
+00:02:07,930 --> 00:02:14,179
+Cette valeur représente chaque
+fichier audio différent possible de 5 minutes.  Mais quelle
+
+23
+00:02:14,180 --> 00:02:18,389
+est la taille de ce nombre ?
+Eh bien, mettons cela en perspective.
+
+24
+00:02:18,390 --> 00:02:29,919
+Une seule goutte d'eau contient 6 sextillions d'
+atomes.  6 sextillion est long de 22 chiffres.  C'est
+
+25
+00:02:29,920 --> 00:02:35,089
+un long chiffre.  Mais le nombre total d'atomes
+qui composent la terre entière est un nombre
+
+26
+00:02:35,090 --> 00:02:41,949
+d'environ 50 chiffres.  Et les estimations
+du nombre total d'atomes d'hydrogène dans notre
+
+27
+00:02:41,950 --> 00:02:48,569
+univers sont un nombre de 80 chiffres.
+
+28
+00:02:48,570 --> 00:02:55,479
+Mais "2 à la puissance 211 millionième", le nombre
+de fichiers audio différents possibles de 5 minutes, est un nombre de
+
+29
+00:02:55,480 --> 00:03:07,999
+63 millions de chiffres.  C'est un nombre
+plus grand que nous ne pouvons même prétendre comprendre.
+
+30
+00:03:08,000 --> 00:03:14,629
+Il contient tous les fichiers audio de 5 minutes de qualité CD possibles
+.  À l'intérieur de ce montant, il y a tout,
+
+31
+00:03:14,630 --> 00:03:20,319
+du "5e" de Beethoven au "Loser" de Beck -
+il contient même une conversation de 5 minutes que vous avez
+
+32
+00:03:20,320 --> 00:03:25,969
+eue avec vos parents quand vous aviez 3 ans.
+En fait, chacun d'entre eux.  Il contient même
+
+33
+00:03:25,970 --> 00:03:31,419
+toutes les conversations possibles que vous n'avez pas eues
+avec vos parents quand vous aviez 3 ans.
+
+34
+00:03:31,420 --> 00:03:38,509
+Mais, c'est fini, pas infini.  C'est cool
+d'y penser, mais cela ne répond pas vraiment
+
+35
+00:03:38,510 --> 00:03:44,349
+à la question de cette vidéo, qui
+est "combien de chansons différentes possibles pouvons-
+
+36
+00:03:44,350 --> 00:03:47,229
+nous créer et entendre la différence entre elles?"
+
+37
+00:03:47,230 --> 00:03:51,509
+Donc, pour cela, nous allons devoir
+affiner notre chasse.
+
+38
+00:03:51,510 --> 00:03:57,099
+Sur Everything2, Ferrouslepidoptera a fait un
+calcul qui impliquait certaines hypothèses
+
+39
+00:03:57,100 --> 00:04:01,019
+qui, je pense, ont aidé à réduire le champ
+d'une manière vraiment agréable.
+
+40
+00:04:01,020 --> 00:04:06,309
+Elle a examiné le nombre total de
+mélodies différentes possibles que vous pourriez créer dans
+
+41
+00:04:06,310 --> 00:04:15,009
+une octave, contenant tout ou partie des intervalles
+dans lesquels nous divisons les octaves.  Bien sûr, les fréquences sonores
+
+42
+00:04:15,010 --> 00:04:20,569
+peuvent être divisées de manière beaucoup plus granulaire que cela,
+mais nous donner plus de notes pourrait signifier que
+
+43
+00:04:20,570 --> 00:04:25,519
+nous pourrions créer des mélodies plus techniquement différentes,
+mais elles ne sonneraient pas nécessairement différemment
+
+44
+00:04:25,520 --> 00:04:27,259
+à nos oreilles.
+
+45
+00:04:27,260 --> 00:04:32,539
+Maintenant, étant donné une seule mesure contenant n'importe quelle
+combinaison de notes entières, blanches, noires, croches,
+
+46
+00:04:32,540 --> 00:04:39,759
+doubles croches ou triples, elle a calculé
+qu'il y aurait autant de mesures uniques possibles
+
+47
+00:04:39,760 --> 00:04:46,689
+, ce qui est un nombre plus petit que nous
+n'avions auparavant, mais, pour  mettez-le en perspective
+
+48
+00:04:46,690 --> 00:04:52,729
+, c'est combien de secondes l'univers a.
+
+49
+00:04:52,730 --> 00:04:59,039
+Le calcul de Yerricde est encore plus précis.
+Il est resté dans une octave, mais au lieu de
+
+50
+00:04:59,040 --> 00:05:06,189
+regarder une mesure complète, il n'a considéré que
+le nombre de combinaisons uniques de 8 notes.
+
+51
+00:05:06,190 --> 00:05:11,209
+Il a également supposé que les mélodies typiques, telles que
+nous les connaissons aujourd'hui, ne contiennent qu'environ trois
+
+52
+00:05:11,210 --> 00:05:17,769
+types différents de longueur de note.  Par exemple, quart, huitième et seizième ou entier,
+
+53
+00:05:17,770 --> 00:05:19,179
+moitié et quart.
+
+54
+00:05:19,180 --> 00:05:25,499
+Certes, cela ne sera probablement pas
+toujours vrai.  Les goûts musicaux dans des centaines, des milliers
+
+55
+00:05:25,500 --> 00:05:32,359
+d'années seront certainement différents,
+mais étant donné les mélodies telles que nous les connaissons aujourd'hui,
+
+56
+00:05:32,360 --> 00:05:41,899
+sur 8 notes, sur 12 intervalles, il y a
+environ 79 milliards de combinaisons possibles.
+
+57
+00:05:41,900 --> 00:05:48,079
+Nous devenons relativement petits ici.  Je veux dire,
+selon cette définition de la mélodie, 100 auteurs-compositeurs
+
+58
+00:05:48,080 --> 00:05:54,089
+créant une toute nouvelle mélodie de 8 notes chaque seconde
+épuiseraient toutes les mélodies possibles en
+
+59
+00:05:54,090 --> 00:05:56,919
+seulement 248 ans.
+
+60
+00:05:56,920 --> 00:06:01,979
+Mais c'est quand même un nombre énorme, bien plus grand que
+le nombre total de chansons écrites
+
+61
+00:06:01,980 --> 00:06:08,939
+que nous connaissons.  Donc, vous pouvez
+dire en toute sécurité que non, nous ne manquerons jamais de nouvelle
+
+62
+00:06:08,940 --> 00:06:18,479
+musique.  Mais voici le hic.  Si c'est le cas,
+pourquoi y a-t-il tant de points communs entre les
+
+63
+00:06:18,480 --> 00:06:24,879
+chansons ?  Même à travers des centaines d'années, comment
+se fait-il que tant de chansons sonnent de la même manière ?
+
+64
+00:06:24,880 --> 00:06:29,909
+Je veux dire, si nous avons plus de possibilités que
+nous ne pourrions jamais en épuiser, pourquoi "Twinkle Twinkle
+
+65
+00:06:29,910 --> 00:06:35,169
+Little Star", "Alphabet Song" et "Baa,
+Baa, Black Sheep", sont-ils tous la même mélodie ?
+
+66
+00:06:35,170 --> 00:06:40,169
+"My Country Tis of Thee" et "God Save the
+Queen", ce qui est intéressant, sont la même
+
+67
+00:06:40,170 --> 00:06:41,159
+chanson.
+
+68
+00:06:41,160 --> 00:06:57,439
+"Love Me Tender" est exactement la même que la
+vieille chanson de la guerre civile américaine "Aura Lea".
+
+69
+00:06:57,440 --> 00:07:02,929
+Et un nombre apparemment incalculable de chansons
+sonnent simplement comme d'autres chansons.  Le
+
+70
+00:07:02,930 --> 00:07:07,489
+thème Spongebob Squarepants a une cadence très similaire
+à "Blow the Man Down".
+
+71
+00:07:07,490 --> 00:07:13,189
+Soundsjustlike.com est une excellente ressource pour
+explorer cela plus avant.  Il vous montrera deux
+
+72
+00:07:13,190 --> 00:07:26,379
+chansons et comment elles se ressemblent.
+
+73
+00:07:26,380 --> 00:07:31,449
+Et quand il s'agit d'accords musicaux,
+c'est presque comme s'il n'y avait pas de variété du tout, comme l'
+
+74
+00:07:31,450 --> 00:07:36,829
+a montré le célèbre "4 Chords" de The Axis of Awesome
+.  Je l'ai mis en lien dans la description,
+
+75
+00:07:36,830 --> 00:07:40,668
+ça vaut le détour si vous ne l'avez pas
+déjà vu.  Ces gars-là chantent plus de 40 chansons différentes en
+
+76
+00:07:40,669 --> 00:07:45,519
+utilisant les mêmes quatre accords...
+
+77
+00:07:45,520 --> 00:07:52,909
+Même si le nombre de mélodies différentes possibles
+est gigantesque, nous, les humains, avons tendance à graviter
+
+78
+00:07:52,910 --> 00:07:57,399
+vers certains schémas que nous aimons plus
+que d'autres et nous sommes influencés par ce qui
+
+79
+00:07:57,400 --> 00:08:04,229
+nous a précédés  .  Kirby Ferguson a une
+série fantastique sur ce sujet intitulée "Everything
+
+80
+00:08:04,230 --> 00:08:08,769
+is a Remix".  Je l'ai également mis en lien dans
+la description.  Les points communs qu'il montre
+
+81
+00:08:08,770 --> 00:08:10,359
+sont assez fous.
+
+82
+00:08:10,360 --> 00:08:16,349
+Eh bien, même quand il s'agit de paroles, d'écriture,
+même si, mathématiquement, il y a plus de
+
+83
+00:08:16,350 --> 00:08:22,669
+possibilités que nous ne pourrions jamais en épuiser,
+nous avons gravité vers quelques-unes.  En fait,
+
+84
+00:08:22,670 --> 00:08:29,749
+il existe une forme de mètre poétique qui est si
+courante qu'elle s'appelle "Mètre commun".
+
+85
+00:08:29,750 --> 00:08:33,819
+J'ai composé un couplet en l'utilisant pour expliquer ce que c'est.
+
+86
+00:08:33,820 --> 00:08:41,879
+La première ligne contient huit syllabes.  Le suivant
+n'en contient que six.  Pour l'emphase : stress iambique.
+
+87
+00:08:41,880 --> 00:08:44,879
+C'est tout, pas d'autres trucs.
+
+88
+00:08:44,880 --> 00:08:52,569
+Voici une liste de chansons écrites en
+mètre commun, également connu sous le nom de "Balad Meter".  La banalité
+
+89
+00:08:52,570 --> 00:08:58,549
+du mètre commun est la raison pour laquelle vous pouvez chanter
+la chanson thème Pokemon sur l'air de Gilligan's
+
+90
+00:08:58,550 --> 00:09:06,379
+Island.  Ou Maison du Soleil Levant.  Ou
+grâce incroyable.  Vous pouvez également utiliser presque n'importe quelle poésie d'Emily
+
+91
+00:09:06,380 --> 00:09:10,859
+Dickinson.  Bien sûr, ce sont des
+mélodies différentes, mais leurs paroles sont écrites dans
+
+92
+00:09:10,860 --> 00:09:12,719
+le même mètre.
+
+93
+00:09:12,720 --> 00:09:16,579
+Il y a une excellente vidéo sur YouTube que j'ai
+liée ci-dessous dans la description qui utilise des
+
+94
+00:09:16,580 --> 00:09:20,759
+légendes pour vous permettre de voir comment tout cela
+s'emboîte.
+
+95
+00:09:20,760 --> 00:09:27,039
+Oh, et n'oubliez pas l'une des plus grandes compositions
+tirant parti de la banalité du mètre commun :
+
+96
+00:09:27,040 --> 00:09:29,799
+Stairway to Gilligan's Island.
+
+97
+00:09:29,800 --> 00:09:35,289
+Et tu sais quoi?  Notre cerveau peut également
+nous empêcher de profiter de tout l'
+
+98
+00:09:35,290 --> 00:09:42,599
+espace mathématique des chansons disponibles.  Par exemple, des
+recherches ont montré que la façon dont une chanson est compressée, à l'
+
+99
+00:09:42,600 --> 00:09:50,659
+aide d'un logiciel, peut nous aider à prédire à quel point
+elle sera agréable.  Trop simple, trop facile à compresser,
+
+100
+00:09:50,660 --> 00:09:57,819
+comme, disons, une gamme montante, et la chanson ne
+nous défie pas - c'est ennuyeux.  Mais trop compliqué,
+
+101
+00:09:57,820 --> 00:10:03,239
+disons, bruit blanc, et le fichier ne se comprimera pas
+beaucoup du tout, et, de même, nous ne
+
+102
+00:10:03,240 --> 00:10:09,169
+semblons pas l'apprécier.  Il y a une zone magique où
+un fichier est compressible par un ordinateur, et
+
+103
+00:10:09,170 --> 00:10:12,749
+se trouve aussi être agréable pour nous.
+
+104
+00:10:12,750 --> 00:10:19,079
+Donc, fait intéressant, même si mathématiquement
+parlant, il y a tellement de mélodies uniques possibles
+
+105
+00:10:19,080 --> 00:10:25,239
+que nous pouvons dire en toute sécurité, il y aura
+toujours de la place pour de la nouvelle musique, nous ne semblons
+
+106
+00:10:25,240 --> 00:10:32,469
+pas être câblés pour nous en soucier.  Nous apprécions certains motifs
+et mélodies et calculer combien il pourrait y en
+
+107
+00:10:32,470 --> 00:10:37,929
+avoir est beaucoup moins intéressant que la façon dont
+tous ceux que nous apprécions sont connectés et similaires
+
+108
+00:10:37,930 --> 00:10:44,759
+.  C'est comme si nous avions plus d'espace que
+nous n'en avons besoin, plus d'espace que nous ne pourrions jamais
+
+109
+00:10:44,760 --> 00:10:51,028
+espérer tout voir, ou tout visiter, ou tout savoir
+, mais peu importe le nouvel endroit où nous allons, dans
+
+110
+00:10:51,029 --> 00:10:57,819
+un sens général, nouveau, populaire  la musique
+nous rappellera toujours un peu notre chez nous.
+
+111
+00:10:57,820 --> 00:10:58,699
+Et comme toujours,
+
+112
+00:10:58,700 --> 00:11:10,459
+merci d'avoir regardé.
+
+113
+00:11:10,460 --> 00:11:16,139
+Fantastique, tu es toujours là.  Si vous
+voulez entendre de la musique de gens comme vous, de Vsaucers,
+
+114
+00:11:16,140 --> 00:11:21,499
+allez voir WeSauce.  Vous pouvez nous soumettre de la musique, des
+animations, des courts métrages, tout ce que
+
+115
+00:11:21,500 --> 00:11:26,939
+vous créez et mettez sur YouTube et nous le
+présenterons sur WeSauce.  C'est comme une bande-annonce
+
+116
+00:11:26,940 --> 00:11:29,648
+de ce que font Vsaucers.
+
+117
+00:11:29,649 --> 00:11:34,528
+En parlant de cela, Jake Chudnow, qui fait
+toute la musique de ces vidéos, a une toute
+
+118
+00:11:34,529 --> 00:11:39,220
+nouvelle chanson sur sa chaîne,
+que je vous suggère fortement d'écouter.
+

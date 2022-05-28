@@ -1,0 +1,532 @@
+1
+00:00:00,070 --> 00:00:03,259
+Hé, Vsauce.  Michel ici.
+
+2
+00:00:03,260 --> 00:00:06,249
+Quand mourras-tu ?  Je ne parle pas de vous en
+
+3
+00:00:06,250 --> 00:00:09,999
+particulier, je veux dire la moyenne de vous tous - le spectateur moyen de
+
+4
+00:00:10,000 --> 00:00:14,679
+Vsauce.  En combinant les
+tables de mortalité de l'Organisation mondiale de la santé avec les
+
+5
+00:00:14,680 --> 00:00:18,009
+analyses YouTube pour les téléspectateurs de Vsauce, nous pouvons calculer
+
+6
+00:00:18,010 --> 00:00:21,709
+que la date moyenne à laquelle toute personne de plus de 15 ans qui
+
+7
+00:00:21,710 --> 00:00:24,949
+regarde cette vidéo en ce moment mourra est
+
+8
+00:00:24,950 --> 00:00:34,649
+8h42 du matin, le 28 novembre 2059.
+
+9
+00:00:34,650 --> 00:00:37,399
+Le mode  est en 2073.
+
+10
+00:00:37,400 --> 00:00:41,869
+Morbidement, mais mathématiquement, environ 340
+
+11
+00:00:41,870 --> 00:00:46,779
+des personnes qui regardent cette vidéo cette
+semaine ne seront pas là à cette époque
+
+12
+00:00:46,780 --> 00:00:52,239
+l'année prochaine.  Ces statistiques sont basées sur des
+moyennes, mais il est intéressant de noter que
+
+13
+00:00:52,240 --> 00:00:55,619
+la personne moyenne se considère
+comme tout
+
+14
+00:00:55,620 --> 00:01:00,159
+sauf moyenne.  Des études ont constamment montré que la
+
+15
+00:01:00,160 --> 00:01:05,268
+personne moyenne croit qu'elle
+vivra plus longtemps et en meilleure santé
+
+16
+00:01:05,269 --> 00:01:08,749
+que la personne moyenne.  Nous surestimons
+
+17
+00:01:08,750 --> 00:01:12,689
+la probabilité que de mauvaises choses
+arrivent à d'autres personnes et sous
+
+18
+00:01:12,690 --> 00:01:16,979
+-estimons la probabilité qu'elles nous arrivent
+.  C'est une partie naturelle de notre psychologie,
+
+19
+00:01:16,980 --> 00:01:21,029
+mais oui, nous calculons mal le risque de nombreuses
+
+20
+00:01:21,030 --> 00:01:25,999
+façons fascinantes.  K.C.  Cole souligne que nous sommes
+souvent plus réactifs aux menaces personnelles
+
+21
+00:01:26,000 --> 00:01:29,009
+exotiques, erratiques et dramatiques
+
+22
+00:01:29,010 --> 00:01:32,619
+qu'aux menaces bien plus probables.
+
+23
+00:01:32,620 --> 00:01:36,649
+J'aime un de ses exemples - imaginez un
+monde où les cigarettes
+
+24
+00:01:36,650 --> 00:01:40,599
+sont inoffensives, mais un paquet de cigarettes
+
+25
+00:01:40,600 --> 00:01:43,669
+sur dix-huit mille sept
+cent cinquante contient
+
+26
+00:01:43,670 --> 00:01:47,959
+une seule cigarette remplie de dynamite
+qui, lorsqu'elle est allumée,
+
+27
+00:01:47,960 --> 00:01:52,059
+explose violemment, faisant sauter la tête de l'utilisateur.
+
+28
+00:01:52,060 --> 00:01:54,039
+Les gens
+
+29
+00:01:54,040 --> 00:01:58,009
+perdraient la tête bruyamment et en désordre tous les
+jours partout dans le monde,
+
+30
+00:01:58,010 --> 00:02:02,089
+mais dans cet univers imaginaire, le même
+nombre de personnes mourraient chaque jour à
+
+31
+00:02:02,090 --> 00:02:03,359
+cause du tabagisme
+
+32
+00:02:03,360 --> 00:02:06,449
+qui le fait déjà.  Les résultats
+
+33
+00:02:06,450 --> 00:02:10,549
+seraient simplement plus choquants, plus
+immédiats et probablement plus susceptibles d'
+
+34
+00:02:10,550 --> 00:02:12,799
+affecter nos décisions.
+
+35
+00:02:12,800 --> 00:02:16,609
+Le mois dernier, certains de mes créateurs YouTube préférés et moi-même avons
+rencontré
+
+36
+00:02:16,610 --> 00:02:19,749
+le président Obama au sujet des décisions que
+
+37
+00:02:19,750 --> 00:02:23,829
+prennent les Américains lorsqu'il s'agit de
+se protéger du
+
+38
+00:02:23,830 --> 00:02:28,219
+coût de la santé.  La question des
+soins de santé est embourbée dans des conflits et des débats qui
+
+39
+00:02:28,220 --> 00:02:31,458
+n'ont d'égal que l'agitation de l'évaluation des risques qui se
+déroule
+
+40
+00:02:31,459 --> 00:02:34,039
+dans nos propres esprits.
+
+41
+00:02:34,040 --> 00:02:39,299
+Nos machines myélinisées utilisent plus de biais et de
+raccourcis pour évaluer les probabilités
+
+42
+00:02:39,300 --> 00:02:43,549
+que ce qui peut tenir dans une seule vidéo, mais un
+exemple particulièrement fort
+
+43
+00:02:43,550 --> 00:02:48,609
+est l'heuristique de disponibilité.  Notre
+tendance à penser que quelque chose est plus probable
+
+44
+00:02:48,610 --> 00:02:52,379
+parce que cela s'est produit récemment ou parce qu'il y
+a plus d'exemples de ce qui se
+
+45
+00:02:52,380 --> 00:02:57,009
+passe dans nos mémoires, pas parce que c'est
+en fait plus probable.
+
+46
+00:02:57,010 --> 00:03:01,109
+Nous exagérons également les risques sur lesquels nous n'avons aucun
+contrôle
+
+47
+00:03:01,110 --> 00:03:04,429
+tout en étant relativement
+intrépides face à des
+
+48
+00:03:04,430 --> 00:03:10,529
+risques égaux que nous pouvons néanmoins contrôler.  La
+célèbre étude de Chianti Stars de 1969 sur le risque a
+
+49
+00:03:10,530 --> 00:03:14,889
+révélé que les gens étaient prêts à accepter des risques
+1 000 fois plus grands
+
+50
+00:03:14,890 --> 00:03:19,089
+s'ils pouvaient les contrôler, par exemple en
+conduisant une voiture, que s'ils
+
+51
+00:03:19,090 --> 00:03:22,719
+n'en avaient pas le contrôle, par exemple une
+catastrophe nucléaire.
+
+52
+00:03:22,720 --> 00:03:27,139
+Parlons d'Abraham Wald.
+
+53
+00:03:27,140 --> 00:03:32,129
+Seule une quantité de blindage supplémentaire peut être ajoutée à
+un avion avant qu'il ne devienne trop lourd pour voler.
+
+54
+00:03:32,130 --> 00:03:36,599
+Maintenant, pendant la Seconde Guerre mondiale, l'armée américaine a
+remarqué que les avions revenant
+
+55
+00:03:36,600 --> 00:03:40,219
+du territoire ennemi étaient généralement endommagés
+autour des ailes,
+
+56
+00:03:40,220 --> 00:03:44,129
+du corps et des mitrailleurs de queue.
+Donc, ils ont mis plus d'armure
+
+57
+00:03:44,130 --> 00:03:48,549
+sur ces zones.  Mais cela n'a pas fait de
+différence.  Le même nombre d'avions a
+
+58
+00:03:48,550 --> 00:03:52,619
+continué à être perdu.  L'armée a donc embauché Wald
+
+59
+00:03:52,620 --> 00:03:56,549
+pour ses super pouvoirs mathématiques.
+Il leur a dit de mettre le peu d'
+
+60
+00:03:56,550 --> 00:03:59,789
+armure possible sur les parties des avions qui
+
+61
+00:03:59,790 --> 00:04:03,279
+n'étaient pas touchées.  Pourquoi?
+
+62
+00:04:03,280 --> 00:04:06,859
+Eh bien, parce que les avions qui revenaient étaient des survivants.
+
+63
+00:04:06,860 --> 00:04:10,699
+Ils ont subi des dégâts dans des zones où un avion
+peut subir des dégâts
+
+64
+00:04:10,700 --> 00:04:15,079
+et survivre.  Des dommages à d'autres zones ont
+empêché l'avion
+
+65
+00:04:15,080 --> 00:04:19,028
+de revenir.
+Wald les protégeait contre le
+
+66
+00:04:19,029 --> 00:04:22,759
+biais de survie - ne prêtant attention
+
+67
+00:04:22,760 --> 00:04:27,239
+qu'aux succès.  Un phénomène similaire est en
+partie responsable de la raison pour laquelle la musique donne l'
+
+68
+00:04:27,240 --> 00:04:30,299
+impression qu'elle était simplement meilleure à
+l'époque qu'elle ne l'est maintenant.
+
+69
+00:04:30,300 --> 00:04:34,228
+Est-ce vraiment vrai ou est-ce que nous nous souvenons juste
+
+70
+00:04:34,229 --> 00:04:39,679
+des bonnes choses ?  Le travail de Wald a sauvé des
+milliers de vies et rendu le vol plus sûr
+
+71
+00:04:39,680 --> 00:04:44,859
+pour beaucoup d'autres.  Tragiquement, quelques années
+plus tard, Wald et sa femme sont
+
+72
+00:04:44,860 --> 00:04:49,559
+morts dans un accident d'avion.  Vous ne pouvez pas
+
+73
+00:04:49,560 --> 00:04:52,659
+prédire comment et quand vous mourrez, ce n'est pas si facile.
+
+74
+00:04:52,660 --> 00:04:56,279
+Mais quelques systèmes de notation des risques ont été créés
+
+75
+00:04:56,280 --> 00:04:59,319
+pour clarifier la discussion et la comparaison
+des comportements dangereux
+
+76
+00:04:59,320 --> 00:05:03,539
+.  Le micromort a été conçu par
+
+77
+00:05:03,540 --> 00:05:09,209
+Ronald A. Howard et représente un risque
+égal à une probabilité de décès sur 1 000 000
+
+78
+00:05:09,210 --> 00:05:12,399
+.  John Green a parlé de Micromorts
+
+79
+00:05:12,400 --> 00:05:16,679
+dans une vidéo fantastique sur le fil mental que vous
+devriez regarder, si vous ne l'avez pas déjà fait.
+
+80
+00:05:16,680 --> 00:05:20,899
+Il souligne qu'un seul saut en parachute
+augmente temporairement votre
+
+81
+00:05:20,900 --> 00:05:24,569
+risque de décès de sept micromorts - sept
+
+82
+00:05:24,570 --> 00:05:27,889
+chances sur 1 000 000 de mourir.  C'est la même chose
+
+83
+00:05:27,890 --> 00:05:32,869
+que de fumer 5 cigarettes.  On
+estime que vous gagnez un micromort
+
+84
+00:05:32,870 --> 00:05:35,639
+pour chaque demi-litre de vin que vous buvez.
+
+85
+00:05:35,640 --> 00:05:41,839
+Chaque année, vous buvez de l'eau du robinet de Miami, tous les 1 000 miles vous voyagez en avion à réaction,
+
+86
+00:05:41,840 --> 00:05:46,939
+tous les 230 miles vous voyagez en voiture, tous les
+20 miles vous voyagez en vélo
+
+87
+00:05:46,940 --> 00:05:51,109
+et tous les 6 miles vous voyagez en moto
+
+88
+00:05:51,110 --> 00:05:54,679
+ou en canoë.  Il existe une
+
+89
+00:05:54,680 --> 00:06:00,418
+unité de risque plus heureuse - la microvie.  Proposée par
+David Spiegelhalter et Alejandro Leiva,
+
+90
+00:06:00,419 --> 00:06:03,649
+une micro-vie se gagne en faisant des
+
+91
+00:06:03,650 --> 00:06:07,158
+choses utiles.  En petites quantités, leurs avantages sont à peu près
+
+92
+00:06:07,159 --> 00:06:10,228
+linéaires et une microvie équivaut à
+
+93
+00:06:10,229 --> 00:06:14,769
+30 minutes de vie supplémentaires.
+Vingt minutes d'exercice modéré
+
+94
+00:06:14,770 --> 00:06:17,299
+vous donnent deux microvies supplémentaires.
+
+95
+00:06:17,300 --> 00:06:21,008
+Deux heures de comportement sédentaire
+
+96
+00:06:21,009 --> 00:06:25,439
+-1 microvies.  Il
+
+97
+00:06:25,440 --> 00:06:30,638
+existe de nombreux sites Web non scientifiques qui
+vous permettent de calculer quand vous mourrez en
+
+98
+00:06:30,639 --> 00:06:33,658
+fonction de votre espérance de vie et de vos habitudes.
+
+99
+00:06:33,659 --> 00:06:37,348
+PokeMyBirthday.com est le genre de site loufoque
+
+100
+00:06:37,349 --> 00:06:40,418
+qui jette un regard néanmoins intéressant
+non pas sur votre mort,
+
+101
+00:06:40,419 --> 00:06:44,519
+mais sur votre naissance.  Entrez votre anniversaire et
+voyez quand vous avez été conçu,
+
+102
+00:06:44,520 --> 00:06:48,439
+quand votre mère a probablement réalisé pour la première fois
+qu'elle était enceinte de vous
+
+103
+00:06:48,440 --> 00:06:53,628
+et les dates auxquelles vos parents ont créé ou mis
+en place les deux cellules
+
+104
+00:06:53,629 --> 00:06:56,728
+qui sont finalement devenues les trente billions de cellules
+
+105
+00:06:56,729 --> 00:07:01,348
+qui regardent maintenant cette vidéo.  Chaque personne
+
+106
+00:07:01,349 --> 00:07:04,859
+qui est jamais morte est morte ici même sur la planète Terre.
+
+107
+00:07:04,860 --> 00:07:07,888
+Sauf trois.
+
+108
+00:07:07,889 --> 00:07:10,918
+L'équipage de Soyouz 11.
+
+109
+00:07:10,919 --> 00:07:15,068
+Le 30 juin 1979, leur cabine se dépressurise,
+
+110
+00:07:15,069 --> 00:07:18,579
+en revenant sur Terre, avant de
+franchir la frontière convenue entre la
+
+111
+00:07:18,580 --> 00:07:21,908
+Terre et l'espace.  Loin de
+
+112
+00:07:21,909 --> 00:07:25,739
+toute zone peuplée, une colonne métallique à trois côtés se
+
+113
+00:07:25,740 --> 00:07:29,519
+trouve là où ils sont débarqués au Kazakhstan.
+
+114
+00:07:29,520 --> 00:07:32,698
+C'est un mémorial éloigné des morts les
+
+115
+00:07:32,699 --> 00:07:36,429
+plus reculées de l'humanité.  Nous ne sommes pas
+
+116
+00:07:36,430 --> 00:07:41,329
+tous morts ici sur Terre, mais jusqu'à présent, nous sommes tous nés
+
+117
+00:07:41,330 --> 00:07:44,379
+ici.  Merci d'être ici.
+
+118
+00:07:44,380 --> 00:07:46,299
+Restez en sécurité et, comme toujours,
+
+119
+00:07:46,300 --> 00:07:48,300
+merci d'avoir regardé.
+

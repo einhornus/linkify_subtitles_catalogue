@@ -1,0 +1,267 @@
+1
+00:00:00,470 --> 00:00:02,199
+Hé, Vsauce.
+Michel ici.
+
+2
+00:00:02,200 --> 00:00:08,379
+Et cette fraise pèse environ 50 grammes, ce qui,
+selon Russell Seitz, représente
+
+3
+00:00:08,380 --> 00:00:14,379
+également le poids de tout Internet.
+Qu'est-ce que cela signifie?
+
+4
+00:00:14,380 --> 00:00:19,309
+Je veux dire, Internet est un endroit gigantesque et
+comment mesurez-vous l'information ?
+
+5
+00:00:19,310 --> 00:00:22,768
+Eh bien, commençons un peu plus petit avec
+un Kindle.
+
+6
+00:00:22,769 --> 00:00:27,178
+En ce moment, je lis Gadsby, qui est un
+grand roman qui prend tout son sens, sauf
+
+7
+00:00:27,179 --> 00:00:31,839
+qu'il a été écrit sans jamais utiliser la lettre
+"e", ce qui est génial.
+
+8
+00:00:31,840 --> 00:00:35,719
+Mais quand j'ai mis Gadsby sur mon Kindle, mon
+Kindle a-t-il pris du poids ?
+
+9
+00:00:35,720 --> 00:00:40,599
+Eh bien, théoriquement, oui.
+Les informations sont stockées sur des lecteurs flash comme
+
+10
+00:00:40,600 --> 00:00:45,889
+celui-ci et sur mon Kindle en binaire.
+Et ce binaire existe physiquement parce que les
+
+11
+00:00:45,890 --> 00:00:50,679
+électrons chargent les transistors à grille flottante.
+Et le problème avec les électrons, c'est qu'ils
+
+12
+00:00:50,680 --> 00:00:55,239
+ont une masse.
+En fait, un professeur de Berkeley a estimé
+
+13
+00:00:55,240 --> 00:01:00,699
+que lorsqu'un Kindle est complètement rempli de livres,
+son poids augmente d'environ 10 à moins
+
+14
+00:01:00,700 --> 00:01:05,549
+18 grammes.
+Ce nombre est incroyablement minuscule.
+
+15
+00:01:05,550 --> 00:01:11,109
+En fait, il dit que lorsque vous chargez complètement
+la batterie d'un Kindle, elle gagne 100 millions de fois
+
+16
+00:01:11,110 --> 00:01:13,869
+plus de masse que lorsque vous la remplissez de
+livres.
+
+17
+00:01:13,870 --> 00:01:16,809
+Mais même alors, le nombre est impossible à
+mesurer.
+
+18
+00:01:16,810 --> 00:01:22,529
+Les échelles les plus spécifiques que nous ayons jamais créées
+ne mesurent qu'environ 10 au 9ème
+
+19
+00:01:22,530 --> 00:01:25,299
+gramme négatif.
+Alors grossissons.
+
+20
+00:01:25,300 --> 00:01:30,069
+Russell Seitz a proposé sa mesure
+parce qu'Internet est composé de réseaux
+
+21
+00:01:30,070 --> 00:01:36,559
+de serveurs et qu'il y a environ 75 à 100 millions de
+serveurs qui fonctionnent pour faire fonctionner Internet.
+
+22
+00:01:36,560 --> 00:01:42,259
+Ensemble, ces nombreux serveurs équivalent à environ 40
+milliards de watts d'électricité et nous savons
+
+23
+00:01:42,260 --> 00:01:46,239
+qu'un ampli représente environ 10 aux 18 électrons par
+seconde.
+
+24
+00:01:46,240 --> 00:01:50,949
+Et puisque nous connaissons le poids d'un électron,
+nous pouvons calculer que l'ensemble d'Internet
+
+25
+00:01:50,950 --> 00:01:55,709
+ne représente en réalité qu'environ 50 grammes d'électrons
+en mouvement.
+
+26
+00:01:55,710 --> 00:01:59,809
+Maintenant, ce nombre ne comprend que les serveurs.
+Et Seitz dit que si vous voulez également inclure les
+
+27
+00:01:59,810 --> 00:02:04,059
+puces dans les ordinateurs personnels, le nombre est
+environ 3 fois plus grand.
+
+28
+00:02:04,060 --> 00:02:07,119
+Mais il y a un poids d'Internet qui
+m'impressionne un peu plus.
+
+29
+00:02:07,120 --> 00:02:11,779
+Ce n'est pas un calcul de l'énergie qu'il faut
+pour servir Internet, mais de l'énergie contenue
+
+30
+00:02:11,780 --> 00:02:16,439
+dans l'information réelle.
+Les vidéos, les photos, les e-mails.
+
+31
+00:02:16,440 --> 00:02:20,639
+Combien pèsent-ils tous collectivement lorsqu'ils sont
+stockés ?
+
+32
+00:02:20,640 --> 00:02:26,348
+Eh bien, voici la chose.
+Il faut environ 8 milliards d'électrons pour stocker
+
+33
+00:02:26,349 --> 00:02:29,788
+un e-mail.
+8 milliards semble beaucoup, mais les électrons
+
+34
+00:02:29,789 --> 00:02:36,479
+sont minuscules et donc un e-mail ne pèse qu'environ
+deux dix millièmes de quadrillionième
+
+35
+00:02:36,480 --> 00:02:39,699
+d'once.
+Mais Internet contient beaucoup d'e-mails
+
+36
+00:02:39,700 --> 00:02:44,399
+et il contient beaucoup de vidéos, d'images et de
+rumeurs de célébrités, alors combien pèse-t-il au
+
+37
+00:02:44,400 --> 00:02:47,659
+total ?
+Eh bien, la première question que nous devons nous poser est de
+
+38
+00:02:47,660 --> 00:02:53,319
+savoir quelle est la taille d'Internet et c'est difficile
+à calculer, mais Eric Schmidt, alors PDG de
+
+39
+00:02:53,320 --> 00:03:00,429
+Google, a un jour estimé que l'ensemble d'Internet
+contient environ 5 millions de téraoctets d'informations
+
+40
+00:03:00,430 --> 00:03:05,729
+, dont, a-t-il dit  , Google n'a indexé que
+0,004 %.
+
+41
+00:03:05,730 --> 00:03:10,889
+D'accord, sans compter l'énergie qu'il faut
+pour fournir Internet, l'information elle-même
+
+42
+00:03:10,890 --> 00:03:16,899
+sur Internet représente environ 5 millions de téraoctets.
+Maintenant, nous savons combien d'électrons il faut pour
+
+43
+00:03:16,900 --> 00:03:21,289
+former un seul octet et nous connaissons la masse d'
+un électron et donc avec un peu de maths,
+
+44
+00:03:21,290 --> 00:03:26,919
+vous pouvez comprendre que l'ensemble d'Internet,
+tout ce qu'il contient, ne pèse collectivement que
+
+45
+00:03:26,920 --> 00:03:33,699
+0,2 millionième d'un  once.
+Pensez-y de cette façon : chaque vidéo sur
+
+46
+00:03:33,700 --> 00:03:38,719
+YouTube, chaque vidéo sur l'ensemble du
+Web, chaque image, chaque site Web,
+
+47
+00:03:38,720 --> 00:03:42,139
+chaque e-mail que vous avez envoyé, chaque
+lettre d'amour que vous avez écrite, chaque photo de vos
+
+48
+00:03:42,140 --> 00:03:47,848
+petits-enfants  que vous avez reçu est
+détenu collectivement dans une quantité de masse de la taille
+
+49
+00:03:47,849 --> 00:03:54,878
+du plus petit grain de sable possible.
+Si vous suivez @tweetsauce sur Twitter, vous pouvez en
+
+50
+00:03:54,879 --> 00:03:56,859
+apprendre encore plus.
+Je vais partager d'autres faits là-bas que je n'ai pas
+
+51
+00:03:56,860 --> 00:03:59,979
+inclus dans cette vidéo concernant l'électricité en
+général.
+
+52
+00:03:59,980 --> 00:04:02,379
+Aimez-nous sur Facebook pour montrer que vous êtes classe.
+
+53
+00:04:02,380 --> 00:04:02,999
+Et comme toujours,
+
+54
+00:04:03,000 --> 00:04:04,420
+merci d'avoir regardé.
+

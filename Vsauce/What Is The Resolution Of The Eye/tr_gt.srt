@@ -1,0 +1,639 @@
+1
+00:00:03,639 --> 00:00:05,299
+Selam, Vsauce.  Michael burada.
+
+2
+00:00:05,300 --> 00:00:07,918
+Amerika'nın başkenti Washington'da Beyaz Saray'dayım
+
+3
+00:00:07,919 --> 00:00:11,549
+, D.C. Amerika her yıl çok sayıda
+uzun metrajlı film çekiyor -
+
+4
+00:00:11,550 --> 00:00:16,948
+Hollywood.  Ama
+her yıl en uzun metrajlı filmi yapmıyorlar.  Nijerya daha fazlasını yapıyor.
+
+5
+00:00:16,949 --> 00:00:20,489
+Ancak her yıl en çok film çeken ülke
+
+
+6
+00:00:20,490 --> 00:00:23,499
+Hindistan.  Her iki yılda bir
+
+7
+00:00:23,500 --> 00:00:27,239
+Hindistan ülkesi,
+
+
+8
+00:00:27,240 --> 00:00:30,559
+bu şehir olan
+Mumbai'den yaşadığım yer
+
+9
+00:00:30,560 --> 00:00:34,339
+olan Londra'ya kadar uzanan benzersiz uzun metrajlı filmlerle yeterince film dolduruyor.  Bu, Hollywood'un
+iki yılda ürettiğinin iki katı.
+
+10
+00:00:34,340 --> 00:00:37,899
+Bu çok fazla film ama
+
+11
+00:00:37,900 --> 00:00:44,519
+gerçek hayat bir film mi?  Daha
+önce insan gözünün kare hızından bahsetmiştim ama
+
+12
+00:00:44,520 --> 00:00:47,999
+insan gözünün çözünürlüğü bir kamera veya ekranla nasıl karşılaştırılır?
+
+13
+00:00:48,000 --> 00:00:51,488
+VHS, LaserDisc, DVD,
+
+14
+00:00:51,489 --> 00:00:57,749
+Blu-ray, IMAX.  Bunun gibi sayılar
+piksel boyutlarıdır.  Çarpıldıklarında
+
+15
+00:00:57,750 --> 00:01:01,799
+bize
+bir görüntünün toplam resim öğelerinin sayısını söylerler.
+
+16
+00:01:01,800 --> 00:01:06,029
+Genellikle dijital kameraları tanımlamak için kullanılan bir rakam
+.  Daha
+
+17
+00:01:06,030 --> 00:01:12,069
+fazlası daha iyi gibi gelebilir, ancak
+1920'ye 1080
+
+18
+00:01:12,070 --> 00:01:16,329
+gibi sayıların kendi başına çözünürlük olmadığından emin olun.
+Daha fazla piksel, denklemin yalnızca bir
+
+19
+00:01:16,330 --> 00:01:19,629
+parçasıdır.  Çözünürlük,
+
+20
+00:01:19,630 --> 00:01:23,309
+ince ayrıntıları ayırt etmekle ilgilidir ve bu, birçok başka faktöre bağlıdır.
+
+21
+00:01:23,310 --> 00:01:26,829
+Örneğin, ışık miktarı
+, sensörlerin boyutu
+
+22
+00:01:26,830 --> 00:01:30,158
+, milyonlarca pikselin gerçekte neyi
+kodladığı ve
+
+23
+00:01:30,159 --> 00:01:33,599
+öznenin ne kadar yakın olduğu.  Yani, yakından
+
+24
+00:01:33,600 --> 00:01:36,739
+Salvador Dali'nin karısının Akdeniz'e baktığı resmi,
+
+
+25
+00:01:36,740 --> 00:01:39,578
+kutulara çözülebilir.  Ama çok uzaklardan
+
+26
+00:01:39,579 --> 00:01:44,188
+, bu Abraham Lincoln.  Yüksek sesle ağlamak için
+,
+
+27
+00:01:44,189 --> 00:01:49,099
+yeterince uzaktan, yeterince küçük bir ekranda, düşük ve yüksek,
+ekranlardaki sözde çözünürlükler, gözünüzle birbirinden
+
+28
+00:01:49,100 --> 00:01:50,438
+farklı bile çözülmez
+
+29
+00:01:50,439 --> 00:01:53,119
+.
+
+30
+00:01:53,120 --> 00:01:57,059
+Yakındaki piksellerin birbirinden ne kadar farklı olduğu
+da önemlidir.  Buna
+
+31
+00:01:57,060 --> 00:01:58,529
+uzaysal çözünürlük denir.
+
+32
+00:01:58,530 --> 00:02:01,589
+Örneğin,
+
+33
+00:02:01,590 --> 00:02:06,379
+odaktan çıkarsam video karesindeki piksel sayısı
+aynı kalır ama o kadar ayrıntıyı çözemezsiniz
+
+34
+00:02:06,380 --> 00:02:09,779
+.  Şimdi, tüm bunları göz önünde bulundurarak, daha iyi bir soru sorarak
+
+35
+00:02:09,780 --> 00:02:13,628
+insan vizyonunu dijital bir görüntüyle karşılaştırabiliriz
+.
+
+36
+00:02:13,629 --> 00:02:17,869
+Diğer her şeyin optimal olduğunu varsayarsak, herhangi bir algılanabilir pikselleşme olmadan, tüm görüş alanınızı
+
+
+37
+00:02:17,870 --> 00:02:21,649
+dolduracak kadar büyük bir ekranda gerçek hayat gibi görünmesini sağlayacak kadar büyük bir görüntü yapmak için kaç piksele ihtiyacınız olur
+
+
+38
+00:02:21,650 --> 00:02:24,859
+
+
+
+39
+00:02:24,860 --> 00:02:28,559
+?  Şimdi bir yerlere varıyoruz.
+
+40
+00:02:28,560 --> 00:02:32,979
+Türü.  Analoji hala kaba,
+
+41
+00:02:32,980 --> 00:02:36,549
+çünkü bir kamera tüm kareyi
+aynı anda çekerken
+
+42
+00:02:36,550 --> 00:02:39,899
+gözlerimiz etrafta hareket ediyor.  Beyin
+
+43
+00:02:39,900 --> 00:02:43,339
+, sürekli bilgi akışını
+vizyon dediğimiz şeyle birleştirir -
+
+44
+00:02:43,340 --> 00:02:48,059
+görme.  Aslında,
+tek bir bakışta tek başına göz
+
+45
+00:02:48,060 --> 00:02:54,268
+küresinin oluşturduğu görüntü, kırık bir TV ekranında bile kabul edilemez
+.
+
+46
+00:02:54,269 --> 00:02:58,329
+Gözlerimizin, Guy'ın kamerayla beni çektiği bu resim gibi görüntüler oluşturduğunu düşünüyoruz
+.
+
+47
+00:02:58,330 --> 00:03:02,579
+Ama bir şey için, bir kameranın aksine
+
+
+48
+00:03:02,580 --> 00:03:06,049
+, yolunuza çıkan bazı şeyler var.  Örneğin,
+
+49
+00:03:06,050 --> 00:03:09,789
+her zaman kendi burnunuza ve hatta
+
+
+50
+00:03:09,790 --> 00:03:14,309
+varsa gözlüklerinize bakıyorsunuz.  Neyse ki,
+beynimiz bu uyaranları
+
+51
+00:03:14,310 --> 00:03:15,158
+işler çünkü önemli
+
+52
+00:03:15,159 --> 00:03:19,309
+değiller ve değişmezler.  Ancak
+bunların tek fark
+
+53
+00:03:19,310 --> 00:03:22,929
+olduğunu düşünmek, kelimenin tam anlamıyla,
+
+54
+00:03:22,930 --> 00:03:27,179
+latince bir tuzaktır.  Fovea, adını
+
+55
+00:03:27,180 --> 00:03:32,628
+'tuzak' için Latince'den alır.  Fovea, retinanızdaki
+
+
+56
+00:03:32,629 --> 00:03:35,949
+, görüş alanınızın merkezi iki derecesinden ışık alan, kol uzunluğunda tutulduğunda
+her iki baş parmağınızın kapladığı alan etrafındaki çukurdur
+
+57
+00:03:35,950 --> 00:03:40,649
+.  Optimum
+renk görüşü ve 20/20 keskinlik
+
+58
+00:03:40,650 --> 00:03:46,559
+yalnızca bu küçük alanda mümkündür.
+Bu sınırlamalar söz konusu olduğunda, XKCD[.com]
+
+59
+00:03:46,560 --> 00:03:48,339
+'un harika bir örneği var.
+
+60
+00:03:48,340 --> 00:03:52,408
+Kör noktalar gibi diğer sorunlara işaret eder -
+
+61
+00:03:52,409 --> 00:03:55,409
+görme
+sinirimizin retina ile buluştuğu
+
+62
+00:03:55,410 --> 00:03:58,919
+ve görsel bilgi alınmadığı vizyonumuzdaki gerçek boşluklar.
+
+63
+00:03:58,920 --> 00:04:01,958
+Bunu yapan bir kamera aldıysanız, iade ederdiniz.
+
+64
+00:04:01,959 --> 00:04:04,988
+Kendi kör noktanızı
+
+65
+00:04:04,989 --> 00:04:08,818
+, sağ gözünüzü kapatarak, sol
+gözünüzü önünüzdeki bir noktaya sabitleyerek
+
+66
+00:04:08,819 --> 00:04:11,869
+, sol baş parmağınızı uzatarak ve ardından artık orada olmayana kadar
+
+67
+00:04:11,870 --> 00:04:15,818
+ortanın soluna doğru hafifçe yavaşça hareket ettirerek bulabilirsiniz
+
+
+68
+00:04:15,819 --> 00:04:19,547
+.  Çılgın(!)
+Ama tabi ki
+
+69
+00:04:19,548 --> 00:04:24,509
+dünyayı korkunç bir şekilde görmüyoruz
+, çünkü gözlerimiz sürekli hareket ediyor,
+
+70
+00:04:24,510 --> 00:04:27,619
+foveal çözünürlüğü ihtiyacımız olan her yere sürüklüyor.
+
+71
+00:04:27,620 --> 00:04:31,909
+Beynimizin karmaşık görsel sistemi ayrıntıları doldurur
+
+72
+00:04:31,910 --> 00:04:36,839
+, iki gözden gelen görüntüleri birleştirir ve
+birçok tahminde bulunur.  Aslında gördüğümüz
+
+73
+00:04:36,840 --> 00:04:41,059
+, işlenmiş bir görüntüdür.
+Bilgisayar tarafından oluşturulan görüntüler
+
+74
+00:04:41,060 --> 00:04:45,879
+değil, et tarafından oluşturulan görüntüler.
+Neon renk yayma yanılsaması
+
+75
+00:04:45,880 --> 00:04:49,869
+, bu farkı göstermenin harika bir yoludur
+.
+
+76
+00:04:49,870 --> 00:04:53,209
+Bu resimde mavi daire yok.  Buradaki beyaz,
+
+77
+00:04:53,210 --> 00:04:56,609
+buradaki beyazla aynı.  Bir
+
+78
+00:04:56,610 --> 00:04:59,668
+kamera aldanmaz, bir ekran aldanmaz, sadece
+
+79
+00:04:59,669 --> 00:05:03,869
+siz ve
+algı dediğiniz uçucu maddelerden oluşan bamya
+
+80
+00:05:03,870 --> 00:05:07,079
+kanar.
+
+81
+00:05:07,080 --> 00:05:13,049
+Görüşümüz bir kameraya benzemiyor.  Ancak
+yeniden formüle edilmiş sorumuz yine de
+
+82
+00:05:13,050 --> 00:05:18,249
+yanıtlanabilir, çünkü insan anatomisi
+belirli açısal mesafeleri çözmemize, ayırt etmemize izin verir
+
+83
+00:05:18,250 --> 00:05:21,769
+.  Ünlü olarak, Roger N.Clark
+
+84
+00:05:21,770 --> 00:05:26,899
+
+,
+
+85
+00:05:26,900 --> 00:05:30,009
+toplam görüş alanımızın boyutuna dayanarak,
+
+
+86
+00:05:30,010 --> 00:05:34,179
+bu farklı öğelerden kaçının
+içine sığabileceğini hesaplamak için insan gözünün çözünürlüğü olarak 0,59 yay dakikası rakamını kullandı.
+
+87
+00:05:34,180 --> 00:05:37,639
+Sonuç,
+tam olarak bilmek istediğimiz şeyin bir tahminiydi: görüşümüzün takdir edebileceği
+
+88
+00:05:37,640 --> 00:05:42,908
+kaç ayrı resim öğesi -
+piksel -.
+
+89
+00:05:42,909 --> 00:05:47,979
+Cevabı mı?  576 megapiksel.
+
+90
+00:05:47,980 --> 00:05:55,009
+Yakınlığınızdan bağımsız olarak tüm görüş alanınızı
+dolduracak kadar büyük bir ekranın içine yerleştirilmiş bu kadar çok piksel, ortalama insan gözünün
+
+91
+00:05:55,010 --> 00:05:58,239
+algılayamayacağı kadar yakın olacaktır
+
+
+92
+00:05:58,240 --> 00:06:02,129
+.  Ama foveayı hesaba katmalıyız,
+
+93
+00:06:02,130 --> 00:06:06,129
+çünkü Clark'ın hesaplaması
+her yerde optimal keskinliği varsayar, gözün hareket etmesine izin verir
+
+94
+00:06:06,130 --> 00:06:07,478
+.
+
+95
+00:06:07,479 --> 00:06:13,478
+Ancak tek bir bakış,
+bir kamera görüntüsüne daha çok benziyor ve ortaya çıktığı gibi,
+
+96
+00:06:13,479 --> 00:06:17,478
+
+
+
+97
+00:06:17,479 --> 00:06:20,629
+sabit bir bakış sırasında foveanın kapladığı iki optimal keskinlik derecesinde paketlenmiş sadece yaklaşık 7 megapikselin
+
+98
+00:06:20,630 --> 00:06:25,199
+saptanamaz hale getirilmesi gerekiyor.
+
+
+99
+00:06:25,200 --> 00:06:27,478
+Görüş alanınızın geri kalanının yalnızca yaklaşık
+
+100
+00:06:27,479 --> 00:06:32,718
+1 megapiksel daha fazla bilgiye ihtiyaç duyacağı kabaca tahmin edildi.  Şimdi bu
+kulağa düşük gelebilir, ancak
+
+101
+00:06:32,719 --> 00:06:36,288
+
+piksel yoğunluklarını
+
+102
+00:06:36,289 --> 00:06:41,209
+ayırt edebileceğimizden daha iyi kullanan birçok modern teknoloji olduğunu unutmayın.
+Bad Astronomer'ın ustaca gösterdiği gibi,
+
+103
+00:06:41,210 --> 00:06:45,269
+Apple'ın Retina Ekranları gerçekten de
+
+
+104
+00:06:45,270 --> 00:06:48,468
+ortalama görme yeteneğinin tipik okuma mesafelerinden ayırt edemediği bir yoğunlukta pikseller içeriyor
+
+105
+00:06:48,469 --> 00:06:53,009
+.  Ancak insan gözünü yanıltabilecek
+ekran boyutları ve piksel
+
+106
+00:06:53,010 --> 00:06:57,999
+yoğunluklarının olması,
+
+107
+00:06:58,000 --> 00:07:01,819
+hiçbir şekilde megapiksel olarak gördüğümüzün bir işareti değil.  İnsan görüşü
+
+108
+00:07:01,820 --> 00:07:07,348
+o kadar da dijital değil.  Yani, elbette, tıpkı bir
+kamera sensörü gibi, retinamızda sadece sınırlı
+
+109
+00:07:07,349 --> 00:07:10,439
+ve ayrık sayıda hücremiz var.
+
+110
+00:07:10,440 --> 00:07:14,668
+Ancak beyin, ilk
+duyumlarımızı
+
+111
+00:07:14,669 --> 00:07:18,158
+, isteksiz, yukarıdan aşağıya işlenmiş bir deneyim bloğu olan son bir
+
+112
+00:07:18,159 --> 00:07:21,579
+algıya ayarlar.  Piksellerden oluşmamıştır
+
+113
+00:07:21,580 --> 00:07:26,379
+ve ayrıca bir kameranın aksine,
+bir dijital kamera dosyası gibi belleğe doğrulukla kaydedilmemiştir
+
+114
+00:07:26,380 --> 00:07:27,819
+.
+
+115
+00:07:27,820 --> 00:07:32,598
+Gerçek bir fotoğrafik hafızanın varlığına dair kesinlikle hiçbir kanıt
+bulunamadı
+
+116
+00:07:32,599 --> 00:07:37,228
+.  Daha da
+güzeli
+
+117
+00:07:37,229 --> 00:07:40,228
+, gerçek dünyayı bir film kamerası gibi görsel olarak çözmemekle kalmıyoruz,
+
+118
+00:07:40,229 --> 00:07:45,598
+aynı zamanda
+
+
+119
+00:07:45,599 --> 00:07:50,008
+çoğu film senaryosunda olduğu gibi hayatımızdaki çatışma ve dramaları anlatısal olarak da çözmüyoruz.
+Tüm bunların amacı, ulaştığım
+
+120
+00:07:50,009 --> 00:07:53,698
+şey bir fikir.  Başlangıçta beni bu soruya çeken bir fikir.
+
+121
+00:07:53,699 --> 00:07:56,728
+Hayat filminde rol oynuyoruz
+
+122
+00:07:56,729 --> 00:08:01,788
+ama bu özel bir film türü.
+Sinematik zaferler ve mücadeleler genellikle
+
+123
+00:08:01,789 --> 00:08:07,019
+pikseller gibi ayrıktır, çözümlenir ve
+inanılmaz derecede mükemmel başlangıç ve bitişlere sahiptir, oysa 
+
+124
+00:08:07,020 --> 00:08:11,779
+erçek dünya tamamen kulak çözünürlüğü ile ilgil
+
+125
+00:08:11,780 --> 00:08:15,299
+dir.  Jack Angstreich'in bunu 'Cinemania'ya koymasını seviyorum.
+
+126
+00:08:15,300 --> 00:08:19,698
+Bir filmde, bir karakter bir karar verebilir
+ve
+
+127
+00:08:19,699 --> 00:08:26,619
+sonra caddenin karşısındaki kameradan uzaklaşabilir ve kredilerin
+yuvarlanmasını sağlayabilir, hayatı sonsuza dek mutlu bir şekilde dondurabilir.
+
+128
+00:08:26,620 --> 00:08:32,098
+Ama gerçek dünyada,
+caddeyi geçtikten
+
+129
+00:08:32,099 --> 00:08:35,697
+sonra eve gitmelisin.  Dünya devam ediyor.
+
+130
+00:08:35,698 --> 00:08:39,918
+Hayat, belirli bir piksel çözünürlüğünde
+
+131
+00:08:39,919 --> 00:08:43,088
+veya anlatı çözünürlüğünde görünmez.  Şeyler
+
+132
+00:08:43,089 --> 00:08:47,818
+süreklidir.  Dünya sen gelmeden önce koşuyordu
+ve
+
+133
+00:08:47,819 --> 00:08:52,338
+sen gittikten sonra da koşmaya devam edecek.  Hayatınız ancak
+
+
+134
+00:08:52,339 --> 00:08:55,689
+başlayıp bittiği ve medias res'de gerçekleştiği sürece bir olay örgüsüdür.
+
+135
+00:08:55,690 --> 00:08:58,749
+Damerish,
+Charles McGrath'ın sonları
+
+136
+00:08:58,750 --> 00:09:03,139
+olmayan sonları için illüstrasyonu açar, bunu mükemmel bir şekilde söylüyor.  Hayatta,
+
+137
+00:09:03,140 --> 00:09:05,448
+nadiren son vardır.
+
+138
+00:09:05,449 --> 00:09:06,948
+Sadece ve var.
+
+139
+00:09:06,949 --> 00:09:08,128
+Ve her zamanki gibi,
+
+140
+00:09:08,129 --> 00:09:09,489
+izlediğiniz için teşekkürler.
+

@@ -1,0 +1,1322 @@
+1
+00:00:00,020 --> 00:00:04,839
+Salut, c'est Michael de Vsauce... ici, en bas.
+
+2
+00:00:04,840 --> 00:00:07,879
+Mais vers où est le bas ?
+
+3
+00:00:07,880 --> 00:00:14,939
+Et combien le bas pèse ? Et bien le duvet (DOWN = BAS et aussi DUVET...) pèse 1 centième de gramme par centimètre cube.
+
+4
+00:00:14,940 --> 00:00:20,379
+C'est léger et plein d'air, ce qui en fait un bon isolant et bon flotteur pour les oiseaux aquatiques.
+
+5
+00:00:20,380 --> 00:00:23,099
+Mais, si on le lâche...
+
+6
+00:00:23,100 --> 00:00:24,859
+il tombe... en bas.
+
+7
+00:00:24,860 --> 00:00:27,039
+Donc le bas est vers là.
+
+8
+00:00:27,040 --> 00:00:29,279
+C'est la direction vers laquelle la gravité attire tout.
+
+9
+00:00:29,280 --> 00:00:31,279
+Mais, pour quelqu'un de l'autre côté de la Terre
+
+10
+00:00:31,280 --> 00:00:33,099
+mon "bas" est son "haut"
+
+11
+00:00:33,100 --> 00:00:37,239
+Du coup, où vont les choses qui tombent ?
+
+12
+00:00:37,240 --> 00:00:44,379
+Pourquoi tombent-elles ? Sont-elles poussées ou tirées ?  ou... Est-ce à cause du voyage dans le temps ?
+
+13
+00:00:44,380 --> 00:00:49,159
+Bon, déjà commençons par transformer le Soleil en un trou noir.
+
+14
+00:00:49,160 --> 00:00:54,499
+On peut le faire en utilisant "Universe Sandbox 2". Cette simulation va vous faire halluciner.
+
+15
+00:00:54,500 --> 00:00:55,879
+Je l'adore. En fait je l'adore tellement
+
+16
+00:00:55,880 --> 00:00:59,299
+que j'ai mis un code pour l'avoir gratuitement dans la "curiosity box" du moment.
+
+17
+00:00:59,300 --> 00:01:02,199
+Si vous n'êtes pas encore abonné à la boîte, vous ratez un truc !
+
+18
+00:01:02,200 --> 00:01:06,799
+Bon, pour cette vidéo, on veut le système solaire
+
+19
+00:01:06,800 --> 00:01:10,419
+et le voici. Remarquez que les planètes tournent assez vite autour du Soleil.
+
+20
+00:01:10,420 --> 00:01:14,619
+C'est parce que le jeu est actuellement réglé pour que chaque seconde écoulée
+
+21
+00:01:14,620 --> 00:01:18,819
+représente 14 jours dans le jeu. Si je change
+
+22
+00:01:18,820 --> 00:01:20,739
+à 1sec = 1sec dans le jeu
+
+23
+00:01:20,740 --> 00:01:23,579
+Le jeu montre le système solaire en temps réel.
+
+24
+00:01:23,580 --> 00:01:29,499
+On dirait qu'il s'est arrêtée. Même si la Terre tourne autour du Soleil à 30km par seconde,
+
+25
+00:01:29,500 --> 00:01:34,179
+on la voit à peine bouger, voilà à quel point l'espace est immense !
+
+26
+00:01:34,180 --> 00:01:37,559
+Peu importe remettons à 1sec=14j, je préfère, et regardez le Soleil.
+
+27
+00:01:37,560 --> 00:01:43,379
+Ce n'est pas un trou noir, mais on va changer ça. Pour ça, on doit le comprimer.
+
+28
+00:01:43,380 --> 00:01:49,299
+Donc on verrouille sa masse pour qu'elle ne change pas pendant qu'on rétrécie son rayon.
+
+29
+00:01:49,300 --> 00:01:52,579
+On va le rétrécir au minimum possible.
+
+30
+00:01:52,580 --> 00:01:59,139
+Et... oh, où est-il parti ? Ah non, il est toujours là, il est juste devenu un TROU NOIR
+
+31
+00:01:59,140 --> 00:02:06,159
+Plutôt flippant, mais si on regarde le reste du système solaire... Ok, on dézoome...
+
+32
+00:02:06,160 --> 00:02:07,959
+et ... hein..
+
+33
+00:02:07,960 --> 00:02:09,719
+rien n'a changé.
+
+34
+00:02:09,720 --> 00:02:12,979
+Je veux dire, ça a changé, c'est plus froid et plus sombre.
+
+35
+00:02:12,980 --> 00:02:16,539
+Mais les mouvements n'ont pas changé, et rien n'est aspiré dedans.
+
+36
+00:02:16,540 --> 00:02:20,559
+En rapetissant le Soleil, on n'a pas changé la direction du "BAS" pour les planètes
+
+37
+00:02:20,560 --> 00:02:25,659
+Elles sont toujours attirées par la gravité vers son centre, et le rendre plus petit n'a pas changé l'endroit où était ce centre.
+
+38
+00:02:25,660 --> 00:02:30,859
+Mais aussi, l'intensité de cette force, les attirant vers le centre du Soleil,
+
+39
+00:02:30,860 --> 00:02:32,259
+est restée la même.
+
+40
+00:02:32,260 --> 00:02:38,708
+Ca nous donne un indice sur ce que veut dire BAS car rien n'a changé et nous n'avons pas changé ...
+
+41
+00:02:38,709 --> 00:02:40,268
+la masse.
+
+42
+00:02:40,269 --> 00:02:43,259
+La masse est une mesure de combien il est difficile d'accélérer
+
+43
+00:02:43,260 --> 00:02:50,259
+quelque chose pour changer son mouvement. Ces deux boules sont fixes.
+
+44
+00:02:50,260 --> 00:02:54,339
+claquer la boule en plastique creuse
+
+45
+00:02:54,340 --> 00:03:01,419
+c'est facile. Mais avec la boule en acier..hugh..
+
+46
+00:03:01,420 --> 00:03:03,339
+c'est pas la même..
+
+47
+00:03:03,340 --> 00:03:06,479
+la gravité et le poids n'y sont pour rien
+
+48
+00:03:06,480 --> 00:03:10,679
+la gravité agit vers le bas, pas contre les claques que je mets.
+
+49
+00:03:10,680 --> 00:03:16,599
+bien sur la gravité implique les frottements qui empêchent aussi la boule de se déplacer facilement.
+
+50
+00:03:16,600 --> 00:03:19,018
+mais les frottements m'aident à ralentir la boule.
+
+51
+00:03:19,019 --> 00:03:23,078
+et la boule en acier est plus dure à arrêter que celle en plastique.
+
+52
+00:03:23,079 --> 00:03:27,149
+Ce qui explique ça c'est la masse : la boule en acier à une plus grande masse.
+
+53
+00:03:27,150 --> 00:03:32,379
+elle résiste plus à un changement de mouvement. La masse est intrinsèque à la boule.
+
+54
+00:03:32,380 --> 00:03:41,239
+La masse ne dépend pas de ce qu'il y a autour ni du lieu. On peut en gros dire que masse = quantité de matière
+
+55
+00:03:41,240 --> 00:03:47,999
+La masse ne change pas qu'on soit sur Terre, la Lune ou dans l'espace
+
+56
+00:03:48,000 --> 00:03:53,828
+Mais quand même : la masse a l'air de se soucier de l'environnement.
+
+57
+00:03:53,829 --> 00:03:57,158
+la masse aime la compagnie.
+
+58
+00:03:57,159 --> 00:04:03,599
+Les trucs qui ont une masse (ou une énergie E=mc2) s'attirent via une force qu'on appelle gravité
+
+59
+00:04:03,600 --> 00:04:08,659
+Sentir la gravité c'est juste toi et la Terre qui vous attirez.
+
+60
+00:04:08,660 --> 00:04:16,859
+Chaque petit morceau d'un objet attire les autres morceaux vers lui. Au global ça revient à une attraction entre
+
+61
+00:04:16,860 --> 00:04:19,039
+les centres de gravité.
+
+62
+00:04:19,040 --> 00:04:24,799
+Des trucs immenses comme la Terre nous attirent fortement et ça se sent bien... mais en fait ça marche pour tout
+
+63
+00:04:24,800 --> 00:04:36,159
+même une balle ! Ces 2 balles sont en train de s'attirer via leur propre gravité
+
+64
+00:04:36,160 --> 00:04:43,239
+mais leur gravité est si faible qu'on ne voit rien : les frottements sur la table, dans l'air sont trop forts
+
+65
+00:04:43,240 --> 00:04:44,888
+elles ne se rapprocheront jamais
+
+66
+00:04:44,889 --> 00:04:52,019
+MAIS ! si on met 2 balles à 1m d'écart dans l'espace loin de tout
+
+67
+00:04:52,020 --> 00:04:57,119
+elles se rapprocheraient et se rentreraient dedans
+
+68
+00:04:57,120 --> 00:05:01,599
+il faudrait attendre 3 jours pour voir ça mais ça marcherait.
+
+69
+00:05:01,600 --> 00:05:08,319
+Isaac Newton a compris que la force entre les 2 objets est égale au produit de leurs masses
+
+70
+00:05:08,320 --> 00:05:15,788
+divisé par le carré de leur éloignement, tout ça multiplié par G  : la constante de gravitation
+
+71
+00:05:15,789 --> 00:05:21,009
+Si on augment la masse d'un des objets ou si on les rapproche,
+
+72
+00:05:21,010 --> 00:05:26,049
+la force augmente. Cette force est le POIDS
+
+73
+00:05:26,050 --> 00:05:31,459
+Donc la masse est constante tandis que le poids dépend de l'environnement.
+
+74
+00:05:31,460 --> 00:05:35,419
+Quand on se pèse c'est bizarre
+
+75
+00:05:35,420 --> 00:05:39,649
+Le poids est une force, mais la balance affiche la masse en kg
+
+76
+00:05:39,650 --> 00:05:42,939
+kg = unité de la  MASSE... Ca veut dire quoi ??
+
+77
+00:05:42,940 --> 00:05:44,839
+une balance est
+
+78
+00:05:44,840 --> 00:05:46,699
+activée par une force
+
+79
+00:05:46,700 --> 00:05:47,289
+n'importe quelle force
+
+80
+00:05:47,290 --> 00:05:52,249
+pas forcément la gravité. La balance affiche ensuite quelle masse
+
+81
+00:05:52,250 --> 00:05:57,949
+produirait la même force sur Terre.
+
+82
+00:05:57,950 --> 00:06:04,039
+Vu que de toute façon on se pèse sur Terre pour mesurer la masse de gens qui ne sont attirés que par la gravité
+
+83
+00:06:04,040 --> 00:06:12,939
+c'est pas très grave. Mais on peut leur faire afficher n'importe quoi, et elles n'aident pas à comprendre la différence POIDS/MASSE
+
+84
+00:06:12,940 --> 00:06:20,799
+Remarquez que le poids fonctionne dans les 2 sens : vous êtes tirés vers la Terre autant que vous tirez la Terre vers vous.
+
+85
+00:06:20,800 --> 00:06:22,239
+Du point de vue de la balance
+
+86
+00:06:22,240 --> 00:06:30,759
+je pèse 81kg sur Terre
+
+87
+00:06:30,760 --> 00:06:36,699
+et la Terre  pèse 81kg sur moi !
+
+88
+00:06:36,700 --> 00:06:41,559
+mais comme la Terre est bien plus lourde que moi
+
+89
+00:06:41,560 --> 00:06:46,799
+et que plus on a de masse plus on résiste au mouvement.
+
+90
+00:06:46,800 --> 00:06:51,159
+mon poids me fait beaucoup plus accélérer vers elle que la Terre n'accélère vers moi.
+
+91
+00:06:51,160 --> 00:06:58,319
+Si on lâche un crayon d'une hauteur de 2m il n'y a pas que lui qui "tombe"
+
+92
+00:06:58,320 --> 00:07:01,259
+Ils tombent tous les deux l'un vers l'autre
+
+93
+00:07:01,260 --> 00:07:03,719
+ils sont attirés par des forces (poids) égales
+
+94
+00:07:03,720 --> 00:07:06,239
+mais cette force bouge le crayon
+
+95
+00:07:06,240 --> 00:07:13,359
+carrément plus que la Terre même si elle est aussi tirée vers le haut par le crayon.
+
+96
+00:07:13,360 --> 00:07:17,459
+La Terre bouge d'une mini distance de 1/9 000 000 000 000 000 000eme
+
+97
+00:07:17,460 --> 00:07:20,169
+de la taille d'un proton
+
+98
+00:07:20,170 --> 00:07:26,589
+Il reste au crayon à parcourir le reste.. soit 2m.
+
+99
+00:07:26,590 --> 00:07:33,069
+A l'altitude de la Station spatiale (ISS), la poids est réduit (plus loin).
+
+100
+00:07:33,070 --> 00:07:39,819
+de 10% environ par rapport au niveau de la mer. Moins de gravité, mais pas ZERO.
+
+101
+00:07:39,820 --> 00:07:47,469
+donc les astronautes flottants de l'ISS ne sont pas sans poids, ni sans gravité
+
+102
+00:07:47,470 --> 00:07:51,969
+leur poids les fait aussi tomber vers la Terre, mais ils se déplacent
+
+103
+00:07:51,970 --> 00:07:58,299
+à l'horizontale si rapidement qu'ils "tombent" aussi vite que le sol "descend" sous leurs pieds
+
+104
+00:07:58,300 --> 00:08:03,189
+et même s'ils sont soumis à 90% de la gravité que nous sentons en ce moment vous et moi
+
+105
+00:08:03,190 --> 00:08:04,749
+ce qui explique qu'ils restent en orbite
+
+106
+00:08:04,750 --> 00:08:12,319
+Il n'y aucune force (g-force) pour résister à leur poids vu que tout ce qu'il y a autour d'eux tombe aussi.
+
+107
+00:08:12,320 --> 00:08:17,039
+c'est cette résistance au poids,
+
+108
+00:08:17,040 --> 00:08:20,079
+cette déformation, qui est nécessaire pour ressentir le poids.
+
+109
+00:08:20,080 --> 00:08:26,349
+en fait, ce qui manque aux astronautes, c'est le poids apparent.
+
+110
+00:08:26,350 --> 00:08:29,459
+Même un ballon d'hélium a un poids
+
+111
+00:08:29,460 --> 00:08:36,028
+Ben oui, c'est de la matière : il a une masse, donc il est attiré par la Terre ( et attire la Terre)
+
+112
+00:08:36,029 --> 00:08:41,009
+pesons -le !
+
+113
+00:08:41,010 --> 00:08:43,978
+hey !
+
+114
+00:08:43,979 --> 00:08:46,889
+bon, il a un poids apparent négatif
+
+115
+00:08:46,890 --> 00:08:52,859
+simplement parce que la force poids est plus faible que la poussée d'Archimède due à l'air autour de lui qui le pousse vers le haut.
+
+116
+00:08:52,860 --> 00:08:54,499
+pendant qu'il monte
+
+117
+00:08:54,500 --> 00:09:02,278
+il pousse l'air vers le bas, cet air appuie vers le bas mais partout : pas seulement sur la balance
+
+118
+00:09:02,279 --> 00:09:08,189
+la poussée d'Archimède apparaît chaque fois qu'on est dans un fluide comme l'eau, l'air, etc.
+
+119
+00:09:08,190 --> 00:09:10,979
+Les molécules du fluide qui sont en bas subissent une plus grande pression :
+
+120
+00:09:10,980 --> 00:09:13,439
+elles sont écrasées par les molécules au dessus d'elles.
+
+121
+00:09:13,440 --> 00:09:17,519
+De plus, elles sont plus proches de la Terre, et subissent une plus grande force d'attraction.
+
+122
+00:09:17,520 --> 00:09:22,399
+Maintenant, subir plus de pression signifie que les molécules tapent plus fort sur les objets.
+
+123
+00:09:22,400 --> 00:09:23,458
+donc
+
+124
+00:09:23,459 --> 00:09:25,619
+horizontalement, les chocs des 2 côtés s'annulent (même pression car même hauteur)
+
+125
+00:09:25,620 --> 00:09:32,549
+mais à la verticale : l'air du bas tape plus fort que celui du haut : le ballon monte.
+
+126
+00:09:32,550 --> 00:09:38,609
+Ça marche sur nous aussi : l'air nous pousse vers le haut avec une force d'à peu près 1Newton... comme le poids d'une pomme par exemple.
+
+127
+00:09:38,610 --> 00:09:45,838
+comme le poids d'une pomme par exemple. Donc si on se pesait dans une pièce vide : on pèserait 1 pomme plus lourd.
+
+128
+00:09:45,839 --> 00:09:48,269
+ 
+
+129
+00:09:48,270 --> 00:09:54,678
+ce n'est pas tout : la Terre tourne et donc s'étale un peu à l'équateur. Plus on s’approche de l'équateur
+
+130
+00:09:54,679 --> 00:10:01,199
+plus on s'éloigne du centre de gravité et moins on a de poids
+
+131
+00:10:01,200 --> 00:10:04,289
+le "BAS" change tout le temps
+
+132
+00:10:04,290 --> 00:10:11,249
+où est le centre de gravité de la Terre ? Ce serait le centre si la Terre était homogène
+
+133
+00:10:11,250 --> 00:10:18,379
+mais la Terre n'est pas homogène : plaques, eaux souterraines, océans, montagnes..
+
+134
+00:10:18,380 --> 00:10:24,239
+l'intérieur bouge, la glace fond et réapparaît. Même si tout ça est loin,
+
+135
+00:10:24,240 --> 00:10:31,708
+la gravité a une longue portée donc la Lune, le Soleil, les planètes, tout ça nous tire
+
+136
+00:10:31,709 --> 00:10:32,819
+pas beaucoup
+
+137
+00:10:32,820 --> 00:10:39,679
+mais quand même : on pèse 1 millionième de de notre poids en moins quand on est pile sous la Lune
+
+138
+00:10:39,680 --> 00:10:47,199
+Ces variations de la Terre, Lune... impliquent que le bas
+
+139
+00:10:47,200 --> 00:10:49,199
+change toujours.
+
+140
+00:10:49,200 --> 00:10:51,099
+En plus, la Terre qui tourne
+
+141
+00:10:51,100 --> 00:10:57,039
+change la direction du bas car elle nous propulse vers l’extérieur
+
+142
+00:10:57,040 --> 00:11:01,919
+pour donner un poids apparent plus faible qui a changé de direction.
+
+143
+00:11:01,920 --> 00:11:03,199
+(décalé vert l'équateur)
+
+144
+00:11:03,200 --> 00:11:08,159
+Résultat : à l'équateur on se sent environ 0.5% plus léger.
+
+145
+00:11:08,160 --> 00:11:13,119
+Si une balance affiche une masse de 91kg aux pôles,
+
+146
+00:11:13,120 --> 00:11:16,639
+elle affichera une masse de 90kg à l'équateur.
+
+147
+00:11:16,640 --> 00:11:25,208
+Le coefficient g = 9,8 est calculé pour une personne située à 45° de latitude.
+
+148
+00:11:25,209 --> 00:11:30,819
+toutes ces fluctuations sur la direction du "BAS" résultent en une déflexion verticale
+
+149
+00:11:30,820 --> 00:11:35,049
+qui ne sont au max que de quelques secondes d'angle sur Terre
+
+150
+00:11:35,050 --> 00:11:42,429
+mais ça permet quand même de déduire la topologie des fonds marins
+
+151
+00:11:42,430 --> 00:11:48,398
+connaître le sous-sol ou découvrir d'anciennes structures enterrées.
+
+152
+00:11:48,399 --> 00:11:54,578
+Tous nos "BAS" ne sont donc pas des rayons bien droits.
+
+153
+00:11:54,579 --> 00:11:57,539
+Le "BAS" est un beau mer..dier
+
+154
+00:11:57,540 --> 00:12:04,439
+comme les solides sont solides.. ils ne sentent pas trop ces variations, mais l'eau oui
+
+155
+00:12:04,440 --> 00:12:12,819
+donc, si on oublie le vent ou les marées, les surface d'eau doivent être perpendiculaires aux lignes de "BAS"
+
+156
+00:12:12,820 --> 00:12:17,319
+si la Terre était entièrement recouverte d'eau
+
+157
+00:12:17,320 --> 00:12:21,779
+la gravité serait la même tout au long de sa surface bosselée
+
+158
+00:12:21,780 --> 00:12:26,699
+surface appelée GÉOÏDE. On peut en faire à n'importe quelle hauteur
+
+159
+00:12:26,700 --> 00:12:32,458
+si on voulait une table bien horizontale
+
+160
+00:12:32,459 --> 00:12:35,889
+la table aurait des bosses de près de100mètres !
+
+161
+00:12:35,890 --> 00:12:40,239
+pour qu'une bille ne roule pas sur la table.
+
+162
+00:12:40,240 --> 00:12:44,109
+ceci est une géoïde de la Terre (exagérée 1000fois)
+
+163
+00:12:44,110 --> 00:12:48,179
+vous pèseriez 1/100ème de % de moins ici (quelques grammes)
+
+164
+00:12:48,180 --> 00:12:54,258
+que par exemple ici, où la gravité est plus forte. Pour résumer l'intensité et la direction du BAS
+
+165
+00:12:54,259 --> 00:12:59,488
+est variable suivant le lieu et le temps.
+
+166
+00:12:59,489 --> 00:13:04,738
+donc le BAS c'est un vecteur variable ! Oui et bien, c'est pas compliqué..
+
+167
+00:13:04,739 --> 00:13:09,539
+mais pourquoi la matière attire la matière au fait?
+
+168
+00:13:09,540 --> 00:13:14,399
+Newton a réussi a décrire et calculer la gravité, mais sans l'expliquer
+
+169
+00:13:14,400 --> 00:13:19,679
+mais on a mieux compris quand Albert Einstein a publié sa théorie de relativité générale
+
+170
+00:13:19,680 --> 00:13:24,559
+Einstein a pas mal réfléchi au fait que tous les objets tombent vers le sol
+
+171
+00:13:24,560 --> 00:13:27,599
+à la même vitesse, peu importe la masse de l'objet,
+
+172
+00:13:27,600 --> 00:13:35,439
+quand il tombe, il accélère toujours vers la Terre en gagnant 9,8 m/s pour chaque seconde de chute.
+
+173
+00:13:35,440 --> 00:13:39,359
+Ça veut dire qu'un marteau (plutôt lourd)
+
+174
+00:13:39,360 --> 00:13:47,839
+et une plume (pas très lourde) lâchés d'une même hauteur au même moment toucheront le sol en même temps.
+
+175
+00:13:47,840 --> 00:13:50,278
+ok, ce qui vient de se produire
+
+176
+00:13:50,279 --> 00:13:51,988
+est une AIRreur...
+
+177
+00:13:51,989 --> 00:13:53,038
+(ahaha)
+
+178
+00:13:53,039 --> 00:13:56,539
+pour tomber, l'objet doit traverser l'air devant lui
+
+179
+00:13:56,540 --> 00:14:01,879
+Mais s'il a une grande surface et un faible poids, il aura beaucoup d'air à bouger avec une faible force
+
+180
+00:14:01,880 --> 00:14:08,339
+ce qui lui prendra du temps. Dans le vide ça marche. Tout tombe à la même vitesse peu importe la masse.
+
+181
+00:14:08,340 --> 00:14:13,719
+Voir la vidéo de David Scott (Apollo 15) qui le démontre sur la Lune.
+
+182
+00:14:13,720 --> 00:14:21,379
+"je vais les lâcher en même temps, et normalement ils devraient toucher le sol en même temps. Vous voyez !"
+
+183
+00:14:21,380 --> 00:14:27,139
+C'est bizarre, non? Si un objet lourd est tiré avec une plus grande force (poids)
+
+184
+00:14:27,140 --> 00:14:31,399
+ne devrait-il pas tomber plus vite? D'après Newton c'est simple :
+
+185
+00:14:31,400 --> 00:14:34,588
+Le plus grandes masses sont plus attirées,
+
+186
+00:14:34,589 --> 00:14:39,919
+mais demandent aussi une plus grande force pour les accélérer autant que les objets légers.
+
+187
+00:14:39,920 --> 00:14:44,719
+Un truc 100 fois plus lourd demande 100 fois la force,
+
+188
+00:14:44,720 --> 00:14:52,479
+mais la gravité le tire 100 fois plus. Donc tout tombe à la même vitesse.
+
+189
+00:14:52,480 --> 00:14:56,959
+Quelle drôle de coïncidence, non ?
+
+190
+00:14:56,960 --> 00:14:58,719
+Je ne crois pas
+
+191
+00:14:58,720 --> 00:15:01,439
+Einstein a compris qu'il y a une autre façon de voir que
+
+192
+00:15:01,440 --> 00:15:05,398
+tous les objets semblent tomber ensemble peu importe leur masse.
+
+193
+00:15:05,399 --> 00:15:13,318
+Imaginez une plume et un marteau flottant dans l'espace, dans une pièce qui serait tout à coup accélérée à 9,8m/s/s.
+
+194
+00:15:13,319 --> 00:15:18,719
+et bien ils toucheront le sol de la pièce en même temps.
+
+195
+00:15:18,720 --> 00:15:24,659
+De plus, que ce soit la pièce qui "monte", ou les objets qui tombent sous l'effet d'une gravité
+
+196
+00:15:24,660 --> 00:15:28,079
+aucun objet ne sentira de force les tirer.
+
+197
+00:15:28,080 --> 00:15:32,999
+Il n'y a aucun moyen de distinguer les deux cas (boîte sans fenêtres..)
+
+198
+00:15:33,000 --> 00:15:35,398
+C'est le fameux PRINCIPE D’ÉQUIVALENCE d'Einstein.
+
+199
+00:15:35,399 --> 00:15:39,839
+Il a révélé que sa plus heureuse idée fut celle d'un homme
+
+200
+00:15:39,840 --> 00:15:42,639
+chutant d'un toit.
+
+201
+00:15:42,640 --> 00:15:49,279
+Pendant sa chute, l'homme ne sentira aucune force sur lui. Quand bien même il accélèrerait,
+
+202
+00:15:49,280 --> 00:15:57,679
+être en chute libre ne diffère pas de flotter seul dans l'espace sans subir aucune force, sans être bougé.
+
+203
+00:15:57,680 --> 00:16:03,799
+Et si la gravité n'était pas une force finalement. Si tomber ce n'était ni être tiré ou poussé
+
+204
+00:16:03,800 --> 00:16:08,559
+mais justement ne pas être poussé ou tiré ?
+
+205
+00:16:08,560 --> 00:16:13,639
+Pour comprendre, on doit parler de ligne droite
+
+206
+00:16:13,640 --> 00:16:17,799
+j'ai ici un porte badge zip
+
+207
+00:16:17,800 --> 00:16:20,699
+un bon moyen de tester les lignes droites
+
+208
+00:16:20,700 --> 00:16:23,619
+car la ficelle est toujours tendue
+
+209
+00:16:23,620 --> 00:16:26,748
+j'ai tracé 2 lignes sur la carte derrière
+
+210
+00:16:26,749 --> 00:16:32,059
+si, quand je tire la ficelle, elle reste entre les 2 lignes
+
+211
+00:16:32,060 --> 00:16:35,219
+je saurai que je suis resté droit.
+
+212
+00:16:35,220 --> 00:16:41,419
+en tirant la ficelle car chaque virage fera un angle visible.
+
+213
+00:16:41,420 --> 00:16:47,398
+si j'en mets 2 sur une table et que je tire aussi droit que possible
+
+214
+00:16:47,399 --> 00:16:55,798
+les ficelles ne se croiseront jamais : elles sont parallèles ! Mais voyons sur une sphère : une surface courbée
+
+215
+00:16:55,799 --> 00:17:03,058
+j'essaie à nouveau de tirer bien droit grâce aux lignes sur la carte
+
+216
+00:17:03,059 --> 00:17:06,129
+mais ... elles se sont croisées !
+
+217
+00:17:06,130 --> 00:17:08,709
+pourtant regardez, elles n'ont pas tourné !
+
+218
+00:17:08,710 --> 00:17:16,399
+peut être qu'une force mystérieuse a poussé mes mains sans que je le sente, comme une sorte de gravité
+
+219
+00:17:16,400 --> 00:17:17,559
+NON
+
+220
+00:17:17,560 --> 00:17:23,838
+Ce qui s'est passé n'est pas du à une force. C'est juste le résultat normal de la COURBURE.
+
+221
+00:17:23,839 --> 00:17:30,639
+Vous pourriez penser : "Est-ce vraiment droit ? Ça ne me paraît pas très droit.
+
+222
+00:17:30,640 --> 00:17:38,439
+et puis si on avait suivi les latitudes, elles ne se seraient jamais croisées : elles auraient eu l'air carrément droites."
+
+223
+00:17:38,440 --> 00:17:46,259
+Ben elles ne le sont pas. une ligne droite ne tourne pas. Les latitudes ont l'air droites,
+
+224
+00:17:46,260 --> 00:17:49,479
+mais en suivre une demande de TOURNER
+
+225
+00:17:49,480 --> 00:17:54,329
+pour trouver les lignes droites sur une surface (plate ou courbée)
+
+226
+00:17:54,330 --> 00:17:58,319
+je me sers du test du ruban
+
+227
+00:17:58,320 --> 00:18:04,479
+mais on peu prendre une bande de papier.. voyons ce chemin ici.
+
+228
+00:18:04,480 --> 00:18:10,319
+Il commence droit, puis il tourne. Maintenant, deux personnes suivent cette trajectoire
+
+229
+00:18:10,320 --> 00:18:16,989
+et veulent rester ensemble. La personne sur l'intérieur fera moins de distance que la personne a l’extérieur.
+
+230
+00:18:16,990 --> 00:18:20,428
+les 2 côtés de la bande de papier ont la même longueur
+
+231
+00:18:20,429 --> 00:18:22,959
+ils vont nous aider à trouver le "chemin droit" :
+
+232
+00:18:22,960 --> 00:18:28,079
+quand la bande sera bien à plat, on saura qu'on aura un chemin droit.
+
+233
+00:18:28,080 --> 00:18:32,889
+Comme tu peux le voir, la bande suit bien la partie droite.
+
+234
+00:18:32,890 --> 00:18:36,339
+mais vers le virage,
+
+235
+00:18:36,340 --> 00:18:40,329
+la bande ne peut pas être plus courte d'un côté
+
+236
+00:18:40,330 --> 00:18:47,769
+l'intérieur fait des plis  : des bosses qui sortent du plan.. le chemin n'est pas droit.
+
+237
+00:18:47,770 --> 00:18:52,659
+Utilisons la technique pour trouver les chemins droits sur un cône
+
+238
+00:18:52,660 --> 00:18:58,929
+Bon, déjà, une ligne de la base au sommet a l'air d'un chemin droit.
+
+239
+00:18:58,930 --> 00:19:05,039
+Ouais, ça marche. Et en entourant le cône ?
+
+240
+00:19:05,040 --> 00:19:09,599
+Non, ça ne marche pas : le distance la plus proche du sommet du cône est plus courte que celle plus éloignée.
+
+241
+00:19:09,600 --> 00:19:13,179
+Il y a trop de ruban en haut, donc le ruban n'est plus à plat sur le cône.
+
+242
+00:19:13,180 --> 00:19:20,919
+Est-ce qu'on aurait d'autres chemins droits ? Si je commence là ..
+
+243
+00:19:20,920 --> 00:19:22,689
+en restant à plat
+
+244
+00:19:22,690 --> 00:19:26,419
+tiens, j'ai un chemin droit
+
+245
+00:19:26,420 --> 00:19:34,839
+on pourrait le croire courbé
+
+246
+00:19:34,840 --> 00:19:39,939
+mais la bande nous dit que non
+
+247
+00:19:39,940 --> 00:19:44,109
+des habitants de la surface du cône verraient une ligne droite
+
+248
+00:19:44,110 --> 00:19:48,058
+parfaitement droite. Si on trace au stylo
+
+249
+00:19:48,059 --> 00:19:56,529
+on peut voir en dépliant le cône : une ligne droite ! On appelle ça une géodésique.
+
+250
+00:19:56,530 --> 00:20:01,509
+Ici une géodésique sur sur la Terre : l'équateur
+
+251
+00:20:01,510 --> 00:20:05,369
+en voici une autre. Mais une latitude n'en est pas !
+
+252
+00:20:05,370 --> 00:20:10,089
+regardez : le test du ruban
+
+253
+00:20:10,090 --> 00:20:13,329
+le ruban se décolle
+
+254
+00:20:13,330 --> 00:20:17,519
+donc plus on monte plus les distances des latitudes se raccourcissent.
+
+255
+00:20:17,520 --> 00:20:23,279
+Il y a trop de ruban en haut, donc ça fait des plis, donc ce chemin tourne.
+
+256
+00:20:23,280 --> 00:20:27,039
+Et pour tourner, il faut appliquer une force.
+
+257
+00:20:27,040 --> 00:20:34,379
+Sans force, voici le chemin qu'on devrait suivre. On remarque que le chemin part direct vers l'est,
+
+258
+00:20:34,380 --> 00:20:37,389
+mais qu'il s'incurve vers le sud
+
+259
+00:20:37,390 --> 00:20:39,939
+il tombe vers le sud..
+
+260
+00:20:39,940 --> 00:20:45,069
+Einstein a compris que la courbure pourrait expliquer que les choses semblent s'attirer.
+
+261
+00:20:45,070 --> 00:20:49,089
+sans avoir besoin d'invoquer la gravité
+
+262
+00:20:49,090 --> 00:20:56,579
+Mais.. l'attraction semble ne fonctionner que sur les objets se déplaçant
+
+263
+00:20:56,580 --> 00:21:02,359
+du coup comment les objets qui ne bougent pas au départ font-ils pour tomber ?
+
+264
+00:21:02,360 --> 00:21:07,259
+ils se rapprochent s'ils bougent, mais là au repos...
+
+265
+00:21:07,260 --> 00:21:08,479
+ouaih
+
+266
+00:21:08,480 --> 00:21:13,479
+mais ils sont au repos dans l'espace... qui n'est pas tout
+
+267
+00:21:13,480 --> 00:21:20,319
+Devant/derrière, droite/gauche, haut/bas (3 dimensions). Ça suffit pour dire où on est.
+
+268
+00:21:20,320 --> 00:21:23,999
+Mais pour être complet, il nous faut aussi donner la 4ème dimension : le temps !
+
+269
+00:21:24,000 --> 00:21:29,759
+A elles quatre, ces dimensions décrivent TOUT dans notre univers :
+
+270
+00:21:29,760 --> 00:21:31,659
+c'est l'ESPACE-TEMPS
+
+271
+00:21:31,660 --> 00:21:39,599
+comme un crayon qui tombe ne demande qu'une dimension (haut/bas), on peut modéliser l'espace-temps sur une feuille.
+
+272
+00:21:39,600 --> 00:21:45,279
+On a la dimension spatiale, mais il faut aussi ajouter une autre dimension dans laquelle le crayon se déplace :
+
+273
+00:21:45,280 --> 00:21:46,239
+le temps.
+
+274
+00:21:46,240 --> 00:21:52,479
+Sans force, le crayon ne bouge pas dans l'espace, mais le temps passe et il vieillit.
+
+275
+00:21:52,480 --> 00:21:56,879
+Et s'il ne fait que vieillir, il ne tombe pas.
+
+276
+00:21:56,880 --> 00:22:02,479
+Si l'espace-temps était plat et que je lâchais le crayon, alors il n'irait nulle part.
+
+277
+00:22:02,480 --> 00:22:08,159
+Mais si la Terre, qui est massive, pouvait déformer l'espace temps en.. disons
+
+278
+00:22:08,160 --> 00:22:09,189
+un cône.
+
+279
+00:22:09,190 --> 00:22:14,079
+sans force sur le crayon, il suit un chemin droit (ligne droite).
+
+280
+00:22:14,080 --> 00:22:20,859
+Mais sur un cône, comme on l'a vu, une ligne droite c'est ça. Le crayon va tomber.
+
+281
+00:22:20,860 --> 00:22:25,199
+C'est parce que les distances autour du cône sont plus courtes vers le haut.
+
+282
+00:22:25,200 --> 00:22:28,319
+Le temps s'écoule plus vite pour un objet massif.
+
+283
+00:22:28,320 --> 00:22:34,629
+Mais pour aller droit, chaque partie du crayon doit couvrir une même distance dans l'espace-temps.
+
+284
+00:22:34,630 --> 00:22:36,189
+Comme ça.
+
+285
+00:22:36,190 --> 00:22:43,749
+C'est seulement quand le crayon touche le sol, que la répulsion des électrons des deux corps crée une force écartant le crayon de la géodésique.
+
+286
+00:22:43,750 --> 00:22:50,239
+Pour la Terre, le temps est une suite de tranches de l'évolution du crayon.
+
+287
+00:22:50,240 --> 00:22:54,879
+L'absence de force sur le crayon est la cause de sa chute. Rien ne pousse ou ne tire le crayon.
+
+288
+00:22:54,880 --> 00:22:58,239
+C'est juste la tendance naturelle qu'à le crayon à suivre une ligne droite
+
+289
+00:22:58,240 --> 00:23:01,039
+jusqu'à ce que qu'elle que chose le perturbe.
+
+290
+00:23:01,040 --> 00:23:06,799
+On n'a utilisé ici qu'une dimension de l'espace et une du temps parce que visualiser les quatre dimensions
+
+291
+00:23:06,800 --> 00:23:12,079
+en même temps n'aurait pas été possible sur un feuille ou sur un écran.
+
+292
+00:23:12,080 --> 00:23:13,359
+Mais les maths
+
+293
+00:23:13,360 --> 00:23:15,119
+peuvent nous amener à faire ça.
+
+294
+00:23:15,120 --> 00:23:22,479
+La relativité générale nous permet de calculer la masse et l'énergie qui courbent l'espace-temps.
+
+295
+00:23:22,480 --> 00:23:25,919
+La relativité générale a  aussi été utilisée pour expliquer ce que la théorie de Newton
+
+296
+00:23:25,920 --> 00:23:27,919
+ne pouvait pas expliquer par le résultat de forces,
+
+297
+00:23:27,920 --> 00:23:31,519
+comme les anomalies dans l'orbite de Mercure, la planète la plus proche du Soleil,
+
+298
+00:23:31,520 --> 00:23:35,519
+et qui est par conséquent la plus affectée par l'action du Soleil sur l'espace-temps.
+
+299
+00:23:35,520 --> 00:23:42,008
+Beaucoup d'autres expériences ont confirmées la relativité générale, et sont arrivées à la onclusion
+
+300
+00:23:42,009 --> 00:23:44,639
+qu'il n'y a pas
+
+301
+00:23:44,640 --> 00:23:45,519
+de gravité.
+
+302
+00:23:45,520 --> 00:23:51,039
+Il y a juste l'espace-temps, sa courbure, et nous dedans.
+
+303
+00:23:51,040 --> 00:23:55,999
+Comme John Wheeler le disait très bien, 
+l'espace-temps dit à la masse comment elle doit bouger,
+
+304
+00:23:56,000 --> 00:24:00,639
+et la masse dit à l'espace-temps comment il doit se courber.
+
+305
+00:24:00,640 --> 00:24:05,199
+Par rapport à la Terre, on ne bouge pas très vite. Même les avions ne bougent
+
+306
+00:24:05,200 --> 00:24:07,599
+que très peu par rapport à la vitesse de la lumière.
+
+307
+00:24:07,600 --> 00:24:12,959
+Donc, par rapport à la Terre, on ne se déplace presque qu'à travers le temps,
+
+308
+00:24:12,960 --> 00:24:17,739
+si bien qu'on est plus affectés par la façon dont le temps est courbé par la masse,
+
+309
+00:24:17,740 --> 00:24:19,658
+que par la façon sont l'espace est courbé.
+
+310
+00:24:19,659 --> 00:24:25,199
+Tout cela mène à dire qu'on ne se sent pas poussé vers le sol
+
+311
+00:24:25,200 --> 00:24:27,519
+à cause d'une force appelée "gravité",
+
+312
+00:24:27,520 --> 00:24:32,559
+mais à cause du temps, qui s'écoule plus "vite" pour notre tête que pour nos pieds.
+
+313
+00:24:32,560 --> 00:24:35,759
+La "bas" est relatif, et change constamment.
+
+314
+00:24:35,760 --> 00:24:41,999
+Mais il existe, et est toujours dans la direction du temps le plus "lent".
+
+315
+00:24:42,000 --> 00:24:46,689
+Bertrand Russell appelait ça la "loi de la paresse cosmique".
+
+316
+00:24:46,690 --> 00:24:54,428
+Tout se dirige naturellement vers l'endroit où le temps est le plus "lent". On appelle ça "tomber".
+
+317
+00:24:54,429 --> 00:24:56,559
+Aller en bas.
+
+318
+00:24:56,560 --> 00:25:00,559
+Donc tu n'as pas à tout dire à voix BASse
+(to keep sth down low = garder secret  -  down = bas)
+
+319
+00:25:00,560 --> 00:25:04,749
+Le temps va s'occuper de ça pour toi.
+
+320
+00:25:04,750 --> 00:25:06,489
+Et comme toujours,
+
+321
+00:25:06,490 --> 00:25:19,199
+merci d'avoir vu cette vidéo !
+
+322
+00:25:19,200 --> 00:25:21,999
+Souviens-toi que tu peux soutenir Vsauce et la recherche contre Alzheimer
+
+323
+00:25:22,000 --> 00:25:25,519
+en t'abonnant à la Curiosity Box de Vsauce.
+
+324
+00:25:25,520 --> 00:25:29,359
+Celle d'en ce moment vient avec le code pour avoir Universe Sandbox 2 gratuitement, qui est génial,
+
+325
+00:25:29,360 --> 00:25:35,999
+et d'autres jouets et outils de science choisis par Jake, Kevin et moi, j'adore ça.
+
+326
+00:25:36,000 --> 00:25:42,129
+Aussi, j'espère te voir à Brain Candy Live. On vient dans beaucoup de villes très bientôt.
+
+327
+00:25:42,130 --> 00:25:45,359
+Avec un peu de chance, il y en a une près de chez toi et tu pourras voir Adam.
+
+328
+00:25:45,360 --> 00:25:49,039
+Et je vais faire des trucs que tu nous a peut être jamais vu faire avant.
+
+329
+00:25:49,040 --> 00:25:55,789
+On explore aussi la science derrière tout ça.
+
+330
+00:25:55,790 --> 00:26:03,159
+Euuh, j'en ai peut-être dit trop. Peut-être pas. J'espère t'y voir et comme toujours, merci d'avoir vu cette vidéo !
+

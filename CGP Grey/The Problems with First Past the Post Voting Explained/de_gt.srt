@@ -1,0 +1,586 @@
+1
+00:00:03,250 --> 00:00:07,329
+Willkommen zum Problem mit der
+Post-Abstimmung, erklärt von mir, C. G. P. Gray.
+
+2
+00:00:07,330 --> 00:00:11,259
+Die königliche Familie hat ein Problem.  Aber das ist nicht
+irgendeine königliche Familie, das sind die Löwen
+
+3
+00:00:11,260 --> 00:00:13,259
+– Herrscher des Dschungels seit jeher.
+
+4
+00:00:13,260 --> 00:00:17,319
+Es gibt Proteste gegen die absolute Macht der Monarchie
+und die Bürger des Tierreichs
+
+5
+00:00:17,320 --> 00:00:19,159
+wollen mitbestimmen, wie sie regiert werden.
+
+6
+00:00:19,160 --> 00:00:23,239
+Dem Druck gebeugt, hat Lion
+seine Krone niedergelegt und König soll ein gewähltes Amt werden.
+
+7
+00:00:23,240 --> 00:00:27,278
+Um einen reibungslosen Übergang zu gewährleisten – und weil
+sie listiger ist als ihr Ehemann – bleibt die
+
+8
+00:00:27,279 --> 00:00:30,688
+Königinlöwin auf dem Thron mit der
+Macht, die Regeln für alle Wahlen in
+
+9
+00:00:30,689 --> 00:00:32,097
+ihrem Königreich festzulegen.
+
+10
+00:00:32,098 --> 00:00:36,099
+Sie hat erklärt, dass alle Bürger eine
+und nur eine Stimme bekommen und dass der Kandidat mit
+
+11
+00:00:36,100 --> 00:00:38,299
+den meisten Stimmen die Krone gewinnt.
+
+12
+00:00:38,300 --> 00:00:41,799
+Diese Abstimmungsmethode wird meistens
+First Past the Post (
+
+13
+00:00:41,800 --> 00:00:43,919
+umständlich abgekürzt als FPTP) oder Winner Take All genannt.
+
+14
+00:00:43,920 --> 00:00:46,569
+Dieses System ist einfach, fair und logisch.  Recht?
+
+15
+00:00:46,570 --> 00:00:47,589
+Nicht wirklich.
+
+16
+00:00:47,590 --> 00:00:49,069
+Es ist eine schreckliche, schreckliche Idee.
+
+17
+00:00:49,070 --> 00:00:50,069
+Wieso den?
+
+18
+00:00:50,070 --> 00:00:53,029
+Nun, um die Probleme mit First Past
+the Post zu sehen, schauen wir uns die ersten Wahlen
+
+19
+00:00:53,030 --> 00:00:54,578
+im Tierreich an.
+
+20
+00:00:54,579 --> 00:00:58,069
+Es ist eine aufregende Zeit für die aufkeimende Demokratie
+und sieben hoffnungsvolle Kandidaten melden sich
+
+21
+00:00:58,070 --> 00:01:02,019
+, um zu kandidieren und ihre Parteien zu vertreten.  Sie
+machen ihre besten Kampagnen, die Bürger gehen
+
+22
+00:01:02,020 --> 00:01:05,429
+zur Wahlurne und die Stimmen werden ausgezählt.  Die
+Ergebnisse sehen wie folgt aus:
+
+23
+00:01:05,430 --> 00:01:06,889
+Turtle erhält 9 % der Stimmen.
+
+24
+00:01:06,890 --> 00:01:08,149
+Affe bekommt 18%.
+
+25
+00:01:08,150 --> 00:01:09,349
+Gorilla bekommt 19%.
+
+26
+00:01:09,350 --> 00:01:10,429
+Eule bekommt 13%.
+
+27
+00:01:10,430 --> 00:01:11,429
+Leopard erhält 20 %.
+
+28
+00:01:11,430 --> 00:01:12,709
+Tiger bekommt 15%.
+
+29
+00:01:12,710 --> 00:01:13,709
+Snake bekommt 6%.
+
+30
+00:01:13,710 --> 00:01:16,701
+Nach den Regeln von First Past the Post
+wird Leopard zur Gewinnerin gekrönt und darf
+
+31
+00:01:16,702 --> 00:01:17,701
+für die Dauer ihrer Amtszeit regieren.
+
+32
+00:01:17,702 --> 00:01:21,449
+Aber werfen Sie einen weiteren Blick auf die Ergebnisse, und
+Sie sehen das erste Problem mit diesem System: die
+
+33
+00:01:21,450 --> 00:01:26,100
+Minderheitenherrschaft.  Die überwiegende Mehrheit der Bürger
+– 80 % – wollte jemand anderen als König, aber
+
+34
+00:01:26,101 --> 00:01:30,749
+Leopard gewann trotzdem.  Es gab nur sieben Kandidaten
+in diesem Rennen, aber wenn Sie sich vorstellen, dass es
+
+35
+00:01:30,750 --> 00:01:34,179
+zwanzig waren, hat sie vielleicht nur 5 % der Stimmen bekommen, ist
+aber trotzdem gewählt worden.
+
+36
+00:01:34,180 --> 00:01:37,079
+Dieses Problem mit der Minderheitenherrschaft ist nur der
+Anfang.
+
+37
+00:01:37,080 --> 00:01:40,649
+Das zweite Problem mit First Past the Post
+ist, dass es bei genügend Zeit zu
+
+38
+00:01:40,650 --> 00:01:43,359
+einem unvermeidlichen Zweiparteiensystem führt.
+
+39
+00:01:43,360 --> 00:01:44,359
+Wieso den?
+
+40
+00:01:44,360 --> 00:01:47,499
+Schauen wir uns an, was über mehrere
+Wahlzyklen hinweg passiert ...
+
+41
+00:01:47,500 --> 00:01:51,279
+Leopard hat ihre Amtszeit und ihre
+Wahlzeit in der jungen Demokratie hinter sich.  Erst
+
+42
+00:01:51,280 --> 00:01:54,999
+jetzt erinnern sich alle Bürger des Tierreichs
+an die Ergebnisse vom letzten Mal.
+
+43
+00:01:55,000 --> 00:01:58,579
+Diese Informationen ändern, wie sie sich verhalten werden.
+Besonders die Wähler von Snake und Turtle –
+
+44
+00:01:58,580 --> 00:02:02,118
+die sich der Realität stellen müssen, dass sie unattraktive,
+extremistische Kandidaten unterstützt haben, die keine
+
+45
+00:02:02,119 --> 00:02:03,118
+Chance auf einen Sieg haben.
+
+46
+00:02:03,119 --> 00:02:06,449
+Turtle-Wähler, die unter der Leopard-Herrschaft unglücklich waren
+, entschieden sich für den Kandidaten mit
+
+47
+00:02:06,450 --> 00:02:08,339
+den besten Gewinnchancen, Gorilla.
+
+48
+00:02:08,340 --> 00:02:12,348
+Jetzt wollen Schlangenwähler für Tiger stimmen
+– den Kandidaten, mit dem sie am meisten gemeinsam
+
+49
+00:02:12,349 --> 00:02:15,789
+haben, aber sie haben Angst davor, weil
+Leopard eine negative Kampagne gegen ihre
+
+50
+00:02:15,790 --> 00:02:17,169
+Konkurrenten führt.
+
+51
+00:02:17,170 --> 00:02:20,759
+Snake-Wähler, die die Idee einer Gorilla-Herrschaft nicht mögen
+, stimmen strategisch für Leopard.
+
+52
+00:02:20,760 --> 00:02:24,568
+Das Endergebnis sieht so aus: Leopard
+erhält 26 % der Stimmen und Gorilla erhält
+
+53
+00:02:24,569 --> 00:02:26,799
+28, was ihn zum neuen König macht.
+
+54
+00:02:26,800 --> 00:02:30,169
+Snake und Turtle, die ihre düsteren Ergebnisse
+und die Kosten ihrer Kampagnen sehen, entscheiden sich dafür
+
+55
+00:02:30,170 --> 00:02:32,039
+, aus zukünftigen Rennen auszusteigen.
+
+56
+00:02:32,040 --> 00:02:34,488
+Was als Sieben-Parteien-System begann, ist
+heute auf fünf geschrumpft.
+
+57
+00:02:34,489 --> 00:02:36,899
+Schneller Vorlauf zur nächsten Wahl:
+
+58
+00:02:36,900 --> 00:02:40,449
+Nur fünf Kandidaten treten an, und wieder
+erinnern sich die Wähler an das letzte Mal.
+
+59
+00:02:40,450 --> 00:02:44,369
+Bei dieser Wahl sind es die Owl-Wähler, die erkennen,
+dass ihr Kandidat nicht gewinnen kann.  Sie sind
+
+60
+00:02:44,370 --> 00:02:47,729
+zentristische Wähler und weniger ideologisch als
+der Rest des Tierreichs – als
+
+61
+00:02:47,730 --> 00:02:49,859
+solche mögen sie weder Gorilla noch Leopard.
+
+62
+00:02:49,860 --> 00:02:53,169
+Sowohl Gorilla als auch Leopard wissen das, also führen sie
+jeweils negative Kampagnen, um aus den
+
+63
+00:02:53,170 --> 00:02:54,809
+Ängsten der Zentristen Kapital zu schlagen.
+
+64
+00:02:54,810 --> 00:02:58,139
+Eulenwähler teilen ihre Stimme auf und stimmen meistens
+gegen den Kandidaten, den sie nicht mögen,
+
+65
+00:02:58,140 --> 00:03:00,479
+anstatt den Kandidaten zu unterstützen, den sie
+mögen.
+
+66
+00:03:00,480 --> 00:03:05,409
+Nach dieser Wahl erhält Gorilla 33 % der
+Stimmen und Leopard 34 %, was sie zur Gewinnerin macht.
+
+67
+00:03:05,410 --> 00:03:08,889
+Owl scheidet, wie zuvor Turtle und Snake,
+aus dem Rennen aus.
+
+68
+00:03:08,890 --> 00:03:13,159
+Bei der letzten Wahl, die wir uns ansehen werden,
+sind die Wähler von Monkey und Tiger unzufrieden.  Beide
+
+69
+00:03:13,160 --> 00:03:17,179
+mögen die Kandidaten, die sie unterstützt haben, sehr, aber
+sie müssen Kompromisse eingehen.  Affenwähler,
+
+70
+00:03:17,180 --> 00:03:21,239
+stimmen Gorilla in einigen Punkten zu, aber sie
+mögen Leopard wirklich nicht.  Tiger-Wähler stimmen
+
+71
+00:03:21,240 --> 00:03:24,549
+in einigen Punkten mit Leopard überein, mögen aber Gorilla wirklich nicht
+.
+
+72
+00:03:24,550 --> 00:03:27,749
+Sie lassen ihren bevorzugten Kandidaten strategisch im Stich
+, aus Angst vor dem, mit dem sie nicht einverstanden sind,
+
+73
+00:03:27,750 --> 00:03:29,399
+der am besten geeignete König.
+
+74
+00:03:29,400 --> 00:03:34,199
+Die Endergebnisse sind Leopard 49 % und Gorilla
+51 %, wobei er zum König gekrönt wird.
+
+75
+00:03:34,200 --> 00:03:37,579
+Affe und Tiger sind die letzten Kandidaten,
+die aussteigen, und jetzt bleibt dem
+
+76
+00:03:37,580 --> 00:03:39,779
+Tierreich ein Zwei-Parteien-System.
+
+77
+00:03:39,780 --> 00:03:43,249
+Aufgrund der zentristischen und schwankungsfähigen
+Eulenwähler könnte Leopard bei zukünftigen Wahlen
+
+78
+00:03:43,250 --> 00:03:47,018
+die Krone übernehmen, dann gewinnt Gorilla sie zurück,
+nur um sie zwei Leopard wieder zu verlieren, aber die
+
+79
+00:03:47,019 --> 00:03:48,839
+beiden Parteien ändern sich nie.
+
+80
+00:03:48,840 --> 00:03:52,229
+Die Bürger des Tierreichs sind schließlich zu
+diesem System gekommen, nicht weil sie faule Wähler sind
+
+81
+00:03:52,230 --> 00:03:55,579
+oder weil sie es wirklich wollten, sondern
+wegen der Mathematik, wie das
+
+82
+00:03:55,580 --> 00:03:56,699
+System aufgebaut ist.
+
+83
+00:03:56,700 --> 00:04:01,869
+Wenn genügend Zeit vorhanden ist, tendieren alle First-Past-
+the-Post-Systeme zwangsläufig zu zwei Hauptparteien.
+
+84
+00:04:01,870 --> 00:04:05,329
+Aber die Entscheidungen der Wähler haben
+sich seit dieser ersten Wahl immer noch nicht geändert.  Nur zwei Fünftel
+
+85
+00:04:05,330 --> 00:04:08,629
+von ihnen wollen entweder Leopard oder Gorilla
+als erste Wahl und 3/5 von ihnen wollen
+
+86
+00:04:08,630 --> 00:04:10,369
+jemand anderen als erste Wahl.
+
+87
+00:04:10,370 --> 00:04:14,268
+Es ist diese Mehrheit der Wähler, die
+am demokratischen Prozess desinteressiert werden, weil
+
+88
+00:04:14,269 --> 00:04:16,838
+sie das Gefühl haben, keine sinnvolle Möglichkeit zu haben,
+ihre wirklichen Präferenzen auszudrücken.
+
+89
+00:04:16,839 --> 00:04:21,179
+Aber ab hier wird es nur noch schlimmer.  Wenn die Bürger
+von Animal Kingdom vor der Abstimmung in Gruppen aufgeteilt werden
+
+90
+00:04:21,180 --> 00:04:24,339
+, sind sie anfällig für
+Gerrymandering.
+
+91
+00:04:24,340 --> 00:04:28,569
+Gerrymandering ist ein bisschen knifflig, aber stellen Sie sich
+einen Block mit zehn Häusern vor, in denen sich jeweils ein Wähler befindet.
+
+92
+00:04:28,570 --> 00:04:31,839
+Drei sind Leopard-Wähler, drei sind Gorilla-
+Wähler und vier sind Eulen-Wähler.
+
+93
+00:04:31,840 --> 00:04:35,539
+Wenn die Wähler vor der Abstimmung in Gruppen eingeteilt werden
+, hat derjenige, der entscheidet, wo die
+
+94
+00:04:35,540 --> 00:04:38,439
+Grenzen gezogen werden, enormen Einfluss darauf,
+wer die Wahl gewinnt.
+
+95
+00:04:38,440 --> 00:04:42,739
+Zum Beispiel, wenn Sie die drei Leopard-
+Wähler mit zwei Eulen-Wählern gruppieren und dasselbe
+
+96
+00:04:42,740 --> 00:04:47,059
+mit den drei Gorilla-Wählern tun.  Sie können
+Eulen aus der Wahl ausleuchten, obwohl
+
+97
+00:04:47,060 --> 00:04:51,459
+Eulenwähler die größte Minderheit haben und unter
+einer direkten First-Past-Post-Vote gewinnen sollten.
+
+98
+00:04:51,460 --> 00:04:54,429
+Wenn die Leoparden- und Gorilla-Parteien das
+Sagen haben, wenn die Abstimmungsgrenzen gezogen werden, haben
+
+99
+00:04:54,430 --> 00:04:57,649
+sie einen enormen Anreiz, sich
+sichere Sitze für sich selbst zu erkämpfen.
+
+100
+00:04:57,650 --> 00:04:59,859
+Aber mehr zu Gerrymandering in einem anderen Video.
+
+101
+00:04:59,860 --> 00:05:03,589
+Bah!  Sie sagen, wählen Sie Dritte und ändern Sie das
+System!
+
+102
+00:05:03,590 --> 00:05:07,339
+Das bringt uns zum letzten und möglicherweise
+schlimmsten Problem von First Past the Post: dem
+
+103
+00:05:07,340 --> 00:05:08,649
+Spoiler-Effekt
+
+104
+00:05:08,650 --> 00:05:12,388
+Stellen Sie sich jetzt vor, es seien Jahre und Jahre der
+Gorilla- und Leopardenherrschaft vergangen.
+
+105
+00:05:12,389 --> 00:05:16,109
+Tiger beschließt, dass es an der Zeit ist, am Rennen teilzunehmen.
+Er denkt, dass die Wähler den
+
+106
+00:05:16,110 --> 00:05:18,489
+Status quo satt haben und er eine Chance hat, zu gewinnen.
+
+107
+00:05:18,490 --> 00:05:22,649
+Er richtet sein Wahlkampfbüro ein, bekommt überraschend
+viel Gold gespendet und geht ins
+
+108
+00:05:22,650 --> 00:05:25,679
+Animal News Network, um mit den Hauptkandidaten zu debattieren
+.
+
+109
+00:05:25,680 --> 00:05:30,049
+Die Wahlnacht kommt, aber leider erhält Tiger
+nur 15 % der Stimmen – hauptsächlich von Leopard-
+
+110
+00:05:30,050 --> 00:05:33,698
+Wählern, die ihm im politischen Spektrum am nächsten stehen
+.  Gorilla schlägt Leopard leicht und
+
+111
+00:05:33,699 --> 00:05:35,379
+wird König.
+
+112
+00:05:35,380 --> 00:05:39,359
+Der Erste, der das Post-System in seiner schlimmsten Form überholt:
+Je besser ein Kandidat einer dritten Partei abschneidet,
+
+113
+00:05:39,360 --> 00:05:43,138
+desto mehr schadet er seinen eigenen Wählern, indem er
+einen Verlust für die Partei garantiert, mit der sie am meisten übereinstimmen,
+
+114
+00:05:43,139 --> 00:05:45,379
+und einen Sieg für die Partei, mit der sie nicht einverstanden sind.
+
+115
+00:05:45,380 --> 00:05:49,909
+Und vergessen Sie nicht, Gorilla ist kein Dummkopf: Er weiß,
+wie das System funktioniert.  Woher, glaubst du, kamen
+
+116
+00:05:49,910 --> 00:05:52,509
+einige dieser Goldspenden?
+
+117
+00:05:52,510 --> 00:05:55,399
+Unterdessen ist die Queen Lioness unzufrieden.
+
+118
+00:05:55,400 --> 00:05:58,859
+Sie beobachtet die Wahlen und sieht,
+dass das System schlecht für ihre Untertanen ist.  Und
+
+119
+00:05:58,860 --> 00:06:01,849
+sie hat überlegt, was macht ein gutes
+Abstimmungssystem aus?  Nun...
+
+120
+00:06:01,850 --> 00:06:06,089
+Sie sollten in der Lage sein, unbesorgt für den Kandidaten zu stimmen, der
+Ihnen am besten gefällt.
+
+121
+00:06:06,090 --> 00:06:08,259
+Mehr Auswahl an Vertretern ist besser.
+
+122
+00:06:08,260 --> 00:06:09,969
+Das System sollte nicht anfällig für Gerrymandering sein.
+
+123
+00:06:09,970 --> 00:06:13,379
+Und es sollte offen für neue politische Parteien sein.
+
+124
+00:06:13,380 --> 00:06:16,568
+Zum Glück für die Königin stehen mehrere verschiedene
+Abstimmungssysteme zur Auswahl – einschließlich
+
+125
+00:06:16,569 --> 00:06:20,549
+der alternativen Abstimmung.  Aber das muss
+zu einem anderen Zeitpunkt im Detail besprochen werden.
+
+126
+00:06:20,550 --> 00:06:29,660
+Vielen Dank fürs Zuschauen.
+

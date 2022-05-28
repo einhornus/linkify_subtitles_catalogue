@@ -1,0 +1,493 @@
+1
+00:00:02,409 --> 00:00:10,289
+hey, Vsauce! michael qua! 
+se buchi una sfera, e ne rimuovi un cilindro, quello che rimane sara un portatovaglioli circolare
+
+2
+00:00:10,290 --> 00:00:14,979
+chiamato un portatovagliolo, perché, ovviamente, sembra un portatovaglioli!
+
+3
+00:00:14,980 --> 00:00:20,099
+Si tratta di una forma bizzarra, perché se due portatovaglioli hanno la stessa altezza, beh
+
+4
+00:00:20,100 --> 00:00:24,639
+avranno lo stesso volume indipendentemente dalla dimensione delle sfere di provenienza!
+
+5
+00:00:24,640 --> 00:00:30,579
+Questo significa che se tagliamo anelli ugualmente alti da un'arancia e dalla Terra,
+
+6
+00:00:30,580 --> 00:00:35,199
+bene, uno di potrebbe tenere in mano. L'altro avrebbe la circonferenza di tutto il nostro pianeta,
+
+7
+00:00:35,200 --> 00:00:39,339
+Ba entrambi avrebbero lo stesso volume...
+
+8
+00:00:39,340 --> 00:00:45,328
+Ho parlato di questo fatto controintuitivo facendo un Kendama con Adam Savage. Andate a vedere quel video se non lo avete visto, o meglio ancora,
+
+9
+00:00:45,329 --> 00:00:51,959
+veniteci a vedere. Stiamo portando Brain Candy Live a 24 nuove città questo autunno. Sarà molto affollato, ma in questo momento
+
+10
+00:00:51,960 --> 00:00:56,349
+questo momento stiamo parlando di sfere e di bucarle!
+
+11
+00:00:56,350 --> 00:01:02,139
+Ho qui DUE "portatovaglioli" di dimensioni molto diverse; uno da una piccola pallina,
+
+12
+00:01:02,140 --> 00:01:05,709
+un piccolo pomodoro che ho bucato, in modo che ha un piccolo buco nel suo centro.
+
+13
+00:01:05,710 --> 00:01:08,128
+L'altro anello è costituito da un'arancia,
+
+14
+00:01:08,129 --> 00:01:12,879
+ma entrambi gli anelli hanno la stessa altezza. Il pomodoro ha una circonferenza
+
+15
+00:01:12,880 --> 00:01:20,279
+più piccola rispetto all'arancia, il che significa meno volume, ma il suo anello è più spesso il che significa più volume. Entrambi questi effetti
+
+16
+00:01:20,280 --> 00:01:31,559
+si annullano. Così questi due anelli hanno volumi identici - occupano la stessa quantità di spazio
+
+17
+00:01:31,560 --> 00:01:34,269
+Tra l'altro l'olio d'arancia è infiammabile
+
+18
+00:01:34,270 --> 00:01:37,239
+Per capire perché il problema dell'anello è vero,
+
+19
+00:01:37,240 --> 00:01:44,769
+parliamo di principio di Cavalieri. Afferma che per ogni due solidi come questi due cilindri che ho costruito qui
+
+20
+00:01:44,770 --> 00:01:49,868
+tagliati tra piani paralleli - se qualsiasi altro piano parallelo
+
+21
+00:01:49,869 --> 00:01:54,298
+Interseca entrambi i cilindri nelle regioni di area uguale, non importa da dove è tagliato
+
+22
+00:01:54,299 --> 00:02:02,618
+Ebbene i solidi hanno lo stesso volume. Questo è chiaramente vero, questi cilindri sono costruiti da degli adesivi di Vsauce
+
+23
+00:02:02,619 --> 00:02:06,289
+100 in ogni torre così i loro volumi sono gli stessi
+
+24
+00:02:06,290 --> 00:02:07,909
+Se io
+
+25
+00:02:07,910 --> 00:02:15,429
+smuovo uno di loro in questo modo la sua forma cambierà, ba il suo volume non l'ha fatto - ha ancora le stesse cose
+
+26
+00:02:15,430 --> 00:02:18,169
+Non ho aggiunto o sottratto gli adesivi
+
+27
+00:02:18,170 --> 00:02:25,539
+E il principio di Cavalieri assicura che hanno ancora lo stesso volume, perché ogni sezione parallela, presa da qui sotto, da qua sopra, in mezzo, dappertutto,
+
+28
+00:02:25,540 --> 00:02:33,279
+ci darà una regione di aria uguali perché quelle regioni sono sempre dei cerchi identici
+
+29
+00:02:33,280 --> 00:02:37,339
+Ora cerchiamo di applicare il principio di Cavalieri agli anelli
+
+30
+00:02:37,340 --> 00:02:40,879
+Possiamo vedere che due anelli con altezze simili hanno
+
+31
+00:02:40,880 --> 00:02:46,639
+volumi identici mostrando che quando vengono tagliati da un piano la superficie della sezione
+
+32
+00:02:46,640 --> 00:02:49,719
+è sempre uguale l'area dell'altra. Ora,
+
+33
+00:02:49,720 --> 00:02:56,829
+Nota che l'area della sezione delle sfere meno l'area della sezione dei cilindri ci dà l'area della sezione
+
+34
+00:02:56,830 --> 00:03:01,819
+degli anelli. A seconda di dove faccio il taglio le due sezioni avranno aree diverse
+
+35
+00:03:01,820 --> 00:03:08,809
+ma tra di loro l'area è la stessa. Calcoliamo le aree di questi anelli blu
+
+36
+00:03:08,810 --> 00:03:17,359
+prima di tutto  chiamiamo l'area dell'anello "h" e il raggio della sfera da dove sono stati bucati
+
+37
+00:03:17,360 --> 00:03:18,169
+"R"
+
+38
+00:03:18,170 --> 00:03:25,629
+Ok, perfetto, adesso la sezione di una sfera e la sezione di un cilindro sono dei cerchi
+
+39
+00:03:25,630 --> 00:03:30,159
+Quindi la loro area può essere calcolata usando "πr²"
+
+40
+00:03:30,160 --> 00:03:37,509
+Quindi se vogliamo trovare l'area della sezione della sfera meno l'area della sezione del cilindro
+
+41
+00:03:37,510 --> 00:03:41,279
+- ci disegno un cilindro - tutto quello che dobbiamo fare è π
+
+42
+00:03:41,280 --> 00:03:46,299
+moltiplicato per il raggio della sezione della sfera
+
+43
+00:03:46,300 --> 00:03:53,329
+- al quadrato - e poi sottrarre π moltiplicato per il raggio del cilindro al quadrato. Ma quali sono i loro raggi?
+
+44
+00:03:53,330 --> 00:04:01,059
+Beh, se questo è il centro della sfera possiamo disegnare una linea dritta fino all'angolo del cilindro e poi giù per il lato
+
+45
+00:04:01,060 --> 00:04:05,679
+del cilindro per poi connetterlo di nuovo al centro per formare un triangolo rettangolo
+
+46
+00:04:05,680 --> 00:04:12,439
+il teorema di Pitagora di aiuterà molto qui, ci dice che la lunghezza di un cateto al quadrato più la lunghezza dell'altro lato al quadrato
+
+47
+00:04:12,440 --> 00:04:16,778
+diventa la lunghezza dell'ipotenusa al quadrato
+
+48
+00:04:16,779 --> 00:04:20,909
+Adesso vogliamo questo lato del triangolo
+
+49
+00:04:20,910 --> 00:04:29,079
+è il raggio del cilindro, lo chiamiamo "r", il raggio del cilindro (disegnino fantastico lì)
+
+50
+00:04:29,080 --> 00:04:31,388
+quindi il raggio
+
+51
+00:04:31,389 --> 00:04:34,839
+del cilindro
+
+52
+00:04:34,840 --> 00:04:37,029
+al quadrato più
+
+53
+00:04:37,030 --> 00:04:44,019
+questo lato, che è solo metà dell'altezza del cilindro, quindi h:2
+
+54
+00:04:44,020 --> 00:04:45,369
+al quadrato
+
+55
+00:04:45,370 --> 00:04:53,349
+è uguale all'ipotenusa al quadrato, e l'ipotenusa è il raggio della sfera quindi "R"
+
+56
+00:04:53,350 --> 00:04:57,179
+Perfetto adesso cerchiamo il raggio del cilindro, che è cosa ci serve
+
+57
+00:04:57,180 --> 00:05:04,119
+toglieremo h:2 al quadrato da entrambi i lati il che ci darà il raggio del cilindro
+
+58
+00:05:04,120 --> 00:05:05,168
+al quadrato
+
+59
+00:05:05,169 --> 00:05:08,469
+che è uguale al raggio della sfera al quadrato meno
+
+60
+00:05:08,470 --> 00:05:10,959
+metà dell'altezza del cilindro al quadrato
+
+61
+00:05:10,960 --> 00:05:17,888
+Possiamo fare la radice quadrata da entrambi i lati in modo che finiamo col raggio del cilindro
+
+62
+00:05:17,889 --> 00:05:21,879
+equivalente la radice quadrata del raggio della sfera al quadrato
+
+63
+00:05:21,880 --> 00:05:25,149
+meno metà dell'altezza del cilindro al quadrato
+
+64
+00:05:25,150 --> 00:05:32,439
+Perfetto, ok, adesso guardiamo all'area della sezione della sfera adesso per questa
+
+65
+00:05:32,440 --> 00:05:37,019
+disegniamo una linea dritta dal centro della sfera fino al  lato
+
+66
+00:05:37,020 --> 00:05:38,059
+della sezione
+
+67
+00:05:38,060 --> 00:05:44,649
+della sfera, e scendiamo per poi riconnetterci al centro della sfera, e guarda qui! Un'altro triangolo rettangolo!
+
+68
+00:05:44,650 --> 00:05:48,699
+Chiamiamo questa altezza "y"
+
+69
+00:05:48,700 --> 00:05:55,679
+Nota che adesso questo lato del triangolo è , in realtà, il raggio
+
+70
+00:05:55,680 --> 00:05:57,969
+della sezione
+
+71
+00:05:57,970 --> 00:06:05,109
+del cerchio. Sono uguali. Quindi vogliamo trovare questo, il raggio del cerchio, della sezione della sfera
+
+72
+00:06:05,110 --> 00:06:05,709
+Ok
+
+73
+00:06:05,710 --> 00:06:08,948
+Quindi sappiamo che il raggio della sezione
+
+74
+00:06:08,949 --> 00:06:14,829
+della sfera al quadrato più y al quadrato
+
+75
+00:06:14,830 --> 00:06:21,159
+è uguale all'ipotenusa al quadrato. In questo caso l'ipotenusa è ancora il raggio della sfera, quindi "R"
+
+76
+00:06:21,160 --> 00:06:27,819
+Ok sottraiamo y² da entrambi i lato, quindi il raggio della sezione della sfera al quadrato
+
+77
+00:06:27,820 --> 00:06:31,749
+è uguale al raggio della sfera al quadrato meno
+
+78
+00:06:31,750 --> 00:06:36,019
+y al quadrato. Faremo la radice quadrata a entrambi e finiamo con
+
+79
+00:06:36,020 --> 00:06:41,029
+il raggio della sfera che è uguale alla radice quadrata del
+
+80
+00:06:41,030 --> 00:06:45,499
+raggio della sfera al quadrato meno y al quadrato. "y" è l'altezza da cui è stata presa la sezione
+
+81
+00:06:45,500 --> 00:06:53,569
+in rispetto all'equatore - più grande y diventa più il raggio della sezione della sfera diminuirà
+
+82
+00:06:53,570 --> 00:06:58,009
+Invece il raggio del cilindro rimarrà lo stesso indipendentemente da dove facciamo la sezione
+
+83
+00:06:58,010 --> 00:07:01,609
+Comunque, prendiamo questi due raggi e mettiamoli nella nostra formula
+
+84
+00:07:01,610 --> 00:07:06,079
+ok, l'area della sezione della sfera è cosa ci serve per prima
+
+85
+00:07:06,080 --> 00:07:20,859
+Quindi la formula diventa "π(√(R²-y²))² - π(√(R²-(h/2)²))²"
+
+86
+00:07:20,860 --> 00:07:25,549
+Adesso cosa potrai notare e che prendiamo la radice quadrata di qualcosa e poi mettiamo tutto al quadrato
+
+87
+00:07:25,550 --> 00:07:28,339
+Questi si cancellano
+
+88
+00:07:28,340 --> 00:07:30,368
+Perfetto! Molto più semplice!
+
+89
+00:07:30,369 --> 00:07:57,359
+Ma adesso distribuiamo π ai termini nelle parentesi quindi la formula diventa πR² - πy² - πR² + π(h/2)²
+
+90
+00:07:57,360 --> 00:08:03,219
+Perfetto, adesso possiamo continuare a semplificare perché puoi notare anche che abbiamo un +πR² e un
+
+91
+00:08:03,220 --> 00:08:07,039
+-πR², beh, +πR²-πR² fa zero quindi
+
+92
+00:08:07,040 --> 00:08:11,299
+anche loro si cancellano. Adesso siamo rimasti con questi due termini
+
+93
+00:08:11,300 --> 00:08:18,359
+che non hanno alcuna informazione sul raggio della sfera, non sappiamo quanto è grande
+
+94
+00:08:18,360 --> 00:08:23,299
+Ma non importa tutto quello che ti serve è sapere l'area della sezione dell'anello
+
+95
+00:08:23,300 --> 00:08:25,579
+è la sua altezza
+
+96
+00:08:25,580 --> 00:08:32,219
+il limite di y e l'altezza dell'anello, queste aree blu hanno la stessa area - e questo sarà vero
+
+97
+00:08:32,220 --> 00:08:41,019
+indipendentemente da dove facciamo la sezione dell'anello che significa, seguendo il principio di Cavalieri, che entrambi gli anelli hanno lo stesso
+
+98
+00:08:41,020 --> 00:08:43,099
+volume.
+
+99
+00:08:43,100 --> 00:08:47,699
+Yay :3
+
+100
+00:08:47,700 --> 00:08:50,019
+(Con i denti)
+
+101
+00:08:50,020 --> 00:08:54,279
+Ma che cosa ha a che fare tutto questo con te, con la tua vita nell'universo?
+
+102
+00:08:54,280 --> 00:08:58,779
+Beh, come sappiamo, se ti piace, ci devi mettere un anello sopra
+
+103
+00:08:58,780 --> 00:09:00,679
+ma se ti piace,
+
+104
+00:09:00,680 --> 00:09:05,199
+ma non sai la larghezza del suo dito, e ci vuoi dare solo un tot di materiale
+
+105
+00:09:05,200 --> 00:09:09,639
+Ci devi mettere un portatovagliolo
+
+106
+00:09:09,640 --> 00:09:11,899
+E come sempre,
+
+107
+00:09:11,900 --> 00:09:21,459
+Grazie per la visione :D
+
+108
+00:09:21,460 --> 00:09:23,859
+Il 21 Agosto 2017
+
+109
+00:09:23,860 --> 00:09:31,599
+Ci sarà un'eclissi solare totale per tutti gli Stati Uniti
+
+110
+00:09:31,600 --> 00:09:35,489
+Sarà incredibile, un po' pauroso
+
+111
+00:09:35,490 --> 00:09:42,039
+Ma sono sicuro che la andrò a vedere in Oregon Con i miei amici ad Atlas, Obscura. NOn vedo l'ora, ma mantieni i tuoi occhi al sicuro
+
+112
+00:09:42,040 --> 00:09:47,699
+con questi occhiali protettivi.
+
+113
+00:09:47,700 --> 00:09:52,819
+La Curiosity Box Ne offre un paio ciascuno. Questi occhiali bloccano il
+
+114
+00:09:52,820 --> 00:10:00,399
+99.999% Della luce che è giusto cosa ci vuole per guardare il sole in faccia, la cosa migliore degli occhiali è anche se non c'è nessuna eclissi
+
+115
+00:10:00,400 --> 00:10:04,059
+Puoi comunque guardare il sole
+
+116
+00:10:04,060 --> 00:10:07,679
+Nota che è una palla. Forse immagina quale portatovaglioli ci potresti fare
+
+117
+00:10:07,680 --> 00:10:09,789
+Questa Curiosity Box
+
+118
+00:10:09,790 --> 00:10:15,539
+è la mia preferita. Quella che prenderai iscrivendoti adesso viene con tante belle cose per esempio
+
+119
+00:10:15,540 --> 00:10:23,539
+Un poster che fa vedere che tutti i pianeti più plutone entrano tra la terra e la luna e viene anche con dei gadget scientifici come questi
+
+120
+00:10:23,540 --> 00:10:26,499
+Anelli magnetici che lievitano
+
+121
+00:10:26,500 --> 00:10:32,109
+Bello, e una porzione del ricavo verrà donata alla ricerca per l'Alzheimer, quindi fa bene per il tuo cervello e
+
+122
+00:10:32,110 --> 00:10:41,338
+per il cervello di tutti, contolla. Spero di vederti a Brain Candy Live e come sempre
+
+123
+00:10:41,339 --> 00:10:43,339
+Grazie per la visione
+

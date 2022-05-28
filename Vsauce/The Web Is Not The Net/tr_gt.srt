@@ -1,0 +1,727 @@
+1
+00:00:00,190 --> 00:00:03,329
+Selam, Vsauce.  Michael burada.
+
+2
+00:00:03,330 --> 00:00:07,548
+Mimas, Satürn'ün en şirin uydularından biridir.
+
+3
+00:00:07,549 --> 00:00:10,649
+Tüm yüzey alanı İspanya ile hemen hemen
+aynı
+
+4
+00:00:10,650 --> 00:00:14,798
+ama dev krateri onu
+
+5
+00:00:14,799 --> 00:00:18,618
+Ölüm Yıldızı gibi gösteriyor.  NASA, Mimas'ın bir sıcaklık haritasını yaptığında
+
+6
+00:00:18,619 --> 00:00:22,868
+
+, burada sarı ile gösterilen en sıcak bölgelerin,
+
+7
+00:00:22,869 --> 00:00:26,278
+krateri bir nokta gibi yiyen Pac-Man'e benzediğini buldular
+
+8
+00:00:26,279 --> 00:00:29,518
+.
+
+9
+00:00:29,519 --> 00:00:34,179
+Mimas'ı gerçek bir stajyer gibi dünya çapında internette gezinirken öğrendim.
+
+10
+00:00:34,180 --> 00:00:35,968
+Ancak Web ve
+
+11
+00:00:35,969 --> 00:00:39,898
+İnternet farklı şeylerdir.  World
+Wide Web
+
+12
+00:00:39,899 --> 00:00:44,328
+ve İnternet benzer şekillerde isimlere sahiptir,
+ancak
+
+13
+00:00:44,329 --> 00:00:47,878
+farklı şeyler yakalarlar.  Ve göreceğimiz gibi,
+
+14
+00:00:47,879 --> 00:00:51,269
+dünya çapında ağda gezinmek radikal
+
+15
+00:00:51,270 --> 00:00:54,689
+ama aynı zamanda uygun.  Mecazi olarak konuşursak
+
+16
+00:00:54,690 --> 00:00:58,509
+, web oldukça ıslak.
+
+17
+00:00:58,510 --> 00:01:01,878
+Web var olmadan ve İnternet var olmadan önce
+
+18
+00:01:01,879 --> 00:01:05,088
+bilgisayarlar vardı ama onlar büyük
+
+19
+00:01:05,089 --> 00:01:08,259
+ve yalnızdılar.  Birbirleriyle gerçekten konuşamıyorlardı.
+
+20
+00:01:08,260 --> 00:01:12,099
+Yani, elbette,
+benzer protokolleri konuşan benzer donanım parçalarını bağlayabilirsiniz
+
+21
+00:01:12,100 --> 00:01:13,879
+ama bu sadece
+
+22
+00:01:13,880 --> 00:01:18,438
+bir ağdı.  Birbirinden farklı küresel makineleri bağlamak için
+
+23
+00:01:18,439 --> 00:01:22,069
+bir ağ ağına ihtiyacınız olacaktır.
+
+24
+00:01:22,070 --> 00:01:26,459
+Ve 1960'larda bir grup
+parlak beyin tam da
+
+25
+00:01:26,460 --> 00:01:31,599
+böyle bir şey üzerinde işbirliği yaptı.  Şimdi, o zaman, telefon
+şirketleri
+
+26
+00:01:31,600 --> 00:01:35,438
+pek ilgilenmiyordu ve tek bir kurum,
+
+
+27
+00:01:35,439 --> 00:01:39,039
+tahsis edilmiş hatlar için gereken tüm sorumluluğu ve bilgi işlem gücünü yükleyemediği için...
+
+28
+00:01:39,040 --> 00:01:42,529
+Daha yenilikçi ve verimli yöntemler kullanıldı.
+
+29
+00:01:42,530 --> 00:01:46,739
+Birçok ulusu kapsayan bir sistem uluslararasıdır.
+
+30
+00:01:46,740 --> 00:01:49,789
+Bu nedenle, birçok ağa yayılan bir sistem bir Ağlar arasıdır
+
+31
+00:01:49,790 --> 00:01:54,978
+.  1974'e kadar, tam
+
+32
+00:01:54,979 --> 00:01:57,999
+da bu belgede, İnternetwork kelimesinin
+
+33
+00:01:58,000 --> 00:02:01,868
+resmi olarak bugün kullandığımız şey olan İnternet'e kısaltılması mümkün olmayacaktı
+.
+
+34
+00:02:01,869 --> 00:02:08,579
+29 Ekim 1969'da
+
+35
+00:02:08,580 --> 00:02:11,729
+, uzayda uzak bir kayaya
+
+36
+00:02:11,730 --> 00:02:14,738
+ilk inişimizden tam 100 gün sonra
+
+37
+00:02:14,739 --> 00:02:21,929
+, internet üzerinden uzak bir ekrana bir mektup indirdik.
+Leonard Kleinrock ve UCLA'daki bir ekip
+
+38
+00:02:21,930 --> 00:02:25,458
+, Stanford'daki farklı bir bilgisayar modeline 'giriş' kelimesini göndermeye karar verdi.
+
+39
+00:02:25,459 --> 00:02:29,779
+'L' gönderdiler ve geldi.  'O' gönderdiler
+
+40
+00:02:29,780 --> 00:02:33,609
+ve geldi.  Ve sonra sistem çöktü.
+
+41
+00:02:33,610 --> 00:02:37,399
+Ama yine de, İnternet üzerinden gönderilen
+
+42
+00:02:37,400 --> 00:02:41,119
+ilk mesaj çok önemliydi.  Teknolojik başarılar listesinde
+
+
+43
+00:02:41,120 --> 00:02:45,299
+, kelimenin tam anlamıyla düşük olmasına rağmen oldukça üst sıralarda yer
+
+44
+00:02:45,300 --> 00:02:48,399
+alacaktı... Hızlı ileri
+
+45
+00:02:48,400 --> 00:02:54,109
+yirmi yıl.  CERN,
+
+
+46
+00:02:54,110 --> 00:02:57,109
+kimin veya neyin ne yaptığını anlamak için farklı insanlarla ve teknolojilerle birçok farklı proje üzerinde çalışıyor...
+
+47
+00:02:57,110 --> 00:03:02,378
+İnternetten bakabilirsiniz.
+Ancak bilginin internette düzenlenme şekli
+
+48
+00:03:02,379 --> 00:03:06,128
+mantıksızdı.  Hiyerarşilere dayanarak,
+
+49
+00:03:06,129 --> 00:03:10,158
+doğrusal olarak topaldı.  Bu da
+
+50
+00:03:10,159 --> 00:03:14,359
+Tim Berners-Lee adında bir adamı sinirlendirdi.  Görüyorsunuz, bir
+ağacı çok uzun bir süre takip ederek
+
+51
+00:03:14,360 --> 00:03:17,499
+sadece başka bir projede yer alan bir kişi veya teknolojiye ulaşabilir
+
+
+52
+00:03:17,500 --> 00:03:20,679
+ve bunun hakkında bilgi almak
+için en başa dönüp
+
+53
+00:03:20,680 --> 00:03:21,579
+yeniden başlamanız gerekir.
+
+54
+00:03:21,580 --> 00:03:25,128
+Böylece, Mart 1989'da Tim Berners-Lee
+
+55
+00:03:25,129 --> 00:03:29,559
+, basitçe
+"Bilgi yönetimi:
+
+56
+00:03:29,560 --> 00:03:33,839
+Bir Öneri" başlıklı güçlü bir makale yazdı.  Aralarında referanslar gibi bağlantılar bulunan notların,
+
+57
+00:03:33,840 --> 00:03:37,039
+
+
+
+58
+00:03:37,040 --> 00:03:40,378
+sabit bir hiyerarşik sistemden çok daha yararlı olduğunu savundu.
+
+59
+00:03:40,379 --> 00:03:44,739
+Berners-Lee ağaçlar yerine bir ağ önerdi.
+
+60
+00:03:44,740 --> 00:03:49,899
+Belgeleri doğrusal olmayan yollarla birbirine bağlayan perdeli sistemler
+zaten vardı.
+
+61
+00:03:49,900 --> 00:03:53,658
+Bunlara hiper metin deniyordu.
+Ancak Tim Berners-Lee
+
+62
+00:03:53,659 --> 00:03:57,738
+
+
+
+63
+00:03:57,739 --> 00:04:03,149
+, dünya çapında bir web üretmek için hiper metin ağları ve İnternet'in evliliğini yönetti.
+İnterneti türümüzün tarihinde en hızlı benimsenen iletişim biçimi yapmak için gereken, birbirine bağlı, mantıklı ve
+
+64
+00:04:03,150 --> 00:04:06,859
+faydalı ortaklıktı
+
+
+65
+00:04:06,860 --> 00:04:09,958
+.
+
+66
+00:04:09,959 --> 00:04:13,119
+İnternet katılımcıları
+
+67
+00:04:13,120 --> 00:04:17,018
+, web ise bilgileri birbirine bağlar.
+Özellikle
+
+68
+00:04:17,019 --> 00:04:21,249
+İnternet üzerinden erişilen hiper metin belgeleri.
+
+69
+00:04:21,250 --> 00:04:26,039
+Tim Berners-Lee'nin
+dünya çapında
+
+70
+00:04:26,040 --> 00:04:29,869
+ağı oluşturduğu bilgisayarı Londra Bilim Müzesi'nde görebilirsiniz.
+Yirmi beş yıl önce
+
+71
+00:04:29,870 --> 00:04:34,739
+bu bilgisayarın fişini
+çekmiş olsaydınız, kelimenin tam anlamıyla
+
+72
+00:04:34,740 --> 00:04:38,279
+tüm ağı kapatırdınız.  İlk web sitesi
+
+73
+00:04:38,280 --> 00:04:43,809
+info.cern.ch idi.  Bugün
+
+
+74
+00:04:43,810 --> 00:04:45,008
+, web'i
+
+75
+00:04:45,009 --> 00:04:48,159
+bebek olarak göründüğü gibi görüntülemenizi sağlayan bir simülatör sunuyor.  Bundan
+
+76
+00:04:48,160 --> 00:04:52,809
+bu yana çok yol kat ettik.
+Gerçekten aklınızın uçmasını istiyorsanız,
+
+77
+00:04:52,810 --> 00:04:56,388
+web'de Onesecond[.designly.com]'a göz atın.
+Sayfayı ilk açtığınız andan itibaren her saniye ne kadar
+
+78
+00:04:56,389 --> 00:05:00,279
+Facebook beğeni, Tweet ve hatta e-
+posta gönderildiğini
+
+79
+00:05:00,280 --> 00:05:05,049
+ve ne kadarının gönderildiğini
+görebilirsiniz.
+
+80
+00:05:05,050 --> 00:05:08,739
+Isaac Asimov bir keresinde Dünya'nın okyanus
+olarak adlandırılması gerektiğini
+
+81
+00:05:08,740 --> 00:05:12,129
+çünkü denizin baskın
+
+82
+00:05:12,130 --> 00:05:15,508
+özelliği olduğunu söylemişti.  Okyanuslarımız geniş
+
+83
+00:05:15,509 --> 00:05:20,179
+ve tehlikeli, derin ve gizemli.
+Bu nedenle, insanların
+
+84
+00:05:20,180 --> 00:05:22,409
+İnternet'i
+
+85
+00:05:22,410 --> 00:05:26,089
+ve sağladığı sonsuz ve genellikle haritası
+
+86
+00:05:26,090 --> 00:05:30,198
+çıkarılmamış hipermetin ağını tanımlamak için bir metafora ihtiyaç duyduklarında, denize koşmaları bir sır değil.
+
+87
+00:05:30,199 --> 00:05:33,309
+Web'de
+
+88
+00:05:33,310 --> 00:05:37,099
+geziniyoruz, veri akışlarında geziniyoruz.  Korsanlar,
+sel ve kimlik avı var.
+
+89
+00:05:37,100 --> 00:05:40,819
+Blogların ve vlogların bile
+dilsel
+
+90
+00:05:40,820 --> 00:05:45,559
+kökenleri günlüklerde bulunur - başlangıçta
+kaptanlar tarafından denizde tutulan kayıtlar.
+
+91
+00:05:45,560 --> 00:05:49,209
+Sıvı su gibi, ağ da olağanüstü bir çözücüdür.
+
+92
+00:05:49,210 --> 00:05:53,089
+Malzemeyi geniş çapta erişilebilir ve kullanılabilir hale getirir.
+
+93
+00:05:53,090 --> 00:05:56,679
+Her web sayfasının diğer tüm web
+sayfalarından
+
+94
+00:05:56,680 --> 00:05:59,909
+ortalama sadece 19 tıklama uzakta olduğu tahmin edilmektedir
+
+95
+00:05:59,910 --> 00:06:02,969
+.  Okyanuslarımız gibi
+
+96
+00:06:02,970 --> 00:06:06,369
+, web de gerçekten sadece bir küresel
+
+97
+00:06:06,370 --> 00:06:09,739
+denizdir.  Ve okyanuslarımız gibi, ağ
+
+98
+00:06:09,740 --> 00:06:13,869
+da korumaya özen göstermemiz gereken bir ekosistemdir.
+
+99
+00:06:13,870 --> 00:06:18,168
+Esnek ve akıcıdır ve öğrendiğimiz
+
+100
+00:06:18,169 --> 00:06:23,079
+gibi, ağ sıvı su gibi
+kendinizi içinde görebileceğiniz bir şeydir.
+
+101
+00:06:23,080 --> 00:06:26,818
+1990'larda Douglas Rushkoff, ilk kez büyüyen
+
+102
+00:06:26,819 --> 00:06:32,568
+bir nesli tanımlamak için ekrancılar terimini kullandı.
+
+
+103
+00:06:32,569 --> 00:06:36,209
+ekranlardaki görüntülerin sadece pasif bir şekilde bakılacak bir şey olmadığını
+
+104
+00:06:36,210 --> 00:06:39,879
+, bunun yerine manipüle edilecek bir şey olduğunu düşünmeye kadar.
+
+105
+00:06:39,880 --> 00:06:42,969
+Eh, bugün daha da aşırı.  Web
+
+106
+00:06:42,970 --> 00:06:46,388
+tarafından sağlanan araçlar ve bağlantı,
+
+
+107
+00:06:46,389 --> 00:06:49,399
+ekranlardaki görüntüleri sadece manipüle edilecek
+
+108
+00:06:49,400 --> 00:06:54,089
+şeyler olarak değil, kendi kimliklerimizi yansıtacak şeyler olarak düşünmemize izin veriyor.
+
+109
+00:06:54,090 --> 00:06:58,219
+Bunu yapan herkes
+profesyonel bir hikaye anlatıcısı,
+
+110
+00:06:58,220 --> 00:07:02,089
+beğenilen şair veya tutarlı değildir.
+
+111
+00:07:02,090 --> 00:07:08,359
+Ancak içerik bir yana,
+insan ifadesinin hiper bağlantılı ağları inanılmaz derecede zengin ortamlardır
+
+112
+00:07:08,360 --> 00:07:13,819
+ve beyni kitaplardan daha çok çalıştırırlar?
+
+113
+00:07:13,820 --> 00:07:15,848
+Tartışma uğruna, Steven Johnson'ın
+
+114
+00:07:15,849 --> 00:07:19,589
+"Her Şey Kötüdür Sizin İçin İyidir"
+
+115
+00:07:19,590 --> 00:07:22,689
+adlı kitabından bir okuyalım.  Şimdi, bu pasajda, video oyunlarından ve World Wide Web'den
+
+116
+00:07:22,690 --> 00:07:26,008
+sonra kitapların icat edildiği bir dünya hayal ediyor
+
+117
+00:07:26,009 --> 00:07:29,478
+.
+
+118
+00:07:29,479 --> 00:07:32,839
+Her yerde çocuklar
+bu yeni eskimiş
+
+119
+00:07:32,840 --> 00:07:37,299
+kitapları okumaya başlıyor ve öğretmenler ve ebeveynler
+endişeli.  Şöyle bir
+
+120
+00:07:37,300 --> 00:07:40,529
+şey söyleyebileceklerini hayal ediyor:
+
+121
+00:07:40,530 --> 00:07:43,709
+"Belki de bu kitapların en tehlikeli özelliği,
+
+122
+00:07:43,710 --> 00:07:47,159
+sabit bir doğrusal yol izlemeleridir.
+
+123
+00:07:47,160 --> 00:07:50,679
+Anlatımlarını
+hiçbir şekilde kontrol edemezsiniz. Sadece arkanıza yaslanın
+
+124
+00:07:50,680 --> 00:07:53,899
+ve hikayenin size dikte ettirilmesini sağlayın.
+
+125
+00:07:53,900 --> 00:07:58,228
+İnteraktif anlatılarla yetişen bizler için
+bu özellik
+
+126
+00:07:58,229 --> 00:08:01,418
+şaşırtıcı görünebilir. Neden
+
+
+127
+00:08:01,419 --> 00:08:04,529
+bir insan koreografisini tamamen başka
+birinin yaptığı bir maceraya atılmak istesin ki?
+
+128
+00:08:04,530 --> 00:08:07,918
+Ama günümüz kuşağı günde milyonlarca kez bu tür maceralara atılıyor
+
+
+129
+00:08:07,919 --> 00:08:11,409
+. Okumak aktif değil.
+
+130
+00:08:11,410 --> 00:08:15,309
+Katılımcı bir süreç, itaatkar bir süreç.
+
+131
+00:08:15,310 --> 00:08:18,388
+Genç neslin kitap okuyucuları,
+
+
+132
+00:08:18,389 --> 00:08:22,609
+liderlik etmeyi öğrenmek yerine arsayı takip etmeyi öğreniyor."
+
+133
+00:08:22,610 --> 00:08:25,758
+İlginç.  Ama şunu düşünüyor olabilirsin, yapma
+
+134
+00:08:25,759 --> 00:08:29,079
+Michael, içeriği bu kadar kolay bir kenara koyamazsın.  Web'in yaydığı
+
+135
+00:08:29,080 --> 00:08:32,639
+tüm aptal ve yüzeysel şeyler ne olacak
+?
+
+136
+00:08:32,640 --> 00:08:37,099
+Demek istediğim, kesinlikle birçoğu tamamen
+işe yaramaz.  Ne de
+
+137
+00:08:37,100 --> 00:08:42,018
+olsa insanız, akla değer vermeliyiz.  Belki.
+
+138
+00:08:42,019 --> 00:08:46,278
+Ama bizi özel yapan gerçekten bu mu?
+Unamuno'nun dediği gibi,
+
+139
+00:08:46,279 --> 00:08:49,489
+"Bir kedinin
+
+140
+00:08:49,490 --> 00:08:52,749
+gülmekten ya da ağlamaktan daha çok mantık gördüğünü gördüm. Belki de içinden ağlıyor ya da
+
+141
+00:08:52,750 --> 00:08:57,648
+gülüyor. Ama o zaman, belki de kendi içinde,
+bir yengeç
+
+142
+00:08:57,649 --> 00:09:03,409
+ikinci dereceden denklemleri çözüyor."  Ya ucuz
+kahkahalar, özlü şiirler, dedikodular,
+
+143
+00:09:03,410 --> 00:09:06,028
+sızlanmalar, dramalar ve özçekimler gerçekten de
+
+144
+00:09:06,029 --> 00:09:10,789
+web'in yapmamıza izin verdiği en insani şeylerse?
+
+145
+00:09:10,790 --> 00:09:14,759
+O derin.  Ama Deep Web, gizli web kadar derin değil
+
+146
+00:09:14,760 --> 00:09:18,219
+.  Web'in
+
+147
+00:09:18,220 --> 00:09:23,379
+arama motorlarına görünmeyen kısmı.  Şimdi, bunların çoğu,
+ödeme
+
+148
+00:09:23,380 --> 00:09:25,219
+duvarlarının veya parola korumasının
+
+149
+00:09:25,220 --> 00:09:28,979
+veya dinamik olarak oluşturulmuş web sayfalarının arkasına gizlenmiş zararsız içeriktir.  Ama
+
+150
+00:09:28,980 --> 00:09:32,999
+bu şeyleri indekslemedik bile.
+Ve web'in %1'i değil,
+
+151
+00:09:33,000 --> 00:09:36,349
+%10'u da değil.
+
+152
+00:09:36,350 --> 00:09:39,458
+Tüm World Wide Web'in %80'i.
+
+153
+00:09:39,459 --> 00:09:42,708
+Web derin bir okyanus
+
+154
+00:09:42,709 --> 00:09:46,939
+ve içinde çılgınca dalgalar yaratıyoruz.
+Örneğin, Twitter'da gerçek zamanlı emoji kullanımına bir göz atın
+
+155
+00:09:46,940 --> 00:09:51,939
+ve
+
+
+156
+00:09:51,940 --> 00:09:56,518
+en az popüler emoji olmaya teşvik edici birkaç kelime söyleyin.
+Ayrıca interneti
+
+157
+00:09:56,519 --> 00:10:00,689
+çılgınca keşfediyoruz.  Bu tamamen yeni bir
+sınır.  Her gün
+
+158
+00:10:00,690 --> 00:10:04,398
+Google
+
+159
+00:10:04,399 --> 00:10:08,669
+, daha önce hiç sorulmamış 500 milyon arama sorgusu alıyor.
+
+160
+00:10:08,670 --> 00:10:12,278
+Tüm bu keşifler nereye varacak?
+
+161
+00:10:12,279 --> 00:10:19,599
+Kim bilir?  Ancak metaforumuza geri dönersek,
+okyanusun derinliklerini keşfetmek için inşa ettiğimiz kıyafetlerin aynısı
+
+162
+00:10:19,600 --> 00:10:22,909
+, daha sonra Dünya'nın ötesine geçmek için kullanacağımız giysilere ilham verdi ve
+
+163
+00:10:22,910 --> 00:10:27,208
+onları mümkün kıldı.  Bu yüzden keşfetmeye
+
+164
+00:10:27,209 --> 00:10:28,539
+devam edin, sörf yapmaya devam edin.
+
+165
+00:10:28,540 --> 00:10:29,539
+Ve her zamanki gibi,
+
+166
+00:10:29,540 --> 00:10:31,200
+izlediğiniz için teşekkürler.
+

@@ -1,0 +1,288 @@
+1
+00:00:00,000 --> 00:00:01,499
+Imagine que está a cargo del gobierno
+
+2
+00:00:01,500 --> 00:00:04,899
+y decide que es hora de tomar su consejo de la selva existente
+
+3
+00:00:04,900 --> 00:00:07,799
+y cambiarlo a STV.
+
+4
+00:00:07,800 --> 00:00:09,499
+Una de las cosas que es una opción es
+
+5
+00:00:09,500 --> 00:00:14,499
+que STV requiere que haya más de un representante por rango
+
+6
+00:00:14,500 --> 00:00:16,999
+, puede triplicar, como mínimo
+
+7
+00:00:17,000 --> 00:00:19,999
+o quintuplicar la cantidad de políticos que tiene, lo
+
+8
+00:00:20,000 --> 00:00:22,499
+que podría ser algo que quiera hacer,
+
+9
+00:00:22,500 --> 00:00:25,799
+pero no  muchas buenas razones por las que es posible que no quieras hacer eso.
+
+10
+00:00:25,800 --> 00:00:27,099
+Aquí hay una forma más razonable de
+
+11
+00:00:27,100 --> 00:00:29,999
+cambiar un país a STV.
+
+12
+00:00:30,000 --> 00:00:32,999
+Aquí hay un mapa de nuestros rangos electorales actuales,
+
+13
+00:00:33,000 --> 00:00:34,999
+cada uno de los cuales envía un representante.
+
+14
+00:00:35,000 --> 00:00:37,499
+Entonces, el Paso 1 es que vamos a deshacernos de todos estos rangos
+
+15
+00:00:37,500 --> 00:00:39,499
+y vamos a volver a dibujar los límites.
+
+16
+00:00:39,500 --> 00:00:41,799
+Entonces, en lugar de que todos sean elegidos de un rango
+
+17
+00:00:41,800 --> 00:00:45,499
+, vamos a dibujar rangos que tienen cinco representantes en cada uno.
+
+18
+00:00:45,500 --> 00:00:47,299
+Ahora bien, si la representación local significa
+
+19
+00:00:47,300 --> 00:00:49,999
+algo, probablemente querrá intentar trazar estos límites
+
+20
+00:00:50,000 --> 00:00:51,999
+de manera significativa en su país.
+
+21
+00:00:52,000 --> 00:00:53,999
+Por lo tanto, siguen los límites naturales,
+
+22
+00:00:54,000 --> 00:00:56,499
+o siguen los límites de la ciudad, o los límites históricos...
+
+23
+00:00:56,500 --> 00:00:59,499
+usted querrá tratar de igualarlos lo más cerca posible.
+
+24
+00:00:59,500 --> 00:01:00,799
+Pero una cosa importante a tener en cuenta
+
+25
+00:01:00,800 --> 00:01:03,399
+es que no es necesario que todos los rangos
+
+26
+00:01:03,400 --> 00:01:06,999
+tengan exactamente el mismo tamaño en términos de representantes.
+
+27
+00:01:07,000 --> 00:01:08,999
+Entonces, en la esquina inferior del mapa aquí
+
+28
+00:01:09,000 --> 00:01:10,999
+puedes ver que tenemos una especie de "ciudad animal".
+
+29
+00:01:11,000 --> 00:01:11,999
+Entonces, lo que puede hacer es, en
+
+30
+00:01:12,000 --> 00:01:13,799
+lugar de tratar de dividir eso en
+
+31
+00:01:13,800 --> 00:01:16,299
+un grupo de 5 rangos representativos
+
+32
+00:01:16,300 --> 00:01:18,999
+, puede tomarlo y decir "No, solo lo dividiremos en dos".
+
+33
+00:01:19,000 --> 00:01:21,999
+Está la mitad norte de la ciudad y la mitad sur de la ciudad
+
+34
+00:01:22,000 --> 00:01:25,499
+y son dos rangos con nueve representantes cada uno.
+
+35
+00:01:25,500 --> 00:01:29,799
+Ahora puede que te estés preguntando "¿Por qué no lo conviertes en un rango con 18 representantes?"
+
+36
+00:01:29,800 --> 00:01:33,999
+La respuesta es que hay una especie de compensación por hacer rangos más grandes.
+
+37
+00:01:34,000 --> 00:01:36,039
+Cuanto más grande sea el rango, tendrá un beneficio
+
+38
+00:01:36,040 --> 00:01:39,999
+en el sentido de que será más representativo de la población local.
+
+39
+00:01:40,000 --> 00:01:43,399
+Entonces, en teoría, un rango con 40 o 50 representantes
+
+40
+00:01:43,400 --> 00:01:46,799
+sería incluso mejor que un rango con solo, digamos, cinco.
+
+41
+00:01:46,800 --> 00:01:48,799
+Pero el precio que paga por un rango más grande
+
+42
+00:01:48,800 --> 00:01:50,799
+es una elección más complicada
+
+43
+00:01:50,800 --> 00:01:53,999
+porque si hay, digamos, nueve escaños
+
+44
+00:01:54,000 --> 00:01:57,599
+disponibles, probablemente tendrá al menos veinte candidatos postulados.
+
+45
+00:01:57,600 --> 00:02:01,499
+Entonces, si realmente tiene un rango que tiene dieciocho escaños
+
+46
+00:02:01,500 --> 00:02:05,999
+disponibles,  Probablemente esté viendo una elección que va a tener 40 o 50 candidatos, lo
+
+47
+00:02:06,000 --> 00:02:11,499
+cual está un poco más allá de lo que puede esperar que una persona razonable pueda distinguir.
+
+48
+00:02:11,500 --> 00:02:13,299
+Incluso dieciocho está subiendo un poco, por
+
+49
+00:02:13,300 --> 00:02:17,999
+lo que los sistemas STV razonables le permiten enumerar sus
+
+50
+00:02:18,000 --> 00:02:20,999
+favoritos hasta donde quiera llegar.  Di 1-5.
+
+51
+00:02:21,000 --> 00:02:24,999
+Y luego simplemente no llene más la boleta porque ya no le importa.
+
+52
+00:02:25,000 --> 00:02:28,499
+Ahora, la otra cara de este problema es cuando tiene una región muy escasamente poblada
+
+53
+00:02:28,500 --> 00:02:30,499
+como la que tenemos aquí arriba a la izquierda.
+
+54
+00:02:30,500 --> 00:02:33,499
+Muchos países tienen su propia versión de regiones de sobrevuelo
+
+55
+00:02:33,500 --> 00:02:37,999
+donde la población está muy, muy distribuida y muy escasa.
+
+56
+00:02:38,000 --> 00:02:43,399
+En ese caso, tratar de dibujar un rango que tuviera cinco representantes podría ser cómicamente grande,
+
+57
+00:02:43,400 --> 00:02:46,499
+tan grande como para burlarse de la noción misma de
+
+58
+00:02:46,500 --> 00:02:49,999
+que estos representantes son "locales", en cualquier sentido de esa palabra.
+
+59
+00:02:50,000 --> 00:02:52,999
+Entonces, si tiene una región muy escasamente poblada,
+
+60
+00:02:53,000 --> 00:02:54,999
+también puede tener un rango más pequeño.
+
+61
+00:02:55,000 --> 00:02:59,499
+Entonces, en este caso, vamos a hacer un rango con tres representantes en la esquina.
+
+62
+00:02:59,500 --> 00:03:02,999
+Ahora, como antes, la ventaja que se obtiene con una elección más pequeña
+
+63
+00:03:03,000 --> 00:03:06,999
+es que es más fácil de seguir: habrá menos candidatos postulados.
+
+64
+00:03:07,000 --> 00:03:12,499
+Sin embargo, los rangos más pequeños son mucho más susceptibles a la manipulación intencional
+
+65
+00:03:12,500 --> 00:03:14,499
+y tres están en ese número.
+
+66
+00:03:14,500 --> 00:03:17,999
+Si su país está cambiando al Voto Único Transferible
+
+67
+00:03:18,000 --> 00:03:20,999
+y quiere que todos los rangos sean
+
+68
+00:03:21,000 --> 00:03:24,999
+tres, debe sospechar mucho porque tres es capaz de manipular.
+
+69
+00:03:25,000 --> 00:03:28,199
+Va menos proporcionado que un rango más grande.
+
+70
+00:03:28,200 --> 00:03:30,999
+Es aceptable bajo ciertas circunstancias razonables,
+
+71
+00:03:31,000 --> 00:03:33,999
+pero definitivamente no debería ser el estándar.
+
+72
+00:03:34,000 --> 00:03:39,000
+Cinco debería ser realmente el mínimo y nueve probablemente debería ser el máximo.
+

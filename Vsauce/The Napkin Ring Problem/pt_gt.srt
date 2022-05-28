@@ -1,0 +1,508 @@
+1
+00:00:02,409 --> 00:00:10,289
+Oi, Vsauce!  Miguel aqui!  Se você núcleo uma esfera;  isto é, remova um cilindro dele, você ficará com uma forma
+
+2
+00:00:10,290 --> 00:00:14,979
+chamada Anel de guardanapo porque, bem, parece um anel de guardanapo!
+
+3
+00:00:14,980 --> 00:00:20,099
+É uma forma bizarra porque se dois anéis de guardanapo tiverem a mesma altura, bem,
+
+4
+00:00:20,100 --> 00:00:24,639
+eles terão o mesmo volume, independentemente do tamanho das esferas de onde vieram!  (Legal)
+
+5
+00:00:24,640 --> 00:00:30,579
+Isso significa que se você cortar anéis de guardanapo igualmente altos de uma laranja e da Terra,
+
+6
+00:00:30,580 --> 00:00:35,199
+bem, um pode ser segurado em sua mão.  O outro teria a circunferência de todo o nosso planeta,
+
+7
+00:00:35,200 --> 00:00:39,339
+mas ambos teriam o mesmo volume...
+
+8
+00:00:39,340 --> 00:00:45,328
+Mencionei esse fato contraintuitivo enquanto fazia um Kendama com Adam Savage.  Confira o vídeo se ainda não assistiu, ou melhor ainda
+
+9
+00:00:45,329 --> 00:00:51,959
+, venha nos ver.  Estamos trazendo doces para o cérebro ao vivo para 24 novas cidades neste outono.  Vai ser ocupado, mas agora
+
+10
+00:00:51,960 --> 00:00:56,349
+estamos falando de bolas e cortá-las!
+
+11
+00:00:56,350 --> 00:01:02,139
+Eu tenho aqui DOIS anéis de guardanapo de esferas de tamanhos muito diferentes;  um é de uma pequena bola,
+
+12
+00:01:02,140 --> 00:01:05,709
+apenas um pequeno tomate que eu tirei, então tem um pequeno buraco bem ali.
+
+13
+00:01:05,710 --> 00:01:08,128
+O outro anel de guardanapo é feito de uma laranja,
+
+14
+00:01:08,129 --> 00:01:12,879
+mas ambos os anéis de guardanapo têm a mesma altura.  O tomate tem uma
+
+15
+00:01:12,880 --> 00:01:20,279
+circunferência menor que a laranja, o que significa menos volume, mas seu anel é mais grosso, o que significa mais volume.  Ambos os efeitos
+
+16
+00:01:20,280 --> 00:01:31,559
+se cancelam exatamente.  Então esses dois guardanapos têm volumes idênticos, eles ocupam a mesma quantidade de espaço
+
+17
+00:01:31,560 --> 00:01:34,269
+A propósito, o óleo de laranja é inflamável
+
+18
+00:01:34,270 --> 00:01:37,239
+Para ver por que o problema do guardanapo é verdadeiro,
+
+19
+00:01:37,240 --> 00:01:44,769
+vamos discutir o princípio de Cavalieri.  Ele afirma que para quaisquer dois sólidos como esses dois cilindros que eu construí aqui
+
+20
+00:01:44,770 --> 00:01:49,868
+imprensados entre planos paralelos, se qualquer outro plano paralelo inter
+
+21
+00:01:49,869 --> 00:01:54,298
+eptar ambos em regiões de área igual, não importa de onde seja retirado. Bem, 
+
+22
+00:01:54,299 --> 00:02:02,618
+ntão os sólidos têm o mesmo volume.  Isso é claramente verdade aqui, esses cilindros são construídos com pilhas de adesivos VSauce
+
+23
+00:02:02,619 --> 00:02:06,289
+100 em cada pilha, então seus volumes são os mesmos
+
+24
+00:02:06,290 --> 00:02:07,909
+se eu
+
+25
+00:02:07,910 --> 00:02:15,429
+inclinar um deles assim, a forma mudará, mas seu volume ainda não contém a mesma quantidade de  coisas
+
+26
+00:02:15,430 --> 00:02:18,169
+que não adicionei ou subtraí adesivos
+
+27
+00:02:18,170 --> 00:02:25,539
+E o princípio de Cavalieri garante que eles ainda tenham o mesmo volume porque qualquer seção transversal tirada daqui de baixo aqui no meio em qualquer
+
+28
+00:02:25,540 --> 00:02:33,279
+lugar sempre nos dará uma região da mesma área que a outra porque essas  regiões são sempre círculos de áreas iguais.
+
+29
+00:02:33,280 --> 00:02:37,339
+Agora vamos aplicar o princípio de Cavalieri aos guardanapos
+
+30
+00:02:37,340 --> 00:02:40,879
+Podemos ver que dois guardanapos com alturas semelhantes têm
+
+31
+00:02:40,880 --> 00:02:46,639
+volumes idênticos mostrando que quando cortados por um plano a área da seção transversal de um
+
+32
+00:02:46,640 --> 00:02:49,719
+sempre é igual à área dos outros agora para fazer isso
+
+33
+00:02:49,720 --> 00:02:56,829
+Observe que a área  da seção transversal das esferas menos a área da seção transversal dos cilindros nos dá a área da seção transversal dos anéis de guardanapo
+
+34
+00:02:56,830 --> 00:03:01,819
+.  Dependendo de onde cortarmos o anel de guardanapo, as seções transversais terão áreas diferentes,
+
+35
+00:03:01,820 --> 00:03:08,809
+mas serão sempre iguais umas às outras.  Vamos calcular as áreas desses anéis azuis
+
+36
+00:03:08,810 --> 00:03:17,359
+primeiro vamos chamar a altura do anel do guardanapo h e o raio da esfera que eles cortaram do
+
+37
+00:03:17,360 --> 00:03:18,169
+R maiúsculo
+
+38
+00:03:18,170 --> 00:03:25,629
+Certo, agora perfeito uma seção transversal de uma esfera como esta e uma seção transversal de  um cilindro como este são ambos círculos
+
+39
+00:03:25,630 --> 00:03:30,019
+Então as suas áreas podem ser determinadas usando Pi vezes o raio ao quadrado
+
+40
+00:03:30,020 --> 00:03:37,509
+Então se quisermos encontrar a área da secção transversal das esferas e subtrair a área da secção transversal dos cilindros
+
+41
+00:03:37,510 --> 00:03:41,839
+(vou desenhar uma imagem do  um cilindro aqui), tudo o que precisamos fazer é pegar Pi
+
+42
+00:03:41,840 --> 00:03:45,409
+multiplicar pelo raio da seção transversal da esfera
+
+43
+00:03:45,410 --> 00:03:53,329
+Square isso e depois subtrair Pi vezes o raio do cilindro Squared, mas quais são seus raios?
+
+44
+00:03:53,330 --> 00:04:01,059
+Bem, se este é o centro da esfera, podemos traçar uma linha reta até o canto do cilindro descendo o lado
+
+45
+00:04:01,060 --> 00:04:05,679
+do cilindro e depois conectar para formar um triângulo retângulo
+
+46
+00:04:05,680 --> 00:04:12,439
+O Teorema de Pitágoras realmente nos ajudará aqui, pois nos diz que o  comprimento de um lado ao quadrado mais o comprimento do outro lado
+
+47
+00:04:12,440 --> 00:04:16,778
+ao quadrado é igual ao comprimento da hipotenusa ao quadrado
+
+48
+00:04:16,779 --> 00:04:20,909
+Agora esta distância aqui neste lado do triângulo o que queremos
+
+49
+00:04:20,910 --> 00:04:29,079
+É o raio do cilindro, então vamos chamá-lo de pequeno raio r  do cilindro (bela foto ali)
+
+50
+00:04:29,080 --> 00:04:31,388
+então o raio
+
+51
+00:04:31,389 --> 00:04:34,839
+do cilindro
+
+52
+00:04:34,840 --> 00:04:37,029
+ao quadrado mais
+
+53
+00:04:37,030 --> 00:04:44,019
+este comprimento do lado, que é apenas metade da altura do cilindro, então a altura do cilindro dividida por 2
+
+54
+00:04:44,020 --> 00:04:45,369
+ao quadrado
+
+55
+00:04:45,370 --> 00:04:53,349
+Igual a hipotenusa ao quadrado a hipotenusa passa a ser  o raio da própria esfera que é R maiúsculo
+
+56
+00:04:53,350 --> 00:04:57,179
+Perfeito agora vamos resolver para o raio do cilindro.  Que é o que queremos
+
+57
+00:04:57,180 --> 00:05:04,119
+Vamos apenas subtrair h sobre 2 ao quadrado de ambos os lados que nos dará o raio do cilindro
+
+58
+00:05:04,120 --> 00:05:05,168
+ao quadrado
+
+59
+00:05:05,169 --> 00:05:08,469
+igual ao raio da esfera ao quadrado menos
+
+60
+00:05:08,470 --> 00:05:10,959
+Metade da altura do cilindro ao quadrado
+
+61
+00:05:10,960 --> 00:05:17,888
+Podemos tirar a raiz quadrada de  ambos os lados para que terminemos com o raio do cilindro
+
+62
+00:05:17,889 --> 00:05:21,879
+igual à raiz quadrada do raio da esfera
+
+63
+00:05:21,880 --> 00:05:25,149
+menos 1/2 da altura do cilindro ao quadrado
+
+64
+00:05:25,150 --> 00:05:32,439
+Perfeito ok agora vamos dar uma olhada na área de uma seção transversal do  esfera agora para isso
+
+65
+00:05:32,440 --> 00:05:38,228
+vamos desenhar uma linha reta do centro para a borda da
+
+66
+00:05:38,229 --> 00:05:44,649
+seção transversal da esfera, e vamos direto para baixo e conectar de volta, ei, olhe!  Outro triângulo retângulo
+
+67
+00:05:44,650 --> 00:05:48,699
+vamos chamar essa altura de y
+
+68
+00:05:48,700 --> 00:05:55,679
+E observe que essa distância agora o lado do triângulo aqui embaixo é na verdade o raio
+
+69
+00:05:55,680 --> 00:05:57,969
+da
+
+70
+00:05:57,970 --> 00:06:05,109
+seção transversal do círculo aqui em cima.  Ambos são iguais, então queremos resolver para isso o raio do círculo que é a seção transversal das esferas
+
+71
+00:06:05,110 --> 00:06:05,709
+Ok,
+
+72
+00:06:05,710 --> 00:06:08,948
+então sabemos que o raio da
+
+73
+00:06:08,949 --> 00:06:14,829
+seção transversal da esfera ao quadrado mais essa distância ao quadrado (que é y) é
+
+74
+00:06:14,830 --> 00:06:21,159
+igual a  hipotenusa ao quadrado bem, o que você sabe que a hipotenusa é o raio da esfera novamente (R maiúsculo)
+
+75
+00:06:21,160 --> 00:06:27,819
+Ok vamos subtrair y ao quadrado de ambos os lados o raio da seção transversal das esferas ao quadrado
+
+76
+00:06:27,820 --> 00:06:31,749
+é igual ao raio da esfera ao quadrado menos
+
+77
+00:06:31,750 --> 00:06:36,019
+Y ao quadrado terá  a raiz quadrada de ambos os lados e acabam
+
+78
+00:06:36,020 --> 00:06:41,029
+aprendendo que o raio da seção transversal da esfera é igual à raiz quadrada de
+
+79
+00:06:41,030 --> 00:06:45,499
+O raio da esfera ao quadrado menos y ao quadrado.  Y é a altura que esta
+
+80
+00:06:45,500 --> 00:06:53,569
+seção transversal é tirada acima do equador quanto mais para cima levamos essas seções transversais da esfera menores serão seus raios
+
+81
+00:06:53,570 --> 00:06:58,009
+Considerando que o raio dos cilindros é sempre o mesmo não importa de onde cortamos
+
+82
+00:06:58,010 --> 00:07:01,609
+De qualquer maneira, vamos pegar  esses dois Raios e coloque-os em nossa fórmula
+
+83
+00:07:01,610 --> 00:07:06,079
+Ok, a área da seção transversal da esfera é o que queremos primeiro
+
+84
+00:07:06,080 --> 00:07:10,579
+Ok, isso é apenas a raiz quadrada de R ao quadrado menos y ao quadrado
+
+85
+00:07:10,580 --> 00:07:18,039
+Nada mal agora o raio do cilindro é o quadrado  raiz de R ao quadrado menos
+
+86
+00:07:18,040 --> 00:07:25,549
+Metade da altura do cilindro ao quadrado agora o que você pode notar é que estamos tirando a raiz quadrada de algo e depois elevando-a ao quadrado.
+
+87
+00:07:25,550 --> 00:07:28,339
+Estes realmente se cancelam
+
+88
+00:07:28,340 --> 00:07:30,369
+perfeitamente!  Muito mais simples
+
+89
+00:07:30,370 --> 00:07:38,659
+Mas agora vamos distribuir Pi para os termos dentro dos parênteses, então pi vezes R ao quadrado nos dá Pi R ao
+
+90
+00:07:38,660 --> 00:07:44,149
+quadrado Pi vezes menos y ao quadrado nos dá menos pi y ao quadrado
+
+91
+00:07:44,150 --> 00:07:46,189
+Então um Pi negativo vezes R
+
+92
+00:07:46,190 --> 00:07:54,859
+ao quadrado é Pi negativo R ao quadrado negativo Pi  vezes negativo h sobre 2 ao quadrado é positivo Pi
+
+93
+00:07:54,860 --> 00:07:56,659
+h sobre 2 ao
+
+94
+00:07:56,660 --> 00:08:03,219
+quadrado.  Ótimo, agora podemos continuar simplificando, mas o que você pode notar é que temos um pi r ao quadrado e um
+
+95
+00:08:03,220 --> 00:08:07,039
+menos Pi R ao quadrado, bem, isso é igual a 0, então eles se
+
+96
+00:08:07,040 --> 00:08:11,299
+cancelam completamente, mas o que resta são
+
+97
+00:08:11,300 --> 00:08:18,359
+Termos contendo  nenhuma menção às esferas Raio se o raio é grande ou pequeno
+
+98
+00:08:18,360 --> 00:08:23,299
+Não importa tudo o que você precisa saber para encontrar a área da seção transversal de um guardanapo
+
+99
+00:08:23,300 --> 00:08:25,579
+é a altura do guardanapo
+
+100
+00:08:25,580 --> 00:08:32,219
+Y, é claro, é limitado pelo  altura de um aro de guardanapos estas áreas azuis têm a mesma área umas das outras e isto
+
+101
+00:08:32,220 --> 00:08:41,019
+será verdade independentemente de onde cortarmos a secção transversal do aro de guardanapos o que significa pelo princípio de Cavalieri que ambos os aro de guardanapos têm o mesmo
+
+102
+00:08:41,020 --> 00:08:43,099
+Volume
+
+103
+00:08:43,100 --> 00:08:47,699
+Yay :3
+
+104
+00:08:47,700 --> 00:08:50,019
+(com dentes  )
+
+105
+00:08:50,020 --> 00:08:54,279
+Mas o que isso significa para você para a vida no universo?
+
+106
+00:08:54,280 --> 00:08:58,779
+Bem, como sabemos, se você gosta, você deve colocar um anel,
+
+107
+00:08:58,780 --> 00:09:00,679
+mas se você gosta,
+
+108
+00:09:00,680 --> 00:09:05,199
+não sabe a largura do dedo e só quer oferecer uma quantidade predeterminada de material,
+
+109
+00:09:05,200 --> 00:09:09,639
+você deve colocar um anel de guardanapo.
+
+110
+00:09:09,640 --> 00:09:11,899
+E como sempre
+
+111
+00:09:11,900 --> 00:09:21,459
+Obrigado por assistir :D
+
+112
+00:09:21,460 --> 00:09:23,859
+No dia 21 de agosto de
+
+113
+00:09:23,860 --> 00:09:31,599
+2017 haverá um eclipse solar total a sombra da Lua correrá pelos Estados Unidos Contíguos
+
+114
+00:09:31,600 --> 00:09:35,489
+Vai ser incrível e um pouco assustador
+
+115
+00:09:35,490 --> 00:09:42,039
+tenho certeza que estarei vendo  de Oregon com meus amigos em Atlas, Obscura.  Eu não posso esperar, mas mantenha seus olhos
+
+116
+00:09:42,040 --> 00:09:47,699
+seguros se você quiser ver o eclipse você tem que ter proteção especial para os olhos
+
+117
+00:09:47,700 --> 00:09:52,819
+a curiosidade A caixa vem com esses óculos que bloqueiam
+
+118
+00:09:52,820 --> 00:10:00,399
+99,999% da luz visível isso é o que é preciso para poder olhar diretamente  o sol é realmente o que eu amo nesses óculos.
+
+119
+00:10:00,400 --> 00:10:04,059
+Não há eclipse acontecendo.  Você ainda pode apenas olhar para o sol
+
+120
+00:10:04,060 --> 00:10:07,679
+Observe que é uma bola.  Talvez imagine em que tipo de anel de guardanapo
+
+121
+00:10:07,680 --> 00:10:09,789
+você gostaria de transformá-lo.  A
+
+122
+00:10:09,790 --> 00:10:15,539
+caixa Curiosity atual é a minha favorita.  O que você vai receber se você se inscrever agora vem com todo tipo de coisa legal que vem com
+
+123
+00:10:15,540 --> 00:10:23,539
+Um pôster mostrando que todos os planetas e Plutão podem caber entre a Terra e a Lua ele também vem com gadgets científicos como esses
+
+124
+00:10:23,540 --> 00:10:26,499
+anéis magnéticos levitantes
+
+125
+00:10:26,500 --> 00:10:32,109
+muito legal também uma parte de todos os rendimentos vão para a pesquisa de alzheimer, então é bom para o seu cérebro e para o cérebro de
+
+126
+00:10:32,110 --> 00:10:41,338
+todos os outros.  Espero ver você no Brain Candy ao vivo e como sempre
+
+127
+00:10:41,339 --> 00:10:43,339
+Obrigado por assistir
+

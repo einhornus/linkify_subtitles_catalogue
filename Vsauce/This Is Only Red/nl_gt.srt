@@ -1,0 +1,600 @@
+1
+00:00:00,410 --> 00:00:04,449
+Gelukkig nieuwjaar, Vsauce!  Michaël hier.
+En laten we ter ere van 2013
+
+2
+00:00:04,450 --> 00:00:07,949
+13 dingen bespreken.
+
+3
+00:00:07,950 --> 00:00:12,239
+Om te beginnen, waar geef je al dat geld uit dat
+je tijdens de vakantie hebt opgehaald?
+
+4
+00:00:12,240 --> 00:00:16,048
+Nu verkopen veel websites coole dingen.
+United Nuclear verkoopt
+
+5
+00:00:16,049 --> 00:00:20,379
+Aerogel, radioactieve isotopen, schema's van straalmotoren
+
+6
+00:00:20,380 --> 00:00:25,858
+en zelfs met uranium gedoteerde knikkers.
+Maths Gear verkoopt deze coole niet-transitieve
+
+7
+00:00:25,859 --> 00:00:26,858
+dobbelstenen die ik gisteren heb gekocht
+
+8
+00:00:26,859 --> 00:00:31,749
+, net als Grand Illusions.
+Maar ze dragen ook voor explosieve
+
+9
+00:00:31,750 --> 00:00:32,319
+goocheltrucs,
+
+10
+00:00:32,320 --> 00:00:35,738
+optische illusiemaskers en een poster van
+
+11
+00:00:35,739 --> 00:00:39,148
+deze afbeelding.
+Wat maakt dat
+
+12
+00:00:39,149 --> 00:00:42,628
+beeld zo bijzonder?
+Het is een voorbeeld
+
+13
+00:00:42,629 --> 00:00:45,949
+van het landeffect.
+Ook al lijkt het
+
+14
+00:00:45,950 --> 00:00:49,589
+een heleboel verschillende kleuren te bevatten -
+sinaasappels en geel en groen,
+
+15
+00:00:49,590 --> 00:00:52,979
+het hele beeld is eigenlijk gemaakt van niets
+
+16
+00:00:52,980 --> 00:00:57,628
+anders dan rood.  Ernstig.  Ik heb de
+afbeelding in de beschrijvingen gelinkt, zodat je hem kunt
+
+17
+00:00:57,629 --> 00:00:59,078
+pakken en onderzoeken met
+
+18
+00:00:59,079 --> 00:01:02,569
+je favoriete afbeeldingseditor.
+De gele tinten zijn eigenlijk
+
+19
+00:01:02,570 --> 00:01:06,789
+lichtrood of roze.
+En het groen is gewoon saai grijs
+
+20
+00:01:06,790 --> 00:01:09,978
+rood.
+Wat er aan de hand is, wordt
+
+21
+00:01:09,979 --> 00:01:14,309
+kleurconstantie genoemd.
+Je visuele systeem, je ogen en hersenen
+
+22
+00:01:14,310 --> 00:01:17,679
+berekenen de gemiddelde
+verlichtingsomstandigheden van een scène
+
+23
+00:01:17,680 --> 00:01:22,478
+en trekken die omstandigheden vervolgens af,
+zodat de kleuren relatief constant blijven.
+
+24
+00:01:22,479 --> 00:01:25,989
+Dit is de reden waarom een blauw object er blauw uitziet, of je
+het nu bekijkt onder
+
+25
+00:01:25,990 --> 00:01:29,809
+de middagzon of een donkerrode zonso
+dergang of fluorescerend licht of gloei
+
+26
+00:01:29,810 --> 00:01:30,809
+amplicht.  Het 
+
+27
+00:01:30,810 --> 00:01:33,999
+is een heel briljant systeem, maar het kan
+
+28
+00:01:34,000 --> 00:01:38,769
+ons voor de gek houden.  Speciale afbeeldingen, zoals deze, lijken
+te worden verlicht met veel rood
+
+29
+00:01:38,770 --> 00:01:39,289
+licht,
+
+30
+00:01:39,290 --> 00:01:43,679
+dus je hersenen trekken het rood af
+en doen aannames.
+
+31
+00:01:43,680 --> 00:01:47,469
+Er zijn tal van andere voorbeelden van
+het landeffect en andere manieren waarop ons visuele
+
+32
+00:01:47,470 --> 00:01:49,039
+systeem tegen ons liegt.
+
+33
+00:01:49,040 --> 00:01:53,259
+Maar weet je wat nog meer een leugen is?
+
+34
+00:01:53,260 --> 00:01:55,669
+Regendruppels.
+Nou ja, in ieder geval
+
+35
+00:01:55,670 --> 00:01:59,449
+die afbeelding van regendruppels.
+Regendruppels hebben niet de vorm van
+
+36
+00:01:59,450 --> 00:02:03,859
+tranen.
+Oppervlaktespanning betekent dat kleine druppels bolvormig zijn,
+
+37
+00:02:03,860 --> 00:02:07,539
+maar wanneer ze de lucht combineren en
+groter worden, zorgt de druk van de lucht
+
+38
+00:02:07,540 --> 00:02:09,779
+eronder tijdens het vallen ervoor dat de bodem
+
+39
+00:02:09,780 --> 00:02:13,259
+plat wordt, wat betekent dat regendruppels
+minder de vorm hebben van
+
+40
+00:02:13,260 --> 00:02:17,899
+tranen en meer als hamburgerbroodjes.
+
+41
+00:02:17,900 --> 00:02:20,519
+Maar hoeveel regendruppels zijn er
+
+42
+00:02:20,520 --> 00:02:24,439
+ooit op het land gevallen?
+Het is een leuke vraag
+
+43
+00:02:24,440 --> 00:02:27,829
+en er zijn genoeg bronnen om te
+bespreken hoeveel regendruppels er vallen
+
+44
+00:02:27,830 --> 00:02:29,409
+tijdens een typische storm,
+
+45
+00:02:29,410 --> 00:02:34,238
+maar door de hele geschiedenis heen?
+Laten we hiervoor naar mathforum.org gaan.
+
+46
+00:02:34,239 --> 00:02:35,939
+Dokter Ian berekende,
+
+47
+00:02:35,940 --> 00:02:39,939
+vrij grof maar vermakelijk, dat gezien
+het percentage aarde dat
+
+48
+00:02:39,940 --> 00:02:43,389
+gewoonlijk met land bedekt is en de hoeveelheid regen die
+
+49
+00:02:43,390 --> 00:02:47,279
+gewoonlijk op aarde valt en het volume van een regendruppel,
+
+50
+00:02:47,280 --> 00:02:50,738
+het totale aantal regendruppels dat op het land is gevallen
+
+51
+00:02:50,739 --> 00:02:54,249
+sinds de aarde  begon, is ongeveer 16 keer
+
+52
+00:02:54,250 --> 00:02:57,359
+10 tot de 28.
+Dus de aarde
+
+53
+00:02:57,360 --> 00:03:00,559
+heeft veel regendruppels gehad.
+
+54
+00:03:00,560 --> 00:03:05,238
+Maar weet je waar de aarde niet
+veel van heeft?  Mooie grote, oude stukken maansteen.
+
+55
+00:03:05,239 --> 00:03:08,359
+Materiaal van de maan is ongelooflijk zeldzaam.
+
+56
+00:03:08,360 --> 00:03:11,568
+We kunnen maar op twee manieren stukjes van de maan krijgen.
+Door het te
+
+57
+00:03:11,569 --> 00:03:14,609
+bezoeken of door stukken van de
+maan te vinden die
+
+58
+00:03:14,610 --> 00:03:18,159
+lang geleden zijn weggeblazen en uiteindelijk op de aarde zijn gevallen.
+
+59
+00:03:18,160 --> 00:03:21,799
+Interessant is dat je schilderijen kunt kopen
+
+60
+00:03:21,800 --> 00:03:25,059
+met sporen van maanstof gemaakt
+
+61
+00:03:25,060 --> 00:03:28,949
+door een astronaut.
+Ik besprak dit met mijn vrienden op emotistyle,
+
+62
+00:03:28,950 --> 00:03:33,369
+videolink in de beschrijving.
+Maar het punt is dat je niet
+
+63
+00:03:33,370 --> 00:03:37,399
+snel een grote oude maansteen zult bezitten.
+Interessant is dat
+
+64
+00:03:37,400 --> 00:03:41,408
+een verrassend aantal van de stenen die
+we van de maan
+
+65
+00:03:41,409 --> 00:03:45,098
+hebben meegebracht, is gestolen of gewoon
+
+66
+00:03:45,099 --> 00:03:48,509
+verloren is gegaan.
+In 2002
+
+67
+00:03:48,510 --> 00:03:52,369
+stalen stagiaires Thad Roberts en Tiffany Fowler bijvoorbeeld
+
+68
+00:03:52,370 --> 00:03:55,889
+101 gram maanmateriaal
+
+69
+00:03:55,890 --> 00:04:00,029
+uit het Johnson Space Center.
+Ze vierden feest door de stenen op een
+
+70
+00:04:00,030 --> 00:04:00,559
+bed te gooien,
+
+71
+00:04:00,560 --> 00:04:05,128
+en ik denk dat de beste manier om uit te leggen wat
+er daarna gebeurde, zou zijn door erop te wijzen
+
+72
+00:04:05,129 --> 00:04:07,029
+dat het boek dat op dit waargebeurde verhaal
+
+73
+00:04:07,030 --> 00:04:12,109
+is gebaseerd, 'Sex on the Moon' heet.
+Of, vanuit een andere hoek,
+
+74
+00:04:12,110 --> 00:04:15,869
+leuk.
+Dit is gebouwd met behulp van de Side View-maker.
+
+75
+00:04:15,870 --> 00:04:19,689
+Typ een woord of naam in en het zal
+het woord construeren met behulp van
+
+76
+00:04:19,690 --> 00:04:23,969
+punten, die vanuit een andere hoek
+iets anders zeggen.  Vsauce
+
+77
+00:04:23,970 --> 00:04:27,779
+kan bijvoorbeeld vacuüm zijn.
+Als je de voorkeur geeft aan stippen die mensen vertegenwoordigen, dan heeft
+
+78
+00:04:27,780 --> 00:04:33,629
+Brandon Martin-Anderson precies wat
+je nodig hebt.  De hele 2010 US Census
+
+79
+00:04:33,630 --> 00:04:37,039
+op een kaart met een stip voor elke
+
+80
+00:04:37,040 --> 00:04:41,409
+persoon.
+De gegevens zijn specifiek tot de grootte van een afzonderlijk
+
+81
+00:04:41,410 --> 00:04:44,799
+blok.
+Het is echt leuk om mee te spelen, net als
+
+82
+00:04:44,800 --> 00:04:49,599
+de doorzoekbare Calvin en Hobbes.
+Ik deelde dit een paar weken geleden op @tweetsauce.
+
+83
+00:04:49,600 --> 00:04:53,728
+Typ een woord in en je vindt
+elke strip van Calvin en Hobbes
+
+84
+00:04:53,729 --> 00:04:59,899
+die dat woord gebruikte.  Woorden of zinsdelen
+die u helpen iets te onthouden, worden
+
+85
+00:04:59,900 --> 00:05:03,049
+geheugensteuntjes genoemd.
+Als je bijvoorbeeld de exacte
+
+86
+00:05:03,050 --> 00:05:07,429
+lichtsnelheid in meters per seconde in een
+vacuüm wilt onthouden, tel dan het aantal letters
+
+87
+00:05:07,430 --> 00:05:10,508
+en elk woord van deze zin.
+"We
+
+88
+00:05:10,509 --> 00:05:15,709
+garanderen zekerheid, duidelijk verwijzend naar
+dit lichte geheugensteuntje."
+
+89
+00:05:15,710 --> 00:05:19,138
+Of als je op mij lijkt, is je grootste
+worsteling het woord
+
+90
+00:05:19,139 --> 00:05:22,559
+diarree te spellen.
+Maak je geen zorgen.  Onthoud dat
+
+91
+00:05:22,560 --> 00:05:25,749
+diarree een echt loopneus is
+
+92
+00:05:25,750 --> 00:05:30,369
+van eindeloze hoeveelheden.
+We hebben allemaal eerder zulke illusies gezien.
+
+93
+00:05:30,370 --> 00:05:34,258
+Vier cirkels met hoeken eruit gesneden.
+We nemen
+
+94
+00:05:34,259 --> 00:05:38,829
+een echt vierkant waar dat op
+cirkels rust, ook al
+
+95
+00:05:38,830 --> 00:05:42,129
+is er geen vierkant.
+Interessant is dat als je deze vorm aanneemt
+
+96
+00:05:42,130 --> 00:05:46,029
+en deze bovenop de tekst plaatst, de letters in het
+
+97
+00:05:46,030 --> 00:05:50,228
+nepvierkant groter lijken dan de rest van de letters.
+
+98
+00:05:50,229 --> 00:05:54,149
+Dit komt omdat onze hersenen aannemen dat de letters dichter bij ons staan
+
+99
+00:05:54,150 --> 00:05:58,739
+ rest van de tekst
+  De letters staan immers bovenop een vierkant dat b
+
+100
+00:05:58,740 --> 00:06:02,399
+venop cirkels bovenop tekst staat
+
+101
+00:06:02,400 --> 00:06:05,689
+  Over grootte gesproken, laten we eens kijken naar de schaal
+
+102
+00:06:05,690 --> 00:06:08,929
+van ons zonnestelsel.
+OMGspace.net
+
+103
+00:06:08,930 --> 00:06:12,818
+is een website met afbeeldingen van de
+zon en de planeten
+
+104
+00:06:12,819 --> 00:06:15,869
+op schaal.
+Niet alleen in grootte, maar ook in
+
+105
+00:06:15,870 --> 00:06:20,179
+afstand.  Als je lang genoeg scrolt,
+kom je uiteindelijk bij Mercurius
+
+106
+00:06:20,180 --> 00:06:24,309
+en dan Venus en dan de Aarde enzovoort.
+Of klik gewoon op de naam van een planeet
+
+107
+00:06:24,310 --> 00:06:28,709
+en laat de site je er meteen heen brengen.
+Als je je door dat soort dingen
+
+108
+00:06:28,710 --> 00:06:33,089
+klein en onbeduidend voelt, haast je dan en pak jezelf een
+
+109
+00:06:33,090 --> 00:06:36,489
+noodcompliment dot com.
+
+110
+00:06:36,490 --> 00:06:40,219
+De site zal je blijven complimenteren
+totdat je je beter voelt,
+
+111
+00:06:40,220 --> 00:06:43,728
+maar als geduld oefenen meer jouw ding is, kijk dan eens op
+
+112
+00:06:43,729 --> 00:06:48,959
+chickenonaraft.com.
+Geo-schets is een heel leuke manier om te tekenen.
+
+113
+00:06:48,960 --> 00:06:52,489
+Je hebt dit vreemde vouwmechanisme dat
+
+114
+00:06:52,490 --> 00:06:56,709
+trekt.
+U kunt de rotatiesnelheid voor elk gewricht afzonderlijk regelen
+
+115
+00:06:56,710 --> 00:07:00,989
+om te zien hoe dit het beeld beïnvloedt.
+Maar als je rotatie liever combineert
+
+116
+00:07:00,990 --> 00:07:02,409
+met ons zonnestelsel,
+
+117
+00:07:02,410 --> 00:07:05,499
+kijk dan eens naar de zwaartekracht.
+Klik en sleep om
+
+118
+00:07:05,500 --> 00:07:09,038
+objecten van verschillende grootte in de ruimte te plaatsen en te kijken hoe
+
+119
+00:07:09,039 --> 00:07:12,089
+ze op elkaar inwerken.
+Dus daar ga je,
+
+120
+00:07:12,090 --> 00:07:15,209
+dat waren ongeveer 13 dingen.
+
+121
+00:07:15,210 --> 00:07:18,228
+Volgens mij wel.  Ik weet het niet echt.
+Maar er is meer.
+
+122
+00:07:18,229 --> 00:07:22,249
+Ik heb een afspeellijst gemaakt met video's die je absoluut moet zien.
+
+123
+00:07:22,250 --> 00:07:26,059
+Ik host de afspeellijst en je kunt hem starten door
+op de link bovenaan de beschrijving van deze
+
+124
+00:07:26,060 --> 00:07:27,138
+video
+
+125
+00:07:27,139 --> 00:07:30,799
+of deze annotatie te klikken.
+Ik noem het achterover leunen,
+
+126
+00:07:30,800 --> 00:07:34,659
+omdat je de afspeellijst start en
+gewoon achterover leunt en
+
+127
+00:07:34,660 --> 00:07:37,918
+YouTube het werk laat doen.
+Dus waar wacht je op?  Ga je gang en klik
+
+128
+00:07:37,919 --> 00:07:39,899
+en ik zie je daar.
+
+129
+00:07:39,900 --> 00:07:41,209
+En zoals altijd,
+
+130
+00:07:41,210 --> 00:07:42,270
+bedankt voor het kijken.
+

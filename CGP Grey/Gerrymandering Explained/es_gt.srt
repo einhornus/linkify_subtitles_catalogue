@@ -1,0 +1,406 @@
+1
+00:00:01,100 --> 00:00:04,569
+Queen Lion of the Animal Kingdom está dando
+más democracia a sus ciudadanos al agregar una
+
+2
+00:00:04,570 --> 00:00:06,798
+rama legislativa al gobierno.
+
+3
+00:00:06,799 --> 00:00:11,729
+Los ciudadanos obtienen un voto cada uno y se dividen
+en rangos.  Cada rango elegirá un representante
+
+4
+00:00:11,730 --> 00:00:13,369
+para enviar al Consejo de la Selva recién creado.
+
+5
+00:00:13,370 --> 00:00:17,570
+Para comprender mejor cómo funciona este sistema,
+echemos un vistazo a una pequeña colonia donde
+
+6
+00:00:17,571 --> 00:00:20,859
+solo hay dos partidos políticos: Buffalo y Jackalope.
+
+7
+00:00:20,860 --> 00:00:24,909
+Esta colonia se divide en cuatro rangos.  En
+la primera elección, los candidatos de Jackalope ganan
+
+8
+00:00:24,910 --> 00:00:27,788
+dos de ellos y los candidatos de Buffalo ganan el
+resto.
+
+9
+00:00:27,789 --> 00:00:31,769
+Todo va bien durante varios ciclos electorales hasta que
+el censista de Animal Kingdom llega
+
+10
+00:00:31,770 --> 00:00:34,648
+y muestra que la población se ha movido
+y crecido.
+
+11
+00:00:34,649 --> 00:00:38,259
+Para representar mejor a la población más grande,
+se agrega un nuevo asiento al consejo de la jungla,
+
+12
+00:00:38,260 --> 00:00:40,488
+por lo que los límites de los rangos deben volver a dibujarse.
+
+13
+00:00:40,489 --> 00:00:45,828
+Aquí es donde comienza el problema.  Volver a trazar
+los límites electorales es un gran problema político.
+
+14
+00:00:45,829 --> 00:00:49,768
+Para ayudarlos, los representantes del Consejo de la Selva
+contratan a una comadreja consultora para
+
+15
+00:00:49,769 --> 00:00:52,009
+averiguar dónde deben ir los nuevos límites.
+
+16
+00:00:52,010 --> 00:00:56,349
+Si Weasel dibuja límites rectangulares, todo
+está bien porque el consejo de la jungla
+
+17
+00:00:56,350 --> 00:00:59,568
+reflejará, lo más fielmente posible, cómo votan los ciudadanos
+.
+
+18
+00:00:59,569 --> 00:01:04,329
+Sin embargo, Weasel no hace esto.  En cambio, le
+dice al Partido Buffalo que, por un precio
+
+19
+00:01:04,330 --> 00:01:07,470
+, puede convertir su escasa mayoría en una
+victoria aplastante en las elecciones.
+
+20
+00:01:07,471 --> 00:01:11,669
+Con una gran mayoría en el Consejo de la Selva,
+el Búfalo ya no tendría que escuchar a esos
+
+21
+00:01:11,670 --> 00:01:15,228
+molestos filibusteros de Jackalope, por lo que el
+Búfalo pagaría con gusto.
+
+22
+00:01:15,229 --> 00:01:20,169
+¿Cómo puede Weasel cumplir su promesa?  Es
+deprimentemente simple: al agrupar
+
+23
+00:01:20,170 --> 00:01:24,288
+tantos votantes jackalope en un rango como sea posible
+y distribuir al resto, el
+
+24
+00:01:24,289 --> 00:01:28,029
+Partido Búfalo puede ganar un escaño adicional sin que ningún
+votante cambie de lealtad.
+
+25
+00:01:28,030 --> 00:01:31,508
+Lo que Weasel y Buffalo han hecho se llama
+'gerrymandering'.  El cambio intencional
+
+26
+00:01:31,509 --> 00:01:34,368
+de los límites electorales para su beneficio.
+
+27
+00:01:34,369 --> 00:01:38,209
+Varios ciclos electorales más tarde, el
+partido Jackalope, subrepresentado y descontento, se acerca a
+
+28
+00:01:38,210 --> 00:01:43,099
+Weasel y le pregunta si puede manipular los rangos
+para estar a su favor en lugar de a los Buffalos.
+
+29
+00:01:43,100 --> 00:01:47,989
+De hecho él puede.  Usando el mismo truco, Weasel
+empaqueta a los votantes de Buffalo en unos pocos rangos y
+
+30
+00:01:47,990 --> 00:01:50,739
+reparte el resto entre los partidarios de Jackalope.
+
+31
+00:01:50,740 --> 00:01:55,169
+Después de las elecciones, los Jackalopes, que representan
+una minoría de los votantes, son ahora, sin embargo,
+
+32
+00:01:55,170 --> 00:01:58,449
+el partido mayoritario en el Consejo de la Selva.
+
+33
+00:01:58,450 --> 00:02:02,828
+Este es el terrible poder de Gerrymandering:
+Weasel puede tomar exactamente a los mismos votantes y
+
+34
+00:02:02,829 --> 00:02:05,199
+hacer que cualquier partido gane las elecciones.
+
+35
+00:02:05,200 --> 00:02:09,189
+Como era de esperar, el negocio de Weasel crece y,
+finalmente, todas las colonias del Reino Animal
+
+36
+00:02:09,190 --> 00:02:11,569
+le pagan para manipular sus rangos.
+
+37
+00:02:11,570 --> 00:02:15,279
+Con tantos clientes, Weasel ahora usa su
+computadora para probar cientos de miles de combinaciones de rango
+
+38
+00:02:15,280 --> 00:02:20,259
+con elaborados modelos estadísticos
+del comportamiento de los votantes para obtener los resultados que necesita.
+
+39
+00:02:20,260 --> 00:02:24,849
+Queen Lion ha visto lo que Weasel está haciendo y
+lo destierra de su reino.  Sin embargo, el
+
+40
+00:02:24,850 --> 00:02:28,799
+censista le recuerda que aún es
+necesario volver a trazar los rangos a medida que cambia la población.  Entonces, ¿
+
+41
+00:02:28,800 --> 00:02:30,879
+cómo se va a decidir?
+
+42
+00:02:30,880 --> 00:02:34,459
+Queen Lion sugiere la solución obvia:
+un comité bipartidista debe ponerse de acuerdo sobre todos los
+
+43
+00:02:34,460 --> 00:02:36,179
+nuevos límites de distribución.
+
+44
+00:02:36,180 --> 00:02:39,769
+Esto parece una buena idea.  Después de todo, si
+ambas partes tienen que ponerse de acuerdo sobre los rangos,
+
+45
+00:02:39,770 --> 00:02:41,819
+entonces deben terminar siendo justos para todos.
+
+46
+00:02:41,820 --> 00:02:46,279
+Pero, después de algunos ciclos electorales usando esta
+solución, Queen Lion se da cuenta de que siempre
+
+47
+00:02:46,280 --> 00:02:50,449
+ve las mismas caras en el Consejo de la Selva.
+Los representantes casi nunca son derrotados
+
+48
+00:02:50,450 --> 00:02:52,049
+en sus elecciones.
+
+49
+00:02:52,050 --> 00:02:55,489
+Resulta que los intereses de los representantes
+y los intereses de los ciudadanos no son
+
+50
+00:02:55,490 --> 00:02:59,449
+los mismos.  Los ciudadanos quieren elecciones en las que los
+candidatos tengan que ganarse su voto.  Estas
+
+51
+00:02:59,450 --> 00:03:03,119
+son elecciones reñidas en las que cualquiera de los candidatos
+tiene posibilidades de ganar.
+
+52
+00:03:03,120 --> 00:03:07,599
+Pero los representantes no quieren elecciones reñidas
+, quieren elecciones seguras.  Elecciones
+
+53
+00:03:07,600 --> 00:03:10,679
+donde corren en un rango que está lleno de simpatizantes.
+
+54
+00:03:10,680 --> 00:03:13,809
+Debido a que los representantes están en el cambio
+de los límites, hacen los rangos más seguros
+
+55
+00:03:13,810 --> 00:03:14,809
+posibles.
+
+56
+00:03:14,810 --> 00:03:18,379
+Entonces, los comités bipartidistas no son suficientes.
+Para solucionar realmente el gerrymandering, hay tres
+
+57
+00:03:18,380 --> 00:03:19,379
+opciones:
+
+58
+00:03:19,380 --> 00:03:23,119
+la primera es establecer una comisión políticamente independiente
+de expertos o jueces designados
+
+59
+00:03:23,120 --> 00:03:24,619
+para trazar los límites.
+
+60
+00:03:24,620 --> 00:03:28,059
+Las comisiones independientes son mucho mejores que
+los comités bipartidistas, pero aún no son ideales
+
+61
+00:03:28,060 --> 00:03:32,489
+porque generalmente agrupan áreas similares
+para que las elecciones no sean competitivas.
+
+62
+00:03:32,490 --> 00:03:35,970
+Y siempre existe la posibilidad de que la
+comisión independiente no sea tan independiente
+
+63
+00:03:35,971 --> 00:03:37,149
+como parece.
+
+64
+00:03:37,150 --> 00:03:40,659
+La segunda opción es dejar que las matemáticas decidan los
+límites.  Hay varias formas de
+
+65
+00:03:40,660 --> 00:03:43,799
+dividir matemáticamente un área en
+rangos igualmente poblados.
+
+66
+00:03:43,800 --> 00:03:47,499
+El ejemplo más simple de esto se llama el
+'método de la línea dividida más corta'.  Encuentre la línea más corta
+
+67
+00:03:47,500 --> 00:03:52,319
+que divide a los votantes en dos y repita
+según sea necesario hasta completar todos los rangos.
+
+68
+00:03:52,320 --> 00:03:55,099
+Esto es mucho mejor que una comisión 'independiente'
+, pero tiene el problema de
+
+69
+00:03:55,100 --> 00:03:58,799
+producir ocasionalmente resultados electorales
+sesgados simplemente por mala suerte en el lugar donde
+
+70
+00:03:58,800 --> 00:04:00,259
+se trazan los límites.
+
+71
+00:04:00,260 --> 00:04:04,399
+Pero al publicar el algoritmo utilizado, todos los
+ciudadanos pueden verificar los resultados y estar seguros de
+
+72
+00:04:04,400 --> 00:04:07,179
+que no hay sesgos intencionales en el sistema.
+
+73
+00:04:07,180 --> 00:04:12,189
+La última solución es inesperada:
+volver a contratar a la comadreja y adoptar la manipulación de distritos electorales.
+
+74
+00:04:12,190 --> 00:04:16,028
+Pero esta vez, págale para que los ganadores
+coincidan lo más posible con los votantes en su conjunto.
+
+75
+00:04:16,029 --> 00:04:20,208
+Si bien parece desagradable, esta es en realidad
+la mejor manera de evitar una representación desproporcionada
+
+76
+00:04:20,209 --> 00:04:23,799
+que es, con mucho, el peor problema de la
+manipulación electoral.
+
+77
+00:04:23,800 --> 00:04:26,979
+Pero, considerar estas tres soluciones deja a
+Queen Lion malhumorada.
+
+78
+00:04:26,980 --> 00:04:30,879
+Los primeros dos son mejoras, pero aun así
+pueden resultar en elecciones no competitivas o
+
+79
+00:04:30,880 --> 00:04:36,279
+resultados desproporcionados, mientras que el tercero simplemente se siente mal.
+Gerrymandering para evitar los problemas de gerrymandering
+
+80
+00:04:36,280 --> 00:04:37,659
+es... extraño.
+
+81
+00:04:37,660 --> 00:04:41,319
+Al recordar lo que aprendió antes sobre votar
+, se da cuenta de que toda esta manipulación
+
+82
+00:04:41,320 --> 00:04:45,299
+es en realidad solo un síntoma de un problema más fundamental
+: el método por el cual cada ciudadano
+
+83
+00:04:45,300 --> 00:04:48,459
+obtiene solo un voto y elige solo a un representante.
+
+84
+00:04:48,460 --> 00:04:52,109
+Hay maneras de eliminar el gerrymandering
+y restaurar elecciones competitivas para hacer
+
+85
+00:04:52,110 --> 00:04:56,359
+felices a sus ciudadanos, pero para hacer eso, Queen
+Lion tendrá que hacer algunos cambios importantes y fundamentales
+
+86
+00:04:56,360 --> 00:04:57,190
+en su democracia.
+

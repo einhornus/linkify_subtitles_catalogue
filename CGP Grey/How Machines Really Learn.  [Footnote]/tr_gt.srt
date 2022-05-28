@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:03,299
+Ana video, makinelerin öğrenmesini sağlayan bir genetik üreme modelinden bahsediyor
+
+2
+00:00:03,300 --> 00:00:05,679
+.
+
+3
+00:00:05,680 --> 00:00:08,799
+Bu yöntemi açıklamak veya göstermek daha kolaydır.
+
+4
+00:00:08,800 --> 00:00:13,459
+İşte yürümeyi, Mario oynamayı veya gerçekten yükseğe zıplamayı öğrenen bir makine.
+
+5
+00:00:13,460 --> 00:00:17,059
+Genetik kod daha eski bir koddur, ancak yine de kontrol edilir
+
+6
+00:00:17,060 --> 00:00:20,719
+ve kişisel olarak gelecekteki genetik modellerde
+
+7
+00:00:20,720 --> 00:00:23,339
+hesaplama gücü çılgın pantolonlara yaklaştıkça yeniden canlanacağından şüpheleniyorum.
+
+8
+00:00:23,340 --> 00:00:27,459
+Bununla birlikte, mevcut sıcaklık, derin öğrenme ve özyinelemeli sinir ağlarıdır ve
+
+9
+00:00:27,460 --> 00:00:29,859
+bu, lineer cebirin gerçekten arttığı
+
+10
+00:00:29,860 --> 00:00:33,799
+ve kısa bir videodaki açıklanabilirliğin gerçekten azaldığı yerdir.
+
+11
+00:00:33,800 --> 00:00:35,939
+Ama nasıl çalıştıklarını bir dipnotta açıklamam gerekirse
+
+12
+00:00:35,940 --> 00:00:38,939
+, sadece kayıt için, şöyle
+
+13
+00:00:38,940 --> 00:00:41,699
+: Sonsuz depo yok.  Sadece bir öğrenci.
+
+14
+00:00:41,700 --> 00:00:46,599
+Öğretmen Botu aynı teste sahiptir, ancak bu sefer Oluşturucu Bot
+
+15
+00:00:46,600 --> 00:00:51,639
+, her kadranın öğrenci botunun kafasındaki bir bağlantının ne kadar hassas olduğunu gösteren 'Kadranı Ayarlama Botu'dur.
+
+16
+00:00:51,640 --> 00:00:55,439
+Kafasında çok fazla bağlantı var, bu yüzden çok fazla arama var.
+
+17
+00:00:55,440 --> 00:00:56,899
+ÇOK, çok.
+
+18
+00:00:56,900 --> 00:01:01,459
+Teacher Bot, Student Bot'a bir fotoğraf gösterir ve Kadran Ayarlama Botu,
+
+19
+00:01:01,460 --> 00:01:05,119
+Student Bot'u cevaba yaklaştırmak için bu kadranı daha güçlü veya daha zayıf ayarlar.
+
+20
+00:01:05,120 --> 00:01:10,599
+Bu biraz radyodaki kadranı ayarlamak gibi.  Bu hala bir şey mi?  Arabalarda hala radyo var mı?
+
+21
+00:01:10,600 --> 00:01:13,939
+Ben de bilmiyorum.  İstasyonun tam frekansını
+
+22
+00:01:13,940 --> 00:01:17,699
+bilmiyor olabilirsiniz ama yaklaşıp uzaklaşmadığınızı anlayabilirsiniz.
+
+23
+00:01:17,700 --> 00:01:22,519
+Bunun gibi ama yüz bin kadran ve çok fazla matematik var
+
+24
+00:01:22,520 --> 00:01:24,479
+ve bu sadece bir test sorusu için.
+
+25
+00:01:24,480 --> 00:01:27,339
+Öğretmen Bot bir sonraki fotoğrafı tanıttığında,
+
+26
+00:01:27,340 --> 00:01:32,399
+Kadran Ayarlama Botunun Öğrenci Botunun her iki soruyu da cevaplayabilmesi için tüm kadranları ayarlaması gerekir.
+
+27
+00:01:32,400 --> 00:01:34,619
+Test uzadıkça,
+
+28
+00:01:34,620 --> 00:01:39,899
+bu, Kadran Ayarlama Botu için çılgınca bir matematik ve ince ayar haline gelir.
+
+29
+00:01:39,900 --> 00:01:42,839
+Ancak bittiğinde
+
+30
+00:01:42,840 --> 00:01:46,359
+, yeni fotoğrafları tanımakta oldukça iyi bir iş çıkarabilen bir öğrenci botu var,
+
+31
+00:01:46,360 --> 00:01:50,339
+ancak yine de ana videoda bahsedilen bazı sorunlardan muzdarip.
+
+32
+00:01:50,340 --> 00:01:55,839
+Her neyse, duyacağınız çoğu bebeğin sinir ağlarıyla ilk tanışması.
+
+33
+00:01:55,840 --> 00:01:58,719
+Size ilginç geliyorsa ve matematik ve
+
+34
+00:01:58,720 --> 00:02:01,179
+kodu seviyorsanız, ayrıntılara inin;
+
+35
+00:02:01,180 --> 00:02:04,879
+öğrenen makineler her şeyin geleceğidir.
+
+36
+00:02:04,880 --> 00:02:08,038
+Belki, kelimenin tam anlamıyla, her şeyin geleceği
+
+37
+00:02:08,039 --> 00:02:12,098
+ve onlara yaşattıklarımızı düşünürsek, botlar hepimize merhamet etsin.
+

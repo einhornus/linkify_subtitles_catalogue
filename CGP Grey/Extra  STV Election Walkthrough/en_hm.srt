@@ -1,0 +1,312 @@
+1
+00:00:00,200 --> 00:00:04,619
+In the main video, I went through a couple of quick little examples of STV elections,
+
+2
+00:00:04,620 --> 00:00:09,779
+but in this extra video, I want to take a bigger election and go through it in a little bit more depth
+
+3
+00:00:09,780 --> 00:00:13,479
+so that you can see how an STV election unfolds.
+
+4
+00:00:13,480 --> 00:00:19,619
+In this case we are going to have 10 candidates, and there are going to be five seats for representative open.
+
+5
+00:00:19,620 --> 00:00:23,559
+So that means each candidate needs to get 20% to win.
+
+6
+00:00:23,560 --> 00:00:27,919
+So citizens go off to the polls and their first choice results come in as follows:
+
+7
+00:00:27,920 --> 00:00:29,559
+Tarsier gets 5%
+
+8
+00:00:29,560 --> 00:00:31,079
+Gorilla gets 32%
+
+9
+00:00:31,080 --> 00:00:32,599
+Silverback gets 3%
+
+10
+00:00:32,600 --> 00:00:34,179
+Owl gets 33%
+
+11
+00:00:34,180 --> 00:00:35,359
+Turtle gets 1%
+
+12
+00:00:35,360 --> 00:00:36,359
+Snake gets 1%
+
+13
+00:00:36,360 --> 00:00:37,559
+Tiger gets 16%
+
+14
+00:00:37,560 --> 00:00:38,779
+Lynx gets 4%
+
+15
+00:00:38,780 --> 00:00:40,079
+Jackelope gets 2%
+
+16
+00:00:40,080 --> 00:00:41,739
+and Buffalo gets 3%.
+
+17
+00:00:41,740 --> 00:00:47,399
+Now what we can see here is a situation that is very often the case in real elections with STV
+
+18
+00:00:47,400 --> 00:00:51,099
+That there are two or three parties with a lot of support
+
+19
+00:00:51,100 --> 00:00:53,519
+--in this case Gorilla, Owl, and Tiger--
+
+20
+00:00:53,520 --> 00:00:56,739
+and there are a bunch of parties that have less than 5% of the vote.
+
+21
+00:00:56,740 --> 00:00:58,199
+So let's see how this works out.
+
+22
+00:00:58,200 --> 00:01:04,419
+First, Gorilla and Owl get awarded a seat because they have both crossed the threshold required to win.
+
+23
+00:01:04,420 --> 00:01:07,079
+Both candidates have more votes than they actually needed to get in,
+
+24
+00:01:07,080 --> 00:01:11,519
+which means they have more support among the population than just their one candidate can provide.
+
+25
+00:01:11,520 --> 00:01:17,079
+You take a look at which candidate has the biggest surplus votes first and redistribute those.
+
+26
+00:01:17,080 --> 00:01:23,279
+Owl has 32%, she has the biggest surplus. Her voters' second choice is the most important thing to figure out
+
+27
+00:01:23,280 --> 00:01:25,539
+and in this case it is Turtle.
+
+28
+00:01:25,540 --> 00:01:27,359
+Next up, Gorilla has a surplus of votes.
+
+29
+00:01:27,360 --> 00:01:33,599
+Now, up until this point we've been pretending that all citizens in the animal kingdom vote in exactly the same way.
+
+30
+00:01:33,600 --> 00:01:37,579
+But in real elections, voters don't all agree on what their second choice is.
+
+31
+00:01:37,580 --> 00:01:43,239
+So Gorilla voters, it turns out, are split between Tarsier and Silverback for their second choice.
+
+32
+00:01:43,240 --> 00:01:49,299
+There are very many ways to try to resolve this situation of what happens when second choice votes are split.
+
+33
+00:01:49,300 --> 00:01:54,279
+But to simplify a little bit, we can just say that those votes are distributed proportionally.
+
+34
+00:01:54,280 --> 00:01:59,479
+So in this case, 2-to-1 voters like Silverback over Tarsier as their second choice.
+
+35
+00:01:59,480 --> 00:02:04,899
+So that is how the votes get distributed, bumping Silverback up to 11% and Tarsier up to 9%.
+
+36
+00:02:04,900 --> 00:02:11,219
+At this point, nobody has a surplus of votes anymore and nobody's over the threshold, so we start eliminating the biggest loser first.
+
+37
+00:02:11,220 --> 00:02:18,479
+In this case, that is Snake. Snake was never going to win and so those votes go to Snake voters' second choice which is Turtle.
+
+38
+00:02:18,480 --> 00:02:21,039
+Next up, Jackelope is the biggest loser.
+
+39
+00:02:21,040 --> 00:02:24,459
+Now, what happens here is Jackelope voters only like Jackelope.
+
+40
+00:02:24,460 --> 00:02:30,519
+They don't like any other candidate. They think everybody else is equally bad and only Jackelope is awesome.
+
+41
+00:02:30,520 --> 00:02:33,379
+So they just put a one next to Jackelope on their voting ballot,
+
+42
+00:02:33,380 --> 00:02:35,719
+and nothing next to anybody else.
+
+43
+00:02:35,720 --> 00:02:42,019
+What happens in this situation is Jackelope votes are actually just removed from the election at this stage.
+
+44
+00:02:42,020 --> 00:02:45,739
+Their voters have said that they don't care if Jackelope doesn't win.
+
+45
+00:02:45,740 --> 00:02:47,839
+So it's almost like they didn't vote.
+
+46
+00:02:47,840 --> 00:02:49,479
+Next up, Buffalo is eliminated.
+
+47
+00:02:49,480 --> 00:02:54,019
+Now, his voters put Jackelope as second choice, but since Jackelope has been already eliminated,
+
+48
+00:02:54,020 --> 00:02:56,239
+his votes can't go there.
+
+49
+00:02:56,240 --> 00:03:01,979
+In STV it does matter that you're able to get a certain number of peoples' first choice vote.
+
+50
+00:03:01,980 --> 00:03:05,539
+Sometimes people criticize the system for that, but I don't think it's unreasonable
+
+51
+00:03:05,540 --> 00:03:09,239
+to consider that first choice votes matter more than other votes.
+
+52
+00:03:09,240 --> 00:03:13,439
+Since Buffalo voters can't move to their second choice 2/3rds of Buffalo voters don't care at this point
+
+53
+00:03:13,440 --> 00:03:16,519
+they wanted Buffalo or Jackelope and they don't like anybody else,
+
+54
+00:03:16,520 --> 00:03:19,279
+and 1/3rd of Buffalo voters back Turtle.
+
+55
+00:03:19,280 --> 00:03:23,759
+So Turtle has gotten another little slice of 1% bringing him up to 16% and tied with Tiger.
+
+56
+00:03:23,760 --> 00:03:26,319
+But, the next biggest loser is Lynx.
+
+57
+00:03:26,320 --> 00:03:32,679
+Lynx votes go to Tiger, and Tiger is selected as the next representative for reaching the voting threshold.
+
+58
+00:03:32,680 --> 00:03:35,539
+Next biggest loser is Tasier. Sorry Tarsier.
+
+59
+00:03:35,540 --> 00:03:40,479
+Tarsier at this stage has votes both from citizens who selected her as their first choice
+
+60
+00:03:40,480 --> 00:03:44,459
+and candidates who selected her as their second choice after Gorilla.
+
+61
+00:03:44,460 --> 00:03:48,959
+So when these votes are redistributed, some of them are going to their second choice
+
+62
+00:03:48,960 --> 00:03:51,299
+and some of them are going to their third choice.
+
+63
+00:03:51,300 --> 00:03:55,559
+But simians stick together, and so towards Silverback is where they go.
+
+64
+00:03:55,560 --> 00:03:58,839
+Silverback is elected as the next representative.
+
+65
+00:03:58,840 --> 00:04:01,999
+Finally, the question is what to do with Turtle.
+
+66
+00:04:02,000 --> 00:04:04,819
+Turtle is the next biggest loser and hasn't reached the threshold
+
+67
+00:04:04,820 --> 00:04:07,499
+but there are five seats open in this election.
+
+68
+00:04:07,500 --> 00:04:13,559
+The rule under most STV systems is that if you have one seat open, and you have one candidate remaining,
+
+69
+00:04:13,560 --> 00:04:17,159
+even if they didn't quite reach the threshold, they still get in.
+
+70
+00:04:17,160 --> 00:04:20,619
+And so Turtle is elected as our final representative.
+
+71
+00:04:20,620 --> 00:04:24,699
+If we jump back to the beginning, we can see that this has turned out to be a pretty good result.
+
+72
+00:04:24,700 --> 00:04:27,679
+Our biggest sections of the population were Gorilla and Owl
+
+73
+00:04:27,680 --> 00:04:30,679
+and they ended up getting both their first and second choices.
+
+74
+00:04:30,680 --> 00:04:33,339
+Tiger and Lynx were the next biggest sections of the population.
+
+75
+00:04:33,340 --> 00:04:34,659
+They got one of their choices.
+
+76
+00:04:34,660 --> 00:04:37,799
+A lot of parties agreed that they were OK with Turtle as their next choice,
+
+77
+00:04:37,800 --> 00:04:41,639
+and those votes prevented Turtle from getting eliminated in any particular round.
+
+78
+00:04:41,640 --> 00:04:43,640
+And so Turtle, too, is a representative.
+

@@ -1,0 +1,828 @@
+1
+00:00:01,840 --> 00:00:04,239
+Hey Vsauce ben Michael
+
+2
+00:00:04,240 --> 00:00:07,779
+Niktofobi, karanlık korkusudur.
+
+3
+00:00:07,780 --> 00:00:10,049
+Ama daha rahatlatıcı bir korku daha var.
+
+4
+00:00:10,050 --> 00:00:15,179
+Karanlığın olmaması korkusu
+
+5
+00:00:15,180 --> 00:00:18,689
+Optofobi, gözlerini açma korkusudur.
+
+6
+00:00:18,690 --> 00:00:24,269
+Işık bir objenin ulaşabileceği en yüksek hızda hareket eder.
+
+7
+00:00:24,270 --> 00:00:28,359
+Karanlık ışık ortaya çıktığında kaybolur, ve ışık gittiğinde
+
+8
+00:00:28,360 --> 00:00:31,419
+ortaya çıkar.  Karanlığın hızı
+
+9
+00:00:31,420 --> 00:00:34,769
+ışığın hızıdır ancak ışıktan daha hızlı
+
+10
+00:00:34,770 --> 00:00:39,999
+karanlık türleri var.  Mesela
+
+11
+00:00:40,000 --> 00:00:41,679
+bir gölge.
+
+12
+00:00:41,680 --> 00:00:46,259
+Belirli bir uzaklıktan, bir gölge kaynağı olan cisimden daha büyük olabilir
+
+13
+00:00:46,260 --> 00:00:51,569
+ancak yine de kaynağını taklit eder, aynı yöne aynı zaman aralığında hareket eder.
+
+14
+00:00:51,570 --> 00:00:56,189
+Böylece bir gölge kalıbı olan cisimden daha büyük olduğunda çok daha fazla mesafeyi
+
+15
+00:00:56,190 --> 00:01:00,459
+aynı sürede kateder.  Bir gölgeyi yeterince büyük yaparsanız
+
+16
+00:01:00,460 --> 00:01:03,859
+yansıdığı yüzey üzerinde ışıktan daha hızlı hareket eder.
+
+17
+00:01:03,860 --> 00:01:08,389
+Eğer buradan, dünyadan, Ay üzerine bir gölge oluşturursanız,
+
+18
+00:01:08,390 --> 00:01:12,069
+ki pek kolay olmayacakır ama, A noktasından, diyelim
+
+19
+00:01:12,070 --> 00:01:16,379
+parmağınızla ay yüzeyindeki A noktasından B noktasına işaret ettiğinizde
+
+20
+00:01:16,380 --> 00:01:20,069
+gölgesi A'dan B'ye ilerler. sadece bir kaç saniyelik zaman aralığında, parmağınız sadece
+
+21
+00:01:20,070 --> 00:01:23,368
+bir kaç cm yol katedecektir.  Ancak Ay'a vuran gölgesi
+
+22
+00:01:23,369 --> 00:01:27,069
+aynı zaman aralığında yüzlerce km yol alabilir.
+
+23
+00:01:27,070 --> 00:01:30,148
+Doğru şekilde yaptığınızda, basitçe
+
+24
+00:01:30,149 --> 00:01:32,008
+ışık bariyerini aşan bir gölge oluşturmuş olursunuz
+
+25
+00:01:32,009 --> 00:01:33,659
+Ama burada hiç hata yok.  Çünkü
+
+26
+00:01:33,660 --> 00:01:37,669
+kural, "bilgi ışıktan hızlı ilerleyemez"dir
+
+27
+00:01:37,670 --> 00:01:40,719
+Başka bir yerde,
+
+28
+00:01:40,720 --> 00:01:44,459
+bir olaya ışıktan yüksek bir hızda sebep olamazsınız.
+
+29
+00:01:44,460 --> 00:01:47,699
+Ve ışıktan hızlı gölgemiz A'dan B'ye
+
+30
+00:01:47,700 --> 00:01:51,359
+herhangi bir bilgi aktarmıyor.
+
+31
+00:01:51,360 --> 00:01:55,359
+Tabi, B noktası karanlığa gölgeleniyor
+
+32
+00:01:55,360 --> 00:01:59,219
+ışıktan daha hızlı bir mesaj onu gölge gelmeden uyarabilirdi
+
+33
+00:01:59,220 --> 00:02:03,749
+ancak karanlık A'dan B'ye gerçekten hareket etmez.
+
+34
+00:02:03,750 --> 00:02:08,109
+O sizden A noktasına, ve sizden B noktasına
+
+35
+00:02:08,110 --> 00:02:11,199
+ışık hızında hareket eder.  Gözlemlediğimiz şey gerçekte
+
+36
+00:02:11,200 --> 00:02:15,259
+3 boyutlu bir bölgenin kesitidir.
+
+37
+00:02:15,260 --> 00:02:19,059
+Sebep olduğunuz karanlık sadece bloke edilmemiş yeni ışınlar
+
+38
+00:02:19,060 --> 00:02:20,899
+önceki boşluğu doldurduğunda
+
+39
+00:02:20,900 --> 00:02:24,279
+şekil değiştirir. Gölge budur:
+
+40
+00:02:24,280 --> 00:02:27,708
+Bir boşluk. Bu yüzden bir şekilde
+
+41
+00:02:27,709 --> 00:02:31,529
+gölge hareket etmez.  Bu bir gölgeyi
+
+42
+00:02:31,530 --> 00:02:34,829
+fiziksel bir şey olarak düşünmemizden doğan bir ilüzyondur, ama gerçekte
+
+43
+00:02:34,830 --> 00:02:38,309
+bir gölge fiziksel olan şeylerin eksikliğidir -
+
+44
+00:02:38,310 --> 00:02:41,979
+fotonlar - evrenin ışık hızında çuf çuflayan
+
+45
+00:02:41,980 --> 00:02:45,549
+şeyleri.  Ancak bu, iki gölgenin öpüşemeyeceği
+
+46
+00:02:45,550 --> 00:02:48,969
+anlamına gelmez.  Ya da en azından
+
+47
+00:02:48,970 --> 00:02:52,649
+öyleymiş gibi görünemeyecekleri. İki gölgeyi birbirine yaklaştıran
+
+48
+00:02:52,650 --> 00:02:56,809
+arkadaşa bakın.  Gölgeler bitişmeden hemen önce
+
+49
+00:02:56,810 --> 00:03:00,229
+birbirlerine doğru sihirle boğumlanıyormuş gibidirler,
+
+50
+00:03:00,230 --> 00:03:04,299
+bir çeşit karanlık öpücüğüyle.  Bu olaya
+
+51
+00:03:04,300 --> 00:03:09,359
+Gölge Kabarcık Etkisi adı verilir ve gölgenin anatomisiyle alakalıdır.
+
+52
+00:03:09,360 --> 00:03:13,169
+Bir cismin ışık kaynağını tamamen bloke ettiği bölgeye
+
+53
+00:03:13,170 --> 00:03:17,679
+Umbra (tam gölge) denilir. Gölgenin en prototipik kısmıdır.
+
+54
+00:03:17,680 --> 00:03:21,539
+Işık kaynağının sadece bir kısmının bloke edildiği yerde
+
+55
+00:03:21,540 --> 00:03:26,318
+Penumbra'yı (yarı gölge) görürüz. Ancak iki veya daha fazla Penumbra yaklaştıkça
+
+56
+00:03:26,319 --> 00:03:30,429
+ve  üst üste geldikçe, bloke edebilecekleri birleşen ışık miktarı fark edilebilir bir
+
+57
+00:03:30,430 --> 00:03:32,359
+etki oluşturabilir,
+
+58
+00:03:32,360 --> 00:03:35,939
+Kabarcık Etkisi. Dünya büyük bir
+
+59
+00:03:35,940 --> 00:03:40,219
+tam gölgeye (umbra) sahip, 1,4 milyon kilometre uzunluğunda.
+
+60
+00:03:40,220 --> 00:03:44,029
+Bu Güneşin Dünya tarafından tamamen bloke edilerek bariz şekilde görünemeyeceği
+
+61
+00:03:44,030 --> 00:03:45,539
+çapta gözlemlenebilmesi için
+
+62
+00:03:45,540 --> 00:03:50,859
+katedilmesi gereken uzaklıktır. Burada, dünyanın üzerinde hiç bir yerde bu uzaklığa
+
+63
+00:03:50,860 --> 00:03:54,429
+yaklaşamayız bile, bu yüzden gece bir umbra'dır (tam gölge).
+
+64
+00:03:54,430 --> 00:03:58,259
+Gece sadece Dünyanın üzerinize düşen gölgesidir.
+
+65
+00:03:58,260 --> 00:04:01,439
+Siz bir güneş tutulmasısınız.
+
+66
+00:04:01,440 --> 00:04:05,799
+Gün batımları havalıdır, izlemesi güzeldir, ama diğer yandan
+
+67
+00:04:05,800 --> 00:04:09,249
+gezegenimizin hantal gölgesini görebilirsiniz.
+
+68
+00:04:09,250 --> 00:04:13,139
+Atmosferimiz ışığın en kısa dalga boylarını
+
+69
+00:04:13,140 --> 00:04:16,388
+uzun dalga boylarına göre daha fazla dağıtır, gökyüzünü mavi yapan şey
+
+70
+00:04:16,389 --> 00:04:21,309
+budur.  ancak dünyanın gölgesinde dağıtmak için daha az ışık vardır
+
+71
+00:04:21,310 --> 00:04:24,939
+ve hava kararır. Alacakaranlık sırasında
+
+72
+00:04:24,940 --> 00:04:28,888
+bu ayrımı görebilirsiniz. Denver'dan doğuya, Kansas'a sürerken
+
+73
+00:04:28,889 --> 00:04:31,768
+Net bir örneğini gördüm.
+
+74
+00:04:31,769 --> 00:04:35,559
+Bu Dünyanın yaklaşan, geceyi oluşturan gölgesidir.
+
+75
+00:04:35,560 --> 00:04:40,159
+Ya üzerindeki güzel pembe şerit? O Venüs'ün Kemeri.
+
+76
+00:04:40,160 --> 00:04:42,779
+Arkamızdaki gün batımının rengini yansıtan
+
+77
+00:04:42,780 --> 00:04:46,519
+gökyüzünden kaynaklanır.  Muhtemelen farketmişsinizdir
+
+78
+00:04:46,520 --> 00:04:49,698
+Güneş battıktan, ve gözden kaybolduktan sonra bile
+
+79
+00:04:49,699 --> 00:04:53,429
+gökyüzünde hala ışık vardır.
+
+80
+00:04:53,430 --> 00:04:57,038
+Bu alacakaranlık dediğimiz olay
+
+81
+00:04:57,039 --> 00:05:00,589
+ve alacakaranlığın bir çok farklı evresi vardır.
+
+82
+00:05:00,590 --> 00:05:04,628
+Eğer Güneş ufuktan 6° aşağıda ise bu teknik olarak
+
+83
+00:05:04,629 --> 00:05:10,379
+günlük tan'dır.  Hala dışarıda yapay ışıklara ihtiyaç duymadan çeşitli işlerle uğraşabilirsiniz.
+
+84
+00:05:10,380 --> 00:05:13,418
+Ufuktan 12° aşağısı ise deniz tanı'dır
+
+85
+00:05:13,419 --> 00:05:18,209
+Yapay ışıklar az veya çok gereklidir ama
+
+86
+00:05:18,210 --> 00:05:21,498
+gökyüzü hala gemilerin ufukta gök ve koyu tondaki denizin kontrastını
+
+87
+00:05:21,499 --> 00:05:25,769
+görebilecekleri parlaklıkta
+
+88
+00:05:25,770 --> 00:05:29,908
+ışık dağıtır. 18° dereceye kadar kadar
+
+89
+00:05:29,909 --> 00:05:33,498
+gökbilim tanı vardır. Gece gibi görünür
+
+90
+00:05:33,499 --> 00:05:36,698
+daha da kararabilir.
+
+91
+00:05:36,699 --> 00:05:41,658
+Gökbilim tan'ı sonlanana dek bütün astronomik gözlemler yapılamaz.
+
+92
+00:05:41,659 --> 00:05:44,859
+18° altı teknik olarak,
+
+93
+00:05:44,860 --> 00:05:51,999
+dürüstçe, gecedir. Eğer 48.5° kuzey veya güney enlemlerinde yaşıyorsanız
+
+94
+00:05:52,000 --> 00:05:57,109
+Güneş yaz boyunca hiç 48.5°'nin altına inmez.
+
+95
+00:05:57,110 --> 00:06:03,399
+Asla teknik olarak gece olmaz. Londra gibi bu aylarda en fazla gökbilim tan'ı seviyesine
+
+96
+00:06:03,400 --> 00:06:07,348
+ulaşan yerlerde. Yani eğer bu yerlerden birinde yaşıyorsanız,
+
+97
+00:06:07,349 --> 00:06:11,538
+ve yazın bir şeyler yapmaktan kaçınmak istiyorsanız, insanlara
+
+98
+00:06:11,539 --> 00:06:15,149
+gece yapacağınızı söyleyin. Bu size bir kaç hafta kazandırmış olur.
+
+99
+00:06:15,150 --> 00:06:18,149
+Ama bu yavaş bir karanlık.  Haydi
+
+100
+00:06:18,150 --> 00:06:22,538
+konuyu burada keselim çünkü biz hızlı karanlığı arıyoruz.
+
+101
+00:06:22,539 --> 00:06:28,019
+Makas bıçaklarını kırparken bıçaklar arasındaki kesişim noktası
+
+102
+00:06:28,020 --> 00:06:31,278
+bıçakların kendisinden hızlı hareket eder.  Şöyle düşünün:
+
+103
+00:06:31,279 --> 00:06:35,359
+Eğer bıçakları bir ışık yılı uzunlukta olan bir makasa sahip bir makasınız olsaydı
+
+104
+00:06:35,360 --> 00:06:40,579
+ve bir saniyede kapatsaydınız, kesişim noktası
+
+105
+00:06:40,580 --> 00:06:43,748
+bir ışık yılı hareket ederdi, bir yıl değil...
+
+106
+00:06:43,749 --> 00:06:48,929
+bir saniye.  Burada da hiçbir kural ihlal edilmiyor çünkü kırpma noktası gibi bir şey
+
+107
+00:06:48,930 --> 00:06:52,299
+fiziksel olarak imkansızdır. Daha önce de bahsettiğim gibi,
+
+108
+00:06:52,300 --> 00:06:56,109
+katı objeler kendilerine güç uygulandığında
+
+109
+00:06:56,110 --> 00:06:58,969
+aniden harekete geçmezler.
+
+110
+00:06:58,970 --> 00:07:03,698
+Bunun yanında o güç elektromanyetik güçler olarak
+
+111
+00:07:03,699 --> 00:07:07,438
+bir atomdan diğerine çizgi boyunca hareket eder. Maddenin içinde
+
+112
+00:07:07,439 --> 00:07:10,998
+ışık hızında hareket eden bir basınç dalgası.
+
+113
+00:07:10,999 --> 00:07:15,598
+Ancak ya bu sorunu bıçakların ayrı ayrı hareket etmesini sağlayarak
+
+114
+00:07:15,599 --> 00:07:19,269
+ihmal etseydik? Kesişimleri yine de
+
+115
+00:07:19,270 --> 00:07:22,759
+ışıktan hızlı hareket edebilirdi, çünkü bu fiziksel bir şey değildir.
+
+116
+00:07:22,760 --> 00:07:25,899
+Bu sadece geometrik bir noktadır ve
+
+117
+00:07:25,900 --> 00:07:29,318
+halihazırda yakınlaşan bıçaklara şahit olarak
+
+118
+00:07:29,319 --> 00:07:33,098
+birleştirebileceğinizden başka hiç bir bilgi içermez.
+
+119
+00:07:33,099 --> 00:07:37,179
+Ancak o geometrik noktayı şimdilik saymayalım.  O nokta,
+
+120
+00:07:37,180 --> 00:07:41,688
+ışıktan hızlı başka bir karanlık çeşidinin anahtarı.
+
+121
+00:07:41,689 --> 00:07:46,438
+Dalgalar çarpıştıklarında daha büyük tepe noktaları oluşturabilirler,
+
+122
+00:07:46,439 --> 00:07:51,568
+Olukları daha büyük oluklara dönüşürler. Bu Yapıcı Girişim'dir.
+
+123
+00:07:51,569 --> 00:07:54,709
+Dalgalar zıt yönde oluklar ile çarpıştıklarında ise birbirlerini götürürler.
+
+124
+00:07:54,710 --> 00:07:58,158
+Bu da Yıkıcı Girişim'dir.  Eğer bu dalgalar ışık olsaydı,
+
+125
+00:07:58,159 --> 00:08:02,138
+sonuç karanlıktır.  Ve belirli şartlar altında
+
+126
+00:08:02,139 --> 00:08:06,628
+bu şekilde oluşturulan karanlık iki çizginin kesişim noktası gibi hareket edebilir -
+
+127
+00:08:06,629 --> 00:08:11,839
+ışıktan daha hızlı. bu ortak merkezli çemberleri ışık dalgaları olarak hayal edin.
+
+128
+00:08:11,840 --> 00:08:14,739
+Çizgiler dalga tepeleri ve aralardaki boşluklar
+
+129
+00:08:14,740 --> 00:08:18,698
+olukları. Karşılaştıklarında kesişim noktaları
+
+130
+00:08:18,699 --> 00:08:22,038
+dalgalardan daha hızlı aşağı ve yukarı kaçarlar
+
+131
+00:08:22,039 --> 00:08:25,698
+özellikle ortada, ilk birleştikleri kısımda
+
+132
+00:08:25,699 --> 00:08:31,558
+ışıktan hızlıdırlar. Bu karanlık kısımların süperlüminal (ışıktan hızlı) hızları eğer dalga kaynaklarından
+
+133
+00:08:31,559 --> 00:08:34,569
+birini arka plan gibi siyah yaparsak açık bir şekilde
+
+134
+00:08:34,570 --> 00:08:37,699
+görebiliriz.  Kırmızının gözlemlediği
+
+135
+00:08:37,700 --> 00:08:41,509
+kesişen bölgeler yıkıcı girişimi - karanlığı temsil eder.
+
+136
+00:08:41,510 --> 00:08:44,999
+Gördüğünüz gibi özellikle ortada
+
+137
+00:08:45,000 --> 00:08:49,499
+karanlık aşağıya ve yukarıya dalgalardan hızlı akar.
+
+138
+00:08:49,500 --> 00:08:53,189
+1995'de McArthur Wheeler isimli bir adam
+
+139
+00:08:53,190 --> 00:08:56,779
+Pittsburgh'da bir banka soydu.  Yakalandı
+
+140
+00:08:56,780 --> 00:09:01,109
+çünkü tek kamuflajı limon suyuydu.
+
+141
+00:09:01,110 --> 00:09:06,229
+Yüzünü limon suyuyla kapladı. Limon suyunun ısıtılarak ortaya çıkarılabilinecek, kağıda
+
+142
+00:09:06,230 --> 00:09:11,289
+yazıldığında görünmez mürekkep olarak kullanılabileceğini biliyordu ve neden
+
+143
+00:09:11,290 --> 00:09:15,208
+işe yaradığını ve kameraların çalışma prensibini çok az biliyordu
+
+144
+00:09:15,209 --> 00:09:18,539
+ve aşırı bir özgüvenle limon suyunun kendisini
+
+145
+00:09:18,540 --> 00:09:23,568
+görünmez yapabileceğini farz etti.
+
+146
+00:09:23,569 --> 00:09:27,989
+Cidden.  Wheeler uç bir örnek
+
+147
+00:09:27,990 --> 00:09:32,079
+ve Dunnig-Kruger etkisinin ilham kaynağıydı.
+
+148
+00:09:32,080 --> 00:09:35,809
+Acemiler, özel disiplinlerde yeteneksiz insanların
+
+149
+00:09:35,810 --> 00:09:39,439
+bilgi ve yeteneklerini çoğu kez
+
+150
+00:09:39,440 --> 00:09:42,939
+abartma eğilimidir.  Çünkü bu alanlarda
+
+151
+00:09:42,940 --> 00:09:46,799
+ne kadar öğrenecekleri şey olduğunu bilmediklerini bilmemektedirler.
+
+152
+00:09:46,800 --> 00:09:50,039
+öte yandan, özel alanlardaki uzmanlar çoğu kez
+
+153
+00:09:50,040 --> 00:09:54,109
+küçümserler, daha az özgüvenlidirler,
+
+154
+00:09:54,110 --> 00:09:58,159
+ya da herkes kadar bildiklerini düşünürler.
+
+155
+00:09:58,160 --> 00:10:00,979
+Dunning-Kruger etkisini yapan şey
+
+156
+00:10:00,980 --> 00:10:05,199
+bu gerçektir. Bir şeyi araştırdıkça öğrenilecek gerçekten ne kadar
+
+157
+00:10:05,200 --> 00:10:12,199
+zengin, karmaşık, ve cevaplanamamış sorularla dolu olduğunu farkedersiniz.
+
+158
+00:10:12,200 --> 00:10:16,359
+George Bernard Shaw bir keresinde Einstein'a şöyle demişti;
+
+159
+00:10:16,360 --> 00:10:19,458
+"Bilim her zaman yanlıştır.
+
+160
+00:10:19,459 --> 00:10:23,268
+Bir problemi 10 problem daha ortaya çıkarmadan çözemez."
+
+161
+00:10:23,269 --> 00:10:26,619
+Einstein tamamen reddetmedi. Geometriyi kullanarak
+
+162
+00:10:26,620 --> 00:10:30,528
+cehaletin bilgiden ne kadar hızlı ilerlediğinden şöyle bahsetti;
+
+163
+00:10:30,529 --> 00:10:35,379
+"Bilgi dairemiz büyüdükçe onu çevreleyen
+
+164
+00:10:35,380 --> 00:10:38,599
+karanlık da genişler.  Öğrenmek,
+
+165
+00:10:38,600 --> 00:10:42,899
+çalışmak, karanlığa ışık tutmak aslında ne kadar karanlık içerisinde olduğumuz gerçeğini,
+
+166
+00:10:42,900 --> 00:10:47,999
+aydınlatmamız gereken ne kadar gölgelenmiş şey
+
+167
+00:10:48,000 --> 00:10:51,189
+kaldığını açığa çıkarır.  Işığın çapı
+
+168
+00:10:51,190 --> 00:10:54,369
+asla karanlığın çapını aşamaz."
+
+169
+00:10:54,370 --> 00:10:57,669
+Peki bu tür bir karanlığın hızı nedir? Henüz hakkında
+
+170
+00:10:57,670 --> 00:11:02,119
+"karanlıkta olduğumuz" şeylerin sayısının büyüme hızı,
+
+171
+00:11:02,120 --> 00:11:04,469
+Cehaletin hızı nedir?
+
+172
+00:11:04,470 --> 00:11:08,669
+Eğer cehaleti sormayı bildiğimiz sorular,
+
+173
+00:11:08,670 --> 00:11:12,088
+ve sahip olduğumuz cevaplar arasındaki fark olarak tanımlarsak, agnotoloji alanına göre,
+
+174
+00:11:12,089 --> 00:11:15,109
+(cehalet bilimi) karanlıktaki,
+
+175
+00:11:15,110 --> 00:11:19,489
+bilmediğimiz şeylerin büyüme hızı
+
+176
+00:11:19,490 --> 00:11:22,628
+aydınlattıklarımızın büyüme hızından daha yüksek.
+
+177
+00:11:22,629 --> 00:11:27,519
+Bu bir tesadüf müdür ki "karanlıkta olmak" tabiri tüm çağlar içerisinde
+
+178
+00:11:27,520 --> 00:11:31,719
+aydınlanma çağı kökenlidir. Leeuwenhoek yapmış olduğu
+
+179
+00:11:31,720 --> 00:11:35,599
+lens düzeneğinin altına diş plağını koyduğunda
+
+180
+00:11:35,600 --> 00:11:39,068
+insanlık tarihinde ilk kez, hareket eden
+
+181
+00:11:39,069 --> 00:11:43,268
+küçük yaratıkları gördü... mikroorganizmaları.
+
+182
+00:11:43,269 --> 00:11:47,888
+Onlara hayvancıklar (animalcules) ismini verdi.  Bu keşifle etlerin neden
+
+183
+00:11:47,889 --> 00:11:51,419
+bozulduğuna ışık tuttu, yaşamın çürük etten öylesine çıkmadığına,
+
+184
+00:11:51,420 --> 00:11:54,159
+zaten orada olduğunu sadece göremediğimizi gösterdi.
+
+185
+00:11:54,160 --> 00:11:57,409
+Bu keşif aynı zamanda bizlere biyolojinin tamamen yeni alemine karşı
+
+186
+00:11:57,410 --> 00:12:00,609
+karanlıkta olduğumuzu gösterdi.
+
+187
+00:12:00,610 --> 00:12:05,959
+Philip Burdeau'nun şiirsel bir üslupla söylediği gibi, "aydınlanma cehalete,
+
+188
+00:12:05,960 --> 00:12:09,659
+bilim bilgisizliğe yol açar."
+
+189
+00:12:09,660 --> 00:12:14,019
+Büyümekte olan bilgisizlik çemberimiz konusundaki havalı olan şey,
+
+190
+00:12:14,020 --> 00:12:20,508
+Columbia Üniversitesi Biyolojik Bilimler bölüm başkanı Stuart Firestein'ın söylediği şey,
+
+191
+00:12:20,509 --> 00:12:24,669
+"bilimin başladığı yer,
+
+192
+00:12:24,670 --> 00:12:28,499
+gerçeklerin bittiği yerin hemen ardındadır."
+
+193
+00:12:28,500 --> 00:12:32,839
+"Çemberin dışın yatan şeylerin muazzam niceliğinin keyfini çıkarmak yerine,
+
+194
+00:12:32,840 --> 00:12:35,268
+gerçeklerin çemberinde oyalanmak
+
+195
+00:12:35,269 --> 00:12:40,388
+bir hatadır."
+
+196
+00:12:40,389 --> 00:12:43,828
+Eğer bilim bir araba yolculuğu ise gerçekler,
+
+197
+00:12:43,829 --> 00:12:47,698
+yol boyunca çektiğimiz fotoğraflar, itiş gücü yakıtımız ise,
+
+198
+00:12:47,699 --> 00:12:51,398
+cehalettir.  Gerçekler... daha çok
+
+199
+00:12:51,399 --> 00:12:54,958
+faks gibi. Geçmişin bir parçası, ileriye giden yol değil.
+
+200
+00:12:54,959 --> 00:12:57,659
+Dünyamızı anlama konusunda,
+
+201
+00:12:57,660 --> 00:13:01,909
+sebebini bilmek, neden sorusunu sormanın yanında modası geçmiştir.
+
+202
+00:13:01,910 --> 00:13:05,059
+Gerçekleri bilmek sizi aydın yapar, ancak
+
+203
+00:13:05,060 --> 00:13:09,219
+aynı hızda, bazen daha hızlı ve daha değerli bir ödül olan
+
+204
+00:13:09,220 --> 00:13:10,919
+karanlığı verir.
+
+205
+00:13:10,920 --> 00:13:16,008
+Ve her şeyi bilmediğinizi kabul edip, birazını bilmek istediğinizi itiraf etmeyi.
+
+206
+00:13:16,009 --> 00:13:17,419
+Ve her zamanki gibi,
+
+207
+00:13:17,420 --> 00:13:18,860
+izlediğiniz için teşekkürler.
+

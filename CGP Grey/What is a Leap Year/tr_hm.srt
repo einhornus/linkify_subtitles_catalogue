@@ -1,0 +1,352 @@
+1
+00:00:00,700 --> 00:00:04,119
+Bir takvim yılı üç yüz altmış beş günden
+oluşur. 365: Usluca bölünmeyi reddeden bir sayı.
+
+2
+00:00:04,120 --> 00:00:08,768
+Bu nedenle birbirine eşit olmayan
+30 ya da 31 günlük aylarımız var.
+
+3
+00:00:08,769 --> 00:00:13,218
+28 günüyle ailenin çelimsizi Şubat hariç;
+29 gün olup da yılı 366 gün 
+
+4
+00:00:13,219 --> 00:00:15,869
+yapmadığı zaman tabii ki...
+
+5
+00:00:15,870 --> 00:00:18,909
+Peki bu neden oluyor? Nasıl çılgın bir evrende
+yaşıyoruz da bazı yıllar
+
+6
+00:00:18,910 --> 00:00:19,639
+diğerlerinden daha uzun?
+
+7
+00:00:19,640 --> 00:00:22,189
+Bu soruyu cevaplamak için şunu bilmeliyiz:
+Yıl nedir?
+
+8
+00:00:22,190 --> 00:00:25,609
+Fazlaca basitleştirerek: Bir yıl, Dünya'nın
+Güneş etrafındaki yörüngesinde bir turu tamamladığı süredir.
+
+9
+00:00:25,610 --> 00:00:28,319
+Bu mevsim döngüsüyle de örtüşür.
+
+10
+00:00:28,320 --> 00:00:31,729
+Şimdi, şöyle Dünya'yı Güneş etrafında
+kaygısızca dolanırken gösteren küçük bir şema
+
+11
+00:00:31,730 --> 00:00:35,189
+çizmek kolay, fakat bir yılı Dünya üzerinden 
+kesin olarak takip etmek alengirli.
+
+12
+00:00:35,190 --> 00:00:37,429
+Çünkü Evren bize kuşbakışı bir harita sunmuyor.
+
+13
+00:00:37,430 --> 00:00:40,499
+Dünyadan sadece mevsimlerin değiştiğini görüyoruz.
+Mevsimlerin geliş gidişlerini takip etmenin aşikar yolu
+
+14
+00:00:40,500 --> 00:00:45,259
+geçen günleri saymak, ki bu da bize
+365 günlük takvimi veriyor.
+
+15
+00:00:45,260 --> 00:00:49,209
+Fakat bu takvimi kullanmaya başladığımız anda,
+mevsim çevrimleriyle uyumu bozulmaya başlar.
+
+16
+00:00:49,210 --> 00:00:52,078
+Her geçen yıl aradaki fark giderek büyür,
+büyür ve büyür.
+
+17
+00:00:52,079 --> 00:00:55,809
+Otuz yılda takvim bir hafta kaymış,
+bir kaç yüzyılda ise mevsimler yer değiştirmiş
+
+18
+00:00:55,810 --> 00:01:00,099
+olur. Yani bu durumda Noel kutlamaları yaza denk
+gelirdi ki bu da çılgınlık olurdu.
+
+19
+00:01:00,100 --> 00:01:03,148
+Peki bu neden oluyor? Günleri yanlış mı saydık?
+Takvim, Dünya'nın Güneş etrafında dolanması
+
+20
+00:01:03,149 --> 00:01:08,068
+için gereken zamanı 8,760 saat olarak öngörüyor.
+Fakat, eğer bu süreyi kronometre ile ölçersen,
+
+21
+00:01:08,069 --> 00:01:11,478
+bir yılın aslında takvimin öngördüğünden
+neredeyse altı saat uzun olduğunu görürsün.
+
+22
+00:01:11,479 --> 00:01:16,099
+Yani takvimimiz çok az da olsa
+mevsimlerin değişiminden
+
+23
+00:01:16,100 --> 00:01:17,019
+hızlı ilerliyor.
+
+24
+00:01:17,020 --> 00:01:20,629
+Böylece tüm takvimlerin temel sorununa
+geldik: Sayması kolay da olsa Gece-Gündüz çevriminin
+
+25
+00:01:20,630 --> 00:01:23,748
+yıllık çevrimle hiç alakası yok.
+
+26
+00:01:23,749 --> 00:01:27,239
+Gece ve gündüz Dünya'nın kendi etrafında dönmesinden
+kaynaklanıyor. Biz Güneş'e bakan taraftayken
+
+27
+00:01:27,240 --> 00:01:30,739
+gündüz, öbür tarafdayken de gece oluyor.
+Fakat bu Dünay'nın bu dönüşü ile
+
+28
+00:01:30,740 --> 00:01:34,008
+Güneş etrafındaki dolanması arasında,
+bir kamyonun kasasında kendi etrafında dönen bir balerinin
+
+29
+00:01:34,009 --> 00:01:36,618
+kamyonun hızıyla arasındaki ilişki
+kadar ilişki var.
+
+30
+00:01:36,619 --> 00:01:39,258
+Balerinin dönüşlerini saymak, kamyonun bir çemberdeki
+hareketini ne kadar zamanda tamamladığını tahmin etmek
+
+31
+00:01:39,259 --> 00:01:43,358
+adına kabaca bir fikir verebilir,
+fakat sonucun kesin olmasını beklemek çılgıncadır.
+
+32
+00:01:43,359 --> 00:01:46,478
+Yörüngeyi takip etmek için günleri saymak,
+az çok buna benzer. Öyleyse Dünya'nın
+
+33
+00:01:46,479 --> 00:01:50,788
+bir yılda tam da 365 dönüş yapmaması
+bir sürpriz olmamalı.
+
+34
+00:01:50,789 --> 00:01:56,309
+365 gün az gelirken, rahatsız edici şekilde, 
+366 gün de fazla gelir ve mevsimlerin 
+
+35
+00:01:56,310 --> 00:01:58,739
+bu sefer öbür yönde kaymasına neden olur.
+
+36
+00:01:58,740 --> 00:02:02,068
+Tüm bunların çözümü "Artık Yıl"dır:
+Şubat'ın fazladan bir gün aldığı yıl,
+
+37
+00:02:02,069 --> 00:02:03,438
+ama sadece dört yılda bir.
+
+38
+00:02:03,439 --> 00:02:07,038
+Bu gayet iyi çalışıyor. Her yıl takvim
+yaklaşık çeyrek gün kısa kalıyor, öyleyse dört yılda bir
+
+39
+00:02:07,039 --> 00:02:09,388
+tekrar hizaya getirmek için fazladan bir gün ekliyoruz.
+
+40
+00:02:09,389 --> 00:02:11,229
+Heyooo! Sorun çözüldü.
+
+41
+00:02:11,230 --> 00:02:12,539
+Aslında, çözülmedi.
+
+42
+00:02:12,540 --> 00:02:15,738
+Takvim yılını her dört yılda bir 1 gün uzatmak,
+azıcık fazla geliyor ve takvim hala
+
+43
+00:02:15,739 --> 00:02:19,128
+mevsimlerin gerisinde kalıyor:
+bu sefer yüzyılda bir gün.
+
+44
+00:02:19,129 --> 00:02:22,458
+Bunda kaygusUzlar [:)] için sıkıntı yok,
+fakat her şeyin mükemmelce hizalanmasını isteyen
+
+45
+00:02:22,459 --> 00:02:23,679
+takvim tasarımcıları için var.
+
+46
+00:02:23,680 --> 00:02:26,738
+Bu düzensizliği çözmek için
+her yüzyıl başında artık yıl atlanır.
+
+47
+00:02:26,739 --> 00:02:30,539
+Yani, 1896 ve 1904 artık yıldı,
+fakat 1900 değildi.
+
+48
+00:02:30,540 --> 00:02:34,238
+Daha iyi. Fakat takvim hala,
+çok azıcık da olsa, hızlı:
+
+49
+00:02:34,239 --> 00:02:35,999
+400 yılda 1 gün.
+
+50
+00:02:36,000 --> 00:02:39,029
+Bundan dolayı "yüzyıl başlarını atla" kuralına
+ek bir koşul daha eklenir:
+
+51
+00:02:39,030 --> 00:02:41,878
+Eğer yüzyıl başı 400'ün katı ise
+artık yıl olur.
+
+52
+00:02:41,879 --> 00:02:45,158
+Yani 1900 ve 2100 artık yıl değil,
+fakat 2000 artık yıl.
+
+53
+00:02:45,159 --> 00:02:49,179
+Bu üç kuralla hata sadece neredeyse
+sekiz bin yılda bir gün mertebesinde;
+
+54
+00:02:49,180 --> 00:02:52,568
+ki mevcut takvim bunu "Görev tamam" addedip
+günü bitirir.
+
+55
+00:02:52,569 --> 00:02:55,389
+Ki bu büyük ihtimalle gayet makul çünkü
+sekiz bin yıl önce insanlar
+
+56
+00:02:55,390 --> 00:02:58,729
+tarımın iyi bir fikir olabileceğini
+yeni yeni fark ediyorlardı ve bundan,
+
+57
+00:02:58,730 --> 00:03:01,548
+sekiz bin yıl sonra da, umarım daha iyi bir tarih
+takip sistemine sahip bir takvim kullanıyor olacağız.
+
+58
+00:03:01,549 --> 00:03:06,149
+Fakat, belki bir matematikçisin ve %0.0001
+hata sana göre nefret edilesi bir şey
+
+59
+00:03:06,150 --> 00:03:07,078
+ve giderilmeli.
+
+60
+00:03:07,079 --> 00:03:10,729
+"Kısmet be gülüm:)" der Evren, çünkü gün uzunluğu da
+sabit değil. Gelişigüzel, bir kaç milisaniye
+
+61
+00:03:10,730 --> 00:03:14,929
+mertebesinde değişirken, ortalamada ve bayağı yavaşça 
+100 yılda 1 milisaniye civarında kısalır.
+
+62
+00:03:14,930 --> 00:03:18,809
+Bu da sonsuza kadar çalışacak mükemmel
+bir takvim yapmak, kelimenin tam anlamıyla,
+
+63
+00:03:18,810 --> 00:03:19,968
+imkansız demektir.
+
+64
+00:03:19,969 --> 00:03:23,089
+Teoride gün uzunluğu 1 aya kadar çıkacak.
+
+65
+00:03:23,090 --> 00:03:27,018
+Ama endişeye mahal yok. Pratikte bu
+10 milyarlarca yıl alacak ve genişleyen
+
+66
+00:03:27,019 --> 00:03:28,798
+Güneşimiz bu olmadan çok önce
+Dünya'yı yok etmiş olacak.
+
+67
+00:03:28,799 --> 00:03:32,128
+Affedersiniz, nasıl oldu da ayların günlerini saymaktan
+insan medeniyetinin kaçınılmaz ateşli sonuna
+
+68
+00:03:32,129 --> 00:03:35,298
+(tabii ki layığıyla finanse edilmiş bir uzay programımız olmazsa)
+
+69
+00:03:35,299 --> 00:03:37,348
+(Verin, cömertçe)
+nasıl geldik bilmiyorum ama işte buradayız.
+
+70
+00:03:37,349 --> 00:03:40,408
+Gelecek sekiz milenyum boyunca artık yıllar
+takvimi mevsimlerle uyumlu tutacak,
+
+71
+00:03:40,409 --> 00:03:43,889
+şaşırtıcı biçimde karışık bir yolla.
+
+72
+00:03:43,890 --> 00:03:47,289
+Yörüngeler, değişik tür yıllar ve süper kütleli karadelikler
+hakkında çok daha fazlasını
+
+73
+00:03:47,290 --> 00:03:50,248
+Minute Physics'de öğrenebilirsiniz.
+Yeni videosunda hepsini açıklarken Henry,
+
+74
+00:03:50,249 --> 00:03:51,590
+her zamanki gibi muazzam bir iş çıkarıyor.
+Gidin ve bir göz atın!
+

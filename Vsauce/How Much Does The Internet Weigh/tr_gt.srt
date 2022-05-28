@@ -1,0 +1,267 @@
+1
+00:00:00,470 --> 00:00:02,199
+Selam, Vsauce.
+Michael burada.
+
+2
+00:00:02,200 --> 00:00:08,379
+Ve bu çilek,
+Russell Seitz'e
+
+3
+00:00:08,380 --> 00:00:14,379
+göre tüm internetin ağırlığı olan yaklaşık 50 gram ağırlığında.
+Bu ne anlama geliyor?
+
+4
+00:00:14,380 --> 00:00:19,309
+Yani internet devasa bir yer ve
+bilgiyi nasıl ölçüyorsunuz?
+
+5
+00:00:19,310 --> 00:00:22,768
+Pekala, Kindle ile biraz daha küçük başlayalım
+.
+
+6
+00:00:22,769 --> 00:00:27,178
+Şu anda, "e" harfini hiç kullanmadan yazılmış olması
+dışında tamamen anlamlı olan harika bir roman olan Gadsby'yi okuyorum
+
+7
+00:00:27,179 --> 00:00:31,839
+
+ki bu harika.
+
+8
+00:00:31,840 --> 00:00:35,719
+Ama Gadsby'yi Kindle'ıma koyduğumda
+Kindle'ım kilo aldı mı?
+
+9
+00:00:35,720 --> 00:00:40,599
+Eh, teorik olarak, evet oldu.
+Bilgiler bunun gibi flash sürücülerde
+
+10
+00:00:40,600 --> 00:00:45,889
+ve Kindle'ımda ikili dosyada saklanır.
+Ve bu ikili fiziksel olarak var çünkü
+
+11
+00:00:45,890 --> 00:00:50,679
+elektronlar kayan geçit transistörlerini şarj ediyor.
+Ve elektronlarla ilgili olan şey
+
+12
+00:00:50,680 --> 00:00:55,239
+, kütlelerinin olmasıdır.
+Aslında, Berkeley'deki bir profesör,
+
+13
+00:00:55,240 --> 00:01:00,699
+bir Kindle tamamen kitaplarla dolduğunda
+, ağırlığının yaklaşık 10 ila eksi
+
+14
+00:01:00,700 --> 00:01:05,549
+18 gram arttığını tahmin etti.
+Bu sayı akıllara durgunluk verecek kadar küçük.
+
+15
+00:01:05,550 --> 00:01:11,109
+
+Hatta Kindle'ın pilini tamamen şarj ettiğinizde, onu kitaplarla doldurduğunuzdan 100 milyon kat
+
+16
+00:01:11,110 --> 00:01:13,869
+daha fazla kütle kazandığını söylüyor
+.
+
+17
+00:01:13,870 --> 00:01:16,809
+Ancak o zaman bile sayıyı ölçmek imkansızdır
+.
+
+18
+00:01:16,810 --> 00:01:22,529
+Şimdiye kadar yarattığımız en spesifik
+teraziler sadece yaklaşık 10 üzeri eksi 9.
+
+19
+00:01:22,530 --> 00:01:25,299
+gramdır.
+Öyleyse daha da büyüyelim.
+
+20
+00:01:25,300 --> 00:01:30,069
+Russell Seitz kendi ölçümünü yaptı
+çünkü İnternet
+
+21
+00:01:30,070 --> 00:01:36,559
+sunucu ağlarından oluşuyor ve bunlar
+İnternet'in çalışmasını sağlamak için çalışan yaklaşık 75 ila 100 milyon sunucu.
+
+22
+00:01:36,560 --> 00:01:42,259
+Kombine edildiğinde, birçok sunucu yaklaşık 40
+milyar Watt elektriğe eşittir ve
+
+23
+00:01:42,260 --> 00:01:46,239
+bir Amp'nin saniyede yaklaşık 10 ila 18 elektron olduğunu biliyoruz
+.
+
+24
+00:01:46,240 --> 00:01:50,949
+Ve bir elektronun ağırlığını
+bildiğimize göre, tüm
+
+25
+00:01:50,950 --> 00:01:55,709
+İnternet'in gerçekten de hareket halindeki yaklaşık 50 gram elektron olduğunu hesaplayabiliriz
+.
+
+26
+00:01:55,710 --> 00:01:59,809
+Şimdi bu sayı sadece sunucuları içeriyor.
+Ve Seitz,
+
+27
+00:01:59,810 --> 00:02:04,059
+çipleri kişisel bilgisayarlara da dahil etmek isterseniz, sayının
+yaklaşık 3 kat daha büyük olduğunu söylüyor.
+
+28
+00:02:04,060 --> 00:02:07,119
+Ama internetin
+beni biraz daha fazla etkileyen bir ağırlığı var.
+
+29
+00:02:07,120 --> 00:02:11,779
+
+İnternete hizmet etmek için gereken enerjinin değil
+
+30
+00:02:11,780 --> 00:02:16,439
+, gerçek bilginin içerdiği enerjinin bir hesaplamasıdır.
+Videolar, resimler, e-postalar.
+
+31
+00:02:16,440 --> 00:02:20,639
+Saklandığında hepsi toplu olarak ne kadar ağırlığa sahiptir
+?
+
+32
+00:02:20,640 --> 00:02:26,348
+İşte olay şu.
+Bir e-postayı depolamak için yaklaşık 8 milyar elektron gerekir
+
+33
+00:02:26,349 --> 00:02:29,788
+.
+8 milyar kulağa çok gibi geliyor, ancak elektronlar
+
+34
+00:02:29,789 --> 00:02:36,479
+çok küçük ve bu nedenle bir e-posta, onsun
+katrilyonda birinin yalnızca iki on binde biri ağırlığındadır
+
+35
+00:02:36,480 --> 00:02:39,699
+.
+Ama İnternet çok sayıda e-posta
+
+36
+00:02:39,700 --> 00:02:44,399
+içeriyor ve çok sayıda video, resim ve
+ünlü söylentileri içeriyor, peki toplam ağırlığı ne kadar?
+
+37
+00:02:44,400 --> 00:02:47,659
+
+Pekala, sormamız gereken ilk soru
+
+38
+00:02:47,660 --> 00:02:53,319
+, İnternet'in ne kadar büyük olduğu ve bunu
+hesaplamanın zor olduğu, ancak Google'ın o zamanki CEO'su Eric Schmidt
+
+39
+00:02:53,320 --> 00:03:00,429
+, bir keresinde tüm İnternet'in
+yaklaşık 5 milyon Terabayt
+
+40
+00:03:00,430 --> 00:03:05,729
+bilgi içerdiğini tahmin etmişti, dedi.  , Google yalnızca
+%0,004 dizine ekledi.
+
+41
+00:03:05,730 --> 00:03:10,889
+Tamam, İnternet'i teslim etmek için gereken enerjiyi saymazsak,
+İnternet'teki bilginin
+
+42
+00:03:10,890 --> 00:03:16,899
+kendisi yaklaşık 5 milyon Terabayttır.
+Şimdi,
+
+43
+00:03:16,900 --> 00:03:21,289
+tek bir bayt oluşturmak için kaç elektron gerektiğini biliyoruz ve
+bir elektronun kütlesini biliyoruz ve böylece biraz matematikle
+
+44
+00:03:21,290 --> 00:03:26,919
+, tüm İnternet'in,
+üzerindeki her şeyin toplu olarak yalnızca bir elektronun
+
+45
+00:03:26,920 --> 00:03:33,699
+0,2 milyonda biri ağırlığında olduğunu anlayabilirsiniz.  ons.
+Bunu şu şekilde düşünün:
+
+46
+00:03:33,700 --> 00:03:38,719
+YouTube'daki her bir video, tüm web'deki her bir video
+, her bir resim, her bir web sitesi,
+
+47
+00:03:38,720 --> 00:03:42,139
+gönderdiğiniz her e-posta, yazdığınız her aşk
+mektubu, torunlarınızın her fotoğrafı
+
+48
+00:03:42,140 --> 00:03:47,848
+Almış olduğunuz
+toplu halde yaklaşık mümkün olan en küçük kum tanesi büyüklüğünde bir kütle miktarı içinde tutulur
+
+49
+00:03:47,849 --> 00:03:54,878
+.
+Twitter'da @tweetsauce'u takip ederseniz
+
+50
+00:03:54,879 --> 00:03:56,859
+daha da fazlasını öğrenebilirsiniz.
+Genel olarak elektrikle ilgili bu videoya dahil etmediğim bazı gerçekleri orada paylaşacağım
+
+51
+00:03:56,860 --> 00:03:59,979
+
+.
+
+52
+00:03:59,980 --> 00:04:02,379
+Klas olduğunuzu göstermek için bizi Facebook'ta beğenin.
+
+53
+00:04:02,380 --> 00:04:02,999
+Ve her zamanki gibi,
+
+54
+00:04:03,000 --> 00:04:04,420
+izlediğiniz için teşekkürler.
+

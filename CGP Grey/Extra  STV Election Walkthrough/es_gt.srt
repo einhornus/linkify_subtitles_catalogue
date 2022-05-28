@@ -1,0 +1,312 @@
+1
+00:00:00,200 --> 00:00:04,619
+En el video principal, repasé un par de pequeños ejemplos rápidos de elecciones de STV,
+
+2
+00:00:04,620 --> 00:00:09,779
+pero en este video adicional, quiero tomar una elección más grande y analizarla con un poco más de profundidad
+
+3
+00:00:09,780 --> 00:00:13,479
+para que puedan ver cómo una elección de STV  se desarrolla
+
+4
+00:00:13,480 --> 00:00:19,619
+En este caso, vamos a tener 10 candidatos, y habrá cinco puestos abiertos para representantes.
+
+5
+00:00:19,620 --> 00:00:23,559
+Eso significa que cada candidato necesita obtener el 20% para ganar.
+
+6
+00:00:23,560 --> 00:00:27,919
+Entonces, los ciudadanos van a las urnas y los resultados de su primera elección son los siguientes:
+
+7
+00:00:27,920 --> 00:00:29,559
+Tarsier obtiene el 5%
+
+8
+00:00:29,560 --> 00:00:31,079
+Gorilla obtiene el 32%
+
+9
+00:00:31,080 --> 00:00:32,599
+Silverback obtiene el 3%
+
+10
+00:00:32,600 --> 00:00:34,179
+Owl obtiene el 33%
+
+11
+00:00:34,180 --> 00:00:35,359
+Turtle obtiene el 1%
+
+12
+00:00:35,360 --> 00:00:36,359
+Snake obtiene el 1%
+
+13
+00:00:36,360 --> 00:00:37,559
+Tiger obtiene el 16%
+
+14
+00:00:37,560 --> 00:00:38,779
+Lynx obtiene el 4%
+
+15
+00:00:38,780 --> 00:00:40,079
+Jackelope  obtiene el 2%
+
+16
+00:00:40,080 --> 00:00:41,739
+y Buffalo obtiene el 3%.
+
+17
+00:00:41,740 --> 00:00:47,399
+Ahora lo que podemos ver aquí es una situación que es muy frecuente en las elecciones reales con STV
+
+18
+00:00:47,400 --> 00:00:51,099
+Que hay dos o tres partidos con mucho apoyo
+
+19
+00:00:51,100 --> 00:00:53,519
+--en este caso Gorila, Búho y Tigre--
+
+20
+00:00:53,520 --> 00:00:56,739
+y hay un montón  de los partidos que tienen menos del 5% de los votos.
+
+21
+00:00:56,740 --> 00:00:58,199
+Así que vamos a ver cómo funciona esto.
+
+22
+00:00:58,200 --> 00:01:04,419
+Primero, Gorilla y Owl obtienen un asiento porque ambos cruzaron el umbral requerido para ganar.
+
+23
+00:01:04,420 --> 00:01:07,079
+Ambos candidatos tienen más votos de los que realmente necesitaban para entrar, lo
+
+24
+00:01:07,080 --> 00:01:11,519
+que significa que tienen más apoyo entre la población del que puede proporcionar su único candidato.
+
+25
+00:01:11,520 --> 00:01:17,079
+Echa un vistazo a qué candidato tiene el mayor excedente de votos primero y redistribuye esos.
+
+26
+00:01:17,080 --> 00:01:23,279
+Owl tiene el 32%, tiene el mayor excedente.  La segunda opción de sus votantes es lo más importante que hay que averiguar
+
+27
+00:01:23,280 --> 00:01:25,539
+y, en este caso, es Turtle.
+
+28
+00:01:25,540 --> 00:01:27,359
+A continuación, Gorilla tiene un superávit de votos.
+
+29
+00:01:27,360 --> 00:01:33,599
+Ahora, hasta este punto hemos estado pretendiendo que todos los ciudadanos del reino animal votan exactamente de la misma manera.
+
+30
+00:01:33,600 --> 00:01:37,579
+Pero en las elecciones reales, no todos los votantes están de acuerdo en cuál es su segunda opción.
+
+31
+00:01:37,580 --> 00:01:43,239
+Entonces, resulta que los votantes de Gorilla se dividen entre Tarsier y Silverback para su segunda opción.
+
+32
+00:01:43,240 --> 00:01:49,299
+Hay muchas maneras de tratar de resolver esta situación de lo que sucede cuando se dividen los votos de segunda opción.
+
+33
+00:01:49,300 --> 00:01:54,279
+Pero para simplificar un poco, podemos decir que esos votos se distribuyen proporcionalmente.
+
+34
+00:01:54,280 --> 00:01:59,479
+Entonces, en este caso, los votantes de 2 a 1 prefieren Silverback sobre Tarsier como su segunda opción.
+
+35
+00:01:59,480 --> 00:02:04,899
+Así es como se distribuyen los votos, aumentando Silverback hasta el 11% y Tarsier hasta el 9%.
+
+36
+00:02:04,900 --> 00:02:11,219
+En este punto, ya nadie tiene un superávit de votos y nadie ha superado el umbral, por lo que comenzamos a eliminar primero al mayor perdedor.
+
+37
+00:02:11,220 --> 00:02:18,479
+En este caso, esa es Snake.  Snake nunca iba a ganar, por lo que esos votos van a la segunda opción de los votantes de Snake, que es Turtle.
+
+38
+00:02:18,480 --> 00:02:21,039
+A continuación, Jackelope es el mayor perdedor.
+
+39
+00:02:21,040 --> 00:02:24,459
+Ahora, lo que sucede aquí es que a los votantes de Jackelope solo les gusta Jackelope.
+
+40
+00:02:24,460 --> 00:02:30,519
+No les gusta ningún otro candidato.  Piensan que todos los demás son igualmente malos y que solo Jackelope es increíble.
+
+41
+00:02:30,520 --> 00:02:33,379
+Así que solo pusieron uno al lado de Jackelope en su boleta de votación,
+
+42
+00:02:33,380 --> 00:02:35,719
+y nada al lado de nadie más.
+
+43
+00:02:35,720 --> 00:02:42,019
+Lo que sucede en esta situación es que los votos de Jackelope en realidad se eliminan de la elección en esta etapa.
+
+44
+00:02:42,020 --> 00:02:45,739
+Sus votantes han dicho que no les importa si Jackelope no gana.
+
+45
+00:02:45,740 --> 00:02:47,839
+Así que es casi como si no votaran.
+
+46
+00:02:47,840 --> 00:02:49,479
+A continuación, Buffalo es eliminado.
+
+47
+00:02:49,480 --> 00:02:54,019
+Ahora, sus votantes ponen a Jackelope como segunda opción, pero como Jackelope ya fue eliminado,
+
+48
+00:02:54,020 --> 00:02:56,239
+sus votos no pueden ir allí.
+
+49
+00:02:56,240 --> 00:03:01,979
+En STV sí importa que pueda obtener el voto de primera elección de un cierto número de personas.
+
+50
+00:03:01,980 --> 00:03:05,539
+A veces la gente critica el sistema por eso, pero no creo que sea
+
+51
+00:03:05,540 --> 00:03:09,239
+irrazonable considerar que los votos de primera elección importan más que otros votos.
+
+52
+00:03:09,240 --> 00:03:13,439
+Dado que los votantes de Buffalo no pueden pasar a su segunda opción, a 2/3 de los votantes de Buffalo no les importa en este punto
+
+53
+00:03:13,440 --> 00:03:16,519
+que querían Buffalo o Jackelope y no les gusta nadie más,
+
+54
+00:03:16,520 --> 00:03:19,279
+y 1/3 de los votantes de Buffalo respaldan a Turtle.
+
+55
+00:03:19,280 --> 00:03:23,759
+Entonces, Turtle obtuvo otra pequeña porción del 1%, lo que lo llevó al 16% y lo empató con Tiger.
+
+56
+00:03:23,760 --> 00:03:26,319
+Pero, el siguiente gran perdedor es Lynx.
+
+57
+00:03:26,320 --> 00:03:32,679
+Los votos de Lynx van para Tiger, y Tiger es seleccionado como el próximo representante por alcanzar el umbral de votación.
+
+58
+00:03:32,680 --> 00:03:35,539
+El siguiente mayor perdedor es Tasier.  Lo siento Tarsier.
+
+59
+00:03:35,540 --> 00:03:40,479
+Tarsier en esta etapa tiene votos tanto de los ciudadanos que la seleccionaron como su primera opción
+
+60
+00:03:40,480 --> 00:03:44,459
+como de los candidatos que la seleccionaron como su segunda opción después de Gorilla.
+
+61
+00:03:44,460 --> 00:03:48,959
+Entonces, cuando estos votos se redistribuyen, algunos van a su segunda opción
+
+62
+00:03:48,960 --> 00:03:51,299
+y otros van a su tercera opción.
+
+63
+00:03:51,300 --> 00:03:55,559
+Pero los simios se mantienen unidos, por lo que se dirigen hacia Silverback.
+
+64
+00:03:55,560 --> 00:03:58,839
+Silverback es elegido como el próximo representante.
+
+65
+00:03:58,840 --> 00:04:01,999
+Finalmente, la pregunta es qué hacer con Turtle.
+
+66
+00:04:02,000 --> 00:04:04,819
+Turtle es el próximo mayor perdedor y no ha alcanzado el umbral,
+
+67
+00:04:04,820 --> 00:04:07,499
+pero hay cinco escaños disponibles en esta elección.
+
+68
+00:04:07,500 --> 00:04:13,559
+La regla en la mayoría de los sistemas STV es que si tiene un escaño disponible y queda un candidato,
+
+69
+00:04:13,560 --> 00:04:17,159
+incluso si no alcanzaron el umbral, aún entran.
+
+70
+00:04:17,160 --> 00:04:20,619
+Entonces, Turtle es elegido como nuestro representante final.
+
+71
+00:04:20,620 --> 00:04:24,699
+Si volvemos al principio, podemos ver que ha resultado ser un resultado bastante bueno.
+
+72
+00:04:24,700 --> 00:04:27,679
+Nuestras secciones más grandes de la población eran Gorilla y Owl
+
+73
+00:04:27,680 --> 00:04:30,679
+y terminaron obteniendo su primera y segunda opción.
+
+74
+00:04:30,680 --> 00:04:33,339
+Tiger y Lynx eran los siguientes sectores más grandes de la población.
+
+75
+00:04:33,340 --> 00:04:34,659
+Consiguieron una de sus opciones.
+
+76
+00:04:34,660 --> 00:04:37,799
+Muchas partes acordaron que estaban de acuerdo con Turtle como su próxima opción,
+
+77
+00:04:37,800 --> 00:04:41,639
+y esos votos evitaron que Turtle fuera eliminado en una ronda en particular.
+
+78
+00:04:41,640 --> 00:04:43,640
+Y Turtle también es un representante.
+

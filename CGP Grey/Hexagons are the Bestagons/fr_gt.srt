@@ -1,0 +1,1175 @@
+1
+00:00:00,000 --> -1:59:59,999
+[la musique de synthé instrumental ludique s'estompe lentement]
+Tu sais...
+
+2
+00:00:00,000 --> 00:00:00,959
+Tu sais... Les
+
+3
+00:00:00,960 --> 00:00:03,751
+hexagones sont les bestagons.
+
+4
+00:00:03,752 --> 00:00:04,428
+Pourquoi?
+
+5
+00:00:04,429 --> 00:00:05,722
+Parce que les abeilles.
+
+6
+00:00:05,723 --> 00:00:06,835
+Les abeilles sont les meilleures
+
+7
+00:00:06,836 --> 00:00:09,300
+et ne construisent que le bestagon, l'hexagone.
+
+8
+00:00:09,301 --> 00:00:10,529
+Maintenant, je sais ce que vous pensez.
+
+9
+00:00:10,530 --> 00:00:12,939
+Les abeilles construisent des hexagones parce que ce sont des hexapodes
+
+10
+00:00:12,940 --> 00:00:14,129
+avec des yeux hexagonaux.
+
+11
+00:00:14,130 --> 00:00:15,759
+Comment pourraient-ils faire autrement ?
+
+12
+00:00:15,760 --> 00:00:16,709
+Excellent point.
+
+13
+00:00:16,710 --> 00:00:19,819
+Mais l'humble bumble a un problème d'ingénierie à résoudre.
+
+14
+00:00:19,820 --> 00:00:22,159
+Elle fabrique deux choses : du miel et de la cire.
+
+15
+00:00:22,160 --> 00:00:23,169
+Le premier pour manger,
+
+16
+00:00:23,170 --> 00:00:25,029
+et le second pour contenir le premier.
+
+17
+00:00:25,030 --> 00:00:26,459
+Pour faire un peu de miel,
+
+18
+00:00:26,460 --> 00:00:28,569
+elle doit visiterbeaucoupde fleurs.
+
+19
+00:00:28,570 --> 00:00:30,149
+Et pour fabriquer une unité de cire,
+
+20
+00:00:30,150 --> 00:00:31,769
+elle a besoin de huit unités de miel.
+
+21
+00:00:31,770 --> 00:00:33,859
+La cire est coûteuse pour les abeilles en termes de fleurs,
+
+22
+00:00:33,860 --> 00:00:35,859
+et le miel est dégoulinant en termes de nourriture,
+
+23
+00:00:35,860 --> 00:00:38,299
+donc faire une ruche qui contient le maximum de miel
+
+24
+00:00:38,300 --> 00:00:41,319
+tout en utilisant le minimum de cire est royalement vital.
+
+25
+00:00:41,320 --> 00:00:43,159
+Ainsi, une conjecture en nid d'abeille.
+
+26
+00:00:43,160 --> 00:00:44,769
+Quelle forme fonctionne le mieux ?
+
+27
+00:00:44,770 --> 00:00:46,469
+Pour répondre, nous devons parler tuiles.
+
+28
+00:00:46,470 --> 00:00:49,439
+Le carrelage recouvre une surface avec un motif de polygones.
+
+29
+00:00:49,440 --> 00:00:50,579
+Il y a beaucoup d'options
+
+30
+00:00:50,580 --> 00:00:52,219
+car il y a beaucoup de polygones.
+
+31
+00:00:52,220 --> 00:00:54,519
+Même les habitués continuent encore et encore.
+
+32
+00:00:54,520 --> 00:00:55,919
+Maintenant, pour les modèles de cueillette des abeilles,
+
+33
+00:00:55,920 --> 00:00:57,069
+les plus compliqués
+
+34
+00:00:57,070 --> 00:00:59,509
+utilisent évidemment plus de lignes que nécessaire.
+
+35
+00:00:59,510 --> 00:01:01,159
+C'est ce que veut dire compliqué.
+
+36
+00:01:01,160 --> 00:01:02,879
+Et donc un nid d'abeilles de cette
+
+37
+00:01:02,880 --> 00:01:04,699
+tuile utiliserait plus de cire par miel.
+
+38
+00:01:04,700 --> 00:01:06,159
+Donc, s'en tenir aux simples habitués,
+
+39
+00:01:06,160 --> 00:01:08,239
+il n'y en a que trois qui se carrelent étroitement.
+
+40
+00:01:08,240 --> 00:01:09,849
+Triangle, carré et hexagone.
+
+41
+00:01:09,850 --> 00:01:12,259
+Les pentagones sont des hexagones brisés laissant des trous.
+
+42
+00:01:12,260 --> 00:01:13,399
+Idem avec les septagones.
+
+43
+00:01:13,400 --> 00:01:14,549
+Les octogones sont bien,
+
+44
+00:01:14,550 --> 00:01:15,829
+mais ce ne sont pas des hexagones.
+
+45
+00:01:15,830 --> 00:01:18,479
+Ce qui laisse le trio de carrelage qui carrelé différemment.
+
+46
+00:01:18,480 --> 00:01:20,189
+Un carré est un carré de carrés,
+
+47
+00:01:20,190 --> 00:01:22,189
+qui est un carré de carrés, et ainsi de suite.
+
+48
+00:01:22,190 --> 00:01:24,419
+Les carrés se carrelent proprement en trichant essentiellement.
+
+49
+00:01:24,420 --> 00:01:26,029
+Couvrant un plan infini avec un
+
+50
+00:01:26,030 --> 00:01:28,029
+nombre infini de lignes parallèles.
+
+51
+00:01:28,030 --> 00:01:30,809
+Comme, wow, c'est ce qu'est un avion.
+
+52
+00:01:30,810 --> 00:01:31,749
+Ennuyeuse!
+
+53
+00:01:31,750 --> 00:01:33,179
+Les triangles tirent le même tour, se
+
+54
+00:01:33,180 --> 00:01:35,549
+divisant en un rien infini.
+
+55
+00:01:35,550 --> 00:01:36,999
+Mais pas l'hexagone !
+
+56
+00:01:37,000 --> 00:01:38,529
+Le seul polygone régulier
+
+57
+00:01:38,530 --> 00:01:42,019
+à carreler un plan sans avoir recours à l'auto-division avilissante,
+
+58
+00:01:42,020 --> 00:01:43,789
+contrairement à certains carrés que je pourrais citer.
+
+59
+00:01:43,790 --> 00:01:45,209
+Au moins, le triangle essaie d'être
+
+60
+00:01:45,210 --> 00:01:47,209
+plus intéressant géométriquement que le carré, en
+
+61
+00:01:47,210 --> 00:01:48,339
+s'associant un peu pour…
+
+62
+00:01:48,340 --> 00:01:49,809
+un, deux, trois, quatre, cinq, six.
+
+63
+00:01:49,810 --> 00:01:50,689
+Attends, hexagone !
+
+64
+00:01:50,690 --> 00:01:52,019
+Les autres formes n'y peuvent rien.
+
+65
+00:01:52,020 --> 00:01:54,109
+Ils veulent juste être le bestagon.
+
+66
+00:01:54,110 --> 00:01:55,299
+Même certains des irréguliers,
+
+67
+00:01:55,300 --> 00:01:57,139
+comme le losange, se tuilent par hexagone.
+
+68
+00:01:57,140 --> 00:01:58,679
+Même chose avec vos triakis tilis,
+
+69
+00:01:58,680 --> 00:02:01,289
+[avec difficulté]
+et vos trihexagonaux deltoïdaux,
+
+70
+00:02:01,290 --> 00:02:03,329
+[avec une difficulté continue]
+et vos, ah, kisrhombille,
+
+71
+00:02:03,330 --> 00:02:06,609
+[avec des rires]
+et vos pentagones fleurons.
+
+72
+00:02:06,610 --> 00:02:07,979
+Regardez, ce ne sont que des hexagones.
+
+73
+00:02:07,980 --> 00:02:09,159
+Même les tuiles du Caire
+
+74
+00:02:09,160 --> 00:02:10,149
+(pauvres pentagones)
+
+75
+00:02:10,150 --> 00:02:13,259
+s'empilent du mieux qu'elles peuvent pour former un hexagone grumeleux.
+
+76
+00:02:13,260 --> 00:02:16,029
+Le reste ne peut tout simplement pas rivaliser avec les meilleurs.
+
+77
+00:02:16,030 --> 00:02:16,839
+L'hexagone,
+
+78
+00:02:16,840 --> 00:02:18,409
+noblement indivisible,
+
+79
+00:02:18,410 --> 00:02:19,789
+est le bestagon.
+
+80
+00:02:19,790 --> 00:02:21,029
+Euh, où en étions-nous ?
+
+81
+00:02:21,030 --> 00:02:22,269
+Oh oui, conjecture en nid d'abeille.
+
+82
+00:02:22,270 --> 00:02:24,479
+Max chérie.  Min cire.  Trois choix.
+
+83
+00:02:24,480 --> 00:02:26,479
+Okouiil y a le cercle.
+
+84
+00:02:26,480 --> 00:02:29,289
+Une forme définie par le plus petit périmètre pour la plus grande surface,
+
+85
+00:02:29,290 --> 00:02:31,199
+mais qui ne fonctionne que lorsque vous n'en avez besoin que d'un seul.
+
+86
+00:02:31,200 --> 00:02:33,779
+Emballez les cercles et c'est le mieux qu'ils puissent faire.
+
+87
+00:02:33,780 --> 00:02:35,199
+Regardez tout cet espace perdu !
+
+88
+00:02:35,200 --> 00:02:36,499
+Et même si vous comblez les lacunes,
+
+89
+00:02:36,500 --> 00:02:37,969
+vous utilisez toujours plus de cire.
+
+90
+00:02:37,970 --> 00:02:39,319
+Et, encore une fois, la façon dont ces cercles
+
+91
+00:02:39,320 --> 00:02:40,299
+s'arrangent…
+
+92
+00:02:40,300 --> 00:02:41,039
+c'est presque comme…
+
+93
+00:02:41,040 --> 00:02:42,009
+undeuxtroisquatrecinqsix
+
+94
+00:02:42,010 --> 00:02:42,969
+hexagone caché !
+
+95
+00:02:42,970 --> 00:02:44,389
+Les abeilles utilisent l'hexagone
+
+96
+00:02:44,390 --> 00:02:46,209
+car aucune forme n'est préférable pour créer
+
+97
+00:02:46,210 --> 00:02:48,689
+la surface maximale pour le mur minimal.
+
+98
+00:02:48,690 --> 00:02:50,689
+Et cette statistique min-max de l'hexagone
+
+99
+00:02:50,690 --> 00:02:53,689
+est l'une des nombreuses raisons pour lesquelles ils apparaissentpartout.
+
+100
+00:02:53,690 --> 00:02:56,329
+Y compris dans les yeux de l'abeille susmentionnée.
+
+101
+00:02:56,330 --> 00:02:58,649
+Chaque hexagone est un long tube qui mène
+
+102
+00:02:58,650 --> 00:03:00,499
+aux cellules captant la lumière en bas.
+
+103
+00:03:00,500 --> 00:03:02,119
+Plus de lumière équivaut à une meilleure vision et les
+
+104
+00:03:02,120 --> 00:03:04,289
+hexagones laissent passer le plus de lumière en
+
+105
+00:03:04,290 --> 00:03:06,319
+utilisant le moins de mur.
+
+106
+00:03:06,320 --> 00:03:08,599
+Alors pourquoi vos yeux ne sont-ils pas deshexagones ?
+
+107
+00:03:08,600 --> 00:03:09,769
+Au contraire mon ami,
+
+108
+00:03:09,770 --> 00:03:11,259
+ce sont l'Hexagone.
+
+109
+00:03:11,260 --> 00:03:14,089
+[intensément]
+Pas à l'extérieur, mais à l'intérieur.
+
+110
+00:03:14,090 --> 00:03:16,929
+Vos cellules captant la lumière sont au fond de votre œil,
+
+111
+00:03:16,930 --> 00:03:19,909
+dans une grille hexagonale pour la même raison que les abeilles.
+
+112
+00:03:19,910 --> 00:03:21,529
+Max lumière, min mur.
+
+113
+00:03:21,530 --> 00:03:23,039
+Votre fenêtre sur le monde
+
+114
+00:03:23,040 --> 00:03:24,719
+n'est qu'à travers l'hexagone.
+
+115
+00:03:24,720 --> 00:03:26,719
+Cela n'en fait-il pas le bestagon ?
+
+116
+00:03:26,720 --> 00:03:28,589
+D'accord, peut-être que l'hexagone comme min-max-
+
+117
+00:03:28,590 --> 00:03:29,869
+agon ne vous plaît pas.
+
+118
+00:03:29,870 --> 00:03:31,669
+Alors que diriez-vous d'un petit mystère, oui ?
+
+119
+00:03:31,670 --> 00:03:33,509
+Voyageons jusqu'à Saturne.
+
+120
+00:03:33,510 --> 00:03:35,459
+Oui, les anneaux attirent l'attention,
+
+121
+00:03:35,460 --> 00:03:36,739
+mais quittez l'équateur,
+
+122
+00:03:36,740 --> 00:03:39,529
+voyagez vers le nord et voici l'inexpliqué.
+
+123
+00:03:39,530 --> 00:03:41,529
+Le Grand Hexagone de Saturne.
+
+124
+00:03:41,530 --> 00:03:42,579
+Besoin de quelque chose pour l'échelle?
+
+125
+00:03:42,580 --> 00:03:43,959
+Eh bien, voici la Terre.
+
+126
+00:03:43,960 --> 00:03:46,189
+Oh, voici six Terres.
+
+127
+00:03:46,190 --> 00:03:48,719
+L'hexagone de Saturne estassez grand.
+
+128
+00:03:48,720 --> 00:03:49,589
+Qu'est-ce que c'est?
+
+129
+00:03:49,590 --> 00:03:52,249
+Eh bien, vous pensez peut-être que c'est une formation géologique.
+
+130
+00:03:52,250 --> 00:03:53,979
+Une énorme colonne de basalte
+
+131
+00:03:53,980 --> 00:03:56,189
+comme les versions plus petites que vous trouvez sur Terre.
+
+132
+00:03:56,190 --> 00:03:56,769
+Mais non.
+
+133
+00:03:56,770 --> 00:03:58,069
+Saturne est une géante gazeuse.
+
+134
+00:03:58,070 --> 00:04:00,699
+Il n'y a pas de surface ou de géologie à proprement parler.
+
+135
+00:04:00,700 --> 00:04:04,299
+Ainsi, le grand hexagone est composé de nuages informes qui garde
+
+136
+00:04:04,300 --> 00:04:07,219
+t en quelque sorte leur forme et changent de coule
+
+137
+00:04:07,220 --> 00:04:09,829
+r.  C'est un magnifique mystère du système solaire.
+
+138
+00:04:09,830 --> 00:04:11,829
+Et, même si je ne suis pas un archéologue de l'espace,
+
+139
+00:04:11,830 --> 00:04:14,809
+si je cherchais un monolithe extraterrestre,
+
+140
+00:04:14,810 --> 00:04:16,549
+sur la planète la plus "regardez-moi",
+
+141
+00:04:16,550 --> 00:04:19,768
+sous une balise hexagonale avec des côtés de la taille de la terre,
+
+142
+00:04:19,769 --> 00:04:21,249
+[clic de langue]
+c'est là que je commencerais  .
+
+143
+00:04:21,250 --> 00:04:23,659
+Après tout, quels extraterrestres voudraient établir un
+
+144
+00:04:23,660 --> 00:04:25,909
+premier contact avec les singes à proximité
+
+145
+00:04:25,910 --> 00:04:27,729
+avant qu'ils ne deviennent éclairés
+
+146
+00:04:27,730 --> 00:04:29,729
+pour poursuivre la vérité universelle.
+
+147
+00:04:29,730 --> 00:04:31,799
+L'hexagone est le bestagon.
+
+148
+00:04:31,800 --> 00:04:34,529
+Du plus grand au plus petit.
+
+149
+00:04:34,530 --> 00:04:37,359
+Disons, par exemple, ce petit flocon de neige que j'ai,
+
+150
+00:04:37,360 --> 00:04:40,199
+qui a six côtés, comme tous les flocons de neige.
+
+151
+00:04:40,200 --> 00:04:41,719
+Gee, qu'est-ce qui pourrait causer ça?
+
+152
+00:04:41,720 --> 00:04:44,209
+Zoomons sur le domaine atomique et voyons.
+
+153
+00:04:44,210 --> 00:04:46,689
+Lorsque les molécules d'eau se rejoignent pour former un flocon,
+
+154
+00:04:46,690 --> 00:04:49,239
+la forme solide qu'elles préfèrent est l'hexagone.
+
+155
+00:04:49,240 --> 00:04:50,649
+Au fur et à mesure que d'autres molécules se rejoignent,
+
+156
+00:04:50,650 --> 00:04:52,419
+elles étendent le flocon de manière fractale vers le haut.
+
+157
+00:04:52,420 --> 00:04:54,809
+La beauté du flocon de neige à l'échelle du singe
+
+158
+00:04:54,810 --> 00:04:57,559
+n'est qu'une extension de la perfection hexagonale
+
+159
+00:04:57,560 --> 00:04:58,819
+à l'échelle atomique.
+
+160
+00:04:58,820 --> 00:04:59,729
+D'accord,oui*.*
+
+161
+00:04:59,730 --> 00:05:02,059
+Vous trouverez parfois des flocons de neige à douze côtés,
+
+162
+00:05:02,060 --> 00:05:03,649
+mais cela se produit lorsque deux flocons de neige en croissance
+
+163
+00:05:03,650 --> 00:05:05,429
+se collent ensemble, donc cela compte toujours.
+
+164
+00:05:05,430 --> 00:05:07,429
+Et l'hexagone n'est pas seulement pour la neige,
+
+165
+00:05:07,430 --> 00:05:09,069
+mais pour toute la glace 1H,
+
+166
+00:05:09,070 --> 00:05:11,229
+ce qui signifie essentiellement toute la glace sur terre.
+
+167
+00:05:11,230 --> 00:05:12,699
+Ouais, il y a une petite glace 1C
+
+168
+00:05:12,700 --> 00:05:13,599
+dont on ne parle pas
+
+169
+00:05:13,600 --> 00:05:14,819
+parce qu'elle est faite de cubes,
+
+170
+00:05:14,820 --> 00:05:16,069
+et les cubes sont ennuyeux.
+
+171
+00:05:16,070 --> 00:05:17,429
+Et il y a un peu de glace. 9.
+
+172
+00:05:17,430 --> 00:05:18,179
+Non, n'y touchez pas.
+
+173
+00:05:18,180 --> 00:05:19,629
+Mais s'il y a de la glace dans votre boisson
+
+174
+00:05:19,630 --> 00:05:22,219
+, remerciez l'hexagone de la garder au frais.
+
+175
+00:05:22,220 --> 00:05:23,279
+Et ce n'est pas que de l'eau.
+
+176
+00:05:23,280 --> 00:05:25,479
+Beaucoup d'atomes utilisent des hexagones parce que…
+
+177
+00:05:25,480 --> 00:05:26,359
+(prenez note) les
+
+178
+00:05:26,360 --> 00:05:28,359
+hexagones sont les bestagons.
+
+179
+00:05:28,360 --> 00:05:29,659
+Oh, en utilisant un crayon?
+
+180
+00:05:29,660 --> 00:05:31,659
+Préparez-vous à être époustouflé
+
+181
+00:05:31,660 --> 00:05:33,439
+par l'hexagone ici aussi.
+
+182
+00:05:33,440 --> 00:05:34,339
+La tête.
+
+183
+00:05:34,340 --> 00:05:36,339
+Eh bien, ce n'est pas du plomb, c'est du carbone.
+
+184
+00:05:36,340 --> 00:05:38,799
+Et vous savez ce que les atomes de carbone pensent être le bestagon ?
+
+185
+00:05:38,800 --> 00:05:40,309
+[claquement]
+L'hexagone.
+
+186
+00:05:40,310 --> 00:05:43,159
+Le graphite crayon est un tas de carbones hexagonaux,
+
+187
+00:05:43,160 --> 00:05:45,159
+et lorsqu'ils se trouvent dans une feuille droite,
+
+188
+00:05:45,160 --> 00:05:46,239
+c'est dugraphène,
+
+189
+00:05:46,240 --> 00:05:48,259
+qui se trouve être le matériau atomique le plus fort
+
+190
+00:05:48,260 --> 00:05:50,599
+de l'univers.
+
+191
+00:05:50,600 --> 00:05:52,379
+Certains d'entre eux sont dans ce crayon.
+
+192
+00:05:52,380 --> 00:05:53,939
+Pour déchirer une feuille de graphène,
+
+193
+00:05:53,940 --> 00:05:56,189
+il faudrait cent fois plus de force
+
+194
+00:05:56,190 --> 00:05:57,699
+que pour le faire avec de l'acier.
+
+195
+00:05:57,700 --> 00:05:59,629
+L'hexagone est fort.
+
+196
+00:05:59,630 --> 00:06:01,579
+En effet, lorsque les hexagones se rejoignent,
+
+197
+00:06:01,580 --> 00:06:04,769
+ils forment des joints à trois côtés distants de 120 degrés.
+
+198
+00:06:04,770 --> 00:06:06,329
+Ceci, pour le moins de matériau,
+
+199
+00:06:06,330 --> 00:06:08,729
+est l'agencement le plus stable mécaniquement.
+
+200
+00:06:08,730 --> 00:06:09,659
+Tirez sur une articulation,
+
+201
+00:06:09,660 --> 00:06:11,499
+et les deux autres tirent également vers l'arrière,
+
+202
+00:06:11,500 --> 00:06:13,079
+poussez, et les deux autres sont les
+
+203
+00:06:13,080 --> 00:06:15,079
+plus capables et les plus stables pour résister.
+
+204
+00:06:15,080 --> 00:06:17,079
+Maintenant, regardez à nouveau un pavage d'hexagones
+
+205
+00:06:17,080 --> 00:06:18,839
+et vous voyez qu'il n'est composé que de
+
+206
+00:06:18,840 --> 00:06:20,289
+ces articulations stables maximales,
+
+207
+00:06:20,290 --> 00:06:22,659
+chacune parfaitement arrangée pour aider les autres à
+
+208
+00:06:22,660 --> 00:06:24,119
+être plus solides et plus stables.
+
+209
+00:06:24,120 --> 00:06:27,419
+C'estune autreraison pour laquelle les hexagones apparaissent partout.
+
+210
+00:06:27,420 --> 00:06:30,609
+L'univers bénit la stabilité de sa physique,
+
+211
+00:06:30,610 --> 00:06:32,209
+de ces colonnes de basalte
+
+212
+00:06:32,210 --> 00:06:33,149
+aux bulles qui
+
+213
+00:06:33,150 --> 00:06:34,149
+, dès qu'elles le peuvent,
+
+214
+00:06:34,150 --> 00:06:36,079
+abandonnent leurs sphères pour
+
+215
+00:06:36,080 --> 00:06:38,879
+se rapprocher le plus possible de la perfection hexagonale.
+
+216
+00:06:38,880 --> 00:06:39,949
+Ce est tellement cool.
+
+217
+00:06:39,950 --> 00:06:40,559
+Ah d'accord, oui.
+
+218
+00:06:40,560 --> 00:06:42,239
+Donc, si votre mine de crayon contient l'
+
+219
+00:06:42,240 --> 00:06:44,639
+un des matériaux les plus résistantsde l'univers,
+
+220
+00:06:44,640 --> 00:06:45,699
+comment pouvez-vous écrire avec ?
+
+221
+00:06:45,700 --> 00:06:46,429
+OK OK.
+
+222
+00:06:46,430 --> 00:06:49,009
+Cela va devenirencore plus excitant.
+
+223
+00:06:49,010 --> 00:06:51,289
+Bien que les hexagones soient super solides decettefaçon,
+
+224
+00:06:51,290 --> 00:06:53,189
+ils ne le sont pas decettefaçon.
+
+225
+00:06:53,190 --> 00:06:54,039
+À petite échelle,
+
+226
+00:06:54,040 --> 00:06:55,719
+cela signifie que votre crayon peut se détacher
+
+227
+00:06:55,720 --> 00:06:57,189
+en couches pour laisser une marque.
+
+228
+00:06:57,190 --> 00:06:58,299
+Mais à grande échelle, les
+
+229
+00:06:58,300 --> 00:07:01,589
+hexagones peuvent être flexibles tout en gardant leur force,
+
+230
+00:07:01,590 --> 00:07:04,679
+nous permettant de construire des matériaux totalement irréels.
+
+231
+00:07:04,680 --> 00:07:06,789
+Imprimez une grille d'hexagones dans n'importe quoi,
+
+232
+00:07:06,790 --> 00:07:07,969
+de l'aluminium au carton,
+
+233
+00:07:07,970 --> 00:07:08,969
+faites un petit sandwich
+
+234
+00:07:08,970 --> 00:07:09,749
+et pouf !
+
+235
+00:07:09,750 --> 00:07:11,229
+Vous avez des panneaux en nid d'abeille.
+
+236
+00:07:11,230 --> 00:07:13,759
+Un matériau incroyablement résistant à la déchirure
+
+237
+00:07:13,760 --> 00:07:15,969
+qui est également super léger et flexible.
+
+238
+00:07:15,970 --> 00:07:17,419
+Il est utilisépartout
+
+239
+00:07:17,420 --> 00:07:19,309
+mais particulièrement dans l'aviation.
+
+240
+00:07:19,310 --> 00:07:21,309
+Les fusées doivent être solides mais légères.
+
+241
+00:07:21,310 --> 00:07:22,479
+Idem pour les avions.
+
+242
+00:07:22,480 --> 00:07:24,479
+Avec des ailes qui ne peuvent vraiment pas se déchirer
+
+243
+00:07:24,480 --> 00:07:25,979
+mais qui doivent aussi se plier.
+
+244
+00:07:25,980 --> 00:07:28,109
+Et seule la magie du panneau en nid d'abeille
+
+245
+00:07:28,110 --> 00:07:29,429
+peut faire les deux aussi bien.
+
+246
+00:07:29,430 --> 00:07:32,179
+Remerciez l'hexagone d'avoir béni notre vol.
+
+247
+00:07:32,180 --> 00:07:34,049
+Et nous n'avons pas encore discuté de
+
+248
+00:07:34,050 --> 00:07:36,829
+l'application la plus importante de l'hexagone.
+
+249
+00:07:36,830 --> 00:07:37,539
+Jeux!
+
+250
+00:07:37,540 --> 00:07:40,919
+Pendant des siècles, il y a eu un grand débat sur les planches, les
+
+251
+00:07:40,920 --> 00:07:42,769
+carrés ou les hexagones ?
+
+252
+00:07:42,770 --> 00:07:44,209
+Spoiler... les hexagones gagnent.
+
+253
+00:07:44,210 --> 00:07:45,609
+Les planches carrées sont la première chose à laquelle
+
+254
+00:07:45,610 --> 00:07:47,609
+une espèce non éclairée penserait.
+
+255
+00:07:47,610 --> 00:07:50,189
+Ils ont l'air sensés et sont faciles à mettre en œuvre,
+
+256
+00:07:50,190 --> 00:07:51,269
+mais ce sont des panneaux terribles et
+
+257
+00:07:51,270 --> 00:07:53,889
+inefficaces qui causent des souffrances spatiales.
+
+258
+00:07:53,890 --> 00:07:55,609
+Sur un plateau carré, déplacez-vous horizontalement
+
+259
+00:07:55,610 --> 00:07:56,669
+ou verticalement d'un espace
+
+260
+00:07:56,670 --> 00:07:58,419
+et vous avez déplacé un espace,
+
+261
+00:07:58,420 --> 00:07:59,759
+mais déplacez-vous en diagonale
+
+262
+00:07:59,760 --> 00:08:02,319
+et la distance est la racine carrée de deux espaces.
+
+263
+00:08:02,320 --> 00:08:03,139
+Brut.
+
+264
+00:08:03,140 --> 00:08:05,629
+Les diagonales déforment la distance parcourue par les pièces.
+
+265
+00:08:05,630 --> 00:08:07,699
+Les planches carrées ont l'air uniformes et bien rangées,
+
+266
+00:08:07,700 --> 00:08:08,529
+mais c'est de la tromperie.
+
+267
+00:08:08,530 --> 00:08:12,049
+Leurs diagonales corrompent le sens de l'espace et du temps,
+
+268
+00:08:12,050 --> 00:08:13,489
+et bien sûr elles le doivent,
+
+269
+00:08:13,490 --> 00:08:16,639
+car un carré n'a que quatre vrais voisins.
+
+270
+00:08:16,640 --> 00:08:18,439
+Les hexagones, cependant, en ont six,
+
+271
+00:08:18,440 --> 00:08:19,619
+ce qui est plus que quatre,
+
+272
+00:08:19,620 --> 00:08:20,279
+ce qui est mieux !
+
+273
+00:08:20,280 --> 00:08:22,479
+Et la distance d'un espace à l'autre
+
+274
+00:08:22,480 --> 00:08:24,199
+est la même dans toutes les directions.
+
+275
+00:08:24,200 --> 00:08:25,249
+Un espace.
+
+276
+00:08:25,250 --> 00:08:26,569
+Comme il se doit.
+
+277
+00:08:26,570 --> 00:08:28,029
+Si vous êtes un jeu basé sur des carrés,
+
+278
+00:08:28,030 --> 00:08:29,019
+je suis vraiment désolé.
+
+279
+00:08:29,020 --> 00:08:30,359
+Mais il y a de l'espoir.
+
+280
+00:08:30,360 --> 00:08:31,539
+Avec de la réflexion et des efforts,
+
+281
+00:08:31,540 --> 00:08:34,548
+vous pouvez vous transformer en un meilleur endroit.
+
+282
+00:08:34,549 --> 00:08:36,428
+Comme nous devrions tous aspirer à le faire,
+
+283
+00:08:36,429 --> 00:08:39,069
+répandre l'ordre et l'illumination hexagonale
+
+284
+00:08:39,070 --> 00:08:41,729
+, les hexagones sont les bestagons.
+
+285
+00:08:41,730 --> 00:08:44,369
+Et maintenant que vous êtes d'accord, vos yeux verront
+
+286
+00:08:44,370 --> 00:08:46,949
+leur perfection à six faces en toutes choses.
+
+287
+00:08:46,950 --> 00:08:48,559
+Et vous vous direz,
+
+288
+00:08:48,560 --> 00:08:49,839
+dans le cadre de l'ordre les
+
+289
+00:08:49,840 --> 00:08:56,399
+hexagonessontles bestagons.
+
+290
+00:08:56,400 --> 00:09:02,149
+Euh, merci d'être passé pour le café du communicateur.
+
+291
+00:09:02,150 --> 00:09:05,979
+Vas y.  Partagez l'illumination de l'ordre avec les autres.
+
+292
+00:09:05,980 --> 00:09:07,470
+[Cliquez sur]
+

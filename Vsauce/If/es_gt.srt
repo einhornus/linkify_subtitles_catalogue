@@ -1,0 +1,935 @@
+1
+00:00:00,420 --> 00:00:03,479
+Hola, Vsauce.  Miguel aquí.
+A principios de este mes
+
+2
+00:00:03,480 --> 00:00:07,349
+viajé a Kourou en la Guayana Francesa
+con euronews
+
+3
+00:00:07,350 --> 00:00:11,659
+para ver el lanzamiento de Vega Rocket,
+
+4
+00:00:11,660 --> 00:00:13,659
+si sucedió
+
+5
+00:00:13,660 --> 00:00:18,349
+mientras estuve allí.  Esperando en el
+punto de observación con solo unos minutos para el final,
+
+6
+00:00:18,350 --> 00:00:22,309
+el lanzamiento se pospuso debido al clima.
+
+7
+00:00:22,310 --> 00:00:25,469
+A pesar de que los científicos de cohetes estaban
+
+8
+00:00:25,470 --> 00:00:28,969
+usando Comic Sans, el cohete no despegó
+
+9
+00:00:28,970 --> 00:00:32,948
+hasta el día después de que yo tenía que estar de vuelta en Londres.
+
+10
+00:00:32,949 --> 00:00:36,409
+Pero me hizo pensar.
+Podemos enviar satélites a la órbita
+
+11
+00:00:36,410 --> 00:00:39,968
+y personas a la luna y predecir eclipses solares dentro de
+
+12
+00:00:39,969 --> 00:00:43,408
+miles de años, pero aún
+
+13
+00:00:43,409 --> 00:00:47,858
+no podemos predecir de manera confiable en qué dirección
+soplará el viento
+
+14
+00:00:47,859 --> 00:00:53,558
+en los próximos minutos.  ¿Cómo pueden entenderse
+movimientos cósmicos tan monumentales a
+
+15
+00:00:53,559 --> 00:00:57,529
+minutos luz o años luz de
+nosotros,
+
+16
+00:00:57,530 --> 00:01:02,618
+mientras que el clima, que ocurre en
+la misma capa de la atmósfera en la que
+
+17
+00:01:02,619 --> 00:01:04,368
+vivimos todos los días,
+
+18
+00:01:04,369 --> 00:01:07,609
+sigue siendo un misterio?
+Bueno
+
+19
+00:01:07,610 --> 00:01:10,669
+, tiene que ver con los límites de lo que sabemos
+
+20
+00:01:10,670 --> 00:01:15,169
+y lo que podemos saber.
+Las posiciones planetarias
+
+21
+00:01:15,170 --> 00:01:19,359
+y el clima terrestre en el futuro
+están determinados por sus
+
+22
+00:01:19,360 --> 00:01:21,399
+condiciones iniciales.
+
+23
+00:01:21,400 --> 00:01:25,359
+Pero en una escala de tiempo corta, predecir
+la posición futura de un planeta
+
+24
+00:01:25,360 --> 00:01:28,619
+involucra menos variables que el clima.
+
+25
+00:01:28,620 --> 00:01:32,989
+Para predecir con precisión el
+clima, debe conocer las
+
+26
+00:01:32,990 --> 00:01:34,229
+condiciones completas y exactas
+
+27
+00:01:34,230 --> 00:01:38,459
+de cada molécula de aire en la Tierra.
+Cómo esas moléculas interactuarán entre
+
+28
+00:01:38,460 --> 00:01:39,019
+sí
+
+29
+00:01:39,020 --> 00:01:43,979
+y con la tierra y cómo se retroalimentarán
+e influirán cambiando
+
+30
+00:01:43,980 --> 00:01:48,629
+otras moléculas.  Esto hace que sea increíblemente
+difícil predecir el clima con más
+
+31
+00:01:48,630 --> 00:01:49,309
+de una semana
+
+32
+00:01:49,310 --> 00:01:53,129
+de anticipación.
+Y este problema no va a desaparecer.
+
+33
+00:01:53,130 --> 00:01:57,409
+Es fundamental para nuestra relación con el universo.
+
+34
+00:01:57,410 --> 00:02:01,249
+Dado el tiempo suficiente, los factores pequeños, imperceptibles,
+
+35
+00:02:01,250 --> 00:02:05,599
+inmedibles e incognoscibles se magnifican
+
+36
+00:02:05,600 --> 00:02:08,928
+una y otra vez lentamente
+
+37
+00:02:08,929 --> 00:02:13,029
+hasta que finalmente su impacto es muy significativo
+
+38
+00:02:13,030 --> 00:02:16,958
+y nuestras predicciones de hoy son inútiles.
+
+39
+00:02:16,959 --> 00:02:21,519
+Neil deGrasse Tyson menciona esto en su
+brillante "Death by Black Hole",
+
+40
+00:02:21,520 --> 00:02:25,659
+donde señala que el retroceso
+del lanzamiento de una sola
+
+41
+00:02:25,660 --> 00:02:29,499
+sonda espacial puede influir en nuestro futuro de
+tal manera
+
+42
+00:02:29,500 --> 00:02:33,149
+que en unos 200 millones de años
+
+43
+00:02:33,150 --> 00:02:36,649
+la posición de la Tierra y su  La órbita alrededor
+del Sol se
+
+44
+00:02:36,650 --> 00:02:39,659
+desplazará casi sesenta grados.
+
+45
+00:02:39,660 --> 00:02:43,629
+Edward Lorenz le dio a este fenómeno
+su nombre popular.
+
+46
+00:02:43,630 --> 00:02:47,939
+"Previsibilidad: ¿el aleteo de una mariposa
+
+47
+00:02:47,940 --> 00:02:52,139
+en Brasil desencadena un tornado en Texas?"
+
+48
+00:02:52,140 --> 00:02:56,529
+El efecto mariposa.
+Un pequeño cambio,
+
+49
+00:02:56,530 --> 00:03:00,159
+como una mariposa que decide batir sus alas,
+
+50
+00:03:00,160 --> 00:03:03,199
+puede conducir a toda una cadena de eventos donde los
+
+
+51
+00:03:03,200 --> 00:03:07,379
+procesos cada vez más grandes cambian lo suficiente como
+para dejar cambios aún más significativos
+
+52
+00:03:07,380 --> 00:03:09,809
+hasta que finalmente ocurre una tormenta completa en un
+
+53
+00:03:09,810 --> 00:03:13,309
+lugar diferente o no ocurre
+
+54
+00:03:13,310 --> 00:03:16,719
+en absoluto.
+La disciplina que
+
+55
+00:03:16,720 --> 00:03:19,999
+puso en marcha tal pensamiento se conoce como teoría del caos.
+
+56
+00:03:20,000 --> 00:03:24,809
+Cuando el presente determina el futuro,
+pero el
+
+57
+00:03:24,810 --> 00:03:28,819
+presente aproximado no determina aproximadamente el futuro.
+
+58
+00:03:28,820 --> 00:03:32,169
+Para nosotros el universo está lleno
+
+59
+00:03:32,170 --> 00:03:38,798
+de "si".  Pero considerando todo,
+somos bastante buenos prediciendo el futuro
+
+60
+00:03:38,799 --> 00:03:42,289
+y preparándonos para él, pero algunas cosas
+
+61
+00:03:42,290 --> 00:03:47,229
+están o fueron preparadas para un futuro
+que aún no ha ocurrido
+
+62
+00:03:47,230 --> 00:03:51,249
+o nunca ocurrió.
+Y saber más sobre esas cosas
+
+63
+00:03:51,250 --> 00:03:55,369
+arroja una perspectiva asombrosa sobre los límites de nuestro conocimiento.
+
+64
+00:03:55,370 --> 00:03:59,259
+Hablando de límites, empecemos por tu vida,
+
+65
+00:03:59,260 --> 00:04:04,129
+carpe diem.
+Una herramienta en línea que, cuando se le da su fecha de nacimiento,
+
+66
+00:04:04,130 --> 00:04:07,768
+utiliza los últimos datos de esperanza de vida para
+devolverle
+
+67
+00:04:07,769 --> 00:04:11,828
+una cuadrícula de cuadrados.
+Un cuadrado representa
+
+68
+00:04:11,829 --> 00:04:16,969
+una semana - siete días.  Las más claras son
+las semanas que ya llevas con
+
+69
+00:04:16,970 --> 00:04:22,239
+vida, las más oscuras son las que te quedan.
+
+70
+00:04:22,240 --> 00:04:25,499
+Marque "dormir" para ver cuántas de sus
+
+71
+00:04:25,500 --> 00:04:28,579
+semanas anteriores y futuras pasará
+
+72
+00:04:28,580 --> 00:04:32,199
+durmiendo.
+Eso sí, es solo una aproximación
+
+73
+00:04:32,200 --> 00:04:35,759
+, es difícil saber si te quedan más
+
+74
+00:04:35,760 --> 00:04:40,009
+o menos semanas.
+Es difícil saber cuándo terminará todo.
+
+75
+00:04:40,010 --> 00:04:43,709
+Es aún más difícil de documentar, a menos que seas
+
+76
+00:04:43,710 --> 00:04:47,069
+Reynaldo Dagsa, un concejal de Filipinas,
+
+77
+00:04:47,070 --> 00:04:50,888
+quien tomó esta foto de su familia el día de Año Nuevo
+
+78
+00:04:50,889 --> 00:04:54,809
+en el mismo segundo en que fue
+
+79
+00:04:54,810 --> 00:04:58,388
+asesinado.
+La foto se usó más tarde
+
+80
+00:04:58,389 --> 00:05:02,229
+para atrapar al asesino.
+No podemos predecir todo,
+
+81
+00:05:02,230 --> 00:05:05,459
+pero en el caso de un evento catastrófico anticipado
+
+82
+00:05:05,460 --> 00:05:09,459
+(clima severo, un ataque nuclear inminente o un
+
+83
+00:05:09,460 --> 00:05:12,918
+asteroide), ¿cómo sabríamos todos lo que está pasando?
+
+84
+00:05:12,919 --> 00:05:17,668
+Bueno, muchos países cuentan con
+sistemas que les permiten hablar con tantas
+
+85
+00:05:17,669 --> 00:05:19,979
+personas lo más rápido posible.
+
+86
+00:05:19,980 --> 00:05:23,379
+Estados Unidos cuenta con el
+
+87
+00:05:23,380 --> 00:05:26,469
+Sistema de Alerta de Emergencia.
+Cuando se activa, el sistema
+
+88
+00:05:26,470 --> 00:05:29,609
+interrumpe toda la programación de radio y televisión
+
+89
+00:05:29,610 --> 00:05:32,999
+con mensajes generados usando
+
+90
+00:05:33,000 --> 00:05:36,779
+voces automatizadas de texto a voz.
+Los tonos de advertencia son conocidos,
+
+91
+00:05:36,780 --> 00:05:40,658
+así que lo que da un poco de miedo es que hoy
+
+92
+00:05:40,659 --> 00:05:43,668
+podemos echar un
+
+93
+00:05:43,669 --> 00:05:48,098
+vistazo y ver cómo se vería y cómo
+sonaría
+
+94
+00:05:48,099 --> 00:05:51,999
+si ocurriera un evento catastrófico.
+En este ejemplo,
+
+95
+00:05:52,000 --> 00:05:56,149
+un ataque nuclear que amenazó la vida
+en todo el país.
+
+96
+00:05:56,150 --> 00:06:00,529
+En primer lugar, es probable que escuche sirenas
+
+97
+00:06:00,530 --> 00:06:03,829
+y luego, cuando sintonice, digamos TV,
+
+98
+00:06:03,830 --> 00:06:15,459
+esto es lo que escuchará y verá.
+
+99
+00:06:15,460 --> 00:06:17,029
+Interrumpimos nuestra programación.
+
+100
+00:06:17,030 --> 00:06:21,359
+Esta es una emergencia nacional.
+El siguiente mensaje se transmite a
+
+101
+00:06:21,360 --> 00:06:23,979
+pedido del gobierno de los Estados Unidos.
+
+102
+00:06:23,980 --> 00:06:28,569
+Esto no es una prueba.  Se está produciendo un ataque nuclear
+contra los Estados Unidos.
+
+103
+00:06:28,570 --> 00:06:32,539
+Se han lanzado cuatro misiles nucleares
+desde lugares desconocidos
+
+104
+00:06:32,540 --> 00:06:36,749
+y se espera que golpeen a Estados
+Unidos en los próximos 15 minutos.
+
+105
+00:06:36,750 --> 00:06:41,049
+Debido a los hechos inciertos de estos
+misiles, todos los residentes de los Estados
+
+106
+00:06:41,050 --> 00:06:42,559
+Unidos deben buscar
+
+107
+00:06:42,560 --> 00:06:47,079
+y prepararse para refugiarse de inmediato.
+
+108
+00:06:47,080 --> 00:06:54,339
+Espere un mensaje
+del presidente de los Estados Unidos.
+
+109
+00:06:54,340 --> 00:06:59,019
+Si ocurriera un evento catastrófico de proporciones globales,
+
+110
+00:06:59,020 --> 00:07:02,979
+¿qué haría la humanidad a continuación?
+Bueno
+
+111
+00:07:02,980 --> 00:07:08,199
+, podría haber sobrevivientes.  Personas
+escondidas en fortalezas que hemos construido,
+
+112
+00:07:08,200 --> 00:07:08,619
+como
+
+113
+00:07:08,620 --> 00:07:11,689
+el Comando de Defensa Aeroespacial de América del Norte,
+
+114
+00:07:11,690 --> 00:07:14,999
+NORAD.
+Construido en
+
+115
+00:07:15,000 --> 00:07:19,029
+granito sólido, protegido por una placa de acero para
+proteger los sistemas informáticos de
+
+116
+00:07:19,030 --> 00:07:20,509
+los pulsos electromagnéticos
+
+117
+00:07:20,510 --> 00:07:23,709
+y sostenido por resortes, para
+
+118
+00:07:23,710 --> 00:07:28,159
+balancearse de manera segura en caso de un terremoto,
+NORAD puede proteger a los
+
+119
+00:07:28,160 --> 00:07:31,519
+humanos y al equipo de una
+
+120
+00:07:31,520 --> 00:07:35,309
+explosión nuclear de 30 megatones a solo una milla de distancia.
+
+121
+00:07:35,310 --> 00:07:38,709
+Después del evento, son lugares como este los
+
+122
+00:07:38,710 --> 00:07:43,669
+que literalmente serían la última y
+mejor oportunidad de la humanidad de continuar con la vida.
+
+123
+00:07:43,670 --> 00:07:47,309
+La Bóveda Global de Semillas de Svalbard se encuentra en
+la isla noruega
+
+124
+00:07:47,310 --> 00:07:50,689
+de Spitsbergen.
+Enterrado 390 pies
+
+125
+00:07:50,690 --> 00:07:54,569
+dentro de una montaña, almacena y protege de manera segura
+
+126
+00:07:54,570 --> 00:07:59,239
+250 millones de semillas individuales
+
+127
+00:07:59,240 --> 00:08:03,249
+para el cultivo de plantas y cultivos, si todos sus
+
+128
+00:08:03,250 --> 00:08:07,619
+parientes vivos vulnerables en la superficie son destruidos.
+
+129
+00:08:07,620 --> 00:08:11,579
+La tecnología soviética existió para poner personas en la Luna,
+
+130
+00:08:11,580 --> 00:08:14,849
+por supuesto, nunca lo hicieron.
+Si
+
+131
+00:08:14,850 --> 00:08:18,919
+Rusia hubiera enviado hombres a la Luna
+, habrían caminado sobre ella
+
+132
+00:08:18,920 --> 00:08:24,719
+luciendo así.  El Krechet-94
+fue diseñado en 1967 pero
+
+133
+00:08:24,720 --> 00:08:27,649
+nunca se usó para la excursión lunar tripulada soviética.
+
+134
+00:08:27,650 --> 00:08:31,369
+Sin embargo, Rusia envió al primer hombre al espacio
+
+135
+00:08:31,370 --> 00:08:34,469
+ya la primera mujer al espacio exterior.
+
+136
+00:08:34,470 --> 00:08:38,859
+También enviaron al primer perro a la órbita
+alrededor de la Tierra.
+
+137
+00:08:38,860 --> 00:08:42,779
+Desafortunadamente, el perro murió demasiado pronto
+después del lanzamiento debido a un sobrecalentamiento.
+
+138
+00:08:42,780 --> 00:08:46,279
+Pero luego enviaron a Belka y Strelka,
+
+139
+00:08:46,280 --> 00:08:49,409
+perros en un cohete lleno de
+organismos vivos que se convirtieron en
+
+140
+00:08:49,410 --> 00:08:52,699
+los primeros en orbitar la Tierra y regresar vivos a la
+
+141
+00:08:52,700 --> 00:08:56,049
+Tierra.
+Todavía puedes verlos
+
+142
+00:08:56,050 --> 00:09:00,889
+hoy.
+El Museo Conmemorativo de la Cosmonáutica de Moscú conserva a
+los dos perros
+
+143
+00:09:00,890 --> 00:09:04,329
+.
+Rellenos y exhibidos como
+
+144
+00:09:04,330 --> 00:09:08,609
+reliquias físicas de terrícolas que crecieron
+
+145
+00:09:08,610 --> 00:09:12,569
+y abandonaron su planeta.
+También tuve la suerte de visitar un restaurante
+
+146
+00:09:12,570 --> 00:09:16,879
+en Moscú con menús, sí, que usaban Comic Sans.
+
+147
+00:09:16,880 --> 00:09:20,419
+Ah, y me comí un perro estrella, que en el
+
+148
+00:09:20,420 --> 00:09:24,279
+alfabeto cirílico parece que se llama crap dosis.
+
+149
+00:09:24,280 --> 00:09:27,739
+Estados Unidos, por supuesto, envió
+personas a la Luna,
+
+150
+00:09:27,740 --> 00:09:31,679
+pero recientemente hemos sabido que la NASA
+en ese momento no sabía
+
+151
+00:09:31,680 --> 00:09:34,679
+con la misma certeza que otras variables
+
+152
+00:09:34,680 --> 00:09:38,759
+si el primer hombre en la Luna
+
+153
+00:09:38,760 --> 00:09:43,909
+podría salir.  Apenas dos días antes del histórico alunizaje de la humanidad,
+
+
+154
+00:09:43,910 --> 00:09:47,889
+se le pidió a William Safire que preparara un discurso
+
+155
+00:09:47,890 --> 00:09:51,179
+para que el presidente Nixon lo leyera en televisión al mundo
+
+156
+00:09:51,180 --> 00:09:55,609
+si Buzz Aldrin y Neil Armstrong
+
+157
+00:09:55,610 --> 00:10:00,229
+se quedaban varados en la Luna.
+Treinta años después,
+
+158
+00:10:00,230 --> 00:10:04,999
+William Safire explicó que
+se suponía que Aldrin y Armstrong se reunirían con
+
+159
+00:10:05,000 --> 00:10:06,109
+el módulo de comando que
+
+160
+00:10:06,110 --> 00:10:09,959
+orbita alrededor de la Luna,
+pero que si no podían y había un
+
+161
+00:10:09,960 --> 00:10:14,059
+gran riesgo de que no pudieran, entonces tendrían que ser
+
+162
+00:10:14,060 --> 00:10:17,729
+abandonados en la Luna.  , abandonados para morir allí
+
+163
+00:10:17,730 --> 00:10:19,189
+y el
+
+164
+00:10:19,190 --> 00:10:23,019
+control de la misión tendría que usar
+su eufemismo
+
+165
+00:10:23,020 --> 00:10:26,789
+"cerrar la comunicación"
+y los hombres tendrían que
+
+166
+00:10:26,790 --> 00:10:30,239
+morirse de hambre o suicidarse.
+
+167
+00:10:30,240 --> 00:10:33,469
+Y, entonces, nos preparamos para eso con
+
+168
+00:10:33,470 --> 00:10:37,539
+el discurso que escribí y
+
+169
+00:10:37,540 --> 00:10:40,989
+el Presidente estaba listo para dar eso.
+Afortunadamente,
+
+170
+00:10:40,990 --> 00:10:44,409
+Nixon nunca tuvo que pronunciar el discurso sobre el desastre de la Luna,
+
+171
+00:10:44,410 --> 00:10:48,419
+pero leerlo hoy, pensando en esos dos tipos que
+
+172
+00:10:48,420 --> 00:10:51,739
+siguen vivos en la superficie de la Luna
+
+173
+00:10:51,740 --> 00:10:55,549
+sabiendo que nunca volverán a la Tierra,
+
+174
+00:10:55,550 --> 00:11:00,019
+es escalofriante.
+En ese discurso
+
+175
+00:11:00,020 --> 00:11:03,809
+se incluyeron estas líneas: "El destino ha ordenado
+
+176
+00:11:03,810 --> 00:11:07,039
+que los hombres que fueron a la Luna a
+explorar en paz
+
+177
+00:11:07,040 --> 00:11:10,559
+se queden en la Luna para descansar en paz.
+
+178
+00:11:10,560 --> 00:11:14,449
+Estos valientes hombres, Neil Armstrong y Edwin Aldrin,
+
+179
+00:11:14,450 --> 00:11:18,309
+saben que no hay esperanza".  para su
+recuperación, pero también saben que
+
+180
+00:11:18,310 --> 00:11:21,639
+hay esperanza para la humanidad en su sacrificio.
+
+181
+00:11:21,640 --> 00:11:26,769
+En la antigüedad, los hombres miraban las estrellas
+y veían a sus héroes
+
+182
+00:11:26,770 --> 00:11:30,909
+en las constelaciones.
+En los tiempos modernos hacemos más o menos lo mismo,
+
+183
+00:11:30,910 --> 00:11:34,458
+pero nuestros héroes son hombres épicos de carne y hueso.
+
+184
+00:11:34,459 --> 00:11:38,139
+y sangre.
+Porque cada ser humano que mire hacia la luna
+
+185
+00:11:38,140 --> 00:11:41,409
+en las noches venideras sabrá que hay algún rincón
+
+186
+00:11:41,410 --> 00:11:47,869
+de otro mundo que es para siempre la humanidad".
+Y eso es lo que más me he llevado de mi
+
+187
+00:11:47,870 --> 00:11:49,509
+viaje a Kourou.
+
+188
+00:11:49,510 --> 00:11:55,179
+El espacio no es solo un lugar para
+trucos de gravedad cero o para imaginar tecnología de ciencia ficción, el
+
+189
+00:11:55,180 --> 00:11:58,219
+espacio está en constante expansión
+
+190
+00:11:58,220 --> 00:12:02,449
+y está lleno de rincones de otros mundos que
+algún día podrían convertirse en propiedad de la humanidad,
+
+191
+00:12:02,450 --> 00:12:06,909
+si así lo elegimos.
+Y eso no minimiza la Tierra.
+
+192
+00:12:06,910 --> 00:12:10,909
+El cohete Vega que fui a ver envió
+satélites diseñados para
+
+193
+00:12:10,910 --> 00:12:14,919
+probar velas eléctricas de viento solar para
+viajes interplanetarios,
+
+194
+00:12:14,920 --> 00:12:18,809
+así como satélites construidos para analizar
+la salud de la vegetación de la Tierra
+
+195
+00:12:18,810 --> 00:12:22,799
+o para predecir desastres naturales.
+
+196
+00:12:22,800 --> 00:12:27,909
+Así como nuestros cuerpos se benefician de tener
+médicos e instrumentos más allá de ellos que
+
+197
+00:12:27,910 --> 00:12:28,349
+pueden
+
+198
+00:12:28,350 --> 00:12:32,339
+sondear, investigar y diagnosticar, también lo hace la tierra.
+
+199
+00:12:32,340 --> 00:12:35,539
+Las plataformas de lanzamiento, como la que visité en Kourou,
+
+200
+00:12:35,540 --> 00:12:39,469
+son en realidad salas de espera de hospitales para la
+
+201
+00:12:39,470 --> 00:12:44,479
+Tierra.  Un lugar donde nuestro planeta pueda esperar
+a que los investigadores y
+
+202
+00:12:44,480 --> 00:12:47,909
+científicos pongan en órbita sus herramientas, sus instrumentos
+
+203
+00:12:47,910 --> 00:12:51,109
+.
+Es posible que nunca sepamos
+
+204
+00:12:51,110 --> 00:12:54,589
+si algo sucederá o no, pero al
+
+205
+00:12:54,590 --> 00:12:58,149
+buscar espacios, rincones de otros mundos,
+
+206
+00:12:58,150 --> 00:13:01,259
+obtenemos una perspectiva que puede ayudarnos a reducir
+
+207
+00:13:01,260 --> 00:13:04,979
+el tamaño de ese misterioso y, a menudo,
+
+
+208
+00:13:04,980 --> 00:13:08,099
+aterrador si. y como siempre
+
+209
+00:13:08,100 --> 00:13:09,189
+Y como siempre,
+
+210
+00:13:09,190 --> 00:13:10,170
+gracias por  mirando.
+

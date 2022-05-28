@@ -1,0 +1,766 @@
+1
+00:00:00,620 --> 00:00:04,199
+Olá, Vsauce.  Michael aqui e Derek.
+
+2
+00:00:04,200 --> 00:00:06,419
+Gerar(!)
+
+3
+00:00:06,420 --> 00:00:11,178
+78?  Isso é tão aleatório.  Ou é?
+
+4
+00:00:11,179 --> 00:00:14,208
+O que significa ser aleatório?
+
+5
+00:00:14,209 --> 00:00:18,028
+Alguma coisa pode realmente ser aleatória?
+Qual é a coisa mais aleatória de todas?
+
+6
+00:00:18,029 --> 00:00:23,839
+Hoje vamos deixar de ser aleatórios e nos tornar 'ransmart'.
+
+7
+00:00:23,840 --> 00:00:26,038
+Se algo é imprevisível
+
+8
+00:00:26,039 --> 00:00:30,259
+e não contém padrões reconhecíveis,
+chamamos de aleatório.
+
+9
+00:00:30,260 --> 00:00:35,279
+Então vamos começar nossa busca pela coisa mais aleatória com um sorteio.
+
+10
+00:00:35,280 --> 00:00:39,219
+A moeda australiana de 50 centavos é uma das maiores moedas
+
+11
+00:00:39,220 --> 00:00:42,909
+atualmente em circulação.
+
+12
+00:00:42,910 --> 00:00:47,599
+Lançar moedas e rolar dados não são
+intrinsecamente aleatórios
+
+13
+00:00:47,600 --> 00:00:50,599
+, são apenas aleatórios por causa de nossa
+
+14
+00:00:50,600 --> 00:00:54,669
+ignorância.  Se pudéssemos conhecer todas as condições iniciais,
+
+15
+00:00:54,670 --> 00:00:58,869
+as forças e propriedades exatas que atuam
+para um determinado lançamento ou rolagem,
+
+16
+00:00:58,870 --> 00:01:01,999
+poderíamos teoricamente calcular o resultado antes
+
+17
+00:01:02,000 --> 00:01:07,099
+mesmo de acontecer.  E, com certeza, os
+pesquisadores construíram robôs de lançamento de moedas
+
+18
+00:01:07,100 --> 00:01:10,779
+que podem controlar com precisão um lançamento para obter
+o resultado que desejam
+
+19
+00:01:10,780 --> 00:01:14,079
+100% das vezes.
+
+20
+00:01:14,080 --> 00:01:19,579
+Então aqui está a nossa pergunta.  Existe alguma coisa que você não poderia prever,
+
+21
+00:01:19,580 --> 00:01:23,859
+mesmo sabendo de tudo?  Um processo determinado
+
+22
+00:01:23,860 --> 00:01:27,049
+por nada?  E como você pode ter certeza de que
+
+23
+00:01:27,050 --> 00:01:30,149
+não há padrões no que você está
+vendo?  Talvez você ainda não tenha
+
+24
+00:01:30,150 --> 00:01:31,499
+procurado o padrão certo.
+
+25
+00:01:31,500 --> 00:01:35,649
+Ou talvez você já tenha visto a aleatoriedade verdadeira,
+
+
+26
+00:01:35,650 --> 00:01:39,119
+mas não sabia porque não
+procurou por tempo suficiente.
+
+27
+00:01:39,120 --> 00:01:42,169
+Como se protegido por uma espécie de camuflagem,
+
+28
+00:01:42,170 --> 00:01:47,819
+um processo aleatório pode, e irá,
+ocasionalmente produzir padrões.
+
+29
+00:01:47,820 --> 00:01:50,029
+Os URLs do YouTube são bastante
+
+30
+00:01:50,030 --> 00:01:54,509
+aleatórios.  Um único é feito para cada
+vídeo enviado, mas às vezes,
+
+31
+00:01:54,510 --> 00:01:57,769
+como os macacos proverbiais digitando
+em máquinas de escrever, o
+
+32
+00:01:57,770 --> 00:02:02,899
+YouTube gera um URL que contém, por acaso, uma palavra.
+
+33
+00:02:02,900 --> 00:02:05,029
+O videoclipe oficial de
+
+34
+00:02:05,030 --> 00:02:09,079
+'In Da Club' de 50 Cent contém um sinônimo para fundo.
+
+35
+00:02:09,080 --> 00:02:11,468
+Este vídeo foi atribuído 'olá',
+
+36
+00:02:11,469 --> 00:02:16,059
+existem algumas 'sexys' e um molho.  Se você
+quiser descobrir se uma determinada palavra
+
+37
+00:02:16,060 --> 00:02:19,029
+já foi atribuída aleatoriamente a um
+vídeo, você pode procurá-
+
+38
+00:02:19,030 --> 00:02:21,669
+la usando esta string no Google.
+
+39
+00:02:21,670 --> 00:02:27,739
+A questão é que a aleatoriedade é difícil de identificar.
+É mais fácil ter certeza de que algo
+
+40
+00:02:27,740 --> 00:02:33,908
+não é aleatório do que é.  Mas, apesar dessa indefinição, algo interessante
+
+41
+00:02:33,909 --> 00:02:37,559
+está acontecendo agora.  Cada vez mais, nós,
+
+42
+00:02:37,560 --> 00:02:40,568
+especialmente os jovens, estamos chamando de
+
+
+43
+00:02:40,569 --> 00:02:43,068
+aleatório coisas claramente previsíveis.
+
+44
+00:02:43,069 --> 00:02:48,079
+Como encontrar seu melhor amigo aleatoriamente em um restaurante popular.
+
+45
+00:02:48,080 --> 00:02:52,259
+Ou combinações hilariamente bizarras de coisas que chamamos de
+
+46
+00:02:52,260 --> 00:02:56,108
+totalmente aleatórias porque
+aparentemente não estão relacionadas,
+
+47
+00:02:56,109 --> 00:03:00,679
+embora, é claro, tenham sido escolhidas
+não aleatoriamente, mas de uma maneira muito determinada,
+
+48
+00:03:00,680 --> 00:03:04,158
+porque todas não estão relacionadas.
+
+49
+00:03:04,159 --> 00:03:07,539
+Aqueles caras que apareceram na festa ontem à noite você não conhecia,
+
+50
+00:03:07,540 --> 00:03:11,598
+eles não eram aleatórios no sentido matemático.
+
+51
+00:03:11,599 --> 00:03:15,759
+Eles sabiam da festa, estamos
+com vontade de ir a uma festa e estamos na área.
+
+52
+00:03:15,760 --> 00:03:18,908
+Bem previsível, na verdade.
+
+53
+00:03:18,909 --> 00:03:23,188
+Esse uso não estatístico da palavra aleatório incomoda
+
+54
+00:03:23,189 --> 00:03:26,619
+algumas pessoas, mas não está tão longe
+do significado original
+
+55
+00:03:26,620 --> 00:03:30,098
+da palavra.  Nos anos 1300, aleatório
+
+56
+00:03:30,099 --> 00:03:33,199
+significava correr ou em grande velocidade.
+
+57
+00:03:33,200 --> 00:03:37,958
+Mais tarde, seria usado para descrever
+coisas que não têm propósito definido.
+
+58
+00:03:37,959 --> 00:03:44,099
+Não foi até 1800 que o random
+assumiu uma definição matemática particular.
+
+59
+00:03:44,100 --> 00:03:48,318
+Então, na década de 1970, o jornal estudantil do MIT
+
+60
+00:03:48,319 --> 00:03:54,059
+popularizou o uso da palavra aleatório
+para significar simplesmente estranho.
+
+61
+00:03:54,060 --> 00:03:56,908
+Claro, só porque
+algo é estranho não significa que não tenha
+
+62
+00:03:56,909 --> 00:04:01,929
+uma causa detectável.  Por que começamos a
+chamar tantas coisas previsíveis de
+
+63
+00:04:01,930 --> 00:04:05,298
+aleatórias?  Bem, muitas teorias giram em torno
+
+64
+00:04:05,299 --> 00:04:09,018
+da quantidade de informações e novas pessoas com as
+quais somos confrontados
+
+65
+00:04:09,019 --> 00:04:12,399
+em um ritmo crescente;  agora mais do que
+nunca.
+
+66
+00:04:12,400 --> 00:04:15,789
+Talvez seja apenas mais fácil, quase um alívio,
+
+67
+00:04:15,790 --> 00:04:18,828
+chamar as coisas de forma aleatória, para que possamos seguir em frente
+
+68
+00:04:18,829 --> 00:04:21,539
+e sintetizar outras informações.
+
+69
+00:04:21,540 --> 00:04:22,669
+Dê uma olhada neste dado.
+
+70
+00:04:22,670 --> 00:04:27,299
+Agora, como você pode ver, ele rola cinco na maioria das vezes,
+
+71
+00:04:27,300 --> 00:04:30,319
+mas não o tempo todo.  Com o tempo,
+
+72
+00:04:30,320 --> 00:04:33,749
+uma sequência de seus resultados conterá
+menos aleatoriedade.
+
+73
+00:04:33,750 --> 00:04:39,279
+Mas ainda é aleatório.  Qualquer rosto é
+possível e não tenho garantia
+
+74
+00:04:39,280 --> 00:04:43,009
+de saber qual rosto aparecerá.  Os
+resultados que estou selecionando tornam a
+
+75
+00:04:43,010 --> 00:04:44,409
+sequência resultante menos cheia de
+
+76
+00:04:44,410 --> 00:04:48,279
+aleatoriedade, mas o processo ainda é aleatório.
+
+77
+00:04:48,280 --> 00:04:53,389
+Embora um dado e uma moeda sejam
+extremamente sensíveis às suas condições iniciais
+
+78
+00:04:53,390 --> 00:04:56,559
+e, ao longo do uso normal, sejam
+bastante
+
+79
+00:04:56,560 --> 00:04:59,559
+imprevisíveis, ao longo do tempo
+
+80
+00:04:59,560 --> 00:05:03,009
+exibem certos vieses.  Vieses que os tornam
+
+81
+00:05:03,010 --> 00:05:06,199
+um pouco mais previsíveis e um pouco menos aleatórios do
+
+82
+00:05:06,200 --> 00:05:11,069
+que você imagina.  Em primeiro lugar, dados.  Mesmo os
+dados de precisão são controlados apenas pela qualidade
+
+83
+00:05:11,070 --> 00:05:14,059
+dentro de alguns micrômetros.
+
+84
+00:05:14,060 --> 00:05:16,199
+Você mesmo pode verificar isso.  Faça
+
+85
+00:05:16,200 --> 00:05:18,879
+duas pilhas de dez ou mais dados semelhantes.
+
+86
+00:05:18,880 --> 00:05:27,499
+Agora, se você orientar cada matriz em todas as direções,
+você deve obter basicamente duas pilhas de tamanhos iguais.
+
+87
+00:05:27,500 --> 00:05:31,269
+
+
+
+88
+00:05:31,270 --> 00:05:37,889
+
+tornar-se visível.
+
+89
+00:05:37,890 --> 00:05:39,319
+Mas e as moedas?
+
+90
+00:05:39,320 --> 00:05:43,409
+Bem, algumas pesquisas fantásticas foram
+feitas sobre o que acontece quando eles giram
+
+91
+00:05:43,410 --> 00:05:47,729
+e giram.  Por exemplo, descobriu-se que o níquel dos EUA
+tem o diâmetro e a
+
+92
+00:05:47,730 --> 00:05:49,549
+espessura certos para acabar caindo
+
+93
+00:05:49,550 --> 00:05:52,899
+não cara ou coroa quando virado,
+mas de
+
+94
+00:05:52,900 --> 00:05:57,269
+lado, cerca de uma vez a cada seis mil
+vezes.
+
+95
+00:05:57,270 --> 00:06:01,129
+Mas e a justiça de jogar
+uma moeda?  Bem, se você jogar uma moeda
+
+96
+00:06:01,130 --> 00:06:04,699
+assim, por razões estatísticas e físicas,
+o lado voltado para cima
+
+97
+00:06:04,700 --> 00:06:09,669
+antes do lançamento começar, na verdade não
+tem cinqüenta por cento de chance de ser o resultado.
+
+98
+00:06:09,670 --> 00:06:14,899
+Em vez disso, como
+descobriram os pesquisadores de Stanford, na verdade ela
+
+99
+00:06:14,900 --> 00:06:20,769
+tem cinquenta e um por cento de chance.  Neste caso foi o outro lado.
+
+100
+00:06:20,770 --> 00:06:22,499
+Ainda bem aleatório.
+
+101
+00:06:22,500 --> 00:06:25,069
+Se você quiser que um lançamento de moeda seja o mais justo possível,
+
+102
+00:06:25,070 --> 00:06:28,849
+você deve apenas pegá-lo em sua mão.  Não
+permita que ele bata no chão, salte, caia
+
+103
+00:06:28,850 --> 00:06:33,089
+e gire.  Isso porque os pesquisadores
+descobriram que, quando uma moeda gira,
+
+104
+00:06:33,090 --> 00:06:36,339
+os vieses maiores entram em jogo.  A forma de sua borda,
+
+105
+00:06:36,340 --> 00:06:40,369
+seu centro de gravidade.  O lado mais pesado tende a cair com
+
+106
+00:06:40,370 --> 00:06:43,559
+bastante frequência.  No caso de algumas moedas, até
+
+107
+00:06:43,560 --> 00:06:47,079
+oitenta por cento das vezes.
+Descobriu-se que uma moeda de um euro
+
+108
+00:06:47,080 --> 00:06:50,859
+vai girar e dar cara, na maioria das vezes,
+
+109
+00:06:50,860 --> 00:06:53,948
+e um centavo dos EUA vai dar coroa com
+
+110
+00:06:53,949 --> 00:06:57,038
+mais frequência quando girado.  Mas, como eu disse
+
+111
+00:06:57,039 --> 00:07:01,269
+anteriormente, teoricamente, se soubéssemos
+tudo sobre as condições iniciais
+
+112
+00:07:01,270 --> 00:07:03,489
+de um lançamento de moeda ou de um dado, poderíamos
+
+113
+00:07:03,490 --> 00:07:06,619
+calcular de antemão seu resultado.
+
+114
+00:07:06,620 --> 00:07:09,479
+Por que não fazemos isso com mais frequência?
+
+115
+00:07:09,480 --> 00:07:12,839
+Pois é extremamente difícil.
+
+116
+00:07:12,840 --> 00:07:16,989
+Quantidades insanas de precisão seriam necessárias porque a menor
+
+117
+00:07:16,990 --> 00:07:21,388
+diferença entre duas
+condições iniciais pode ser ampliada ao longo do tempo,
+
+118
+00:07:21,389 --> 00:07:26,259
+levando a resultados caóticos e extremamente difíceis
+de prever.
+
+119
+00:07:26,260 --> 00:07:28,929
+Random.org, o serviço que Derek e eu usamos
+
+120
+00:07:28,930 --> 00:07:32,239
+no início deste vídeo para gerar um
+número aleatório, usa
+
+121
+00:07:32,240 --> 00:07:36,049
+ruído atmosférico.  É extremamente difícil de prever,
+
+122
+00:07:36,050 --> 00:07:39,679
+mas tecnicamente ainda é um sistema determinístico.
+
+123
+00:07:39,680 --> 00:07:43,869
+Todo aquele barulho veio de algum lugar e
+se pudéssemos descobrir essas
+
+124
+00:07:43,870 --> 00:07:45,249
+condições iniciais poderíamos,
+
+125
+00:07:45,250 --> 00:07:49,979
+teoricamente, prever seus resultados.
+
+126
+00:07:49,980 --> 00:07:53,149
+Se quisermos um sistema mais aleatório
+
+127
+00:07:53,150 --> 00:07:56,939
+do que isso precisaremos encontrar um que não
+seja determinado por nada
+
+128
+00:07:56,940 --> 00:08:02,939
+e para isso vamos olhar mais de perto.  Quantummente próximo.
+
+129
+00:08:02,940 --> 00:08:06,008
+A mecânica quântica pode ter nossa resposta.
+
+130
+00:08:06,009 --> 00:08:09,489
+Descreve as propriedades de
+coisas de tamanho quântico
+
+131
+00:08:09,490 --> 00:08:12,469
+como probabilidades;
+
+132
+00:08:12,470 --> 00:08:17,369
+apenas chances.  Não porque ainda não sabemos o
+suficiente para ter certeza
+
+133
+00:08:17,370 --> 00:08:20,598
+ou prever, mas porque, bem, a ideia é
+
+134
+00:08:20,599 --> 00:08:23,999
+que não há nada para prever.
+
+135
+00:08:24,000 --> 00:08:27,098
+Não há de antemão que possamos saber.
+
+136
+00:08:27,099 --> 00:08:31,788
+Se um determinado
+átomo radioativo individual decairá ou não,
+
+137
+00:08:31,789 --> 00:08:34,908
+ou qualquer que seja o spin de um elétron,
+
+138
+00:08:34,909 --> 00:08:39,558
+só é conhecido quando olhamos.  Eles são
+determinados por uma
+
+139
+00:08:39,559 --> 00:08:43,038
+aleatoriedade profundamente enraizada no próprio universo.
+
+140
+00:08:43,039 --> 00:08:47,639
+Einstein não podia acreditar nisso.
+Ele se recusou a aceitar, como disse,
+
+141
+00:08:47,640 --> 00:08:53,039
+que "Deus jogou dados com o universo".
+
+142
+00:08:53,040 --> 00:08:55,169
+Mas... experimentos
+
+143
+00:08:55,170 --> 00:08:58,309
+com partículas emaranhadas mostraram
+
+144
+00:08:58,310 --> 00:09:02,819
+violações das desigualdades de Bell.
+
+145
+00:09:02,820 --> 00:09:06,078
+Partículas emaranhadas são partículas que
+exibem propriedades semelhantes
+
+146
+00:09:06,079 --> 00:09:09,189
+mesmo quando separadas por grandes distâncias.
+
+147
+00:09:09,190 --> 00:09:13,958
+Agora, se eles concordaram em ter essas
+propriedades compartilhadas, ou estão
+
+148
+00:09:13,959 --> 00:09:17,189
+determinados de antemão a tê-las, seus comportamentos
+
+149
+00:09:17,190 --> 00:09:21,958
+devem satisfazer as famosas desigualdades de Bell.
+Mas experimentos descobriram
+
+150
+00:09:21,959 --> 00:09:27,088
+que, em vez disso, a probabilidade do que uma
+máquina verá ao medir uma partícula
+
+151
+00:09:27,089 --> 00:09:32,348
+determina como a outra máquina
+medirá a outra partícula.
+
+152
+00:09:32,349 --> 00:09:38,869
+É aqui, quando olhamos, que a chance é
+determinada.  As explicações para isso
+
+153
+00:09:38,870 --> 00:09:42,739
+são ainda mais estranhas, mas o que os resultados
+sugerem é que
+
+154
+00:09:42,740 --> 00:09:47,019
+a chance de ver qualidades quânticas específicas
+
+155
+00:09:47,020 --> 00:09:48,549
+não pré-existe.
+
+156
+00:09:48,550 --> 00:09:52,149
+Eles acontecem quando você olha.
+
+157
+00:09:52,150 --> 00:09:55,749
+Então, se você estiver se sentindo chato ou
+
+158
+00:09:55,750 --> 00:09:59,458
+previsível, lembre-se de que você é
+feito de octilhões
+
+159
+00:09:59,459 --> 00:10:03,639
+de probabilidades quânticas.  Dados que não
+caem de nenhuma
+
+160
+00:10:03,640 --> 00:10:06,739
+maneira analisável que possamos prever.
+
+161
+00:10:06,740 --> 00:10:10,939
+Eles são a coisa mais aleatória.
+
+162
+00:10:10,940 --> 00:10:14,919
+Deus pode jogar dados com o universo, mas eles são
+
+163
+00:10:14,920 --> 00:10:18,819
+os melhores dados do universo.
+
+164
+00:10:18,820 --> 00:10:20,159
+E como sempre,
+
+165
+00:10:20,160 --> 00:10:23,458
+obrigado por assistir.
+
+166
+00:10:23,459 --> 00:10:26,379
+Mas o que tudo isso significa?
+
+167
+00:10:26,380 --> 00:10:30,819
+Bem, a verdadeira aleatoriedade não significa nada.
+Quer dizer, para termos significado precisamos de
+
+168
+00:10:30,820 --> 00:10:37,639
+estrutura, previsibilidade e é isso que estou
+explorando no meu canal, Veritasium.
+
+169
+00:10:37,640 --> 00:10:39,069
+Uau, ok.  Então
+
+170
+00:10:39,070 --> 00:10:42,169
+vamos lá e dê uma olhada no que
+
+171
+00:10:42,170 --> 00:10:45,299
+não é aleatório.  Veritasio, vamos.
+
+172
+00:10:45,300 --> 00:10:47,799
+Vejo vocês lá.
+Vai ser incrível, vem com a gente.
+
+173
+00:10:47,800 --> 00:10:48,779
+E como sempre,
+
+174
+00:10:48,780 --> 00:10:50,160
+obrigado por assistir.
+

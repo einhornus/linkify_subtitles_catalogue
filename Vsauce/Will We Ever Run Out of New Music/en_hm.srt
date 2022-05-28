@@ -1,0 +1,565 @@
+1
+00:00:00,570 --> 00:00:08,839
+Hey, Vsauce. Michael here. And the iTunes store contains 28 million different songs.
+
+2
+00:00:08,840 --> 00:00:15,739
+Last.fm carries 45 million songs and the
+Gracenote database of artists, titles, and
+
+3
+00:00:15,740 --> 00:00:24,239
+labels contains 130 million different songs.
+That's a lot. If you were to listen to all
+
+4
+00:00:24,240 --> 00:00:28,649
+of the songs in the Gracenote database one
+after the other in a giant playlist, it would
+
+5
+00:00:28,650 --> 00:00:33,759
+take you more than 1,200 years to complete.
+
+6
+00:00:33,760 --> 00:00:40,578
+But since there are a finite number of tones
+our ears can distinguish and because it only
+
+7
+00:00:40,579 --> 00:00:48,699
+takes a few notes in common for two musical
+ideas to sound similar, will we ever run out
+
+8
+00:00:48,700 --> 00:00:50,999
+of new music?
+
+9
+00:00:51,000 --> 00:00:56,939
+Will there ever be a day where every possible
+brief little melody has been written and recorded
+
+10
+00:00:56,940 --> 00:01:01,179
+and we are left with nothing new to make?
+
+11
+00:01:01,180 --> 00:01:05,599
+A good rule of thumb might be to say that
+if modern recording technology can't distinguish
+
+12
+00:01:05,600 --> 00:01:12,059
+the difference between two songs, well, neither
+could we. So, let's begin there, with digital
+
+13
+00:01:12,060 --> 00:01:19,059
+downloads, MP3's, CD's, and a calculation
+made by Covered in Bees.
+
+14
+00:01:19,060 --> 00:01:25,438
+Digital music is made out of "bits."
+Lots and lots of bits. But each individual bit
+
+15
+00:01:25,439 --> 00:01:29,719
+exists in one of two states: a "0" or a "1."
+
+16
+00:01:29,720 --> 00:01:35,438
+Now, what this means in that for any given,
+say, 5-minute-long audio file, the number
+
+17
+00:01:35,439 --> 00:01:43,298
+of possibilities, mathematically speaking,
+is enormous, but mind-blowingly finite.
+
+18
+00:01:43,299 --> 00:01:51,429
+A compact disk, which samples music at 44.1
+kHz, is going to need about 211 million bits
+
+19
+00:01:51,430 --> 00:01:57,258
+to store one 5-minute song. And because a
+bit can exist in two states, either a "0"
+
+20
+00:01:57,259 --> 00:02:03,609
+or a "1," the number of possible different
+ways to arrange those 211,000,000 bits is
+
+21
+00:02:03,610 --> 00:02:07,929
+2 to the 211th million power.
+
+22
+00:02:07,930 --> 00:02:14,179
+That value represents every single possible
+different 5-minute-long audio file. But how
+
+23
+00:02:14,180 --> 00:02:18,389
+big is that number?
+Well, let's put this in perspective.
+
+24
+00:02:18,390 --> 00:02:29,919
+A single drop of water contains 6 sextillion
+atoms. 6 sextillion is 22 digits long. That's
+
+25
+00:02:29,920 --> 00:02:35,089
+a long number. But the total number of atoms
+that make up the entire earth is a number
+
+26
+00:02:35,090 --> 00:02:41,949
+that is about 50 digits long. And estimations
+of the total number of hydrogen atoms in our
+
+27
+00:02:41,950 --> 00:02:48,569
+universe is a number that is 80 digits long.
+
+28
+00:02:48,570 --> 00:02:55,479
+But "2 to the 211 millionth power," the number
+of possible, different 5-minute audio files, is a number
+
+29
+00:02:55,480 --> 00:03:07,999
+that is 63 million digits long. It is a number
+larger than we can even pretend to understand.
+
+30
+00:03:08,000 --> 00:03:14,629
+It contains every possible CD quality 5-minute
+audio file. Inside that amount is everything
+
+31
+00:03:14,630 --> 00:03:20,319
+from Beethoven's "5th" to Beck's "Loser" -
+it even contains a 5 minute conversation you
+
+32
+00:03:20,320 --> 00:03:25,969
+had with your parents when you were 3 years old.
+In fact, every one of them. It even contains
+
+33
+00:03:25,970 --> 00:03:31,419
+every possible conversation you didn't have
+with your parents when you were 3 years old.
+
+34
+00:03:31,420 --> 00:03:38,509
+But, it is finite, not infinite. It's cool
+to think about, but it doesn't come very close
+
+35
+00:03:38,510 --> 00:03:44,349
+to answering the question of this video, which
+is "how many possible different songs can
+
+36
+00:03:44,350 --> 00:03:47,229
+we create and hear the difference between?"
+
+37
+00:03:47,230 --> 00:03:51,509
+So, for that, we're going to need to narrow
+down our hunt.
+
+38
+00:03:51,510 --> 00:03:57,099
+On Everything2, Ferrouslepidoptera made a
+calculation that involved some assumptions
+
+39
+00:03:57,100 --> 00:04:01,019
+that I think helped narrow the field down
+in a really nice way.
+
+40
+00:04:01,020 --> 00:04:06,309
+She took a look at the total number of possible
+different melodies you could create within
+
+41
+00:04:06,310 --> 00:04:15,009
+one octave, containing any or all of the intervals
+we divide octaves into. Of course, sound frequencies
+
+42
+00:04:15,010 --> 00:04:20,569
+can be divided much more granularly than that,
+but giving ourselves more notes might mean
+
+43
+00:04:20,570 --> 00:04:25,519
+we could make more technically different melodies,
+but they wouldn't necessarily sound any different
+
+44
+00:04:25,520 --> 00:04:27,259
+to our ears.
+
+45
+00:04:27,260 --> 00:04:32,539
+Now, given a single measure containing any
+combination of whole, half, quarter, eighth,
+
+46
+00:04:32,540 --> 00:04:39,759
+sixteenth or thirty-second notes, she calculated
+that there would be this many possible unique
+
+47
+00:04:39,760 --> 00:04:46,689
+measures, which is a smaller number than we
+had before, but, to put it in perspective,
+
+48
+00:04:46,690 --> 00:04:52,729
+this is how many seconds old the universe is.
+
+49
+00:04:52,730 --> 00:04:59,039
+Yerricde's calculation is even more specific.
+He stayed within one octave, but instead of
+
+50
+00:04:59,040 --> 00:05:06,189
+looking at a complete measure, he only considered
+the number of unique combinations of 8 notes.
+
+51
+00:05:06,190 --> 00:05:11,209
+He also assumed that typical melodies, as
+we know them today, only contain about three
+
+52
+00:05:11,210 --> 00:05:17,769
+different types of note length. For instance, quarter, eighth and sixteenth or whole,
+
+53
+00:05:17,770 --> 00:05:19,179
+half and quarter.
+
+54
+00:05:19,180 --> 00:05:25,499
+To be sure, that will most likely not always
+be true. Musical tastes hundreds, thousands
+
+55
+00:05:25,500 --> 00:05:32,359
+of years from now will most assuredly be different,
+but given melodies as we know them today,
+
+56
+00:05:32,360 --> 00:05:41,899
+across 8 notes, over 12 intervals, there are
+about 79 billion possible combinations.
+
+57
+00:05:41,900 --> 00:05:48,079
+We're getting relatively small here. I mean,
+under this definition of melody, 100 songwriters
+
+58
+00:05:48,080 --> 00:05:54,089
+creating a brand new 8-note melody every second
+would exhaust every possible melody within
+
+59
+00:05:54,090 --> 00:05:56,919
+only 248 years.
+
+60
+00:05:56,920 --> 00:06:01,979
+But it's still a huge number, way bigger than
+the total number of songs that have been written
+
+61
+00:06:01,980 --> 00:06:08,939
+that we know about. So, you can quite safely
+say that, no, we will never run out of new
+
+62
+00:06:08,940 --> 00:06:18,479
+music. But here's the rub. If that's the case,
+why are there so many commonalities between
+
+63
+00:06:18,480 --> 00:06:24,879
+songs? Even across hundreds of years, how
+come so many songs kind of sound the same?
+
+64
+00:06:24,880 --> 00:06:29,909
+I mean, if we have more possibilities than
+we could ever exhaust, why is "Twinkle Twinkle
+
+65
+00:06:29,910 --> 00:06:35,169
+Little Star," the "Alphabet Song," and "Baa,
+Baa, Black Sheep," all the same melody?
+
+66
+00:06:35,170 --> 00:06:40,169
+"My Country Tis of Thee," and "God Save the
+Queen," interestingly enough, are the same
+
+67
+00:06:40,170 --> 00:06:41,159
+song.
+
+68
+00:06:41,160 --> 00:06:57,439
+"Love Me Tender," is exactly the same as the
+old American Civil War song "Aura Lea."
+
+69
+00:06:57,440 --> 00:07:02,929
+And a seemingly uncountable number of songs
+merely sound like other songs. The Spongebob
+
+70
+00:07:02,930 --> 00:07:07,489
+Squarepants theme has a very similar cadence
+to "Blow the Man Down."
+
+71
+00:07:07,490 --> 00:07:13,189
+Soundsjustlike.com is a great resource for
+exploring this further. It'll show you two
+
+72
+00:07:13,190 --> 00:07:26,379
+songs and how they sort of sound alike.
+
+73
+00:07:26,380 --> 00:07:31,449
+And when it comes to musical chords,
+it's almost as if there's no variety at all, as
+
+74
+00:07:31,450 --> 00:07:36,829
+was famously shown by The Axis of Awesome's
+"4 Chords." I've linked it in the description,
+
+75
+00:07:36,830 --> 00:07:40,668
+it's worth a watch if you haven't seen it
+already. These guys sing more than 40 different
+
+76
+00:07:40,669 --> 00:07:45,519
+songs using the same four chords...
+
+77
+00:07:45,520 --> 00:07:52,909
+Even though the number of possible different
+melodies is gigantic, us humans tend to gravitate
+
+78
+00:07:52,910 --> 00:07:57,399
+towards certain patterns that we like more
+than others and we are influenced by what
+
+79
+00:07:57,400 --> 00:08:04,229
+came before us. Kirby Ferguson has a fantastic
+series looking into this called "Everything
+
+80
+00:08:04,230 --> 00:08:08,769
+is a Remix." I've also linked that down in
+the description. The commonalities he shows
+
+81
+00:08:08,770 --> 00:08:10,359
+are pretty crazy.
+
+82
+00:08:10,360 --> 00:08:16,349
+Well, even when it comes to lyrics, to writing,
+even though, mathematically, there are more
+
+83
+00:08:16,350 --> 00:08:22,669
+possibilities than we could ever exhaust,
+we have gravitated towards a few. In fact,
+
+84
+00:08:22,670 --> 00:08:29,749
+there's a form of poetic meter that is so
+common it's called "Common Meter."
+
+85
+00:08:29,750 --> 00:08:33,819
+I've composed a verse using it to explain what it is.
+
+86
+00:08:33,820 --> 00:08:41,879
+Line one contains eight syllables. The next
+contains just six. For emphasis: iambic stress.
+
+87
+00:08:41,880 --> 00:08:44,879
+That's it, no other tricks.
+
+88
+00:08:44,880 --> 00:08:52,569
+Here is a list of songs that are written in common
+meter, also known as "Balad Meter." The commonness
+
+89
+00:08:52,570 --> 00:08:58,549
+of common meter is the reason you can sing
+the Pokemon theme song to the tune of Gilligan's
+
+90
+00:08:58,550 --> 00:09:06,379
+Island. Or House of the Rising Sun. Or Amazing
+Grace. You could also use almost any of Emily
+
+91
+00:09:06,380 --> 00:09:10,859
+Dickinson's poetry. Sure, they're different
+melodies, but their lyrics are written in
+
+92
+00:09:10,860 --> 00:09:12,719
+the same meter.
+
+93
+00:09:12,720 --> 00:09:16,579
+There's a great video on YouTube that I've
+linked below in the description that uses
+
+94
+00:09:16,580 --> 00:09:20,759
+captions to let you see just how these all
+fit together.
+
+95
+00:09:20,760 --> 00:09:27,039
+Oh, and don't forget one of the greatest compositions
+taking advantage of common meter's commonness:
+
+96
+00:09:27,040 --> 00:09:29,799
+Stairway to Gilligan's Island.
+
+97
+00:09:29,800 --> 00:09:35,289
+And you know what? Our brains may also be
+keeping us from enjoying the entire mathematical
+
+98
+00:09:35,290 --> 00:09:42,599
+space of available songs. For instance,
+research has shown that the way a song compresses,
+
+99
+00:09:42,600 --> 00:09:50,659
+using software, can help us predict how enjoyable
+it will be. Too simple, too easy to compress,
+
+100
+00:09:50,660 --> 00:09:57,819
+like, say, a rising scale, and the song doesn't
+challenge us - it's boring. But too complicated,
+
+101
+00:09:57,820 --> 00:10:03,239
+say, white noise, and the file won't compress
+very much at all, and, likewise, we don't
+
+102
+00:10:03,240 --> 00:10:09,169
+seem to enjoy it. There's a magic zone where
+a file is compressible by a computer, and
+
+103
+00:10:09,170 --> 00:10:12,749
+also happens to be enjoyable by us.
+
+104
+00:10:12,750 --> 00:10:19,079
+So, interestingly, even though mathematically
+speaking, there are so many possible unique
+
+105
+00:10:19,080 --> 00:10:25,239
+melodies that we can safely say, there will
+always be room for new music, we don't seem
+
+106
+00:10:25,240 --> 00:10:32,469
+to be wired to care. We enjoy certain patterns
+and melodies and calculating how many there
+
+107
+00:10:32,470 --> 00:10:37,929
+could be is a lot less interesting than how
+connected and similar all the ones that we
+
+108
+00:10:37,930 --> 00:10:44,759
+enjoy are. It's as if we have more space than
+we need, more space than we could ever hope
+
+109
+00:10:44,760 --> 00:10:51,028
+to see all of, or visit all of, or know all
+of, but no matter what new place we go, in
+
+110
+00:10:51,029 --> 00:10:57,819
+a general sense, new, popular music will always
+remind us a bit of home.
+
+111
+00:10:57,820 --> 00:10:58,699
+And as always,
+
+112
+00:10:58,700 --> 00:11:10,459
+thanks for watching.
+
+113
+00:11:10,460 --> 00:11:16,139
+Fantastic, you're still here. If you want
+to hear music from people like you, from Vsaucers,
+
+114
+00:11:16,140 --> 00:11:21,499
+go check out WeSauce. You can submit music,
+animation, short films, anything that you're
+
+115
+00:11:21,500 --> 00:11:26,939
+making and putting on YouTube to us and we'll
+feature it on WeSauce. It's like a trailer
+
+116
+00:11:26,940 --> 00:11:29,648
+for what Vsaucers are doing.
+
+117
+00:11:29,649 --> 00:11:34,528
+Speaking of which, Jake Chudnow, who does
+all of the music in these videos, has a brand
+
+118
+00:11:34,529 --> 00:11:39,220
+new song out over on his channel,
+which I highly suggest you go give a listen.
+

@@ -1,0 +1,477 @@
+1
+00:00:00,000 --> 00:00:02,399
+Hola Internet.
+Necesitamos hablar sobre cerraduras.
+
+2
+00:00:02,400 --> 00:00:04,319
+Las físicas y las digitales.
+
+3
+00:00:04,320 --> 00:00:05,819
+En el mundo físico
+
+4
+00:00:05,820 --> 00:00:08,139
+las cerraduras no son tan seguras cómo crees que son.
+
+5
+00:00:08,140 --> 00:00:10,679
+La cerradura en tu puerta detiene tus preocupaciones más que a los ladrones,
+
+6
+00:00:10,680 --> 00:00:12,819
+como unos pocos minutos de búsqueda te pueden demostrar.
+
+7
+00:00:12,820 --> 00:00:14,679
+Si gastas más, tendrás más seguridad, pero
+
+8
+00:00:14,680 --> 00:00:17,059
+todas fallarán con las herramientas correctas y suficiente tiempo.
+
+9
+00:00:17,060 --> 00:00:19,059
+El hecho que las cerraduras físicas sean poco seguras
+
+10
+00:00:19,060 --> 00:00:20,959
+no representa un problema
+
+11
+00:00:20,960 --> 00:00:24,259
+porque los ladrones están restringidos al mundo físico.
+
+12
+00:00:24,260 --> 00:00:26,259
+Un ladrón debe revisar el vecindario
+
+13
+00:00:26,260 --> 00:00:28,259
+gastando tiempo para elegir su víctima,
+
+14
+00:00:28,260 --> 00:00:31,219
+por lo que generalmente una casa que se ve segura, ES segura,
+
+15
+00:00:31,220 --> 00:00:34,679
+Cada víctima solo puede ser atacada de a una a la vez
+
+16
+00:00:34,680 --> 00:00:37,499
+y conlleva el riesgo de ser físicamente capturado durante el robo.
+
+17
+00:00:37,500 --> 00:00:39,419
+En contraste el mundo digital es diferente.
+
+18
+00:00:39,420 --> 00:00:41,899
+Las restricciones del mundo físico no se aplican aquí.
+
+19
+00:00:41,900 --> 00:00:46,139
+En internet, una cerradura digital debe protegerte no solo del ladrón del vecindario
+
+20
+00:00:46,140 --> 00:00:48,599
+sino todos los ladrones de todos lados.
+
+21
+00:00:48,600 --> 00:00:51,739
+Porque en internet no hay tal cosa como "distancia".
+
+22
+00:00:51,740 --> 00:00:54,719
+Los ladrones en internet no rompen cerraduras en persona.
+
+23
+00:00:54,720 --> 00:00:58,339
+programan robots ladrones para que intenten millones de combinaciones
+
+24
+00:00:58,340 --> 00:00:59,979
+para ver cual abre.
+
+25
+00:00:59,980 --> 00:01:03,699
+Sea una cerradura en la otra calle, o todo un país del otro lado del mundo,
+
+26
+00:01:03,700 --> 00:01:05,119
+es lo mismo.
+
+27
+00:01:05,120 --> 00:01:07,119
+En realidad, del otro lado del mundo, es mejor.
+
+28
+00:01:07,120 --> 00:01:10,079
+Una persona en Uberlandia, que logra robar tu identidad
+
+29
+00:01:10,080 --> 00:01:12,359
+es casi imposible de ser capturado.
+
+30
+00:01:12,360 --> 00:01:14,039
+Esto es claramente malo, pero
+
+31
+00:01:14,040 --> 00:01:17,199
+gracias a las matemáticas, las cerraduras digitales pueden construirse IMPOSIBLES de romper.
+
+32
+00:01:17,200 --> 00:01:18,979
+Esto se llama encriptación.
+
+33
+00:01:18,980 --> 00:01:22,699
+Un tipo de cerradura digital que sin la contraseña, NO PUEDE ser abierta.
+
+34
+00:01:22,700 --> 00:01:25,439
+RoboLadrones probarán todas las combinaciones, pero
+
+35
+00:01:25,440 --> 00:01:27,239
+con una contraseña segura,
+
+36
+00:01:27,240 --> 00:01:29,239
+llevará más tiempo que la muerte termodinámica del universo el adivinarla.
+
+37
+00:01:29,240 --> 00:01:31,159
+Sin contraseña, no se puede entrar,
+
+38
+00:01:31,160 --> 00:01:33,719
+sin importar, cuán hacker de élite sea tu madre.
+
+39
+00:01:33,720 --> 00:01:36,179
+Tus archivos privados, serán privados.
+
+40
+00:01:36,180 --> 00:01:40,519
+Lo cual puede ser la mayor contribución a la sociedad que la matemática ha hecho.
+
+41
+00:01:40,520 --> 00:01:42,779
+Sin embargo, es fácil imaginarse escenarios
+
+42
+00:01:42,780 --> 00:01:45,119
+donde cerraduras digitales imposibles de descifrar pueden ser consideradas malas noticias.
+
+43
+00:01:45,120 --> 00:01:47,859
+Pereza máxima: Una bomba a punto de explotar.
+
+44
+00:01:47,860 --> 00:01:51,679
+El código para desarmarla se encuentra en el teléfono de un hombre que ha muerto.
+
+45
+00:01:51,680 --> 00:01:55,819
+Si el código se encontrara escrito en un papel dentro de una caja fuerte, no sería problema.
+
+46
+00:01:55,820 --> 00:01:58,179
+En el mundo físico, si no puedes abrir la cerradura,
+
+47
+00:01:58,180 --> 00:02:00,179
+rompes la pared.
+
+48
+00:02:00,180 --> 00:02:02,219
+La sociedad está de acuerdo de que en este escenario,
+
+49
+00:02:02,220 --> 00:02:06,159
+es razonable que la policía pueda entrar, cueste lo que cueste.
+
+50
+00:02:06,160 --> 00:02:10,579
+Nota: esto implica que el mundo físico, las cerraduras no son solo físicamente débiles,
+
+51
+00:02:10,580 --> 00:02:12,579
+sino además, legalmente débiles.
+
+52
+00:02:12,580 --> 00:02:16,659
+Podríamos vivir en un mundo donde la legislación de privacidad prohíba a la policía romper todas las cerraduras.
+
+53
+00:02:16,660 --> 00:02:19,519
+Pero no es así, porque eso sería tonto.
+
+54
+00:02:19,520 --> 00:02:20,939
+hhhhhhhmmmmmm.....
+
+55
+00:02:20,940 --> 00:02:24,539
+Este es momento en que los engranajes cerebrales gubernamentales empiezan a girar.
+
+56
+00:02:24,540 --> 00:02:27,679
+Si las cerraduras digitales son físicamente invulnerables,
+
+57
+00:02:27,680 --> 00:02:29,799
+quizás se puedan hacer legalmente vulnerables.
+
+58
+00:02:29,800 --> 00:02:31,779
+Requerir que las cerraduras digitales
+
+59
+00:02:31,780 --> 00:02:33,559
+se contruyan con un ojo de cerradura
+
+60
+00:02:33,560 --> 00:02:35,539
+para que el que la policía tenga una llave maestra,
+
+61
+00:02:35,540 --> 00:02:39,119
+muy segura, alto secreto, para uso solo en emergencias, seguramente.
+
+62
+00:02:39,120 --> 00:02:41,679
+Esta vulnerabilidad legal
+
+63
+00:02:41,680 --> 00:02:44,539
+de prohibir que los ciudadanos puedan poseer cerraduras digitales perfectas,
+
+64
+00:02:44,540 --> 00:02:47,279
+para requerir que los fabricantes fabriquen dispositivos con ojos de cerradura para policía,
+
+65
+00:02:47,280 --> 00:02:50,099
+es una idea en la cual muchos muchos gobiernos están interesados.
+
+66
+00:02:50,100 --> 00:02:51,879
+Y los gobiernos rápidamente señalan que
+
+67
+00:02:51,880 --> 00:02:53,699
+una orden judicial que permite a la policía entrar a tu casa,
+
+68
+00:02:53,700 --> 00:02:56,859
+y en tus papeles, DEBIERA pemitirle a la policía acceso a tu teléfono.
+
+69
+00:02:56,860 --> 00:02:59,679
+Si tu casa es tu castillo, pero la circunstancia lo requiere,
+
+70
+00:02:59,680 --> 00:03:01,959
+la policía puede traer un ariete para forzar la entrada.
+
+71
+00:03:01,960 --> 00:03:04,599
+Pero no existe un ariete digital para un teléfono bien protegido,
+
+72
+00:03:04,600 --> 00:03:06,439
+que permita cumplir con la orden judicial
+
+73
+00:03:06,440 --> 00:03:07,419
+Bueno, uno que verdaderamente ayude, al menos.
+
+74
+00:03:07,420 --> 00:03:09,419
+Lo cual ES un problema.
+
+75
+00:03:09,420 --> 00:03:12,019
+Idealmente, todos querríamos que la policía pueda abrir cerraduras digitales
+
+76
+00:03:12,020 --> 00:03:13,439
+de ser necesario.
+
+77
+00:03:13,440 --> 00:03:16,859
+Pero nuestro nivel actual en el árbol de la tecnología
+
+78
+00:03:16,860 --> 00:03:20,339
+las cerraduras digitales que no pueden ser abiertas, EXISTEN.
+
+79
+00:03:20,340 --> 00:03:22,439
+Y como están hechas de matemática
+
+80
+00:03:22,440 --> 00:03:24,439
+algo que un programador con las habilidades necesarias puede hacer en su casa
+
+81
+00:03:24,440 --> 00:03:29,779
+prohibir las cerraduras digitales es casi lo mismo que prohibir una idea.
+
+82
+00:03:29,780 --> 00:03:32,479
+Buena suerte con eso....
+
+83
+00:03:32,480 --> 00:03:35,819
+Pero, aún si fuera posible lograr una prohibición
+
+84
+00:03:35,820 --> 00:03:38,439
+de las cerraduras perfectas en un país,
+
+85
+00:03:38,440 --> 00:03:41,759
+recuerda que internet no hay tal cosa como "distancia".
+
+86
+00:03:41,760 --> 00:03:44,339
+Aún si tu gobierno es una burocracia Xanadu
+
+87
+00:03:44,340 --> 00:03:46,339
+totalmente incorruptible,
+
+88
+00:03:46,340 --> 00:03:47,999
+hay demonios en otros lugares
+
+89
+00:03:48,000 --> 00:03:49,999
+Cerraduras digitales que NO se pueden forzar
+
+90
+00:03:50,000 --> 00:03:51,699
+son los cimientos sobre los que
+
+91
+00:03:51,700 --> 00:03:52,359
+la computacion e Internet yacen.
+
+92
+00:03:52,360 --> 00:03:53,779
+Bancos, compras,  blogging,
+
+93
+00:03:53,780 --> 00:03:55,779
+twiter, juegos, comercio, reuniones virtuales, comunicaciones, correo eletrónico,
+
+94
+00:03:55,780 --> 00:03:58,319
+tooodo esto es posible por el uso de cerraduras digitales que NO se pueden forzar.
+
+95
+00:03:58,320 --> 00:04:00,319
+Existen desde que habia habitaciones con ordenadores,
+
+96
+00:04:00,320 --> 00:04:02,319
+pero ahora que todos llevamos uno en el bolsillo,
+
+97
+00:04:02,320 --> 00:04:04,039
+necesitamos estas cerraduras para proteger
+
+98
+00:04:04,040 --> 00:04:06,179
+la información de nuestras vidas.
+
+99
+00:04:06,180 --> 00:04:08,399
+La información de nuestros cerebros.
+
+100
+00:04:08,400 --> 00:04:10,259
+Cualquier mecanismo que las debilite
+
+101
+00:04:10,260 --> 00:04:12,259
+aún asumiendo las mejores intenciones,
+
+102
+00:04:12,260 --> 00:04:14,159
+automáticamente pone a TODO el mundo en riesgo.
+
+103
+00:04:14,160 --> 00:04:16,799
+La propia naturaleza de un ojo de cerradura es ser forzado.
+
+104
+00:04:16,800 --> 00:04:20,659
+Y la naturaleza del internet es que esos demonios lleguen a tu puerta.
+
+105
+00:04:20,660 --> 00:04:23,099
+No importa cuanto lo deseemos,
+
+106
+00:04:23,100 --> 00:04:25,699
+no existe una forma de construir una cerradura digital
+
+107
+00:04:25,700 --> 00:04:28,839
+que solo los ángeles buenos puedan abrir y que los demonios no.
+
+108
+00:04:28,840 --> 00:04:31,979
+Cualquier persona diciendo otra cosa es
+
+109
+00:04:31,980 --> 00:04:38,299
+o ignorante de la matemática subyacente o no es el ángel que aparenta
+
+110
+00:04:38,300 --> 00:04:40,899
+Este video es posible en parte gracias a Audible.com
+
+111
+00:04:40,900 --> 00:04:45,779
+con más de ciento ochenta mil audiobooks y libros hablados.
+
+112
+00:04:45,780 --> 00:04:49,539
+Consiga su prueba gratuita en audible.com/grey
+
+113
+00:04:49,540 --> 00:04:52,679
+En esta oportunidad les voy a recomendar "Daemon", de Daniel Suarez.
+
+114
+00:04:52,680 --> 00:04:55,959
+No me gusta hacer spoilers de libros de fantasia
+
+115
+00:04:55,960 --> 00:04:58,679
+pero si llegaste al final de un video sobre encriptación,
+
+116
+00:04:58,680 --> 00:05:00,859
+este libro es para ti.
+
+117
+00:05:00,860 --> 00:05:03,659
+Porqué no lo escuchas como parte de tu
+
+118
+00:05:03,660 --> 00:05:07,299
+prueba gratuita de 30 días en audible.com/grey
+
+119
+00:05:07,300 --> 00:05:10,580
+y demuéstrale a Audible que apoyas este canal.
+

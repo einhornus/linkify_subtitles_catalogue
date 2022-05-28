@@ -1,0 +1,352 @@
+1
+00:00:00,700 --> 00:00:04,119
+Sur le calendrier, chaque année est constituée 
+de 365 jours, un nombre qui ne se divise pas 
+
+2
+00:00:04,120 --> 00:00:08,768
+très bien et qui nous oblige à alterner entre 
+des mois de 30 et 31 jours. C’est sans compter
+
+3
+00:00:08,769 --> 00:00:13,218
+Février, l’étrange du groupe, qui se retrouve avec 
+seulement 28 jours. Sauf quand il en possède 29, 
+
+4
+00:00:13,219 --> 00:00:15,869
+rallongeant l'année à 366 jours.
+
+5
+00:00:15,870 --> 00:00:18,909
+Pourquoi est-ce si compliqué? Dans quel genre 
+d'univers vivons-nous pour avoir des années plus 
+
+6
+00:00:18,910 --> 00:00:19,639
+longues que d'autres?
+
+7
+00:00:19,640 --> 00:00:22,189
+Pour répondre  cela, il faut d'abord comprendre 
+ce qu'est une année.
+
+8
+00:00:22,190 --> 00:00:25,609
+Très essentiellement, c'est le temps qu'il 
+faut à la terre pour faire le tour du soleil
+
+9
+00:00:25,610 --> 00:00:28,319
+et c'est d'ailleurs cette rotation 
+qui engendre les saisons.
+
+10
+00:00:28,320 --> 00:00:31,729
+Tout cela a l'air bien simple lorsqu'on en fait 
+un diagramme comme celui-là, où la terre tourne 
+
+11
+00:00:31,730 --> 00:00:35,189
+sagement autour du soleil, mais c'est autre chose de le 
+faire lorsqu'on est sur terre étant donné qu'il n'y a pas
+
+12
+00:00:35,190 --> 00:00:37,429
+de carte ou de point de vue omniscient de l'univers.
+
+13
+00:00:37,430 --> 00:00:40,499
+Sur Terre, on ne peut observer que le changement des 
+saisons et la méthode la plus simple de savoir quand la 
+
+14
+00:00:40,500 --> 00:00:45,259
+prochaine s'en vient est de compter le nombre de jours 
+entre chacune, ce qui donne un calendrier de 365 jours.
+
+15
+00:00:45,260 --> 00:00:49,209
+Mais dès qu'on met ce calendrier en pratique, on 
+réalise qu'il se décale peu à peu avec les saisons,
+
+16
+00:00:49,210 --> 00:00:52,078
+et avec chaque année qui passe, cet écart grandit 
+encore, encore et encore. 
+
+17
+00:00:52,079 --> 00:00:55,809
+Après trois décennies, on en est à une semaine de 
+décalage et au bout de quelques siècles, les saisons 
+
+18
+00:00:55,810 --> 00:01:00,099
+seraient renversées, ce qui veut dire qu'on fêterait 
+Noel en été, chose qui serait démente.
+
+19
+00:01:00,100 --> 00:01:03,148
+Où est l'erreur? Est-ce qu'on aurait mal 
+compté les jours? Notre calendrier prédit 
+
+20
+00:01:03,149 --> 00:01:08,068
+qu'il faut exactement 8760 heures pour que 
+la terre fasse le tour du soleil, mais si 
+
+21
+00:01:08,069 --> 00:01:11,478
+on mesurait cet intervalle en minutes, on 
+verrait qu'une année dure en fait presque 6 
+
+22
+00:01:11,479 --> 00:01:16,099
+heures de plus. Cela explique pourquoi notre 
+calendrier avance juste un peu plus vite que 
+
+23
+00:01:16,100 --> 00:01:17,019
+le cycle des saisons.
+
+24
+00:01:17,020 --> 00:01:20,629
+Et cela nous amène au grand problème derrière 
+tous les calendriers: le cycle du jour et 
+
+25
+00:01:20,630 --> 00:01:23,748
+de la nuit, bien que facilement mesurable, 
+n'a aucun lien avec le cycle annuel.
+
+26
+00:01:23,749 --> 00:01:27,239
+Le jour et la nuit sont causés par la rotation 
+de la terre sur son axe. Lorsqu'on est du côté 
+
+27
+00:01:27,240 --> 00:01:30,739
+du soleil, c'est le jour et quand on est de 
+l'autre côté, c'est la nuit. Cette rotation n'a 
+
+28
+00:01:30,740 --> 00:01:34,008
+pas plus de lien avec l'orbite de la terre 
+qu'une ballerine dansant sur le toit d'un 
+
+29
+00:01:34,009 --> 00:01:36,618
+camion n'a de lien avec la vitesse du camion.
+
+30
+00:01:36,619 --> 00:01:39,258
+Si on comptait le nombre de tours que fait la ballerine 
+pour calculer le temps qu'il faut au camion pour tourner 
+
+31
+00:01:39,259 --> 00:01:43,358
+en rond, on aurait une vague idée de sa vitesse, mais 
+c'est insensé de s'attendre à une mesure précise.
+
+32
+00:01:43,359 --> 00:01:46,478
+Compter les jours pour prédire une orbite en 
+revient à faire à peu près la même chose et on 
+
+33
+00:01:46,479 --> 00:01:50,788
+ne devrait donc pas se surprendre à l'idée que la 
+terre ne fasse pas exactement 365 tours par an.
+
+34
+00:01:50,789 --> 00:01:56,309
+Ce qui est bien fâcheux, c'est que même si 
+365 jours n'est pas assez, 366 jours serait 
+
+35
+00:01:56,310 --> 00:01:58,739
+trop et engendrerait malgré tout un décalage, 
+mais cette fois dans l'autre sens.
+
+36
+00:01:58,740 --> 00:02:02,068
+La solution est d'utiliser des anneés bissextiles, 
+qui donnent au mois de Février un jour de plus,
+
+37
+00:02:02,069 --> 00:02:03,438
+mais une fois aux 4 ans.
+
+38
+00:02:03,439 --> 00:02:07,038
+C'est pratique puisque comme l'année est plus 
+courte que le calendrier d'un quart de journée, 
+
+39
+00:02:07,039 --> 00:02:09,388
+on a qu'à ajouter un jour de plus à chaque 4 
+ans pour à nouveau se réaligner.
+
+40
+00:02:09,389 --> 00:02:11,229
+Hourra! Le problème est résolu.
+
+41
+00:02:11,230 --> 00:02:12,539
+Et pourtant, non.
+
+42
+00:02:12,540 --> 00:02:15,738
+Rallonger le calendrier d'une journée à 
+chaque 4 ans est légèrement trop long et 
+
+43
+00:02:15,739 --> 00:02:19,128
+le calendrier recule malgré tout d'environ 
+1 jour à chaque 100 ans.
+
+44
+00:02:19,129 --> 00:02:22,458
+Pour n’importe qui, ce n’est pas un problème 
+mais pas pour les horlogers qui aiment que tout 
+
+45
+00:02:22,459 --> 00:02:23,679
+fonctionne parfaitement.
+
+46
+00:02:23,680 --> 00:02:26,738
+Pour arranger cela, on saute une année 
+bissextile au début de chaque sicle.
+
+47
+00:02:26,739 --> 00:02:30,539
+Donc même si 1896 et 1904 étaient des 
+années bissextiles, on a sauté l'an 1900.
+
+48
+00:02:30,540 --> 00:02:34,238
+C'est déjà mieux, mais le calendrier va quand 
+même juste un peu trop vite, et on s'écarte d'un 
+
+49
+00:02:34,239 --> 00:02:35,999
+jour aux 400 ans.
+
+50
+00:02:36,000 --> 00:02:39,029
+On a donc ajouté une exception à la règle, 
+disant que si la date se divise par 400, 
+
+51
+00:02:39,030 --> 00:02:41,878
+c'est une année bissextile quand même.
+
+52
+00:02:41,879 --> 00:02:45,158
+Donc 1900 et 2100 ne sont pas des années 
+bissextiles, mais l'an 2000 oui.
+
+53
+00:02:45,159 --> 00:02:49,179
+Avec ces 3 règles, on en arrive à un décalage 
+d'un jour par période de 8000 ans, ce qui est 
+
+54
+00:02:49,180 --> 00:02:52,568
+suffisant pour le calendrier que nous 
+utilisons et c'est très bien comme ça parce 
+
+55
+00:02:52,569 --> 00:02:55,389
+que voilà 8000 ans, les humains venaient de 
+découvrir qu'on pouvait planter des légumes, 
+
+56
+00:02:55,390 --> 00:02:58,729
+ainsi que tous ses bienfaits, et d'ici 8000 
+ans, on utilisera probablement un calendrier 
+
+57
+00:02:58,730 --> 00:03:01,548
+avec plus de précision.
+
+58
+00:03:01,549 --> 00:03:06,149
+Mais vous êtes mathématicien et pour vous, une 
+erreur de 0.0001% est une abomination qui doit 
+
+59
+00:03:06,150 --> 00:03:07,078
+être éliminée.
+
+60
+00:03:07,079 --> 00:03:10,729
+L'univers vous répondra "Tant pis" parce que 
+la longueur des jours n'est même pas consistante. 
+
+61
+00:03:10,730 --> 00:03:14,929
+Elle varie de quelques millisecondes par jour 
+en moyenne et diminue d'environ un millième de 
+
+62
+00:03:14,930 --> 00:03:18,809
+seconde par siècle, ce qui rend pratiquement 
+impossible la construction d'un super-calendrier 
+
+63
+00:03:18,810 --> 00:03:19,968
+qui n'expire jamais.
+
+64
+00:03:19,969 --> 00:03:23,089
+En théorie chaque jour sera un jour aussi long 
+qu'un de nos mois, mais il ne faut pas s'en 
+
+65
+00:03:23,090 --> 00:03:27,018
+faire, parce qu'il faudrait des dizaines de 
+milliards d'années pour que cela arrive et que 
+
+66
+00:03:27,019 --> 00:03:28,798
+le soleil aura englouti la terre bien avant cela.
+
+67
+00:03:28,799 --> 00:03:32,128
+Pardon, je ne suis pas tout à fait sûr de comment 
+on est parti des jours sur le calendrier à la mort 
+
+68
+00:03:32,129 --> 00:03:35,298
+inévitable de la civilisation humaine (à moins 
+d'avoir un programme d'exploration spatiale 
+
+69
+00:03:35,299 --> 00:03:37,348
+adéquat, souvenez-vous), mais l'idée est là.
+
+70
+00:03:37,349 --> 00:03:40,408
+Pour les prochains millénaires, les années 
+bissextiles vont garder le calendrier à 
+
+71
+00:03:40,409 --> 00:03:43,889
+jour, qu'importe la façon dont c'est calculé.
+
+72
+00:03:43,890 --> 00:03:47,289
+Si vous voulez en savoir plus sur les orbites, les 
+différentes sortes d'années, les trous-noirs super-
+
+73
+00:03:47,290 --> 00:03:50,248
+massifs et plus encore, regardez Minute Physics. 
+Henry se surpasse constamment pour expliquer toutes 
+
+74
+00:03:50,249 --> 00:03:51,590
+ces choses dans ses vidéos. Allez y jeter un œil.
+

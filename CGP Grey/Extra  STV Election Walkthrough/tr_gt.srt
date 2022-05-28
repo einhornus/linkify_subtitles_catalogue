@@ -1,0 +1,312 @@
+1
+00:00:00,200 --> 00:00:04,619
+Ana videoda, STV seçimlerinden birkaç kısa örnek üzerinden geçtim,
+
+2
+00:00:04,620 --> 00:00:09,779
+ancak bu ekstra videoda, STV seçiminin nasıl olduğunu görebilmeniz için daha büyük bir seçim almak ve onu biraz daha derinlemesine
+
+3
+00:00:09,780 --> 00:00:13,479
+incelemek istiyorum.  açılır.
+
+4
+00:00:13,480 --> 00:00:19,619
+Bu durumda 10 adayımız olacak ve temsilci için beş koltuk olacak.
+
+5
+00:00:19,620 --> 00:00:23,559
+Bu, her adayın kazanmak için %20 alması gerektiği anlamına gelir.
+
+6
+00:00:23,560 --> 00:00:27,919
+Böylece vatandaşlar sandık başına gidiyor ve ilk tercih sonuçları şu şekilde çıkıyor:
+
+7
+00:00:27,920 --> 00:00:29,559
+Tarsier %5
+
+8
+00:00:29,560 --> 00:00:31,079
+alıyor Gorilla %32
+
+9
+00:00:31,080 --> 00:00:32,599
+alıyor Silverback %3
+
+10
+00:00:32,600 --> 00:00:34,179
+alıyor Baykuş %33
+
+11
+00:00:34,180 --> 00:00:35,359
+alıyor Kaplumbağa %
+
+12
+00:00:35,360 --> 00:00:36,359
+1 alıyor Snake %1
+
+13
+00:00:36,360 --> 00:00:37,559
+alıyor Tiger %16
+
+14
+00:00:37,560 --> 00:00:38,779
+alıyor Lynx %4
+
+15
+00:00:38,780 --> 00:00:40,079
+Jackelope alıyor  %2
+
+16
+00:00:40,080 --> 00:00:41,739
+ve Buffalo %3 alır.
+
+17
+00:00:41,740 --> 00:00:47,399
+Şimdi burada görebildiğimiz, STV ile gerçek seçimlerde çok sık görülen bir durum.
+
+18
+00:00:47,400 --> 00:00:51,099
+Çok fazla desteğe sahip iki veya üç parti var --
+
+19
+00:00:51,100 --> 00:00:53,519
+bu durumda Gorilla, Baykuş ve Kaplan -
+
+20
+00:00:53,520 --> 00:00:56,739
+ve bir grup var.  Oyların %5'inden azına sahip olan partilerin
+
+21
+00:00:56,740 --> 00:00:58,199
+Öyleyse bunun nasıl çalıştığını görelim.
+
+22
+00:00:58,200 --> 00:01:04,419
+İlk olarak, Gorilla ve Owl bir koltuk alırlar çünkü ikisi de kazanmak için gereken eşiği geçmişlerdir.
+
+23
+00:01:04,420 --> 00:01:07,079
+Her iki adayın da gerçekten almak için ihtiyaç duyduklarından daha fazla oyu var,
+
+24
+00:01:07,080 --> 00:01:11,519
+bu da nüfus arasında tek bir adayın sağlayabileceğinden daha fazla desteğe sahip oldukları anlamına geliyor.
+
+25
+00:01:11,520 --> 00:01:17,079
+Önce hangi adayın en fazla fazla oy aldığına bakar ve bunları yeniden dağıtırsınız.
+
+26
+00:01:17,080 --> 00:01:23,279
+Baykuş %32, en büyük fazlaya sahip.  Seçmenlerinin ikinci tercihi, anlaşılması gereken en önemli şey
+
+27
+00:01:23,280 --> 00:01:25,539
+ve bu durumda Kaplumbağa.
+
+28
+00:01:25,540 --> 00:01:27,359
+Sırada, Gorilla'nın oy fazlası var.
+
+29
+00:01:27,360 --> 00:01:33,599
+Şimdi, bu noktaya kadar, hayvanlar alemindeki tüm vatandaşların tamamen aynı şekilde oy kullandığını varsayıyorduk.
+
+30
+00:01:33,600 --> 00:01:37,579
+Ancak gerçek seçimlerde, seçmenlerin hepsi ikinci tercihlerinin ne olduğu konusunda hemfikir değiller.
+
+31
+00:01:37,580 --> 00:01:43,239
+Görünen o ki, Goril seçmenleri ikinci tercihleri için Tarsier ve Silverback arasında bölünmüş durum
+
+32
+00:01:43,240 --> 00:01:49,299
+a.  İkinci tercih oyları bölündüğünde ne olduğuyla ilgili bu durumu çözmeye çalışmanın pek çok yolu vardır.
+
+33
+00:01:49,300 --> 00:01:54,279
+Ama biraz sadeleştirmek için, sadece bu oyların orantılı olarak dağıtıldığını söyleyebiliriz.
+
+34
+00:01:54,280 --> 00:01:59,479
+Yani bu durumda, 2'ye 1 seçmen, Silverback'i Tarsier'e tercih ediyor.
+
+35
+00:01:59,480 --> 00:02:04,899
+Oylar bu şekilde dağıtılıyor, Silverback'i %11'e, Tarsier'i ise %9'a çıkardı.
+
+36
+00:02:04,900 --> 00:02:11,219
+Bu noktada artık kimsenin oy fazlası yok ve kimse barajı aşmıyor, bu yüzden ilk önce en büyük kaybedeni elemeye başlıyoruz.
+
+37
+00:02:11,220 --> 00:02:18,479
+Bu durumda, bu Snake.  Snake asla kazanamayacaktı ve bu yüzden bu oylar Snake seçmenlerinin ikinci tercihi olan Turtle'a gidiyor.
+
+38
+00:02:18,480 --> 00:02:21,039
+Sırada, Jackelope en büyük kaybeden.
+
+39
+00:02:21,040 --> 00:02:24,459
+Şimdi, burada olan Jackelope seçmenlerinin sadece Jackelope'u sevmesidir.
+
+40
+00:02:24,460 --> 00:02:30,519
+Başka bir adayı sevmiyorlar.  Herkesin eşit derecede kötü olduğunu ve sadece Jackelope'un harika olduğunu düşünüyorlar.
+
+41
+00:02:30,520 --> 00:02:33,379
+Yani oy pusulasında Jackelope'nin yanına bir tane koydular ve kimsenin yanına bir şey koymadılar
+
+42
+00:02:33,380 --> 00:02:35,719
+.
+
+43
+00:02:35,720 --> 00:02:42,019
+Bu durumda olan şey, Jackelope oylarının aslında bu aşamada seçimden yeni çıkarılmasıdır.
+
+44
+00:02:42,020 --> 00:02:45,739
+Seçmenleri, Jackelope'un kazanmaması umurlarında olmadığını söyledi.
+
+45
+00:02:45,740 --> 00:02:47,839
+Yani neredeyse oy vermemişler gibi.
+
+46
+00:02:47,840 --> 00:02:49,479
+Sırada Buffalo eleniyor.
+
+47
+00:02:49,480 --> 00:02:54,019
+Şimdi, seçmenleri Jackelope'u ikinci seçenek olarak koydu, ancak Jackelope zaten elendiğinden
+
+48
+00:02:54,020 --> 00:02:56,239
+, oyları oraya gidemez.
+
+49
+00:02:56,240 --> 00:03:01,979
+STV'de belirli sayıda insanın ilk tercih oyu alabilmeniz önemli.
+
+50
+00:03:01,980 --> 00:03:05,539
+Bazen insanlar sistemi bunun için eleştiriyor, ancak
+
+51
+00:03:05,540 --> 00:03:09,239
+ilk tercih oylarının diğer oylardan daha önemli olduğunu düşünmenin mantıksız olduğunu düşünmüyorum.
+
+52
+00:03:09,240 --> 00:03:13,439
+Buffalo seçmenleri ikinci tercihlerine geçemedikleri için Buffalo seçmenlerinin 2/3'ü bu noktada umurlarında değil,
+
+53
+00:03:13,440 --> 00:03:16,519
+Buffalo veya Jackelope'u istediler ve başka kimseyi sevmiyorlar
+
+54
+00:03:16,520 --> 00:03:19,279
+ve Buffalo seçmenlerinin 1/3'ü Kaplumbağa'yı destekliyor.
+
+55
+00:03:19,280 --> 00:03:23,759
+Böylece Kaplumbağa %1'lik küçük bir dilim daha aldı ve onu %16'ya çıkardı ve Tiger ile berabere kaldı.
+
+56
+00:03:23,760 --> 00:03:26,319
+Ancak bir sonraki en büyük kaybeden Lynx.
+
+57
+00:03:26,320 --> 00:03:32,679
+Lynx oyları Tiger'a gidiyor ve Tiger, oylama eşiğine ulaşan bir sonraki temsilci olarak seçildi.
+
+58
+00:03:32,680 --> 00:03:35,539
+Sıradaki en büyük kaybeden Tasier.  Üzgünüm Tarsier.
+
+59
+00:03:35,540 --> 00:03:40,479
+Tarsier bu aşamada hem onu ilk tercihleri olarak seçen vatandaşlardan hem de Gorilla'dan
+
+60
+00:03:40,480 --> 00:03:44,459
+sonra ikinci tercihleri olarak seçen adaylardan oy ald
+
+61
+00:03:44,460 --> 00:03:48,959
+�.  Yani bu oylar yeniden dağıtıldığında, bazıları ikinci tercihlerine
+
+62
+00:03:48,960 --> 00:03:51,299
+, bazıları ise üçüncü tercihlerine gidiyor.
+
+63
+00:03:51,300 --> 00:03:55,559
+Ama maymunlar birbirine yapışır ve böylece Silverback'e doğru giderler.
+
+64
+00:03:55,560 --> 00:03:58,839
+Silverback bir sonraki temsilci olarak seçilir.
+
+65
+00:03:58,840 --> 00:04:01,999
+Son olarak, soru Kaplumbağa ile ne yapılacağıdır.
+
+66
+00:04:02,000 --> 00:04:04,819
+Kaplumbağa bir sonraki en büyük kaybeden ve eşiğe ulaşmadı,
+
+67
+00:04:04,820 --> 00:04:07,499
+ancak bu seçimde açık beş sandalye var.
+
+68
+00:04:07,500 --> 00:04:13,559
+Çoğu STV sisteminin kuralı şudur: Eğer bir koltuğunuz açıksa ve bir adayınız
+
+69
+00:04:13,560 --> 00:04:17,159
+varsa, eşiğe tam olarak ulaşmamış olsalar bile, yine de içeri girerler.
+
+70
+00:04:17,160 --> 00:04:20,619
+Böylece Turtle bizim son temsilcimiz olarak seçilir.
+
+71
+00:04:20,620 --> 00:04:24,699
+Başa dönersek, bunun oldukça iyi bir sonuç olduğunu görebiliriz.
+
+72
+00:04:24,700 --> 00:04:27,679
+Nüfusun en büyük kesimleri Goril ve Baykuş'tu
+
+73
+00:04:27,680 --> 00:04:30,679
+ve sonunda hem birinci hem de ikinci seçimlerini elde ettiler.
+
+74
+00:04:30,680 --> 00:04:33,339
+Tiger ve Lynx, nüfusun bir sonraki en büyük kesimleriydi.
+
+75
+00:04:33,340 --> 00:04:34,659
+Seçimlerinden birini aldılar.
+
+76
+00:04:34,660 --> 00:04:37,799
+Pek çok parti, Turtle'ın bir sonraki tercihleri olduğu konusunda hemfikirdi ve bu
+
+77
+00:04:37,800 --> 00:04:41,639
+oylar, Turtle'ın herhangi bir turda elenmesini engel
+
+78
+00:04:41,640 --> 00:04:43,640
+edi.  Kaplumbağa da bir temsilcidir.
+

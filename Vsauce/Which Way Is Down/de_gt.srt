@@ -1,0 +1,1268 @@
+1
+00:00:00,020 --> 00:00:03,199
+Hey, Vsoße.  Michael hier.
+
+2
+00:00:03,200 --> 00:00:05,199
+Hier unten.
+
+3
+00:00:05,200 --> 00:00:07,739
+Aber welcher Weg ist unten?
+
+4
+00:00:07,740 --> 00:00:14,679
+Und wie viel wiegen Daunen?  Nun, Daunen wiegen etwa ein Hundertstel Gramm pro Kubikzentimeter.
+
+5
+00:00:14,680 --> 00:00:20,239
+Es ist leicht und luftig, was es zu einer großartigen Quelle für Isolierung und Auftrieb für Wasservögel macht.
+
+6
+00:00:20,240 --> 00:00:22,939
+Aber wenn du es loslässt...
+
+7
+00:00:22,940 --> 00:00:25,039
+Es fällt herunter.
+
+8
+00:00:25,040 --> 00:00:26,679
+Das ist also der Weg nach unten.
+
+9
+00:00:26,680 --> 00:00:29,239
+Es ist die Richtung, in die die Schwerkraft alles hineinzieht.
+
+10
+00:00:29,240 --> 00:00:33,099
+Nun, für jemanden auf der anderen Seite der Erde ist mein Unten sein Oben.
+
+11
+00:00:33,100 --> 00:00:38,519
+Aber wohin gehen die fallenden Dinge?  Warum fallen Dinge?
+
+12
+00:00:38,520 --> 00:00:44,399
+Werden sie geschoben oder gezogen oder liegt es an Zeitreisen?
+
+13
+00:00:44,400 --> 00:00:49,139
+Das Wichtigste zuerst: Lasst uns die Sonne in ein Schwarzes Loch verwandeln.
+
+14
+00:00:49,140 --> 00:00:55,039
+Wir können das mit Universe Sandbox 2 tun, dieser Simulator wird Sie umhauen.  Ich liebe es.
+
+15
+00:00:55,040 --> 00:00:59,379
+Tatsächlich liebe ich es so sehr, dass ich einen Code, um das Spiel kostenlos zu bekommen, in die aktuelle Curiosity Box gesteckt habe.
+
+16
+00:00:59,380 --> 00:01:02,199
+Wenn Sie die Box noch nicht abonniert haben, verpassen Sie etwas!
+
+17
+00:01:02,200 --> 00:01:06,239
+Okay, schauen Sie, für die Zwecke dieses Videos wollen wir das Sonnensystem.
+
+18
+00:01:06,240 --> 00:01:10,439
+Und hier ist es.  Beachten Sie, dass sich alles ziemlich schnell um die Sonne bewegt.
+
+19
+00:01:10,440 --> 00:01:14,719
+Das liegt daran, dass wir das Spiel derzeit so eingestellt haben, dass jede Sekunde, die für uns vergeht
+
+20
+00:01:14,720 --> 00:01:17,219
+, fast 14 Tage im Spiel ist.
+
+21
+00:01:17,220 --> 00:01:20,739
+Wenn ich dies auf eine Sekunde ändere,
+
+22
+00:01:20,740 --> 00:01:23,579
+betrachten wir das Sonnensystem in Echtzeit.
+
+23
+00:01:23,580 --> 00:01:26,419
+Sie werden feststellen, dass es fast so aussieht, als wäre es gefroren.
+
+24
+00:01:26,420 --> 00:01:31,759
+Obwohl sich die Erde mit etwa 30 km/s um die Sonne bewegt, scheint sie sich kaum zu bewegen.
+
+25
+00:01:31,760 --> 00:01:35,659
+So groß ist der Raum.  Wie auch immer, gehen wir zurück zu 14 Tagen
+
+26
+00:01:35,660 --> 00:01:37,569
+Ich mag diese Bewegung.  Schauen Sie sich jetzt die Sonne an.
+
+27
+00:01:37,570 --> 00:01:43,389
+Sie ist derzeit kein Schwarzes Loch, aber wir können das ändern.  Was wir tun müssen, ist die Sonne zu komprimieren.
+
+28
+00:01:43,390 --> 00:01:49,298
+Lassen Sie uns also seine Masse sperren, damit sie sich nicht ändert, während wir seinen Radius verkleinern.
+
+29
+00:01:49,299 --> 00:01:52,579
+Machen wir seinen Radius so klein wie möglich.
+
+30
+00:01:52,580 --> 00:01:59,139
+Und, oh, wo ist es hingegangen?  Nun, es ist immer noch da, es ist nur ein schwarzes Loch geworden.
+
+31
+00:01:59,140 --> 00:02:03,539
+Ziemlich unheimlich, aber jetzt schauen wir uns den Rest des Sonnensystems an.
+
+32
+00:02:03,540 --> 00:02:06,818
+In Ordnung, rauszoomen und-
+
+33
+00:02:06,819 --> 00:02:07,959
+huh.
+
+34
+00:02:07,960 --> 00:02:11,239
+Nichts hat sich geändert.  Ich meine, es hat sich etwas geändert.
+
+35
+00:02:11,240 --> 00:02:16,259
+Es ist kälter und dunkler, aber nichts fliegt in den Weltraum oder wird eingesaugt.
+
+36
+00:02:16,260 --> 00:02:20,339
+Sehen Sie, durch das Verkleinern der Sonne haben wir die Richtung des Abwärtsstroms für die Planeten nicht geändert.
+
+37
+00:02:20,340 --> 00:02:25,919
+Sie werden immer von der Schwerkraft in Richtung seiner Mitte gezogen und sie kleiner zu machen bewegte sich nicht dorthin, wo die Mitte war.
+
+38
+00:02:25,920 --> 00:02:32,259
+Aber auch die Stärke dieser Kraft, die sie in die Mitte der Sonne zog, blieb gleich.
+
+39
+00:02:32,260 --> 00:02:35,619
+Das gibt uns einen Hinweis darauf, was unten ist.
+
+40
+00:02:35,620 --> 00:02:40,259
+Der Schlüssel ist die andere Sache, die wir nicht geändert haben: Masse.
+
+41
+00:02:40,260 --> 00:02:45,459
+Die Masse ist ein Maß dafür, wie schwer es ist, etwas zu beschleunigen;  seine Bewegung zu ändern.
+
+42
+00:02:45,460 --> 00:02:50,259
+Jetzt, gerade jetzt, haben diese beiden Bälle keine Bewegung relativ zu mir.
+
+43
+00:02:50,260 --> 00:02:54,339
+Um diese hohle Plastikkugel herumzuschlagen
+
+44
+00:02:54,340 --> 00:03:01,419
+ist ziemlich einfach, aber das Gleiche mit dieser massiven Stahlkugel zu tun,
+
+45
+00:03:01,420 --> 00:03:03,119
+ist viel schwieriger.
+
+46
+00:03:03,120 --> 00:03:06,479
+Jetzt haben Schwerkraft und Gewicht nichts damit zu tun.
+
+47
+00:03:06,480 --> 00:03:10,279
+Die Schwerkraft wirkt nach unten, nicht gegen mein horizontales Schlagen.
+
+48
+00:03:10,280 --> 00:03:16,598
+Natürlich trägt die Schwerkraft zur Reibung bei, aber Reibung arbeitet gegen mich, wenn ich anfange, den Ball zu bewegen,
+
+49
+00:03:16,599 --> 00:03:19,018
+aber arbeitet mit mir, wenn ich den Ball stoppe.
+
+50
+00:03:19,019 --> 00:03:23,078
+Und die Stahlkugel ist schwerer zu stoppen als die Plastikkugel.
+
+51
+00:03:23,079 --> 00:03:27,148
+Der Unterschied liegt in der Masse.  Die Stahlkugel ist massiver.
+
+52
+00:03:27,149 --> 00:03:30,939
+Sie ist widerstandsfähiger gegen Bewegungsänderungen.
+
+53
+00:03:30,940 --> 00:03:36,699
+Masse ist eine intrinsische Eigenschaft;  es hängt nicht davon ab, was in der Nähe ist oder sich von Ort zu Ort ändert.
+
+54
+00:03:36,700 --> 00:03:40,619
+Es kann manchmal als die Menge an Materie angesehen werden, die etwas hat.
+
+55
+00:03:40,620 --> 00:03:43,959
+Ihre Masse ist die gleiche, unabhängig davon, wo Sie sich befinden.
+
+56
+00:03:43,960 --> 00:03:47,999
+Auf dem Mond, auf der Erde, mitten im intergalaktischen Raum schwebend.
+
+57
+00:03:48,000 --> 00:03:53,819
+Aber all dies gesagt, die Masse scheint sich darum zu kümmern, was in der Nähe ist.
+
+58
+00:03:53,820 --> 00:03:57,159
+Masse liebt Gesellschaft.
+
+59
+00:03:57,160 --> 00:04:03,608
+Dinge mit Masse und/oder Energie werden durch eine Kraft zusammengezogen, die wir Schwerkraft nennen.
+
+60
+00:04:03,609 --> 00:04:08,639
+Das Gefühl der Schwerkraft ist nur, dass Sie und die Erde voneinander angezogen werden.
+
+61
+00:04:08,640 --> 00:04:13,479
+Jetzt zieht jeder Teil eines Objekts mit Masse andere Teile an.
+
+62
+00:04:13,480 --> 00:04:19,018
+Der Durchschnitt all dieses Ziehens ist eine Anziehung zwischen Massenschwerpunkten.
+
+63
+00:04:19,019 --> 00:04:26,579
+Riesige Dinge wie die Erde üben eine offensichtliche Anziehungskraft aus, aber alles tut es.  Sogar ein Baseball.
+
+64
+00:04:26,580 --> 00:04:36,159
+Diese beiden Baseballs werden durch ihre eigene Schwerkraft zusammengezogen.
+
+65
+00:04:36,160 --> 00:04:43,239
+Abgesehen davon, dass ihre Massen so klein sind, ist die Kraft winzig und kann die Reibung nicht überwinden oder Luft aus dem Weg schieben.
+
+66
+00:04:43,240 --> 00:04:44,888
+Sie werden niemals zusammenkommen.
+
+67
+00:04:44,889 --> 00:04:52,029
+Aber wenn Sie zwei Baseballbälle einen Meter voneinander entfernt in die Mitte eines leeren Raums stellen würden, wo keine anderen Kräfte auf sie einwirken könnten,
+
+68
+00:04:52,030 --> 00:04:57,129
+würden sie buchstäblich zusammenfallen und kollidieren.
+
+69
+00:04:57,130 --> 00:05:01,598
+Es würde drei Tage dauern, bis es geschah, aber es würde passieren.
+
+70
+00:05:01,599 --> 00:05:08,319
+Isaac Newton fand heraus, dass die Stärke der Kraft, die zwei Dinge zusammenbringt, gleich dem Produkt ihrer Massen
+
+71
+00:05:08,320 --> 00:05:15,779
+dividiert durch den Abstand zwischen ihren Massenschwerpunkten im Quadrat mal dem großen G, der Gravitationskonstante, ist.
+
+72
+00:05:15,780 --> 00:05:20,999
+Wenn Sie eines von zwei Objekten massiver machen oder sie näher zusammenrücken, wird die Kraft
+
+73
+00:05:21,000 --> 00:05:26,039
+stärker und diese Anziehungskraft ist das, was wir Gewicht nennen.
+
+74
+00:05:26,040 --> 00:05:31,459
+Masse ist also intrinsisch, während Gewicht von der Umgebung abhängt.
+
+75
+00:05:31,460 --> 00:05:35,419
+Nun passiert etwas Seltsames, wenn Sie sich auf den meisten Waagen wiegen.
+
+76
+00:05:35,420 --> 00:05:39,639
+Gewicht ist eine Kraft, aber Waagen zeigen Pfund oder Kilogramm an,
+
+77
+00:05:39,640 --> 00:05:41,979
+die Einheiten der Masse sind.
+
+78
+00:05:41,980 --> 00:05:44,839
+Was passiert ist, dass eine Waage
+
+79
+00:05:44,840 --> 00:05:46,699
+durch eine Kraft aktiviert wird.
+
+80
+00:05:46,700 --> 00:05:47,289
+Jede Kraft.
+
+81
+00:05:47,290 --> 00:05:52,249
+Es muss nicht durch die Schwerkraft verursacht werden.  Die Skala zeigt dann an, wie viel Masse
+
+82
+00:05:52,250 --> 00:05:57,949
+in der Nähe der Erdoberfläche mit der erfassten Kraft von der Erde angezogen würde.
+
+83
+00:05:57,950 --> 00:06:04,039
+Da nun Waagen dazu neigen, von Menschen auf der Erdoberfläche verwendet zu werden, auf die die einzige einwirkende Kraft die Schwerkraft ist,
+
+84
+00:06:04,040 --> 00:06:12,949
+neigen sie dazu, nicht sehr weit entfernt zu sein.  Aber sie lassen sich leicht austricksen und führen weiter zur Verwechslung von Masse und Gewicht.
+
+85
+00:06:12,950 --> 00:06:20,839
+Beachten Sie, dass das Gewicht gegenseitig ist.  Sie werden von der Erde mit der gleichen Kraft heruntergezogen, die Sie auf der Erde hochziehen.
+
+86
+00:06:20,840 --> 00:06:23,989
+Laut einer Waage wiege ich
+
+87
+00:06:23,990 --> 00:06:30,759
+auf
+
+88
+00:06:30,760 --> 00:06:36,699
+der Erde 180 Pfund. Und die Erde wiegt 180 Pfund auf mir.
+
+89
+00:06:36,700 --> 00:06:41,559
+Aber weil die Masse der Erde so viel größer ist als meine eigene, und
+
+90
+00:06:41,560 --> 00:06:46,809
+weil je massiver etwas ist, desto mehr widersteht es einer Bewegung,
+
+91
+00:06:46,810 --> 00:06:51,159
+beschleunigen mich unsere gleichen und entgegengesetzten Gewichtskräfte viel mehr als die Erde.
+
+92
+00:06:51,160 --> 00:06:58,869
+Wenn Sie einen Bleistift aus einer Höhe von 6 Fuß fallen lassen, fällt der Bleistift nicht einfach auf die Erde.  Genauer gesagt
+
+93
+00:06:58,870 --> 00:07:01,269
+kommen beide zusammen.
+
+94
+00:07:01,270 --> 00:07:03,719
+Sie werden von gleichen Kräften angezogen,
+
+95
+00:07:03,720 --> 00:07:06,249
+aber die gleiche Kraft bewegt den Bleistift
+
+96
+00:07:06,250 --> 00:07:11,439
+viel mehr als die Erde.  Wenn Sie den Bleistift loslassen, wird die Erde
+
+97
+00:07:11,440 --> 00:07:17,459
+durch die eigene Schwerkraft des Bleistifts buchstäblich zum Bleistift hochgezogen, eine Entfernung, die etwa 9 Billionstel
+
+98
+00:07:17,460 --> 00:07:20,019
+der Breite eines Protons entspricht.
+
+99
+00:07:20,020 --> 00:07:26,579
+Dieselbe Kraft bewegt den Bleistift über die verbleibende Distanz, die immer noch ungefähr zwei Meter beträgt.
+
+100
+00:07:26,580 --> 00:07:33,069
+Auf der Höhe der Umlaufbahn der Internationalen Raumstation werden Sie und die Erde etwa
+
+101
+00:07:33,070 --> 00:07:39,819
+10 % weniger angezogen als an der Oberfläche;  ungefähr acht Komma achtmal deine Masse, aber nicht null.
+
+102
+00:07:39,820 --> 00:07:47,469
+Aus diesem Grund sind schwerelose Astronauten in der Schwerelosigkeit weder schwerelos noch in der Schwerelosigkeit.
+
+103
+00:07:47,470 --> 00:07:51,969
+Ihre Gewichtskraft bringt sie und die Erde nicht zusammen, weil sie sich horizontal
+
+104
+00:07:51,970 --> 00:07:58,299
+so schnell bewegen, dass sie genauso schnell fallen, wie sich die Erdoberfläche von ihnen wegkrümmt.
+
+105
+00:07:58,300 --> 00:08:03,189
+Und obwohl sie 90 Prozent der Schwerkraft erfahren, die Sie und ich gerade fühlen
+
+106
+00:08:03,190 --> 00:08:04,749
+(deshalb fliegen sie nicht einfach weg),
+
+107
+00:08:04,750 --> 00:08:12,309
+gibt es keine Kräfte, die G-Kräfte genannt werden, um ihrem Gewicht zu widerstehen, da alles um sie herum  fällt auch.
+
+108
+00:08:12,310 --> 00:08:17,079
+Es ist der Widerstand gegen Ihre Gewichtskraft, Stress und
+
+109
+00:08:17,080 --> 00:08:24,129
+Verformung, der erforderlich ist, damit Sie Gewicht spüren.  Was Astronauten im Orbit eigentlich fehlt, ist
+
+110
+00:08:24,130 --> 00:08:26,349
+scheinbares Gewicht.
+
+111
+00:08:26,350 --> 00:08:29,459
+Ebenso hat ein Heliumballon Gewicht.
+
+112
+00:08:29,460 --> 00:08:36,028
+Ich meine, es besteht aus Materie, es hat eindeutig Masse, also wird es von der Erde angezogen.
+
+113
+00:08:36,029 --> 00:08:43,978
+Versuchen wir, seine Gewichtskraft zu messen.
+
+114
+00:08:43,979 --> 00:08:46,889
+Okay, es hat ein negatives scheinbares Gewicht.
+
+115
+00:08:46,890 --> 00:08:52,859
+Das liegt daran, dass seine Anziehungskraft auf die Erde schwächer ist als die Auftriebskräfte aus der Luft um ihn herum, die ihn nach oben drücken.
+
+116
+00:08:52,860 --> 00:08:54,499
+Während es sich nach oben bewegt
+
+117
+00:08:54,500 --> 00:09:02,278
+, drückt es Luftmoleküle nach unten, aber sie übertragen diese Kraft weit.  Nicht nur direkt auf die Waage.
+
+118
+00:09:02,279 --> 00:09:08,189
+Auftriebskräfte werden dadurch verursacht, dass beim Eintauchen in eine Flüssigkeit wie Wasser oder Luft die
+
+119
+00:09:08,190 --> 00:09:10,979
+tiefer liegenden Moleküle einen höheren Druck haben.
+
+120
+00:09:10,980 --> 00:09:13,439
+Sie werden durch das Gewicht aller Moleküle
+
+121
+00:09:13,440 --> 00:09:18,569
+über ihnen gedrückt und sind näher an der Erde, sodass sie mit einer stärkeren Kraft dorthin gezogen werden.  Jetzt bedeutet ein größerer Druck,
+
+122
+00:09:18,570 --> 00:09:23,458
+dass sie einen größeren Schlag haben, wenn sie mit Dingen kollidieren.
+
+123
+00:09:23,459 --> 00:09:25,619
+Horizontal heben sich diese Kollisionen also auf,
+
+124
+00:09:25,620 --> 00:09:32,549
+aber vertikal gewinnen die stärkeren Kollisionen von unten und sorgen für Auftrieb, eine Auftriebskraft.
+
+125
+00:09:32,550 --> 00:09:38,609
+Das passiert sogar am eigenen Körper.  Über seine Oberfläche hebt dich Luft mit einer Kraft von etwa einem
+
+126
+00:09:38,610 --> 00:09:45,838
+Newton, was der Gewichtskraft eines Apfels entspricht.  Wenn Sie sich also in einem Vakuum wiegen würden, würden Sie ungefähr
+
+127
+00:09:45,839 --> 00:09:48,269
+so viel mehr wiege
+
+128
+00:09:48,270 --> 00:09:54,679
+.  Aber das ist noch nicht alles. Die Drehung der Erde bewirkt, dass sie sich am Äquator ausbeult. Je näher Sie sich also befinden,
+
+129
+00:09:54,680 --> 00:10:02,099
+desto weiter Sie vom Massenmittelpunkt der Erde entfernt sind und desto weniger Ihr tatsächliches Gravitationsgewicht
+
+130
+00:10:02,100 --> 00:10:04,289
+sinkt, ändert sich ständig, ich meine,
+
+131
+00:10:04,290 --> 00:10:11,249
+wo ist der Erdmittelpunkt von  Masse?  Es wäre immer das gleiche wie die geometrische Mitte der Erde, wenn die
+
+132
+00:10:11,250 --> 00:10:18,379
+Zusammensetzung der Erde einheitlich wäre, aber die Erde enthält Taschen aus massivem Gestein in verschiedenen Tiefen Wasserberge
+
+133
+00:10:18,380 --> 00:10:24,239
+Sie bewegt sich, verändert das Innere und die Luft und das saisonale Eis, und obwohl sie weit entfernt sind, erstreckt sich die
+
+134
+00:10:24,240 --> 00:10:31,708
+Schwerkraft für immer von allem  also der mond die sonne die planeten sie alle ziehen dich
+
+135
+00:10:31,709 --> 00:10:32,819
+unwesentlich an,
+
+136
+00:10:32,820 --> 00:10:39,659
+aber wahrhaftig.  Sie wiegen etwa ein Millionstel Ihres Gewichts weniger, wenn der Mond direkt über Ihnen steht.
+
+137
+00:10:39,660 --> 00:10:47,199
+Dieses klobige, sich verschiebende Gleichgewicht von Material auf der Erde und überall sonst im Universum bedeutet, dass sich unten
+
+138
+00:10:47,200 --> 00:10:48,249
+immer
+
+139
+00:10:48,250 --> 00:10:51,099
+auf der Oberseite der
+
+140
+00:10:51,100 --> 00:10:57,039
+Erddrehung ändert, was Sie für die Richtung halten  von seinem Massenmittelpunkt nach unten, weil der Schub, den Sie von der
+
+141
+00:10:57,040 --> 00:11:01,929
+Erddrehung erhalten, Sie leicht anzuheben scheint, indem Sie Ihr scheinbares Gewicht reduzieren und sich
+
+142
+00:11:01,930 --> 00:11:03,309
+zum Äquator hin beugen.
+
+143
+00:11:03,310 --> 00:11:10,929
+Das Nettoergebnis ist eine scheinbare Gewichtsreduktion am Äquator von etwa einem halben Prozent auf einer Waage  Wenn
+
+144
+00:11:10,930 --> 00:11:14,768
+Sie vermuten, dass Ihre Masse an den Polen 200 Pfund betragen muss, wird angenommen, dass Sie
+
+145
+00:11:14,769 --> 00:11:18,309
+am Äquator 199 Pfund sind.  Der
+
+146
+00:11:18,310 --> 00:11:25,208
+in der Physik so oft verwendete 9,8-Multiplikator wird basierend darauf berechnet, wie sich diese Faktoren auf jemanden bei 45 Grad Breite auswirken.
+
+147
+00:11:25,209 --> 00:11:30,819
+All diese Einflüsse auf die Richtung nach unten führen zu einer vertikalen Gesamtauslenkung.
+
+148
+00:11:30,820 --> 00:11:35,049
+Das sind überall auf der Erde immer höchstens ein paar Bogensekunden.
+
+149
+00:11:35,050 --> 00:11:42,429
+Das ist nicht genug, um es zu fühlen, aber Richtungs- und Stärkeänderungen können verwendet werden, um die Form des Meeresbodens zu studieren
+
+150
+00:11:42,430 --> 00:11:48,398
+.
+
+151
+00:11:48,399 --> 00:11:54,578
+Der Punkt ist, dass alle unsere Daunen nicht ein Haufen radialsymmetrischer Linien sind.
+
+152
+00:11:54,579 --> 00:11:57,549
+Daunen sind ein ungekämmtes Durcheinander.
+
+153
+00:11:57,550 --> 00:12:03,639
+Da Feststoffe nicht fließen, können sie Formen haben, die dem nicht viel Beachtung schenken, aber Wasser kann fließen,
+
+154
+00:12:03,640 --> 00:12:11,379
+sodass Einflüsse wie Wind und Gezeiten ignoriert werden. Die Oberfläche von Ozeanen, Seen und Pfützen ist immer senkrecht
+
+155
+00:12:11,380 --> 00:12:17,859
+nach unten, wenn Wasser durch Land fließen könnte  , oder wenn die Erde in Wasser getaucht
+
+156
+00:12:17,860 --> 00:12:21,789
+wäre, wäre die Schwerkraft entlang ihrer holprigen Oberfläche überall gleich.
+
+157
+00:12:21,790 --> 00:12:26,708
+Eine solche Oberfläche wird Geoid genannt und kann in jeder Höhe gezeichnet werden.
+
+158
+00:12:26,709 --> 00:12:32,458
+Wenn Sie einen Tisch bauen wollten, der die Erde vollständig umschließt, müsste er rollen  Welligkeit
+
+159
+00:12:32,459 --> 00:12:35,889
+Z' fast 100 Meter an einigen Stellen, um
+
+160
+00:12:35,890 --> 00:12:40,239
+eben zu sein, damit ein Ball, der irgendwo darauf platziert wird, nicht rollen würde.
+
+161
+00:12:40,240 --> 00:12:44,109
+Hier ist das G der Erde. Ich habe tausendmal übertrieben.
+
+162
+00:12:44,110 --> 00:12:48,179
+Sie würden ungefähr ein Hundertstel Prozent weniger ein paar Gramm wiegen  hier?
+
+163
+00:12:48,180 --> 00:12:54,258
+Dann würden Sie hier sagen, wo die Schwerkraft etwas stärker ist, ist die Stärke und Richtung.
+
+164
+00:12:54,259 --> 00:12:59,488
+Abwärts ist ortsabhängig und ändert sich im Laufe der Zeit.
+
+165
+00:12:59,489 --> 00:13:04,738
+Abwärts ist also ein fluktuierender Vektor einfach genug, außer?
+
+166
+00:13:04,739 --> 00:13:09,539
+Warum sollte Materie überhaupt Materie anziehen?
+
+167
+00:13:09,540 --> 00:13:14,368
+Isaac Newton konnte die Anziehung beschreiben, aber nicht erklären, die
+
+168
+00:13:14,369 --> 00:13:20,638
+Menschheit kam ihr näher, aber als Albert Einstein seine allgemeine Relativitätstheorie vorstellte,
+
+169
+00:13:20,639 --> 00:13:24,328
+dachte Einstein viel darüber nach, dass alles mit der gleichen Geschwindigkeit zu Boden fällt,
+
+170
+00:13:24,329 --> 00:13:26,508
+egal
+
+171
+00:13:26,509 --> 00:13:33,108
+wie massiv etwas ist, wenn es fallen gelassen wird  Es wird in Richtung der Erde beschleunigen und mit
+
+172
+00:13:33,109 --> 00:13:37,588
+jeder Sekunde, in der es fällt, etwa 9,8 Meter pro Sekunde gewinnen.  Das bedeutet, dass ein Hammer
+
+173
+00:13:37,589 --> 00:13:47,818
+, der ziemlich massiv ist, und eine nicht so massive Feder, wenn sie aus derselben Höhe fallen gelassen wird, gleichzeitig auf den Boden trifft.
+
+174
+00:13:47,819 --> 00:13:50,278
+Okay, was gerade passiert ist ...
+
+175
+00:13:50,279 --> 00:13:51,988
+war ein "Luft"-Ror.
+
+176
+00:13:51,989 --> 00:13:53,038
+unbeholfenes Lachen
+
+177
+00:13:53,039 --> 00:13:56,548
+Um durch die Luft zu fallen, muss etwas Luft aus dem Weg
+
+178
+00:13:56,549 --> 00:14:01,888
+räumen. Aber wenn es eine große Oberfläche und eine geringe Gewichtskraft hat, wird es viel Luft zum Bewegen haben,
+
+179
+00:14:01,889 --> 00:14:07,459
+aber nicht in der Lage sein, diese Luft zu bewegen  sehr schnell.  In einem Vakuum fallen die Dinge unabhängig von der Masse mit der gleichen Geschwindigkeit
+
+180
+00:14:07,460 --> 00:14:14,039
+.  Dies wurde bekanntlich von Apollo 15-Kommandant David Scott auf dem Mond demonstriert.
+
+181
+00:14:14,040 --> 00:14:20,279
+Und ich, äh, setze die beiden hier ab und hoffe, dass sie gleichzeitig auf dem Boden aufschlagen.
+
+182
+00:14:20,280 --> 00:14:21,259
+Wie wäre es damit?
+
+183
+00:14:21,260 --> 00:14:27,148
+Das ist seltsam, oder?  Ich meine, wenn ein massiveres Objekt mit einer größeren Kraft gezogen wird,
+
+184
+00:14:27,149 --> 00:14:31,409
+sollte es nicht schneller fallen?  Nun, Newtons Erklärung war einfach:
+
+185
+00:14:31,410 --> 00:14:34,588
+Größere Massen werden mit größeren Kräften angezogen,
+
+186
+00:14:34,589 --> 00:14:46,768
+benötigen aber auch mehr Kraft, um beschleunigt zu werden, genauso wie ein weniger massives Ding
+
+187
+00:14:46,769 --> 00:14:52,498
+100-mal mehr, also fällt alles mit der gleichen Geschwindigkeit auf die Erde.
+
+188
+00:14:52,499 --> 00:14:56,969
+Was für ein lustiger Zufall, oder?
+
+189
+00:14:56,970 --> 00:14:58,738
+Vielleicht hat
+
+190
+00:14:58,739 --> 00:15:03,888
+Einstein nicht erkannt, dass es einen anderen Weg gibt, wie Dinge scheinbar
+
+191
+00:15:03,889 --> 00:15:05,398
+aus ihren Massen zusammenfallen.
+
+192
+00:15:05,399 --> 00:15:13,318
+Stellen Sie sich eine Feder und einen Hammer vor, die in einem Raum im Raum schweben, wenn der Raum plötzlich mit 9,8
+
+193
+00:15:13,319 --> 00:15:18,719
+M/s^2 beschleunigt wird, werden Feder und Hammer  gleichzeitig auf dem Boden
+
+194
+00:15:18,720 --> 00:15:24,659
+aufschlagen, egal ob es der Raum ist, der ihnen entgegenkommt, oder die Schwerkraft, die plötzlich eingeschaltet wird.
+
+195
+00:15:24,660 --> 00:15:28,078
+Kein Objekt wird irgendeine Kraft spüren, die es drückt.
+
+196
+00:15:28,079 --> 00:15:34,018
+Es gibt keine Möglichkeit zu sagen, was davon passiert.  Dies ist Einsteins berühmtes
+
+197
+00:15:34,019 --> 00:15:35,398
+Äquivalenzprinzip.
+
+198
+00:15:35,399 --> 00:15:40,438
+Er gab einmal zu, dass sein größter Gedanke jemals der eines Mannes war, der
+
+199
+00:15:40,439 --> 00:15:42,628
+von einem Dach
+
+200
+00:15:42,629 --> 00:15:49,528
+fällt. Während des Sturzes würde der Mann jedoch keine Kräfte auf sich spüren.  Er beschleunigt den
+
+201
+00:15:49,529 --> 00:15:50,909
+freien Fall ist nicht zu unterscheiden
+
+202
+00:15:50,910 --> 00:15:57,688
+von alleine im Weltraum schweben davon keine Kräfte auf dich zu haben von nicht bewegt zu werden
+
+203
+00:15:57,689 --> 00:16:03,808
+Was, wenn die Schwerkraft überhaupt keine Kraft ist, was, wenn Dinge fallen, nicht weil sie geschoben oder gezogen werden,
+
+204
+00:16:03,809 --> 00:16:08,099
+sondern weil sie es nicht sind  geschoben oder gezogen werden
+
+205
+00:16:08,100 --> 00:16:13,648
+Um zu sehen, wie das sein könnte, müssen wir über gerade Linien sprechen.
+
+206
+00:16:13,649 --> 00:16:17,488
+Was ich hier habe, ist ein einziehbarer Ausweishalter.
+
+207
+00:16:17,489 --> 00:16:20,698
+Dies ist eine großartige Möglichkeit, um gerade Wege zu testen,
+
+208
+00:16:20,699 --> 00:16:24,168
+da die Schnur immer straff gehalten wird, die Karte, die
+
+209
+00:16:24,169 --> 00:16:26,748
+ich hinter mir habe  zwei Linien darauf gezeichnet
+
+210
+00:16:26,749 --> 00:16:32,058
+Und wenn, während ich die Schnur herausziehe, sie immer zwischen diesen beiden Linien
+
+211
+00:16:32,059 --> 00:16:34,859
+bleibt, werde ich wissen, dass ich mich nie umgedreht habe,
+
+212
+00:16:34,860 --> 00:16:40,948
+während ich daran gezogen habe, weil jede Drehung zu einem anderen Winkel zwischen den Linien auf der Karte und der Schnur führen wird
+
+213
+00:16:40,949 --> 00:16:47,398
+Jetzt  Wenn ich zwei davon auf einen flachen Tisch lege und sie herausziehe, immer darauf achtend, dass sie geradeaus gehen, werden
+
+214
+00:16:47,399 --> 00:16:55,798
+sie sich nie treffen.  Sie werden für immer parallel sein, aber jetzt legen wir sie auf eine Kugel, eine gekrümmte Oberfläche.
+
+215
+00:16:55,799 --> 00:17:03,058
+Wieder ziehe ich beide Saiten nach vorne und achte darauf, dass sie immer gerade herausgezogen werden.  Kein Drehen
+
+216
+00:17:03,059 --> 00:17:06,129
+Warte, sie kamen zusammen
+
+217
+00:17:06,130 --> 00:17:08,709
+Nun, sie drehten sich nicht um
+
+218
+00:17:08,710 --> 00:17:16,389
+Vielleicht gibt es eine Art seltsame Kraft, die meine Hände zusammengezogen hat und genau wie die Schwerkraft.  Ich habe es nicht gespürt, aber es ist passiert.
+
+219
+00:17:16,390 --> 00:17:17,559
+Nein.
+
+220
+00:17:17,560 --> 00:17:23,139
+Was passiert ist, war nicht das Ergebnis einer Kraft, sondern nur ein natürliches Ergebnis davon?
+
+221
+00:17:23,140 --> 00:17:30,639
+Krümmung, an die Sie vielleicht denken, warten Sie eine Sekunde, sind diese wirklich geraden Linien.  Ich meine, sie sehen für mich nicht so gerade aus
+
+222
+00:17:30,640 --> 00:17:38,439
+. Was ist, wenn sie sich nur entlang von Breitengraden bewegt haben, dann sind sie nie zusammengekommen und diese sehen verdammt gerade aus.
+
+223
+00:17:38,440 --> 00:17:46,269
+Aber sie sind keine gerade Linie, die sich nie dreht, und obwohl Breitengradlinien  Auf den ersten Blick geradeaus sehen
+
+224
+00:17:46,270 --> 00:17:48,279
+Nach einem erfordert
+
+225
+00:17:48,280 --> 00:17:54,329
+Drehen, um gerade Linienpfade auf Oberflächen zu finden, egal ob sie so flach oder gekrümmt sind.
+
+226
+00:17:54,330 --> 00:17:58,319
+Ich liebe den Bandtest.  Jetzt können Sie ein echtes Farbband verwenden.
+
+227
+00:17:58,320 --> 00:18:04,479
+Aber ich habe festgestellt, dass ein Papierstreifen funktioniert.  Noch besser.  Schauen wir uns diesen Weg gleich hier an.
+
+228
+00:18:04,480 --> 00:18:10,319
+Er ist zuerst gerade, aber dann krümmt er sich jetzt, wenn zwei Personen diese Kurve entlang fahren.
+
+229
+00:18:10,320 --> 00:18:16,989
+Und sie wollen zusammenbleiben, dass die Person auf der Innenseite eine kürzere Strecke zurücklegen muss als die Person auf der Innenseite  außen
+
+230
+00:18:16,990 --> 00:18:20,429
+Da beide Seiten dieses Papierstreifens ihre Länge nicht ändern können,
+
+231
+00:18:20,430 --> 00:18:25,599
+helfen sie uns, einen geraden Weg zu finden, wenn der Papierstreifen flach liegen kann.
+
+232
+00:18:25,600 --> 00:18:29,229
+Wir wissen, dass wir eine gerade Linie gefunden haben, und wie Sie sehen können, kann
+
+233
+00:18:29,230 --> 00:18:32,889
+der Streifen liegen  flach und folgen Sie dem geraden Teil dieses Pfades
+
+234
+00:18:32,890 --> 00:18:36,339
+Aber wenn es um die Kurve geht, um dem Pfad jetzt zu folgen
+
+235
+00:18:36,340 --> 00:18:40,329
+Der Streifen hat zu viel Material auf der Innenseite und dieses Material
+
+236
+00:18:40,330 --> 00:18:47,769
+bündelt sich und verlässt die Ebene, daher wissen wir, dass dieser Teil von  Der Pfad ist nicht gerade
+
+237
+00:18:47,770 --> 00:18:52,659
+. Verwenden wir den Bandtest, um gerade Linien auf der Oberfläche eines Kegels zu finden.
+
+238
+00:18:52,660 --> 00:18:58,929
+Nun, so wie es aussieht, wenn es direkt von der Basis zur Spitze ausgerichtet ist, scheint es, als wäre es gerade und sicher genug.
+
+239
+00:18:58,930 --> 00:19:05,079
+Ja, das Band liegt flach auf  dieser Weg, aber was über  ut einen Ring um den Kegel?
+
+240
+00:19:05,080 --> 00:19:11,459
+Nein funktioniert nicht kürzere Distanzen näher an der Spitze des Kegels bedeuten, dass oben zu viel Band oben ist
+
+241
+00:19:11,460 --> 00:19:13,179
+Also liegt es nicht flach
+
+242
+00:19:13,180 --> 00:19:20,919
+Mal sehen, was außer diesem Brunnen noch da ist, wenn ich hier anfange und nur das Band zulasse
+
+243
+00:19:20,920 --> 00:19:22,689
+flach liegen
+
+244
+00:19:22,690 --> 00:19:26,428
+Huh, ich bekomme eine etwas kurvig aussehende Form wie diese,
+
+245
+00:19:26,429 --> 00:19:33,189
+ich sage kurvig aussehend, denn während jemand an der Basis sagt, dieser Pfad scheint nach oben zu gehen.
+
+246
+00:19:33,190 --> 00:19:39,939
+Verlangsamen Sie die Richtung und fallen Sie dann immer schneller herunter, da sich ein Band auf einem solchen Pfad befindet  flach
+
+247
+00:19:39,940 --> 00:19:44,109
+Es ist eigentlich für Bewohner auf
+
+248
+00:19:44,110 --> 00:19:48,058
+der Kegeloberfläche Perfekt gerade, wenn wir den Pfad des Bandes bis zum Kegel verfolgen
+
+249
+00:19:48,059 --> 00:19:56,529
+Wir können dies deutlich sehen, weil ein Kegel abgeflacht werden kann Eine gerade Linie auf einer gekrümmten Oberfläche wird als Geodäte bezeichnet.
+
+250
+00:19:56,530 --> 00:20:01,509
+Hier ist eine Geodäte auf einer Kugel  Der Äquator ist einer.
+
+251
+00:20:01,510 --> 00:20:05,369
+Hier ist noch ein Breitengrad. Es ist keine geodätische
+
+252
+00:20:05,370 --> 00:20:10,089
+Linie. Es ist keine gerade Linie, um zu sehen, warum versuchen wir, ihm mit dem Band zu folgen. Du
+
+253
+00:20:10,090 --> 00:20:13,329
+weißt, was ich halten muss
+
+254
+00:20:13,330 --> 00:20:17,499
+als wir  gehe nach oben
+
+255
+00:20:17,500 --> 00:20:19,799
+Es ist also zu viel Material auf dem Band hier oben
+
+256
+00:20:19,800 --> 00:20:24,759
+und es verlässt die Oberfläche. Dieser Pfad enthält Kurven und um sich zu drehen, muss eine
+
+257
+00:20:24,760 --> 00:20:27,749
+Kraft auf dich wirken, wenn keine Kräfte vorhanden sind
+
+258
+00:20:27,750 --> 00:20:35,349
+genau nach Osten, fällt dann aber nach
+
+259
+00:20:35,350 --> 00:20:37,389
+Süden
+
+260
+00:20:37,390 --> 00:20:39,939
+Falls
+
+261
+00:20:39,940 --> 00:20:56,589
+Einstein erkannte, dass die Krümmung dazu führen kann, dass sich Dinge scheinbar
+
+262
+00:20:56,590 --> 00:21:02,369
+anziehen  kommen Sie nicht so für etwas in Ruhe zusammen.  Wie beginnt das Fallen?
+
+263
+00:21:02,370 --> 00:21:07,989
+Ich meine, das Ding muss sich in diese Richtung bewegen, aber es ruht richtig gut
+
+264
+00:21:07,990 --> 00:21:08,489
+Ja,
+
+265
+00:21:08,490 --> 00:21:14,649
+aber es ruht nur im Raum und das ist nicht die ganze Geschichte
+
+266
+00:21:14,650 --> 00:21:23,319
+Eine vollständige Beschreibung muss auch beschreiben
+
+267
+00:21:23,320 --> 00:21:30,279
+Wann diese vier Dimensionen zusammen die Umgebung bilden, in der alles in unserem Universum passiert
+
+268
+00:21:30,280 --> 00:21:31,659
+Raum-Zeit
+
+269
+00:21:31,660 --> 00:21:39,009
+Da wir mit nur einer räumlichen Dimension nach oben und unten von einem fallenden Bleistift sprechen können, können wir ein Stück Papier dazu verwenden  Modell
+
+270
+00:21:39,010 --> 00:21:43,659
+Raum-Zeit dafür.  Okay, also haben wir auf und ab, aber wir müssen eine andere Richtung hinzufügen, in der sich
+
+271
+00:21:43,660 --> 00:21:46,299
+der Bleistift in der Zeit bewegt.
+
+272
+00:21:46,300 --> 00:21:50,339
+Wenn jetzt keine Kräfte auf den Bleistift einwirken, bewegt er sich nicht durch den Raum.
+
+273
+00:21:50,340 --> 00:21:54,839
+Er wird nur älter und wie Sie sehen können, wenn überhaupt  es wird älter.
+
+274
+00:21:54,840 --> 00:22:00,639
+Es wird nicht fallen, wenn die Raumzeit flach wäre, wenn ich den Bleistift loslasse,
+
+275
+00:22:00,640 --> 00:22:08,169
+würde es nirgendwohin gehen, aber jetzt lassen wir die Erde, die massiv ist, die Raumzeit manipulieren, sagen wir in einen
+
+276
+00:22:08,170 --> 00:22:09,189
+Kegel
+
+277
+00:22:09,190 --> 00:22:14,079
+Jetzt mit  es wirken keine Kräfte, jeder Teil des Bleistifts folgt einer geraden Linie.
+
+278
+00:22:14,080 --> 00:22:20,859
+Aber auf einem Kegel, wie wir zuvor gesehen haben, sieht ein solcher Pfad so aus, dass er fällt.
+
+279
+00:22:20,860 --> 00:22:25,209
+Dies liegt daran, dass die Entfernungen um den Kegel herum kürzer sind. Die
+
+280
+00:22:25,210 --> 00:22:29,499
+Zeit läuft schneller weiter von einem Massiv  Objekt, sondern um geradeaus zu gehen
+
+281
+00:22:29,500 --> 00:22:34,629
+Nicht drehen Jeder Teil des Bleistifts muss die gleiche Strecke in der Raumzeit
+
+282
+00:22:34,630 --> 00:22:43,749
+wie dieser
+
+283
+00:22:43,750 --> 00:22:50,258
+zurücklegen  Zeit ist eine Reihe von Scheiben aus dieser Entwicklung der Bleistifte
+
+284
+00:22:50,259 --> 00:22:58,148
+kraftfreier Geod  Deshalb fällt es nicht auf, zu schieben oder zu ziehen, nur die natürliche Tendenz des Bleistifts, einer geraden Linie zu folgen,
+
+285
+00:22:58,149 --> 00:23:04,869
+bis jetzt etwas darauf einwirkt.  Wir haben nur eine räumliche und eine zeitliche Dimension verwendet, weil die
+
+286
+00:23:04,870 --> 00:23:12,099
+Visualisierung unserer Universen, drei räumliche und eine zeitliche, uns über die Grenzen dessen hinausführen würde, was auf Papier oder Bildschirmen gezeigt werden könnte,
+
+287
+00:23:12,100 --> 00:23:13,388
+aber die Mathematik
+
+288
+00:23:13,389 --> 00:23:15,158
+kann uns dorthin bringen Die
+
+289
+00:23:15,159 --> 00:23:19,148
+allgemeine Relativitätstheorie ermöglicht es uns zu berechnen, wie  viel Masse und Energie
+
+290
+00:23:19,149 --> 00:23:26,648
+gekrümmte Raumzeit und wurde verwendet, um Dinge zu erklären, die Newtons ältere Theorie des Fallens als Ergebnis von
+
+291
+00:23:26,649 --> 00:23:34,839
+Kräften nicht mögen konnte, Anomalien in der Umlaufbahn des Quecksilbers, das die Sonne am nächsten umkreist und daher am stärksten vom Einfluss der Sonne betroffen ist
+
+292
+00:23:34,840 --> 00:23:42,008
+Zur Raumzeit haben viele andere Experimente das Bild der Allgemeinen Relativitätstheorie vom Universum bestätigt, das zu der Schlussfolgerung passt, dass
+
+293
+00:23:42,009 --> 00:23:44,619
+es keine
+
+294
+00:23:44,620 --> 00:23:47,079
+Schwerkraft gibt, sondern nur die
+
+295
+00:23:47,080 --> 00:23:52,959
+Raumzeit, ihre Krümmung und ein Wir darin.  Wie John Wheeler es berühmt ausdrückte:
+
+296
+00:23:52,960 --> 00:24:00,668
+Raumzeit greift Masse und sagt ihr, wie sie sich bewegen soll. Masse greift Raumzeit und sagt ihr, wie sie sich krümmen soll?
+
+297
+00:24:00,669 --> 00:24:07,599
+Relativ zur Erde bewegen wir uns nicht sehr schnell, sogar Düsenflugzeuge bewegen sich vernachlässigbar nahe an der Lichtgeschwindigkeit.
+
+298
+00:24:07,600 --> 00:24:10,959
+Relativ zur Erde bewegen wir uns also fast
+
+299
+00:24:10,960 --> 00:24:17,739
+ausschließlich durch die Zeit, als solche werden wir mehr davon beeinflusst, wie die Zeit durch Masse gekrümmt wird,
+
+300
+00:24:17,740 --> 00:24:19,658
+als wie der Raum ist  gebogen?
+
+301
+00:24:19,659 --> 00:24:25,239
+Dies hat viele zu der Behauptung geführt, dass Sie sich größtenteils fühlen, als würden Sie in den Boden gedrückt.
+
+302
+00:24:25,240 --> 00:24:27,518
+Nicht wegen einer Kraft namens Schwerkraft,
+
+303
+00:24:27,519 --> 00:24:33,758
+sondern weil die Zeit für Ihren Kopf schneller vergeht als für Ihre Füße.
+
+304
+00:24:33,759 --> 00:24:41,979
+aber es existiert wegen der langsameren Zeit und geht immer in Richtung der langsameren Zeit.
+
+305
+00:24:41,980 --> 00:24:46,689
+Bertrand Russell nannte dies das Gesetz der kosmischen Faulheit.
+
+306
+00:24:46,690 --> 00:24:56,529
+Alles wird natürlich dorthin gelenkt, wo die Zeit am langsamsten
+
+307
+00:24:56,530 --> 00:25:00,579
+ist  -low
+
+308
+00:25:00,580 --> 00:25:04,749
+time kümmert sich darum
+
+309
+00:25:04,750 --> 00:25:06,489
+und wie immer
+
+310
+00:25:06,490 --> 00:25:19,189
+Danke fürs Zuschauen
+
+311
+00:25:19,190 --> 00:25:29,389
+Denken Sie daran, dass Sie die Vsauce- und Alzheimer-Forschung unterstützen können, indem Sie die Vsauce-Kuriositätsbox abonnieren
+
+312
+00:25:29,390 --> 00:25:35,589
+ist erstaunlich und eine ganze Reihe anderer wissenschaftlicher Spielzeuge und Werkzeuge, die ich selbst ausgewählt habe, Jake und Kevin.
+
+313
+00:25:35,590 --> 00:25:42,129
+Ich liebe alles, also hoffe ich, Sie bei Brain Candy live zu sehen.  Wir kommen sehr bald in viele, viele Städte.
+
+314
+00:25:42,130 --> 00:25:45,339
+Hoffentlich in Ihrer Nähe, wenn Sie zu der Show gehen, können Sie sehen, wie Adam
+
+315
+00:25:45,340 --> 00:25:51,769
+und ich Dinge tun, die Sie vielleicht nicht gesehen haben, bevor wir auch die Wissenschaft und die verbreiteten
+
+316
+00:25:51,770 --> 00:25:55,789
+Missverständnisse hinter allen Dingen
+
+317
+00:25:55,790 --> 00:26:03,159
+Err erforschen.  Vielleicht zu viel gesagt.  Vielleicht nicht, ich hoffe, Sie dort zu sehen, und wie immer danke fürs Zuschauen
+

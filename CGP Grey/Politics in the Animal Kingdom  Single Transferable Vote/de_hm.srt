@@ -1,0 +1,513 @@
+1
+00:00:00,459 --> 00:00:04,058
+Königin Löwe versucht die Wahlen in ihrem 
+Königreich gerechter zu gestalten. Zur Zeit
+
+2
+00:00:04,059 --> 00:00:07,929
+trennt sie ihre Bürger in Bezirke, von
+denen jeder einen Abgeordneten wählt, der
+
+3
+00:00:07,930 --> 00:00:10,808
+zum Dschungel-Rat zu geht, welcher Gesetze
+für das Königreich macht.
+
+4
+00:00:10,809 --> 00:00:15,709
+Aber ihre Bürger sind unglücklich und der
+Grund ist einfach: Der Rat ist voller Affen.
+
+5
+00:00:15,710 --> 00:00:19,758
+Natürlich sind einige Bürger Affen, aber
+nicht alle. Dieser Rat repräsentiert
+
+6
+00:00:19,759 --> 00:00:21,629
+ihr Königreich nicht gerecht.
+
+7
+00:00:21,630 --> 00:00:25,478
+Königin Löwe besucht einen der Bezirke um heraus
+zu finden was falsch läuft und wie man es löst.
+
+8
+00:00:25,479 --> 00:00:30,658
+In diesem Bezirk leben fünf Affen, vier Tiger, 
+drei Eulen, zwei Luchse und ein Büffel. Ein
+
+9
+00:00:30,659 --> 00:00:34,869
+Kandidat tritt von jeder Gattung an und alle 
+Bürger wählen ihre eigene Gattung.
+
+10
+00:00:34,870 --> 00:00:38,909
+Die Wahlregel besagt, dass der Kandidat mit 
+den meisten Stimmen gewinnt, also der Affe.
+
+11
+00:00:38,910 --> 00:00:43,959
+Aber das Ergebnis ist ziemlich unbefriedigend, 
+beachtet man, dass über 2/3 der Bürger in diesem Bezirk
+
+12
+00:00:43,960 --> 00:00:45,748
+keine Affen sind und nicht für Affen wählen würden.
+
+13
+00:00:45,749 --> 00:00:50,439
+Das selbe gilt für alle Bezirke im Königreich, 
+die Affen haben mehr Stimmen als 
+
+14
+00:00:50,440 --> 00:00:55,408
+jeder andere, also gewinnen sie alle Wahlen, 
+auch wenn sie in der Bevölkerung eine Minderheit sind.
+
+15
+00:00:55,409 --> 00:00:59,378
+Nähere Untersuchungen zeigen, dass die
+unabhängigen Berater, angestellt um zuerst  
+
+16
+00:00:59,379 --> 00:01:03,678
+die Bezirksgrenzen festzulegen, nicht so 
+unabhängig waren wie es zuerst aussah.
+
+17
+00:01:03,679 --> 00:01:07,629
+Das Ergebnis sind unglückliche Bürger, die nicht
+glauben, dass der Dschungel-Rat gerechte Gesetze
+
+18
+00:01:07,630 --> 00:01:09,319
+für alle beschließt, zurecht.
+
+19
+00:01:09,320 --> 00:01:13,519
+Königin Löwe will die Anzahl der Bürger erhöhen, 
+die mit dem Wahlergebnis glücklich sind.
+
+20
+00:01:13,520 --> 00:01:17,459
+Eine Möglichkeit das zu erreichen ist die Bezirke
+abzuschaffen und ein proportionales System zu benutzen.
+
+21
+00:01:17,460 --> 00:01:19,839
+Aber ihre Bürger wollen lokale Abgeordnete.
+
+22
+00:01:19,840 --> 00:01:24,109
+Also braucht Königin Löwe ein System, dass ihre
+Bürger glücklicher macht, indem der Rat repräsentativer
+
+23
+00:01:24,110 --> 00:01:27,429
+wird, während lokale Wahlen erhalten bleiben.
+
+24
+00:01:27,430 --> 00:01:31,339
+Nach ein wenig Nachforschung findet sie heraus
+wie: Übertragbare Einzelstimmgebung (STV).
+
+25
+00:01:31,340 --> 00:01:36,429
+Die große Änderung mit STV ist, dass Bezirke mehr
+als einen Abgeordneten stellen, was vielleicht
+
+26
+00:01:36,430 --> 00:01:40,589
+seltsam scheint, aber Königin Löwe entscheidet es
+zu testen: Sie wählt drei Bezirke, die davor
+
+27
+00:01:40,590 --> 00:01:45,328
+jeweils einen Abgeordneten stellten und kombiniert 
+sie zu einem größeren Bezirk, der jetzt drei stellt.
+
+28
+00:01:45,329 --> 00:01:49,849
+Am Wahltag gehen die Bürger zu den Urnen und
+das Ergebnis in diesem neuen Bezirk ist das 
+
+29
+00:01:49,850 --> 00:01:53,339
+gleiche wie zuvor in den alten Bezirken, also 
+nichts scheint sich geändert zu haben. 
+
+30
+00:01:53,340 --> 00:01:56,478
+Aber um die Gewinner bei STV zu ermitteln 
+nimmt man die gesamte Anzahl an Stimmen
+
+31
+00:01:56,479 --> 00:02:02,389
+und teilt sie durch die Anzahl der Abgeordneten,
+in diesem Fall drei, was uns 33% als Wert gibt,
+
+32
+00:02:02,390 --> 00:02:04,538
+den ein Kandidat benötigt um zu gewinnen.
+
+33
+00:02:04,539 --> 00:02:08,788
+Also gehen alle drei Kandidaten zum Rat, 
+was die Bevölkerung in diesem Bezirk 
+
+34
+00:02:08,789 --> 00:02:09,829
+genau widerspiegelt.
+
+35
+00:02:09,830 --> 00:02:14,909
+Das alte System hätte in jedem Bezirk einen 
+Affen geschickt und hätte 2/3 der Bürger
+
+36
+00:02:14,910 --> 00:02:19,329
+ohne Vertretung gelassen. Ein größerer Bezirk
+mit mehr Abgeordneten erlaubt es dem Ergebnis
+
+37
+00:02:19,330 --> 00:02:20,579
+verhältnismäßiger zu sein.
+
+38
+00:02:20,580 --> 00:02:24,829
+Dieser Test lief gut, aber es war auch so
+einfach wie möglich. Jetzt möchte Königin Löwe
+
+39
+00:02:24,830 --> 00:02:27,889
+sehen was bei Wahlen passiert, bei denen nicht
+jeder Kandidat gewinnt.
+
+40
+00:02:27,890 --> 00:02:32,839
+Der nächste große Bezirk den sie testet hat fünf
+Kandidaten: Gorilla, Koboldäffchen, Affe, Tiger
+
+41
+00:02:32,840 --> 00:02:36,279
+und Luchs, von denen drei Abgeordnete gewählt werden.
+
+42
+00:02:36,280 --> 00:02:40,579
+Wahltag kommt und geht, und hier das Ergebnis der 
+ersten Wahl der Bürger:
+
+43
+00:02:40,580 --> 00:02:43,499
+Koboldäffchen bekommt 5%
+Gorilla bekommt 28%
+
+44
+00:02:43,500 --> 00:02:46,309
+Affe bekommt 33%
+Tiger bekommt 21%
+
+45
+00:02:46,310 --> 00:02:47,729
+Luchs bekommt 13%
+
+46
+00:02:47,730 --> 00:02:53,059
+Wie zuvor benötigt ein Kandidat 33% um zu gewinnen.
+Affe schafft das und wird direkt als einer von drei
+
+47
+00:02:53,060 --> 00:02:55,069
+Abgeordneten ausgewählt.
+
+48
+00:02:55,070 --> 00:02:59,829
+Aber sonst erreicht keiner die 33%, wie werden
+also die anderen zwei Abgeordneten ausgewählt?
+
+49
+00:02:59,830 --> 00:03:04,229
+Schritt eins: Eliminiere den größten Verlierer. Sorry 
+Koboldäffchen, du hattest wirklich keine Chance.
+
+50
+00:03:04,230 --> 00:03:07,969
+Als die Bürger gewählt haben, hätten sie nur
+ein X neben dem Kandidaten machen müssen, den
+
+51
+00:03:07,970 --> 00:03:13,359
+sie am meisten mochten, aber mit STV können sie auch
+eine Rangliste ihre Favoriten erstellen. Dies ist
+
+52
+00:03:13,360 --> 00:03:18,029
+wichtig, weil es zeigt wie die Wahl verlaufen wäre, 
+wenn einer der Kandidaten nicht aufgestellt war.
+
+53
+00:03:18,030 --> 00:03:22,719
+Kleine, besorgte Koboldäffchen hätten für den
+großen und ruhigen Gorilla gestimmt, wäre Koboldäffchen
+
+54
+00:03:22,720 --> 00:03:28,049
+nicht im Rennen. Wenn ihr Kandidat nicht gewinnt, 
+wollen sie, dass ihre Stimmen an Gorilla gehen.
+
+55
+00:03:28,050 --> 00:03:32,369
+Das verhilft Gorilla zu 33% und er wird
+der nächste Abgeordnete.
+
+56
+00:03:32,370 --> 00:03:36,219
+Ranglisten erlauben den Bürgern ihren Lieblings-
+kandidaten ohne Sorge zu unterstützen, es macht
+
+57
+00:03:36,220 --> 00:03:40,359
+also keinen Sinn, sich zu überlegen wie die anderen
+abstimmen. Das System ist ausgelegt um die 
+
+58
+00:03:40,360 --> 00:03:42,289
+Zufriedenheit der Bürger mit dem Ergebnis
+zu maximieren.
+
+59
+00:03:42,290 --> 00:03:46,589
+Zurück zum Bezirk: Es gilt immer noch einen Abgeordneten 
+zu bestimmen, der nächste Verlierer ist Luchs.
+
+60
+00:03:46,590 --> 00:03:50,169
+Seine Wähler mögen keine Primaten, aber sie glauben, 
+dass Tigers Interessen ihren ähnlich sind und
+
+61
+00:03:50,170 --> 00:03:54,869
+wollen, falls Luchs nicht gewinnt, dass er ihre
+Stimmen erhält. Er erreicht 34% und wird
+
+62
+00:03:54,870 --> 00:03:57,259
+der dritte und letzte Abgeordnete.
+
+63
+00:03:57,260 --> 00:04:02,009
+Die Wahlergebnisse sehen ziemlich gut aus, besonders wenn 
+man die erste und zweite Wahl der Bürger berücksichtigt.
+
+64
+00:04:02,010 --> 00:04:06,569
+Jetzt haben mehr Bürger einen lokalen Abgeordneten
+auf den sie zu gehen können, während beim alten
+
+65
+00:04:06,570 --> 00:04:09,479
+System jeder einen Affen bekommt.
+
+66
+00:04:09,480 --> 00:04:13,509
+Zuletzt möchte Königin Löwe wissen was in einem
+Bezirk passiert, wo es nur zwei Parteien gibt.
+
+67
+00:04:13,510 --> 00:04:17,078
+In dem System, bei dem der mit den meisten Stimmen
+gewinnt, wären mehrere Kandidaten der selben Partei
+
+68
+00:04:17,079 --> 00:04:20,898
+ein Desaster: Sie würden ihre Wähler spalten und
+den Sieg ihren Gegnern schenken.
+
+69
+00:04:20,899 --> 00:04:26,239
+Königin Löwe macht einen letzten Testbezirk mit
+2/3 Tigern und 1/3 Gorillas, das wie zuvor 
+
+70
+00:04:26,240 --> 00:04:28,008
+drei Abgeordnete benötigt.
+
+71
+00:04:28,009 --> 00:04:33,468
+Weil die Bürger mit STV ihre Kandidaten ordnen können, 
+kann mehr als nur einen Kandidaten ohne irgendwelche
+
+72
+00:04:33,469 --> 00:04:36,359
+Probleme zur selben Zeit aufgestellt werden.
+
+73
+00:04:36,360 --> 00:04:41,138
+Die Tiger haben zwei Kandidaten, ebenso die Gorillas.
+Am Wahltag bekommt Weißer Tiger einen Großteil 
+
+74
+00:04:41,139 --> 00:04:44,538
+an Erststimmen, vermutlich weil er so cool ist.
+
+75
+00:04:44,539 --> 00:04:48,138
+Die Stimmen der Gorillas haben sich auf den Jungen
+und den alten Silberrücken aufgeteilt.
+
+76
+00:04:48,139 --> 00:04:53,138
+Weißer Tiger wird erster Abgeordnete, aber was passiert 
+als nächstes? Während Tiger der größte Verlierer ist und 
+
+77
+00:04:53,139 --> 00:04:57,228
+es scheint als sollte er eliminiert werden, ist es auch 
+offensichtlich, dass er deutlich mehr Stimmen bekommen 
+
+78
+00:04:57,229 --> 00:05:01,218
+hätte, wenn Weißer Tiger nicht im Rennen 
+gewesen wäre. 
+
+79
+00:05:01,219 --> 00:05:04,218
+Wenn ein Kandidat mehr Stimmen 
+hat als er benötigt, wie Weißer Tiger, 
+
+80
+00:05:04,219 --> 00:05:09,309
+gehen im ersten Schritt die extra Stimmen an ihre
+zweite Wahl. Dadurch bekommt Tiger 33%
+
+81
+00:05:09,310 --> 00:05:12,688
+und wird der nächste Abgeordnete.
+
+82
+00:05:12,689 --> 00:05:14,859
+Falls das seltsam scheint gibt es zwei Dinge
+zu berücksichtigen:
+
+83
+00:05:14,860 --> 00:05:18,609
+1) Wenn die extra Stimmen ignoriert würden und
+Tiger ausscheidet, bekämen die Gorillas die zwei
+
+84
+00:05:18,610 --> 00:05:23,089
+verbleibenden Sitze, was offensichtlich den 
+Bezirk nicht widerspiegelt.
+
+85
+00:05:23,090 --> 00:05:27,739
+2) Ignoriert man extra Stimmen, bestraft man 
+dadurch Bürger die populäre Kandidaten wählen, 
+
+86
+00:05:27,740 --> 00:05:32,859
+wodurch die Wähler sich fragen, wie die anderen
+abstimmen und nicht was sie wirklich wollen. Wenn
+
+87
+00:05:32,860 --> 00:05:38,059
+ein Kandidat mehr Stimmen bekommt als er in 
+erster Linie benötigt heißt das auch, dass
+
+88
+00:05:38,060 --> 00:05:42,668
+jene, die für ihn gestimmt haben, einen großen 
+Teil der Bevölkerung ausmachen und deshalb auch 
+
+89
+00:05:42,669 --> 00:05:44,498
+fairerweise mehr Abgeordnete bekommen sollten.
+
+90
+00:05:44,499 --> 00:05:48,908
+Richtig, nachdem die extra Stimmen an Tiger gehen,
+geht die Wahl weiter wie zuvor, Silberrücken
+
+91
+00:05:48,909 --> 00:05:52,968
+ist Letzter und wird eliminiert, die zweite
+Wahl seiner Wähler ist die jüngere Kandidat 
+
+92
+00:05:52,969 --> 00:05:55,778
+also bekommt Gorilla einen Sitz. Und das
+Ergebnis ist fair.
+
+93
+00:05:55,779 --> 00:06:00,498
+Königin Löwe hat jetzt gesehen wie STV funktioniert.
+Ob der Bezirk eine Partei oder viele hat, der
+
+94
+00:06:00,499 --> 00:06:02,198
+Prozess ist immer der Gleiche:
+
+95
+00:06:02,199 --> 00:06:06,628
+1. Bürger ordnen ihre Lieblingskandidaten.
+2. Jeder Kandidat über der Schwelle gewinnt sofort.
+
+96
+00:06:06,629 --> 00:06:09,498
+3. Extra Stimmen gehen an ihre nächste Wahl.
+4. Wenn es keinen Gewinner gibt, wird der letzte
+
+97
+00:06:09,499 --> 00:06:13,679
+Platz eliminiert und die Stimmen 
+gehen an ihre nächste Wahl.
+
+98
+00:06:13,680 --> 00:06:16,598
+5. Wiederhole bis alle Gewinner gefunden sind.
+
+99
+00:06:16,599 --> 00:06:19,658
+Dieser ganze Prozess ist ausgerichtet um die 
+Anzahl der Bürger, die mit dem Ergebnis zufrieden
+
+100
+00:06:19,659 --> 00:06:21,168
+sind, zu erhöhen.
+
+101
+00:06:21,169 --> 00:06:25,869
+Und das gibt STV viele Vorteile gegenüber dem alten
+Die-Meisten-Stimmen-Gewinnt System:
+
+102
+00:06:25,870 --> 00:06:29,628
+1. Bürger können ehrlich für ihren Lieblingskandidaten
+stimmen ohne sich darüber Gedanken zu machen, wie
+
+103
+00:06:29,629 --> 00:06:32,658
+die Anderen abstimmen werden.
+2. Es ist proportionaler. Affige Grenzen
+
+104
+00:06:32,659 --> 00:06:37,378
+fallen also weniger ins Gewicht.
+3. Fast alle Bürger werden einen lokalen Abgeordneten
+
+105
+00:06:37,379 --> 00:06:39,188
+haben, den sie tatsächlich gewählt haben.
+
+106
+00:06:39,189 --> 00:06:42,968
+Am Ende bestimmt Königin Löwe die Ratswahlen 
+auf Übertragbare Einzelstimmgebung umzustellen, 
+
+107
+00:06:42,969 --> 00:06:45,649
+um einen besseren Dschungel-Rat für 
+alle zu erschaffen.
+

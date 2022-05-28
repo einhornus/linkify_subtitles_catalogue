@@ -1,0 +1,3355 @@
+1
+00:00:07,773 --> 00:00:08,740
+Oh merhaba.
+
+2
+00:00:08,741 --> 00:00:11,709
+Teknoloji sadece
+hayatımızı değiştirmiyor.
+
+3
+00:00:11,710 --> 00:00:14,446
+Beynimizi değiştiriyor.
+
+4
+00:00:14,447 --> 00:00:15,713
+Sadece nasıl düşündüklerini değil,
+
+5
+00:00:15,714 --> 00:00:17,515
+nasıl göründüklerini de.
+
+6
+00:00:17,516 --> 00:00:21,086
+
+Belirli video oyunlarını saatlerce
+
+7
+00:00:21,087 --> 00:00:23,254
+oynamanın
+ayrıntılar için hafızanızı,
+
+8
+00:00:23,255 --> 00:00:25,356
+
+
+
+9
+00:00:25,357 --> 00:00:26,624
+video oyunlarında uzayda gezinme yeteneğinizi geliştirebildiği
+
+10
+00:00:26,625 --> 00:00:28,426
+ve beyninizi --
+
+11
+00:00:28,427 --> 00:00:31,262
+yani, belli
+kısımlarını -- büyütebildiği gösterilmiştir.
+
+12
+00:00:31,263 --> 00:00:34,165
+Ancak bilim adamları,
+dijital dünyaları keşfetmenin
+
+13
+00:00:34,166 --> 00:00:37,335
+beynimizi
+
+
+14
+00:00:37,336 --> 00:00:39,637
+gerçek dünyada gezinme yeteneğimizi geliştirecek şekilde değiştirip değiştiremeyeceğini bilmek istiyor.
+
+15
+00:00:39,638 --> 00:00:42,674
+Öğrenmek için, bilgisayar dünyasının dışında ilk kez teorilerini test etmek için
+dev bir labirent inşa ettik
+
+16
+00:00:42,675 --> 00:00:45,777
+
+
+
+17
+00:00:45,778 --> 00:00:48,379
+.
+
+18
+00:00:48,380 --> 00:00:50,415
+Ve işim?
+
+19
+00:00:50,416 --> 00:00:58,289
+Ben laboratuvar faresiyim.
+
+20
+00:00:58,290 --> 00:01:10,869
+[tema müziği çalıyor]
+
+21
+00:01:10,870 --> 00:01:12,504
+[vakum uğultusu, durur
+
+22
+00:01:12,505 --> 00:01:15,373
+] Beyinlerimiz,
+
+
+23
+00:01:15,374 --> 00:01:17,542
+
+teknoloji ile olan etkileşimlerimiz tarafından derinden dönüştürülmüştür.
+
+24
+00:01:17,543 --> 00:01:19,911
+
+Eskiden beynimde saklamak zorunda olduğum birçok bilgi
+
+25
+00:01:19,912 --> 00:01:23,281
+
+artık telefonumda saklanıyor.
+
+26
+00:01:23,282 --> 00:01:25,383
+Bağlantılarım, programım.
+
+27
+00:01:25,384 --> 00:01:27,185
+Birçok yönden, bu organın
+
+28
+00:01:27,186 --> 00:01:29,354
+eskiden yaptıklarını
+
+
+29
+00:01:29,355 --> 00:01:32,690
+bu yeni dış organa devrettim.
+
+30
+00:01:32,691 --> 00:01:34,726
+Bunu yapmak
+, beynin
+
+31
+00:01:34,727 --> 00:01:36,327
+kaynaklarını önemli olan
+
+32
+00:01:36,328 --> 00:01:38,897
+veya
+teknolojinin henüz bizim için tam olarak yapamadığı diğer şeyler için serbest bırakır.
+
+33
+00:01:38,898 --> 00:01:43,268
+Hepimizin
+beyninde henüz implant olmasa da,
+
+34
+00:01:43,269 --> 00:01:46,504
+teknoloji zaten
+kafamıza girmenin bir yolunu buldu,
+
+35
+00:01:46,505 --> 00:01:49,507
+bu yüzden beni böyle bir şey yaparken görmek
+çok rahatsız edici olabilir
+
+36
+00:01:49,508 --> 00:01:56,514
+
+.
+
+37
+00:01:56,515 --> 00:01:57,515
+Sh--
+
+38
+00:01:57,516 --> 00:02:01,352
+[müzik çalma]
+
+39
+00:02:01,353 --> 00:02:03,888
+[Michael]Araştırmalar
+
+
+40
+00:02:03,889 --> 00:02:05,857
+
+,
+
+41
+00:02:05,858 --> 00:02:08,459
+video oyunları oynayarak bile zenginleştirici deneyimler yaşayarak beynimizi geliştirebileceğimizi gösteriyor.  Bununla
+
+42
+00:02:08,460 --> 00:02:10,361
+ilgili daha fazla bilgi edinmek için, öğrenme ve hafıza alanındaki uzmanlarla konuşmak
+
+43
+00:02:10,362 --> 00:02:12,497
+üzere UC Irvine'in Stark Laboratuvarına geldim
+
+
+44
+00:02:12,498 --> 00:02:15,333
+
+.
+
+45
+00:02:15,334 --> 00:02:17,202
+Dane ve Craig,
+sizler
+
+46
+00:02:17,203 --> 00:02:18,770
+öğrenme ve hafıza üzerine çalışıyorsunuz.
+
+47
+00:02:18,771 --> 00:02:20,939
+- Onlar hakkında ne?
+- Yani laboratuvar
+
+
+48
+00:02:20,940 --> 00:02:24,642
+hafızanın
+nasıl çalıştığını, beyinde nasıl çalıştığını anlamaya çalışıyor.
+
+49
+00:02:24,643 --> 00:02:26,945
+Ve hafıza için
+
+
+50
+00:02:26,946 --> 00:02:29,581
+önemli olduğunu bildiğimiz temporal lobdaki bir beyin
+
+
+51
+00:02:29,582 --> 00:02:31,482
+yapısı hipokampustur.
+
+52
+00:02:31,483 --> 00:02:33,985
+Peki
+hipokampus ne yapar?
+
+53
+00:02:33,986 --> 00:02:35,687
+Hafızada bir rolü olduğunu biliyoruz
+
+54
+00:02:35,688 --> 00:02:38,223
+ve gerçekten de belirli bir
+tür hafıza.
+
+55
+00:02:38,224 --> 00:02:39,657
+Hızla
+
+
+56
+00:02:39,658 --> 00:02:44,362
+
+yeni keyfi ilişkiler kurmanız gerektiğinde hipokampus gerçekten işin içindedir.
+
+57
+00:02:44,363 --> 00:02:46,331
+Biliyor musun,
+dün ne yaptığını hatırlamak
+
+58
+00:02:46,332 --> 00:02:48,600
+kesinlikle
+hipokampusa ihtiyaç duyar.
+
+59
+00:02:48,601 --> 00:02:50,702
+Belki mağazaya gideriz
+, arabamızı park yerine park ederiz
+
+60
+00:02:50,703 --> 00:02:52,437
+ve
+
+
+61
+00:02:52,438 --> 00:02:53,739
+sadece "arabamı park yerine park ettim" değil, "arabamı parkın tam bu yerine park ettim" diye hatırlamamız gerekir
+
+
+62
+00:02:53,740 --> 00:02:57,675
+
+
+.  "
+
+63
+00:02:57,676 --> 00:02:59,611
+- [Michael]Doğru.
+- [Craig]Ve bu ayrıntılar
+
+64
+00:02:59,612 --> 00:03:01,846
+, hipokampüsün
+
+
+65
+00:03:01,847 --> 00:03:02,947
+bize gerçekten yardım ettiği şey bu.
+
+66
+00:03:02,948 --> 00:03:04,983
+Ve kitaptaki
+bu çiğnenmiş sakız parçasına bakıp duruyorsun
+
+67
+00:03:04,984 --> 00:03:07,385
+
+, bu bir hipokampus mu?
+
+68
+00:03:07,386 --> 00:03:09,787
+[Craig] Evet.  Bu
+aslında benim hipokampusum.
+
+69
+00:03:09,788 --> 00:03:11,522
+Hepsi
+bu mu yoksa simetrik mi...
+
+70
+00:03:11,523 --> 00:03:12,657
+İşte
+
+71
+00:03:12,658 --> 00:03:13,925
+bu-- Oh,
+diğer tarafta bir tane var.
+
+72
+00:03:13,926 --> 00:03:15,026
+Bu sadece buna benziyor mu?
+
+73
+00:03:15,027 --> 00:03:16,227
+Evet, ayna görüntüsü.
+
+74
+00:03:16,228 --> 00:03:18,396
+[Michael] 2015 yılında,
+Dr. Stark ve Dr. Clemenson, video oyunlarının beyni nasıl etkilediğini
+
+75
+00:03:18,397 --> 00:03:19,864
+göstermek için bir araştırma yaptı
+
+76
+00:03:19,865 --> 00:03:22,500
+
+.
+
+77
+00:03:22,501 --> 00:03:23,801
+Normalde video oyunları oynamayan katılımcıları topladılar
+
+78
+00:03:23,802 --> 00:03:25,536
+
+
+
+79
+00:03:25,537 --> 00:03:27,438
+ve onları
+üç gruba ayırdılar.
+
+80
+00:03:27,439 --> 00:03:28,740
+
+
+81
+00:03:28,741 --> 00:03:31,776
+İki hafta boyunca hiç video oyunu oynamayan
+kontrol grubu
+
+82
+00:03:31,777 --> 00:03:34,312
+
+, iki hafta boyunca iki boyutlu oyunlar oynayan aktif kontrol grubu ve iki hafta boyunca 3D oyun
+
+83
+00:03:34,313 --> 00:03:35,546
+oynayan deney grubu
+
+84
+00:03:35,547 --> 00:03:37,682
+
+.
+
+85
+00:03:37,683 --> 00:03:39,617
+Önceden,
+tüm katılımcılara uzamsal hafızalarını ölçmek
+
+86
+00:03:39,618 --> 00:03:42,287
+için bilgisayarlarda iki sanal görev yaptırdılar
+
+
+87
+00:03:42,288 --> 00:03:43,888
+
+.
+
+88
+00:03:43,889 --> 00:03:46,524
+Geri gelir gelmez
+
+bu iki görevi yeniden uyguladık.
+
+89
+00:03:46,525 --> 00:03:48,593
+Ve bulduğumuz şey
+, 3D oyunu oynayanların
+
+90
+00:03:48,594 --> 00:03:50,728
+
+test puanlarında bir iyileşme gördüğü,
+
+91
+00:03:50,729 --> 00:03:52,030
+ancak kontrol grubu
+
+92
+00:03:52,031 --> 00:03:53,965
+ve aktif kontrol grubunun
+görmediğiydi.
+
+93
+00:03:53,966 --> 00:03:55,566
+Beyin taraması yapmadık ama
+
+94
+00:03:55,567 --> 00:03:57,568
+
+
+
+95
+00:03:57,569 --> 00:04:00,605
+deney grubunun
+hipokampüsünde değişiklikler olduğunu tahmin edebiliriz.
+
+96
+00:04:00,606 --> 00:04:03,908
+Peki
+burada bana ne yapacağız?
+
+97
+00:04:03,909 --> 00:04:05,843
+Yani iki yeni şey eklemek dışında
+
+
+98
+00:04:05,844 --> 00:04:07,011
+, geçmiş çalışmalarımızda daha önce
+
+99
+00:04:07,012 --> 00:04:08,646
+yaptığımız her şeyi yapacağız
+.
+
+100
+00:04:08,647 --> 00:04:11,449
+İlki,
+bazı beyin taramaları ekleyeceğiz,
+
+101
+00:04:11,450 --> 00:04:12,617
+yani hipokampüsünüzün yapısal tarafında
+bir değişiklik görüp görmediğimizi göreceğiz
+
+102
+00:04:12,618 --> 00:04:14,452
+
+.
+
+103
+00:04:14,453 --> 00:04:16,587
+Aslında
+hiç birinin video oyunları oynamadan
+
+104
+00:04:16,588 --> 00:04:18,523
+önce ve sonra beyin taramalarına
+bakmadık.
+
+105
+00:04:18,524 --> 00:04:19,991
+Ve
+
+
+106
+00:04:19,992 --> 00:04:22,460
+gerçekten yapacağımız ikinci şey,
+seni gerçek dünyadaki bir uzaya sokacağız.
+
+107
+00:04:22,461 --> 00:04:25,330
+
+Bir labirentteki fare olacaksın.
+
+108
+00:04:25,331 --> 00:04:27,865
+[Michael]
+Bu gerçekten denenmemiş bölge.
+
+109
+00:04:27,866 --> 00:04:30,468
+Video
+oyununun uzamsal bellek üzerindeki
+
+110
+00:04:30,469 --> 00:04:32,570
+etkisi,
+fiziksel bir ortamda hiç
+
+111
+00:04:32,571 --> 00:04:35,340
+bu kadar büyük
+ve kapsamlı bir ölçekte incelenmemişti.
+
+112
+00:04:35,341 --> 00:04:37,442
+
+
+113
+00:04:37,443 --> 00:04:39,944
+3.600 fit karelik bir
+fiziksel labirentte yolumu bulmam gerekecek.
+
+114
+00:04:39,945 --> 00:04:43,681
+Video oyunları oynamak
+
+
+115
+00:04:43,682 --> 00:04:45,016
+gerçek dünyada zihinsel becerilerimi geliştirecek mi?
+
+116
+00:04:45,017 --> 00:04:47,352
+Eğer öyleyse, toplum
+
+
+117
+00:04:47,353 --> 00:04:49,454
+oyuna tamamen yeni bir şekilde bakmaya başlayabilir.
+
+118
+00:04:49,455 --> 00:04:51,456
+İlk önce
+
+119
+00:04:51,457 --> 00:04:53,791
+
+beynimin temel ölçümlerini almamız gerekiyordu.
+
+120
+00:04:53,792 --> 00:04:55,393
+MRI Merkezine hoş geldiniz.
+
+121
+00:04:55,394 --> 00:04:57,628
+Oyun oynamanın bir fonksiyonu olarak beyninize neler olacağını görmek
+
+
+122
+00:04:57,629 --> 00:04:58,996
+için önceki taramada olduğu gibi bir
+
+123
+00:04:58,997 --> 00:05:01,366
+
+
+
+124
+00:05:01,367 --> 00:05:02,834
+dizi taramanızı
+yapacağız.
+
+125
+00:05:02,835 --> 00:05:04,769
+Serin.  Ne
+tür şeyler arıyorsunuz?  Hipokampusunuzun
+
+126
+00:05:04,770 --> 00:05:06,938
+boyutundaki ve şeklindeki
+
+
+127
+00:05:06,939 --> 00:05:10,007
+değişiklikler ve ayrıca
+
+beyin bölgeleri arasındaki bağlantıdaki değişiklikler.
+
+128
+00:05:10,008 --> 00:05:13,378
+[Michael]Beynim, çok önemli hipokampüsüme
+
+
+129
+00:05:13,379 --> 00:05:14,645
+özel bir vurgu yapılarak difüzyon MRI kullanılarak tarandı
+
+130
+00:05:14,646 --> 00:05:17,648
+
+.
+
+131
+00:05:17,649 --> 00:05:18,916
+[müzik çalma]
+
+132
+00:05:18,917 --> 00:05:20,385
+[Craig]Yani bu ilk test
+
+133
+00:05:20,386 --> 00:05:22,153
+, yaptığımız standart bir hafıza
+testidir.
+
+134
+00:05:22,154 --> 00:05:24,522
+Buna nesne
+tanıma hafıza testi denir.
+
+135
+00:05:24,523 --> 00:05:26,457
+[Michael]
+Bu test bana
+
+136
+00:05:26,458 --> 00:05:28,993
+bir dizi rastgele nesne göstererek başladı.  Her birini hafızaya
+
+137
+00:05:28,994 --> 00:05:32,897
+kazımak için elimden geleni yaptım
+.
+
+138
+00:05:32,898 --> 00:05:33,931
+Peki.
+
+139
+00:05:33,932 --> 00:05:35,566
+- Bitti.
+- Tamam.
+
+140
+00:05:35,567 --> 00:05:36,801
+Şimdi yapacağımız şey,
+
+
+141
+00:05:36,802 --> 00:05:39,771
+o nesneler için hafızanızı test etmek olacak.
+- Peki.
+
+142
+00:05:39,772 --> 00:05:41,572
+Ve
+burası aslında uzamsal hafıza gibi şeyler için çok önemli olduğunu bildiğimiz hipokampustan yararlanmaya başladığı yer
+
+143
+00:05:41,573 --> 00:05:43,541
+
+
+
+144
+00:05:43,542 --> 00:05:44,943
+
+.
+
+145
+00:05:44,944 --> 00:05:48,179
+[Michael]Bu
+sefer başka bir dizi nesneyi
+
+146
+00:05:48,180 --> 00:05:50,148
+
+
+
+147
+00:05:50,149 --> 00:05:51,983
+
+görmem ve daha önce gördüklerime benzeyenleri tanımlamam gerekiyordu.
+
+148
+00:05:51,984 --> 00:05:55,119
+Yakalama, bazı öğeler
+
+
+149
+00:05:55,120 --> 00:05:56,187
+öncekilere çok benziyordu,
+
+150
+00:05:56,188 --> 00:05:58,689
+ancak tam olarak aynı değildi.
+
+151
+00:05:58,690 --> 00:06:00,525
+Bu
+, ayrıntılar
+
+152
+00:06:00,526 --> 00:06:02,093
+ve çok küçük değişiklikler için hafızamı test etti.
+
+153
+00:06:02,094 --> 00:06:03,395
+Peki.
+
+154
+00:06:03,396 --> 00:06:05,797
+[Michael]Sırada,
+
+
+155
+00:06:05,798 --> 00:06:08,166
+normalde kemirgenler
+ve fareler tarafından kullanılan bir su labirentinin sanal bir versiyonu.
+
+156
+00:06:08,167 --> 00:06:11,068
+[Dane] Buradaki fikir şu ki
+
+
+157
+00:06:11,069 --> 00:06:13,704
+
+, bir su havuzunda gizli bir platformu bulmaya çalışıyorsunuz.
+
+158
+00:06:13,705 --> 00:06:14,672
+[Michael] Ah, dostum,
+
+159
+00:06:14,673 --> 00:06:16,941
+laboratuvar faresi olmadığım için çok mutluyum.
+
+160
+00:06:16,942 --> 00:06:19,811
+Bu görev gerçekten uzaysal
+hafızamı teste tabi tuttu.  Sadece dağların şekillerini rehber olarak kullanarak
+
+161
+00:06:19,812 --> 00:06:22,847
+aynı
+görünmez sualtı platformunu
+
+162
+00:06:22,848 --> 00:06:24,615
+tekrar tekrar
+
+163
+00:06:24,616 --> 00:06:27,552
+
+
+
+164
+00:06:27,553 --> 00:06:29,720
+bulmam gerekiyordu ama en azından
+ıslanmam gerekmiyordu.
+
+165
+00:06:29,721 --> 00:06:31,055
+Hey.
+
+166
+00:06:31,056 --> 00:06:32,757
+Bu
+beklediğimden daha zordu.
+
+167
+00:06:32,758 --> 00:06:35,560
+[Craig] Bunlar, bilgisayara
+yükleyebildiğimiz için yapabildiğimiz türden görevler
+
+168
+00:06:35,561 --> 00:06:37,094
+
+.
+
+169
+00:06:37,095 --> 00:06:38,496
+Ve video oyunlarını yaptıktan sonra onları tekrar ziyaret edeceğiz
+
+170
+00:06:38,497 --> 00:06:39,897
+
+.
+
+171
+00:06:39,898 --> 00:06:43,134
+Ama aynı zamanda,
+
+
+172
+00:06:43,135 --> 00:06:46,471
+
+bunu sadece bilgisayarda yapmaktan
+
+173
+00:06:46,472 --> 00:06:48,473
+
+alıp gerçek dünyaya sokmayı deneyebilmek için şimdi burada gerçekten harika bir fırsatımız var.
+
+174
+00:06:48,474 --> 00:06:49,740
+
+Bunu daha önce yaptınız mı?
+
+175
+00:06:49,741 --> 00:06:52,143
+Hayır
+. Bu tür şeyler yapamayız.
+
+176
+00:06:52,144 --> 00:06:54,879
+- Pekala,
+Zihin Alanına hoş geldiniz.
+- Mükemmel.
+
+177
+00:06:54,880 --> 00:07:00,618
+[müzik çalıyor]
+
+178
+00:07:00,619 --> 00:07:02,153
+[Michael]
+Yani bu mu?  Çok büyük.
+
+179
+00:07:02,154 --> 00:07:04,021
+[Craig]
+Seni buraya bunun için getirdik
+
+180
+00:07:04,022 --> 00:07:06,858
+, gerçek dünyadaki bir
+hafıza testine sahip olman için.
+
+181
+00:07:06,859 --> 00:07:09,727
+
+Labirentte bir laboratuvar faresi olacaksın.
+
+182
+00:07:09,728 --> 00:07:11,028
+Dolayısıyla bu bizim için büyük bir ilk.
+
+183
+00:07:11,029 --> 00:07:12,897
+Hafıza araştırmaları için gerçekten büyük bir ilk
+.
+
+184
+00:07:12,898 --> 00:07:14,232
+[Michael]
+Peki bunun daha önce görmüş olduğunuz şeyi nasıl
+etkileyeceğini düşünüyorsunuz
+
+185
+00:07:14,233 --> 00:07:16,667
+
+
+
+186
+00:07:16,668 --> 00:07:18,903
+, yani bir video
+
+oyununda 3B ortamda hareket
+
+187
+00:07:18,904 --> 00:07:22,640
+etmek
+aslında beyninizi fiziksel olarak
+etkileyebilir mi?
+
+188
+00:07:22,641 --> 00:07:24,909
+[Dane] Bir
+şekilde
+
+189
+00:07:24,910 --> 00:07:26,944
+hipokampüsünüzü
+
+uzamsal hafıza
+
+190
+00:07:26,945 --> 00:07:29,247
+ve uzamsal navigasyonda daha
+iyi olacak şekilde eğitebilirsek
+
+191
+00:07:29,248 --> 00:07:30,148
+, bu alanların bazılarında gelişmeler göreceğimizi umardık.
+
+192
+00:07:30,149 --> 00:07:31,916
+Ve bu sadece
+bir labirentte koşmak olmayacak.
+
+193
+00:07:31,917 --> 00:07:34,552
+Burada gömülü nesneler var
+
+
+194
+00:07:34,553 --> 00:07:37,622
+ve her şeyin nerede olduğunu hatırlama yeteneğinizi test edeceğiz
+
+.
+
+195
+00:07:37,623 --> 00:07:41,559
+Oh, ve
+orada ne varsa zihinsel bir haritasını oluşturun.
+
+196
+00:07:41,560 --> 00:07:42,693
+[Craig]
+Yani beş dakikanız var.
+
+197
+00:07:42,694 --> 00:07:44,262
+İçeri girin, keşfedin
+, labirenti
+
+198
+00:07:44,263 --> 00:07:45,563
+öğrenin ve nesneleri öğrenin.
+
+199
+00:07:45,564 --> 00:07:48,065
+Gitmek.
+
+200
+00:07:48,066 --> 00:07:50,234
+[Michael] Duvarlar bir
+buçuk metre yüksekliğinde olduğu
+
+201
+00:07:50,235 --> 00:07:52,870
+
+için kuşbakışı göremedim.
+
+202
+00:07:52,871 --> 00:07:55,706
+Benim görevim,
+
+
+203
+00:07:55,707 --> 00:07:59,110
+tamamen göz hizasında görebildiğim
+beyaz duvarların açılarına ve dönüşlerine
+
+204
+00:07:59,111 --> 00:08:00,578
+
+
+205
+00:08:00,579 --> 00:08:02,747
+ve labirentin dışındaki birkaç uzun ağaç
+ve ışık direğine dayanan uzamsal bir bellek yaratmaktı
+
+206
+00:08:02,748 --> 00:08:04,916
+.
+
+207
+00:08:04,917 --> 00:08:06,984
+Peki.  Bu yüzden kendimi yönlendirdim.
+
+208
+00:08:06,985 --> 00:08:08,252
+Giriş bu tarafta.
+
+209
+00:08:08,253 --> 00:08:10,254
+Orada bir çıkış var.
+
+210
+00:08:10,255 --> 00:08:13,090
+Bunu sağ
+taraf, bunu sol taraf olarak düşünüyorum.  Dış kenarda var gibi hissettiğim şeylerin nerede olduğuna
+
+211
+00:08:13,091 --> 00:08:15,259
+dair belirsiz bir fikrim var
+
+
+212
+00:08:15,260 --> 00:08:18,663
+
+
+
+213
+00:08:18,664 --> 00:08:21,832
+ama
+içerideki pek çok şey hakkında bilgim yok.
+
+214
+00:08:21,833 --> 00:08:23,701
+[Craig] Ve zaman.
+
+215
+00:08:23,702 --> 00:08:25,903
+Tamam.  Artık
+
+labirenti keşfetme, nesnelerin
+
+216
+00:08:25,904 --> 00:08:27,972
+nerede olduğunu bulma şansınız oldu
+.
+
+217
+00:08:27,973 --> 00:08:29,340
+Şimdi hafızanı test edeceğiz...
+
+
+218
+00:08:29,341 --> 00:08:30,308
+- Tamam.
+- ...ve sizi zamanlayıp
+
+219
+00:08:30,309 --> 00:08:30,976
+nereye gittiğinizi göreceğiz.
+
+220
+00:08:30,977 --> 00:08:31,943
+- Peki.
+- Peki.  Hazır mısın?
+
+221
+00:08:31,944 --> 00:08:33,344
+- Ben hazırım.
+- [Dane] Yani ilk
+
+222
+00:08:33,345 --> 00:08:34,678
+nesneniz bisiklet pompası.
+
+223
+00:08:34,679 --> 00:08:38,081
+- Gitmek.
+- [Michael] Pompa.  Peki.
+
+224
+00:08:38,082 --> 00:08:40,817
+[Michael] Pompa
+her zaman sağa dönüyor, pompanın
+
+225
+00:08:40,818 --> 00:08:45,256
+en sağ
+kısmına sarılıyordu.
+
+226
+00:08:45,257 --> 00:08:47,758
+Ha ha!  Evet.  Kolay.  Peki.
+
+227
+00:08:47,759 --> 00:08:50,027
+Şimdi, sanırım çıkmak için tam tersini yapıyorum
+.
+
+228
+00:08:50,028 --> 00:08:53,965
+Sol taraf--
+evet, sanırım bu dönüşü yapmalıyım.
+
+229
+00:08:53,966 --> 00:08:57,201
+İşte burada.
+
+230
+00:08:57,202 --> 00:08:58,636
+- Pompa mı istedin?
+- Tamam.
+
+231
+00:08:58,637 --> 00:09:01,005
+İkinci madde, basketbol.
+
+232
+00:09:01,006 --> 00:09:03,341
+[Michael]Daha sonra, Dr. Stark
+ve Dr. Clemenson
+
+233
+00:09:03,342 --> 00:09:05,042
+
+
+234
+00:09:05,043 --> 00:09:07,612
+, ne kadar hızlı
+olduğum, yaptığım hataların sayısı
+
+235
+00:09:07,613 --> 00:09:10,982
+ve
+her seferinde en uygun rotayı alıp almadığım konusunda performansımı değerlendireceklerdi.
+
+236
+00:09:10,983 --> 00:09:11,683
+[Craig] Ve zaman.
+
+237
+00:09:11,684 --> 00:09:13,951
+Üçüncü
+öğe kedidir.  Gitmek.
+
+238
+00:09:13,952 --> 00:09:16,287
+[Michael]
+İşte pisi, pisi, pisi.
+
+239
+00:09:16,288 --> 00:09:17,755
+Anladım.
+
+240
+00:09:17,756 --> 00:09:18,990
+[Dane] Dördüncü
+eşya yastık.
+
+241
+00:09:18,991 --> 00:09:20,825
+[Michael]
+Adımlarımın izini sürüyorum.
+
+242
+00:09:20,826 --> 00:09:22,293
+- [Dane] Mum boya.
+- [Michael] Sakin ol.
+
+243
+00:09:22,294 --> 00:09:23,828
+- [Dane] Kitap.
+- [Michael] Tamam.
+
+244
+00:09:23,829 --> 00:09:24,996
+[Dane] Bot.
+
+245
+00:09:24,997 --> 00:09:26,931
+Son
+öğe su şişesidir.
+
+246
+00:09:26,932 --> 00:09:32,737
+- Gitmek.
+- [Michael] Su şişesi.
+
+247
+00:09:32,738 --> 00:09:33,738
+Sanırım-- tarafından--
+
+248
+00:09:33,739 --> 00:09:38,075
+Evet, buradaydı.
+
+249
+00:09:38,076 --> 00:09:41,846
+Belki
+bu duvarın diğer tarafında.
+
+250
+00:09:41,847 --> 00:09:44,048
+Numara?  Ateş et.
+
+251
+00:09:44,049 --> 00:09:46,317
+Peki.  Belki buradadır.
+
+252
+00:09:46,318 --> 00:09:47,418
+Bekle.
+
+253
+00:09:47,419 --> 00:09:50,388
+Bu hayır?
+
+254
+00:09:50,389 --> 00:09:52,189
+Bu merkez küp.
+
+255
+00:09:52,190 --> 00:09:54,191
+Bu bölgede bunun
+
+256
+00:09:54,192 --> 00:09:58,362
+gibi uzun bir koridor gibi bir şeydi
+.
+
+257
+00:09:58,363 --> 00:10:00,197
+Ah, dostum.
+
+258
+00:10:00,198 --> 00:10:02,700
+[Michael]Bu noktaya kadar
+işler oldukça iyi gitmişti,
+
+259
+00:10:02,701 --> 00:10:05,169
+ama şimdi
+hipokampüsüm beni hayal kırıklığına uğratıyormuş gibi hissettim.
+
+260
+00:10:05,170 --> 00:10:07,071
+Eşyaların çoğu
+gitmiş olduğundan,
+
+261
+00:10:07,072 --> 00:10:08,339
+
+onları referans olarak kullanamadım
+
+262
+00:10:08,340 --> 00:10:10,941
+
+
+
+263
+00:10:10,942 --> 00:10:12,810
+ve çeşitli beyaz koridorlar arasındaki farkları ayırt etmek zordu
+.
+
+264
+00:10:12,811 --> 00:10:13,978
+Lanet olsun.
+
+265
+00:10:13,979 --> 00:10:15,846
+Oh, peki ya--
+
+266
+00:10:15,847 --> 00:10:17,448
+Anladım.
+
+267
+00:10:17,449 --> 00:10:20,384
+- Şişe geliyor.
+- [Craig] Pekala.
+İşte gidiyorsun.
+
+268
+00:10:20,385 --> 00:10:22,219
+- [Michael] Anladım.  Güzel.
+- Bu biraz
+daha sertti, ha?
+
+269
+00:10:22,220 --> 00:10:23,821
+[Michael]
+Evet, daha zordu.
+
+270
+00:10:23,822 --> 00:10:25,356
+- Böylece sekiz nesneyi de bulduk.
+- Aynen.
+
+271
+00:10:25,357 --> 00:10:27,224
+[Dane] Şimdi, bunu
+biraz daha zorlaştıracağız.
+
+272
+00:10:27,225 --> 00:10:28,926
+Yani bir
+sonraki aşamaya
+
+273
+00:10:28,927 --> 00:10:30,227
+geçeceğiz ve bu
+diğer taraftan olacak.
+
+274
+00:10:30,228 --> 00:10:32,063
+[Craig]
+Labirentte tersten gezinmek, uzaysal hafızanız için
+
+275
+00:10:32,064 --> 00:10:35,232
+daha da büyük bir
+test olacak.
+
+276
+00:10:35,233 --> 00:10:38,235
+Size sırayla
+almanız gereken dört şeyin bir listesini vereceğiz
+
+277
+00:10:38,236 --> 00:10:39,170
+.
+
+278
+00:10:39,171 --> 00:10:41,472
+[Dane] İlk
+sıra kitap
+
+279
+00:10:41,473 --> 00:10:43,374
+, şişe, pastel boya
+
+280
+00:10:43,375 --> 00:10:44,475
+ve çizme.
+
+281
+00:10:44,476 --> 00:10:47,812
+- Gitmek.
+- [Michael] Kitap.
+
+282
+00:10:47,813 --> 00:10:52,283
+Bence-- Top bu.
+
+283
+00:10:52,284 --> 00:10:53,084
+Anladım.
+
+284
+00:10:53,085 --> 00:10:54,919
+Oh, evet, şişe
+o kadar zordu ki
+
+285
+00:10:54,920 --> 00:10:58,489
+ama şimdi
+hangi sokağa inmem gerektiğini hatırlıyorum.
+
+286
+00:10:58,490 --> 00:10:59,724
+Mükemmel.
+
+287
+00:10:59,725 --> 00:11:01,992
+Pastel boya.
+
+288
+00:11:01,993 --> 00:11:04,228
+Bot.  Bunu isteme.
+
+289
+00:11:04,229 --> 00:11:04,896
+İşte burada.
+
+290
+00:11:04,897 --> 00:11:06,931
+Peki.  Şimdi, bota ihtiyacım var.
+
+291
+00:11:06,932 --> 00:11:08,065
+Oh, çizmeyi şimdi gördüm,
+
+292
+00:11:08,066 --> 00:11:10,334
+ama nasıl...
+
+293
+00:11:10,335 --> 00:11:14,138
+Anladım.
+Bitirdim.  Geri geliyorum.
+
+294
+00:11:14,139 --> 00:11:15,306
+- Onları aldım.
+- [Craig] Pekala.
+
+295
+00:11:15,307 --> 00:11:16,373
+Öyleyse sonraki dördü.
+
+296
+00:11:16,374 --> 00:11:18,042
+[Dane] Pompa, yastık
+
+297
+00:11:18,043 --> 00:11:19,944
+, basketbol topu ve kedi.
+
+298
+00:11:19,945 --> 00:11:23,314
+- [Craig] Pekala.  Harika.
+- [Dane] Pekala.  İyi iş.
+
+299
+00:11:23,315 --> 00:11:24,482
+[Michael] Tamam.
+Yani bu gerçekten eğlenceliydi
+
+300
+00:11:24,483 --> 00:11:26,517
+ama
+tek konu ben olamam.
+
+301
+00:11:26,518 --> 00:11:28,786
+Bu deney
+bir kontrol kullanabilir.
+
+302
+00:11:28,787 --> 00:11:30,521
+
+
+
+303
+00:11:30,522 --> 00:11:32,456
+Günlük bilgisayar
+oyunları oynayarak hayatımı zenginleştiren
+
+304
+00:11:32,457 --> 00:11:35,392
+
+benim mekansal hafızamda gerçekten bir değişikliğe neden olduğunu başka nasıl bileceğiz?
+
+305
+00:11:35,393 --> 00:11:37,161
+Neyse ki bunun
+
+306
+00:11:37,162 --> 00:11:39,063
+için iyi bir
+uyumlu kontrole sahibiz.
+
+307
+00:11:39,064 --> 00:11:40,498
+Bana benzeyen adamlar.
+
+308
+00:11:40,499 --> 00:11:41,966
+Tamam
+, birinin saçı çok fazla
+
+309
+00:11:41,967 --> 00:11:43,400
+ama siz iyi görünüyorsunuz.
+
+310
+00:11:43,401 --> 00:11:45,236
+- Hazır mısın?
+- [her şey hazır.
+
+311
+00:11:45,237 --> 00:11:46,804
+[Michael] Her deneyde
+
+312
+00:11:46,805 --> 00:11:48,506
+
+bir kontrol grubunun olması önemlidir.
+
+313
+00:11:48,507 --> 00:11:51,108
+Benzerlerim
+
+
+314
+00:11:51,109 --> 00:11:52,810
+
+
+315
+00:11:52,811 --> 00:11:54,445
+
+, bireysel temellerini oluşturmak için labirentte yaptığım testlerin aynısını yapmak zorunda kaldı.
+
+316
+00:11:54,446 --> 00:11:55,713
+Aradaki fark
+
+
+317
+00:11:55,714 --> 00:11:58,849
+
+, önümüzdeki 10 gün boyunca kesinlikle hiçbir video oyunu oynamayacak olmalarıydı.
+
+318
+00:11:58,850 --> 00:12:00,451
+O zaman
+performansımdaki
+
+319
+00:12:00,452 --> 00:12:03,420
+
+herhangi bir değişiklik, onlarınkilerdeki herhangi bir değişiklikle karşılaştırılacaktı.
+
+320
+00:12:03,421 --> 00:12:06,957
+[müzik çalma]
+
+321
+00:12:06,958 --> 00:12:09,193
+Sonra, çocukluğumdan beri video oyunları oynamadığım
+
+
+322
+00:12:09,194 --> 00:12:11,028
+
+için ideal bir temelden başlayarak oyun rejimime
+
+323
+00:12:11,029 --> 00:12:12,930
+
+
+
+324
+00:12:12,931 --> 00:12:14,232
+başladım.
+
+325
+00:12:14,233 --> 00:12:18,035
+On günlük oyun
+gerçekten bir fark yaratır mı?
+
+326
+00:12:18,036 --> 00:12:28,245
+[müzik çalma]
+
+327
+00:12:28,246 --> 00:12:31,282
+Teknoloji sadece bir
+şeyleri hatırlama şeklimizi etkilemiyor.
+
+328
+00:12:31,283 --> 00:12:34,552
+- [pırpır]
+� zamanda beynimizin empat
+ ve so
+
+329
+00:12:34,553 --> 00:12:37,488
+yal devreleriyle oynuy
+
+
+330
+00:12:37,489 --> 00:12:38,989
+r.  Aslında, çoğu durumda,
+
+331
+00:12:38,990 --> 00:12:41,158
+
+makineler
+
+332
+00:12:41,159 --> 00:12:42,560
+konusunda insanlardan daha rahatız.
+
+333
+00:12:42,561 --> 00:12:45,029
+Telefonlarımıza ne kadar
+önem verdiğimizi bir düşünün.
+
+334
+00:12:45,030 --> 00:12:47,898
+Robotist
+ve MIT Media Lab
+
+335
+00:12:47,899 --> 00:12:50,201
+mezunu Alex Reben,
+
+
+336
+00:12:50,202 --> 00:12:52,570
+
+bir kamera
+
+337
+00:12:52,571 --> 00:12:54,138
+ve masum küçük bir sesle donatılmış minyatür bir robot
+
+338
+00:12:54,139 --> 00:12:55,506
+olan BlabDroid'i icat etti ve
+
+
+339
+00:12:55,507 --> 00:12:57,441
+şüphelenmeyen yayalara çok kişisel sorular soruyor.
+
+340
+00:12:57,442 --> 00:13:00,177
+[BlabDroid]
+Bir hatayı geri alabilseydin, bu
+
+341
+00:13:00,178 --> 00:13:01,445
+ne olurdu?
+
+342
+00:13:01,446 --> 00:13:04,315
+Tanrım.
+Sadece birini geri alabilecek miyim?
+
+343
+00:13:04,316 --> 00:13:05,983
+[Michael]
+İnsanların çoğu
+
+344
+00:13:05,984 --> 00:13:07,551
+anında
+mahrem detayları paylaştı.
+
+345
+00:13:07,552 --> 00:13:09,920
+[BlabDroid]Bana
+daha
+
+346
+00:13:09,921 --> 00:13:11,255
+önce bir yabancıya söylemediğin bir şey söyle.
+
+347
+00:13:11,256 --> 00:13:13,357
+
+Aşık olamamaktan
+
+348
+00:13:13,358 --> 00:13:18,095
+ve
+bir aşk ilişkisine kendimi bırakamamaktan korkuyorum.
+
+349
+00:13:18,096 --> 00:13:19,263
+[Michael] Birçok yönden,
+
+350
+00:13:19,264 --> 00:13:21,365
+bir insanla
+konuşmaktansa bir makineyle konuşmaktan
+
+351
+00:13:21,366 --> 00:13:23,033
+daha rahatız.
+
+352
+00:13:23,034 --> 00:13:25,603
+Ama
+bir makine aracılığıyla konuşmaya ne dersiniz?
+
+353
+00:13:25,604 --> 00:13:27,538
+Demek istediğim, bir kişiye zor şeyleri mesaj yoluyla söylemek çoğu zaman gerçek hayattan daha kolay
+
+354
+00:13:27,539 --> 00:13:29,640
+
+
+
+355
+00:13:29,641 --> 00:13:31,475
+
+, değil mi?
+
+356
+00:13:31,476 --> 00:13:33,644
+Peki ya
+karşı taraftaki
+
+357
+00:13:33,645 --> 00:13:36,347
+kişi bir arkadaş
+ya da önemli biri
+
+358
+00:13:36,348 --> 00:13:38,649
+değil de bir terapistse?
+
+359
+00:13:38,650 --> 00:13:41,185
+Talkspace adlı bir zihinsel sağlık
+kuruluşu
+
+360
+00:13:41,186 --> 00:13:43,420
+,
+haftalık ücret ödeyen yetişkin kullanıcıların
+
+361
+00:13:43,421 --> 00:13:45,556
+tavsiye almak için metin terapistlerine gitmesini sağlar.
+
+362
+00:13:45,557 --> 00:13:48,058
+[kadın] Talkspace'de
+terapinin
+
+363
+00:13:48,059 --> 00:13:50,160
+
+isimsiz, lekesiz,
+
+364
+00:13:50,161 --> 00:13:53,931
+basit, uygun fiyatlı
+ve rahat olması gerektiğine inanıyoruz.
+
+365
+00:13:53,932 --> 00:13:56,166
+Mesajlaşma, kullanıcılara
+
+
+366
+00:13:56,167 --> 00:13:57,534
+açık ve dürüst olmaları için ihtiyaç duydukları mesafeyi verebilir.
+
+367
+00:13:57,535 --> 00:14:00,671
+Ve
+
+
+368
+00:14:00,672 --> 00:14:02,039
+
+
+369
+00:14:02,040 --> 00:14:03,607
+sadece randevu veya mesai saatlerinde değil, kullanıcı istediği zaman mesaj gönderilebilir.
+
+370
+00:14:03,608 --> 00:14:04,675
+[kadın]Talkspace,
+
+371
+00:14:04,676 --> 00:14:08,178
+bugün nasıl yaşadığımıza dair terapi.
+
+372
+00:14:08,179 --> 00:14:09,513
+[Michael] Nasılım?
+
+373
+00:14:09,514 --> 00:14:14,351
+Artık
+telefonum çalıştığı için daha iyi.
+
+374
+00:14:14,352 --> 00:14:19,423
+Ancak bazen,
+
+bizi rahatlatacak teknoloji aramıyoruz.
+
+375
+00:14:19,424 --> 00:14:24,695
+kendimizi
+teknolojiyi rahatlatmak isterken buluyoruz.
+
+376
+00:14:24,696 --> 00:14:27,064
+Bu bir ROBOTIS OP2'sidir.
+
+377
+00:14:27,065 --> 00:14:30,167
+Sevimli küçük adam, değil mi?
+
+378
+00:14:30,168 --> 00:14:32,069
+Peki bu sana nasıl hissettirdi?
+
+379
+00:14:32,070 --> 00:14:33,103
+Kötü?
+
+380
+00:14:33,104 --> 00:14:34,305
+Tamam da niye?
+
+381
+00:14:34,306 --> 00:14:36,206
+Robotlar sadece makineler,
+
+382
+00:14:36,207 --> 00:14:38,342
+metaller, teller
+ve bilgisayar çipleridir.
+
+383
+00:14:38,343 --> 00:14:42,046
+Ancak teknoloji ile çok fazla zaman harcıyoruz
+.
+
+384
+00:14:42,047 --> 00:14:43,580
+Teknolojiye bağımlıyız
+
+385
+00:14:43,581 --> 00:14:45,149
+ve onu önemsiyoruz.
+
+386
+00:14:45,150 --> 00:14:46,717
+Ancak onunla empati kurma derecemiz
+
+
+387
+00:14:46,718 --> 00:14:48,953
+bağlama bağlıdır.
+
+388
+00:14:48,954 --> 00:14:52,623
+[müzik çalıyor]
+
+389
+00:14:52,624 --> 00:14:54,959
+[Michael]
+Son zamanlarda,Vsauceofisim
+
+390
+00:14:54,960 --> 00:14:56,627
+böcekler tarafından işgal edildi--
+
+391
+00:14:56,628 --> 00:14:58,495
+robot hexbugs, yani.
+
+392
+00:14:58,496 --> 00:15:01,165
+Bu böcekler
+plastik, metal
+
+393
+00:15:01,166 --> 00:15:03,033
+ve elektronik devrelerden yapılmıştır.
+
+394
+00:15:03,034 --> 00:15:04,201
+Canlı değiller.
+
+395
+00:15:04,202 --> 00:15:05,569
+Fakat belirli koşullar insanlarda empatiye
+
+396
+00:15:05,570 --> 00:15:08,706
+ilham vermelerine neden olabilir
+mi?
+
+397
+00:15:08,707 --> 00:15:11,275
+Bir 2015 MIT araştırması
+
+398
+00:15:11,276 --> 00:15:14,111
+, bir robot
+hareketi, bir isim
+
+399
+00:15:14,112 --> 00:15:15,346
+ve kişisel bir arka plan vermenin, insanlarla duygusal bir bağlantıya yol açabilecek antropomorfik
+
+400
+00:15:15,347 --> 00:15:17,481
+etkisini artırma eğiliminde olduğunu buldu
+
+
+401
+00:15:17,482 --> 00:15:19,516
+
+
+
+402
+00:15:19,517 --> 00:15:20,718
+.
+
+403
+00:15:20,719 --> 00:15:22,586
+Bunu eylemde görmeye karar verdik
+.
+
+404
+00:15:22,587 --> 00:15:25,589
+- Bugünkü yardımın için teşekkürler.
+- Tabii ki.  Zevk.
+
+405
+00:15:25,590 --> 00:15:26,724
+[Michael
+] Gösterimizde deneklerimiz,
+
+406
+00:15:26,725 --> 00:15:29,026
+
+
+
+407
+00:15:29,027 --> 00:15:31,161
+kullanıcı dostu yeni bir teknolojiyi test etmeye odaklandıklarını düşünüyorlar.
+
+408
+00:15:31,162 --> 00:15:34,164
+Bu durumda,
+kendilerine cansız bir hexbug verilir
+
+409
+00:15:34,165 --> 00:15:36,066
+ve onu tanımlamaları istenir.
+
+410
+00:15:36,067 --> 00:15:38,202
+Bu şey bir tür
+böcek gibi görünüyor,
+
+411
+00:15:38,203 --> 00:15:39,536
+sadece
+ne yaptığını bilmiyorum.
+
+412
+00:15:39,537 --> 00:15:41,105
+Alt kısmında anahtarı vardır.
+
+413
+00:15:41,106 --> 00:15:42,172
+Hafif.
+
+414
+00:15:42,173 --> 00:15:43,307
+Bir çeşit dikdörtgen
+
+415
+00:15:43,308 --> 00:15:45,342
+ama uçları
+altıgen gibi.
+
+416
+00:15:45,343 --> 00:15:47,478
+[Michael]O
+zaman empatilerini test etme zamanı gelmişti.
+
+417
+00:15:47,479 --> 00:15:49,146
+Şimdi, Karina,
+şimdi yapmanı istediğim
+
+
+418
+00:15:49,147 --> 00:15:52,216
+şey, eşyayı
+
+o bloğun ortasına yerleştirmen.
+
+419
+00:15:52,217 --> 00:15:54,151
+
+Onu tutacak bir mıknatıs var.
+
+420
+00:15:54,152 --> 00:15:57,354
+Ve
+senden bu tokmağı
+
+421
+00:15:57,355 --> 00:15:58,422
+alıp parçalamanı istiyorum.
+
+422
+00:15:58,423 --> 00:16:02,760
+Evet.  Gerçekten?  Peki.
+Bu havalı.
+
+423
+00:16:02,761 --> 00:16:05,262
+[Michael] Katılımcılarımız
+
+
+424
+00:16:05,263 --> 00:16:06,764
+
+bu cansız nesneyi parçalamak için hiçbir direniş göstermediler.  Hatta
+
+425
+00:16:06,765 --> 00:16:10,434
+birçoğu bundan
+zevk alıyor gibiydi.
+
+426
+00:16:10,435 --> 00:16:12,169
+Onu kırdığın için kötü hissediyor musun?
+
+
+427
+00:16:12,170 --> 00:16:15,072
+Tam olarak değil.
+Buna kayıtsız hissettim.
+
+428
+00:16:15,073 --> 00:16:17,174
+Pek değil çünkü
+gerçek değildi.  [gülüyor]
+
+429
+00:16:17,175 --> 00:16:18,476
+Pek değil.
+
+430
+00:16:18,477 --> 00:16:20,511
+[Michael] Bu denekler
+
+
+431
+00:16:20,512 --> 00:16:22,312
+cansız böceklere karşı empati göstermezken,
+
+432
+00:16:22,313 --> 00:16:25,049
+
+aynı böcek
+
+433
+00:16:25,050 --> 00:16:26,750
+isimlerini ve hareketlerini verdiğimizde bakın ne oldu.
+
+434
+00:16:26,751 --> 00:16:28,819
+Bu Margaret.  Peki.
+
+435
+00:16:28,820 --> 00:16:30,220
+Margaret'i
+buraya yerleştireceğim.
+
+436
+00:16:30,221 --> 00:16:31,755
+Sadece
+Margaret'i izlemeni istiyorum
+
+437
+00:16:31,756 --> 00:16:33,457
+,
+tamam mı?
+
+438
+00:16:33,458 --> 00:16:35,659
+Ve
+onu almakta özgürsünüz.
+
+439
+00:16:35,660 --> 00:16:37,594
+Gerçekten çok iyi huylu.
+
+440
+00:16:37,595 --> 00:16:39,496
+- Dürüst olmak gerekirse
+, favorilerimizden biri.
+- [kadın, gülüyor] Tamam.
+
+441
+00:16:39,497 --> 00:16:42,566
+Peki
+Margaret'in kişiliğini nasıl tanımlarsınız?
+
+442
+00:16:42,567 --> 00:16:46,370
+Şu anda biraz düzensiz
+
+443
+00:16:46,371 --> 00:16:48,405
+ama sanırım onu kaldırırsam sakin
+
+
+444
+00:16:48,406 --> 00:16:50,441
+eşiyor.  [Michael]
+
+
+445
+00:16:50,442 --> 00:16:53,744
+
+Öznenin nesneyi "o" olarak adlandırarak nasıl antropomorfize ettiğine dikkat edin.
+
+446
+00:16:53,745 --> 00:16:55,479
+Belki
+benim enerjimden besleniyordur.
+
+447
+00:16:55,480 --> 00:16:57,414
+Olabilirdi.
+
+448
+00:16:57,415 --> 00:16:58,615
+Işığa doğru git.
+
+449
+00:16:58,616 --> 00:17:00,117
+Ortaya doğru git.
+
+450
+00:17:00,118 --> 00:17:01,518
+[Michael]
+Margaret'in senden hoşlandığını düşünüyor musun?
+
+451
+00:17:01,519 --> 00:17:03,720
+Evet, belki de bunu
+bu yüzden yapıyor
+
+452
+00:17:03,721 --> 00:17:05,289
+ve belki ben
+böyle gittiğimde o kadar
+
+453
+00:17:05,290 --> 00:17:07,758
+
+da düzensiz davranmıyor.
+
+454
+00:17:07,759 --> 00:17:09,226
+Bu Aaron.
+
+455
+00:17:09,227 --> 00:17:10,594
+Merhaba, Harun.
+
+456
+00:17:10,595 --> 00:17:12,362
+
+Biraz tabanca olabilir.
+
+457
+00:17:12,363 --> 00:17:13,864
+- Mümkün değil.
+- Evet.
+
+458
+00:17:13,865 --> 00:17:17,366
+
+Onu kimin tuttuğuna bağlı.
+
+459
+00:17:17,367 --> 00:17:18,735
+[gülüyor]
+
+460
+00:17:18,736 --> 00:17:21,305
+Ah, evet.
+Çok fazla enerjisi var.
+
+461
+00:17:21,306 --> 00:17:24,107
+Harun, merhaba.
+
+462
+00:17:24,108 --> 00:17:26,175
+[Michael] Şimdi
+Eli ile biraz daha etkileşim kurduğuna göre,
+
+463
+00:17:26,176 --> 00:17:28,178
+
+onun kişiliğini nasıl tanımlarsın?
+
+464
+00:17:28,179 --> 00:17:29,780
+Muhtemelen sadece gergindir.
+O korktu.
+
+465
+00:17:29,781 --> 00:17:32,316
+-
+Neler olduğunu bilmiyor.
+- Selam Joe.
+
+466
+00:17:32,317 --> 00:17:33,851
+[Michael]Bu denekler
+de
+
+467
+00:17:33,852 --> 00:17:35,752
+böceklerini parçalamaya istekli olacaklar mı?
+
+468
+00:17:35,753 --> 00:17:40,190
+Amy,
+Margaret'i tam buraya yerleştireceğim
+
+469
+00:17:40,191 --> 00:17:42,860
+ve sonra
+
+bu tokmağı almanı
+
+470
+00:17:42,861 --> 00:17:46,530
+
+ve parçalamanı istiyorum.
+
+471
+00:17:46,531 --> 00:17:47,631
+Hayır.
+
+472
+00:17:47,632 --> 00:17:50,400
+Onu incitmek istemiyorum.
+
+473
+00:17:50,401 --> 00:17:53,537
+Sadece bu tokmağı al
+ve Aaron'u parçala.
+
+474
+00:17:53,538 --> 00:17:58,509
+[müzik çalıyor]
+
+475
+00:17:58,510 --> 00:18:00,777
+[Michael]
+Senden
+bu tokmağı
+
+476
+00:18:00,778 --> 00:18:05,215
+almanı isteyeceğim ve
+onu parçalamanı istiyorum.
+
+477
+00:18:05,216 --> 00:18:07,551
+Parçalamak mı?
+
+478
+00:18:07,552 --> 00:18:08,685
+Vur ona?
+
+479
+00:18:08,686 --> 00:18:09,920
+Ve Chris...
+
+480
+00:18:09,921 --> 00:18:11,355
+Joe'yu öldürmemi mi istiyorsun?
+
+481
+00:18:11,356 --> 00:18:12,489
+Lütfen Joe'yu parçala.
+
+482
+00:18:12,490 --> 00:18:14,658
+Ah.
+
+483
+00:18:14,659 --> 00:18:17,427
+Joe, üzgünüm.
+
+484
+00:18:17,428 --> 00:18:20,297
+Ah, Joe.  Joe.
+
+485
+00:18:20,298 --> 00:18:27,905
+[müzik çalıyor]
+
+486
+00:18:27,906 --> 00:18:32,910
+
+Aaron'u ezmek nasıl bir duygu?
+
+487
+00:18:32,911 --> 00:18:36,547
+
+
+
+488
+00:18:36,548 --> 00:18:38,515
+Onunla vakit geçirdikten ve onu tanıdıktan sonra iyi hissetmedim
+
+489
+00:18:38,516 --> 00:18:39,816
+.
+
+490
+00:18:39,817 --> 00:18:41,251
+
+Cansız
+
+491
+00:18:41,252 --> 00:18:43,320
+ve kendine ait bir aklı olmasa da bir
+
+
+492
+00:18:43,321 --> 00:18:44,488
+
+anda ona bağlandım çünkü elime
+
+493
+00:18:44,489 --> 00:18:45,889
+
+
+
+494
+00:18:45,890 --> 00:18:46,957
+aldığımda enerjisini hissettim.
+
+495
+00:18:46,958 --> 00:18:48,725
+Üzgünüm, Joe.
+
+496
+00:18:48,726 --> 00:18:50,627
+- Kötümü hissediyorsun?
+- Yaparım.
+
+497
+00:18:50,628 --> 00:18:51,695
+Joe için kötü hissediyorum.
+
+498
+00:18:51,696 --> 00:18:53,730
+Oldukça havalıydı.
+
+499
+00:18:53,731 --> 00:18:55,465
+Geri döndü.
+
+500
+00:18:55,466 --> 00:18:56,533
+O geri döndü?
+
+501
+00:18:56,534 --> 00:18:58,335
+Pompa, pompa.
+
+502
+00:18:58,336 --> 00:19:00,204
+
+
+
+503
+00:19:00,205 --> 00:19:01,939
+Geri gelmemesi için onu tekrar kırar mısın?
+
+504
+00:19:01,940 --> 00:19:03,740
+- Hayır
+neden olmasın?
+
+505
+00:19:03,741 --> 00:19:05,609
+Demek hayatta kaldı.
+Bir kez hayatta kaldı.
+
+506
+00:19:05,610 --> 00:19:08,212
+Tekrar yapmayacağım.
+
+507
+00:19:08,213 --> 00:19:09,947
+[Michael]Açıkçası,
+insanların
+
+508
+00:19:09,948 --> 00:19:12,950
+teknolojiye duygusal olarak
+bağlanmaları çok fazla zaman almıyor.
+
+509
+00:19:12,951 --> 00:19:15,819
+Ama on
+günlük video oyunumdan sonra--
+
+510
+00:19:15,820 --> 00:19:17,654
+Güzel.
+
+511
+00:19:17,655 --> 00:19:20,591
+
+Teknolojinin
+
+512
+00:19:20,592 --> 00:19:22,326
+uzamsal hafızamı
+
+513
+00:19:22,327 --> 00:19:24,428
+ve fiziksel beynimi etkileyip etkilemediğini öğrenmek üzereydim.
+
+514
+00:19:24,429 --> 00:19:25,563
+[müzik çalıyor]
+
+515
+00:19:25,564 --> 00:19:27,497
+[Michael]Pekala.
+On gün oldu.
+
+516
+00:19:27,498 --> 00:19:29,399
+Aynen öyle,
+
+
+517
+00:19:29,400 --> 00:19:31,835
+on gün
+önceki testiniz ile şimdiki testiniz arasındaki farka bakacağız ve
+
+518
+00:19:31,836 --> 00:19:33,370
+
+herhangi bir değişiklik görüp görmediğimizi göreceğiz.
+
+519
+00:19:33,371 --> 00:19:35,572
+[Michael]
+İlk olarak, her ikisi de bir öncekinden farklı içerikle revize edilmiş
+
+520
+00:19:35,573 --> 00:19:37,741
+olan nesne tanıma
+hafıza testini
+
+521
+00:19:37,742 --> 00:19:39,509
+ve Morris su labirenti görevini tekrar almam
+
+522
+00:19:39,510 --> 00:19:42,412
+
+
+
+523
+00:19:42,413 --> 00:19:43,780
+gerekiyordu.
+
+524
+00:19:43,781 --> 00:19:45,449
+Sanırım daha iyisini yaptım.
+
+525
+00:19:45,450 --> 00:19:47,484
+Dane ve ben
+tüm bu verileri analiz
+edip nasıl yaptığınızı göreceğiz.
+
+526
+00:19:47,485 --> 00:19:49,987
+Ama şimdi
+tam boyutlu labirentine geri dönmeliyiz.
+
+527
+00:19:49,988 --> 00:19:54,524
+[müzik çalıyor]
+
+528
+00:19:54,525 --> 00:19:56,426
+[Craig]
+Demek yeni bir labirentimiz var.
+
+529
+00:19:56,427 --> 00:19:58,662
+Eskisini yıkın,
+
+
+530
+00:19:58,663 --> 00:20:00,397
+izomorfik olmaya çalışmak için yenisini inşa edin.
+
+531
+00:20:00,398 --> 00:20:02,966
+Yani aynı
+zorluk derecesine sahip.
+
+532
+00:20:02,967 --> 00:20:04,735
+Aynı
+sayıda seçim noktası
+
+533
+00:20:04,736 --> 00:20:06,536
+, aynı sayıda dönüş,
+
+534
+00:20:06,537 --> 00:20:09,339
+
+nesnelerin her birine aynı toplam mesafe,
+
+535
+00:20:09,340 --> 00:20:12,709
+benzer bir labirente sahip olmaya çalışmak,
+ancak bu yeni.
+
+536
+00:20:12,710 --> 00:20:16,046
+Üç, iki, bir, git.
+
+537
+00:20:16,047 --> 00:20:17,481
+[Michael] Buralarda
+
+538
+00:20:17,482 --> 00:20:18,516
+bir bonsai var.
+
+539
+00:20:18,517 --> 00:20:20,617
+Daha önce olduğu gibi
+
+
+540
+00:20:20,618 --> 00:20:22,486
+
+, labirenti
+
+541
+00:20:22,487 --> 00:20:24,688
+ve tüm nesnelerin nerede olduğunu tanımam için beş dakika
+verildi.
+
+542
+00:20:24,689 --> 00:20:27,024
+Şimdi,
+o duvara sarılmadan önce olduğum yer burası,
+
+543
+00:20:27,025 --> 00:20:28,959
+yani
+ikinci sağ duvara sarılırsam
+
+544
+00:20:28,960 --> 00:20:31,561
+ve sonuna kadar doğru kalırsam,
+bir vazo.
+
+545
+00:20:31,562 --> 00:20:33,463
+Hipokampusum
+daha mı iyi çalışıyordu?
+
+546
+00:20:33,464 --> 00:20:36,033
+Bu noktada,
+söylemek zordu.
+
+547
+00:20:36,034 --> 00:20:37,501
+Otuz saniye.
+
+548
+00:20:37,502 --> 00:20:39,870
+
+
+
+549
+00:20:39,871 --> 00:20:41,938
+Burada saklanan tüm nesneleri keşfettiğimden bile emin değilim.
+
+550
+00:20:41,939 --> 00:20:43,440
+Ve zaman.
+
+551
+00:20:43,441 --> 00:20:45,008
+[Michael]
+Sonra testim başladı.
+
+552
+00:20:45,009 --> 00:20:46,510
+İlk
+nesne bir lastik ördek.
+
+553
+00:20:46,511 --> 00:20:49,379
+- Gitmek.
+- Lastik ördek buradaydı.
+
+554
+00:20:49,380 --> 00:20:51,548
+Evet!
+Bunu nasıl seversin?
+
+555
+00:20:51,549 --> 00:20:52,849
+Bir ördek aldım.
+
+556
+00:20:52,850 --> 00:20:55,385
+İkinci
+öğe şapkadır.  Gitmek.
+
+557
+00:20:55,386 --> 00:20:57,087
+[Michael] Bu labirentte,
+kendimi içgüdüsel olarak
+
+558
+00:20:57,088 --> 00:20:58,522
+farklı bir yaklaşım kullanırken buldum.
+
+559
+00:20:58,523 --> 00:20:59,924
+Silindir şapka.
+
+560
+00:20:59,925 --> 00:21:01,925
+
+
+
+561
+00:21:01,926 --> 00:21:03,593
+Geçen sefer yaptığım gibi labirentin genel coğrafyasını düşünmek yerine,
+
+562
+00:21:03,594 --> 00:21:06,396
+bu sefer
+belirli detayları hatırlıyordum.
+
+563
+00:21:06,397 --> 00:21:09,800
+İkinci sağ,
+dönüşe sarıl, anladım.
+
+564
+00:21:09,801 --> 00:21:11,535
+Kelimenin tam anlamıyla
+belirli köşeleri,
+
+565
+00:21:11,536 --> 00:21:13,537
+dönüşleri ve düzlükleri hatırlamak.
+
+566
+00:21:13,538 --> 00:21:14,538
+Bonsai.
+
+567
+00:21:14,539 --> 00:21:15,572
+Şimdi mavi vazo.
+
+568
+00:21:15,573 --> 00:21:17,708
+Vay canına.
+Aslında havalı bir vazo.
+
+569
+00:21:17,709 --> 00:21:21,011
+Ama bu
+benim genel performansımı iyileştirir mi?
+
+570
+00:21:21,012 --> 00:21:22,079
+Sana bir sırt çantası aldım.
+
+571
+00:21:22,080 --> 00:21:23,513
+- Tamam.
+- Harika.
+
+572
+00:21:23,514 --> 00:21:25,048
+Böylece
+tüm nesneleri aldık.
+
+573
+00:21:25,049 --> 00:21:26,483
+Ama tabii ki burada yapacağımız
+başka bir hafıza testimiz
+
+574
+00:21:26,484 --> 00:21:28,752
+var.
+
+575
+00:21:28,753 --> 00:21:30,487
+
+Labirentin diğer tarafına gideceğiz
+
+576
+00:21:30,488 --> 00:21:32,356
+ve oradan hafızanı test edeceğiz
+.
+
+577
+00:21:32,357 --> 00:21:33,623
+- [Michael] Pekala.
+- [Dane] İlk
+
+578
+00:21:33,624 --> 00:21:35,459
+sıranız mavi
+denizatı, el feneri
+
+579
+00:21:35,460 --> 00:21:37,794
+, lastik ördek
+ve bonsai ağacı.
+
+580
+00:21:37,795 --> 00:21:39,363
+Gitmek.
+
+581
+00:21:39,364 --> 00:21:41,565
+[Michael
+] Çoklu eşya görevlerinde
+
+582
+00:21:41,566 --> 00:21:43,567
+
+karşı girişten
+
+583
+00:21:43,568 --> 00:21:46,636
+çalışmama
+rağmen labirentin çeşitli detaylarını hatırlamaya devam ettim
+
+584
+00:21:46,637 --> 00:21:48,105
+ki bu bana iyi hizmet ediyor gibiydi.
+
+585
+00:21:48,106 --> 00:21:51,441
+Oradan
+, sadece küçük bir spiral.
+
+586
+00:21:51,442 --> 00:21:52,509
+Güzel.
+
+587
+00:21:52,510 --> 00:21:53,977
+[zil çalar]
+
+588
+00:21:53,978 --> 00:21:56,847
+[Dane] Pekala.  Sıradaki
+sıranız mavi vazo
+
+589
+00:21:56,848 --> 00:21:58,448
+, şapka, sırt çantası
+
+590
+00:21:58,449 --> 00:22:00,617
+ve beyzbol eldiveni.
+- [Craig] Vur.
+
+591
+00:22:00,618 --> 00:22:02,152
+- Ve zaman.
+- Mükemmel.
+
+592
+00:22:02,153 --> 00:22:03,620
+E nasıldı?
+
+593
+00:22:03,621 --> 00:22:05,989
+Bu beklediğim kadar zor değildi
+.
+
+594
+00:22:05,990 --> 00:22:07,691
+- Ayrıntılarla ilgiliydi.
+- [Craig] Doğru.
+
+595
+00:22:07,692 --> 00:22:10,494
+Kelimenin tam
+anlamıyla, "Ah, tamam.
+
+596
+00:22:10,495 --> 00:22:12,028
+O sıra var
+
+597
+00:22:12,029 --> 00:22:13,163
+ve
+bir iki şey yapabilirim.
+
+598
+00:22:13,164 --> 00:22:14,664
+
+Eldiven ilk
+
+599
+00:22:14,665 --> 00:22:16,533
+. Bonsai
+daha da eski."
+
+600
+00:22:16,534 --> 00:22:19,035
+Bunu hiç planlamadım bile
+.
+Öyle bir şey oldu ki.
+
+601
+00:22:19,036 --> 00:22:21,905
+[Michael] Benzerlerim
+de yeni labirentte test edildi.
+
+602
+00:22:21,906 --> 00:22:23,540
+
+Video oyunları oynuyor muydunuz?
+
+603
+00:22:23,541 --> 00:22:24,908
+[hepsi] Hayır efendim.
+
+604
+00:22:24,909 --> 00:22:26,877
+[Michael]Yine,
+onların oyun dışı
+
+605
+00:22:26,878 --> 00:22:27,911
+durumları kontrol olurdu,
+
+606
+00:22:27,912 --> 00:22:29,646
+
+
+607
+00:22:29,647 --> 00:22:32,115
+eğer varsa,
+onlarınkine göre ölçülen iyileştirme miktarım.
+
+608
+00:22:32,116 --> 00:22:34,918
+[Craig] Pekala.
+İki numaralı tarama için buradayız.
+
+609
+00:22:34,919 --> 00:22:37,154
+[Michael]Sonunda, herhangi bir fiziksel değişiklik olup olmadığını belirlemek için
+beynim bir kez daha tarandı
+
+610
+00:22:37,155 --> 00:22:40,056
+
+
+.
+
+611
+00:22:40,057 --> 00:22:43,059
+Dr. Stark ve Dr. Clemenson
+, MRI'yı
+
+612
+00:22:43,060 --> 00:22:46,563
+diğer tüm verilerle birlikte analiz edecek
+ve bulgularını rapor edecekti.
+
+613
+00:22:46,564 --> 00:22:52,202
+[müzik çalıyor]
+
+614
+00:22:52,203 --> 00:22:53,537
+[Michael]
+
+
+615
+00:22:53,538 --> 00:22:55,439
+Hipokampüsümün biraz daha büyük olduğunu hissediyorum.
+
+616
+00:22:55,440 --> 00:22:58,708
+Evet.  Aslında, hayır,
+bilmiyorum.  Sonuçlarınızın ne
+
+617
+00:22:58,709 --> 00:23:01,545
+olduğunu görmek için endişeliyim
+.
+
+618
+00:23:01,546 --> 00:23:02,712
+Sanırım
+
+
+619
+00:23:02,713 --> 00:23:04,815
+önce nesne
+tanıma göreviyle başlayalım.
+
+620
+00:23:04,816 --> 00:23:08,952
+
+
+Video oyunu olmadan yaptığımız kontrol testinde,
+
+621
+00:23:08,953 --> 00:23:12,222
+insanların
+bu görevde gelişmediğini, ancak
+
+622
+00:23:12,223 --> 00:23:13,957
+... hafızanızın daha iyi olduğunu not etmek önemlidir.
+
+623
+00:23:13,958 --> 00:23:15,492
+On puan yükseldin.
+
+624
+00:23:15,493 --> 00:23:17,561
+On puan, yaşlandıkça başımıza gelenlerin aslında
+20 yıllık
+
+625
+00:23:17,562 --> 00:23:20,764
+
+değeridir.
+
+626
+00:23:20,765 --> 00:23:21,698
+Vay canına.
+
+627
+00:23:21,699 --> 00:23:23,166
+Bu
+
+628
+00:23:23,167 --> 00:23:25,702
+
+, gerçekten yaşlanan birinde görebileceğiniz şeylerle ilgili
+
+629
+00:23:25,703 --> 00:23:27,571
+, ancak
+on puan düşebilirler.
+- Aynen öyle.
+
+630
+00:23:27,572 --> 00:23:29,573
+Yaptığımız ikincisi
+
+
+631
+00:23:29,574 --> 00:23:32,709
+, su labirenti görevinin sanal versiyonuydu
+
+
+632
+00:23:32,710 --> 00:23:34,544
+ve ikinci kez yaptığınızda aslında %30 daha iyi performans
+gösterdiniz.
+
+633
+00:23:34,545 --> 00:23:35,846
+Fena değil.
+
+634
+00:23:35,847 --> 00:23:39,483
+Daha
+iyi stratejiler kullandığımı söyleyebilirim.
+
+635
+00:23:39,484 --> 00:23:40,884
+Evet.
+
+636
+00:23:40,885 --> 00:23:43,487
+- Gerçek labirentimiz de vardı.
+- [Michael] Evet.
+
+637
+00:23:43,488 --> 00:23:44,921
+[Craig]Bildiğiniz gibi
+iki labirent yaptık.
+
+638
+00:23:44,922 --> 00:23:47,057
+
+Onları eşitlemeye çalışmamıza rağmen
+
+639
+00:23:47,058 --> 00:23:49,659
+, ikinci labirent ilk labirentten
+biraz daha zordu
+
+640
+00:23:49,660 --> 00:23:50,827
+.
+
+641
+00:23:50,828 --> 00:23:52,262
+Nesneleri
+
+
+642
+00:23:52,263 --> 00:23:55,832
+ne kadar çabuk
+elde ettiğiniz,
+
+643
+00:23:55,833 --> 00:23:57,801
+ne kadar hata yaptığınız gibi şeylere
+bir
+
+644
+00:23:57,802 --> 00:24:00,003
+göz atarsak ve kontrol deneklerinin
+
+öncesi ve sonrası performansına bakarsak.
+
+645
+00:24:00,004 --> 00:24:01,738
+Yani hepsinde
+
+646
+00:24:01,739 --> 00:24:03,974
+, aslında
+ikinci labirentte biraz daha yavaşladılar
+
+647
+00:24:03,975 --> 00:24:06,743
+ve biri hariç hepsi
+daha fazla hata yaptı.
+
+648
+00:24:06,744 --> 00:24:08,245
+Performansınızı inceledik
+.
+
+649
+00:24:08,246 --> 00:24:10,780
+
+Labirentten ikiye yavaşlamadın.
+
+650
+00:24:10,781 --> 00:24:12,082
+Aslında hızlandın.
+
+651
+00:24:12,083 --> 00:24:13,650
+- [Michael]Gerçekten mi?
+- [Craig]Ve sen de aynı
+
+652
+00:24:13,651 --> 00:24:15,552
+sayıda hata yaptın.
+
+653
+00:24:15,553 --> 00:24:18,522
+Yani onlar iyileşmiyor
+ve sen iyileştirdin.
+
+654
+00:24:18,523 --> 00:24:19,789
+Ve
+bu
+
+655
+00:24:19,790 --> 00:24:21,791
+deneyde az
+sayıda denek olmasına rağmen
+
+656
+00:24:21,792 --> 00:24:25,295
+, sonuçlar 70 denek
+ile yaptığımız sanal labirent çalışmamızla tutarlı
+
+657
+00:24:25,296 --> 00:24:27,197
+.
+
+658
+00:24:27,198 --> 00:24:29,099
+- [Craig] Pekala.
+- Teşekkürler, video oyunları.
+
+659
+00:24:29,100 --> 00:24:30,801
+Peki ya
+beynimin içi?
+
+660
+00:24:30,802 --> 00:24:33,003
+[Craig]Beyninin içinde,
+gerçekten söylemek biraz daha
+zor.
+
+661
+00:24:33,004 --> 00:24:36,640
+
+Bunun
+
+662
+00:24:36,641 --> 00:24:38,041
+herhangi bir etkisinin küçük olmasını bekleriz.
+
+663
+00:24:38,042 --> 00:24:39,643
+Yani,
+hipokampüsünüzü
+
+664
+00:24:39,644 --> 00:24:40,978
+alıp iki kat daha büyük hale getiremezdik
+
+665
+00:24:40,979 --> 00:24:43,313
+çünkü o zaman
+
+başka bir şeyi dışarı itiyor olması gerekirdi.
+
+666
+00:24:43,314 --> 00:24:47,017
+Yani çok
+büyük bir değişiklik olmayacak.
+
+667
+00:24:47,018 --> 00:24:48,585
+Yani bir fark bulduğumuz
+
+
+668
+00:24:48,586 --> 00:24:50,887
+yer aslında
+hipokampus şeklinde.
+
+669
+00:24:50,888 --> 00:24:52,822
+Gördüğümüz şey
+
+
+670
+00:24:52,823 --> 00:24:55,659
+
+, her iki tarafta hipokampusta
+
+671
+00:24:55,660 --> 00:24:57,093
+
+
+
+672
+00:24:57,094 --> 00:24:58,662
+oyun oynamadan önceki ilk
+
+673
+00:24:58,663 --> 00:25:00,864
+günden oyundan sonraki on güne kadar şekil değiştirmiş gibi görünen bazı bölgeler vardı.
+
+674
+00:25:00,865 --> 00:25:04,100
+Benim için gerçekten şaşırtıcı olan şey
+, bir yetişkin olarak
+
+675
+00:25:04,101 --> 00:25:05,802
+beynimin hala değişiyor olması.
+
+676
+00:25:05,803 --> 00:25:08,305
+Bu
+beynime daha iyi bakmamı sağlıyor.
+
+677
+00:25:08,306 --> 00:25:09,440
+Evet.
+
+678
+00:25:09,441 --> 00:25:11,341
+Daha fazla egzersiz yapın
+, çünkü bu değişebilen bir şey
+.
+
+679
+00:25:11,342 --> 00:25:16,046
+Sadece
+bugün sahip olduğum şeye takılıp kalmıyorum.
+
+680
+00:25:16,047 --> 00:25:19,649
+Demek istediğim, tüm bunlarda,
+bence en büyük çıkarım
+
+681
+00:25:19,650 --> 00:25:21,351
+, bir şeyler yapmak,
+
+682
+00:25:21,352 --> 00:25:23,787
+beyninize
+öğrenecek bir
+
+683
+00:25:23,788 --> 00:25:26,923
+şey vermek, yapacak bir
+şey, bir çözüm bulmak için bir şeyler vermek
+
+684
+00:25:26,924 --> 00:25:28,725
+
+, aslında
+
+685
+00:25:28,726 --> 00:25:30,827
+beyninizi keskin tutmak olduğunu düşündüğümüz şey bu.
+
+686
+00:25:30,828 --> 00:25:33,096
+Bunu yapmanın bir yolu Mind Field'ı izlemeye devam etmektir
+.
+
+687
+00:25:33,097 --> 00:25:34,798
+[Craig] Kesinlikle.
+
+688
+00:25:34,799 --> 00:25:40,136
+[müzik çalıyor]
+
+689
+00:25:40,137 --> 00:25:43,773
+[Michael]
+Teknolojiyle olan ilişkimiz
+daha da güçlendikçe,
+
+690
+00:25:43,774 --> 00:25:47,811
+insanlar
+bunun beyinlerimize ne yapacağı konusunda endişeleniyorlar.  Makinelerimize
+
+691
+00:25:47,812 --> 00:25:49,779
+bellek boşaltmak
+ve bilgi işlem
+
+692
+00:25:49,780 --> 00:25:52,282
+yapmak bizi daha aptal mı yapacak?
+
+693
+00:25:52,283 --> 00:25:56,720
+Makinelere duyduğumuz empatinin
+
+
+694
+00:25:56,721 --> 00:25:59,656
+birbirimizle nasıl etkileşim kurduğumuz üzerinde olumsuz sonuçları olacak
+mı?
+
+695
+00:25:59,657 --> 00:26:02,792
+Pekala,
+
+
+696
+00:26:02,793 --> 00:26:04,794
+yeni bir tür teknolojinin
+
+
+697
+00:26:04,795 --> 00:26:07,197
+
+beynimizi kökten değiştirmekle tehdit ettiği başka bir zamana bakalım.
+
+698
+00:26:07,198 --> 00:26:08,798
+İki buçuk bin
+yıl önce
+
+699
+00:26:08,799 --> 00:26:10,834
+, Yunan filozofu Sokrates,
+
+700
+00:26:10,835 --> 00:26:13,169
+
+yazının yaygın olarak kullanılmasının
+
+701
+00:26:13,170 --> 00:26:15,939
+
+insanların zihinlerini olumsuz etkileyeceğinden endişe ediyordu.
+
+702
+00:26:15,940 --> 00:26:19,109
+
+Öğrencisi Platon'dan alıntı yapmak için yazmanın,
+
+703
+00:26:19,110 --> 00:26:20,777
+"unutkanlık
+
+704
+00:26:20,778 --> 00:26:23,146
+yaratacağını, çünkü
+insanlar anılarını kullanmayacaklarını
+
+705
+00:26:23,147 --> 00:26:26,249
+, dış
+yazılı karakterlere güveneceklerini
+
+706
+00:26:26,250 --> 00:26:29,085
+ve kendilerini hatırlamayacaklarını" söyledi.
+
+707
+00:26:29,086 --> 00:26:30,820
+Sokrates haklıydı.
+
+708
+00:26:30,821 --> 00:26:33,857
+Yazılı dil,
+beynimizi temelden değiştirdi.
+
+709
+00:26:33,858 --> 00:26:36,793
+Ama aynı zamanda modern uygarlığın başardığı
+her şeyin temel taşlarından biridir
+
+710
+00:26:36,794 --> 00:26:38,795
+
+.
+
+711
+00:26:38,796 --> 00:26:41,898
+
+İnsan olmanın tanımlayıcı özelliklerinden
+
+712
+00:26:41,899 --> 00:26:44,768
+biri, bunun
+bedenimin
+
+713
+00:26:44,769 --> 00:26:48,772
+sınırı olmaması ve bunun
+zihnimin sınırı olmamasıdır.
+
+714
+00:26:48,773 --> 00:26:54,978
+Ve her zamanki gibi,
+izlediğiniz için teşekkürler.
+
+715
+00:26:54,979 --> 00:26:57,082
+[tema müziği çalıyor]
+

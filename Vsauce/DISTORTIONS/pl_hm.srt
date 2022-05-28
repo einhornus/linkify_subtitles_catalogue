@@ -1,0 +1,684 @@
+1
+00:00:07,220 --> 00:00:10,558
+Hej, Vsauce. To ja, Michael. Jestem
+
+2
+00:00:10,559 --> 00:00:13,959
+zniekształcony. Piksele które właśnie oglądacie zostały
+
+3
+00:00:13,960 --> 00:00:18,179
+przesunięte w czasie. Zostały naniesione na gradient
+
+4
+00:00:18,180 --> 00:00:21,778
+i im ciemniejszy jest obszar, na który zostały naniesione, tym bardziej
+
+5
+00:00:21,779 --> 00:00:25,589
+są opóźnione. Efekt jest naprawdę zabawny, ale na pewno
+
+6
+00:00:25,590 --> 00:00:31,229
+nie realistyczny. A może jednak?
+
+7
+00:00:31,230 --> 00:00:35,819
+Wiele popularnych kamer cyfrowych cierpią na  zniekształcenia wywołane opóźnieniem,
+
+8
+00:00:35,820 --> 00:00:39,019
+tak jak właśnie widzisz, tylko,
+
+9
+00:00:39,020 --> 00:00:42,459
+o wiele bardziej subtelnie. Zazwyczaj kompletnie
+
+10
+00:00:42,460 --> 00:00:45,709
+niezauważalnie. Jest to efekt "rolling shutter".
+
+11
+00:00:45,710 --> 00:00:48,789
+Zamiast uchwycania całej klatki na raz
+
+12
+00:00:48,790 --> 00:00:52,198
+szybko skanują paski w każdej klatce. To
+
+13
+00:00:52,199 --> 00:00:56,709
+zazwyczaj nieuchwytne. Lecz kiedy obiekt zmienia się szybciej niż aparat
+
+14
+00:00:56,710 --> 00:00:57,549
+skanuje,
+
+15
+00:00:57,550 --> 00:01:03,209
+otrzymujemy znany rozmyty zniekształcony efekt 'rolling shutter'. Bardzo szybkie
+
+16
+00:01:03,210 --> 00:01:06,799
+rzeczy, jak wibrujące struny gitary i śmigła samolotu,
+
+17
+00:01:06,800 --> 00:01:11,709
+to znane ofiary efektu, lecz ludzie też mogą nimi być. Luke Mandel przesłał to zdjęcie
+
+18
+00:01:11,710 --> 00:01:16,618
+na Boing Boing[.net]. Jego aparat skanuje od lewej do prawej, i w tym przypadku
+
+19
+00:01:16,619 --> 00:01:20,209
+uchwycił mrugnięcie, zamknięte oczy
+
+20
+00:01:20,210 --> 00:01:25,169
+kiedy skan się rozpoczął, i otwarte w odbiciu, ułamek
+
+21
+00:01:25,170 --> 00:01:28,739
+sekundy później. Lecz efekt 'rolling shutter'
+
+22
+00:01:28,740 --> 00:01:32,699
+to nie tylko ciekawostka. Przedstawia on
+
+23
+00:01:32,700 --> 00:01:36,129
+fundamentalne i nieuniknione zniekształcenie które
+
+24
+00:01:36,130 --> 00:01:39,709
+wpływa na wszystko co widzimy. Rolling shutter
+
+25
+00:01:39,710 --> 00:01:44,118
+czy też nie. Na początek porozmawiajmy o zniekształceniach.
+
+26
+00:01:44,119 --> 00:01:47,408
+Halucynacja to zniekształcenie rzeczywistości
+
+27
+00:01:47,409 --> 00:01:51,389
+które nie posiada wyraźnego bodźca. Jeśli jedynie
+
+28
+00:01:51,390 --> 00:01:55,699
+błędnie interpretuje się prawdziwy bodziec, jest to iluzja.
+
+29
+00:01:55,700 --> 00:01:59,908
+Niektóre zniekształcenia jednak pojawiają się zanim nasze zmysły
+
+30
+00:01:59,909 --> 00:02:03,179
+i umysły się zaangażują. Nazywają się one
+
+31
+00:02:03,180 --> 00:02:08,339
+zjawiskami optycznymi. Nie są one efektem błędu w odczuciu czy też percepcji.
+
+32
+00:02:08,340 --> 00:02:13,659
+Zamiast tego, zjawiska optyczne to zniekształcenia spowodowane przez właściwości światła
+
+33
+00:02:13,660 --> 00:02:14,499
+i materii
+
+34
+00:02:14,500 --> 00:02:17,969
+samych w sobie. Jeśli spojrzysz na nocne niebo
+
+35
+00:02:17,970 --> 00:02:21,639
+i ujrzysz wielką barwną gurdę,
+
+36
+00:02:21,640 --> 00:02:24,899
+masz halucynacje. Jeśli jednak zobaczysz płaskie,
+
+37
+00:02:24,900 --> 00:02:28,999
+dwuwymiarowe kropki układające się w Wielką Niedźwiedzicę
+
+38
+00:02:29,000 --> 00:02:32,289
+widzisz iluzję. Jest to iluzja, bo te kropki jedynie
+
+39
+00:02:32,290 --> 00:02:37,509
+wydają się być w tej samej płaszczyźnie, jak dziurki w ciemnym sklepieniu nieba.
+
+40
+00:02:37,510 --> 00:02:40,608
+W rzeczywistości te kropki to gwiazdy
+
+41
+00:02:40,609 --> 00:02:44,729
+oddalone o lata świetlne od siebie w trzech wymiarach.
+
+42
+00:02:44,730 --> 00:02:48,839
+Jak pokazuje świetna darmowa wizualizacja kosmosu w 3D Celestron,
+
+43
+00:02:48,840 --> 00:02:52,439
+z różnych perspektyw poza naszą własną,
+
+44
+00:02:52,440 --> 00:02:56,409
+wyglądają one mniej jak garnuszek lub pług.
+
+45
+00:02:56,410 --> 00:02:59,659
+Tak na prawdę wszystkie konstelacje i asteryzmy
+
+46
+00:02:59,660 --> 00:03:03,649
+to geocentryczne iluzje. W szerszej perspektywie
+
+47
+00:03:03,650 --> 00:03:06,729
+ich zarysy wskazują do środka,
+
+48
+00:03:06,730 --> 00:03:09,789
+do pojedynczego, małego punktu w kosmosie
+
+49
+00:03:09,790 --> 00:03:13,559
+który nadał im ich nazwy. Nie można nas jednak winić.
+
+50
+00:03:13,560 --> 00:03:18,419
+Przecież Ziemia to jedyna perspektywa jaką jakikolwiek człowiek kiedykolwiek miał.
+
+51
+00:03:18,420 --> 00:03:22,208
+Nawet Voyager 1, najbardziej daleki obiekt stworzony przez człowieka,
+
+52
+00:03:22,209 --> 00:03:26,059
+nadal nie jest na tyle daleko by sprawić, że konstelacje wyglądają
+
+53
+00:03:26,060 --> 00:03:29,759
+choć odrobinę inaczej niż na Ziemi.
+
+54
+00:03:29,760 --> 00:03:33,569
+Nie jest też naszą winą, ani winą naszych oczu i mózgów,
+
+55
+00:03:33,570 --> 00:03:37,108
+że dalekie, bardzo dalekie gwiazdy nie znalazły się
+
+56
+00:03:37,109 --> 00:03:40,809
+w naszej wczesnej kosmicznej grze w łączenie kropek.
+
+57
+00:03:40,810 --> 00:03:44,078
+Jasne, nasz wzrok mógłby być lepszy,
+
+58
+00:03:44,079 --> 00:03:47,129
+lecz zjawiska optyczne również ponoszą winę.
+
+59
+00:03:47,130 --> 00:03:52,349
+Gdyby nie przesunięcie ku czerwieni, prawo odwrotnych kwadratów i ekstynkcja międzygwiazdowa
+
+60
+00:03:52,350 --> 00:03:55,599
+dalekie obiekty mogłyby być widoczne w pełnej krasie.
+
+61
+00:03:55,600 --> 00:03:59,819
+Nocne niebo wglądałoby niesamowicie. Wiele struktur
+
+62
+00:03:59,820 --> 00:04:03,149
+tam na górze jest ogromnych. Są po prostu
+
+63
+00:04:03,150 --> 00:04:06,849
+zbyt ciemne przy ich ogromie by były widoczne.
+
+64
+00:04:06,850 --> 00:04:11,869
+Kiedy widzimy zdjęcia dalekich obiektów z teleskopu Hubble'a, jak Mgławicy Ślimaka,
+
+65
+00:04:11,870 --> 00:04:15,509
+łatwo jest pomyśleć, że bez teleskopu ten
+
+66
+00:04:15,510 --> 00:04:19,289
+obiekt jest malutkim punktem na niebie.
+
+67
+00:04:19,290 --> 00:04:23,418
+W rzeczywistości, mimo, że Mgławica Ślimaka jest
+
+68
+00:04:23,419 --> 00:04:26,679
+oddalona o 700 lat świetlnych, ma ona
+
+69
+00:04:26,680 --> 00:04:31,159
+szerokość 3 lat świetlnych. Gdybyśmy mogli uczynić,
+
+70
+00:04:31,160 --> 00:04:34,339
+ją jaśniejszą, gdyby nasze oczy mogłyby uchwycić długi czas naświetlania,
+
+71
+00:04:34,340 --> 00:04:37,728
+moglybyśmy ujrzeć Mgławicę Ślimaka
+
+72
+00:04:37,729 --> 00:04:42,839
+taką jaka jest na prawdę - mającą 70% widocznej średnicy
+
+73
+00:04:42,840 --> 00:04:47,379
+naszego Księżyca. To niezły widok. Oto jak wielka byłaby Mgławica Ślimaka
+
+74
+00:04:47,380 --> 00:04:50,799
+na nocnym niebie, widocznym z Ziemi
+
+75
+00:04:50,800 --> 00:04:54,359
+gdyby tylko nie była taka ciemna. Swoją drogą
+
+76
+00:04:54,360 --> 00:04:59,199
+nasz Księżyc jest malutki na niebie. Łatwo pomyśleć, że jest on wielki,
+
+77
+00:04:59,200 --> 00:05:02,909
+wielkości piłki do baseball'a, lecz jest to iluzja.
+
+78
+00:05:02,910 --> 00:05:06,959
+Spróbuj tego, gdy następnym razem zobaczysz księżyc. Weź kartkę papieru z notatnika,
+
+79
+00:05:06,960 --> 00:05:10,299
+i zobaczysz, że średnica kątowa Księżyca
+
+80
+00:05:10,300 --> 00:05:14,839
+jest taka sama jak dziurka na boku kartki trzymanej
+
+81
+00:05:14,840 --> 00:05:19,879
+na wyciągnięcie ręki. Serio, spróbuj kiedyś. To tylko pokazuje jak
+
+82
+00:05:19,880 --> 00:05:23,619
+słodki i malutki jest nasz księżyc. Wielka Mgławica w Orionie
+
+83
+00:05:23,620 --> 00:05:27,099
+byłaby jeszcze większa, gdybyśmy widzieli jej całe światło.
+
+84
+00:05:27,100 --> 00:05:30,179
+A Galaktyka Andromedy? Jedynie
+
+85
+00:05:30,180 --> 00:05:34,969
+smuga na niebie dla naszych oczu. Gdyby jednak dało się ujrzeć jej światło lepiej,
+
+86
+00:05:34,970 --> 00:05:38,419
+zobaczylibyśmy cały prawdziwy ogrom Andromedy
+
+87
+00:05:38,420 --> 00:05:41,689
+na naszym niebie. Oczywiście, nasze
+
+88
+00:05:41,690 --> 00:05:44,719
+nocne niebo tak nie wygląda. Dalekie obiekty
+
+89
+00:05:44,720 --> 00:05:49,519
+są ciemniejsze, niestety. Światło jednak nadal wygrywa kiedy się rozpędzi.
+
+90
+00:05:49,520 --> 00:05:55,329
+Światło porusza się z najszybszą prędkością. W próżni, światło pędzi z prędkością
+
+91
+00:05:55,330 --> 00:05:58,539
+300,000 kilometrów na sekundę.
+
+92
+00:05:58,540 --> 00:06:01,069
+To szybko.
+
+93
+00:06:01,070 --> 00:06:04,629
+Ale nie do końca. To znaczy, nie kiedy porówna się tą prędkość z tym jak
+
+94
+00:06:04,630 --> 00:06:08,199
+oddalone są rzeczy w kosmosie. Sydney w Australii
+
+95
+00:06:08,200 --> 00:06:12,279
+jest oddalone o 1/14 sekundy świetlnej od Londynu.
+
+96
+00:06:12,280 --> 00:06:13,919
+Galaktyka Andromedy natomiast jest
+
+97
+00:06:13,920 --> 00:06:18,549
+2,5 miliona lat świetlnych od Londynu.
+
+98
+00:06:18,550 --> 00:06:22,829
+By pokazać to z perspektywy, przenieśmy się z prędkością światła z Londynu
+
+99
+00:06:22,830 --> 00:06:25,809
+do Sydney. Wyglądałoby to tak... Gotowi?
+
+100
+00:06:25,810 --> 00:06:30,849
+Trzy, dwa, jeden, lecimy!
+
+101
+00:06:30,850 --> 00:06:35,229
+Nieźle. Dobra, dobra. Oto Galaktyka Andromedy.
+
+102
+00:06:35,230 --> 00:06:40,519
+Ok, efekty relatywistyczne na bok, spójrzmy jak wyglądałaby
+
+103
+00:06:40,520 --> 00:06:43,179
+podróż do Galaktyki Andromedy
+
+104
+00:06:43,180 --> 00:06:46,019
+z prędkością światła. Gotowi? Dobra
+
+105
+00:06:46,020 --> 00:06:54,359
+Trzy, dwa, jeden, lecimy!
+
+106
+00:06:54,360 --> 00:06:57,449
+Tak. Serio, to
+
+107
+00:06:57,450 --> 00:07:01,349
+trochę słabe. Nawet z prędkością światła,
+
+108
+00:07:01,350 --> 00:07:05,229
+najszybszą możliwą prędkością, za rok od teraz,
+
+109
+00:07:05,230 --> 00:07:08,999
+nie bylibyśmy nawet  w jednej milionowej części podróży na miejsce.
+
+110
+00:07:09,000 --> 00:07:11,329
+Oto jak daleko
+
+111
+00:07:11,330 --> 00:07:14,979
+jest Andromeda. To nawet prawie smutne.
+
+112
+00:07:14,980 --> 00:07:20,289
+Lecz to sprowadza nas z powrotem do efektu 'rolling shutter'.
+
+113
+00:07:20,290 --> 00:07:25,959
+Galaktyka Andromedy jest ogromna. Jej szerokość to ponad 100,000 lat świetlnych
+
+114
+00:07:25,960 --> 00:07:29,589
+a nasz widok jest przechylony.
+
+115
+00:07:29,590 --> 00:07:33,819
+To oznacza, że na płaszczyźnie z której ją widzimy, światło z tyłu
+
+116
+00:07:33,820 --> 00:07:39,239
+pokazuje jak Andromeda wyglądała tysiące lat przed tym
+
+117
+00:07:39,240 --> 00:07:42,329
+co pokazuje światło z jej przodu.
+
+118
+00:07:42,330 --> 00:07:45,689
+Zmiany w wyglądzie z przodu docierają do nas wcześniej
+
+119
+00:07:45,690 --> 00:07:50,269
+niż te z tyłu. Andromeda się obraca, w niektórych miejscach
+
+120
+00:07:50,270 --> 00:07:51,909
+z prędkością setek tysięcy kilometrów na sekundę.
+
+121
+00:07:51,910 --> 00:07:55,669
+Opóźnienie między światłem docierającym od bliskich
+
+122
+00:07:55,670 --> 00:07:58,879
+i dalekich punktów obracającego się obiektu daje
+
+123
+00:07:58,880 --> 00:08:03,689
+przekrzywiony obraz. Efekt 'rolling shutter' na kosmiczną skalę
+
+124
+00:08:03,690 --> 00:08:06,699
+zastosowany do, powiedzmy, szachownicy widzianej z przodu
+
+125
+00:08:06,700 --> 00:08:11,259
+daje dość szalony i drastyczny efekt.
+
+126
+00:08:11,260 --> 00:08:13,789
+Czy jednak oznacza to, że widzimy
+
+127
+00:08:13,790 --> 00:08:18,199
+drgający, rodem z pokoju krzywych luster, zniekształcony przez efekt 'rolling shutter' widok na Andromedę
+
+128
+00:08:18,200 --> 00:08:21,669
+i inne dalekie galaktyki? Cóż, technicznie
+
+129
+00:08:21,670 --> 00:08:26,659
+tak, lecz zniekształcenie jest pomijalne. Może być równie dobrze
+
+130
+00:08:26,660 --> 00:08:30,019
+zignorowane. Dlaczego? Cóż,
+
+131
+00:08:30,020 --> 00:08:33,668
+prędkości użyte do tych wizualizacji nie oddają
+
+132
+00:08:33,669 --> 00:08:38,249
+skali. Uśredniając, tak, materia w galaktykach
+
+133
+00:08:38,250 --> 00:08:41,699
+orbituje wokół ich centrum z prędkością setek kilometrów na sekundę
+
+134
+00:08:41,700 --> 00:08:45,559
+lecz galaktyki są tak ogromne, że zajmuje im
+
+135
+00:08:45,560 --> 00:08:49,209
+setki milionów lat by wykonać choć jeden
+
+136
+00:08:49,210 --> 00:08:53,739
+obrót. Innymi słowy, opóźnienie między światłem
+
+137
+00:08:53,740 --> 00:08:56,999
+docierającym do nas z dalekich i bliskich punktów galaktyki
+
+138
+00:08:57,000 --> 00:09:00,289
+jest niczym w porównaniu to tego jak długo zajmuje
+
+139
+00:09:00,290 --> 00:09:03,859
+materii w galaktyce by poruszać się z taką samą prędkością.
+
+140
+00:09:03,860 --> 00:09:06,989
+W przypadku Andromedy, gdybyś upierał się
+
+141
+00:09:06,990 --> 00:09:10,379
+by zobaczyć ją taką jaką jest na prawdę,
+
+142
+00:09:10,380 --> 00:09:15,559
+biorąc poprawkę na opóźnienia spowodowane przez fakt, że prędkość światła jest skończona,
+
+143
+00:09:15,560 --> 00:09:18,799
+najbardziej oddalone punkty w Galaktyce
+
+144
+00:09:18,800 --> 00:09:23,039
+musiałyby być jedynie skorygowane o jedną dziesięciotysięczną
+
+145
+00:09:23,040 --> 00:09:26,419
+szerokości jakiegokolwiek obrazu. W tym przypadku, mniej niż o jeden piksel.
+
+146
+00:09:26,420 --> 00:09:30,799
+Tak więc to nieduży problem. Jednak nie żaden problem.
+
+147
+00:09:30,800 --> 00:09:34,529
+Jest prawdziwy. Tak na prawdę, wszystko na co spojrzymy jest,
+
+148
+00:09:34,530 --> 00:09:37,669
+w jakiś sposób, zniekształcone przez fakt, że prędkość światła
+
+149
+00:09:37,670 --> 00:09:40,749
+jest skończona. Twoje własne stopy są o około
+
+150
+00:09:40,750 --> 00:09:47,139
+5 do 6 nanosekund oddalone od Twoich oczu, co oznacza, że kiedy na nie patrzysz,
+
+151
+00:09:47,140 --> 00:09:50,949
+widzisz to jakimi były 5 do 6
+
+152
+00:09:50,950 --> 00:09:55,229
+nanosekund temu. 5 do 6 nanosekund w przeszłości.
+
+153
+00:09:55,230 --> 00:09:58,249
+Oczywiście, tak niewielkie opóźnienie jest praktycznie niewykrywalne
+
+154
+00:09:58,250 --> 00:10:01,879
+lecz jest obliczalne. Jeśli sprawia to, że czujesz
+
+155
+00:10:01,880 --> 00:10:05,219
+się smutno na myśl, że nawet z  najtęższym umysłem
+
+156
+00:10:05,220 --> 00:10:09,549
+albo najlepszymi instrumentami pomiarowymi, widok nadal zależy od
+
+157
+00:10:09,550 --> 00:10:13,139
+tego gdzie jesteś; Że zjawisko optyczne gwarantują
+
+158
+00:10:13,140 --> 00:10:17,679
+że to co widoczne jest zawsze względne (ang. pokrewne), nie czuj się źle.
+
+159
+00:10:17,680 --> 00:10:21,669
+Ludzi nam najbliższych nazywamy krewnymi.
+
+160
+00:10:21,670 --> 00:10:25,069
+Wszyscy jesteśmy tak na prawdę rodziną, wielką rodziną
+
+161
+00:10:25,070 --> 00:10:28,479
+punktów odniesienia, które, jak to rodzina, nie zawsze się zgadzają
+
+162
+00:10:28,480 --> 00:10:31,569
+lecz mają wiele fajnych rzeczy na które można popatrzeć.
+
+163
+00:10:31,570 --> 00:10:35,489
+Chciałbym podziękować swojemu redaktorowi, Guy'owi, za pomoc w
+
+164
+00:10:35,490 --> 00:10:51,888
+efektem 'rolling shutter' w tym filmie.
+
+165
+00:10:51,889 --> 00:10:54,448
+I chciałbym podziękować Tobie, ponieważ, jak zawsze
+
+166
+00:10:54,449 --> 00:11:21,969
+dziękuję za obejrzenie.
+
+167
+00:11:21,970 --> 00:11:23,009
+O, jedna fajna rzecz:
+
+168
+00:11:23,010 --> 00:11:26,039
+Będę na YouTube Fan Fest z HP
+
+169
+00:11:26,040 --> 00:11:29,579
+w Indiach, bardzo bardzo niedługo. Szczegóły w opisie filmu. Jeśli możesz
+
+170
+00:11:29,580 --> 00:11:30,069
+tam być,
+
+171
+00:11:30,070 --> 00:11:31,020
+Mam nadzieję że się zobaczymy.
+

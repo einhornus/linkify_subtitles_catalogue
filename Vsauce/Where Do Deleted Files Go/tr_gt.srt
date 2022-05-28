@@ -1,0 +1,716 @@
+1
+00:00:00,269 --> 00:00:03,539
+Selam, Vsauce.  Michael burada.
+Ama şimdi
+
+2
+00:00:03,540 --> 00:00:09,299
+değilim.  Şimdiye kadar yapılmış orijinal sessiz filmlerin %90'ı gibi gittim
+
+
+3
+00:00:09,300 --> 00:00:13,008
+.
+Antik dünyanın yedi harikasından altısı
+
+4
+00:00:13,009 --> 00:00:16,538
+silindi, göndermeyi düşündüğünüz o metin
+
+5
+00:00:16,539 --> 00:00:19,919
+veya bir Snapchat fotoğrafı gibi, değil mi?
+
+6
+00:00:19,920 --> 00:00:24,438
+Stalin, Troçki'nin
+devlet düşmanı
+
+7
+00:00:24,439 --> 00:00:28,268
+olduğuna karar verdiğinde, Troçki'yi Lenin'le birlikte göründüğü fotoğraflardan çıkardı
+
+8
+00:00:28,269 --> 00:00:32,158
+.
+Çok sayıda yazılım aracı ve profesyonel hizmet
+
+9
+00:00:32,159 --> 00:00:35,328
+, aynısını yapmanızı sağlar.
+
+
+10
+00:00:35,329 --> 00:00:39,369
+Bir anın gerçek katılımcılarını unutma,
+
+11
+00:00:39,370 --> 00:00:43,148
+onları sil.
+Ama silindiğinde işler nereye gider
+
+12
+00:00:43,149 --> 00:00:45,799
+?
+
+13
+00:00:45,800 --> 00:00:50,029
+Google Ngram Görüntüleyici
+
+
+14
+00:00:50,030 --> 00:00:54,698
+1500 ile 2008 yılları arasında yayınlanmış 5,2 milyon kitaptaki kelimeleri ve cümleleri aramanıza olanak tanır.
+
+15
+00:00:54,699 --> 00:00:58,328
+
+
+
+16
+00:00:58,329 --> 00:01:01,789
+Kullandığımız kelimelerin zamanla nasıl değiştiğini görmenin harika bir yolu.
+
+17
+00:01:01,790 --> 00:01:05,639
+1979 önemli bir
+
+18
+00:01:05,640 --> 00:01:10,969
+yıldı.  Ngram Viewer'a göre,
+
+
+19
+00:01:10,970 --> 00:01:14,349
+silme kelimesini silme kelimesinden daha sık kullanmaya başladığımız ilk yıldı
+
+20
+00:01:14,350 --> 00:01:17,758
+.
+Biyolojik silme
+
+21
+00:01:17,759 --> 00:01:22,928
+yine de kazanır.  Unutma, iletişimimizde çok daha
+yaygındır,
+
+22
+00:01:22,929 --> 00:01:26,648
+ancak bir bilgisayar nasıl unutur?
+
+23
+00:01:26,649 --> 00:01:30,648
+Bir dosyayı çöp kutusuna taşımak sadece bir başlangıç.
+
+24
+00:01:30,649 --> 00:01:34,579
+Yanlışlıkla silinmeye karşı korunmak için
+, çöp kutusuna atıldığında,
+
+25
+00:01:34,580 --> 00:01:39,109
+bir dosya bilgisayarınızda
+geçici bir dizinde, bir tür
+
+26
+00:01:39,110 --> 00:01:44,609
+arafta kalır, burada daha
+nihai bir silinmeyi bekler, ancak isterseniz yeniden dirilebilir
+
+27
+00:01:44,610 --> 00:01:48,199
+.
+Çöp kutusunu boşalttığınızda
+
+28
+00:01:48,200 --> 00:01:51,269
+, eylemi geri alamayacağınız konusunda uyarılırsınız.
+
+29
+00:01:51,270 --> 00:01:54,929
+Ancak çöp kutusunu
+
+30
+00:01:54,930 --> 00:01:58,408
+boşalttığınızda, dosyanın içinde bulunduğu fiziksel alan aslında boşaltılmaz.
+
+31
+00:01:58,409 --> 00:02:01,908
+Boş olarak işaretlendi.
+
+
+32
+00:02:01,909 --> 00:02:05,209
+Yeni verilerin bir yerde saklanması gerektiğinde kullanılabilir.
+
+33
+00:02:05,210 --> 00:02:09,249
+Dosyanın evi kullanılabilir emlak oldu
+
+34
+00:02:09,250 --> 00:02:13,869
+ama dosyanın kendisi taşınmadı.
+Sadece
+
+35
+00:02:13,870 --> 00:02:20,229
+işaretçiler gitti.  İşaretçiler,
+sürücünüzdeki
+
+36
+00:02:20,230 --> 00:02:24,238
+, başvurdukları gerçek dosyanın
+bulunabileceği bellekteki yerleri işaret eden başka bir veri türüdür.
+
+37
+00:02:24,239 --> 00:02:27,729
+Bunlar biraz içindekiler tablosuna benzerler,
+yani çoğu
+
+38
+00:02:27,730 --> 00:02:34,328
+işletim sisteminde bir dosyayı silip çöp kutusunu boşaltmak,
+
+39
+00:02:34,329 --> 00:02:37,389
+içindekiler tablosuna dönüp
+
+40
+00:02:37,390 --> 00:02:42,078
+bölümü boş olarak işaretleyerek kitaptan bir bölümü silmek gibidir.
+Burada bir şey yok, sayfalarla istediğini yap.
+
+41
+00:02:42,079 --> 00:02:46,488
+İçindekileri okuyan bir bilgisayara
+alan boşmuş gibi
+
+42
+00:02:46,489 --> 00:02:50,099
+görünebilir ama bu elbette
+bölümün içeriğinin hala orada olduğu gerçeğini değiştirmez
+
+43
+00:02:50,100 --> 00:02:57,659
+.
+Özel veri kurtarma araçları
+
+44
+00:02:57,660 --> 00:03:01,309
+, gerçekte orada ne olduğunu görmek için boş olarak işaretlenmiş belleğe bakar.
+Şanslıysanız,
+
+45
+00:03:01,310 --> 00:03:04,578
+bir dosya bile bulup kaydedebilirler, geri getirebilirler
+
+46
+00:03:04,579 --> 00:03:08,198
+, mevcut değil, silinmemiş olarak işaretleyin.
+
+47
+00:03:08,199 --> 00:03:11,939
+Ancak dosyanın bir kısmının üzerine zaten yazılmışsa
+
+48
+00:03:11,940 --> 00:03:15,729
+, sorunlar olabilir.
+Dosya
+
+49
+00:03:15,730 --> 00:03:19,768
+bozulabilir,
+bir tür dijital
+
+50
+00:03:19,769 --> 00:03:23,238
+Frankenstein canavarı gibi diğer verilerle birleştirilebilir.
+Birkaç yıl
+
+51
+00:03:23,239 --> 00:03:26,548
+önce fotoğrafçı Melanie Willhide'a ait bir dizüstü bilgisayar
+
+
+52
+00:03:26,549 --> 00:03:30,858
+çalındı.
+Son dijital fotoğraflarının çoğunu içeriyordu.
+
+53
+00:03:30,859 --> 00:03:35,668
+Neyse ki, polis
+dizüstü bilgisayarı ona iade edebildi.  Çektikleri bir arabada bulmuşlar
+
+54
+00:03:35,669 --> 00:03:36,488
+,
+
+55
+00:03:36,489 --> 00:03:41,899
+ancak hırsız dizüstü bilgisayarın
+sabit diskini silmiş
+
+56
+00:03:41,900 --> 00:03:43,418
+ve kendi amaçları için kullanmıştı.
+
+57
+00:03:43,419 --> 00:03:46,599
+Veri kurtarma uzmanları
+
+58
+00:03:46,600 --> 00:03:50,039
+, şu anda boş olan alanda hâlâ orada olan bazı dosyalarını bulabildiler,
+
+
+59
+00:03:50,040 --> 00:03:53,099
+ancak hırsızın yaptığı şeyler dosyaların üzerine hafifçe yazılmıştı
+
+60
+00:03:53,100 --> 00:03:56,298
+.
+Bozulmuşlardı ama
+
+61
+00:03:56,299 --> 00:04:00,509
+gerçekten harika bir şekilde.
+Çok havalı Willhide işi sergilemeye karar verdi.
+
+62
+00:04:00,510 --> 00:04:03,869
+Gösteriyi mümkün kılan hırsızdan sonra
+
+63
+00:04:03,870 --> 00:04:06,958
+"Adrian Rodriguez'e sevgilerle" adını verdi.
+
+64
+00:04:06,959 --> 00:04:10,208
+Dosyayı
+
+65
+00:04:10,209 --> 00:04:14,358
+
+Willhide'ın fotoğrafları gibi havalı, tuhaf bir şekilde kurtarılamayacak kadar tamamen silmek istiyorsanız
+
+66
+00:04:14,359 --> 00:04:18,448
+, istenmeyen dosyanın üzerine tamamen yazmanız gerekecek
+
+67
+00:04:18,449 --> 00:04:22,028
+.
+Dosyayı uygun bir şekilde
+
+68
+00:04:22,029 --> 00:04:25,059
+gömmeyin ve cesedini yeni verilerle yeniden düzenleyin.
+
+69
+00:04:25,060 --> 00:04:29,849
+Bir üzerine yazma yeterli olabilir ancak bazı
+insanlar 35'e
+
+70
+00:04:29,850 --> 00:04:34,409
+kadar çıkabilir. 35 üzerine yazma bile yeterli olmayabilir.
+
+71
+00:04:34,410 --> 00:04:39,079
+Elbette, geçersiz kılınan veriler gizlidir, peki ya bozuk
+
+72
+00:04:39,080 --> 00:04:43,969
+sektörler?  Bunlar,
+
+
+73
+00:04:43,970 --> 00:04:47,279
+arızalı transistörler veya fiziksel hasar nedeniyle aygıtların erişemediği bir sürücünün parçalarıdır.
+
+74
+00:04:47,280 --> 00:04:52,478
+Üzerine yazma işlemi onlara ulaşamaz,
+yani oraya yerleştirilen herhangi bir veri
+
+75
+00:04:52,479 --> 00:04:59,269
+orada kalır.  Dolayısıyla, Birleşik
+Devletler Savunma Bakanlığı iseniz ve
+
+76
+00:04:59,270 --> 00:05:00,948
+herhangi bir risk almak
+
+77
+00:05:00,949 --> 00:05:04,989
+istemiyorsanız, istenmeyen sürücüleri de parçalayacak, fiziksel olarak polarize edeceksiniz
+
+78
+00:05:04,990 --> 00:05:09,179
+.
+ABD, Avrupa ve Japonya,
+
+79
+00:05:09,180 --> 00:05:12,749
+bu tür elektronik atıkları genellikle
+
+80
+00:05:12,750 --> 00:05:16,459
+Gana'daki çöplüklere gönderir, bunun gibi.
+Gana'daki bu şehir,
+
+81
+00:05:16,460 --> 00:05:19,589
+Dünya'nın dijital çöplük alanı olarak biliniyor.
+
+82
+00:05:19,590 --> 00:05:23,158
+Neden Gana?
+Bağış
+
+83
+00:05:23,159 --> 00:05:27,859
+olarak işaretlenmiş kurtarılamaz elektronikleri Afrika'ya göndermek,
+
+
+84
+00:05:27,860 --> 00:05:31,668
+onları uygun şekilde geri dönüştürmekten daha ucuzdur.
+
+85
+00:05:31,669 --> 00:05:34,769
+Ama orada, bu elektronik dökümlerde
+
+86
+00:05:34,770 --> 00:05:38,098
+, dosyalar hala hayata döndürülebilir.
+
+87
+00:05:38,099 --> 00:05:43,468
+Gana'da faaliyet gösteren organize suçlular
+
+
+88
+00:05:43,469 --> 00:05:49,679
+, düzenlenmemiş e-dökümlerden verileri başarıyla kurtarmayı başardılar.
+
+
+89
+00:05:49,680 --> 00:05:53,068
+Savunma İstihbarat Teşkilatı, İç Güvenlik
+
+90
+00:05:53,069 --> 00:05:56,758
+ve TSA'nın dahil olduğu multi-milyon dolarlık gizli anlaşmalar bulabildiler.
+
+
+91
+00:05:56,759 --> 00:06:01,329
+Eskiden kağıtta olanlardan kurtulmak
+için kağıt parçalamak da güvenli bile
+
+92
+00:06:01,330 --> 00:06:06,288
+değil.  Kolay değil ve
+her zaman işe yaramaz.  Ancak
+
+93
+00:06:06,289 --> 00:06:11,119
+bilgisayar yazılımı kağıt parçalarını
+tarayarak parçaları bir araya getirebilir.
+
+94
+00:06:11,120 --> 00:06:15,168
+Ancak geçmişte, parçalanmış
+
+
+95
+00:06:15,169 --> 00:06:21,218
+belgeler elle parçalanmıyordu.  1979'da İranlı öğrenciler
+Tahran'daki ABD Büyükelçiliği'ni ele geçirdi.
+
+96
+00:06:21,219 --> 00:06:25,049
+Yerel halı dokumacılarının yardımıyla ve
+yıllarca süren sıkı çalışmanın yardımıyla, CIA tarafından parçalanan
+
+97
+00:06:25,050 --> 00:06:29,179
+binlerce sayfalık gizli belgeyi yeniden bir araya getirmeyi başardılar
+
+
+98
+00:06:29,180 --> 00:06:33,718
+.
+Parçalanmış parçacıklar
+
+99
+00:06:33,719 --> 00:06:37,019
+ne kadar küçükse ve ne kadar çok
+olursa, görev o kadar zor olur.  Bu nedenle
+
+100
+00:06:37,020 --> 00:06:40,848
+, Savunma Bakanlığı,
+parçalanmış parçacıkların çoğunun
+
+101
+00:06:40,849 --> 00:06:45,848
+5 milimetre kareyi geçmemesini şart koşuyor.
+
+102
+00:06:45,849 --> 00:06:49,318
+Bir şeyi gerçekten silmek istiyorsan, yok et,
+
+103
+00:06:49,319 --> 00:06:52,818
+sil, zaman senden yana.
+
+104
+00:06:52,819 --> 00:06:55,859
+Yaklaşık 5,4 milyar yıl
+
+105
+00:06:55,860 --> 00:06:59,568
+içinde Güneş nihai parçalayıcı olacak.
+
+106
+00:06:59,569 --> 00:07:03,609
+Dünyayı bütün olarak yutacak kadar büyük bir kırmızı dev.
+
+107
+00:07:03,610 --> 00:07:07,438
+Milyarlarca yıl boyunca her şey güzel olacak.
+
+108
+00:07:07,439 --> 00:07:12,149
+Ancak kabul edilen birçok evren modeli,
+10 ila 100
+
+109
+00:07:12,150 --> 00:07:13,459
+yıl
+
+110
+00:07:13,460 --> 00:07:17,778
+içinde geriye kalan zekanın,
+evrenin
+
+111
+00:07:17,779 --> 00:07:21,098
+karanlık çağına ve son
+
+112
+00:07:21,099 --> 00:07:24,528
+Sıcak Ölümüne, evrenin sonuna,
+
+113
+00:07:24,529 --> 00:07:27,638
+herhangi bir dosyanın, fotoğrafın veya
+
+114
+00:07:27,639 --> 00:07:32,198
+şimdiye kadar var olduğunuza dair anılarınızın sonuna tanık olacağını tahmin ediyor.  tekrar erişildi.
+Ne zaman bir şey olursa
+
+115
+00:07:32,199 --> 00:07:35,619
+, biraz enerji kaybolur.
+Örneğin,
+
+116
+00:07:35,620 --> 00:07:40,589
+ses veya ısı yoluyla sürtünme.
+Bu enerji evrene
+
+117
+00:07:40,590 --> 00:07:42,528
+her seferinde biraz, yavaş yavaş
+
+118
+00:07:42,529 --> 00:07:46,408
+ve daha fazla dışarı çıkar.
+Sonunda, kapalı bir sistemde
+
+119
+00:07:46,409 --> 00:07:51,269
+enerji homojen hale gelir,
+eşit olarak dağıtılır,
+
+120
+00:07:51,270 --> 00:07:54,929
+her yerde aynı olur.
+Gradyan maksimum
+
+121
+00:07:54,930 --> 00:08:00,188
+entropisi yoktur.
+Küçük bir bardak buzlu suda oldukça sıradan
+
+122
+00:08:00,189 --> 00:08:03,558
+ama yeterli zaman verildiğinde tüm evrenimiz
+
+123
+00:08:03,559 --> 00:08:11,198
+farklı olmayabilir.  Bir gradyan,
+bir yerden diğerine enerji farkı,
+
+124
+00:08:11,199 --> 00:08:14,758
+şeylerin olması, dosyaların oluşturulup okunması, yaşamın var olması için gereklidir
+
+125
+00:08:14,759 --> 00:08:19,528
+.
+Ve 10 ila 100 yıl
+
+126
+00:08:19,529 --> 00:08:22,688
+içinde kullanılabilir enerji
+
+127
+00:08:22,689 --> 00:08:27,089
+kalmayabilir.
+Isaac Asimov'un "Son Soru" adlı kısa öyküsünde
+
+128
+00:08:27,090 --> 00:08:30,348
+insanlar bundan endişe duyuyor.
+Hikaye
+
+129
+00:08:30,349 --> 00:08:33,899
+milyarlarca yıl geleceğe sıçrarken
+
+130
+00:08:33,900 --> 00:08:37,689
+, çözüm listeleri hiç olmadığı kadar
+
+131
+00:08:37,690 --> 00:08:43,048
+uzun sürmüyor.  Öyleyse, büyük bir zaman
+
+132
+00:08:43,049 --> 00:08:46,179
+ölçeğinde kozmik silmenin
+
+133
+00:08:46,180 --> 00:08:50,549
+her şeyin donması, ısı ölümü, bu evrende dört gözle beklememiz gereken tek şey olduğunu düşünürsek
+
+134
+00:08:50,550 --> 00:08:53,939
+?
+
+135
+00:08:53,940 --> 00:08:57,028
+Ay'a gittik.
+
+
+136
+00:08:57,029 --> 00:09:00,338
+
+Ay'a diktiğimiz, yeryüzündeki bir yeri temsil eden bayrakları yanımızda getirdik
+
+137
+00:09:00,339 --> 00:09:04,009
+.
+Ancak Ay'daki bu Amerikan
+
+138
+00:09:04,010 --> 00:09:07,409
+bayrakları muhtemelen şimdi silinmiş durumda
+
+139
+00:09:07,410 --> 00:09:11,889
+, sembolleri ve renkleri
+Güneş'in ay yüzeyindeki yoğun radyasyonuyla ağartılmış
+
+140
+00:09:11,890 --> 00:09:12,759
+,
+
+141
+00:09:12,760 --> 00:09:16,949
+herhangi bir atmosfer tarafından filtrelenmemiş.
+Bayraklar hala orada,
+
+142
+00:09:16,950 --> 00:09:20,259
+yanımıza almadık ama artık gün
+
+143
+00:09:20,260 --> 00:09:25,729
+boş.  Beyaz bayraklar.  Evrende silinmenin kaçınılmazlığına
+teslim olmamızı temsil eden beyaz bayraklar
+
+144
+00:09:25,730 --> 00:09:31,809
+.
+
+145
+00:09:31,810 --> 00:09:34,819
+Ama biz bugün tam tersiyle meşgulüz
+
+146
+00:09:34,820 --> 00:09:39,339
+.
+Dilimizi gerçekten doyuran,
+
+147
+00:09:39,340 --> 00:09:42,369
+gerçekten konuştuğumuz şey
+
+148
+00:09:42,370 --> 00:09:45,779
+yaratılış.
+Olaylar oluyor,
+
+149
+00:09:45,780 --> 00:09:49,049
+kayıp değil.
+Silme,
+
+150
+00:09:49,050 --> 00:09:52,829
+unutma ve silme ile karşılaştırıldığında, "yap",
+
+151
+00:09:52,830 --> 00:09:55,839
+silme işlemini pratik olarak siler.
+
+152
+00:09:55,840 --> 00:09:58,859
+Ay'daki bayraklar
+
+153
+00:09:58,860 --> 00:10:01,939
+ağartılmış ama bu kasvetli mi?  Yeni hikayelere hazır
+
+
+154
+00:10:01,940 --> 00:10:05,749
+yeni bir sayfa gibi silinmiş mi yoksa boş
+
+155
+00:10:05,750 --> 00:10:10,889
+mu?
+Gerçekten, sadece ondan ne çıkardığına bağlı
+
+156
+00:10:10,890 --> 00:10:14,119
+.
+Bu yüzden bir şeyler yaptığın için teşekkürler.
+
+157
+00:10:14,120 --> 00:10:15,159
+Ve her zamanki gibi,
+
+158
+00:10:15,160 --> 00:10:16,640
+izlediğiniz için teşekkürler.
+

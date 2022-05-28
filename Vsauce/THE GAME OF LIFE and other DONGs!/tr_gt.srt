@@ -1,0 +1,407 @@
+1
+00:00:00,710 --> 00:00:03,658
+Selam, Vsauce.
+Michael
+
+2
+00:00:03,659 --> 00:00:07,298
+, şimdi çevrimiçi olarak yapabileceğiniz bazı şeylerle karşınızda, beyler.
+DONG'ları misternicehands.com ile doğru ellerde başlatalım
+
+3
+00:00:07,299 --> 00:00:14,079
+.
+Parmağını çekebilirsin.
+
+4
+00:00:14,080 --> 00:00:15,209
+Wordle.net
+
+5
+00:00:15,210 --> 00:00:19,538
+, tıpkı bir web sitesindeki gibi metni analiz eder
+ve kelimelerin kullanılma sıklığına
+
+6
+00:00:19,539 --> 00:00:24,049
+bağlı olarak eğlenceli boyutlarda ücretsiz bir kelime bulutu oluşturur
+
+
+7
+00:00:24,050 --> 00:00:28,079
+.  Oldukça harika, değil mi?
+Ama şimdiye kadarki en
+
+8
+00:00:28,080 --> 00:00:31,129
+harika şey nokta com mu?
+
+9
+00:00:31,130 --> 00:00:36,019
+Site iki şeyi birbirine karşı koyuyor
+ve iki şeyden hangisinin harika olduğuna oy vermenize izin veriyor
+
+10
+00:00:36,020 --> 00:00:39,869
+.
+Örneğin, hacılar Andrew Jackson'a karşı.
+
+11
+00:00:39,870 --> 00:00:43,718
+Hacılarla gitmem gerekecek.
+Ama periyodik tablo
+
+12
+00:00:43,719 --> 00:00:48,339
+mu yoksa Orson Welles mi?  Hangisi daha harika?
+Tamam, zor ama Mendeleev ile gitmem gerekecek
+
+13
+00:00:48,340 --> 00:00:49,359
+.
+
+14
+00:00:49,360 --> 00:00:52,729
+Şimdi, site herkesin yanıtlarını sıralıyor
+ve
+
+15
+00:00:52,730 --> 00:00:56,109
+insanların şu
+anda en harika olduğunu düşündükleri şeylerin bir listesini çalıştırıyor.
+
+16
+00:00:56,110 --> 00:00:59,319
+Şu anda hayatın İnternet tarafından yenildiğine dikkat edin
+
+17
+00:00:59,320 --> 00:01:02,659
+.
+Kafanıza takılan bir şarkı var mı?  Aynı derecede akılda kalıcı şarkıları
+
+18
+00:01:02,660 --> 00:01:06,438
+çalmaya adanmış bir site olan unhearit.com'a gidin ve kafanıza takılanları
+
+19
+00:01:06,439 --> 00:01:09,868
+
+silme umuduyla
+
+20
+00:01:09,869 --> 00:01:13,469
+.
+Ve duyduklarınızı beğendiyseniz,
+
+21
+00:01:13,470 --> 00:01:17,599
+TuneGlue'ya bakın.  Alana eklemek için bir bant yazın
+ve ardından
+
+22
+00:01:17,600 --> 00:01:21,319
+ilgili diğer bantları görmek için bunları genişletin.
+Şimdi,
+
+23
+00:01:21,320 --> 00:01:25,269
+bir müzisyenin adını girebileceğiniz
+ve diğer grupların
+
+24
+00:01:25,270 --> 00:01:27,899
+tarzlarının ne kadar benzer olduğuna bağlı olarak onları yörüngede çevirebildiğiniz Music-Map'i de seviyorum.
+
+25
+00:01:27,900 --> 00:01:31,489
+
+
+
+26
+00:01:31,490 --> 00:01:32,359
+Kendi şarkınızı söylemenize veya
+
+27
+00:01:32,360 --> 00:01:36,758
+mırıldanmanıza izin vermeyen müzik tanıma programlarından sıkıldıysanız midomi.com'a girin.
+Hala mükemmel değil,
+
+28
+00:01:36,759 --> 00:01:40,089
+ama ben çok kötüyüm ve Midomi hala
+
+29
+00:01:40,090 --> 00:01:44,609
+ne yapmaya çalıştığımı anladı.
+"Bir bebeği kaybetmeyeceğim,
+
+30
+00:01:44,610 --> 00:01:50,209
+o halde neden beni öldürmüyorsun?"
+Harika.
+
+31
+00:01:50,210 --> 00:01:54,079
+Michael Stevens'tan yine kusursuz bir performans.
+
+32
+00:01:54,080 --> 00:01:56,908
+ThunderShark78
+
+33
+00:01:56,909 --> 00:02:00,019
+beni sürekli olarak içine düştüğünüz bir dizi labirent olan Fracuum ile tanıştırdı
+
+34
+00:02:00,020 --> 00:02:04,099
+.
+Perspektif oldukça güzel.
+
+35
+00:02:04,100 --> 00:02:06,849
+Şimdi Conway'in
+
+36
+00:02:06,850 --> 00:02:11,149
+Game of Life ile matematikselleşelim.  Bu bir serseri, ama
+gerçekten ünlü.  Şu anda
+
+37
+00:02:11,150 --> 00:02:14,299
+onu "Golly" olarak bilinen PC, Mac veya Linux için indirilebilir bir sürüm olarak oynuyorum
+
+38
+00:02:14,300 --> 00:02:17,729
+.
+Yani oyunun kendisi
+
+39
+00:02:17,730 --> 00:02:21,488
+benim doldurabileceğim bir ızgara ve bir
+
+40
+00:02:21,489 --> 00:02:25,449
+hücrenin canlı mı yoksa ölü mü olduğu gelecek
+
+41
+00:02:25,450 --> 00:02:28,488
+neslin nasıl görüneceğini belirler.
+Bu oyunu bu kadar ünlü
+
+42
+00:02:28,489 --> 00:02:34,089
+yapan şey, sadece birkaç deterministik
+kural kullanarak oldukça karmaşık şeyler yaratabiliyor olmamız
+
+43
+00:02:34,090 --> 00:02:37,799
+.
+Şimdi klasik olarak, kurallar çok
+
+44
+00:02:37,800 --> 00:02:41,889
+basittir.  Bir hücrenin kaderi
+, 1,
+
+45
+00:02:41,890 --> 00:02:45,659
+2, 3, 4, 5, 6, 7, 8 komşusunun durumuna bağlıdır.
+
+46
+00:02:45,660 --> 00:02:49,609
+Etrafında iki ya da üç hücre varsa
+
+47
+00:02:49,610 --> 00:02:53,738
+sorun olmaz,
+yaşamaya devam edecek.  Ancak
+
+48
+00:02:53,739 --> 00:02:58,518
+çevresinde ikiden az veya üçten fazla varsa
+, izolasyon veya
+
+49
+00:02:58,519 --> 00:03:01,679
+aşırı kalabalıktan ölecektir.
+Şimdi aynı şekilde
+
+50
+00:03:01,680 --> 00:03:06,268
+, ölü boş bir hücrenin 3, tam olarak üç komşusu varsa
+
+51
+00:03:06,269 --> 00:03:09,708
+, canlanacaktır.
+Yani bu şeklin bir sonraki nesli
+
+52
+00:03:09,709 --> 00:03:13,999
+buna benziyor.
+Sadece birkaç
+
+53
+00:03:14,000 --> 00:03:17,559
+basit deterministik kuralın,
+
+54
+00:03:17,560 --> 00:03:20,658
+planör olarak bilinen ve
+
+55
+00:03:20,659 --> 00:03:25,239
+birbirini takip eden nesiller boyunca hareket ettiren bunun gibi şekiller yaratmanıza nasıl izin verebileceği şaşırtıcı.
+
+56
+00:03:25,240 --> 00:03:28,749
+Oh, ve GMSlash bana hücrelerin mantar olduğu bir versiyon gösterdi
+
+57
+00:03:28,750 --> 00:03:32,979
+ve bir hücre ne kadar uzun
+yaşarsa mantar o kadar büyür.
+
+58
+00:03:32,980 --> 00:03:36,318
+Ama aşksız bir hayat oyunu nedir ki?
+
+59
+00:03:36,319 --> 00:03:41,559
+Themediabuffs bana iddialı bir oyun gönderdi,
+
+
+60
+00:03:41,560 --> 00:03:46,529
+dokunaklı, ancak kendisinin farkında olan harika bir etkileşimli şiir.
+Ve Connor bana daha da trajik bir aşk gösterdi, bir zombiye
+
+61
+00:03:46,530 --> 00:03:49,669
+aşık bir adamı oynadığınız bir oyun
+
+62
+00:03:49,670 --> 00:03:52,889
+.
+Seni takip
+
+63
+00:03:52,890 --> 00:03:56,199
+etmesini sağla ama onu bir kafeste tut.
+Ayrıca
+
+64
+00:03:56,200 --> 00:04:01,238
+Sevimli Ölülerin Gecesi.  Gerçek aşkıyla
+yeniden bir araya gelmek için vücut parçalarını bulması gereken bir iskeleti oynuyorsunuz
+
+65
+00:04:01,239 --> 00:04:04,958
+.
+Beyniniz gibi organlar edindikçe
+
+66
+00:04:04,959 --> 00:04:08,059
+yeni güçler kullanmaya başlayabilirsiniz.
+Şimdi,
+
+67
+00:04:08,060 --> 00:04:12,389
+bir zombiye aşık değilseniz ve
+onların saldırısına hazırlanmayı tercih
+
+68
+00:04:12,390 --> 00:04:15,449
+ediyorsanız, TheArzonite size
+
+69
+00:04:15,450 --> 00:04:20,539
+
+
+
+70
+00:04:20,540 --> 00:04:24,739
+, bir salgın durumunda zombi etkinliğinin muhtemelen en yüksek olacağı alanları tanımlayan küresel bir Google Haritası olan Ölüler Haritası'nı sunuyor.
+Yakınlardaki yiyecek ve mühimmat dükkanları gibi faydalı görülecek yerleri içerir
+
+71
+00:04:24,740 --> 00:04:25,869
+,
+
+72
+00:04:25,870 --> 00:04:30,869
+böylece stratejinizi şimdi planlayabilirsiniz.
+Bunların hepsi sizin için biraz fazla korkutucuysa,
+
+73
+00:04:30,870 --> 00:04:32,758
+N3xTB0y'nin
+
+74
+00:04:32,759 --> 00:04:37,039
+z0r.de, hızlı döngülü görüntüler
+
+75
+00:04:37,040 --> 00:04:42,089
+ve aptal müzik koleksiyonu ile rahatlayın.  Shantuku, evren aracının bu düzgün etkileşimli ölçeğini keşfetti.
+
+76
+00:04:42,090 --> 00:04:46,769
+Bunun gibi şeyleri daha önce ele aldık,
+ama asla yeterince sahip olamazsın.
+
+77
+00:04:46,770 --> 00:04:50,758
+
+Uzaydayken, Amonfobious'unki gibi daha büyük bir uçak kozmik çarpışması
+
+78
+00:04:50,759 --> 00:04:55,019
+yapalım.
+Büyümek ve
+
+79
+00:04:55,020 --> 00:04:58,079
+devasa tehlikeli gök cisimlerinden kaçınmak için daha küçük nesnelerle çarpışın.
+
+80
+00:04:58,080 --> 00:05:01,429
+Burada YouTube'da, Vixolent
+gerçekten iyi yapılmış etkileşimli bir
+
+81
+00:05:01,430 --> 00:05:06,649
+oyun yükledi.  Tek bir videoda oynuyorsunuz ve
+ek açıklamaları kullanması oldukça
+
+82
+00:05:06,650 --> 00:05:11,369
+ustaca.
+Ve TheRealMcJoni bu etkileyici interaktif
+
+83
+00:05:11,370 --> 00:05:15,138
+domino videosunu yaptı.
+Hileler ve düzen gerçekten çok düzgün
+
+84
+00:05:15,139 --> 00:05:18,749
+ve videonun sonunda bir yön seçebiliyorsunuz
+- umalım ki
+
+85
+00:05:18,750 --> 00:05:20,239
+doğru yön bu olsun.
+
+86
+00:05:20,240 --> 00:05:23,739
+Metronomiye geri dön.
+Daha fazlası için Vsauce'a abone olun.
+
+87
+00:05:23,740 --> 00:05:24,839
+Ve her zamanki gibi,
+
+88
+00:05:24,840 --> 00:05:26,480
+izlediğiniz için teşekkürler.
+

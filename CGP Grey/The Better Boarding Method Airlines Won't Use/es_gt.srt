@@ -1,0 +1,456 @@
+1
+00:00:00,000 --> 00:00:04,619
+[Anuncios inaudibles del aeropuerto]
+
+2
+00:00:04,620 --> 00:00:06,599
+[Grey suspira]
+
+3
+00:00:06,600 --> 00:00:08,959
+¿Cuál es la forma más rápida de abordar un avión?
+
+4
+00:00:08,960 --> 00:00:12,739
+Quiero decir, no puedes simplemente abrir las puertas como canalizando ganado en una rampa.
+
+5
+00:00:12,740 --> 00:00:15,539
+Eso no es para nosotros.  ¡Somos primates, después de todo!
+
+6
+00:00:15,540 --> 00:00:20,459
+Así que pongamos nuestros cerebros de mono a trabajar para hacer frente a esta cola, que es lo que hacen los grupos de abordaje:
+
+7
+00:00:20,460 --> 00:00:24,299
+priorizar, simplemente empacar primates con precisión.  (Principalmente)
+
+8
+00:00:24,300 --> 00:00:28,779
+Ok, tenemos una sugerencia: vierta a las personas en el avión de atrás hacia adelante.
+
+9
+00:00:28,780 --> 00:00:31,579
+Esta es una solución intuitiva para llenar un cilindro.
+
+10
+00:00:31,580 --> 00:00:35,199
+Pero hay casi una ley del universo que las soluciones que son...
+
+11
+00:00:35,200 --> 00:00:40,039
+...lo primero en lo que pensarías y parecen sensatas y fáciles de implementar son a menudo...
+
+12
+00:00:40,040 --> 00:00:46,359
+...soluciones terribles e ineficaces, una vez implementadas arrastrarán a la civilización para siempre.
+
+13
+00:00:46,360 --> 00:00:49,359
+:: Tos, sistemas de votación, tos ::
+
+14
+00:00:49,360 --> 00:00:52,399
+Así que no debería sorprender que este método sea…
+
+15
+00:00:52,400 --> 00:00:56,639
+… no bueno y también lo que la mayoría de las aerolíneas usan para abordar sus aviones.
+
+16
+00:00:56,640 --> 00:00:57,919
+Veámoslo en acción:
+
+17
+00:00:57,920 --> 00:01:00,399
+El primer grupo de abordaje camina hacia la parte trasera del avión.
+
+18
+00:01:00,400 --> 00:01:05,238
+Todo va bien hasta que el primero en llegar llega a su fila y empieza a guardar.
+
+19
+00:01:05,239 --> 00:01:06,879
+Muy lento.
+
+20
+00:01:06,880 --> 00:01:10,759
+Y para el pasajero dos, mientras su asiento esté a la vista, no hay nada que hacer.
+
+21
+00:01:10,760 --> 00:01:15,439
+La cola del pasillo, donde todos pueden hacer nada más que guisarse, se pegó como pegamento hasta que este tipo terminó.
+
+22
+00:01:15,440 --> 00:01:16,759
+:: Uf
+
+23
+00:01:16,760 --> 00:01:21,519
+:: Son bolsas.  Las maletas causan la mayor parte de las demoras al abordar un vuelo.
+
+24
+00:01:21,520 --> 00:01:23,679
+Como con esto: una estiba completa.
+
+25
+00:01:23,680 --> 00:01:31,679
+Cuando sucede, todos los que abordan el avión por dentro y por fuera deben esperar hasta que una persona termine de guardar su bolso.
+
+26
+00:01:31,680 --> 00:01:38,119
+¿Puedes sentirlo?  ¿El total de segundos perdidos de vida humana amontonándose como una recompensa para un segador encantado?
+
+27
+00:01:38,120 --> 00:01:41,839
+Por supuesto que puede.  Puedes sentirlo con cada bolsa.
+
+28
+00:01:41,840 --> 00:01:42,839
+:: Uhhh :: ¿Qué estaba diciendo?
+
+29
+00:01:42,840 --> 00:01:48,639
+Correcto, los grupos de abordaje de atrás hacia adelante tienen muchas estibas completas y muy pocas de lo que desea:
+
+30
+00:01:48,640 --> 00:01:51,559
+… arranques y paralelos y paralelos y arranques.
+
+31
+00:01:51,560 --> 00:01:53,559
+Pullaways convierte una fila en dos.
+
+32
+00:01:53,560 --> 00:01:57,839
+Y los paralelos reducen el tiempo total de almacenamiento de la bolsa y son muy satisfactorios.
+
+33
+00:01:57,840 --> 00:02:03,279
+El raro compañero triple en paralelo invoca un doble choca esos cinco por el puro placer de su eficiencia.
+
+34
+00:02:03,280 --> 00:02:06,639
+Pero cargar de atrás hacia adelante permite que ocurran pocos de estos.
+
+35
+00:02:06,640 --> 00:02:10,559
+Ahora digamos que no solo... no eras bueno diseñando grupos de abordaje...
+
+36
+00:02:10,560 --> 00:02:16,639
+... sino que eras malicioso y querías maximizar la cantidad de vidas humanas desperdiciadas en un vuelo.
+
+37
+00:02:16,640 --> 00:02:20,639
+¿Qué harías?
+
+38
+00:02:20,640 --> 00:02:24,959
+No de atrás hacia adelante, sino de adelante hacia atrás: cuanto más pequeño sea el grupo de abordaje, mejor.
+
+39
+00:02:24,960 --> 00:02:29,599
+Esto hace que casi todos los tediosos desplazamientos hacia adelante resulten en una parada completa,...
+
+40
+00:02:29,600 --> 00:02:36,239
+...porque la mayor parte de la fila espera en filas que ya están llenas o fuera del avión.  ¿Parecer familiar?
+
+41
+00:02:36,240 --> 00:02:39,679
+Aquí es donde reconocemos la estructura de clases de los aviones.
+
+42
+00:02:39,680 --> 00:02:43,839
+Los aviones reales se ven así y los tableros de primera clase primero, de adelante hacia atrás, …
+
+43
+00:02:43,840 --> 00:02:46,479
+… antes del archivo pro-económico de atrás hacia adelante.
+
+44
+00:02:46,480 --> 00:02:53,479
+Por lo tanto, excluyendo el embarque previo, todas las aerolíneas comienzan con un poco del método de embarque más lento que podría diseñar intencionalmente.
+
+45
+00:02:53,480 --> 00:02:57,119
+Ahora, obviamente, este video pronto revelará procedimientos de abordaje más rápidos.
+
+46
+00:02:57,120 --> 00:03:00,479
+Y te preguntarás, “¿por qué las aerolíneas no usan los métodos más rápidos?”
+
+47
+00:03:00,480 --> 00:03:03,759
+Una posible respuesta son los incentivos económicos.
+
+48
+00:03:03,760 --> 00:03:08,359
+La primera clase paga por los beneficios, a veces beneficios impresionantes por cantidades impresionantes.
+
+49
+00:03:08,360 --> 00:03:10,399
+Y abordar primero es uno de ellos.
+
+50
+00:03:10,400 --> 00:03:16,719
+Además, las aerolíneas les dan a todos puntos de fidelidad que lo mueven hacia arriba en la estructura de clases cuanto más vuela con esa aerolínea.
+
+51
+00:03:16,720 --> 00:03:19,519
+Lo que le da a las aerolíneas otra buena razón para agrupar personas.
+
+52
+00:03:19,520 --> 00:03:26,039
+Y probablemente ayude a explicar por qué cambiaron el antiguo método más rápido que no creerán que solían usar:
+
+53
+00:03:26,040 --> 00:03:30,119
+[Grey en el micrófono]: "Hola a todos. El avión está aquí. Adelante".
+
+54
+00:03:30,120 --> 00:03:34,599
+No hacer nada y hacer que las personas aborden el vuelo en el orden en que aparecen...
+
+55
+00:03:34,600 --> 00:03:38,599
+... para obtener su asiento asignado, es más rápido que organizar grupos ordenados de embarque.
+
+56
+00:03:38,600 --> 00:03:41,599
+Esto se debe a que las personas se distribuyen al azar, bueno, al azar, …
+
+57
+00:03:41,600 --> 00:03:46,999
+… lo que aumenta las posibilidades de arranques y paralelos, a diferencia de los métodos más ordenados a los que han cambiado las aerolíneas.
+
+58
+00:03:47,000 --> 00:03:50,599
+Hombre, siempre es frustrante saber que, literalmente, no haber hecho nada...
+
+59
+00:03:50,600 --> 00:03:52,959
+...sería más rápido que algo hecho.
+
+60
+00:03:52,960 --> 00:03:59,919
+Pero seguramente se puede encontrar un mejor orden de grupo de abordaje si podemos restar malicia y agregar pensamiento a este problema.
+
+61
+00:03:59,920 --> 00:04:03,879
+¡Ah!  Tres grupos: ventana, medio, pasillo.  En ese orden.
+
+62
+00:04:03,880 --> 00:04:08,399
+Esto es realmente lo mismo que hacerlo al azar tres veces, uno para cada columna de la nave...
+
+63
+00:04:08,400 --> 00:04:13,399
+... pero la razón por la que es un poco más rápido es porque elimina la otra fuente de retraso en el embarque: los
+
+64
+00:04:13,400 --> 00:04:14,439
+asientos se revuelven.
+
+65
+00:04:14,440 --> 00:04:18,119
+Cuando las personas abordan al azar, el cambio de asiento va a ocurrir un montón.
+
+66
+00:04:18,120 --> 00:04:21,398
+Y cuando la gente se derrama en el pasillo, se ralentiza la cola.
+
+67
+00:04:21,399 --> 00:04:25,919
+Ordenar a todos por ventana, centro y pasillo garantiza que nunca se produzca un cambio de asiento.
+
+68
+00:04:25,920 --> 00:04:28,439
+Esto parece que debería ser una gran mejora.
+
+69
+00:04:28,440 --> 00:04:31,759
+Pero cuando simula abordar un avión con una tonelada de matemáticas reales...
+
+70
+00:04:31,760 --> 00:04:34,239
+(en lugar de simplemente animarlo de una manera dramáticamente simplificada)
+
+71
+00:04:34,240 --> 00:04:39,839
+... o hace experimentos reales, el cambio de asiento no es gran cosa en comparación con el almacenamiento de equipaje.
+
+72
+00:04:39,840 --> 00:04:43,279
+Las personas discuten sobre su único bolso que posiblemente no les quepa, …
+
+73
+00:04:43,280 --> 00:04:47,319
+… o intentan subir a bordo con tres bolsos porque no creen que las reglas deban aplicarse a ellos, …
+
+74
+00:04:47,320 --> 00:04:49,999
+… que luego también se dedican a sacar sus computadoras portátiles después de guardarlas.
+
+75
+00:04:50,000 --> 00:04:52,719
+Ese tipo de retrasos cuentan mucho más.
+
+76
+00:04:52,720 --> 00:04:56,399
+Por lo tanto, Window-Middle-Aisle es quizás un poco más rápido que aleatorio, lo cual es bueno...
+
+77
+00:04:56,400 --> 00:05:01,239
+... y algunas aerolíneas usan este método, que hace que sus aviones giren más rápido que de atrás hacia adelante...
+
+78
+00:05:01,240 --> 00:05:03,759
+... sin dejar de darles grupos de abordaje para jugar.  juegos con
+
+79
+00:05:03,760 --> 00:05:08,279
+La gran mayoría de las aerolíneas utilizan el pasillo de atrás hacia adelante o de ventana central.
+
+80
+00:05:08,280 --> 00:05:12,839
+Así que esté atento la próxima vez que aborde un vuelo por lo que le está sucediendo.
+
+81
+00:05:12,840 --> 00:05:14,279
+Pero, ¿podemos ir más lejos?
+
+82
+00:05:14,280 --> 00:05:19,319
+Salir del mundo real: con sus sistemas de clases y personas, y desorden y olores, …
+
+83
+00:05:19,320 --> 00:05:21,919
+… ascendiendo al plano platónico de la física, …
+
+84
+00:05:21,920 --> 00:05:26,719
+… donde las vacas son esferas y las personas autómatas celulares que ejecutarán instrucciones a la perfección.
+
+85
+00:05:26,720 --> 00:05:32,159
+Aquí, en el Celestia, ¿cuál es la forma teóricamente más rápida de abordar un avión?
+
+86
+00:05:32,160 --> 00:05:34,879
+En este nivel, esto es lo que es posible:
+
+87
+00:05:34,880 --> 00:05:53,039
+[The Nutcracker Suite, Op.  71a: VIII.  Vals de las Flores]
+
+88
+00:05:53,040 --> 00:05:58,319
+Para lograr este ballet, no hay grupos de abordaje, sino que todos se paran en un orden exacto.
+
+89
+00:05:58,320 --> 00:06:03,679
+De atrás hacia adelante en filas alternas, en lados alternos, ventanas hacia adentro.
+
+90
+00:06:03,680 --> 00:06:06,479
+Esto maximiza los arranques y los paralelos.
+
+91
+00:06:06,480 --> 00:06:08,959
+Prístinamente empacando a la gente en un apuro.
+
+92
+00:06:08,960 --> 00:06:12,799
+Ser testigo de tal gloria es demasiado para que las mentes mortales lo soporten por mucho tiempo...
+
+93
+00:06:12,800 --> 00:06:16,399
+... así que nos vemos obligados a descender de nuevo al mundo de la carne.
+
+94
+00:06:16,400 --> 00:06:18,879
+¡La cacofonía!  ¡El olor!
+
+95
+00:06:18,880 --> 00:06:21,519
+Donde debemos meter monos en un tubo.
+
+96
+00:06:21,520 --> 00:06:26,159
+Monos con familias, donde separar a sus crías invita al caos y la limpieza.
+
+97
+00:06:26,160 --> 00:06:29,119
+Donde los incentivos económicos se dividen y se benefician.
+
+98
+00:06:29,120 --> 00:06:38,239
+Y donde, incluso en su mejor momento, la incapacidad humana para seguir instrucciones es impresionante.
+
+99
+00:06:38,240 --> 00:06:43,999
+Aquí, la gente, al ver el 'grupo de abordaje 123', se volvería loca.
+
+100
+00:06:44,000 --> 00:06:48,479
+Y mucho menos la imposibilidad de intentar que hagan cola en orden.
+
+101
+00:06:48,480 --> 00:06:54,479
+Y donde incluso si fuera más rápido, como mirar los segundos de un reloj, la gente se quejaría de que era más lento.
+
+102
+00:06:54,480 --> 00:06:55,759
+[Grey suspira]
+
+103
+00:06:55,760 --> 00:06:57,839
+Tales dones no se suponía que tuviéramos.
+
+104
+00:06:57,840 --> 00:07:03,419
+Pero, ¿hay alguna forma en que podamos modificar esta perfección para mejorar nuestra suerte en este plano?
+
+105
+00:07:03,420 --> 00:07:03,919
+Sí.
+
+106
+00:07:03,920 --> 00:07:10,479
+En lugar de un orden exacto, el primer grupo de abordaje sería todo un lado del avión en filas alternas.
+
+107
+00:07:10,480 --> 00:07:14,799
+Grupo de abordaje el segundo, el otro lado, luego atrás, y atrás otra vez.
+
+108
+00:07:14,800 --> 00:07:18,239
+Uno dos tres CUATRO.  No podemos pedirle más a la gente.
+
+109
+00:07:18,240 --> 00:07:24,239
+Esta sombra del método perfecto tiene la posibilidad de funcionar en el mundo real con beneficios como:
+
+110
+00:07:24,240 --> 00:07:27,199
+permitir que las personas con familiares y amigos aborden juntos, ...
+
+111
+00:07:27,200 --> 00:07:29,999
+brindar a las aerolíneas grupos de abordaje con los que aún pueden jugar, ...
+
+112
+00:07:30,000 --> 00:07:32,959
+y seguir siendo más rápidos que los métodos actuales.
+
+113
+00:07:32,960 --> 00:07:36,319
+Alcanzando la perfección, siempre nos quedaremos cortos.
+
+114
+00:07:36,320 --> 00:07:39,920
+Pero tal vez podamos lograr acercarnos en el proceso.
+

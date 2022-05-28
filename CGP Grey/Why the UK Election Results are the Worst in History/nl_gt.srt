@@ -1,0 +1,339 @@
+1
+00:00:00,250 --> 00:00:00,978
+Hallo internet
+
+2
+00:00:00,979 --> 00:00:05,059
+Het VK had een verkiezing waar we het over moeten hebben,
+want nadat de debatten waren afgelopen, stemden de mensen
+
+3
+00:00:05,060 --> 00:00:07,778
+en kwamen de stemmen overeen. De resultaten
+waren als volgt:
+
+4
+00:00:07,779 --> 00:00:10,259
+Maar het parlement zag er uiteindelijk zo uit:
+
+5
+00:00:10,260 --> 00:00:14,899
+wat niet precies representatief is.  En
+met niet precies, bedoel ik helemaal niet.
+
+6
+00:00:14,900 --> 00:00:19,608
+Rood behaalde 30% van de stemmen en 36% van de
+zetels, wat een beetje dichtbij is, maar de rest
+
+7
+00:00:19,609 --> 00:00:24,698
+is waanzin: Oranje verdiende 8% van de stemmen, maar
+kreeg een achtste daarvan, terwijl Geel 5%
+
+8
+00:00:24,699 --> 00:00:28,278
+bijna verdubbelde, en paars verdiende  13% en werd
+gehurkt.
+
+9
+00:00:28,279 --> 00:00:33,669
+Ondertussen klom 37% van de mensen
+naar 51% van de zetels in het parlement.  De blauwe
+
+10
+00:00:33,670 --> 00:00:38,869
+boost is nog groter als je bedenkt dat
+51% van de stoelen in principe 100% de
+
+11
+00:00:38,870 --> 00:00:39,799
+controle geeft.
+
+12
+00:00:39,800 --> 00:00:40,529
+Hoe is dit gebeurd?
+
+13
+00:00:40,530 --> 00:00:45,049
+In het VK zijn nationale verkiezingen niet echt
+nationaal, het zijn een stelletje lokale verkiezingen.
+
+14
+00:00:45,050 --> 00:00:49,709
+Het VK is verdeeld in kiesdistricten,
+die elk één parlementslid (MP) kiezen
+
+15
+00:00:49,710 --> 00:00:54,218
+om hen te vertegenwoordigen.  Deze lokale / nationale kloof
+is waar de problemen beginnen.
+
+16
+00:00:54,219 --> 00:00:58,339
+Stel je een parlement voor met slechts drie kiesdistricten,
+en het is gemakkelijk in te zien hoe het niet altijd zou
+
+17
+00:00:58,340 --> 00:01:03,159
+aansluiten bij de burgers.  Sommige mensen vinden dit
+soort resultaten prima -- "het gaat allemaal *om* het
+
+18
+00:01:03,160 --> 00:01:07,199
+winnen van lokale verkiezingen", zullen ze zeggen.
+“Elke MP  vertegenwoordigt hun kiesdistrict.”
+
+19
+00:01:07,200 --> 00:01:11,919
+En hoewel de onbalans in dit voorbeeld
+extreem is, is het hetzelfde probleem in de echte
+
+20
+00:01:11,920 --> 00:01:16,429
+verkiezing en hetzelfde argument wordt gegeven,
+maar er zijn nog twee problemen mee in de
+
+21
+00:01:16,430 --> 00:01:17,539
+realiteit.
+
+22
+00:01:17,540 --> 00:01:23,118
+1) Weinig burgers hebben enig idee wie hun parlementslid
+is, ze weten gewoon op welke partij ze hebben gestemd
+
+23
+00:01:23,119 --> 00:01:27,959
+-- op welke partij ze hun
+standpunten op nationaal niveau willen vertegenwoordigen.  En doen
+
+24
+00:01:27,960 --> 00:01:33,749
+alsof het lokale verkiezingen zijn, is een beetje oneerlijk.
+-- in de praktijk is het een verkiezing voor hoe de
+
+25
+00:01:33,750 --> 00:01:38,429
+natie zal functioneren -- niet echt voor wie er
+een klein deel van gaat vertegenwoordigen.
+
+26
+00:01:38,430 --> 00:01:39,099
+en zelfs als dat zo was
+
+27
+00:01:39,100 --> 00:01:43,898
+2) De individuele kiesdistricten zijn slechter
+in het vertegenwoordigen van hun burgers dan het parlement.
+
+28
+00:01:43,899 --> 00:01:46,449
+Verwen deze spreadsheet-liefhebbende nerd voor een
+moment, wil je?
+
+29
+00:01:46,450 --> 00:01:49,849
+Het verschil tussen wat een partij verdiende
+bij de peilingen en wat ze in het parlement kregen,
+
+30
+00:01:49,850 --> 00:01:52,589
+is de hoeveelheid verkeerde voorstellingsfouten.
+
+31
+00:01:52,590 --> 00:01:56,669
+Als we alle fouten voor alle
+partijen berekenen en ze bij elkaar optellen, kunnen we zeggen dat het Parlement
+
+32
+00:01:56,670 --> 00:02:03,489
+als geheel 47% procentpunten van de onjuiste voorstelling van zaken
+heeft.  Dat klinkt slecht, het lijkt op een utopische
+
+33
+00:02:03,490 --> 00:02:08,738
+regenboog van diversiteit in vergelijking met lokale
+verkiezingen, omdat de lokale verkiezingen
+
+34
+00:02:08,739 --> 00:02:17,669
+*één* winnaar hebben.  Van de 650 kiesdistricten hebben
+647 een hogere representatiefout dan het
+
+35
+00:02:17,670 --> 00:02:22,429
+parlement.  Dit zijn de enige drie die
+dat niet doen en ze zijn echt ongebruikelijk omdat
+
+36
+00:02:22,430 --> 00:02:26,269
+er zoveel kiezers op één plek zijn.
+
+37
+00:02:26,270 --> 00:02:32,458
+De meeste plaatsen zien er uit als The Wrekin, die
+in het midden dood is, slechts honderd en een wijst
+
+38
+00:02:32,459 --> 00:02:37,199
+eraf.  Merk op dat de winnende kandidaat
+hier geen meerderheid heeft bereikt.  Dat betekent dat meer dan de
+
+39
+00:02:37,200 --> 00:02:41,469
+helft van de kiesdistricten hun parlementslid heeft gekozen met
+een minderheid van kiezers.
+
+40
+00:02:41,470 --> 00:02:47,659
+Het ergste is Belfast South onderaan
+de lijst.  Hilarisch niet representatief.  Minder
+
+41
+00:02:47,660 --> 00:02:51,909
+dan een kwart van de kiezers mag het woord voeren
+voor de hele plaats in het parlement.  Dit is
+
+42
+00:02:51,910 --> 00:02:56,119
+het laagste percentage dat een M.P.  ooit
+is gekozen door.
+
+43
+00:02:56,120 --> 00:02:59,818
+Dus als mensen beweren dat de verkiezingen in het VK
+een stelletje lokale verkiezingen zijn 1) gedragen mensen zich er
+
+44
+00:02:59,819 --> 00:03:03,639
+niet naar, en 2) het is zelfs nog meer een argument
+dat de verkiezingen niet doorgaan omdat ze
+
+45
+00:03:03,640 --> 00:03:05,139
+op dit niveau slechter zijn.
+
+46
+00:03:05,140 --> 00:03:08,149
+Deze lokale verkiezingen zijn niet representatief
+vanwege het vreselijke 'First Past the Post'-
+
+47
+00:03:08,150 --> 00:03:11,809
+stemsysteem - waar ik enorm over heb geklaagd
+en hier niet alles zal herhalen - ga
+
+48
+00:03:11,810 --> 00:03:16,318
+de video bekijken - maar TL;DR het 'werkt' alleen
+wanneer  burgers zijn beperkt tot twee keuzes.
+
+49
+00:03:16,319 --> 00:03:21,719
+Door op een partij te stemmen, behalve de grootste, is de
+kans groter dat de grootste zal winnen met een minderheid
+
+50
+00:03:21,720 --> 00:03:24,059
+- en dat is precies wat er is gebeurd.
+
+51
+00:03:24,060 --> 00:03:27,119
+Dat burgers op kleinere partijen blijven stemmen,
+ondanks het feit dat ze weten dat het resultaat tegen hun
+
+52
+00:03:27,120 --> 00:03:32,619
+strategische belangen is, toont aan dat de burgers
+een diverse vertegenwoordiging willen -- maar dat successen
+
+53
+00:03:32,620 --> 00:03:37,298
+juist de reden zijn dat dit het meest
+niet-representatieve parlement in de geschiedenis
+
+54
+00:03:37,299 --> 00:03:38,939
+van het VK is.
+
+55
+00:03:38,940 --> 00:03:43,089
+Mensen die tevreden zijn met de resultaten beweren dat het systeem
+goed werkt -- natuurlijk doen ze dat.  Hun
+
+56
+00:03:43,090 --> 00:03:44,939
+team won.
+
+57
+00:03:44,940 --> 00:03:48,539
+Maar de overheid is geen sport waarbij een enkele
+'winnaar' moet worden bepaald.  Het is een systeem
+
+58
+00:03:48,540 --> 00:03:54,229
+om regels te maken die iedereen volgt en daarom hebben
+we een systeem nodig waarin iedereen het erover eens kan zijn dat
+
+59
+00:03:54,230 --> 00:03:58,048
+het proces eerlijk is, zelfs als de resultaten
+niet in hun voordeel zijn.
+
+60
+00:03:58,049 --> 00:04:03,298
+Als je een systeem steunt dat
+mensen die je niet mag het recht ontneemt en mensen die je wel mag turbo-franchiseert
+
+61
+00:04:03,299 --> 00:04:08,339
+-- dan lijkt het er niet op dat
+je representatieve democratie steunt, het lijkt erop
+
+62
+00:04:08,340 --> 00:04:14,279
+dat je een soort dictatuur-lite steunt.
+Waar een kleine groep mensen (inclusief jij
+
+63
+00:04:14,280 --> 00:04:16,189
+) de regels voor iedereen maakt.
+
+64
+00:04:16,190 --> 00:04:22,739
+Maar zoals het nu is, op de verkiezingsdag, hoe meer
+mensen uiten wat ze willen, hoe slechter het
+
+65
+00:04:22,740 --> 00:04:30,119
+systeem eruitziet, waardoor ze op zijn
+best niet betrokken zijn of in het slechtste geval boos en GEE IK KAN NIET ZIEN
+
+66
+00:04:30,120 --> 00:04:30,499
+WAAROM.
+
+67
+00:04:30,500 --> 00:04:35,309
+Dit is op te lossen, er zijn veel, veel betere
+manieren waarop het VK kan stemmen - hier zijn er twee die
+
+68
+00:04:35,310 --> 00:04:37,159
+zelfs lokale vertegenwoordigers behouden.
+
+69
+00:04:37,160 --> 00:04:42,719
+En het stemmen regelen is echt belangrijk, want
+dit is een soort van onwettigheidsscore van de
+
+70
+00:04:42,720 --> 00:04:47,989
+overheid -- en het gaat omhoog en kan dat
+blijven doen, tenzij dit fundamenteel kapotte
+
+71
+00:04:47,990 --> 00:05:00,500
+stemsysteem wordt veranderd.
+

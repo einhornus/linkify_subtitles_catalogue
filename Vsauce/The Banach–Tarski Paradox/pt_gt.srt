@@ -1,0 +1,1784 @@
+1
+00:00:00,260 --> 00:00:03,799
+Olá, Vsauce.  Miguel aqui.
+Existe uma maneira famosa
+
+2
+00:00:03,800 --> 00:00:08,199
+de aparentemente criar chocolate do
+nada.
+
+3
+00:00:08,200 --> 00:00:11,459
+Talvez você já tenha visto isso antes.
+Esta barra de chocolate tem
+
+4
+00:00:11,460 --> 00:00:15,749
+4 quadrados por 8 quadrados, mas se você cortar assim
+
+5
+00:00:15,750 --> 00:00:19,188
+e depois assim e finalmente assim
+
+6
+00:00:19,189 --> 00:00:22,198
+você pode reorganizar os pedaços assim
+
+7
+00:00:22,199 --> 00:00:25,659
+e terminar com a mesma barra de 4 por 8
+
+8
+00:00:25,660 --> 00:00:29,538
+, mas com um pedaço restante, aparentemente
+criado
+
+9
+00:00:29,539 --> 00:00:33,238
+a partir do nada.  Há uma
+animação popular dessa
+
+10
+00:00:33,239 --> 00:00:37,058
+ilusão também.  Eu chamo isso de ilusão
+
+11
+00:00:37,059 --> 00:00:40,689
+porque é apenas isso.  Falso.
+Na realidade,
+
+12
+00:00:40,690 --> 00:00:44,459
+a barra final é um pouco menor.
+Ele
+
+13
+00:00:44,460 --> 00:00:50,029
+contém muito menos chocolate.  Cada quadrado
+ao longo do corte é mais curto do que
+
+14
+00:00:50,030 --> 00:00:50,909
+no original,
+
+15
+00:00:50,910 --> 00:00:55,069
+mas o corte torna difícil notar
+imediatamente.  A animação é
+
+16
+00:00:55,070 --> 00:00:58,578
+extremamente enganosa, porque tenta
+encobrir sua decepção.
+
+17
+00:00:58,579 --> 00:01:02,799
+A altura perdida de cada quadrado é
+sub-repticiamente
+
+18
+00:01:02,800 --> 00:01:06,349
+adicionada enquanto a peça se move para torná-
+la difícil de notar.
+
+19
+00:01:06,350 --> 00:01:10,938
+Quero dizer, vamos lá, obviamente você não pode cortar
+uma barra de chocolate
+
+20
+00:01:10,939 --> 00:01:16,129
+e reorganizar os pedaços em mais do que
+você começou.
+
+21
+00:01:16,130 --> 00:01:19,199
+Ou você pode?
+Um dos teoremas mais estranhos
+
+22
+00:01:19,200 --> 00:01:22,879
+da matemática moderna é o paradoxo de
+Banach-Tarski
+
+23
+00:01:22,880 --> 00:01:24,339
+.
+
+24
+00:01:24,340 --> 00:01:28,639
+Isso prova que existe, de fato, uma maneira de
+pegar um objeto
+
+25
+00:01:28,640 --> 00:01:31,959
+e separá-lo em 5
+
+26
+00:01:31,960 --> 00:01:37,509
+pedaços diferentes.
+
+27
+00:01:37,510 --> 00:01:40,859
+E então, com essas cinco peças, simplesmente
+
+28
+00:01:40,860 --> 00:01:44,709
+reorganize-as.
+Não é necessário esticar em
+
+29
+00:01:44,710 --> 00:01:48,719
+duas cópias exatas do
+
+30
+00:01:48,720 --> 00:01:52,299
+item original.  Mesma densidade, mesmo tamanho,
+
+31
+00:01:52,300 --> 00:01:55,659
+mesmo tudo.
+
+32
+00:01:55,660 --> 00:01:58,709
+Seriamente.  Para mergulhar no golpe mental
+
+33
+00:01:58,710 --> 00:02:02,499
+que é e na maneira como fundamentalmente
+questiona a matemática
+
+34
+00:02:02,500 --> 00:02:07,619
+e a nós mesmos, temos que começar fazendo
+algumas perguntas.
+
+35
+00:02:07,620 --> 00:02:11,099
+Primeiro, o que é infinito?
+
+36
+00:02:11,100 --> 00:02:13,639
+Um número?
+Quer dizer, não está
+
+37
+00:02:13,640 --> 00:02:16,958
+em nenhum lugar da reta numérica,
+mas costumamos dizer coisas como se
+
+38
+00:02:16,959 --> 00:02:21,009
+houvesse um "número" infinito de blá-blá-blá.
+
+39
+00:02:21,010 --> 00:02:24,409
+E até onde sabemos, o infinito pode ser real.
+
+40
+00:02:24,410 --> 00:02:27,619
+O universo pode ser infinito em tamanho
+
+41
+00:02:27,620 --> 00:02:31,458
+e plano, estendendo-se para todo o sempre
+
+42
+00:02:31,459 --> 00:02:34,499
+sem fim, além até mesmo da parte que podemos
+observar
+
+43
+00:02:34,500 --> 00:02:37,879
+ou esperar observar.
+
+44
+00:02:37,880 --> 00:02:41,529
+Isso é exatamente o que é o infinito.
+Não um número em
+
+45
+00:02:41,530 --> 00:02:45,389
+si, mas sim um tamanho.
+O tamanho
+
+46
+00:02:45,390 --> 00:02:49,949
+de algo que não acaba.
+Infinito não é o maior
+
+47
+00:02:49,950 --> 00:02:53,319
+número, em vez disso, é quantos números
+
+48
+00:02:53,320 --> 00:02:57,369
+existem.  Mas existem diferentes
+tamanhos de infinito.
+
+49
+00:02:57,370 --> 00:03:00,369
+O menor tipo de infinito é o
+
+50
+00:03:00,370 --> 00:03:03,939
+infinito contável.
+O número de horas
+
+51
+00:03:03,940 --> 00:03:07,809
+para sempre.  É também o número de
+números inteiros que existem,
+
+52
+00:03:07,810 --> 00:03:10,829
+número natural, os números que usamos ao
+contar
+
+53
+00:03:10,830 --> 00:03:14,219
+coisas, como 1, 2, 3, 4, 5, 6
+
+54
+00:03:14,220 --> 00:03:17,839
+e assim por diante.  Conjuntos como esses são intermináveis,
+
+55
+00:03:17,840 --> 00:03:23,039
+mas são contáveis.  Contáveis
+ica que você pode contá-los de um
+
+56
+00:03:23,040 --> 00:03:26,269
+elemento para qualquer outro em uma quant
+
+57
+00:03:26,270 --> 00:03:31,279
+dade finita de tempo, mesmo que essa quant
+dade finita de tempo seja mais longa do que você viver
+
+58
+00:03:31,280 --> 00:03:32,159
+� ou o 
+
+59
+00:03:32,160 --> 00:03:36,269
+niverso existirá, ainda é finit
+
+60
+00:03:36,270 --> 00:03:40,059
+.  O infinito incontável, por outro lado, é literalmente
+
+61
+00:03:40,060 --> 00:03:43,369
+maior.
+Grande demais para contar.
+
+62
+00:03:43,370 --> 00:03:46,549
+O número de números reais que existem,
+
+63
+00:03:46,550 --> 00:03:50,019
+não apenas números inteiros, mas todos os números é
+
+64
+00:03:50,020 --> 00:03:53,559
+incontávelmente infinito.
+Você literalmente não pode
+
+65
+00:03:53,560 --> 00:03:57,659
+contar de 0 a 1 em um período finito de
+tempo nomeando
+
+66
+00:03:57,660 --> 00:04:00,909
+cada número real entre eles.
+Quero dizer, por
+
+67
+00:04:00,910 --> 00:04:04,029
+onde você começa?
+Zero,
+
+68
+00:04:04,030 --> 00:04:10,939
+ok.
+Mas o que vem a seguir?  0,000000...
+
+69
+00:04:10,940 --> 00:04:14,289
+Eventualmente, imaginamos um 1
+
+70
+00:04:14,290 --> 00:04:17,607
+indo para algum lugar no final, mas não há fim.
+
+71
+00:04:17,608 --> 00:04:21,509
+Sempre poderíamos adicionar outro 0. A
+incontabilidade
+
+72
+00:04:21,510 --> 00:04:26,149
+torna esse conjunto muito maior do que o conjunto
+de todos os números inteiros
+
+73
+00:04:26,150 --> 00:04:30,099
+que, mesmo entre 0 e 1, há mais números
+
+74
+00:04:30,100 --> 00:04:34,079
+do que números inteiros em
+toda a reta numérica infinita.
+
+75
+00:04:34,080 --> 00:04:37,119
+O famoso argumento diagonal de Georg Cantor ajuda a
+
+76
+00:04:37,120 --> 00:04:40,179
+ilustrar isso.
+Imagine listar todos os números
+
+77
+00:04:40,180 --> 00:04:45,769
+entre zero e um.  Como eles são
+incontáveis e não podem ser listados em ordem, vamos
+
+78
+00:04:45,770 --> 00:04:48,859
+imaginar gerá-los aleatoriamente para sempr
+
+79
+00:04:48,860 --> 00:04:54,039
+ sem repetições.  Cada número regenerado pode ser emparelhado
+
+80
+00:04:54,040 --> 00:04:59,819
+com um número inteiro.  Se houver
+uma correspondência de um para um entre os dois,
+
+81
+00:04:59,820 --> 00:05:03,739
+ou seja, se pudermos corresponder um número inteiro
+a cada número real
+
+82
+00:05:03,740 --> 00:05:06,779
+em nossa lista, isso significaria que os conjuntos
+
+83
+00:05:06,780 --> 00:05:11,489
+contáveis e incontáveis são do mesmo taman
+o.  Mas não podemos fazer isso,
+
+84
+00:05:11,490 --> 00:05:14,839
+mesmo que esta lista continue para
+
+85
+00:05:14,840 --> 00:05:19,259
+sempre.  Para sempre não é suficiente.
+Vê isto.
+
+86
+00:05:19,260 --> 00:05:23,059
+Se descermos diagonalmente nossa lista interminável
+
+
+87
+00:05:23,060 --> 00:05:27,239
+de números reais e pegarmos a primeira casa decimal
+do primeiro número
+
+88
+00:05:27,240 --> 00:05:31,209
+e a segunda do segundo número,
+a terceira do terceiro e assim por diante
+
+89
+00:05:31,210 --> 00:05:34,728
+e adicionarmos um a cada um, subtraindo um
+
+90
+00:05:34,729 --> 00:05:38,278
+se for um  nove, podemos
+gerar um novo
+
+91
+00:05:38,279 --> 00:05:41,978
+número real que está obviamente entre 0 e 1,
+
+92
+00:05:41,979 --> 00:05:44,989
+mas como o definimos para ser
+diferente
+
+93
+00:05:44,990 --> 00:05:49,179
+de todos os números em nossa lista interminável
+e pelo menos um
+
+94
+00:05:49,180 --> 00:05:52,318
+lugar claramente não está contido na lista.
+
+95
+00:05:52,319 --> 00:05:56,468
+Em outras palavras, usamos todos
+os números inteiros
+
+96
+00:05:56,469 --> 00:06:00,019
+, toda a infinidade deles e ainda assim podemos
+
+
+97
+00:06:00,020 --> 00:06:05,408
+chegar a mais números reais.
+Aqui está outra coisa que é verdade,
+
+98
+00:06:05,409 --> 00:06:08,758
+mas contra-intuitiva.
+Há o mesmo número
+
+99
+00:06:08,759 --> 00:06:11,869
+de números pares, pois há
+
+100
+00:06:11,870 --> 00:06:17,819
+números pares e ímpares.  A princípio, isso soa
+ridículo.  Claramente, há apenas metade dos
+
+101
+00:06:17,820 --> 00:06:22,218
+números pares de todos os números inteiros,
+mas essa intuição está errada.
+
+102
+00:06:22,219 --> 00:06:25,508
+O conjunto de todos os números inteiros é mais denso, mas
+
+103
+00:06:25,509 --> 00:06:28,709
+cada número par pode ser combinado com um
+número inteiro.
+
+104
+00:06:28,710 --> 00:06:33,459
+Você nunca ficará sem membros em nenhum dos
+conjuntos, então essa correspondência de um para um
+
+105
+00:06:33,460 --> 00:06:38,079
+mostra que ambos os conjuntos são do mesmo tamanho.
+
+106
+00:06:38,080 --> 00:06:41,538
+Em outras palavras, infinito dividido por dois
+
+107
+00:06:41,539 --> 00:06:44,068
+ainda é infinito.
+
+108
+00:06:44,069 --> 00:06:47,448
+Infinito mais um também é infinito.
+
+109
+00:06:47,449 --> 00:06:50,849
+Uma boa ilustração disso é o paradoxo de Hilbert
+
+
+110
+00:06:50,850 --> 00:06:54,138
+no Grand Hotel.
+Imagine um hotel
+
+111
+00:06:54,139 --> 00:06:57,899
+com um número incontável de
+quartos.  Mas agora,
+
+112
+00:06:57,900 --> 00:07:02,329
+imagine que há uma pessoa reservada
+em cada quarto.
+
+113
+00:07:02,330 --> 00:07:07,839
+Aparentemente, está lotado, certo?
+Não.
+
+114
+00:07:07,840 --> 00:07:10,679
+Conjuntos infinitos vão contra o bom senso.
+
+115
+00:07:10,680 --> 00:07:14,079
+Veja bem, se um novo hóspede aparecer e quiser um quarto,
+
+116
+00:07:14,080 --> 00:07:17,839
+tudo o que o hotel precisa fazer é mover o
+hóspede do quarto número 1
+
+117
+00:07:17,840 --> 00:07:21,999
+para o quarto número 2. E um hóspede do quarto 2 para o
+quarto 3 e 3 para 4 e 4 para
+
+118
+00:07:22,000 --> 00:07:23,209
+5  e assim por diante.
+
+119
+00:07:23,210 --> 00:07:26,649
+Como o número de quartos nunca acaba
+
+120
+00:07:26,650 --> 00:07:30,138
+, não podemos ficar sem quartos.
+Infinito
+
+121
+00:07:30,139 --> 00:07:34,029
+-1 também é infinito novamente.
+
+122
+00:07:34,030 --> 00:07:37,158
+Se um hóspede sair do hotel, podemos deslocar
+
+123
+00:07:37,159 --> 00:07:40,719
+todos os hóspedes para o outro lado.
+O convidado 2 vai para o quarto 1,
+
+124
+00:07:40,720 --> 00:07:44,408
+3 para 2, 4 para 3 e assim por diante, pois temos uma
+
+125
+00:07:44,409 --> 00:07:48,908
+quantidade infinita de convidados.  Isso é um
+suprimento inesgotável deles.
+
+126
+00:07:48,909 --> 00:07:52,948
+Nenhum quarto ficará vazio.
+Como se vê,
+
+127
+00:07:52,949 --> 00:07:56,609
+você pode subtrair qualquer número finito do infinito
+
+128
+00:07:56,610 --> 00:08:00,529
+e ainda ficar com o infinito.
+Não importa.
+
+129
+00:08:00,530 --> 00:08:04,529
+É interminável.  Banach-Tarski ainda não saiu de
+nossas vistas.
+
+130
+00:08:04,530 --> 00:08:07,609
+Tudo isso está relacionado.
+Agora estamos prontos para passar
+
+131
+00:08:07,610 --> 00:08:11,269
+para as formas.
+O hotel de Hilbert pode ser aplicado
+
+132
+00:08:11,270 --> 00:08:15,149
+a um círculo.  Pontos ao redor da
+circunferência podem ser considerados
+
+133
+00:08:15,150 --> 00:08:19,369
+convidados.  Se removermos um ponto do círculo
+
+134
+00:08:19,370 --> 00:08:24,579
+esse ponto desaparece, certo?
+O infinito nos
+
+135
+00:08:24,580 --> 00:08:27,668
+diz que não importa.
+A circunferência de um círculo
+
+136
+00:08:27,669 --> 00:08:31,249
+é irracional.  É o raio vezes 2Pi.
+
+137
+00:08:31,250 --> 00:08:34,499
+Então, se marcarmos pontos começando
+do todo,
+
+138
+00:08:34,500 --> 00:08:38,898
+cada comprimento de raio ao longo da
+circunferência no sentido horário
+
+139
+00:08:38,899 --> 00:08:42,269
+, nunca iremos pousar no mesmo ponto
+duas vezes,
+
+140
+00:08:42,270 --> 00:08:45,609
+nunca.
+Podemos contar cada ponto que marcamos
+
+141
+00:08:45,610 --> 00:08:49,759
+com um número inteiro.
+Portanto, este conjunto é interminável,
+
+142
+00:08:49,760 --> 00:08:53,389
+mas contável, assim como os hóspedes e os
+quartos do hotel de Hilbert.
+
+143
+00:08:53,390 --> 00:08:56,669
+E como esses convidados,
+mesmo que um tenha feito check-out,
+
+144
+00:08:56,670 --> 00:09:00,069
+podemos simplesmente mudar o resto.
+Mova-os no
+
+145
+00:09:00,070 --> 00:09:04,359
+sentido anti-horário e todos os cômodos serão
+preenchidos O
+
+146
+00:09:04,360 --> 00:09:07,589
+ponto 1 se move para preencher o buraco, o ponto 2
+
+147
+00:09:07,590 --> 00:09:10,949
+preenche o lugar onde o ponto 1 costumava estar, o
+3 preenche o 2
+
+148
+00:09:10,950 --> 00:09:16,049
+e assim por diante.  Uma vez que temos um
+suprimento inesgotável de pontos numerados,
+
+149
+00:09:16,050 --> 00:09:19,129
+nenhum buraco ficará por preencher.
+
+150
+00:09:19,130 --> 00:09:24,189
+O ponto perdido é esquecido.
+Aparentemente, nunca precisávamos
+
+151
+00:09:24,190 --> 00:09:28,599
+que fosse completo.  Há uma última
+consequência necessária do infinito
+
+152
+00:09:28,600 --> 00:09:32,979
+que devemos discutir antes de atacar Banach-Tarski.
+Ian
+
+153
+00:09:32,980 --> 00:09:36,259
+Stewart propôs um dicionário brilhante.
+
+154
+00:09:36,260 --> 00:09:40,539
+Um que ele chamou de Hyperwebster.
+O Hyperwebster
+
+155
+00:09:40,540 --> 00:09:44,069
+lista todas as palavras possíveis de qualquer comprimento
+
+156
+00:09:44,070 --> 00:09:47,559
+formadas a partir das 26 letras do
+alfabeto inglês.
+
+157
+00:09:47,560 --> 00:09:51,329
+Começa com "a", seguido de "aa",
+
+158
+00:09:51,330 --> 00:09:54,409
+depois "aaa" e depois "aaaa".
+
+159
+00:09:54,410 --> 00:09:57,749
+E depois de um número infinito deles, "ab",
+
+160
+00:09:57,750 --> 00:10:01,949
+depois "aba", depois "abaa", "abaaa",
+
+161
+00:10:01,950 --> 00:10:05,129
+e assim por diante até "z, "za",
+
+162
+00:10:05,130 --> 00:10:08,289
+"zaa", etc., etc.,
+até o final  entrada em
+
+163
+00:10:08,290 --> 00:10:11,919
+uma sequência infinita de "z"s.
+
+
+164
+00:10:11,920 --> 00:10:14,989
+Tal dicionário conteria
+
+165
+00:10:14,990 --> 00:10:18,479
+cada palavra.
+Cada pensamento,
+
+166
+00:10:18,480 --> 00:10:22,009
+definição, descrição, verdade, mentira, nome,
+
+167
+00:10:22,010 --> 00:10:25,239
+história.
+O que aconteceu com Amelia Earhart estaria
+
+168
+00:10:25,240 --> 00:10:29,219
+nesse dicionário,
+assim como cada  única coisa que
+
+169
+00:10:29,220 --> 00:10:31,969
+não aconteceu com Amelia Earhart.
+
+170
+00:10:31,970 --> 00:10:35,259
+Tudo o que poderia ser dito usando nosso
+
+171
+00:10:35,260 --> 00:10:39,499
+alfabeto.
+Obviamente, seria enorme,
+
+172
+00:10:39,500 --> 00:10:43,009
+mas a empresa que o publicasse poderia
+perceber que poderia pegar
+
+173
+00:10:43,010 --> 00:10:46,799
+um atalho. Se eles colocassem todas as palavras
+que começam com
+
+174
+00:10:46,800 --> 00:10:49,959
+a em um volume intitulado "A",
+
+175
+00:10:49,960 --> 00:10:54,209
+eles não precisariam imprimir a inicial "a". Os
+leitores saberiam apenas adicionar o "a",
+
+176
+00:10:54,210 --> 00:10:57,319
+porque é o volume "a".
+Ao remover a inicial
+
+177
+00:10:57,320 --> 00:11:00,759
+"a", o  a editora fica com cada palavra "a"
+
+178
+00:11:00,760 --> 00:11:04,309
+sem o primeiro "a", que surpreendentemente
+
+179
+00:11:04,310 --> 00:11:07,909
+se tornou todas as palavras possíveis.
+Apenas um
+
+180
+00:11:07,910 --> 00:11:13,999
+dos 26 volumes foi
+decomposto em tudo.
+
+181
+00:11:14,000 --> 00:11:17,629
+Agora é  que estamos prontos para
+investigar o paradoxo do título deste vídeo
+
+182
+00:11:17,630 --> 00:11:21,269
+.
+E se transformássemos um objeto,
+
+183
+00:11:21,270 --> 00:11:24,709
+uma coisa 3D em um Hyperwebster?
+
+184
+00:11:24,710 --> 00:11:30,079
+Poderíamos decompor pedaços dele na
+coisa toda?
+
+185
+00:11:30,080 --> 00:11:32,359
+Sim.
+A primeira coisa que precisamos fazer
+
+186
+00:11:32,360 --> 00:11:35,889
+é dar a cada ponto na
+superfície da esfera
+
+187
+00:11:35,890 --> 00:11:40,939
+um nome e apenas um nome.  Uma boa maneira de
+fazer isso é nomeá-los de acordo com como eles
+
+188
+00:11:40,940 --> 00:11:43,619
+podem ser alcançados por um determinado ponto de partida.
+
+189
+00:11:43,620 --> 00:11:47,739
+Se movermos este ponto de partida
+pela superfície da esfera
+
+190
+00:11:47,740 --> 00:11:51,739
+em passos que tenham o comprimento certo,
+não importa quantas vezes
+
+191
+00:11:51,740 --> 00:11:55,109
+ou em que direção giremos,
+desde que nunca
+
+192
+00:11:55,110 --> 00:11:58,419
+voltemos atrás, ele nunca terminará no
+mesmo lugar
+
+193
+00:11:58,420 --> 00:12:03,079
+duas vezes  .  Só precisamos girar em quatro
+direções para alcançar esse paradoxo.
+
+194
+00:12:03,080 --> 00:12:06,279
+Para cima, para baixo, para a esquerda e para a direita em torno de
+
+195
+00:12:06,280 --> 00:12:09,999
+dois eixos perpendiculares.
+Vamos precisar de
+
+196
+00:12:10,000 --> 00:12:13,229
+todas as sequências possíveis que podem
+ser feitas
+
+197
+00:12:13,230 --> 00:12:17,269
+de qualquer comprimento finito apenas com essas
+quatro rotações.
+
+198
+00:12:17,270 --> 00:12:20,269
+Isso significa que precisaremos de esquerda, direita, para
+
+199
+00:12:20,270 --> 00:12:24,249
+cima e para baixo, bem como esquerda esquerda,
+
+200
+00:12:24,250 --> 00:12:27,459
+esquerda para cima, esquerda para baixo, mas é claro que não para
+
+201
+00:12:27,460 --> 00:12:31,009
+esquerda direita, porque, bem, isso é
+retroceder.  Ir para a esquerda
+
+202
+00:12:31,010 --> 00:12:34,759
+e depois para a direita significa que você é o mesmo
+que era antes de fazer qualquer coisa, então
+
+203
+00:12:34,760 --> 00:12:37,869
+não há esquerda direita, não direita esquerda e não sobe
+
+
+204
+00:12:37,870 --> 00:12:42,219
+e desce.  Observe também que estou escrevendo
+as rotações na ordem da
+
+205
+00:12:42,220 --> 00:12:45,299
+direita para a esquerda, então a rotação final
+
+206
+00:12:45,300 --> 00:12:48,949
+é a letra mais à esquerda.
+Isso será importante mais adiante.
+
+207
+00:12:48,950 --> 00:12:53,959
+De qualquer forma.  Uma lista de todas as sequências possíveis
+de rotações permitidas que são finitas
+
+208
+00:12:53,960 --> 00:12:57,039
+em comprimento é, bem,
+
+209
+00:12:57,040 --> 00:13:00,209
+enorme.  Infinitamente infinito, na verdade.
+
+210
+00:13:00,210 --> 00:13:03,579
+Mas se aplicarmos cada um deles a um
+ponto de partida
+
+211
+00:13:03,580 --> 00:13:06,879
+em verde aqui e depois nomearmos o ponto em que
+pousamos
+
+212
+00:13:06,880 --> 00:13:09,929
+após a sequência que nos trouxe até lá,
+podemos nomear
+
+213
+00:13:09,930 --> 00:13:13,189
+um conjunto infinito contável de pontos
+na superfície.
+
+214
+00:13:13,190 --> 00:13:17,049
+Vamos ver como, digamos, essas quatro strings
+em nossa lista funcionariam.
+
+215
+00:13:17,050 --> 00:13:21,849
+Direita para a esquerda.  Ok, girar o ponto de
+partida dessa maneira
+
+216
+00:13:21,850 --> 00:13:27,259
+nos leva até aqui.  Vamos codificar o ponto com cores com
+base na rotação final em sua string,
+
+217
+00:13:27,260 --> 00:13:31,189
+neste caso é esquerda e para isso usaremos
+
+218
+00:13:31,190 --> 00:13:34,338
+roxo.
+Em seguida para baixo para baixo.
+
+219
+00:13:34,339 --> 00:13:38,729
+Essa sequência nos leva até aqui.
+Nomeamos o ponto DD
+
+220
+00:13:38,730 --> 00:13:41,958
+e o colorimos de azul, pois terminamos com uma
+
+221
+00:13:41,959 --> 00:13:46,099
+rotação para baixo.
+RDR, que será o nome deste ponto,
+
+222
+00:13:46,100 --> 00:13:49,879
+leva-nos até aqui.
+E para uma rotação final à direita,
+
+223
+00:13:49,880 --> 00:13:52,989
+vamos usar vermelho.
+Finalmente, para uma sequência que termina com
+
+224
+00:13:52,990 --> 00:13:56,069
+up, vamos codificar o ponto laranja com a cor.
+
+225
+00:13:56,070 --> 00:13:59,289
+Agora, se imaginarmos completar este
+processo para
+
+226
+00:13:59,290 --> 00:14:03,739
+cada sequência, teremos um
+número infinito contável de pontos
+
+227
+00:14:03,740 --> 00:14:04,329
+nomeados
+
+228
+00:14:04,330 --> 00:14:07,509
+e codificados por cores.
+Isso é ótimo, mas
+
+229
+00:14:07,510 --> 00:14:11,269
+não o suficiente.
+Há um
+
+230
+00:14:11,270 --> 00:14:15,109
+número incontável infinito de pontos na superfície de uma esfera.
+
+231
+00:14:15,110 --> 00:14:18,139
+Mas não se preocupe, podemos apenas escolher um ponto
+que perdemos.
+
+232
+00:14:18,140 --> 00:14:21,559
+Qualquer ponto e colora-o de verde, tornando-o
+
+233
+00:14:21,560 --> 00:14:25,349
+um novo ponto de partida e, em seguida, execute todas as
+sequências a
+
+234
+00:14:25,350 --> 00:14:28,659
+partir daqui.
+Depois de fazer isso com um
+
+235
+00:14:28,660 --> 00:14:32,449
+número incontável de pontos de
+partida, teremos de fato
+
+236
+00:14:32,450 --> 00:14:35,989
+nomeado e colorido cada ponto
+na superfície
+
+237
+00:14:35,990 --> 00:14:39,708
+apenas uma vez.
+Com exceção
+
+238
+00:14:39,709 --> 00:14:44,389
+dos postes.  Cada sequência tem dois pólos de
+rotação.
+
+239
+00:14:44,390 --> 00:14:48,739
+Locais na esfera que voltam
+exatamente para onde começaram.
+
+240
+00:14:48,740 --> 00:14:52,129
+Para qualquer sequência de rotações à direita ou à esquerda
+
+241
+00:14:52,130 --> 00:14:55,299
+, as sondagens são os pólos norte e
+sul.
+
+242
+00:14:55,300 --> 00:14:59,579
+O problema com pólos como esses é
+que mais de uma sequência pode nos levar
+
+243
+00:14:59,580 --> 00:15:00,279
+a eles.
+
+244
+00:15:00,280 --> 00:15:03,849
+Eles podem ser nomeados mais de uma vez e ser coloridos
+
+245
+00:15:03,850 --> 00:15:08,289
+em mais de uma cor.  Por exemplo, se
+você seguir alguma outra sequência para o
+
+246
+00:15:08,290 --> 00:15:09,679
+polo norte ou sul,
+
+247
+00:15:09,680 --> 00:15:12,989
+quaisquer direitas ou esquerdas subsequentes
+
+248
+00:15:12,990 --> 00:15:17,489
+serão nomes igualmente válidos.  Para lidar
+com isso, vamos apenas contá-los fora
+
+249
+00:15:17,490 --> 00:15:17,749
+do
+
+250
+00:15:17,750 --> 00:15:21,469
+esquema normal e colori-los todos de amarelo.
+Cada sequência tem dois,
+
+251
+00:15:21,470 --> 00:15:24,579
+então há uma quantidade infinita e contável
+
+252
+00:15:24,580 --> 00:15:28,539
+deles.  Agora, com cada ponto na
+esfera dado apenas
+
+253
+00:15:28,540 --> 00:15:33,859
+um nome e apenas uma das seis cores,
+estamos prontos para desmontar a esfera inteira
+
+254
+00:15:33,860 --> 00:15:38,859
+.  Cada ponto na superfície
+corresponde a uma única linha de pontos
+
+255
+00:15:38,860 --> 00:15:39,629
+abaixo dela
+
+256
+00:15:39,630 --> 00:15:43,269
+até o ponto central.
+E estaremos arrastando
+
+257
+00:15:43,270 --> 00:15:47,329
+a linha de cada ponto junto com ele.
+O ponto central solitário
+
+258
+00:15:47,330 --> 00:15:52,199
+deixaremos de lado.  Ok, primeiro recortamos
+e extraímos todos os
+
+259
+00:15:52,200 --> 00:15:55,369
+pólos amarelos, os pontos iniciais verdes, os pontos
+
+260
+00:15:55,370 --> 00:15:59,389
+laranja para cima, os pontos azuis para baixo
+
+261
+00:15:59,390 --> 00:16:03,539
+e os pontos esquerdo e direito vermelho e roxo
+.
+
+262
+00:16:03,540 --> 00:16:06,099
+Essa é a esfera inteira.
+Com apenas
+
+263
+00:16:06,100 --> 00:16:10,589
+essas peças você poderia construir a
+coisa toda.  Mas dê uma olhada na parte esquerda.
+
+264
+00:16:10,590 --> 00:16:13,769
+É definido por ser uma peça composta por
+
+265
+00:16:13,770 --> 00:16:17,219
+todos os pontos, acessados por meio de uma sequência que termina com u
+
+266
+00:16:17,220 --> 00:16:21,339
+a rotação à esque
+da.  Se girarmos esta peça para a
+
+267
+00:16:21,340 --> 00:16:24,729
+direita, é o mesmo que adicionar um "R" ao
+
+268
+00:16:24,730 --> 00:16:28,249
+nome de cada ponto.
+Mas a esquerda e a direita
+
+269
+00:16:28,250 --> 00:16:32,979
+são um retrocesso, elas se
+anulam.  E veja o que acontece quando você os
+
+270
+00:16:32,980 --> 00:16:36,979
+reduz.  O conjunto torna-se o mesmo
+
+271
+00:16:36,980 --> 00:16:40,549
+que um conjunto de todos os pontos com nomes
+que terminam em L,
+
+272
+00:16:40,550 --> 00:16:44,539
+mas também U, D e todos os pontos
+
+273
+00:16:44,540 --> 00:16:47,869
+alcançados sem rotação.
+Esse é o conjunto completo de pontos de partida.
+
+274
+00:16:47,870 --> 00:16:53,039
+Transformamos menos de um quarto
+da esfera em quase três quartos
+
+275
+00:16:53,040 --> 00:17:00,919
+apenas girando-a.  Não adicionamos nada.  É como
+o Hyperwebster.  Se tivéssemos a peça certa
+
+276
+00:17:00,920 --> 00:17:05,649
+e os pólos de rotação e o
+ponto central, bem, temos a esfera inteira de
+
+277
+00:17:05,650 --> 00:17:09,759
+novo, mas com sobras.
+Para fazer uma segunda cópia,
+
+278
+00:17:09,760 --> 00:17:13,259
+vamos girar a parte de cima para baixo.
+
+
+279
+00:17:13,260 --> 00:17:16,958
+As subidas para baixo se cancelam porque, bem
+, é o mesmo que não ir a lugar nenhum
+
+280
+00:17:16,959 --> 00:17:20,249
+e ficamos com um conjunto de todos os
+pontos de partida, toda
+
+281
+00:17:20,250 --> 00:17:24,549
+a peça para cima, a peça direita e a
+peça esquerda, mas há um problema aqui.
+
+282
+00:17:24,550 --> 00:17:28,729
+Não precisamos desse conjunto extra de pontos de partida
+.  Ainda não
+
+283
+00:17:28,730 --> 00:17:32,699
+usamos os originais.  Não se preocupe, vamos
+começar de novo.
+
+284
+00:17:32,700 --> 00:17:35,699
+Podemos apenas mover tudo da
+peça para cima
+
+285
+00:17:35,700 --> 00:17:38,809
+que se transforma em um ponto de partida quando
+girada para baixo.
+
+286
+00:17:38,810 --> 00:17:42,629
+Isso significa cada ponto cuja
+rotação final está para cima.  Vamos colocá-los
+
+287
+00:17:42,630 --> 00:17:47,399
+na peça.  É claro que, depois de girar os
+pontos chamados
+
+288
+00:17:47,400 --> 00:17:51,919
+UU, eles se transformarão em pontos chamados U,
+e isso nos daria uma cópia aqui
+
+289
+00:17:51,920 --> 00:17:55,129
+e aqui.
+Então, como se vê, precisamos mover
+
+290
+00:17:55,130 --> 00:17:58,769
+todos os pontos com qualquer nome que seja apenas uma sequência de Nós.
+
+291
+00:17:58,770 --> 00:18:01,959
+Vamos colocá-los na parte de baixo e
+girar a
+
+292
+00:18:01,960 --> 00:18:05,169
+parte de cima para baixo, o que a torna congruente com
+as partes de cima, direita
+
+293
+00:18:05,170 --> 00:18:09,039
+e esquerda, adicionar a parte de baixo
+junto com algumas
+
+294
+00:18:09,040 --> 00:18:12,928
+partes de cima e o ponto de partida e, bem,
+estamos quase terminando  .
+
+295
+00:18:12,929 --> 00:18:15,859
+Os pólos de rotação e centro estão
+
+296
+00:18:15,860 --> 00:18:18,788
+faltando nesta cópia, mas não se preocupe.
+Há um
+
+297
+00:18:18,789 --> 00:18:22,658
+número infinito de buracos,
+onde os pólos de rotação costumavam estar, o
+
+298
+00:18:22,659 --> 00:18:28,129
+que significa que há algum pólo em torno do
+qual podemos girar essa esfera de tal forma que
+
+299
+00:18:28,130 --> 00:18:32,069
+cada buraco orbite sem
+bater em outro.
+
+300
+00:18:32,070 --> 00:18:35,648
+Bem, isso é apenas um monte de círculos
+com um ponto faltando.
+
+301
+00:18:35,649 --> 00:18:40,519
+Nós os preenchemos cada um como fizemos anteriormente.
+E fazemos o mesmo para o ponto central.
+
+302
+00:18:40,520 --> 00:18:44,038
+Imagine um círculo que o contém dentro
+da esfera
+
+303
+00:18:44,039 --> 00:18:47,269
+e apenas preencha do infinito e veja
+o que fizemos.
+
+304
+00:18:47,270 --> 00:18:53,329
+Pegamos uma esfera e a transformamos
+em duas esferas idênticas
+
+305
+00:18:53,330 --> 00:18:56,678
+sem acrescentar nada.
+
+306
+00:18:56,679 --> 00:19:01,158
+Um mais um é igual a
+1. Demorou
+
+307
+00:19:01,159 --> 00:19:04,928
+um pouco,
+mas as implicações são enormes.
+
+308
+00:19:04,929 --> 00:19:09,599
+E matemáticos, cientistas e
+filósofos ainda os debatem.
+
+309
+00:19:09,600 --> 00:19:13,569
+Esse processo poderia acontecer no mundo real
+?
+
+310
+00:19:13,570 --> 00:19:18,788
+Quero dizer, isso pode acontecer matematicamente e a
+matemática nos permite prever e
+
+311
+00:19:18,789 --> 00:19:21,319
+descrever abstratamente muitas coisas no mundo real
+
+
+312
+00:19:21,320 --> 00:19:26,038
+com incrível precisão, mas o paradoxo de Banach-Tarski
+
+313
+00:19:26,039 --> 00:19:29,928
+vai longe demais?
+É um lugar onde a matemática e a física se
+
+314
+00:19:29,929 --> 00:19:33,329
+separam?
+Ainda não sabemos.
+
+315
+00:19:33,330 --> 00:19:37,998
+A história está cheia de exemplos de
+conceitos matemáticos desenvolvidos de forma
+
+316
+00:19:37,999 --> 00:19:38,748
+abstrata
+
+317
+00:19:38,749 --> 00:19:42,589
+que,
+
+
+318
+00:19:42,590 --> 00:19:47,089
+por anos, décadas, séculos, pensávamos que nunca se aplicariam ao mundo real,
+até que finalmente a ciência os alcançou e
+
+319
+00:19:47,090 --> 00:19:50,209
+percebeu que eles eram totalmente aplicáveis
+
+320
+00:19:50,210 --> 00:19:56,768
+is.  O paradoxo de Banach-Tarski pode
+realmente acontecer em nosso mundo real,
+
+321
+00:19:56,769 --> 00:20:01,199
+o único problema é que as
+cinco peças em que você corta seu objeto
+
+322
+00:20:01,200 --> 00:20:05,439
+não são formas simples.
+Eles devem ser infinitamente complexos
+
+323
+00:20:05,440 --> 00:20:10,898
+e detalhados.  Isso não é possível no
+mundo real, onde as medições
+
+324
+00:20:10,899 --> 00:20:12,339
+só podem ficar tão pequenas
+
+325
+00:20:12,340 --> 00:20:16,979
+e há apenas uma quantidade finita de tempo
+para fazer qualquer coisa, mas a matemática diz que é
+
+326
+00:20:16,980 --> 00:20:19,508
+teoricamente válido e alguns cientistas
+
+327
+00:20:19,509 --> 00:20:23,419
+pensam que também pode ser fisicamente válido.
+
+328
+00:20:23,420 --> 00:20:26,408
+Houve uma série de artigos
+publicados sugerindo
+
+329
+00:20:26,409 --> 00:20:29,618
+uma ligação entre Banach-Tarski
+
+330
+00:20:29,619 --> 00:20:32,949
+e a maneira como minúsculas partículas subatômicas
+
+
+331
+00:20:32,950 --> 00:20:38,009
+podem colidir em altas energias e se transformar
+em mais partículas
+
+332
+00:20:38,010 --> 00:20:42,319
+do que começamos.
+
+333
+00:20:42,320 --> 00:20:46,619
+Somos criaturas finitas.  Nossas vidas
+
+334
+00:20:46,620 --> 00:20:51,359
+são pequenas e só podem
+considerar cientificamente uma pequena parte da
+
+335
+00:20:51,360 --> 00:20:54,908
+realidade.
+O que é comum para nós é apenas
+
+336
+00:20:54,909 --> 00:20:59,028
+uma fatia do que está disponível.  Só podemos
+ver uma parte do espectro eletromagnético
+
+337
+00:20:59,029 --> 00:20:59,989
+.
+
+338
+00:20:59,990 --> 00:21:03,428
+Só podemos mergulhar tão profundamente nas
+extensões do espaço.
+
+339
+00:21:03,429 --> 00:21:07,369
+O bom senso se aplica ao que podemos
+
+
+340
+00:21:07,370 --> 00:21:11,559
+acessar.
+Mas o bom senso é apenas isso.
+
+341
+00:21:11,560 --> 00:21:14,028
+Comum.
+Se o sentido total
+
+342
+00:21:14,029 --> 00:21:18,699
+é o que queremos, devemos estar preparados para
+aceitar que não devemos chamar o infinito de
+
+343
+00:21:18,700 --> 00:21:20,329
+estranho ou estranho.
+
+344
+00:21:20,330 --> 00:21:24,668
+Os resultados a que chegamos ao
+aceitá-lo são válidos,
+
+345
+00:21:24,669 --> 00:21:28,918
+verdadeiros dentro do sistema que usamos para
+entender, medir, prever e ordenar o
+
+346
+00:21:28,919 --> 00:21:29,739
+universo.
+
+347
+00:21:29,740 --> 00:21:34,288
+Talvez o sistema ainda precise ser
+aperfeiçoado, mas no final das contas, a
+
+348
+00:21:34,289 --> 00:21:40,479
+história continua nos mostrando que o
+universo não é estranho.
+
+349
+00:21:40,480 --> 00:21:42,949
+Nós somos.
+
+350
+00:21:42,950 --> 00:21:44,609
+E como sempre,
+
+351
+00:21:44,610 --> 00:22:06,778
+obrigado por assistir.
+
+352
+00:22:06,779 --> 00:22:10,689
+Por fim, como sempre, a descrição está cheia
+de links para saber mais.
+
+353
+00:22:10,690 --> 00:22:14,089
+Há também uma série de livros
+vinculados lá que realmente me ajudaram a
+
+354
+00:22:14,090 --> 00:22:17,388
+envolver minha mente em torno de Banach-Tarski.
+
+355
+00:22:17,389 --> 00:22:22,329
+Em primeiro lugar, "A Ervilha e o Sol", de Leonard Wapner.  Este livro é fantástico e está cheio
+
+356
+00:22:22,330 --> 00:22:23,928
+de preliminares necessárias
+
+357
+00:22:23,929 --> 00:22:27,658
+para entender a prova que vem depois.
+Ele também fala muito sobre as
+
+358
+00:22:27,659 --> 00:22:28,939
+ramificações
+
+359
+00:22:28,940 --> 00:22:33,018
+do que Banach-Tarski e seu
+teorema podem significar para a matemática.
+
+360
+00:22:33,019 --> 00:22:37,719
+Além disso, se você quiser falar sobre matemática e
+se ela foi descoberta ou inventada,
+
+361
+00:22:37,720 --> 00:22:41,658
+se realmente mapeará o universo,
+
+
+362
+00:22:41,659 --> 00:22:45,089
+"The Outer Limits of Reason" de Yanofsky é ótimo.
+
+363
+00:22:45,090 --> 00:22:50,138
+Este é o meu livro favorito que li
+este ano inteiro.  Outra boa é
+
+364
+00:22:50,139 --> 00:22:53,488
+"Why Beliefs Matter", de E. Brian Davies.  Este é realmente
+o livro favorito de Corn,
+
+365
+00:22:53,489 --> 00:22:57,388
+como você pode ver lá.
+É delicioso e cheio de muitas
+
+366
+00:22:57,389 --> 00:22:59,758
+informações ótimas sobre os limites do que
+podemos saber
+
+367
+00:22:59,759 --> 00:23:03,918
+e o que é ciência e o que é matemática.
+
+368
+00:23:03,919 --> 00:23:08,398
+Se você ama o infinito e a matemática, não posso
+mais recomendar
+
+369
+00:23:08,399 --> 00:23:11,719
+"Coisas para fazer e fazer na quarta dimensão" de Matt Parker.  Ele é hilário e este livro
+
+370
+00:23:11,720 --> 00:23:11,959
+é
+
+371
+00:23:11,960 --> 00:23:15,308
+muito, muito bom para explicar algumas
+coisas incríveis.
+
+372
+00:23:15,309 --> 00:23:19,229
+Então continue lendo,
+e se você está procurando algo para assistir,
+
+373
+00:23:19,230 --> 00:23:22,729
+espero que já tenha assistido
+ao filme de Kevin Lieber no
+
+374
+00:23:22,730 --> 00:23:26,108
+Dia de Campo.  Já fiz um documentário sobre Whittier, no Alasca.
+
+375
+00:23:26,109 --> 00:23:29,618
+Kevin tem um ótimo curta-metragem sobre
+colocar coisas na Internet
+
+376
+00:23:29,619 --> 00:23:32,808
+e fazer as pessoas reagirem a elas.  Há
+um boato de que Jake Roper pode estar fazendo
+
+377
+00:23:32,809 --> 00:23:34,178
+algo no Dia de Campo em breve.
+
+378
+00:23:34,179 --> 00:23:37,268
+Então confira o meu, confira o de Kevin e
+
+379
+00:23:37,269 --> 00:23:41,138
+assine o Field Day para a próxima
+ação de Jake Roper, sim?
+
+380
+00:23:41,139 --> 00:23:45,508
+Ele está nesta sala agora, diga
+oi, Jake.  [Jake:] Oi.  Obrigado por filmar isso,
+
+381
+00:23:45,509 --> 00:23:46,028
+a propósito.
+
+382
+00:23:46,029 --> 00:23:49,949
+Pessoal, eu realmente aprecio quem todos vocês são.
+
+383
+00:23:49,950 --> 00:23:51,629
+E como sempre,
+
+384
+00:23:51,630 --> 00:23:52,750
+obrigado por assistir.
+

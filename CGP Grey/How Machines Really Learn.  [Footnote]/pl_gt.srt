@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:03,299
+Główny film opowiada o genetycznym modelu hodowli,
+
+2
+00:00:03,300 --> 00:00:05,679
+w jaki sposób sprawić, by maszyny się uczyły.
+
+3
+00:00:05,680 --> 00:00:08,799
+Ta metoda jest prostsza do wyjaśnienia lub po prostu pokazania.
+
+4
+00:00:08,800 --> 00:00:13,459
+Oto uczenie maszynowe, jak chodzić, grać w Mario lub skakać naprawdę wysoko.
+
+5
+00:00:13,460 --> 00:00:17,059
+Kod genetyczny jest starszym kodem, ale nadal się sprawdza
+
+6
+00:00:17,060 --> 00:00:20,719
+i osobiście podejrzewam, że w przyszłości modele genetyczne odrodzą się, gdy
+
+7
+00:00:20,720 --> 00:00:23,339
+moc obliczeniowa będzie zbliżać się do szaleństwa.
+
+8
+00:00:23,340 --> 00:00:27,459
+Jednak aktualna popularność to głębokie uczenie się i rekurencyjne sieci neuronowe i
+
+9
+00:00:27,460 --> 00:00:29,859
+właśnie tam algebra liniowa naprawdę się zwiększa,
+
+10
+00:00:29,860 --> 00:00:33,799
+a wyjaśnialność w krótkim filmie naprawdę maleje.
+
+11
+00:00:33,800 --> 00:00:35,939
+Ale gdybym musiał wyjaśnić, jak działają
+
+12
+00:00:35,940 --> 00:00:38,939
+w przypisie, tylko dla porządku, wyglądałoby to tak:
+
+13
+00:00:38,940 --> 00:00:41,699
+Brak nieskończonego magazynu.  Tylko jeden uczeń.
+
+14
+00:00:41,700 --> 00:00:46,599
+Teacher Bot ma ten sam test, ale tym razem Builder Bot to „Dial Adjustment Bot”,
+
+15
+00:00:46,600 --> 00:00:51,639
+gdzie każde pokrętło określa, jak czułe jest jedno połączenie w głowie bota ucznia.
+
+16
+00:00:51,640 --> 00:00:55,439
+W jego głowie jest dużo połączeń, więc wiele pokręteł.
+
+17
+00:00:55,440 --> 00:00:56,899
+Dużo dużo.
+
+18
+00:00:56,900 --> 00:01:01,459
+Teacher Bot pokazuje Uczniowi Botowi zdjęcie, a Dial Adjustment Bot dostosowuje to pokrętło
+
+19
+00:01:01,460 --> 00:01:05,119
+mocniej lub słabiej, aby Uczeń Bot był bliżej odpowiedzi.
+
+20
+00:01:05,120 --> 00:01:10,599
+To trochę jak ustawianie pokrętła w radiu.  Czy to wciąż coś?  Czy samochody mają jeszcze radia?
+
+21
+00:01:10,600 --> 00:01:13,939
+W każdym razie nie wiem.  Możesz nie znać dokładnej częstotliwości stacji,
+
+22
+00:01:13,940 --> 00:01:17,699
+ale możesz stwierdzić, czy zbliżasz się, czy oddalasz.
+
+23
+00:01:17,700 --> 00:01:22,519
+To tak, ale ze stu tysiącami tarcz i mnóstwem matematyki,
+
+24
+00:01:22,520 --> 00:01:24,479
+a to tylko jedno pytanie testowe.
+
+25
+00:01:24,480 --> 00:01:27,339
+Kiedy Teacher Bot przedstawia następne zdjęcie,
+
+26
+00:01:27,340 --> 00:01:32,399
+Dial Adjustment Bot musi wyregulować wszystkie pokrętła, aby Student Bot mógł odpowiedzieć na oba pytania.
+
+27
+00:01:32,400 --> 00:01:34,619
+Gdy test się wydłuża
+
+28
+00:01:34,620 --> 00:01:39,899
+, staje się to szaloną ilością matematyki i dostrajania robota do regulacji tarczy.
+
+29
+00:01:39,900 --> 00:01:42,839
+Ale kiedy to się skończy, pojawia się bot-uczeń, który
+
+30
+00:01:42,840 --> 00:01:46,359
+może całkiem nieźle rozpoznać nowe zdjęcia,
+
+31
+00:01:46,360 --> 00:01:50,339
+choć nadal cierpi na niektóre problemy wymienione w głównym filmie.
+
+32
+00:01:50,340 --> 00:01:55,839
+W każdym razie to pierwsze wprowadzenie większości dzieci do sieci neuronowych, jakie kiedykolwiek usłyszysz.
+
+33
+00:01:55,840 --> 00:01:58,719
+Jeśli brzmi to dla Ciebie interesująco i lubisz matematykę i kod,
+
+34
+00:01:58,720 --> 00:02:01,179
+przejdź do szczegółów;
+
+35
+00:02:01,180 --> 00:02:04,879
+maszyny, które się uczą, są przyszłością wszystkiego.
+
+36
+00:02:04,880 --> 00:02:08,038
+Może, całkiem dosłownie, przyszłość wszystkiego
+
+37
+00:02:08,039 --> 00:02:12,098
+i biorąc pod uwagę to, przez co ich przeszliśmy, niech boty zlitują się nad nami wszystkimi.
+

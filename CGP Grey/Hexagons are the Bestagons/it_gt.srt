@@ -1,0 +1,1175 @@
+1
+00:00:00,000 --> -1:59:59,999
+[la musica strumentale giocosa del sintetizzatore svanisce lentamente]
+Sai...
+
+2
+00:00:00,000 --> 00:00:00,959
+Sai... Gli
+
+3
+00:00:00,960 --> 00:00:03,751
+esagoni sono i bestagons.
+
+4
+00:00:03,752 --> 00:00:04,428
+Come mai?
+
+5
+00:00:04,429 --> 00:00:05,722
+Perché le api.
+
+6
+00:00:05,723 --> 00:00:06,835
+Le api sono le migliori
+
+7
+00:00:06,836 --> 00:00:09,300
+e costruiscono solo il bestagon, l'esagono.
+
+8
+00:00:09,301 --> 00:00:10,529
+Ora, so cosa stai pensando.
+
+9
+00:00:10,530 --> 00:00:12,939
+Le api costruiscono esagoni perché sono esapodi
+
+10
+00:00:12,940 --> 00:00:14,129
+con occhi esagonali.
+
+11
+00:00:14,130 --> 00:00:15,759
+Come potrebbero fare altrimenti?
+
+12
+00:00:15,760 --> 00:00:16,709
+Ottimo punto.
+
+13
+00:00:16,710 --> 00:00:19,819
+Ma l'umile bumble ha un problema di ingegneria da risolvere.
+
+14
+00:00:19,820 --> 00:00:22,159
+Fa due cose: miele e cera.
+
+15
+00:00:22,160 --> 00:00:23,169
+Il primo per mangiare
+
+16
+00:00:23,170 --> 00:00:25,029
+e il secondo per contenere il primo.
+
+17
+00:00:25,030 --> 00:00:26,459
+Per fare solo un po' di miele
+
+18
+00:00:26,460 --> 00:00:28,569
+, deve visitaremolti fiori.
+
+19
+00:00:28,570 --> 00:00:30,149
+E per fare un'unità di cera,
+
+20
+00:00:30,150 --> 00:00:31,769
+ha bisogno di otto unità di miele.
+
+21
+00:00:31,770 --> 00:00:33,859
+La cera è costosa per le api in termini di fiori
+
+22
+00:00:33,860 --> 00:00:35,859
+e il miele è gocciolante in termini di cibo,
+
+23
+00:00:35,860 --> 00:00:38,299
+quindi creare un alveare che contenga la quantità massima di
+
+24
+00:00:38,300 --> 00:00:41,319
+miele utilizzando la cera minima è di vitale importanza.
+
+25
+00:00:41,320 --> 00:00:43,159
+Quindi, una congettura a nido d'ape.
+
+26
+00:00:43,160 --> 00:00:44,769
+Quale forma funziona meglio?
+
+27
+00:00:44,770 --> 00:00:46,469
+Per rispondere, dobbiamo parlare di piastrelle.
+
+28
+00:00:46,470 --> 00:00:49,439
+La piastrellatura copre una superficie con uno schema di poligoni.
+
+29
+00:00:49,440 --> 00:00:50,579
+Ci sono molte opzioni
+
+30
+00:00:50,580 --> 00:00:52,219
+perché ci sono molti poligoni.
+
+31
+00:00:52,220 --> 00:00:54,519
+Anche i clienti abituali vanno avanti e indietro.
+
+32
+00:00:54,520 --> 00:00:55,919
+Ora per i modelli di raccolta delle api,
+
+33
+00:00:55,920 --> 00:00:57,069
+quelli più complicati
+
+34
+00:00:57,070 --> 00:00:59,509
+usano ovviamente più linee del necessario.
+
+35
+00:00:59,510 --> 00:01:01,159
+Questo è ciò che significa complicato.
+
+36
+00:01:01,160 --> 00:01:02,879
+E quindi un nido d'ape di quella piastrella
+
+37
+00:01:02,880 --> 00:01:04,699
+userebbe più cera per miele.
+
+38
+00:01:04,700 --> 00:01:06,159
+Quindi attenendosi ai semplici clienti abituali,
+
+39
+00:01:06,160 --> 00:01:08,239
+ce ne sono solo tre che si affiancano strettamente.
+
+40
+00:01:08,240 --> 00:01:09,849
+Triangolo, quadrato ed esagono.
+
+41
+00:01:09,850 --> 00:01:12,259
+I pentagoni sono esagoni rotti che lasciano degli spazi vuoti.
+
+42
+00:01:12,260 --> 00:01:13,399
+Lo stesso con i settagoni.
+
+43
+00:01:13,400 --> 00:01:14,549
+Gli ottagoni vanno bene,
+
+44
+00:01:14,550 --> 00:01:15,829
+ma non sono esagoni.
+
+45
+00:01:15,830 --> 00:01:18,479
+Il che lascia il trio di piastrellatura che piastrella in modo diverso.
+
+46
+00:01:18,480 --> 00:01:20,189
+Un quadrato è un quadrato di quadrati,
+
+47
+00:01:20,190 --> 00:01:22,189
+che è un quadrato di quadrati e così via.
+
+48
+00:01:22,190 --> 00:01:24,419
+I quadrati si affiancano in modo ordinato fondamentalmente imbrogliando.
+
+49
+00:01:24,420 --> 00:01:26,029
+Coprendo un piano infinito con un
+
+50
+00:01:26,030 --> 00:01:28,029
+numero infinito di rette parallele.
+
+51
+00:01:28,030 --> 00:01:30,809
+Tipo, wow, ecco cos'è un aereo.
+
+52
+00:01:30,810 --> 00:01:31,749
+Noioso!
+
+53
+00:01:31,750 --> 00:01:33,179
+I triangoli fanno lo stesso trucco,
+
+54
+00:01:33,180 --> 00:01:35,549
+dividendosi nel nulla infinito.
+
+55
+00:01:35,550 --> 00:01:36,999
+Ma non l'esagono!
+
+56
+00:01:37,000 --> 00:01:38,529
+L'unico poligono regolare
+
+57
+00:01:38,530 --> 00:01:42,019
+per affiancare un piano senza ricorrere all'autodivisione degradante, a
+
+58
+00:01:42,020 --> 00:01:43,789
+differenza di alcuni quadrati che potrei citare.
+
+59
+00:01:43,790 --> 00:01:45,209
+Almeno il triangolo sta cercando di essere
+
+60
+00:01:45,210 --> 00:01:47,209
+più interessante dal punto di vista geometrico del quadrato,
+
+61
+00:01:47,210 --> 00:01:48,339
+unendo un po' a...
+
+62
+00:01:48,340 --> 00:01:49,809
+uno, due, tre, quattro, cinque, sei.
+
+63
+00:01:49,810 --> 00:01:50,689
+Aspetta, esagono!
+
+64
+00:01:50,690 --> 00:01:52,019
+Le altre forme non possono farne a meno.
+
+65
+00:01:52,020 --> 00:01:54,109
+Vogliono solo essere i migliori.
+
+66
+00:01:54,110 --> 00:01:55,299
+Anche alcuni degli irregolari,
+
+67
+00:01:55,300 --> 00:01:57,139
+come i rombi, si piastrellano per esagono.
+
+68
+00:01:57,140 --> 00:01:58,679
+Lo stesso vale per i tuoi triakis tilis,
+
+69
+00:01:58,680 --> 00:02:01,289
+[con difficoltà]
+e triesagonali deltoidali,
+
+70
+00:02:01,290 --> 00:02:03,329
+[con continua difficoltà]
+e i tuoi, ah, kisrhombille,
+
+71
+00:02:03,330 --> 00:02:06,609
+[con risate]
+e pentagonali a fiorellino.
+
+72
+00:02:06,610 --> 00:02:07,979
+Guarda, sono tutti solo esagoni.
+
+73
+00:02:07,980 --> 00:02:09,159
+Anche le tessere del Cairo
+
+74
+00:02:09,160 --> 00:02:10,149
+(poveri pentagoni) si
+
+75
+00:02:10,150 --> 00:02:13,259
+affiancano meglio che possono per formare un esagono bitorzoluto.
+
+76
+00:02:13,260 --> 00:02:16,029
+Il resto non può competere con i migliori.
+
+77
+00:02:16,030 --> 00:02:16,839
+L'esagono,
+
+78
+00:02:16,840 --> 00:02:18,409
+nobilmente indivisibile,
+
+79
+00:02:18,410 --> 00:02:19,789
+è il bestagon.
+
+80
+00:02:19,790 --> 00:02:21,029
+Ehm, dov'eravamo?
+
+81
+00:02:21,030 --> 00:02:22,269
+Oh giusto, congettura a nido d'ape.
+
+82
+00:02:22,270 --> 00:02:24,479
+Massimo tesoro.  Cera min.  Tre opzioni.
+
+83
+00:02:24,480 --> 00:02:26,479
+Va benesìc'è il cerchio.
+
+84
+00:02:26,480 --> 00:02:29,289
+Una forma definita dal perimetro minimo per la maggior parte dell'area,
+
+85
+00:02:29,290 --> 00:02:31,199
+ma che funziona solo quando ne serve solo una.
+
+86
+00:02:31,200 --> 00:02:33,779
+Prepara i cerchi e questo è il meglio che possono fare.
+
+87
+00:02:33,780 --> 00:02:35,199
+Guarda tutto quello spazio sprecato!
+
+88
+00:02:35,200 --> 00:02:36,499
+E anche se riempi gli spazi vuoti
+
+89
+00:02:36,500 --> 00:02:37,969
+, usi ancora più cera.
+
+90
+00:02:37,970 --> 00:02:39,319
+E, ancora, il modo in cui questi cerchi si
+
+91
+00:02:39,320 --> 00:02:40,299
+dispongono da soli...
+
+92
+00:02:40,300 --> 00:02:41,039
+è quasi come...
+
+93
+00:02:41,040 --> 00:02:42,009
+unoduetrequattrocinquesei
+
+94
+00:02:42,010 --> 00:02:42,969
+esagono nascosto!
+
+95
+00:02:42,970 --> 00:02:44,389
+Le api usano l'esagono
+
+96
+00:02:44,390 --> 00:02:46,209
+perché nessuna forma è migliore per creare
+
+97
+00:02:46,210 --> 00:02:48,689
+l'area massima per il muro minimo.
+
+98
+00:02:48,690 --> 00:02:50,689
+E questa statistica min-max dell'esagono
+
+99
+00:02:50,690 --> 00:02:53,689
+è uno dei tanti motivi per cui compaionoovunque.
+
+100
+00:02:53,690 --> 00:02:56,329
+Compresi gli occhi dell'ape di cui sopra.
+
+101
+00:02:56,330 --> 00:02:58,649
+Ogni esagono è un lungo tubo che conduce
+
+102
+00:02:58,650 --> 00:03:00,499
+alle celle che catturano la luce nella parte inferiore.
+
+103
+00:03:00,500 --> 00:03:02,119
+Più luce equivale a una migliore visione e gli
+
+104
+00:03:02,120 --> 00:03:04,289
+esagoni lasciano entrare più luce
+
+105
+00:03:04,290 --> 00:03:06,319
+utilizzando la minor quantità di parete.
+
+106
+00:03:06,320 --> 00:03:08,599
+Allora perché ituoiocchi non sono esagoni?
+
+107
+00:03:08,600 --> 00:03:09,769
+Au contraire mon ami
+
+108
+00:03:09,770 --> 00:03:11,259
+, sono l'Hexagone.
+
+109
+00:03:11,260 --> 00:03:14,089
+[intensamente]
+Non all'esterno, ma all'interno.
+
+110
+00:03:14,090 --> 00:03:16,929
+Le tue cellule che catturano la luce sono nella parte posteriore dell'occhio,
+
+111
+00:03:16,930 --> 00:03:19,909
+in una griglia esagonale per lo stesso motivo delle api.
+
+112
+00:03:19,910 --> 00:03:21,529
+Luce massima, parete minima.
+
+113
+00:03:21,530 --> 00:03:23,039
+La tua finestra sul mondo
+
+114
+00:03:23,040 --> 00:03:24,719
+è solo attraverso l'esagono.
+
+115
+00:03:24,720 --> 00:03:26,719
+Questo non lo rende il bestagon?
+
+116
+00:03:26,720 --> 00:03:28,589
+Ok, forse l'esagono come min-max-agon
+
+117
+00:03:28,590 --> 00:03:29,869
+non cattura la tua fantasia.
+
+118
+00:03:29,870 --> 00:03:31,669
+Allora che ne dici di un po' di mistero, oui?
+
+119
+00:03:31,670 --> 00:03:33,509
+Andiamo su Saturno.
+
+120
+00:03:33,510 --> 00:03:35,459
+Sì, gli anelli attirano l'attenzione,
+
+121
+00:03:35,460 --> 00:03:36,739
+ma lascia l'equatore,
+
+122
+00:03:36,740 --> 00:03:39,529
+viaggia verso nord e qui si trova l'inspiegabile.
+
+123
+00:03:39,530 --> 00:03:41,529
+Il grande esagono di Saturno.
+
+124
+00:03:41,530 --> 00:03:42,579
+Hai bisogno di qualcosa per la scala?
+
+125
+00:03:42,580 --> 00:03:43,959
+Bene, ecco la Terra.
+
+126
+00:03:43,960 --> 00:03:46,189
+Oh, ecco sei le Terre.
+
+127
+00:03:46,190 --> 00:03:48,719
+L'esagono di Saturno èpiuttosto grande.
+
+128
+00:03:48,720 --> 00:03:49,589
+Che cos'è?
+
+129
+00:03:49,590 --> 00:03:52,249
+Potresti pensare che sia una formazione geologica.
+
+130
+00:03:52,250 --> 00:03:53,979
+Un'enorme colonna di basalto
+
+131
+00:03:53,980 --> 00:03:56,189
+come le versioni più piccole che trovi sulla Terra.
+
+132
+00:03:56,190 --> 00:03:56,769
+Ma no.
+
+133
+00:03:56,770 --> 00:03:58,069
+Saturno è un gigante gassoso.
+
+134
+00:03:58,070 --> 00:04:00,699
+Non c'è superficie o geologia di cui parlare.
+
+135
+00:04:00,700 --> 00:04:04,299
+Quindi il grande esagono è composto da nuvole informi che in
+
+136
+00:04:04,300 --> 00:04:07,219
+qualche modo mantengono la forma e cambiano colore.
+
+137
+00:04:07,220 --> 00:04:09,829
+È un magnifico mistero del sistema solare.
+
+138
+00:04:09,830 --> 00:04:11,829
+E, anche se non sono un archeologo spaziale,
+
+139
+00:04:11,830 --> 00:04:14,809
+se cercassi un monolite dotato di un dono alieno,
+
+140
+00:04:14,810 --> 00:04:16,549
+sul pianeta più "guardami",
+
+141
+00:04:16,550 --> 00:04:19,768
+sotto un faro esagonale con lati grandi come la terra,
+
+142
+00:04:19,769 --> 00:04:21,249
+[clic con la lingua]
+è da lì che inizierei  .
+
+143
+00:04:21,250 --> 00:04:23,659
+Dopotutto, ciò che gli alieni vorrebbero stabilire per il
+
+144
+00:04:23,660 --> 00:04:25,909
+primo contatto con le scimmie vicine
+
+145
+00:04:25,910 --> 00:04:27,729
+prima che diventassero illuminati
+
+146
+00:04:27,730 --> 00:04:29,729
+per perseguire la verità universale.
+
+147
+00:04:29,730 --> 00:04:31,799
+L'esagono è il bestagon.
+
+148
+00:04:31,800 --> 00:04:34,529
+Dal più grande al più piccolo.
+
+149
+00:04:34,530 --> 00:04:37,359
+Diciamo, ad esempio, questo minuscolo fiocco di neve che ho,
+
+150
+00:04:37,360 --> 00:04:40,199
+che ha sei lati, come tutti i fiocchi di neve.
+
+151
+00:04:40,200 --> 00:04:41,719
+Accidenti, cosa potrebbe causare che sia?
+
+152
+00:04:41,720 --> 00:04:44,209
+Riduciamo lo zoom al regno atomico e vediamo.
+
+153
+00:04:44,210 --> 00:04:46,689
+Quando le molecole d'acqua si uniscono per formare un fiocco,
+
+154
+00:04:46,690 --> 00:04:49,239
+la forma robusta che preferiscono è l'esagono.
+
+155
+00:04:49,240 --> 00:04:50,649
+Quando più molecole si uniscono
+
+156
+00:04:50,650 --> 00:04:52,419
+, estendono il fiocco in modo frattale verso l'alto.
+
+157
+00:04:52,420 --> 00:04:54,809
+La bellezza del fiocco di neve sulla scala della scimmia non
+
+158
+00:04:54,810 --> 00:04:57,559
+è che un'estensione della perfezione esagonale
+
+159
+00:04:57,560 --> 00:04:58,819
+sulla scala atomica.
+
+160
+00:04:58,820 --> 00:04:59,729
+Ok,sì*.* A
+
+161
+00:04:59,730 --> 00:05:02,059
+volte troverai fiocchi di neve con dodici lati,
+
+162
+00:05:02,060 --> 00:05:03,649
+ma questo accade quando due fiocchi di neve in crescita
+
+163
+00:05:03,650 --> 00:05:05,429
+rimangono attaccati insieme, quindi conta ancora.
+
+164
+00:05:05,430 --> 00:05:07,429
+E l'esagono non è solo per la neve,
+
+165
+00:05:07,430 --> 00:05:09,069
+ma per tutto il ghiaccio 1H, il
+
+166
+00:05:09,070 --> 00:05:11,229
+che significa praticamente tutto il ghiaccio sulla terra.
+
+167
+00:05:11,230 --> 00:05:12,699
+Sì, c'è un po' di ghiaccio 1C di
+
+168
+00:05:12,700 --> 00:05:13,599
+cui non parliamo
+
+169
+00:05:13,600 --> 00:05:14,819
+perché è fatto di cubi
+
+170
+00:05:14,820 --> 00:05:16,069
+e i cubetti sono noiosi.
+
+171
+00:05:16,070 --> 00:05:17,429
+E c'è un po' di ghiaccio 9.
+
+172
+00:05:17,430 --> 00:05:18,179
+No, non toccarlo.
+
+173
+00:05:18,180 --> 00:05:19,629
+Ma se c'è del ghiaccio nella tua bevanda,
+
+174
+00:05:19,630 --> 00:05:22,219
+ringrazia l'esagono per mantenerla fresca.
+
+175
+00:05:22,220 --> 00:05:23,279
+E non è solo acqua.
+
+176
+00:05:23,280 --> 00:05:25,479
+Molti atomi usano gli esagoni perché...
+
+177
+00:05:25,480 --> 00:05:26,359
+(prendi nota) gli
+
+178
+00:05:26,360 --> 00:05:28,359
+esagoni sono i bestagon.
+
+179
+00:05:28,360 --> 00:05:29,659
+Oh, usando una matita?
+
+180
+00:05:29,660 --> 00:05:31,659
+Preparati a farti impazzire anche
+
+181
+00:05:31,660 --> 00:05:33,439
+per l'esagono qui.
+
+182
+00:05:33,440 --> 00:05:34,339
+La guida.
+
+183
+00:05:34,340 --> 00:05:36,339
+Beh, non è piombo, è carbonio.
+
+184
+00:05:36,340 --> 00:05:38,799
+E sai cosa pensano gli atomi di carbonio sia il bestagon?
+
+185
+00:05:38,800 --> 00:05:40,309
+[scatto]
+L'esagono.
+
+186
+00:05:40,310 --> 00:05:43,159
+La grafite a matita è un intero gruppo di atomi di carbonio esagonali,
+
+187
+00:05:43,160 --> 00:05:45,159
+e quando si trovano su un foglio dritto,
+
+188
+00:05:45,160 --> 00:05:46,239
+quello ègrafene,
+
+189
+00:05:46,240 --> 00:05:48,259
+che sembra essere il
+
+190
+00:05:48,260 --> 00:05:50,599
+materiale atomico più forte dell'universo.
+
+191
+00:05:50,600 --> 00:05:52,379
+Alcuni dei quali sono in quella matita.
+
+192
+00:05:52,380 --> 00:05:53,939
+Per fare a pezzi un foglio di grafene,
+
+193
+00:05:53,940 --> 00:05:56,189
+avresti bisogno di una forza cento volte maggiore
+
+194
+00:05:56,190 --> 00:05:57,699
+che per farlo con l'acciaio.
+
+195
+00:05:57,700 --> 00:05:59,629
+L'esagono è forte.
+
+196
+00:05:59,630 --> 00:06:01,579
+Questo perché quando gli esagoni si uniscono
+
+197
+00:06:01,580 --> 00:06:04,769
+, formano giunti a tre lati a 120 gradi l'uno dall'altro.
+
+198
+00:06:04,770 --> 00:06:06,329
+Questa, per il minor materiale,
+
+199
+00:06:06,330 --> 00:06:08,729
+è la disposizione meccanicamente più stabile.
+
+200
+00:06:08,730 --> 00:06:09,659
+Tira un giunto
+
+201
+00:06:09,660 --> 00:06:11,499
+e gli altri due tirano indietro,
+
+202
+00:06:11,500 --> 00:06:13,079
+spingi dentro e gli altri due sono i
+
+203
+00:06:13,080 --> 00:06:15,079
+più abili e stabili a resistere.
+
+204
+00:06:15,080 --> 00:06:17,079
+Ora guarda di nuovo una piastrellatura di esagoni
+
+205
+00:06:17,080 --> 00:06:18,839
+e vedi che non è composta da nient'altro
+
+206
+00:06:18,840 --> 00:06:20,289
+che questi giunti stabili al massimo,
+
+207
+00:06:20,290 --> 00:06:22,659
+ciascuno disposto perfettamente per aiutare gli altri a
+
+208
+00:06:22,660 --> 00:06:24,119
+essere più forti e più stabili.
+
+209
+00:06:24,120 --> 00:06:27,419
+Questo èun altromotivo per cui gli esagoni compaiono ovunque.
+
+210
+00:06:27,420 --> 00:06:30,609
+L'universo benedice la stabilità nella sua fisica,
+
+211
+00:06:30,610 --> 00:06:32,209
+da quelle colonne di basalto,
+
+212
+00:06:32,210 --> 00:06:33,149
+alle bolle che
+
+213
+00:06:33,150 --> 00:06:34,149
+, appena possono,
+
+214
+00:06:34,150 --> 00:06:36,079
+abbandonano le loro sfere
+
+215
+00:06:36,080 --> 00:06:38,879
+per avvicinarsi il più possibile alla perfezione esagonale.
+
+216
+00:06:38,880 --> 00:06:39,949
+È così fico.
+
+217
+00:06:39,950 --> 00:06:40,559
+Oh giusto, sì.
+
+218
+00:06:40,560 --> 00:06:42,239
+Quindi, se la tua matita contiene
+
+219
+00:06:42,240 --> 00:06:44,639
+alcuni dei materialipiù resistenti dell'universo,
+
+220
+00:06:44,640 --> 00:06:45,699
+come puoi scriverci?
+
+221
+00:06:45,700 --> 00:06:46,429
+Ok ok.
+
+222
+00:06:46,430 --> 00:06:49,009
+Questo diventeràancora più eccitante.
+
+223
+00:06:49,010 --> 00:06:51,289
+Mentre gli esagoni sono super forti inquestomodo,
+
+224
+00:06:51,290 --> 00:06:53,189
+non sono super forti inquestomodo.
+
+225
+00:06:53,190 --> 00:06:54,039
+Su piccola scala,
+
+226
+00:06:54,040 --> 00:06:55,719
+ciò significa che la tua matita può rompersi
+
+227
+00:06:55,720 --> 00:06:57,189
+a strati per lasciare un segno.
+
+228
+00:06:57,190 --> 00:06:58,299
+Ma su larga scala, gli
+
+229
+00:06:58,300 --> 00:07:01,589
+esagoni possono essere flessibili pur mantenendo la loro forza,
+
+230
+00:07:01,590 --> 00:07:04,679
+permettendoci di costruire materiali totalmente irreali.
+
+231
+00:07:04,680 --> 00:07:06,789
+Stampa una griglia di esagoni in qualsiasi cosa,
+
+232
+00:07:06,790 --> 00:07:07,969
+dall'alluminio al cartone,
+
+233
+00:07:07,970 --> 00:07:08,969
+fai un piccolo panino
+
+234
+00:07:08,970 --> 00:07:09,749
+e fai scoppiare!
+
+235
+00:07:09,750 --> 00:07:11,229
+Hai i pannelli a nido d'ape.
+
+236
+00:07:11,230 --> 00:07:13,759
+Un materiale incredibilmente resistente allo strappo
+
+237
+00:07:13,760 --> 00:07:15,969
+che è anche super leggero e flessibile.
+
+238
+00:07:15,970 --> 00:07:17,419
+È usatoovunque
+
+239
+00:07:17,420 --> 00:07:19,309
+ma in particolare nell'aviazione.
+
+240
+00:07:19,310 --> 00:07:21,309
+I razzi devono essere forti ma leggeri.
+
+241
+00:07:21,310 --> 00:07:22,479
+Lo stesso per gli aerei.
+
+242
+00:07:22,480 --> 00:07:24,479
+Con ali che davvero non possono strapparsi
+
+243
+00:07:24,480 --> 00:07:25,979
+ma hanno anche bisogno di piegarsi.
+
+244
+00:07:25,980 --> 00:07:28,109
+E solo la magia del pannello a nido d'ape
+
+245
+00:07:28,110 --> 00:07:29,429
+può fare entrambe le cose.
+
+246
+00:07:29,430 --> 00:07:32,179
+Ringrazia l'esagono per aver benedetto il nostro volo.
+
+247
+00:07:32,180 --> 00:07:34,049
+E non abbiamo ancora discusso
+
+248
+00:07:34,050 --> 00:07:36,829
+dell'applicazione più importante dell'esagono.
+
+249
+00:07:36,830 --> 00:07:37,539
+Giochi!
+
+250
+00:07:37,540 --> 00:07:40,919
+Per secoli c'è stato un grande dibattito su tavole,
+
+251
+00:07:40,920 --> 00:07:42,769
+quadrati o esagoni?
+
+252
+00:07:42,770 --> 00:07:44,209
+Spoiler... gli esagoni vincono.
+
+253
+00:07:44,210 --> 00:07:45,609
+Le tavole quadrate sono la prima cosa a cui
+
+254
+00:07:45,610 --> 00:07:47,609
+una specie non illuminata penserebbe.
+
+255
+00:07:47,610 --> 00:07:50,189
+Sembrano ragionevoli e sono facili da implementare,
+
+256
+00:07:50,190 --> 00:07:51,269
+ma sono schede terribili e
+
+257
+00:07:51,270 --> 00:07:53,889
+inefficaci che causano sofferenza spaziale.
+
+258
+00:07:53,890 --> 00:07:55,609
+Su un tabellone quadrato spostati in orizzontale
+
+259
+00:07:55,610 --> 00:07:56,669
+o in verticale di uno spazio
+
+260
+00:07:56,670 --> 00:07:58,419
+e ti sei spostato di uno spazio,
+
+261
+00:07:58,420 --> 00:07:59,759
+ma spostati in diagonale
+
+262
+00:07:59,760 --> 00:08:02,319
+e la distanza è la radice quadrata di due spazi.
+
+263
+00:08:02,320 --> 00:08:03,139
+Grossolano.
+
+264
+00:08:03,140 --> 00:08:05,629
+Le diagonali deformano la distanza che i pezzi si muovono.
+
+265
+00:08:05,630 --> 00:08:07,699
+Le assi quadrate sembrano uniformi e ordinate,
+
+266
+00:08:07,700 --> 00:08:08,529
+ma è un inganno.
+
+267
+00:08:08,530 --> 00:08:12,049
+Le loro diagonali corrompendo il significato dello spazio e del tempo,
+
+268
+00:08:12,050 --> 00:08:13,489
+e ovviamente devono,
+
+269
+00:08:13,490 --> 00:08:16,639
+perché un quadrato ha solo quattro veri vicini.
+
+270
+00:08:16,640 --> 00:08:18,439
+Gli esagoni, tuttavia, ne hanno sei
+
+271
+00:08:18,440 --> 00:08:19,619
+che sono più di quattro, il
+
+272
+00:08:19,620 --> 00:08:20,279
+che è meglio!
+
+273
+00:08:20,280 --> 00:08:22,479
+E la distanza da uno spazio all'altro
+
+274
+00:08:22,480 --> 00:08:24,199
+è la stessa in ogni direzione.
+
+275
+00:08:24,200 --> 00:08:25,249
+Uno spazio.
+
+276
+00:08:25,250 --> 00:08:26,569
+Proprio come dovrebbe essere.
+
+277
+00:08:26,570 --> 00:08:28,029
+Se sei un gioco basato sui quadrati,
+
+278
+00:08:28,030 --> 00:08:29,019
+mi dispiace tanto.
+
+279
+00:08:29,020 --> 00:08:30,359
+Ma c'è speranza.
+
+280
+00:08:30,360 --> 00:08:31,539
+Con il pensiero e lo sforzo,
+
+281
+00:08:31,540 --> 00:08:34,548
+puoi trasformarti in un posto migliore.
+
+282
+00:08:34,549 --> 00:08:36,428
+Come tutti dovremmo aspirare a fare,
+
+283
+00:08:36,429 --> 00:08:39,069
+diffondendo l'ordine e l'illuminazione esagonale
+
+284
+00:08:39,070 --> 00:08:41,729
+, gli esagoni sono i bestagoni.
+
+285
+00:08:41,730 --> 00:08:44,369
+E ora che sei d'accordo, con i tuoi occhi vedrai la
+
+286
+00:08:44,370 --> 00:08:46,949
+loro perfezione a sei facce in tutte le cose.
+
+287
+00:08:46,950 --> 00:08:48,559
+E dirai a te stesso,
+
+288
+00:08:48,560 --> 00:08:49,839
+come parte dell'ordine, gli
+
+289
+00:08:49,840 --> 00:08:56,399
+esagonisonoi bestagoni.
+
+290
+00:08:56,400 --> 00:09:02,149
+Uhh, grazie per essere passato per il caffè del comunicatore.
+
+291
+00:09:02,150 --> 00:09:05,979
+Ora vai.  Condividi l'illuminazione dell'ordine con gli altri.
+
+292
+00:09:05,980 --> 00:09:07,470
+[clic]
+

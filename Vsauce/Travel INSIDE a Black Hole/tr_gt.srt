@@ -1,0 +1,620 @@
+1
+00:00:00,489 --> 00:00:07,668
+Selam, Vsauce.  Michael burada.  Ve bugün
+bir kara deliğin içine gireceğiz.
+
+2
+00:00:07,669 --> 00:00:13,208
+Rahat olmayacak, ama oldukça
+eğlenceli olacak.  Şimdi, ilk şey ilk: matematiksel olarak
+
+3
+00:00:13,209 --> 00:00:19,069
+konuşursak,
+onu yeterince küçük bir alana sıkıştırırsanız, herhangi bir şey karadeliğe dönüşebilir
+
+4
+00:00:19,070 --> 00:00:24,959
+.  Doğru, sen, ben, bu kamera -
+evrendeki her şey
+
+5
+00:00:24,960 --> 00:00:31,969
+"Schwarzschild yarıçapı" olarak bilinen şeye sahiptir.  Küçücük, küçücük
+bir boşluk ki,
+
+6
+00:00:31,970 --> 00:00:38,249
+cismin tüm kütlesini içine çökertseydiniz, yoğunluğu o
+kadar büyük olurdu ki yerçekimi o
+
+7
+00:00:38,250 --> 00:00:45,119
+kadar büyük olurdu ki ışık bile ondan kaçamazdı
+.  Bir kara deliğiniz olurdu.
+
+8
+00:00:45,120 --> 00:00:50,279
+Everest Dağı'nı
+nanometreden daha küçük bir şeye sıkıştıracak olsaydınız
+
+9
+00:00:50,280 --> 00:00:56,269
+, bir kara deliğiniz olurdu.  Ve
+tüm Dünya'yı bir fıstık boyutuna sıkıştıracak
+
+10
+00:00:56,270 --> 00:00:57,779
+olsaydınız, bir kara deliğiniz olurdu.
+
+11
+00:00:57,780 --> 00:01:03,529
+Ama neyse ki bizim
+için Everest'i veya Dünya'yı bu şekilde sıkıştırmanın bilinen bir yolu yok.
+
+12
+00:01:03,530 --> 00:01:09,858
+Ama bizim Güneşimizden kat kat daha büyük olan bir yıldız
+, çok daha büyük bir Schwartzchild
+
+13
+00:01:09,859 --> 00:01:15,569
+yarıçapına sahiptir ve yakıtı bittiğinde ve
+kendisini artık yeterince sıcak tutamadığında,
+
+14
+00:01:15,570 --> 00:01:20,879
+bilinen tek, sonsuz derecede küçük bir noktaya çöker.
+"tekillik" olarak.
+
+15
+00:01:20,880 --> 00:01:25,468
+Yoğunluğu sonsuz olacak ve böylece
+çekim kuvveti o kadar güçlü olacak ki
+
+16
+00:01:25,469 --> 00:01:29,078
+, ışık bile hiçbir şey kaçamayacak.
+
+17
+00:01:29,079 --> 00:01:34,839
+Ama kara deliklerin oluşma yolları hakkında bu kadar yeter, hadi
+bir tanesine geçelim.  İlk soru:
+
+18
+00:01:34,840 --> 00:01:41,839
+Dışarıdan nasıl görünürdü?
+Yerçekimi alanlarının uzayı ve zamanı büktüğünü biliyoruz.
+
+19
+00:01:41,840 --> 00:01:46,849
+Güneşimizin arkasındaki yıldızlar aslında Dünya'dan
+biraz farklı yerlerde görünecek
+
+20
+00:01:46,850 --> 00:01:52,459
+, çünkü Güneş'in yerçekimi alanı
+bu yıldızlardan gelen ışığı büküyor.
+
+21
+00:01:52,460 --> 00:01:57,578
+
+Tüm galaksiler
+
+22
+00:01:57,579 --> 00:02:02,548
+veya bu nedenle bir kara delik gibi daha büyük nesnelerin yerçekimi alanları söz konusu olduğunda, etki
+daha da çılgındır.  Nesnelerin arkalarından gelen ışık
+
+23
+00:02:02,549 --> 00:02:07,849
+önemli ölçüde bozulur
+ve lekeler ve lekeler oluşturur.
+
+24
+00:02:07,850 --> 00:02:13,969
+Dünya'dan görüldüğü gibi,
+bu kırmızı galaksinin arkasındaki mavi galaksi,
+
+25
+00:02:13,970 --> 00:02:19,299
+bir eğlence evi aynası gibi tamamen çarpıktır.  Yani
+, olması gerektiği gibi görünmek yerine bize bir yüzük gibi görünüyor -
+
+26
+00:02:19,300 --> 00:02:22,759
+kırmızı galaksinin her tarafını saran bir leke.
+
+27
+00:02:22,760 --> 00:02:28,239
+Bu, "yerçekimi merceklenmesi" olarak bilinir.
+Şimdi, arkasında
+
+28
+00:02:28,240 --> 00:02:33,209
+milyonlarca ışık yılı uzaklıkta bir galaksi bulunan bir kara deliğin
+bu simülasyonuna bir göz atın.  Galaksi gerçekten
+
+29
+00:02:33,210 --> 00:02:39,189
+kara deliğin "emme" tehlikesiyle karşı karşıya değil, ama
+o galaksiden gelen ışık kesinlikle tehlikede.
+
+30
+00:02:39,190 --> 00:02:45,549
+Galaksinin kara deliğin arkasından geçtiğini
+ve ışığının büküldüğünü, büküldüğünü ve
+
+31
+00:02:45,550 --> 00:02:47,099
+bozulduğunu izleyin.
+
+32
+00:02:47,100 --> 00:02:48,639
+Şimdi burada gerçekten eğlenceli bir gösteri var.
+
+33
+00:02:48,640 --> 00:02:54,689
+Dünya bir kara deliğin etrafında dönseydi ne olurdu
+?  Dışarıdan bakıldığında, Dünya
+
+34
+00:02:54,690 --> 00:02:58,909
+ilk başta normal görünecekti, ancak
+kara deliğin arkasından geçer geçmez, kara
+
+35
+00:02:58,910 --> 00:03:02,899
+deliğin yerçekimi alanı
+, Dünya'dan yansıyan ışığı çarpıtarak
+
+36
+00:03:02,900 --> 00:03:04,999
+bunu üretecekti.
+
+37
+00:03:05,000 --> 00:03:09,889
+Basitlik adına,
+
+
+38
+00:03:09,890 --> 00:03:14,639
+yükü olmayan ve hareket etmeyen basit bir kara deliğe atlayalım.  Ayrıca,
+zaten bir sürü maddeyi emmiyor.
+
+39
+00:03:14,640 --> 00:03:16,559
+Yani orada kendi başına.
+
+40
+00:03:16,560 --> 00:03:22,449
+Yaklaştıkça, gökyüzünün çarpıklığı
+daha da büyüyor.  Kara deliğe
+
+41
+00:03:22,450 --> 00:03:28,249
+bakan görüş alanımızın gitgide daha büyük bir kısmı
+karanlıkla dolacak.  Görüş
+
+42
+00:03:28,250 --> 00:03:32,679
+alanımızın yarısının karanlığa gömüldüğü bu noktada
+
+
+43
+00:03:32,680 --> 00:03:35,259
+"Foton Küresi"ne ulaştık.
+
+44
+00:03:35,260 --> 00:03:40,369
+Bu noktada, ışık
+mutlaka kara deliğin içine çekilmeyecek, ancak mutlaka kara delikten
+
+45
+00:03:40,370 --> 00:03:46,619
+ayrılacak da değil.  Bunun yerine,
+uzaydaki bu büyülü noktada, ışık, fotonlar
+
+46
+00:03:46,620 --> 00:03:49,479
+aslında kara deliğin yörüngesinde dönebilir.
+
+47
+00:03:49,480 --> 00:03:53,559
+Burada bir an durup
+yan tarafa bakarsanız, teorik olarak
+
+48
+00:03:53,560 --> 00:03:58,589
+kendi kafanızın arkasını görebilirdiniz, çünkü
+kafanızın arkasından yansıyan ışık
+
+49
+00:03:58,590 --> 00:04:03,879
+, karadeliğin küresinin tüm yolunu
+, tam geri dönecekti.  yüzüne.
+
+50
+00:04:03,880 --> 00:04:10,649
+Bir yerçekimi alanı sadece uzayı değil,
+zamanı da büker.  Şimdi,
+
+51
+00:04:10,650 --> 00:04:15,189
+burada, Dünya'daki en yoğun amaçlar için, bunun için asla endişelenmemize gerek yok
+.  Ancak bir kara deliğin yakınında yerçekimi
+
+52
+00:04:15,190 --> 00:04:19,917
+o kadar güçlü olurdu ki
+, sizin deliğe atlamanızı izleyen bir gözlemci
+
+53
+00:04:19,918 --> 00:04:25,369
+oldukça garip bir şey görebilirdi.
+Deliğe çabucak çekildiğinizi görmezler.  Bunun yerine, olay ufku olarak bilinen bir noktaya ulaşana kadar
+
+54
+00:04:25,370 --> 00:04:31,508
+yaklaşımınızın daha yavaş, daha yavaş ve daha yavaş olduğunu göreceklerdi
+
+
+55
+00:04:31,509 --> 00:04:35,008
+.
+
+56
+00:04:35,009 --> 00:04:41,318
+Bu, uzayda bir kez geçildiğinde
+geri dönüşü olmayan bir noktadır.  İşte bu
+
+57
+00:04:41,319 --> 00:04:46,568
+noktada ışık artık kaçamaz.  Ve böylece
+, çukura düşmenizi izleyen bir kişi
+
+58
+00:04:46,569 --> 00:04:51,739
+için yolculuğunuz burada sona erecektir.
+Uzayda neredeyse donmuş gibi görünürdünüz
+
+59
+00:04:51,740 --> 00:04:58,279
+, vücudunuzdan gelen ışık giderek
+kırmızıya kayar, ta ki siz hiçliğe dönüşene kadar.
+
+60
+00:04:58,280 --> 00:05:02,419
+Olay ufkunu geçtiğinizi asla görmezler.
+
+61
+00:05:02,420 --> 00:05:05,499
+Ama senin için elbette her şey
+yolunda ve züppe görünüyor.
+
+62
+00:05:05,500 --> 00:05:11,448
+O ufku şimdiki, kaçınılmaz olan ölümünüze geçmeye devam edeceksiniz.
+Kara deliğin tekilliğine yaklaşmaya devam ettikçe
+
+63
+00:05:11,449 --> 00:05:16,388
+, tüm evrene ilişkin görüşünüz uzayda arkanızda
+giderek daha küçük bir
+
+64
+00:05:16,389 --> 00:05:18,309
+noktaya sıkışacaktır.
+
+65
+00:05:18,310 --> 00:05:22,968
+İçine atladığımız kara delik yeterince büyük
+olsaydı, olay ufkunda işler aslında oldukça rahat olabilirdi
+
+66
+00:05:22,969 --> 00:05:27,359
+.
+Asla kaçamayacağımızı ve hayatımızın
+
+67
+00:05:27,360 --> 00:05:31,918
+büyük ölçüde sona erdiğini bileceğiz, ancak
+işlerin incinmeye başladığı bir noktaya gelmemiz saatlerimizi alabilir
+
+68
+00:05:31,919 --> 00:05:33,059
+.
+
+69
+00:05:33,060 --> 00:05:37,388
+Neden zarar versinler?  Eh, tekilliğe ne kadar yaklaşırsanız
+
+
+70
+00:05:37,389 --> 00:05:42,559
+, yerçekimi çekişindeki fark
+uzayda o kadar önemli olur.  Ve böylece, tekilliğe daha yakın
+
+71
+00:05:42,560 --> 00:05:47,369
+
+olan kısımlarım, uzağa bakan kısımlardan daha güçlü bir şekilde çekilecek ve tüm
+
+72
+00:05:47,370 --> 00:05:54,609
+vücudum tekilliğe doğru gerilecekti.
+Etkisi o kadar inanılmaz olurdu ki, bilim adamları
+
+73
+00:05:54,610 --> 00:05:58,889
+genellikle buna esneme demezler,
+buna "Spagettileşme" derler.
+
+74
+00:05:58,890 --> 00:06:04,049
+Bu noktaya ulaştığınızda, ölmüş olacaksınız.
+Molekülleriniz şiddetle yırtılır ve
+
+75
+00:06:04,050 --> 00:06:09,649
+gerilir ve
+tekilliğe ulaştıklarında ne olacağını gerçekten bilmiyoruz
+
+76
+00:06:09,650 --> 00:06:14,198
+.  Belki de
+tüm fizik yasalarını ihlal ederek tamamen yok olacaklardı
+
+77
+00:06:14,199 --> 00:06:19,109
+ya da belki evrenin başka bir yerinde yeniden ortaya çıkacaklardı
+.  Hareket eden
+
+78
+00:06:19,110 --> 00:06:24,769
+veya dönen bir kara deliğin
+, uzayda ışıktan daha hızlı geçişin bir yolu olan "solucan deliği" olarak bilinen şeyi yaratabileceğine inanılıyor
+
+79
+00:06:24,770 --> 00:06:30,119
+.
+Bilim yasalarını ihlal
+
+80
+00:06:30,120 --> 00:06:34,019
+edecek şekilde değil, evrenin boyutlarından yararlanacak şekilde
+.
+
+81
+00:06:34,020 --> 00:06:38,959
+Örneğin, bu
+noktadan bu noktaya gelmek isteseydim, mesafeyi kat etmem gerekirdi
+
+82
+00:06:38,960 --> 00:06:45,959
+.  Ama teorik olarak, bir solucan deliği
+gerçekten çılgınca bir şey yapar.  Örneğin, bu.
+
+83
+00:06:45,960 --> 00:06:49,758
+Şimdi, iki nokta yan
+yana ve aralarında neredeyse anında seyahat edebiliyorum
+
+84
+00:06:49,759 --> 00:06:51,399
+.
+
+85
+00:06:51,400 --> 00:06:56,639
+Ancak, yine, bunların hepsi teorik.  Şans eseri, tam burada, Dünya'daki
+kara delikleri analiz etmenin olası bir yolu var
+
+86
+00:06:56,640 --> 00:07:01,779
+.  "Dumbhole" girin.
+
+87
+00:07:01,780 --> 00:07:07,979
+Bir kara delik ışığın kaçmasına izin vermediği gibi
+, Dumbhole da akustik bir kara
+
+88
+00:07:07,980 --> 00:07:14,878
+deliktir.  Sesin kaçmasına izin vermez.
+Neredeyse o kadar güçlü olmak zorunda değil ve bilim adamları, ses
+
+89
+00:07:14,879 --> 00:07:20,968
+
+hızında hareket eden özel sıvıları kullanarak laboratuvarlarda Dumbholes oluşturabildiler
+
+90
+00:07:20,969 --> 00:07:21,579
+.
+
+91
+00:07:21,580 --> 00:07:26,179
+Akustik kara delikler dünyasında hala çok ilerleme yapılması gerekiyor
+, ancak
+
+92
+00:07:26,180 --> 00:07:30,848
+
+
+
+93
+00:07:30,849 --> 00:07:33,568
+bir Dumbhole'da sesin nasıl işlendiğine bakarak karadeliklerin nasıl çalıştığı hakkında inanılmaz miktarda bilgi öğrenebiliriz.
+
+94
+00:07:33,569 --> 00:07:39,278
+Şimdi bir başka güzel soru daha:
+Işık hızında,
+
+95
+00:07:39,279 --> 00:07:44,338
+diyelim ki Güneş'e doğru seyahat etmek nasıl görünürdü?  Şaşırtıcı bir şekilde,
+Güneş'in hemen size doğru geldiğini
+
+96
+00:07:44,339 --> 00:07:50,918
+görmezsiniz.  Hayır hayır hayır.  Aslında, başlangıçta
+, neredeyse Güneş sizden uzaklaşıyormuş gibi görünürdü
+
+97
+00:07:50,919 --> 00:07:57,378
+.  Neden? Niye?  Çünkü
+görüş alanınız büyük ölçüde artacaktır.
+
+98
+00:07:57,379 --> 00:08:01,338
+Neredeyse arkanızdaki şeyleri görebileceksiniz.
+İşte bu yüzden.
+
+99
+00:08:01,339 --> 00:08:05,788
+Siz orada otururken, henüz hareket etmeden,
+Güneş'e bakarken, arkanızdaki cisimlerden ışık
+
+100
+00:08:05,789 --> 00:08:11,508
+geliyor.  Ancak ışık hızında
+giderseniz, arkanızdaki şeylerden gelen o ışığa gerçekten ulaşırsınız
+
+101
+00:08:11,509 --> 00:08:16,598
+.
+Işık hızına ulaştıkça görüş alanınız
+
+102
+00:08:16,599 --> 00:08:19,649
+bu şekilde genişler ve
+ortadaki cisimleri [ __ ].
+
+103
+00:08:19,650 --> 00:08:26,598
+Ama evrenin neresindesin?  Veya, işte
+daha iyi bir soru.  Evrenin merkezi neresidir
+
+104
+00:08:26,599 --> 00:08:32,439
+?  Bu kulağa çılgınca gelebilir
+ama her yerde var.  Bu,
+
+105
+00:08:32,440 --> 00:08:38,197
+"Kozmolojik İlke" olarak bilinir.  Evrenin neresinde
+olursanız olun, diğer her
+
+106
+00:08:38,198 --> 00:08:42,808
+şey sizden uzaklaşıyor, genişliyor gibi görünecek
+, aynı oranda.
+
+107
+00:08:42,809 --> 00:08:47,148
+Evren genişliyor ama içindeki
+tüm insanlarla birlikte büyüyen bir balon gibi
+
+108
+00:08:47,149 --> 00:08:52,698
+değil.  Bunun yerine, sanki
+bir balonun yüzeyiyiz.
+
+109
+00:08:52,699 --> 00:08:56,659
+Bir balonun üzerine birkaç nokta koyup sonra patlatacak
+olsanız, tüm noktalar
+
+110
+00:08:56,660 --> 00:09:01,719
+birbirinden aynı oranda uzaklaşırdı.  Ve
+balonun yüzeyinde merkez yoktur.
+
+111
+00:09:01,720 --> 00:09:06,479
+Bu iki katmana bir göz atın.
+Tam olarak benzerler, ancak üst katman
+
+112
+00:09:06,480 --> 00:09:09,679
+, alt katmanın %5'lik bir genişlemesini temsil ediyor.
+
+113
+00:09:09,680 --> 00:09:14,698
+Diyelim ki bu noktalardan birinde yaşıyorsunuz
+ve her şeyin nereden uzaklaştığını ölçmek istiyorsunuz
+
+114
+00:09:14,699 --> 00:09:20,888
+.  Pekala,
+geçmişte ve şimdide bir noktayı sıraladığımda ne olduğunu izle.
+
+115
+00:09:20,889 --> 00:09:29,518
+Boom.  Genişlemenin merkezi gibi görünüyor.
+Bunu herhangi bir nokta ile yapabilirim.
+
+116
+00:09:29,519 --> 00:09:35,429
+Referans çerçevesi olarak bir nokta seçer seçmez, o hemen
+genişlemenin merkezi olur.
+
+117
+00:09:35,430 --> 00:09:41,758
+Yani, bir kara delikte ölmek yalnız,
+korkutucu ve marazi olurdu
+
+118
+00:09:41,759 --> 00:09:46,499
+, gökyüzüne baktığınızda bunun yerine bunu düşünün.
+Nerede olursanız olun, kim olursanız olun,
+
+119
+00:09:46,500 --> 00:09:54,879
+arkadaşlarınız veya aileniz ne olursa olsun,
+bilimsel olarak gerçekten evrenin merkezi sizsiniz.
+
+120
+00:09:54,880 --> 00:10:02,049
+Son olarak, ya evrenimiz bir googolplex
+metre çapındaysa?  O kadar büyük bir yere yakın değil.
+
+121
+00:10:02,050 --> 00:10:07,889
+Ama öyle olsaydı, o kadar hacimli olurdu
+ki, istatistiksel olarak, evrende başka bir
+
+122
+00:10:07,890 --> 00:10:14,619
+yerde sizin tam bir kopyanızın olmaması neredeyse imkansız olurdu
+.  Nedenini anlamak için
+
+123
+00:10:14,620 --> 00:10:19,749
+hemen oraya
+tıklayıp Brady Haran'ın yeni kanalı "Numberphile"e göz atmanızı şiddetle tavsiye ederim.
+
+124
+00:10:19,750 --> 00:10:23,429
+Orijinal YouTube kanalının bir parçası
+ve bu adamlarla daha önce çalıştım.
+
+125
+00:10:23,430 --> 00:10:27,749
+Harikalar, onlar benim en sevdiğim inek türüdür.
+O yüzden şu videoya bir göz
+
+126
+00:10:27,750 --> 00:10:31,119
+atın, diğerlerini izleyin ve matematiği
+seviyorsanız abone olmanızı şiddetle tavsiye ederim.
+
+127
+00:10:31,120 --> 00:10:31,979
+Ve her zamanki gibi,
+
+128
+00:10:31,980 --> 00:10:33,460
+izlediğiniz için teşekkürler.
+

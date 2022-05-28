@@ -1,0 +1,565 @@
+1
+00:00:00,570 --> 00:00:08,839
+Hé, Vsaus.  Michaël hier.  En de iTunes Store bevat 28 miljoen verschillende nummers.
+
+2
+00:00:08,840 --> 00:00:15,739
+Last.fm bevat 45 miljoen nummers en de
+Gracenote-database met artiesten, titels en
+
+3
+00:00:15,740 --> 00:00:24,239
+labels bevat 130 miljoen verschillende nummers.
+Dat is veel.  Als je
+
+4
+00:00:24,240 --> 00:00:28,649
+alle nummers in de Gracenote-database een
+voor een zou beluisteren in een gigantische afspeellijst,
+
+5
+00:00:28,650 --> 00:00:33,759
+zou het meer dan 1200 jaar duren om te voltooien.
+
+6
+00:00:33,760 --> 00:00:40,578
+Maar aangezien er een eindig aantal tonen is dat
+onze oren kunnen onderscheiden en omdat er
+
+7
+00:00:40,579 --> 00:00:48,699
+maar een paar noten gemeenschappelijk nodig zijn om twee muzikale
+ideeën hetzelfde te laten klinken, zullen we dan ooit
+
+8
+00:00:48,700 --> 00:00:50,999
+zonder nieuwe muziek komen te zitten?
+
+9
+00:00:51,000 --> 00:00:56,939
+Zal er ooit een dag zijn waarop elke mogelijke
+korte kleine melodie is geschreven en opgenomen
+
+10
+00:00:56,940 --> 00:01:01,179
+en we niets nieuws meer te maken hebben?
+
+11
+00:01:01,180 --> 00:01:05,599
+Een goede vuistregel zou kunnen zijn om te zeggen dat
+als de moderne opnametechnologie
+
+12
+00:01:05,600 --> 00:01:12,059
+het verschil tussen twee nummers niet kan onderscheiden, wij dat ook niet
+kunnen.  Dus laten we daar beginnen, met digitale
+
+13
+00:01:12,060 --> 00:01:19,059
+downloads, MP3's, CD's en een berekening
+gemaakt door Covered in Bees.
+
+14
+00:01:19,060 --> 00:01:25,438
+Digitale muziek is gemaakt van "bits".
+Heel veel stukjes.  Maar elk afzonderlijk bit
+
+15
+00:01:25,439 --> 00:01:29,719
+bestaat in een van twee toestanden: een "0" of een "1".
+
+16
+00:01:29,720 --> 00:01:35,438
+Wat dit nu betekent, is dat voor elk gegeven, laten we
+zeggen, 5 minuten durende audiobestand, het
+
+17
+00:01:35,439 --> 00:01:43,298
+aantal mogelijkheden, wiskundig gesproken
+, enorm is, maar verbluffend eindig.
+
+18
+00:01:43,299 --> 00:01:51,429
+Een compact disk, die muziek samplet op 44,1
+kHz, heeft ongeveer 211 miljoen bits
+
+19
+00:01:51,430 --> 00:01:57,258
+nodig om een nummer van 5 minuten op te slaan.  En omdat een
+bit in twee toestanden kan bestaan, ofwel een "0"
+
+20
+00:01:57,259 --> 00:02:03,609
+of een "1", is het aantal mogelijke verschillende
+manieren om die 211.000.000 bits te rangschikken
+
+21
+00:02:03,610 --> 00:02:07,929
+2 tot de 211e miljoen macht.
+
+22
+00:02:07,930 --> 00:02:14,179
+Die waarde vertegenwoordigt elk mogelijk
+verschillend audiobestand van 5 minuten.  Maar hoe
+
+23
+00:02:14,180 --> 00:02:18,389
+groot is dat aantal?
+Wel, laten we dit in perspectief plaatsen.
+
+24
+00:02:18,390 --> 00:02:29,919
+Een enkele druppel water bevat 6 sextiljoen
+atomen.  6 sextiljoen is 22 cijfers lang.  Dat is
+
+25
+00:02:29,920 --> 00:02:35,089
+een lang nummer.  Maar het totale aantal atomen
+waaruit de hele aarde bestaat, is een getal
+
+26
+00:02:35,090 --> 00:02:41,949
+van ongeveer 50 cijfers.  En schattingen
+van het totale aantal waterstofatomen in ons
+
+27
+00:02:41,950 --> 00:02:48,569
+universum is een getal dat 80 cijfers lang is.
+
+28
+00:02:48,570 --> 00:02:55,479
+Maar "2 tot de 211 miljoenste macht", het
+aantal mogelijke, verschillende audiobestanden van 5 minuten, is een getal
+
+29
+00:02:55,480 --> 00:03:07,999
+dat 63 miljoen cijfers lang is.  Het is een getal dat
+groter is dan we zelfs maar kunnen pretenderen te begrijpen.
+
+30
+00:03:08,000 --> 00:03:14,629
+Het bevat elk mogelijk audiobestand van 5 minuten met cd-kwaliteit
+.  Binnen dat bedrag zit alles
+
+31
+00:03:14,630 --> 00:03:20,319
+van Beethovens "vijfde" tot Becks "Loser" -
+het bevat zelfs een gesprek van 5 minuten dat
+
+32
+00:03:20,320 --> 00:03:25,969
+je met je ouders had toen je 3 jaar oud was.
+In feite elk van hen.  Het bevat zelfs
+
+33
+00:03:25,970 --> 00:03:31,419
+alle mogelijke gesprekken die je niet
+met je ouders had toen je 3 jaar oud was.
+
+34
+00:03:31,420 --> 00:03:38,509
+Maar het is eindig, niet oneindig.  Het is cool
+om over na te denken, maar het komt niet in de buurt
+
+35
+00:03:38,510 --> 00:03:44,349
+van het beantwoorden van de vraag van deze video,
+namelijk "hoeveel mogelijke verschillende nummers kunnen
+
+36
+00:03:44,350 --> 00:03:47,229
+we maken en horen het verschil tussen?"
+
+37
+00:03:47,230 --> 00:03:51,509
+Dus daarvoor moeten we
+onze jacht beperken.
+
+38
+00:03:51,510 --> 00:03:57,099
+Op Everything2 maakte Ferrouslepidoptera een
+berekening met enkele aannames
+
+39
+00:03:57,100 --> 00:04:01,019
+waarvan ik denk dat ze het veld
+op een heel mooie manier hebben verkleind.
+
+40
+00:04:01,020 --> 00:04:06,309
+Ze keek naar het totale aantal mogelijke
+verschillende melodieën dat je binnen één octaaf zou kunnen maken
+
+41
+00:04:06,310 --> 00:04:15,009
+, met daarin een of alle intervallen waarin
+we octaven verdelen.  Natuurlijk kunnen geluidsfrequenties
+
+42
+00:04:15,010 --> 00:04:20,569
+veel gedetailleerder worden verdeeld dan dat,
+maar als we onszelf meer noten geven, kunnen
+
+43
+00:04:20,570 --> 00:04:25,519
+we misschien technisch meer verschillende melodieën maken,
+maar ze klinken niet per se anders
+
+44
+00:04:25,520 --> 00:04:27,259
+in onze oren.
+
+45
+00:04:27,260 --> 00:04:32,539
+Nu, gegeven een enkele maat die een
+combinatie van hele, halve, kwart, achtste,
+
+46
+00:04:32,540 --> 00:04:39,759
+zestiende of tweeëndertigste noten bevat, berekende ze
+dat er zoveel mogelijke unieke
+
+47
+00:04:39,760 --> 00:04:46,689
+maten zouden zijn, wat een kleiner aantal is dan we
+eerder hadden, maar om  zet het in perspectief,
+
+48
+00:04:46,690 --> 00:04:52,729
+dit is hoeveel seconden oud het universum is.
+
+49
+00:04:52,730 --> 00:04:59,039
+De berekening van Yerricde is nog specifieker.
+Hij bleef binnen één octaaf, maar in plaats
+
+50
+00:04:59,040 --> 00:05:06,189
+van naar een volledige maat te kijken, keek hij alleen naar
+het aantal unieke combinaties van 8 noten.
+
+51
+00:05:06,190 --> 00:05:11,209
+Hij nam ook aan dat typische melodieën, zoals
+we die nu kennen, slechts ongeveer drie
+
+52
+00:05:11,210 --> 00:05:17,769
+verschillende soorten nootlengte bevatten.  Bijvoorbeeld kwart, achtste en zestiende of heel,
+
+53
+00:05:17,770 --> 00:05:19,179
+half en kwart.
+
+54
+00:05:19,180 --> 00:05:25,499
+Zeker, dat zal hoogstwaarschijnlijk niet
+altijd waar zijn.  Muzieksmaken zullen over honderden,
+
+55
+00:05:25,500 --> 00:05:32,359
+duizenden jaren zeker anders zijn,
+maar gezien de melodieën zoals we die nu kennen, verdeeld
+
+56
+00:05:32,360 --> 00:05:41,899
+over 8 noten, over 12 intervallen, zijn er
+ongeveer 79 miljard mogelijke combinaties.
+
+57
+00:05:41,900 --> 00:05:48,079
+We worden hier relatief klein.  Ik bedoel,
+volgens deze definitie van melodie zouden 100 songwriters
+
+58
+00:05:48,080 --> 00:05:54,089
+die elke seconde een gloednieuwe melodie van 8 noten creëerden,
+elke mogelijke melodie binnen
+
+59
+00:05:54,090 --> 00:05:56,919
+slechts 248 jaar uitputten.
+
+60
+00:05:56,920 --> 00:06:01,979
+Maar het is nog steeds een enorm aantal, veel groter dan
+het totale aantal nummers dat is geschreven
+
+61
+00:06:01,980 --> 00:06:08,939
+dat we kennen.  Dus je kunt gerust
+zeggen dat, nee, we zullen nooit zonder nieuwe
+
+62
+00:06:08,940 --> 00:06:18,479
+muziek komen te zitten.  Maar hier zit de kneep.  Als dat het geval is,
+waarom zijn er dan zoveel overeenkomsten tussen de
+
+63
+00:06:18,480 --> 00:06:24,879
+nummers?  Hoe komt het dat zoveel nummers, zelfs over honderden jaren heen,
+hetzelfde klinken?
+
+64
+00:06:24,880 --> 00:06:29,909
+Ik bedoel, als we meer mogelijkheden hebben dan
+we ooit zouden kunnen uitputten, waarom is 'Twinkle Twinkle
+
+65
+00:06:29,910 --> 00:06:35,169
+Little Star', het 'Alphabet Song' en 'Baa,
+Baa, Black Sheep' allemaal dezelfde melodie?
+
+66
+00:06:35,170 --> 00:06:40,169
+"My Country Tis of Thee" en "God Save the
+Queen", interessant genoeg, zijn hetzelfde
+
+67
+00:06:40,170 --> 00:06:41,159
+nummer.
+
+68
+00:06:41,160 --> 00:06:57,439
+'Love Me Tender' is precies hetzelfde als het
+oude Amerikaanse burgeroorlognummer 'Aura Lea'.
+
+69
+00:06:57,440 --> 00:07:02,929
+En een schijnbaar ontelbaar aantal nummers
+klinkt gewoon als andere nummers.  Het
+
+70
+00:07:02,930 --> 00:07:07,489
+thema van Spongebob Squarepants heeft een zeer vergelijkbare cadans
+als "Blow the Man Down".
+
+71
+00:07:07,490 --> 00:07:13,189
+Soundsjustlike.com is een geweldige bron
+om dit verder te onderzoeken.  Het laat je twee
+
+72
+00:07:13,190 --> 00:07:26,379
+nummers zien en hoe ze ongeveer hetzelfde klinken.
+
+73
+00:07:26,380 --> 00:07:31,449
+En als het gaat om muzikale akkoorden,
+is het bijna alsof er helemaal geen variatie is,
+
+74
+00:07:31,450 --> 00:07:36,829
+zoals beroemd werd aangetoond door The Axis of Awesome's
+"4 Chords".  Ik heb het in de beschrijving gelinkt,
+
+75
+00:07:36,830 --> 00:07:40,668
+het is het bekijken waard als je het nog niet hebt
+gezien.  Deze jongens zingen meer dan 40 verschillende
+
+76
+00:07:40,669 --> 00:07:45,519
+nummers met dezelfde vier akkoorden...
+
+77
+00:07:45,520 --> 00:07:52,909
+Ook al is het aantal mogelijke verschillende
+melodieën gigantisch, wij mensen hebben de neiging om aangetrokken te worden
+
+78
+00:07:52,910 --> 00:07:57,399
+tot bepaalde patronen die we leuker vinden
+dan andere en we worden beïnvloed door wat
+
+79
+00:07:57,400 --> 00:08:04,229
+er voor ons kwam  .  Kirby Ferguson heeft een fantastische
+serie die dit onderzoekt, genaamd "Everything
+
+80
+00:08:04,230 --> 00:08:08,769
+is a Remix".  Ik heb dat ook in
+de beschrijving gelinkt.  De overeenkomsten die hij laat zien,
+
+81
+00:08:08,770 --> 00:08:10,359
+zijn behoorlijk gek.
+
+82
+00:08:10,360 --> 00:08:16,349
+Nou, zelfs als het gaat om teksten, om schrijven,
+ook al zijn er wiskundig gezien meer
+
+83
+00:08:16,350 --> 00:08:22,669
+mogelijkheden dan we ooit zouden kunnen uitputten,
+we zijn aangetrokken tot een paar.  In feite is
+
+84
+00:08:22,670 --> 00:08:29,749
+er een vorm van poëtische meter die zo
+gewoon is dat hij 'Common Meter' wordt genoemd.
+
+85
+00:08:29,750 --> 00:08:33,819
+Ik heb een vers gecomponeerd om uit te leggen wat het is.
+
+86
+00:08:33,820 --> 00:08:41,879
+Regel één bevat acht lettergrepen.  De volgende
+bevat er slechts zes.  Voor nadruk: jambische stress.
+
+87
+00:08:41,880 --> 00:08:44,879
+Dat is het, geen andere trucs.
+
+88
+00:08:44,880 --> 00:08:52,569
+Hier is een lijst met nummers die zijn geschreven in de gewone
+meter, ook wel bekend als 'Balad Meter'.  De gewoonheid
+
+89
+00:08:52,570 --> 00:08:58,549
+van de gewone meter is de reden dat je
+het Pokemon-themalied kunt zingen op de melodie van Gilligan's
+
+90
+00:08:58,550 --> 00:09:06,379
+Island.  Of het Huis van de Rijzende Zon.  Of verbazingwekkende
+genade.  Je zou ook bijna alle poëzie van Emily Dickinson kunnen gebruiken
+
+91
+00:09:06,380 --> 00:09:10,859
+.  Natuurlijk zijn het verschillende
+melodieën, maar hun teksten zijn in
+
+92
+00:09:10,860 --> 00:09:12,719
+dezelfde maatsoort geschreven.
+
+93
+00:09:12,720 --> 00:09:16,579
+Er is een geweldige video op YouTube die ik
+hieronder in de beschrijving heb gelinkt en die
+
+94
+00:09:16,580 --> 00:09:20,759
+bijschriften gebruikt om je te laten zien hoe deze allemaal
+in elkaar passen.
+
+95
+00:09:20,760 --> 00:09:27,039
+Oh, en vergeet niet een van de beste composities
+die gebruik maakt van de gewoonheid van de gewone meter:
+
+96
+00:09:27,040 --> 00:09:29,799
+Stairway to Gilligan's Island.
+
+97
+00:09:29,800 --> 00:09:35,289
+En weet je wat?  Onze hersenen kunnen
+ons er ook van weerhouden om te genieten van de volledige wiskundige
+
+98
+00:09:35,290 --> 00:09:42,599
+ruimte van beschikbare nummers.
+Onderzoek heeft bijvoorbeeld aangetoond dat de manier waarop een nummer wordt gecomprimeerd,
+
+99
+00:09:42,600 --> 00:09:50,659
+met behulp van software, ons kan helpen voorspellen hoe leuk
+het zal zijn.  Te simpel, te gemakkelijk te comprimeren,
+
+100
+00:09:50,660 --> 00:09:57,819
+zoals bijvoorbeeld een stijgende toonladder, en het nummer
+daagt ons niet uit - het is saai.  Maar te ingewikkeld,
+
+101
+00:09:57,820 --> 00:10:03,239
+bijvoorbeeld witte ruis, en het bestand zal helemaal niet
+veel worden gecomprimeerd, en we lijken er ook niet van
+
+102
+00:10:03,240 --> 00:10:09,169
+te genieten.  Er is een magische zone waar
+een bestand door een computer kan worden gecomprimeerd en
+
+103
+00:10:09,170 --> 00:10:12,749
+ook door ons plezierig is.
+
+104
+00:10:12,750 --> 00:10:19,079
+Dus interessant genoeg, ook al zijn er wiskundig
+gezien zoveel mogelijke unieke
+
+105
+00:10:19,080 --> 00:10:25,239
+melodieën waarvan we gerust kunnen zeggen dat er
+altijd ruimte zal zijn voor nieuwe muziek, lijkt het ons niet
+
+106
+00:10:25,240 --> 00:10:32,469
+te interesseren.  We genieten van bepaalde patronen
+en melodieën en het berekenen van hoeveel er
+
+107
+00:10:32,470 --> 00:10:37,929
+zouden kunnen zijn, is een stuk minder interessant dan hoe
+verbonden en vergelijkbaar al degenen zijn die we
+
+108
+00:10:37,930 --> 00:10:44,759
+leuk vinden.  Het is alsof we meer ruimte hebben dan
+we nodig hebben, meer ruimte dan we ooit zouden kunnen hopen
+
+109
+00:10:44,760 --> 00:10:51,028
+om alles te zien, of alles te bezoeken, of alles te
+weten, maar het maakt niet uit naar welke nieuwe plek we gaan,
+
+110
+00:10:51,029 --> 00:10:57,819
+in algemene zin, nieuw, populair  muziek zal
+ons altijd een beetje aan thuis herinneren.
+
+111
+00:10:57,820 --> 00:10:58,699
+En zoals altijd,
+
+112
+00:10:58,700 --> 00:11:10,459
+bedankt voor het kijken.
+
+113
+00:11:10,460 --> 00:11:16,139
+Fantastisch, je bent er nog.  Als je
+muziek wilt horen van mensen zoals jij, van Vsaucers,
+
+114
+00:11:16,140 --> 00:11:21,499
+ga dan naar WeSauce.  Je kunt muziek,
+animatie, korte films, alles wat je
+
+115
+00:11:21,500 --> 00:11:26,939
+maakt en op YouTube zet bij ons indienen en we
+zullen het op WeSauce plaatsen.  Het is als een trailer
+
+116
+00:11:26,940 --> 00:11:29,648
+voor wat Vsaucers aan het doen zijn.
+
+117
+00:11:29,649 --> 00:11:34,528
+Daarover gesproken, Jake Chudnow, die
+alle muziek in deze video's doet, heeft een
+
+118
+00:11:34,529 --> 00:11:39,220
+gloednieuw nummer op zijn kanaal,
+dat ik je ten zeerste aanraad om te gaan luisteren.
+

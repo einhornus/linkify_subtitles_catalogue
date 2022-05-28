@@ -1,0 +1,565 @@
+1
+00:00:00,570 --> 00:00:08,839
+Selam, Vsauce.  Michael burada.  Ve iTunes mağazası 28 milyon farklı şarkı içeriyor.
+
+2
+00:00:08,840 --> 00:00:15,739
+Last.fm 45 milyon şarkı taşır ve
+Gracenote sanatçılar, başlıklar ve
+
+3
+00:00:15,740 --> 00:00:24,239
+etiketler veritabanı 130 milyon farklı şarkı içerir.
+Bu çok fazla.
+
+4
+00:00:24,240 --> 00:00:28,649
+Gracenote veritabanındaki tüm şarkıları
+ardı ardına dev bir çalma listesinde
+
+5
+00:00:28,650 --> 00:00:33,759
+dinleseydiniz, tamamlamanız 1.200 yıldan fazla zamanınızı alırdı.
+
+6
+00:00:33,760 --> 00:00:40,578
+Ancak
+kulaklarımızın ayırt edebileceği sınırlı sayıda ton olduğundan ve
+
+7
+00:00:40,579 --> 00:00:48,699
+iki müzikal
+fikrin kulağa benzer gelmesi için yalnızca birkaç ortak nota gerektiğinden
+
+8
+00:00:48,700 --> 00:00:50,999
+, yeni müziğimiz hiç bitmeyecek mi?
+
+9
+00:00:51,000 --> 00:00:56,939
+Mümkün olan her
+kısa, küçük melodinin yazıldığı ve kaydedildiği
+
+10
+00:00:56,940 --> 00:01:01,179
+ve yapacak yeni hiçbir şeyin kalmadığı bir gün olacak mı?
+
+11
+00:01:01,180 --> 00:01:05,599
+
+Modern kayıt teknolojisi
+
+12
+00:01:05,600 --> 00:01:12,059
+iki şarkı arasındaki farkı ayırt edemiyorsa,
+biz de yapamayız.  Dijital
+
+13
+00:01:12,060 --> 00:01:19,059
+indirmeler, MP3'ler, CD'ler ve
+Covered in Bees tarafından yapılan bir hesaplama ile başlayalım.
+
+14
+00:01:19,060 --> 00:01:25,438
+Dijital müzik "bitlerden" oluşur.
+Çok ve çok bit.  Ancak her bir bit
+
+15
+00:01:25,439 --> 00:01:29,719
+, iki durumdan birinde bulunur: "0" veya "1".
+
+16
+00:01:29,720 --> 00:01:35,438
+Şimdi, bunun herhangi bir verili,
+örneğin 5 dakikalık ses dosyası için ne anlama geldiği
+
+17
+00:01:35,439 --> 00:01:43,298
+, matematiksel olarak konuşursak, olasılıkların sayısı
+çok büyük, ancak akıllara durgunluk verecek kadar sınırlı.
+
+18
+00:01:43,299 --> 00:01:51,429
+44.1 kHz'de müzik örnekleyen bir kompakt disk,
+
+
+19
+00:01:51,430 --> 00:01:57,258
+5 dakikalık bir şarkıyı depolamak için yaklaşık 211 milyon bite ihtiyaç duyacaktır.  Ve bir
+bit, ya "0"
+
+20
+00:01:57,259 --> 00:02:03,609
+ya da "1" olmak üzere iki durumda bulunabileceğinden,
+bu 211.000.000 biti düzenlemenin olası farklı yollarının sayısı
+
+21
+00:02:03,610 --> 00:02:07,929
+2 üzeri 211 milyon güçtür.
+
+22
+00:02:07,930 --> 00:02:14,179
+Bu değer, her olası
+farklı 5 dakikalık uzun ses dosyasını temsil eder.  Ama
+
+23
+00:02:14,180 --> 00:02:18,389
+bu sayı ne kadar büyük?
+Pekala, bunu bir perspektife koyalım.
+
+24
+00:02:18,390 --> 00:02:29,919
+Tek bir damla su 6 sekstilyon
+atom içerir.  6 sextilyon 22 basamak uzunluğundadır.  Bu
+
+25
+00:02:29,920 --> 00:02:35,089
+uzun bir sayı.  Ancak tüm dünyayı oluşturan toplam atom sayısı
+
+
+26
+00:02:35,090 --> 00:02:41,949
+, yaklaşık 50 basamak uzunluğunda bir sayıdır.  Ve
+evrenimizdeki toplam hidrojen atomu sayısı tahminleri
+
+27
+00:02:41,950 --> 00:02:48,569
+80 basamaklı bir sayıdır.
+
+28
+00:02:48,570 --> 00:02:55,479
+Ancak "2 üzeri 211 milyonuncu kuvvet"
+, olası, farklı 5 dakikalık ses dosyalarının sayısı
+
+29
+00:02:55,480 --> 00:03:07,999
+, 63 milyon basamak uzunluğunda bir sayıdır.
+Anlıyormuş gibi yapabileceğimizden bile daha büyük bir sayı.
+
+30
+00:03:08,000 --> 00:03:14,629
+Mümkün olan her CD kalitesinde 5 dakikalık
+ses dosyasını içerir.  Bu miktarın içinde
+
+31
+00:03:14,630 --> 00:03:20,319
+Beethoven'ın "5'inci"sinden Beck'in "Kaybeden"ine kadar her şey var
+- hatta 3 yaşındayken ailenizle yaptığınız 5 dakikalık bir konuşmayı içeriyor
+
+32
+00:03:20,320 --> 00:03:25,969
+.
+Aslında, her biri.  Hatta
+
+33
+00:03:25,970 --> 00:03:31,419
+
+3 yaşındayken anne babanla yapmadığın her olası konuşmayı içeriyor.
+
+34
+00:03:31,420 --> 00:03:38,509
+Ancak sonludur, sonsuz değildir.  Düşünmesi
+güzel ama bu
+
+35
+00:03:38,510 --> 00:03:44,349
+
+videonun "kaç tane olası farklı
+
+36
+00:03:44,350 --> 00:03:47,229
+şarkı oluşturup aralarındaki farkı duyabiliriz?" sorusunu yanıtlamaya pek yaklaşmıyor.
+
+37
+00:03:47,230 --> 00:03:51,509
+Dolayısıyla bunun için avımızı daraltmamız gerekecek
+.
+
+38
+00:03:51,510 --> 00:03:57,099
+Everything2'de, Ferrouslepidoptera
+
+
+39
+00:03:57,100 --> 00:04:01,019
+, alanı
+gerçekten güzel bir şekilde daraltmaya yardımcı olduğunu düşündüğüm bazı varsayımları içeren bir hesaplama yaptı.
+
+40
+00:04:01,020 --> 00:04:06,309
+Oktavları böldüğümüz
+
+
+41
+00:04:06,310 --> 00:04:15,009
+aralıkların herhangi birini veya tümünü içeren, bir
+oktav içinde oluşturabileceğiniz olası farklı melodilerin toplam sayısına bir göz attı.  Elbette, ses frekansları
+
+42
+00:04:15,010 --> 00:04:20,569
+bundan çok daha ayrıntılı bir şekilde bölünebilir,
+ancak kendimize daha fazla not vermek,
+
+43
+00:04:20,570 --> 00:04:25,519
+teknik olarak daha farklı melodiler yapabileceğimiz anlamına gelebilir,
+ancak bunların kulağa farklı gelmesi gerekmez
+
+44
+00:04:25,520 --> 00:04:27,259
+.
+
+45
+00:04:27,260 --> 00:04:32,539
+Şimdi,
+tam, yarım, çeyrek, sekizinci,
+
+46
+00:04:32,540 --> 00:04:39,759
+on altıncı veya otuz saniyelik notaların herhangi bir kombinasyonunu içeren tek bir ölçü verildiğinde
+
+
+47
+00:04:39,760 --> 00:04:46,689
+, daha önce sahip olduğumuzdan daha küçük bir sayı olan bu kadar çok olası benzersiz ölçü olacağını hesapladı
+, ancak,  perspektife koyarsak
+
+48
+00:04:46,690 --> 00:04:52,729
+, evrenin yaşı kaç saniyedir.
+
+49
+00:04:52,730 --> 00:04:59,039
+Yerricde'nin hesaplaması daha da spesifik.
+Bir oktav içinde kaldı, ancak
+
+50
+00:04:59,040 --> 00:05:06,189
+tam bir ölçüye bakmak yerine, yalnızca
+8 notanın benzersiz kombinasyonlarının sayısını düşündü.
+
+51
+00:05:06,190 --> 00:05:11,209
+Ayrıca, bugün bildiğimiz gibi tipik melodilerin
+yalnızca üç
+
+52
+00:05:11,210 --> 00:05:17,769
+farklı nota uzunluğu türü içerdiğini varsayıyordu.  Örneğin, çeyrek, sekizinci ve on altıncı veya tam,
+
+53
+00:05:17,770 --> 00:05:19,179
+yarım ve çeyrek.
+
+54
+00:05:19,180 --> 00:05:25,499
+Emin olmak için, bu büyük olasılıkla her
+zaman doğru olmayacaktır.  Bundan yüzlerce,
+
+55
+00:05:25,500 --> 00:05:32,359
+binlerce yıl sonra müzik zevkleri kesinlikle farklı olacak,
+ancak bugün bildiğimiz melodiler
+
+56
+00:05:32,360 --> 00:05:41,899
+, 8 nota, 12'den fazla aralıkta,
+yaklaşık 79 milyar olası kombinasyon var.
+
+57
+00:05:41,900 --> 00:05:48,079
+Burada nispeten küçülüyoruz.  Demek istediğim
+, bu melodi tanımına göre,
+
+58
+00:05:48,080 --> 00:05:54,089
+her saniye yepyeni bir 8 notalık melodi yaratan 100 şarkı yazarı, sadece 248
+yılda mümkün olan her melodiyi
+
+59
+00:05:54,090 --> 00:05:56,919
+tüketir.
+
+60
+00:05:56,920 --> 00:06:01,979
+Ama yine de çok büyük bir sayı, bildiğimiz
+yazılmış toplam şarkı sayısından çok daha büyük
+
+61
+00:06:01,980 --> 00:06:08,939
+.  Yani, güvenle
+söyleyebiliriz ki, hayır, asla yeni
+
+62
+00:06:08,940 --> 00:06:18,479
+müziğimiz bitmeyecek.  Ama sorun burada.  Eğer durum buysa, şarkılar
+arasında neden bu kadar çok ortak nokta var
+
+63
+00:06:18,480 --> 00:06:24,879
+?  Yüzlerce yıl geçmesine rağmen, nasıl oluyor da
+bu kadar çok şarkı kulağa aynı geliyor?
+
+64
+00:06:24,880 --> 00:06:29,909
+Yani, eğer tüketebileceğimizden daha fazla imkanımız varsa
+, "Twinkle Twinkle
+
+65
+00:06:29,910 --> 00:06:35,169
+Little Star", "Alphabet Song" ve "Baa,
+Baa, Black Sheep" neden aynı melodi?
+
+66
+00:06:35,170 --> 00:06:40,169
+"My Country Tis of Thee" ve "God Save the
+Queen" ilginç bir şekilde aynı
+
+67
+00:06:40,170 --> 00:06:41,159
+şarkıdır.
+
+68
+00:06:41,160 --> 00:06:57,439
+"Love Me Tender",
+eski Amerikan İç Savaşı şarkısı "Aura Lea" ile tamamen aynı.
+
+69
+00:06:57,440 --> 00:07:02,929
+Ve görünüşte sayılamayan sayıda şarkı
+sadece diğer şarkılar gibi geliyor.  Spongebob
+
+70
+00:07:02,930 --> 00:07:07,489
+Squarepants teması
+"Blow the Man Down" ile çok benzer bir kadansa sahiptir.
+
+71
+00:07:07,490 --> 00:07:13,189
+Soundsjustlike.com,
+bunu daha fazla keşfetmek için harika bir kaynaktır.  Size iki
+
+72
+00:07:13,190 --> 00:07:26,379
+şarkıyı ve kulağa nasıl benzediklerini gösterecek.
+
+73
+00:07:26,380 --> 00:07:31,449
+Ve müzik akorları söz konusu olduğunda,
+
+
+74
+00:07:31,450 --> 00:07:36,829
+The Axis of Awesome'in "4 Chords"ında ünlü bir şekilde gösterildiği gibi, neredeyse hiç çeşitlilik yokmuş gibi
+.  Açıklamaya ekledim,
+
+75
+00:07:36,830 --> 00:07:40,668
+hala izlemediyseniz mutlaka izleyin
+.  Bu adamlar
+
+76
+00:07:40,669 --> 00:07:45,519
+aynı dört akoru kullanarak 40'tan fazla farklı şarkı söylüyorlar...
+
+77
+00:07:45,520 --> 00:07:52,909
+Muhtemel farklı
+melodilerin sayısı devasa olsa da, biz insanlar
+
+78
+00:07:52,910 --> 00:07:57,399
+diğerlerinden daha çok sevdiğimiz belirli kalıplara yönelme eğilimindeyiz
+ve bizden önce gelenlerden etkileniyoruz.
+
+79
+00:07:57,400 --> 00:08:04,229
+.  Kirby Ferguson'un
+"Everything is a Remix" adlı buna bakan harika bir dizisi var
+
+80
+00:08:04,230 --> 00:08:08,769
+.  Bunu
+da açıklamaya bağladım.  Gösterdiği ortak
+
+81
+00:08:08,770 --> 00:08:10,359
+noktalar oldukça çılgınca.
+
+82
+00:08:10,360 --> 00:08:16,349
+Şey, söz konusu olduğunda, söz konusu olduğunda
+bile, matematiksel olarak, tüketebileceğimizden çok daha fazla olasılık olmasına rağmen
+
+83
+00:08:16,350 --> 00:08:22,669
+
+, birkaç tanesine yöneldik.  Aslında,
+
+84
+00:08:22,670 --> 00:08:29,749
+
+"Ortak Ölçü" denilen çok yaygın bir şiirsel ölçü biçimi vardır.
+
+85
+00:08:29,750 --> 00:08:33,819
+Ne olduğunu açıklamak için onu kullanarak bir ayet yazdım.
+
+86
+00:08:33,820 --> 00:08:41,879
+Birinci satır sekiz hece içerir.  Bir sonraki
+sadece altı içerir.  Vurgu için: iambik stres.
+
+87
+00:08:41,880 --> 00:08:44,879
+İşte bu, başka numara yok.
+
+88
+00:08:44,880 --> 00:08:52,569
+Burada,
+"Balad Meter" olarak da bilinen ortak ölçüyle yazılmış şarkıların bir listesi bulunmaktadır.  Pokemon tema
+
+89
+00:08:52,570 --> 00:08:58,549
+şarkısını Gilligan Adası'nın melodisine göre söyleyebilmenizin nedeni, ortak ölçünün yaygınlığıdır
+
+
+90
+00:08:58,550 --> 00:09:06,379
+.  Veya Yükselen Güneşin Evi.  Veya İnanılmaz
+Grace.  Emily Dickinson'ın şiirlerinden neredeyse her birini de kullanabilirsiniz
+
+91
+00:09:06,380 --> 00:09:10,859
+.  Elbette farklı
+melodiler ama sözleri
+
+92
+00:09:10,860 --> 00:09:12,719
+aynı ölçüyle yazılmış.
+
+93
+00:09:12,720 --> 00:09:16,579
+YouTube'da,
+
+
+94
+00:09:16,580 --> 00:09:20,759
+bunların hepsinin nasıl bir araya geldiğini görmenizi sağlamak için altyazıları kullanan aşağıda açıklamasına bağladığım harika bir video var
+.
+
+95
+00:09:20,760 --> 00:09:27,039
+Oh, ve ortak ölçünün yaygınlığından yararlanan en büyük bestelerden birini de unutmayın
+:
+
+96
+00:09:27,040 --> 00:09:29,799
+Stairway to Gilligan's Island.
+
+97
+00:09:29,800 --> 00:09:35,289
+Ve biliyor musun?  Beynimiz ayrıca mevcut şarkıların
+matematiksel alanının tamamından zevk almamızı engelliyor olabilir
+
+98
+00:09:35,290 --> 00:09:42,599
+.  Örneğin,
+araştırmalar, bir şarkının yazılım kullanarak sıkıştırılma şeklinin, şarkının
+
+99
+00:09:42,600 --> 00:09:50,659
+ne kadar eğlenceli olacağını tahmin etmemize yardımcı
+olabileceğini göstermiştir.  Çok basit, sıkıştırması çok kolay
+
+100
+00:09:50,660 --> 00:09:57,819
+, örneğin yükselen bir ölçek gibi ve şarkı
+bize meydan okumuyor - sıkıcı.  Ama çok karmaşık,
+
+101
+00:09:57,820 --> 00:10:03,239
+diyelim ki beyaz gürültü ve dosya çok fazla sıkıştırılmayacaktır
+ve aynı şekilde, bundan
+
+102
+00:10:03,240 --> 00:10:09,169
+hoşlanmıyor gibiyiz.
+Bir dosyanın bir bilgisayar tarafından sıkıştırılabileceği ve
+
+103
+00:10:09,170 --> 00:10:12,749
+bizim tarafımızdan da eğlenceli olduğu sihirli bir bölge var.
+
+104
+00:10:12,750 --> 00:10:19,079
+Yani, ilginç bir şekilde, matematiksel olarak
+konuşursak, güvenle söyleyebileceğimiz pek çok olası benzersiz
+
+105
+00:10:19,080 --> 00:10:25,239
+melodi var,
+her zaman yeni müzik
+
+106
+00:10:25,240 --> 00:10:32,469
+için yer olacak, umursayacak gibi görünmüyoruz.  Belirli kalıplardan
+ve melodilerden hoşlanırız ve kaç tane
+
+107
+00:10:32,470 --> 00:10:37,929
+olabileceğini hesaplamak, zevk aldıklarımızın ne kadar
+bağlantılı ve benzer olduğundan
+
+108
+00:10:37,930 --> 00:10:44,759
+çok daha az ilginçtir.  Sanki ihtiyacımız olandan daha fazla alanımız var
+,
+
+109
+00:10:44,760 --> 00:10:51,028
+tümünü görmeyi, tümünü ziyaret etmeyi ya da hepsini bilmeyi umabileceğimizden daha fazla alanımız var
+, ama hangi yeni yere gidersek gidelim
+
+110
+00:10:51,029 --> 00:10:57,819
+, genel anlamda, yeni, popüler  müzik
+bize her zaman biraz evimizi hatırlatacak.
+
+111
+00:10:57,820 --> 00:10:58,699
+Ve her zamanki gibi,
+
+112
+00:10:58,700 --> 00:11:10,459
+izlediğiniz için teşekkürler.
+
+113
+00:11:10,460 --> 00:11:16,139
+Harika, hala buradasın.  Sizin
+gibi insanlardan, Vsaucers'tan müzik dinlemek istiyorsanız
+
+114
+00:11:16,140 --> 00:11:21,499
+, WeSauce'a bakın.  Müzik,
+animasyon, kısa film,
+
+115
+00:11:21,500 --> 00:11:26,939
+yaptığınız ve YouTube'a koyduğunuz her şeyi bize gönderebilirsiniz, biz
+de WeSauce'ta yayınlayalım.  Vsaucers'ın yaptıklarının bir fragmanı gibi
+
+116
+00:11:26,940 --> 00:11:29,648
+.
+
+117
+00:11:29,649 --> 00:11:34,528
+Bu arada
+, bu videolardaki tüm müzikleri yapan Jake
+
+118
+00:11:34,529 --> 00:11:39,220
+Chudnow'un kanalında yepyeni bir şarkısı var,
+gidip dinlemenizi şiddetle tavsiye ediyorum.
+

@@ -1,0 +1,732 @@
+1
+00:00:07,220 --> 00:00:10,558
+Hé, Vsauce.  Michel ici.  Je suis
+
+2
+00:00:10,559 --> 00:00:13,959
+déformé.  Les pixels que vous regardez ont
+
+3
+00:00:13,960 --> 00:00:18,179
+été décalés dans le temps.  Ils ont été mappés sur un dégradé
+
+4
+00:00:18,180 --> 00:00:21,778
+et plus la région à laquelle ils sont mappés est sombre
+, plus
+
+5
+00:00:21,779 --> 00:00:25,589
+ils sont en retard.  L'effet est vraiment amusant mais ce n'est certainement
+
+6
+00:00:25,590 --> 00:00:31,229
+pas réaliste.  Ou est-ce?
+
+7
+00:00:31,230 --> 00:00:35,819
+Beaucoup, beaucoup d'appareils photo numériques populaires souffrent
+de distorsion induite par le décalage,
+
+8
+00:00:35,820 --> 00:00:39,019
+comme ce que vous venez de voir, bien que beaucoup,
+
+9
+00:00:39,020 --> 00:00:42,459
+beaucoup plus subtil.  Habituellement complètement
+
+10
+00:00:42,460 --> 00:00:45,709
+imperceptible.  C'est ce qu'on appelle un volet roulant.
+
+11
+00:00:45,710 --> 00:00:48,789
+Au lieu de prendre une exposition complète à la fois,
+
+12
+00:00:48,790 --> 00:00:52,198
+ils numérisent rapidement des bandes de chaque image.  C'est
+
+13
+00:00:52,199 --> 00:00:56,709
+généralement indétectable.  Mais lorsque le
+sujet change plus rapidement que l'appareil photo ne
+
+14
+00:00:56,710 --> 00:00:57,549
+numérise,
+
+15
+00:00:57,550 --> 00:01:03,209
+vous obtenez le fameux
+effet d'obturateur roulant vacillant geloey.  Les choses vraiment rapides
+
+16
+00:01:03,210 --> 00:01:06,799
+, comme les cordes de guitare vibrantes et
+les hélices d'avion,
+
+17
+00:01:06,800 --> 00:01:11,709
+sont des victimes célèbres, mais les gens peuvent l'être aussi.
+Luke Mandel a soumis cette photo
+
+18
+00:01:11,710 --> 00:01:16,618
+à Boing Boing[.net].  Son appareil photo scanne de gauche à
+droite et, dans ce cas,
+
+19
+00:01:16,619 --> 00:01:20,209
+réussit à capturer un clignement, les yeux fermés
+
+20
+00:01:20,210 --> 00:01:25,169
+au début du scan puis ouverts dans le
+reflet scanné une fraction
+
+21
+00:01:25,170 --> 00:01:28,739
+de seconde plus tard.
+Mais l'effet volet roulant
+
+22
+00:01:28,740 --> 00:01:32,699
+n'est pas qu'une jolie curiosité.  Il représente
+
+23
+00:01:32,700 --> 00:01:36,129
+une distorsion fondamentale et incontournable qui
+
+24
+00:01:36,130 --> 00:01:39,709
+affecte tout ce que nous voyons.  Volet roulant
+
+25
+00:01:39,710 --> 00:01:44,118
+ou pas.  Tout d'abord, parlons des distorsions.
+
+26
+00:01:44,119 --> 00:01:47,408
+Une hallucination est une déformation de la réalité
+
+27
+00:01:47,409 --> 00:01:51,389
+lorsqu'il n'y a pas de stimulus apparent.  Si vous
+
+28
+00:01:51,390 --> 00:01:55,699
+interprétez simplement mal un stimulus réel, c'est une illusion.
+
+29
+00:01:55,700 --> 00:01:59,908
+Mais certaines distorsions se produisent avant que nos organes sensoriels
+
+30
+00:01:59,909 --> 00:02:03,179
+et notre esprit ne s'y opposent.  On les appelle
+
+31
+00:02:03,180 --> 00:02:08,339
+des phénomènes optiques.  Ils ne sont pas le
+résultat d'une sensation ou d'une perception qui a mal tourné.
+
+32
+00:02:08,340 --> 00:02:13,659
+Au lieu de cela, les phénomènes optiques sont des distorsions
+causées par les simples propriétés de la lumière
+
+33
+00:02:13,660 --> 00:02:14,499
+et de la matière
+
+34
+00:02:14,500 --> 00:02:17,969
+en elles-mêmes.  Si vous regardez le ciel
+
+35
+00:02:17,970 --> 00:02:21,639
+et voyez une gourde géante aux couleurs vives,
+
+36
+00:02:21,640 --> 00:02:24,899
+vous hallucinez.  Mais si vous voyez une Grande
+
+37
+00:02:24,900 --> 00:02:28,999
+Ourse plate à deux dimensions
+, vous voyez
+
+38
+00:02:29,000 --> 00:02:32,289
+une illusion.  C'est une illusion parce que ces points
+
+39
+00:02:32,290 --> 00:02:37,509
+semblent simplement être sur le même plan, comme des
+trous percés dans le toit sombre du ciel.
+
+40
+00:02:37,510 --> 00:02:40,608
+En réalité, ces points sont des étoiles à des années-
+
+41
+00:02:40,609 --> 00:02:44,729
+lumière les unes des autres en trois dimensions.
+
+42
+00:02:44,730 --> 00:02:48,839
+Comme le montre la brillante visualisation 3D gratuite en temps
+réel de l'espace de Celestron
+
+43
+00:02:48,840 --> 00:02:52,439
+, sous différents angles, en plus du nôtre,
+
+44
+00:02:52,440 --> 00:02:56,409
+ils ressemblent beaucoup moins à une louche ou à une charrue.
+
+45
+00:02:56,410 --> 00:02:59,659
+En fait, toutes les constellations et tous les astérismes
+
+46
+00:02:59,660 --> 00:03:03,649
+sont des illusions géocentriques.  D'un point de vue plus large,
+
+47
+00:03:03,650 --> 00:03:06,729
+leurs contours pointent vers l'intérieur,
+
+48
+00:03:06,730 --> 00:03:09,789
+vers le seul point bas de l'espace
+
+49
+00:03:09,790 --> 00:03:13,559
+qui leur a donné leur nom.  Mais vous ne pouvez pas nous en vouloir.
+
+50
+00:03:13,560 --> 00:03:18,419
+Je veux dire, la Terre est la seule perspective qu'un
+humain ait jamais eue.
+
+51
+00:03:18,420 --> 00:03:22,208
+Et même Voyager 1,
+l'objet créé par l'homme le plus éloigné,
+
+52
+00:03:22,209 --> 00:03:26,059
+n'est pas encore
+assez loin pour que les constellations paraissent
+
+53
+00:03:26,060 --> 00:03:29,759
+différentes de ce qu'elles sont ici sur Terre.
+
+54
+00:03:29,760 --> 00:03:33,569
+Ce n'est pas non plus notre faute, la faute de nos yeux et de notre cerveau
+
+55
+00:03:33,570 --> 00:03:37,108
+, si les étoiles lointaines et lointaines n'étaient pas incluses
+
+56
+00:03:37,109 --> 00:03:40,809
+dans notre premier jeu de connexion cosmique.
+
+57
+00:03:40,810 --> 00:03:44,078
+Bien sûr, notre vue pourrait être meilleure,
+
+58
+00:03:44,079 --> 00:03:47,129
+mais les phénomènes optiques sont également à blâmer.
+
+59
+00:03:47,130 --> 00:03:52,349
+S'il n'y avait pas le décalage vers le rouge, la
+loi du carré inverse et l'extinction de la lumière, les
+
+60
+00:03:52,350 --> 00:03:55,599
+choses lointaines pourraient être vues dans toute leur splendeur.
+
+61
+00:03:55,600 --> 00:03:59,819
+Le ciel nocturne serait phénoménal.  De nombreuses
+
+62
+00:03:59,820 --> 00:04:03,149
+structures là-haut sont énormes.  Ils sont tout simplement
+
+63
+00:04:03,150 --> 00:04:06,849
+trop sombres pour que leur ampleur soit appréciée.
+
+64
+00:04:06,850 --> 00:04:11,869
+Lorsque nous voyons des images d'
+objets distants, comme la nébuleuse Helix,
+
+65
+00:04:11,870 --> 00:04:15,509
+avec le télescope Hubble, il est facile de penser que, sans télescope pour zoomer,
+
+66
+00:04:15,510 --> 00:04:19,289
+l'objet ne doit être qu'un tout petit point dans le ciel.
+
+67
+00:04:19,290 --> 00:04:23,418
+Mais en réalité, même si la nébuleuse Helix est à
+
+68
+00:04:23,419 --> 00:04:26,679
+700 années-lumière, elle fait
+
+69
+00:04:26,680 --> 00:04:31,159
+3 années-lumière de diamètre.  Si nous pouvions rendre la nébuleuse de l'hélice
+
+70
+00:04:31,160 --> 00:04:34,339
+moins sombre, si nos yeux pouvaient en prendre une
+
+71
+00:04:34,340 --> 00:04:37,728
+très longue exposition,
+nous verrions la nébuleuse de l'hélice
+
+72
+00:04:37,729 --> 00:04:42,839
+telle qu'elle est réellement - près de 70 % du diamètre apparent
+
+73
+00:04:42,840 --> 00:04:47,379
+de notre Lune.  C'est une image sérieuse.
+C'est la taille de
+
+74
+00:04:47,380 --> 00:04:50,799
+la nébuleuse Helix dans le
+ciel nocturne de la Terre
+
+75
+00:04:50,800 --> 00:04:54,359
+si elle n'était pas si sombre.
+
+76
+00:04:54,360 --> 00:04:59,199
+Soit dit en passant, notre Lune est minuscule dans le ciel.  Il est facile de
+penser à la lune comme à cette énorme
+
+77
+00:04:59,200 --> 00:05:02,909
+chose de la taille d'une balle de baseball là-haut dans le ciel,
+mais c'est une illusion.
+
+78
+00:05:02,910 --> 00:05:06,959
+Essayez ceci la prochaine fois que vous verrez la
+Lune.  Prenez une feuille de papier pour cahier
+
+79
+00:05:06,960 --> 00:05:10,299
+et vous remarquerez que le
+diamètre angulaire de la Lune
+
+80
+00:05:10,300 --> 00:05:14,839
+est de la même taille qu'un trou percé dans une
+feuille de papier pour cahier tenue
+
+81
+00:05:14,840 --> 00:05:19,879
+à bout de bras.  Sérieusement, essayez-le
+parfois.  Cela montre à quel point
+
+82
+00:05:19,880 --> 00:05:23,619
+notre petite lune est mignonne et minuscule.
+La nébuleuse d'Orion
+
+83
+00:05:23,620 --> 00:05:27,099
+apparaîtrait encore plus grande si nous voyions toute sa lumière.
+
+84
+00:05:27,100 --> 00:05:30,179
+Et la galaxie d'Andromède ?  Juste
+
+85
+00:05:30,180 --> 00:05:34,969
+une tache dans le ciel à nos yeux.  Mais si nos
+yeux captaient mieux la
+
+86
+00:05:34,970 --> 00:05:38,419
+faible lumière, nous verrions la véritable étendue d'Andromède
+
+87
+00:05:38,420 --> 00:05:41,689
+dans notre ciel.  Bien sûr, notre
+
+88
+00:05:41,690 --> 00:05:44,719
+ciel nocturne ne ressemble pas à ça.  Les objets distants
+
+89
+00:05:44,720 --> 00:05:49,519
+sont plus faibles, c'est dommage.  Mais la lumière
+gagne toujours quand il s'agit de vitesse.
+
+90
+00:05:49,520 --> 00:05:55,329
+La lumière voyage à la vitesse la plus rapide.
+En fait, dans le vide, la lumière parcourt
+
+91
+00:05:55,330 --> 00:05:58,539
+300 000 kilomètres par seconde.
+
+92
+00:05:58,540 --> 00:06:01,069
+C'est rapide.
+
+93
+00:06:01,070 --> 00:06:04,629
+Mais pas vraiment.  Je veux dire, pas comparé à la distance qui sépare les
+
+94
+00:06:04,630 --> 00:06:08,199
+choses dans l'univers.  Sydney, en Australie,
+
+95
+00:06:08,200 --> 00:06:12,279
+est à 1/14e de seconde-lumière de Londres.
+
+96
+00:06:12,280 --> 00:06:13,919
+Mais la galaxie d'Andromède est à
+
+97
+00:06:13,920 --> 00:06:18,549
+2 500 000 années-lumière de Londres.
+
+98
+00:06:18,550 --> 00:06:22,829
+Pour mettre cela en perspective, prenons un
+voyage à vitesse légère de Londres
+
+99
+00:06:22,830 --> 00:06:25,809
+à Sydney.  Ça ressemblerait à ça... Prêt ?
+
+100
+00:06:25,810 --> 00:06:30,849
+Trois, deux, un, partez !
+
+101
+00:06:30,850 --> 00:06:35,229
+Agréable!  D'accord d'accord.  Voici la galaxie d'Andromède.
+
+102
+00:06:35,230 --> 00:06:40,519
+Bon, maintenant, mis à part les effets relativistes,
+regardons à quoi cela
+
+103
+00:06:40,520 --> 00:06:43,179
+ressemblerait de voyager vers la galaxie d'Andromède
+
+104
+00:06:43,180 --> 00:06:46,019
+à la vitesse de la lumière.  Es-tu prêt?  Très bien.
+
+105
+00:06:46,020 --> 00:06:54,359
+Trois, deux, un, partez !
+
+106
+00:06:54,360 --> 00:06:57,449
+Ouais.  Je veux dire, sérieusement, c'est
+
+107
+00:06:57,450 --> 00:07:01,349
+assez boiteux.  Même à la vitesse de la lumière,
+
+108
+00:07:01,350 --> 00:07:05,229
+la vitesse la plus rapide possible, dans un an,
+
+109
+00:07:05,230 --> 00:07:08,999
+nous ne serons même pas au millionième du chemin.
+
+110
+00:07:09,000 --> 00:07:11,329
+C'est à quelle distance se trouve
+
+111
+00:07:11,330 --> 00:07:14,979
+Andromède.  C'est presque triste
+
+112
+00:07:14,980 --> 00:07:20,289
+dans un sens.  Mais cela nous ramène à
+l'effet volet roulant.
+
+113
+00:07:20,290 --> 00:07:25,959
+La galaxie d'Andromède est immense.  Il fait plus
+de cent mille années-lumière de diamètre
+
+114
+00:07:25,960 --> 00:07:29,589
+et notre vision est inclinée.
+
+115
+00:07:29,590 --> 00:07:33,819
+Ce qui signifie que, dans le plan dans lequel nous la voyons, la
+lumière de dos
+
+116
+00:07:33,820 --> 00:07:39,239
+représente ce à quoi ressemblait Andromède des
+milliers et des milliers d'années avant
+
+117
+00:07:39,240 --> 00:07:42,329
+ce que représente la lumière de face.
+
+118
+00:07:42,330 --> 00:07:45,689
+Les changements dans son apparence nous parviennent
+plus tôt de face
+
+119
+00:07:45,690 --> 00:07:50,269
+que de dos.  Andromède tourne,
+tournant à des centaines de kilomètres par
+
+120
+00:07:50,270 --> 00:07:51,909
+seconde à certains endroits.
+
+121
+00:07:51,910 --> 00:07:55,669
+Maintenant, un décalage entre la lumière provenant de
+
+122
+00:07:55,670 --> 00:07:58,879
+points proches et éloignés sur un objet en rotation
+
+123
+00:07:58,880 --> 00:08:03,689
+entraîne une image biaisée.  L'
+effet de volet roulant à l'échelle cosmique
+
+124
+00:08:03,690 --> 00:08:06,699
+appliqué à, disons, un échiquier, voir l'avant
+
+125
+00:08:06,700 --> 00:08:11,259
+devant l'arrière est assez trippant et dramatique.
+
+126
+00:08:11,260 --> 00:08:13,789
+Alors, cela signifie-t-il que nous voyons des
+
+127
+00:08:13,790 --> 00:08:18,199
+versions bancales, miroir funhouse, à
+effet de volet roulant d'Andromède
+
+128
+00:08:18,200 --> 00:08:21,669
+et d'autres galaxies lointaines ?  Eh bien, techniquement
+
+129
+00:08:21,670 --> 00:08:26,659
+oui, mais la distorsion est négligeable.  Il peut tout aussi bien être
+
+130
+00:08:26,660 --> 00:08:30,019
+ignoré.  Pourquoi?  Eh bien,
+
+131
+00:08:30,020 --> 00:08:33,668
+les vitesses utilisées dans ces visualisations ne sont pas
+
+132
+00:08:33,669 --> 00:08:38,249
+à l'échelle.  En moyenne, oui, la matière dans les galaxies
+
+133
+00:08:38,250 --> 00:08:41,699
+orbite autour du centre galactique à des centaines
+de kilomètres par seconde,
+
+134
+00:08:41,700 --> 00:08:45,559
+mais les galaxies sont si énormes qu'il leur faut des
+
+135
+00:08:45,560 --> 00:08:49,209
+centaines de millions d'années pour effectuer une seule
+
+136
+00:08:49,210 --> 00:08:53,739
+rotation.  En d'autres termes, le décalage entre la lumière
+
+137
+00:08:53,740 --> 00:08:56,999
+qui vous parvient de points proches et éloignés sur une galaxie
+
+138
+00:08:57,000 --> 00:09:00,289
+n'est rien comparé au temps qu'il faut à la
+
+139
+00:09:00,290 --> 00:09:03,859
+matière dans la galaxie pour parcourir cette même distance.
+
+140
+00:09:03,860 --> 00:09:06,989
+Dans le cas d'Andromède, si vous insistiez
+
+141
+00:09:06,990 --> 00:09:10,379
+pour voir Andromède telle qu'elle est réellement,
+
+142
+00:09:10,380 --> 00:09:15,559
+c'est-à-dire corrigée de tout décalage causé par
+le fait que la vitesse de la lumière est
+
+143
+00:09:15,560 --> 00:09:18,799
+finie, les points les plus extrêmes de la Galaxie
+
+144
+00:09:18,800 --> 00:09:23,039
+n'auraient besoin d'être ajustés que par  environ un 10 000ème de
+
+145
+00:09:23,040 --> 00:09:26,419
+la largeur de n'importe quelle image.  Dans ce cas, moins d'un pixel.
+
+146
+00:09:26,420 --> 00:09:30,799
+Donc, ce n'est pas grave.  Mais ce n'est pas une affaire de rien.
+
+147
+00:09:30,800 --> 00:09:34,529
+C'est vrai.  En fait, tout ce que nous regardons est,
+
+148
+00:09:34,530 --> 00:09:37,669
+d'une certaine manière, déformé par le fait que la vitesse de la lumière
+
+149
+00:09:37,670 --> 00:09:40,749
+est finie.  Vos propres pieds sont à environ
+
+150
+00:09:40,750 --> 00:09:47,139
+5 à 6 nanosecondes lumière de vos
+yeux, ce qui signifie que lorsque vous regardez vos pieds,
+
+151
+00:09:47,140 --> 00:09:50,949
+vous voyez où ils étaient il y a 5 à 6
+
+152
+00:09:50,950 --> 00:09:55,229
+nanosecondes.  5 à 6 nanosecondes dans le passé.
+
+153
+00:09:55,230 --> 00:09:58,249
+Bien sûr, un retard aussi bref est à peu
+près indétectable,
+
+154
+00:09:58,250 --> 00:10:01,879
+mais il est calculable.  Si cela vous rend
+
+155
+00:10:01,880 --> 00:10:05,219
+un peu triste de savoir que même avec l'esprit le plus aiguisé
+
+156
+00:10:05,220 --> 00:10:09,549
+ou les meilleurs instruments, les apparences dépendent toujours de l'
+
+157
+00:10:09,550 --> 00:10:13,139
+endroit où vous vous trouvez.  Que les phénomènes optiques assurent que les
+
+158
+00:10:13,140 --> 00:10:17,679
+apparences sont toujours relatives (?) Ne vous sentez pas mal.
+
+159
+00:10:17,680 --> 00:10:21,669
+Nous appelons les personnes les plus proches de nous nos parents.
+
+160
+00:10:21,670 --> 00:10:25,069
+Nous ne sommes vraiment qu'une famille, une grande famille
+
+161
+00:10:25,070 --> 00:10:28,479
+de cadres de référence qui,
+comme une famille, ne sont pas toujours d'accord
+
+162
+00:10:28,480 --> 00:10:31,569
+mais qui ont plein de choses sympas à regarder.
+
+163
+00:10:31,570 --> 00:10:35,489
+J'aimerais remercier mon éditeur, Guy, pour son aide avec l'
+
+164
+00:10:35,490 --> 00:10:51,888
+effet de volet roulant dans cette vidéo.
+
+165
+00:10:51,889 --> 00:10:54,448
+Et je voudrais vous remercier, parce que, comme toujours
+
+166
+00:10:54,449 --> 00:11:21,969
+merci d'avoir regardé.
+
+167
+00:11:21,970 --> 00:11:23,009
+Oh, voici quelque chose de cool.
+
+168
+00:11:23,010 --> 00:11:26,039
+Je serai très bientôt au YouTube Fan Fest avec HP
+
+169
+00:11:26,040 --> 00:11:29,579
+en Inde.  Consultez la
+description pour plus d'informations.  Si vous pouvez le
+
+170
+00:11:29,580 --> 00:11:30,069
+faire,
+
+171
+00:11:30,070 --> 00:11:31,020
+j'espère vous y voir.
+

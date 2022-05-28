@@ -1,0 +1,557 @@
+1
+00:00:00,459 --> 00:00:03,749
+A Rainha Leão está procurando tornar as eleições
+em seu reino animal mais justas.
+
+2
+00:00:03,750 --> 00:00:07,789
+Atualmente ela divide seus cidadãos em grupos,
+cada um dos quais seleciona um representante para
+
+3
+00:00:07,790 --> 00:00:10,808
+ir ao conselho da selva que faz as leis
+para o reino.
+
+4
+00:00:10,809 --> 00:00:15,709
+Mas seus cidadãos estão insatisfeitos, e é
+fácil entender o porquê: o conselho está cheio de macacos.
+
+5
+00:00:15,710 --> 00:00:18,838
+É claro que alguns de seus cidadãos são macacos,
+mas nem todos.
+
+6
+00:00:18,839 --> 00:00:21,629
+Este conselho não representa bem o
+reino dela.
+
+7
+00:00:21,630 --> 00:00:25,479
+A rainha leão visita um dos intervalos para descobrir
+o que está errado e como corrigi-lo.
+
+8
+00:00:25,480 --> 00:00:30,658
+Nesta faixa há cinco macacos, quatro tigres,
+três corujas, dois linces e um búfalo.
+
+9
+00:00:30,659 --> 00:00:34,869
+Um de cada concorre a representante e todos os
+cidadãos votam em sua própria espécie.
+
+10
+00:00:34,870 --> 00:00:38,909
+A regra eleitoral é que ganha o candidato
+com mais votos, que é o macaco.
+
+11
+00:00:38,910 --> 00:00:43,959
+Mas é um resultado bastante insatisfatório, considerando
+que 2/3 dos cidadãos nesta faixa *não são*
+
+12
+00:00:43,960 --> 00:00:45,748
+macacos e não votariam em macacos.
+
+13
+00:00:45,749 --> 00:00:50,439
+Isso é o mesmo em todas as áreas
+do reino, os macacos têm mais votos do que
+
+14
+00:00:50,440 --> 00:00:55,409
+qualquer outra pessoa, então eles ganham todas as eleições,
+mesmo sendo uma minoria da população total
+
+15
+00:00:55,410 --> 00:00:56,409
+.
+
+16
+00:00:56,410 --> 00:01:00,049
+Uma inspeção mais detalhada revela que os
+consultores independentes contratados para traçar os limites de alcance
+
+17
+00:01:00,050 --> 00:01:03,678
+em primeiro lugar não eram tão independentes
+quanto pareciam à primeira vista.
+
+18
+00:01:03,679 --> 00:01:07,629
+O resultado são cidadãos infelizes que não confiam
+no conselho da selva para fazer as leis mais justas
+
+19
+00:01:07,630 --> 00:01:09,319
+para todos, com toda a razão.
+
+20
+00:01:09,320 --> 00:01:13,519
+Agora a rainha leão quer maximizar o número
+de cidadãos satisfeitos com os resultados das eleições.
+
+21
+00:01:13,520 --> 00:01:17,078
+Uma maneira de fazer isso é abolir as faixas
+e usar um sistema proporcional...
+
+22
+00:01:17,079 --> 00:01:19,839
+...mas seus cidadãos *querem* representantes locais.
+
+23
+00:01:19,840 --> 00:01:24,109
+Portanto, a Rainha Leão precisa de um sistema que faça
+seus cidadãos mais felizes por ter um conselho mais representativo
+
+24
+00:01:24,110 --> 00:01:27,429
+e manter as eleições locais em vigor.
+
+25
+00:01:27,430 --> 00:01:31,339
+Depois de fazer uma pequena pesquisa, ela descobre
+como: Voto Único Transferível.
+
+26
+00:01:31,340 --> 00:01:36,429
+A grande mudança do STV é que os ranges enviam
+mais de um representante, o que pode parecer
+
+27
+00:01:36,430 --> 00:01:40,589
+estranho, mas a rainha leão decide testá-lo:
+ela pega três ranges que costumavam
+
+28
+00:01:40,590 --> 00:01:45,328
+enviar um representante e os combina
+em um range maior que enviará três  .
+
+29
+00:01:45,329 --> 00:01:49,849
+No dia da eleição os cidadãos vão às urnas e
+os resultados nesta nova faixa são exatamente os
+
+30
+00:01:49,850 --> 00:01:53,339
+mesmos que eram nas faixas antigas: 34% para o
+Macaco, 33% para a Coruja e 33% para o Lince.
+
+31
+00:01:53,340 --> 00:01:56,478
+Mas isso não é a maioria dos votos: com a STV para
+descobrir os vencedores, pegue o total de votos
+
+32
+00:01:56,479 --> 00:02:02,389
+e divida pelo número de representantes
+necessários, neste caso 3, o que dá 33% como
+
+33
+00:02:02,390 --> 00:02:04,538
+o valor que um candidato precisa para ganhar.
+
+34
+00:02:04,539 --> 00:02:08,788
+Então *todos os três* candidatos vão para o conselho
+-- que representa com precisão os cidadãos
+
+35
+00:02:08,789 --> 00:02:09,829
+na faixa.
+
+36
+00:02:09,830 --> 00:02:13,419
+Considerando que no sistema antigo cada intervalo
+teria enviado um macaco.
+
+37
+00:02:13,420 --> 00:02:15,939
+Deixando 2/3 dos cidadãos sem representação.
+
+38
+00:02:15,940 --> 00:02:20,579
+Um intervalo maior com mais representantes permite que
+o intervalo seja mais proporcional.
+
+39
+00:02:20,580 --> 00:02:24,829
+Este teste deu certo, mas também foi o
+mais simples possível - agora a Rainha Leão
+
+40
+00:02:24,830 --> 00:02:27,889
+quer ver o que acontece em uma corrida onde nem todos
+são vencedores.
+
+41
+00:02:27,890 --> 00:02:32,839
+O próximo grande intervalo que ela testa tem cinco candidatos
+concorrendo ao cargo: Gorilla, Tasier, Monkey,
+
+42
+00:02:32,840 --> 00:02:36,279
+Tiger e Lynx, três dos quais podem ser representantes.
+
+43
+00:02:36,280 --> 00:02:40,579
+O dia da eleição vem e vai, e aqui estão
+os resultados das primeiras escolhas dos cidadãos:
+
+44
+00:02:40,580 --> 00:02:43,499
+Tasier ganha 5%
+Gorilla ganha 28%
+
+45
+00:02:43,500 --> 00:02:46,309
+Macaco ganha 33%
+Tigre ganha 21%
+
+46
+00:02:46,310 --> 00:02:47,729
+Lynx ganha 13%
+
+47
+00:02:47,730 --> 00:02:50,909
+Como antes, um candidato precisa de 33% para vencer.
+
+48
+00:02:50,910 --> 00:02:55,069
+Monkey tem isso e é imediatamente selecionado
+como um dos três representantes.
+
+49
+00:02:55,070 --> 00:02:59,829
+Mas ninguém mais alcançou os 33% vencedores, então
+como os outros dois representantes são selecionados?
+
+50
+00:02:59,830 --> 00:03:01,789
+Primeiro passo: livrar-se do maior perdedor.
+
+51
+00:03:01,790 --> 00:03:04,229
+Desculpe tasier - você realmente não teve chance
+alguma.
+
+52
+00:03:04,230 --> 00:03:07,969
+Agora, quando os cidadãos votaram, eles poderiam
+simplesmente colocar um X ao lado do candidato que mais gostaram,
+
+53
+00:03:07,970 --> 00:03:12,499
+mas com o STV eles também podem classificar seus
+candidatos favoritos.
+
+54
+00:03:12,500 --> 00:03:16,519
+Isso é importante porque mostra como
+seria a eleição se um dos
+
+55
+00:03:16,520 --> 00:03:18,029
+candidatos não tivesse se candidatado.
+
+56
+00:03:18,030 --> 00:03:22,719
+Tasiers minúsculos e preocupados teriam votado
+no grande e calmo gorila sem tasier
+
+57
+00:03:22,720 --> 00:03:23,719
+na corrida.
+
+58
+00:03:23,720 --> 00:03:28,049
+Então, se seu candidato não pode vencer, eles querem que
+seus votos sejam para o Gorilla.
+
+59
+00:03:28,050 --> 00:03:32,369
+Isso empurra o gorila até 33% e ele se torna
+o próximo representante.
+
+60
+00:03:32,370 --> 00:03:36,219
+A classificação permite que os cidadãos apoiem seu
+candidato favorito sem se preocupar - não faz
+
+61
+00:03:36,220 --> 00:03:38,729
+sentido criar estratégias sobre como todos os
+outros votarão.
+
+62
+00:03:38,730 --> 00:03:42,289
+O sistema trabalha para maximizar a felicidade do eleitor
+com o resultado.
+
+63
+00:03:42,290 --> 00:03:46,589
+De volta ao intervalo: ainda há um representante
+para selecionar, então o próximo maior perdedor é o Lynx.
+
+64
+00:03:46,590 --> 00:03:50,169
+Seus eleitores não gostam de símios, mas eles
+acham que os interesses do tigre são semelhantes aos deles
+
+65
+00:03:50,170 --> 00:03:53,249
+e, portanto, se Lynx não pode ganhar, eles querem que ele
+tenha seus votos.
+
+66
+00:03:53,250 --> 00:03:57,259
+Tiger chega a 33% e se torna o terceiro
+e último representante.
+
+67
+00:03:57,260 --> 00:04:02,009
+O resultado da eleição parece muito bom, especialmente
+considerando os cidadãos como primeira * e * segunda escolha.
+
+68
+00:04:02,010 --> 00:04:06,569
+Agora, mais cidadãos têm um representante local com
+quem podem se sentir à vontade para se aproximar, ao passo que,
+
+69
+00:04:06,570 --> 00:04:09,479
+usando o sistema antigo, todo mundo ganha um macaco.
+
+70
+00:04:09,480 --> 00:04:13,509
+Por último a rainha leão quer saber o que acontece
+em um intervalo com apenas dois partidos políticos.
+
+71
+00:04:13,510 --> 00:04:17,078
+Nos sistemas de maioria dos votos, vários
+candidatos do mesmo partido seriam um
+
+72
+00:04:17,079 --> 00:04:20,898
+desastre: eles dividiriam seus eleitores e entregariam
+a vitória à oposição.
+
+73
+00:04:20,899 --> 00:04:26,239
+A rainha leão faz um último teste com
+2/3 de tigres e 1/3 de gorilas que, como antes,
+
+74
+00:04:26,240 --> 00:04:28,008
+precisa de três representantes.
+
+75
+00:04:28,009 --> 00:04:33,468
+Porque com o STV os cidadãos classificam seus candidatos
+, pode haver mais de um candidato concorrendo
+
+76
+00:04:33,469 --> 00:04:36,359
+ao mesmo tempo sem problemas.
+
+77
+00:04:36,360 --> 00:04:40,138
+Os tigres têm dois candidatos, assim como os gorilas.
+
+78
+00:04:40,139 --> 00:04:52,929
+O tigre branco se torna o primeiro representante,
+mas o que acontece a seguir?
+
+79
+00:04:52,930 --> 00:04:57,869
+Embora o tigre pareça ser o maior perdedor
+, também é óbvio que ele teria recebido
+
+80
+00:04:57,870 --> 00:05:01,249
+muito mais votos se o tigre branco não estivesse na
+corrida.
+
+81
+00:05:01,250 --> 00:05:05,818
+Se um candidato tem mais votos do que precisa,
+como o tigre branco, o primeiro passo é
+
+82
+00:05:05,819 --> 00:05:08,758
+dar os votos extras para a segunda escolha.
+
+83
+00:05:08,759 --> 00:05:12,688
+Isso leva o tigre a 33% e ele se torna o
+próximo representante.
+
+84
+00:05:12,689 --> 00:05:14,859
+Se isso parece estranho, há duas coisas
+a considerar:
+
+85
+00:05:14,860 --> 00:05:18,609
+1) Se, em vez disso, os votos extras fossem ignorados
+e o tigre eliminado, os gorilas
+
+86
+00:05:18,610 --> 00:05:23,089
+teriam as duas vitórias restantes, o que obviamente
+não representaria o intervalo.
+
+87
+00:05:23,090 --> 00:05:27,739
+2) Ignorar esses votos 'extras' é punir os
+cidadãos que apoiaram o candidato popular, o
+
+88
+00:05:27,740 --> 00:05:32,859
+que faz com que os eleitores comecem a pensar em como
+todos os outros vão votar, e não no que
+
+89
+00:05:32,860 --> 00:05:34,089
+eles realmente querem.
+
+90
+00:05:34,090 --> 00:05:39,009
+Se um candidato obtém votos extras em primeiro
+lugar, também significa que aqueles que votaram
+
+91
+00:05:39,010 --> 00:05:44,499
+nele são uma grande parte da população e,
+portanto, devem obter mais representação.
+
+92
+00:05:44,500 --> 00:05:48,908
+Certo: depois que os votos extras vão para o tigre,
+a eleição termina como antes: Silverback
+
+93
+00:05:48,909 --> 00:05:52,969
+ficou em último, é eliminado e a
+segunda escolha de seus eleitores é o candidato mais jovem, então o
+
+94
+00:05:52,970 --> 00:05:54,288
+gorila entra.
+
+95
+00:05:54,289 --> 00:05:55,788
+E os resultados são justos.
+
+96
+00:05:55,789 --> 00:05:57,879
+A Rainha Leão agora viu o trabalho da STV.
+
+97
+00:05:57,880 --> 00:06:02,198
+Quer um intervalo tenha um partido ou lotes, o
+processo ainda é o mesmo:
+
+98
+00:06:02,199 --> 00:06:03,198
+1. Os
+
+99
+00:06:03,199 --> 00:06:04,549
+cidadãos classificam seus candidatos favoritos.
+
+100
+00:06:04,550 --> 00:06:05,549
+2.
+
+101
+00:06:05,550 --> 00:06:07,299
+Qualquer candidato acima do limite vence imediatamente,
+3.
+
+102
+00:06:07,300 --> 00:06:09,499
+Os votos 'extras' vão para sua próxima escolha.
+
+103
+00:06:09,500 --> 00:06:10,499
+4.
+
+104
+00:06:10,500 --> 00:06:13,679
+Se não houver vencedor, o último lugar é eliminado, e
+os votos a seguir são a sua próxima escolha.
+
+105
+00:06:13,680 --> 00:06:14,679
+5.
+
+106
+00:06:14,680 --> 00:06:16,598
+Repita até que todos os vencedores sejam encontrados.
+
+107
+00:06:16,599 --> 00:06:20,658
+Todo esse processo é pensado para maximizar
+o número de cidadãos que estão satisfeitos com
+
+108
+00:06:20,659 --> 00:06:21,658
+o resultado.
+
+109
+00:06:21,659 --> 00:06:25,869
+Esse processo dá à STV muitas vantagens em
+relação ao antigo sistema de maioria dos votos:
+
+110
+00:06:25,870 --> 00:06:26,869
+1. Os
+
+111
+00:06:26,870 --> 00:06:29,628
+cidadãos podem votar honestamente em seu
+candidato favorito sem se preocupar com o que os
+
+112
+00:06:29,629 --> 00:06:30,668
+outros farão.
+
+113
+00:06:30,669 --> 00:06:31,668
+2.
+
+114
+00:06:31,669 --> 00:06:32,668
+É mais proporcional.
+
+115
+00:06:32,669 --> 00:06:34,348
+Portanto, brincar com as fronteiras importa menos.
+
+116
+00:06:34,349 --> 00:06:35,348
+3.
+
+117
+00:06:35,349 --> 00:06:39,189
+Quase todos os cidadãos terão um representante local em
+quem votaram.
+
+118
+00:06:39,190 --> 00:06:42,969
+No final, a Rainha Leão decide mudar as
+eleições do conselho para Voto Único Transferível
+
+119
+00:06:42,970 --> 00:06:45,649
+para fazer um conselho de selva melhor para todos.
+

@@ -1,0 +1,586 @@
+1
+00:00:03,250 --> 00:00:07,329
+Bienvenue sur le problème du
+vote uninominal à un tour expliqué par moi, C. G. P. Gray
+
+2
+00:00:07,330 --> 00:00:11,259
+La famille royale a un problème.  Mais ce n'est pas
+n'importe quelle famille royale, ce sont les lions
+
+3
+00:00:11,260 --> 00:00:13,259
+, les maîtres de la jungle depuis des temps immémoriaux.
+
+4
+00:00:13,260 --> 00:00:17,319
+Il y a des protestations contre le pouvoir absolu de la monarchie
+et les citoyens du règne animal
+
+5
+00:00:17,320 --> 00:00:19,159
+veulent avoir leur mot à dire sur la façon dont ils sont gouvernés.
+
+6
+00:00:19,160 --> 00:00:23,239
+Cédant à la pression, Lion a abdiqué
+sa couronne et le roi est d'être un bureau élu.
+
+7
+00:00:23,240 --> 00:00:27,278
+Pour assurer une transition en douceur - et parce
+qu'elle est plus rusée que son mari - la reine
+
+8
+00:00:27,279 --> 00:00:30,688
+lionne reste sur le trône avec le
+pouvoir de fixer les règles de toutes les élections dans
+
+9
+00:00:30,689 --> 00:00:32,097
+son royaume.
+
+10
+00:00:32,098 --> 00:00:36,099
+Elle a déclaré que tous les citoyens obtiennent une
+et une seule voix et que le candidat avec
+
+11
+00:00:36,100 --> 00:00:38,299
+le plus de voix remporte la couronne.
+
+12
+00:00:38,300 --> 00:00:41,799
+Cette méthode de vote est le plus souvent appelée
+First Past the Post (maladroitement abrégé
+
+13
+00:00:41,800 --> 00:00:43,919
+en FPTP) ou Winner Take All.
+
+14
+00:00:43,920 --> 00:00:46,569
+Ce système est simple, juste et logique.  À droite?
+
+15
+00:00:46,570 --> 00:00:47,589
+En fait non.
+
+16
+00:00:47,590 --> 00:00:49,069
+C'est une idée terrible, terrible.
+
+17
+00:00:49,070 --> 00:00:50,069
+Pourquoi?
+
+18
+00:00:50,070 --> 00:00:53,029
+Eh bien, pour voir les problèmes avec le
+système uninominal majoritaire à un tour, regardons la première élection se dérouler
+
+19
+00:00:53,030 --> 00:00:54,578
+dans le règne animal.
+
+20
+00:00:54,579 --> 00:00:58,069
+C'est une période passionnante pour la démocratie naissante
+et sept candidats pleins d'espoir se présentent
+
+21
+00:00:58,070 --> 00:01:02,019
+pour se présenter et représenter leurs partis.
+Ils organisent leurs meilleures campagnes, les citoyens se rendent
+
+22
+00:01:02,020 --> 00:01:05,429
+aux urnes et les votes sont comptés.  Les
+résultats sont les suivants :
+
+23
+00:01:05,430 --> 00:01:06,889
+Turtle obtient 9 % des voix.
+
+24
+00:01:06,890 --> 00:01:08,149
+Le singe obtient 18 %.
+
+25
+00:01:08,150 --> 00:01:09,349
+Le gorille obtient 19 %.
+
+26
+00:01:09,350 --> 00:01:10,429
+Hibou obtient 13 %.
+
+27
+00:01:10,430 --> 00:01:11,429
+Léopard obtient 20 %.
+
+28
+00:01:11,430 --> 00:01:12,709
+Tigre obtient 15 %.
+
+29
+00:01:12,710 --> 00:01:13,709
+Serpent obtient 6 %.
+
+30
+00:01:13,710 --> 00:01:16,701
+Selon les règles du First Past the Post, Leopard
+est couronnée gagnante et elle peut régner
+
+31
+00:01:16,702 --> 00:01:17,701
+pendant la durée de son mandat.
+
+32
+00:01:17,702 --> 00:01:21,449
+Mais regardez à nouveau les résultats, et
+vous voyez le premier problème de ce système : la
+
+33
+00:01:21,450 --> 00:01:26,100
+règle de la minorité.  La grande majorité des citoyens
+- 80% - voulaient quelqu'un d'autre comme roi, mais
+
+34
+00:01:26,101 --> 00:01:30,749
+Leopard a quand même gagné.  Il n'y avait que sept candidats
+dans cette course, mais si vous imaginez qu'il y en avait eu
+
+35
+00:01:30,750 --> 00:01:34,179
+vingt, elle n'a peut-être obtenu que 5% des voix,
+mais a quand même été élue.
+
+36
+00:01:34,180 --> 00:01:37,079
+Ce problème avec la règle de la minorité n'est que le
+début.
+
+37
+00:01:37,080 --> 00:01:40,649
+Le deuxième problème avec le système uninominal uninominal à un tour
+est que, avec suffisamment de temps, il en résulte
+
+38
+00:01:40,650 --> 00:01:43,359
+un système bipartite inévitable et inévitable.
+
+39
+00:01:43,360 --> 00:01:44,359
+Pourquoi?
+
+40
+00:01:44,360 --> 00:01:47,499
+Pour voir, regardons ce qui se passe sur plusieurs
+cycles électoraux...
+
+41
+00:01:47,500 --> 00:01:51,279
+Léopard a terminé son mandat et c'est l'
+heure des élections dans la jeune démocratie.  Seulement
+
+42
+00:01:51,280 --> 00:01:54,999
+maintenant, tous les citoyens du règne animal se
+souviennent des résultats de la dernière fois.
+
+43
+00:01:55,000 --> 00:01:58,579
+Cette information modifie leur comportement.
+En particulier les électeurs de Snake et Turtle – qui
+
+44
+00:01:58,580 --> 00:02:02,118
+doivent faire face à la réalité qu'ils ont soutenu des
+candidats extrémistes peu attrayants qui n'ont aucune chance
+
+45
+00:02:02,119 --> 00:02:03,118
+de gagner.
+
+46
+00:02:03,119 --> 00:02:06,449
+Les électeurs de Turtle, qui étaient mécontents sous le
+régime de Leopard, ont décidé de soutenir le candidat qui avait
+
+47
+00:02:06,450 --> 00:02:08,339
+les meilleures chances de gagner, Gorilla.
+
+48
+00:02:08,340 --> 00:02:12,348
+Maintenant, les électeurs serpents veulent voter pour Tiger – qui
+est le candidat avec lequel ils ont le plus en
+
+49
+00:02:12,349 --> 00:02:15,789
+commun, mais ils ont peur de le faire parce que
+Leopard mène une campagne négative contre ses
+
+50
+00:02:15,790 --> 00:02:17,169
+concurrents.
+
+51
+00:02:17,170 --> 00:02:20,759
+Les électeurs de Snake, n'aimant pas l'idée de la règle de Gorilla
+, votent stratégiquement pour Leopard.
+
+52
+00:02:20,760 --> 00:02:24,568
+Les résultats finaux ressemblent à ceci, avec Leopard
+obtenant 26% des voix et Gorilla
+
+53
+00:02:24,569 --> 00:02:26,799
+28, faisant de lui le nouveau roi.
+
+54
+00:02:26,800 --> 00:02:30,169
+Snake et Turtle, voyant leurs résultats lamentables
+et le coût de leurs campagnes, décident
+
+55
+00:02:30,170 --> 00:02:32,039
+d'abandonner les futures courses.
+
+56
+00:02:32,040 --> 00:02:34,488
+Ce qui a commencé comme un système à sept partis est
+maintenant réduit à cinq.
+
+57
+00:02:34,489 --> 00:02:36,899
+Avance rapide jusqu'à la prochaine élection :
+
+58
+00:02:36,900 --> 00:02:40,449
+seuls cinq candidats se présentent, et encore une fois, les électeurs se
+souviennent de ce qui s'est passé la dernière fois.
+
+59
+00:02:40,450 --> 00:02:44,369
+Dans cette élection, ce sont les électeurs de Owl qui reconnaissent
+que leur candidat ne peut pas gagner.  Ce sont
+
+60
+00:02:44,370 --> 00:02:47,729
+des électeurs centristes et moins idéologiques que
+le reste du règne animal - en tant que tels,
+
+61
+00:02:47,730 --> 00:02:49,859
+ils n'aiment pas vraiment Gorilla ou Leopard.
+
+62
+00:02:49,860 --> 00:02:53,169
+Gorilla et Leopard le savent tous les deux, alors ils font
+chacun des campagnes négatives pour capitaliser sur les
+
+63
+00:02:53,170 --> 00:02:54,809
+peurs des centristes.
+
+64
+00:02:54,810 --> 00:02:58,139
+Les électeurs de Hibou divisent leur vote et
+votent principalement contre le candidat qu'ils n'aiment pas,
+
+65
+00:02:58,140 --> 00:03:00,479
+plutôt que de soutenir le candidat
+qu'ils aiment.
+
+66
+00:03:00,480 --> 00:03:05,409
+Après cette élection, Gorilla obtient 33% des
+voix et Leopard obtient 34%, ce qui en fait la gagnante.
+
+67
+00:03:05,410 --> 00:03:08,889
+Owl, comme Turtle et Snake avant elle,
+abandonne la course.
+
+68
+00:03:08,890 --> 00:03:13,159
+Lors de la dernière élection que nous examinerons, les
+électeurs de Monkey et Tiger sont mécontents.  Ils aiment tous les deux
+
+69
+00:03:13,160 --> 00:03:17,179
+les candidats qu'ils ont soutenus, mais
+ils doivent faire des compromis.  Les électeurs des singes sont d'accord
+
+70
+00:03:17,180 --> 00:03:21,239
+avec Gorilla sur quelques points, mais ils
+n'aiment vraiment pas Leopard.  Les électeurs de Tiger sont d'accord avec
+
+71
+00:03:21,240 --> 00:03:24,549
+Leopard sur certaines questions, mais n'aiment vraiment pas
+Gorilla.
+
+72
+00:03:24,550 --> 00:03:27,749
+Ils abandonnent stratégiquement leur
+candidat préféré par peur que celui avec qui ils sont
+
+73
+00:03:27,750 --> 00:03:29,399
+le plus en désaccord devienne roi.
+
+74
+00:03:29,400 --> 00:03:34,199
+Les résultats finaux sont Leopard 49% et Gorilla
+51%, lui étant couronné roi.
+
+75
+00:03:34,200 --> 00:03:37,579
+Monkey et Tiger sont les derniers candidats à
+abandonner et maintenant le règne animal se retrouve
+
+76
+00:03:37,580 --> 00:03:39,779
+avec un système à deux partis.
+
+77
+00:03:39,780 --> 00:03:43,249
+En raison des électeurs centristes et influents de Hibou
+, lors des futures élections, Leopard pourrait
+
+78
+00:03:43,250 --> 00:03:47,018
+remporter la couronne, puis Gorilla la récupère
+, pour la perdre à nouveau deux Leopard, mais les
+
+79
+00:03:47,019 --> 00:03:48,839
+deux partis ne changent jamais.
+
+80
+00:03:48,840 --> 00:03:52,229
+Les citoyens du règne animal se sont retrouvés avec
+ce système, non pas parce qu'ils sont des électeurs paresseux
+
+81
+00:03:52,230 --> 00:03:55,579
+ou parce que c'est ce qu'ils voulaient vraiment, mais à
+cause des mathématiques de la façon dont le système
+
+82
+00:03:55,580 --> 00:03:56,699
+est mis en place.
+
+83
+00:03:56,700 --> 00:04:01,869
+Inévitablement, avec suffisamment de temps, tous
+les systèmes uninominaux à un tour tendent vers deux partis principaux.
+
+84
+00:04:01,870 --> 00:04:05,329
+Mais les choix des électeurs n'ont toujours pas
+changé depuis cette première élection.  Seuls les deux cinquièmes
+
+85
+00:04:05,330 --> 00:04:08,629
+d'entre eux veulent soit Leopard soit Gorilla
+comme premier choix et 3/5 d'entre eux veulent
+
+86
+00:04:08,630 --> 00:04:10,369
+quelqu'un d'autre comme premier choix.
+
+87
+00:04:10,370 --> 00:04:14,268
+C'est cette majorité d'électeurs qui se
+désintéresse du processus démocratique parce
+
+88
+00:04:14,269 --> 00:04:16,838
+qu'ils sentent qu'ils n'ont aucun moyen significatif d'exprimer
+leurs véritables préférences.
+
+89
+00:04:16,839 --> 00:04:21,179
+Mais ça ne fait qu'empirer à partir d'ici.  Si les citoyens
+d'Animal Kingdom sont divisés en groupes
+
+90
+00:04:21,180 --> 00:04:24,339
+avant de voter, ils sont sensibles au
+gerrymandering.
+
+91
+00:04:24,340 --> 00:04:28,569
+Gerrymandering est un peu délicat, mais imaginez
+un bloc de dix maisons chacune avec un électeur à l'intérieur.
+
+92
+00:04:28,570 --> 00:04:31,839
+Trois sont des électeurs Leopard, trois sont des
+électeurs Gorilla et quatre sont des électeurs Owl.
+
+93
+00:04:31,840 --> 00:04:35,539
+Si les électeurs sont divisés en groupes avant de
+voter, celui qui décide où les lignes
+
+94
+00:04:35,540 --> 00:04:38,439
+sont tracées a une énorme influence sur qui va
+gagner l'élection.
+
+95
+00:04:38,440 --> 00:04:42,739
+Par exemple, si vous regroupez les trois
+électeurs Léopard avec deux électeurs Hibou et faites de même
+
+96
+00:04:42,740 --> 00:04:47,059
+avec les trois électeurs gorille.  Vous pouvez éclairer le
+hibou de l'élection, même si les électeurs du hibou
+
+97
+00:04:47,060 --> 00:04:51,459
+ont la plus grande minorité et devraient gagner dans le cadre d'
+un vote uninominal à un tour.
+
+98
+00:04:51,460 --> 00:04:54,429
+Si les partis léopard et gorille sont en
+charge lorsque les limites de vote sont tracées,
+
+99
+00:04:54,430 --> 00:04:57,649
+ils ont une énorme incitation à se tailler des
+sièges sûrs pour eux-mêmes.
+
+100
+00:04:57,650 --> 00:04:59,859
+Mais plus sur Gerrymandering dans une autre vidéo.
+
+101
+00:04:59,860 --> 00:05:03,589
+Bah !  Vous dites, votez une tierce partie et changez le
+système !
+
+102
+00:05:03,590 --> 00:05:07,339
+Cela nous amène au problème final, et peut-être le
+pire, du First Past the Post : l'
+
+103
+00:05:07,340 --> 00:05:08,649
+effet de spoiler
+
+104
+00:05:08,650 --> 00:05:12,388
+Imaginez maintenant que cela fait des années et des années que
+règnent les gorilles et les léopards.
+
+105
+00:05:12,389 --> 00:05:16,109
+Tiger décide qu'il est temps d'entrer dans la course.
+Il pense que les électeurs en ont assez du
+
+106
+00:05:16,110 --> 00:05:18,489
+statu quo et qu'il a une chance de gagner.
+
+107
+00:05:18,490 --> 00:05:22,649
+Il installe son bureau de campagne, obtient une
+quantité surprenante d'or en dons et se rend sur
+
+108
+00:05:22,650 --> 00:05:25,679
+Animal News Network pour débattre avec les principaux
+candidats.
+
+109
+00:05:25,680 --> 00:05:30,049
+La nuit des élections arrive, mais hélas, Tiger
+n'obtient que 15% des voix – principalement des électeurs de Leopard
+
+110
+00:05:30,050 --> 00:05:33,698
+, qui sont les plus proches de lui sur l'
+échiquier politique.  Gorilla bat facilement Leopard et
+
+111
+00:05:33,699 --> 00:05:35,379
+devient roi.
+
+112
+00:05:35,380 --> 00:05:39,359
+Le système majoritaire uninominal à un tour à son pire
+: plus un candidat tiers réussit,
+
+113
+00:05:39,360 --> 00:05:43,138
+plus il nuit à ses propres électeurs en garantissant
+une défaite au parti avec lequel il est le plus d'accord
+
+114
+00:05:43,139 --> 00:05:45,379
+et une victoire au parti avec lequel il est en désaccord.
+
+115
+00:05:45,380 --> 00:05:49,909
+Et n'oubliez pas, Gorilla n'est pas dupe : il sait
+comment fonctionne le système.  Selon vous, d'où viennent certains
+
+116
+00:05:49,910 --> 00:05:52,509
+de ces dons d'or ?
+
+117
+00:05:52,510 --> 00:05:55,399
+Pendant ce temps, la reine lionne est mécontente.
+
+118
+00:05:55,400 --> 00:05:58,859
+Elle observe les élections et voit
+que le système est mauvais pour ses sujets.  Et
+
+119
+00:05:58,860 --> 00:06:01,849
+elle a pensé, qu'est-ce qui fait un bon
+système de vote ?  Eh bien...
+
+120
+00:06:01,850 --> 00:06:06,089
+Vous devriez pouvoir voter pour le candidat qui
+vous plaît le plus, sans vous inquiéter.
+
+121
+00:06:06,090 --> 00:06:08,259
+Plus de choix dans les représentants, c'est mieux.
+
+122
+00:06:08,260 --> 00:06:09,969
+Le système ne devrait pas être sensible au gerrymandering.
+
+123
+00:06:09,970 --> 00:06:13,379
+Et il devrait être ouvert à de nouveaux partis politiques.
+
+124
+00:06:13,380 --> 00:06:16,568
+Heureusement pour la reine, il existe plusieurs
+systèmes de vote différents, y compris
+
+125
+00:06:16,569 --> 00:06:20,549
+le vote alternatif.  Mais cela devra
+être discuté en détail à un autre moment.
+
+126
+00:06:20,550 --> 00:06:29,660
+Merci beaucoup d'avoir regardé.
+

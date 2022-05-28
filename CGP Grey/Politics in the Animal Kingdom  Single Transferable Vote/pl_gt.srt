@@ -1,0 +1,557 @@
+1
+00:00:00,459 --> 00:00:03,749
+Królowa Lew chce, aby wybory
+w jej królestwie zwierząt były bardziej uczciwe.
+
+2
+00:00:03,750 --> 00:00:07,789
+Obecnie dzieli swoich obywateli na szeregi,
+z których każdy wybiera jednego przedstawiciela
+
+3
+00:00:07,790 --> 00:00:10,808
+do rady dżungli, która ustanawia prawa
+dla królestwa.
+
+4
+00:00:10,809 --> 00:00:15,709
+Ale jej obywatele są nieszczęśliwi i
+łatwo zrozumieć dlaczego: w radzie jest pełno małp.
+
+5
+00:00:15,710 --> 00:00:18,838
+Oczywiście niektórzy z jej mieszkańców to małpy,
+ale nie wszyscy.
+
+6
+00:00:18,839 --> 00:00:21,629
+Ta rada nie reprezentuje sprawiedliwie jej
+królestwa.
+
+7
+00:00:21,630 --> 00:00:25,479
+Queen lion odwiedza jeden z zakresów, aby dowiedzieć
+się, co jest nie tak i jak to naprawić.
+
+8
+00:00:25,480 --> 00:00:30,658
+W tym zakresie jest pięć małp, cztery tygrysy,
+trzy sowy, dwa rysie i jeden bawół.
+
+9
+00:00:30,659 --> 00:00:34,869
+Jeden z każdego startuje na reprezentanta, a wszyscy
+obywatele głosują na swój gatunek.
+
+10
+00:00:34,870 --> 00:00:38,909
+Zasada wyborów jest taka, że
+a kandydat z największą liczbą głosów, czyli małpa.  Ale 
+
+11
+00:00:38,910 --> 00:00:43,959
+jest to dość niesatysfakcjonujący wynik, biorąc pod uwagę,
+że 2/3 obywateli w tym przedziale *nie jest*
+
+12
+00:00:43,960 --> 00:00:45,748
+małpami i nie głosowałoby na małpy.
+
+13
+00:00:45,749 --> 00:00:50,439
+Tak samo jest we wszystkich
+obszarach królestwa, małpy mają więcej głosów niż
+
+14
+00:00:50,440 --> 00:00:55,409
+ktokolwiek inny, więc wygrywają wszystkie wybory,
+mimo że stanowią mniejszość całej
+
+15
+00:00:55,410 --> 00:00:56,409
+populacji.
+
+16
+00:00:56,410 --> 00:01:00,049
+Bliższa inspekcja ujawnia, że niezależni dorad
+y zatrudnieni do wyznaczania granic zasięgu nie b
+
+17
+00:01:00,050 --> 00:01:03,678
+li tak niezależni, jak s
+ę początkowo wydaw
+
+18
+00:01:03,679 --> 00:01:07,629
+ło.  Rezultatem są niezadowoleni obywatele, którzy nie ufają
+radzie dżungli, że ustanowi najsprawiedliwsze prawa
+
+19
+00:01:07,630 --> 00:01:09,319
+dla wszystkich, całkiem słusznie.
+
+20
+00:01:09,320 --> 00:01:13,519
+Teraz Królowa Lew chce zmaksymalizować
+liczbę obywateli zadowolonych z wyników wyborów.
+
+21
+00:01:13,520 --> 00:01:17,078
+Jednym ze sposobów na to jest zniesienie granic
+i zastosowanie systemu proporcjonalnego...
+
+22
+00:01:17,079 --> 00:01:19,839
+...Ale jej obywatele *chcą* lokalnych przedstawicieli.
+
+23
+00:01:19,840 --> 00:01:24,109
+Tak więc królowa lew potrzebuje systemu, który uszczęśliwi
+jej obywateli, mając bardziej reprezentatywną
+
+24
+00:01:24,110 --> 00:01:27,429
+radę przy jednoczesnym utrzymaniu wyborów lokalnych.
+
+25
+00:01:27,430 --> 00:01:31,339
+Po przeprowadzeniu niewielkich badań dowiaduje się,
+jak: Pojedynczy głos zbywalny.
+
+26
+00:01:31,340 --> 00:01:36,429
+Dużą zmianą w przypadku STV jest to, że zakresy wysyłają
+więcej niż jednego przedstawiciela, co może wydawać się
+
+27
+00:01:36,430 --> 00:01:40,589
+dziwne, ale królowa lwa postanawia to przetestować:
+bierze trzy zakresy, z których każdy
+
+28
+00:01:40,590 --> 00:01:45,328
+wysyła jednego przedstawiciela, i łączy je
+w jeden większy zakres, który wyśle trzy  .
+
+29
+00:01:45,329 --> 00:01:49,849
+W dniu wyborów obywatele udają się do sondaży,
+a wyniki w nowym przedziale są takie
+
+30
+00:01:49,850 --> 00:01:53,339
+same, jak w starych przedziałach: 34% dla
+Małpy, 33% dla Sowy i 33% dla Lynxa.
+
+31
+00:01:53,340 --> 00:01:56,478
+Ale to nie jest większość głosów wygrywa: z STV, aby znaleźć
+zwycięzców, bierzemy całkowitą liczbę głosów
+
+32
+00:01:56,479 --> 00:02:02,389
+i dzielimy przez liczbę
+potrzebnych przedstawicieli, w tym przypadku 3, co daje 33%
+
+33
+00:02:02,390 --> 00:02:04,538
+jako kwotę, którą kandydat musi wygrać.
+
+34
+00:02:04,539 --> 00:02:08,788
+Tak więc *wszyscy trzej* kandydaci udają się do rady
+, która dokładnie reprezentuje obywateli
+
+35
+00:02:08,789 --> 00:02:09,829
+w zasięgu.
+
+36
+00:02:09,830 --> 00:02:13,419
+Podczas gdy w starym systemie każdy zasięg
+wysłałby małpę.
+
+37
+00:02:13,420 --> 00:02:15,939
+Pozostawienie 2/3 obywateli bez reprezentacji.
+
+38
+00:02:15,940 --> 00:02:20,579
+Większy zasięg z większą liczbą reprezentantów sprawia,
+że zasięg jest bardziej proporcjonalny.  Ten 
+
+39
+00:02:20,580 --> 00:02:24,829
+test wyszedł dobrze, ale był też
+tak prosty, jak tylko mógł — teraz Queen Lion
+
+40
+00:02:24,830 --> 00:02:27,889
+chce zobaczyć, co dzieje się w wyścigu, w którym nie każdy
+jest zwycięzcą.
+
+41
+00:02:27,890 --> 00:02:32,839
+Kolejny duży zakres, który testuje, ma pięciu kandydatów
+ubiegających się o urząd: Gorilla, Tasier, Monkey,
+
+42
+00:02:32,840 --> 00:02:36,279
+Tiger i Lynx, z których trzech może być przedstawicielami.
+
+43
+00:02:36,280 --> 00:02:40,579
+Dzień wyborów przychodzi i odchodzi, a
+oto wyniki pierwszych wyborów obywateli:
+
+44
+00:02:40,580 --> 00:02:43,499
+Tasier dostaje 5%
+Goryl dostaje 28%
+
+45
+00:02:43,500 --> 00:02:46,309
+Małpa dostaje 33%
+Tygrys dostaje 21%
+
+46
+00:02:46,310 --> 00:02:47,729
+Ryś dostaje 13%
+
+47
+00:02:47,730 --> 00:02:50,909
+Tak jak poprzednio, kandydat potrzebuje 33%, aby wygrać.
+
+48
+00:02:50,910 --> 00:02:55,069
+Małpa ma to, jako tako, zostaje od razu wybrana
+jako jeden z trzech reprezentantów.
+
+49
+00:02:55,070 --> 00:02:59,829
+Ale nikt inny nie osiągnął zwycięskich 33%, więc
+jak wybierani są pozostali dwaj reprezentanci?
+
+50
+00:02:59,830 --> 00:03:01,789
+Krok pierwszy: pozbądź się największego przegranego.
+
+51
+00:03:01,790 --> 00:03:04,229
+Przepraszam tasier - naprawdę nie miałeś żadnych
+szans.
+
+52
+00:03:04,230 --> 00:03:07,969
+Teraz, kiedy obywatele głosowali, mogli po
+prostu postawić X obok kandydata, który najbardziej im się podobał,
+
+53
+00:03:07,970 --> 00:03:12,499
+ale dzięki STV mogą również uszeregować swoich
+ulubionych kandydatów.
+
+54
+00:03:12,500 --> 00:03:16,519
+To ważne, bo pokazuje, jak
+wypadłyby wybory, gdyby jeden z
+
+55
+00:03:16,520 --> 00:03:18,029
+kandydatów nie wystartował.
+
+56
+00:03:18,030 --> 00:03:22,719
+Tiny and Worried Tasiers głosowaliby
+na wielkiego spokojnego goryla bez tasier
+
+57
+00:03:22,720 --> 00:03:23,719
+w wyścigu.
+
+58
+00:03:23,720 --> 00:03:28,049
+Więc jeśli ich kandydat nie może wygrać, chcą, aby
+jego głosy trafiły do
+
+59
+00:03:28,050 --> 00:03:32,369
+.  To popycha goryla do 33% i staje
+się kolejnym reprezentantem.
+
+60
+00:03:32,370 --> 00:03:36,219
+Ranking pozwala obywatelom bez obaw wspierać swojego ulubionego
+kandydata – nie ma
+
+61
+00:03:36,220 --> 00:03:38,729
+sensu planować sposobu, w jaki wszyscy
+będą głosować.
+
+62
+00:03:38,730 --> 00:03:42,289
+System działa tak, aby zmaksymalizować zadowolenie wyborców
+z rezultatem.
+
+63
+00:03:42,290 --> 00:03:46,589
+Wracając do zakresu: wciąż pozostaje jeden przedstawiciel
+do wyboru, więc kolejnym największym przegranym jest Lynx.
+
+64
+00:03:46,590 --> 00:03:50,169
+Jego wyborcy nie lubią małp, ale uważają,
+że interesy tygrysa są podobne do ich
+
+65
+00:03:50,170 --> 00:03:53,249
+, więc jeśli Lynx nie może wygrać, chcą, aby
+miał ich głosy.
+
+66
+00:03:53,250 --> 00:03:57,259
+Tiger osiąga 33% i zostaje trzecim
+i ostatnim reprezentantem.
+
+67
+00:03:57,260 --> 00:04:02,009
+Wynik wyborów wygląda całkiem nieźle, zwłaszcza
+biorąc pod uwagę pierwsze *i* wybory obywateli.
+
+68
+00:04:02,010 --> 00:04:06,569
+Teraz więcej obywateli ma przedstawiciela lokalnego, do
+którego mogą się swobodnie podejść, podczas gdy
+
+69
+00:04:06,570 --> 00:04:09,479
+w starym systemie każdy dostaje małpę.
+
+70
+00:04:09,480 --> 00:04:13,509
+Wreszcie królowa lew chce wiedzieć, co dzieje się
+w zasięgu tylko dwóch partii politycznych.
+
+71
+00:04:13,510 --> 00:04:17,078
+W systemie, w którym większość głosów wygrywa, wielu
+kandydatów z tej samej partii
+
+72
+00:04:17,079 --> 00:04:20,898
+byłoby katastrofą: podzieliliby swoich wyborców i
+przekazali zwycięstwo opozycji.
+
+73
+00:04:20,899 --> 00:04:26,239
+Królowa lwów wykonuje ostatni test z
+2/3 tygrysami i 1/3 gorylami, które jak poprzednio
+
+74
+00:04:26,240 --> 00:04:28,008
+potrzebują trzech przedstawicieli.
+
+75
+00:04:28,009 --> 00:04:33,468
+Dzięki temu, że obywatele STV oceniają swoich kandydatów, w
+tym samym czasie może startować więcej niż
+
+76
+00:04:33,469 --> 00:04:36,359
+jeden kandydat.
+
+77
+00:04:36,360 --> 00:04:40,138
+Tygrysy mają dwóch kandydatów, podobnie jak goryle.
+
+78
+00:04:40,139 --> 00:04:52,929
+Pierwszym przedstawicielem zostaje biały tygrys,
+ale co dalej?
+
+79
+00:04:52,930 --> 00:04:57,869
+Chociaż tygrys wydaje się być największym przegranym,
+oczywiste jest również, że zdobyłby
+
+80
+00:04:57,870 --> 00:05:01,249
+znacznie więcej głosów, gdyby białego tygrysa nie było w
+wyścigu.
+
+81
+00:05:01,250 --> 00:05:05,818
+Jeśli kandydat ma więcej głosów niż potrzebuje,
+jak ma to miejsce w przypadku białego tygrysa, pierwszym krokiem jest
+
+82
+00:05:05,819 --> 00:05:08,758
+oddanie dodatkowych głosów drugiemu wyborowi.
+
+83
+00:05:08,759 --> 00:05:12,688
+To doprowadza tygrysa do 33% i staje się
+kolejnym reprezentantem.
+
+84
+00:05:12,689 --> 00:05:14,859
+Jeśli wydaje się to dziwne, należy
+wziąć pod uwagę dwie rzeczy:
+
+85
+00:05:14,860 --> 00:05:18,609
+1) Jeśli zamiast tego dodatkowe głosy zostałyby zignorowane,
+a tygrys wyeliminowany, to goryle
+
+86
+00:05:18,610 --> 00:05:23,089
+otrzymałyby pozostałe dwie wygrane, które oczywiście
+nie odzwierciedlałyby zakresu.
+
+87
+00:05:23,090 --> 00:05:27,739
+2) Ignorowanie tych „dodatkowych” głosów karze
+obywateli, którzy poparli popularnego kandydata,
+
+88
+00:05:27,740 --> 00:05:32,859
+co sprawia, że wyborcy zaczynają myśleć o tym, jak będ�
+ głosować wszyscy inni, a nie o tym, czego
+
+89
+00:05:32,860 --> 00:05:34,089
+naprawdę chcą
+
+90
+00:05:34,090 --> 00:05:39,009
+  Jeśli kandydat dostaje w pierwszej kolejności dodatkowe głosy,
+oznacza to również, że ci, którzy na niego głosowali,
+
+91
+00:05:39,010 --> 00:05:44,499
+stanowią dużą część populacji, a
+zatem uczciwie powinni uzyskać większą reprezentację.
+
+92
+00:05:44,500 --> 00:05:48,908
+Po prawej: po tym, jak dodatkowe głosy trafiają do tygrysa
+, wybory kończą się jak poprzednio: Silverback
+
+93
+00:05:48,909 --> 00:05:52,969
+zajął ostatnie miejsce, został wyeliminowany, a
+drugim wyborem jego wyborców jest młodszy kandydat, więc
+
+94
+00:05:52,970 --> 00:05:54,288
+goryl dostaje się do
+
+95
+00:05:54,289 --> 00:05:55,788
+akcji. A wyniki są uczciwe.
+
+96
+00:05:55,789 --> 00:05:57,879
+Queen Lion widziała teraz pracę STV.
+
+97
+00:05:57,880 --> 00:06:02,198
+Niezależnie od tego, czy szereg ma jedną partię, czy partię,
+proces jest nadal taki sam:
+
+98
+00:06:02,199 --> 00:06:03,198
+1.
+
+99
+00:06:03,199 --> 00:06:04,549
+Obywatele klasyfikują swoich ulubionych kandydatów.
+
+100
+00:06:04,550 --> 00:06:05,549
+2.
+
+101
+00:06:05,550 --> 00:06:07,299
+Każdy kandydat powyżej progu wygrywa natychmiast,
+3.
+
+102
+00:06:07,300 --> 00:06:09,499
+„Dodatkowe” głosy przechodzą do kolejnego wyboru.
+
+103
+00:06:09,500 --> 00:06:10,499
+4.
+
+104
+00:06:10,500 --> 00:06:13,679
+Jeśli nie ma zwycięzcy, ostatnie miejsce jest eliminowane,
+a głosy do następnego wyboru.
+
+105
+00:06:13,680 --> 00:06:14,679
+5.
+
+106
+00:06:14,680 --> 00:06:16,598
+Powtarzaj, aż znajdą się wszyscy zwycięzcy.
+
+107
+00:06:16,599 --> 00:06:20,658
+Cały ten proces ma na celu
+maksymalizację liczby obywateli, którzy są zadowoleni
+
+108
+00:06:20,659 --> 00:06:21,658
+z wyniku.
+
+109
+00:06:21,659 --> 00:06:25,869
+Ten proces daje STV wiele zalet w
+porównaniu ze starym systemem, w którym większość głosów wygrywa:
+
+110
+00:06:25,870 --> 00:06:26,869
+1.
+
+111
+00:06:26,870 --> 00:06:29,628
+Obywatele mogą uczciwie głosować na swojego ulubionego
+kandydata, nie martwiąc się o to,
+
+112
+00:06:29,629 --> 00:06:30,668
+co zrobią wszyscy inni.
+
+113
+00:06:30,669 --> 00:06:31,668
+2.
+
+114
+00:06:31,669 --> 00:06:32,668
+Jest bardziej proporcjonalny.
+
+115
+00:06:32,669 --> 00:06:34,348
+Więc małpowanie z granicami ma mniejsze znaczenie.
+
+116
+00:06:34,349 --> 00:06:35,348
+3.
+
+117
+00:06:35,349 --> 00:06:39,189
+Prawie wszyscy obywatele będą mieli lokalnego przedstawiciela, na
+którego faktycznie głosowali.
+
+118
+00:06:39,190 --> 00:06:42,969
+W końcu Królowa Lew postanawia zmienić
+wybory do rady na Pojedynczy Głos Przekazywalny,
+
+119
+00:06:42,970 --> 00:06:45,649
+aby stworzyć lepszą radę w dżungli dla wszystkich.
+

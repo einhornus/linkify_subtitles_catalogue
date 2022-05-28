@@ -1,0 +1,620 @@
+1
+00:00:00,489 --> 00:00:07,668
+Ehi, Vsauce.  Michele qui.  E oggi
+andremo all'interno di un buco nero.  Non
+
+2
+00:00:07,669 --> 00:00:13,208
+sarà comodo, ma sarà piuttosto
+divertente.  Ora, la prima cosa è prima: matematicamente
+
+3
+00:00:13,209 --> 00:00:19,069
+parlando, qualsiasi cosa potrebbe diventare un buco nero,
+se lo dovessi comprimere in uno spazio sufficientemente piccolo
+
+4
+00:00:19,070 --> 00:00:24,959
+.  Esatto, tu, io, questa telecamera -
+tutto nell'universo ha quello che è noto
+
+5
+00:00:24,960 --> 00:00:31,969
+come un "raggio di Schwarzschild".  Una minuscola, minuscola quantità
+di spazio in cui, se dovessi far crollare l'intera
+
+6
+00:00:31,970 --> 00:00:38,249
+massa dell'oggetto, la sua densità
+sarebbe così grande che la sua attrazione gravitazionale
+
+7
+00:00:38,250 --> 00:00:45,119
+sarebbe così grande che nemmeno la luce potrebbe fuoriuscire
+da esso.  Avresti un buco nero.
+
+8
+00:00:45,120 --> 00:00:50,279
+Se dovessi comprimere l'Everest in
+qualcosa di più piccolo di un nanometro,
+
+9
+00:00:50,280 --> 00:00:56,269
+avresti un buco nero.  E se dovessi comprimere
+l'intera Terra fino alle dimensioni di una nocciolina,
+
+10
+00:00:56,270 --> 00:00:57,779
+avresti un buco nero.
+
+11
+00:00:57,780 --> 00:01:03,529
+Ma, fortunatamente per noi, non esiste un
+modo noto per comprimere l'Everest o la Terra in quel modo.
+
+12
+00:01:03,530 --> 00:01:09,858
+Ma una stella, molte, molte, molte volte più
+grande del nostro Sole, ha un raggio di Schwartzchild molto più
+
+13
+00:01:09,859 --> 00:01:15,569
+grande, e quando esaurisce il carburante e
+non riesce più a mantenersi abbastanza calda, collassa
+
+14
+00:01:15,570 --> 00:01:20,879
+in un unico punto infinitamente piccolo conosciuto.
+come una "singolarità".
+
+15
+00:01:20,880 --> 00:01:25,468
+La sua densità sarà infinita e quindi la sua
+attrazione gravitazionale sarà così forte che
+
+16
+00:01:25,469 --> 00:01:29,078
+nulla potrà sfuggire, nemmeno la luce.
+
+17
+00:01:29,079 --> 00:01:34,839
+Ma abbastanza sui modi in cui si formano i buchi neri,
+entriamo in uno.  Prima domanda:
+
+18
+00:01:34,840 --> 00:01:41,839
+come sarebbe dall'esterno?  Ebbene, sappiamo
+che i campi gravitazionali piegano lo spazio e il tempo.
+
+19
+00:01:41,840 --> 00:01:46,849
+Le stelle dietro il nostro Sole sembreranno
+effettivamente essere in posizioni leggermente diverse dalla
+
+20
+00:01:46,850 --> 00:01:52,459
+Terra, perché il campo gravitazionale del Sole
+piega la luce proveniente da quelle stelle.
+
+21
+00:01:52,460 --> 00:01:57,578
+Quando si tratta dei campi gravitazionali
+di oggetti più grandi, come intere galassie o, se è
+
+22
+00:01:57,579 --> 00:02:02,548
+per questo, un buco nero, l'effetto
+è ancora più folle.  La luce proveniente dagli oggetti
+
+23
+00:02:02,549 --> 00:02:07,849
+dietro di loro è notevolmente distorta,
+producendo sbavature e sbavature.
+
+24
+00:02:07,850 --> 00:02:13,969
+Vista dalla Terra, la galassia blu dietro
+questa galassia rossa è completamente distorta, come
+
+25
+00:02:13,970 --> 00:02:19,299
+un divertente specchio domestico.  Quindi, invece di apparire
+come dovrebbe, a noi sembra un anello,
+
+26
+00:02:19,300 --> 00:02:22,759
+una macchia intorno alla galassia rossa.
+
+27
+00:02:22,760 --> 00:02:28,239
+Questo è noto come "lenti gravitazionali".
+Ora, dai un'occhiata a questa simulazione di un
+
+28
+00:02:28,240 --> 00:02:33,209
+buco nero con una galassia a milioni di anni luce
+dietro di esso.  La galassia non è davvero in pericolo
+
+29
+00:02:33,210 --> 00:02:39,189
+di "risucchio" del buco nero, ma la luce
+che esce da quella galassia lo è certamente.  Guarda
+
+30
+00:02:39,190 --> 00:02:45,549
+come la galassia passa dietro il buco nero
+e la sua luce è contorta, contorta e
+
+31
+00:02:45,550 --> 00:02:47,099
+distorta.
+
+32
+00:02:47,100 --> 00:02:48,639
+Ora ecco una dimostrazione davvero divertente.
+
+33
+00:02:48,640 --> 00:02:54,689
+E se la Terra dovesse orbitare attorno a un
+buco nero?  Guardando dall'esterno, la Terra all'inizio
+
+34
+00:02:54,690 --> 00:02:58,909
+sembrerebbe normale, ma non
+appena passa dietro il buco nero, il
+
+35
+00:02:58,910 --> 00:03:02,899
+campo gravitazionale del buco nero deforma la
+luce riflessa dalla Terra, producendo
+
+36
+00:03:02,900 --> 00:03:04,999
+questo.
+
+37
+00:03:05,000 --> 00:03:09,889
+Per semplicità, saltiamo in
+un semplice buco nero, uno che non
+
+38
+00:03:09,890 --> 00:03:14,639
+ha carica e non si muove.  E, inoltre, non sta
+già risucchiando un sacco di materia.  Quindi
+
+39
+00:03:14,640 --> 00:03:16,559
+è lì da solo.
+
+40
+00:03:16,560 --> 00:03:22,449
+Man mano che ci avviciniamo, la distorsione del cielo
+diventa sempre più grande.  Una
+
+41
+00:03:22,450 --> 00:03:28,249
+porzione sempre più ampia del nostro campo visivo che guarda
+in avanti nel buco nero sarà piena di oscurità.
+
+42
+00:03:28,250 --> 00:03:32,679
+A questo punto, dove metà del nostro campo
+visivo è stato inghiottito dall'oscurità,
+
+43
+00:03:32,680 --> 00:03:35,259
+abbiamo raggiunto la "Sfera Fotonica".
+
+44
+00:03:35,260 --> 00:03:40,369
+A questo punto, la luce non verrà
+necessariamente risucchiata nel buco nero, ma non
+
+45
+00:03:40,370 --> 00:03:46,619
+necessariamente lo lascerà.  Invece, in questo
+punto magico dello spazio, la luce, i fotoni, possono
+
+46
+00:03:46,620 --> 00:03:49,479
+effettivamente orbitare attorno al buco nero.
+
+47
+00:03:49,480 --> 00:03:53,559
+Se dovessi fermarti qui per un momento e
+guardare di lato, potresti teoricamente
+
+48
+00:03:53,560 --> 00:03:58,589
+vedere la parte posteriore della tua testa, perché la luce che si
+riflette sulla parte posteriore della tua testa
+
+49
+00:03:58,590 --> 00:04:03,879
+viaggerebbe tutto intorno alla sfera del
+buco nero, proprio dietro  alla tua faccia.
+
+50
+00:04:03,880 --> 00:04:10,649
+Un campo gravitazionale non solo deforma lo spazio
+, ma deforma anche il tempo.  Ora, per gli scopi più intensivi
+
+51
+00:04:10,650 --> 00:04:15,189
+qui sulla Terra, non dobbiamo mai preoccuparci
+di questo.  Ma vicino a un buco nero, la gravità
+
+52
+00:04:15,190 --> 00:04:19,917
+sarebbe così forte che un osservatore in piedi,
+guardandoti saltare nel buco, vedrebbe
+
+53
+00:04:19,918 --> 00:04:25,369
+qualcosa di abbastanza strano.  Non vedrebbero
+che vieni risucchiato velocemente nel buco.  Invece
+
+54
+00:04:25,370 --> 00:04:31,508
+, vedrebbero il tuo approccio diventare più lento, sempre più
+lento, sempre più lento, fino a raggiungere
+
+55
+00:04:31,509 --> 00:04:35,008
+un punto noto come orizzonte dell'evento.
+
+56
+00:04:35,009 --> 00:04:41,318
+Questo è un punto nello spazio dove, una volta attraversato,
+non si torna indietro.  È a quel punto
+
+57
+00:04:41,319 --> 00:04:46,568
+che la luce non può più scappare.  E, quindi,
+per una persona che ti guarda cadere nel buco,
+
+58
+00:04:46,569 --> 00:04:51,739
+quello sarebbe il punto in cui il tuo viaggio sarebbe finito.
+Sembreresti quasi congelato nello spazio, la luce che
+
+59
+00:04:51,740 --> 00:04:58,279
+esce dal tuo corpo diventa sempre più
+spostata verso il rosso fino a svanire semplicemente nel nulla.
+
+60
+00:04:58,280 --> 00:05:02,419
+Non ti vedrebbero mai attraversare l'orizzonte degli eventi.
+
+61
+00:05:02,420 --> 00:05:05,499
+Ma per te, ovviamente, tutto sembrerebbe
+a posto e dandy.  Continueresti a superare
+
+62
+00:05:05,500 --> 00:05:11,448
+quell'orizzonte fino alla tua ora, inevitabile, morte.
+Mentre continui ad avvicinarti alla singolarità del buco nero
+
+63
+00:05:11,449 --> 00:05:16,388
+, la tua visione dell'intero universo
+verrebbe compressa in un
+
+64
+00:05:16,389 --> 00:05:18,309
+punto sempre più piccolo nello spazio dietro di te.
+
+65
+00:05:18,310 --> 00:05:22,968
+Se il buco nero in cui stiamo saltando fosse
+abbastanza grande, le cose in realtà potrebbero essere abbastanza comode
+
+66
+00:05:22,969 --> 00:05:27,359
+in quell'orizzonte degli eventi.  Sapremo che non riusciremo
+mai a scappare e che le nostre vite sono
+
+67
+00:05:27,360 --> 00:05:31,918
+praticamente finite, ma potrebbero volerci ore
+per raggiungere effettivamente un punto in cui le cose hanno iniziato
+
+68
+00:05:31,919 --> 00:05:33,059
+a fare male.
+
+69
+00:05:33,060 --> 00:05:37,388
+Perché dovrebbero ferire?  Bene, più ti avvicini
+alla singolarità, più significativa è la
+
+70
+00:05:37,389 --> 00:05:42,559
+differenza nell'attrazione gravitazionale attraverso lo
+spazio.  E, così, le parti di me che sono più vicine
+
+71
+00:05:42,560 --> 00:05:47,369
+alla singolarità verrebbero tirate più fortemente
+delle parti che sono rivolte dall'altra parte e tutto il mio
+
+72
+00:05:47,370 --> 00:05:54,609
+corpo sarebbe teso verso la singolarità.
+L'effetto sarebbe così incredibile, gli scienziati di
+
+73
+00:05:54,610 --> 00:05:58,889
+solito non lo chiamano stretching, lo
+chiamano "spaghettificazione".
+
+74
+00:05:58,890 --> 00:06:04,049
+Una volta raggiunto questo punto, saresti morto.
+Le tue molecole verrebbero violentemente strappate e
+
+75
+00:06:04,050 --> 00:06:09,649
+divaricate, e quando arrivassero alla
+singolarità, beh, non sappiamo davvero cosa
+
+76
+00:06:09,650 --> 00:06:14,198
+accadrebbe.  Forse
+scomparirebbero completamente in violazione di tutte le leggi della
+
+77
+00:06:14,199 --> 00:06:19,109
+fisica o forse riapparirebbero altrove
+nell'universo.  Si ritiene che un
+
+78
+00:06:19,110 --> 00:06:24,769
+buco nero in movimento o rotante possa effettivamente creare
+quello che è noto come un "wormhole", un modo per
+
+79
+00:06:24,770 --> 00:06:30,119
+attraversare lo spazio più velocemente della luce.  Non in alcun
+modo che violi le leggi della scienza, ma
+
+80
+00:06:30,120 --> 00:06:34,019
+in un modo che sfrutti le
+dimensioni dell'universo.
+
+81
+00:06:34,020 --> 00:06:38,959
+Ad esempio, se volessi andare da questo
+punto a questo punto, dovrei percorrere la
+
+82
+00:06:38,960 --> 00:06:45,959
+distanza.  Ma, in teoria, un wormhole
+farebbe qualcosa di veramente folle.  Ad esempio, questo.
+
+83
+00:06:45,960 --> 00:06:49,758
+Ora, i due punti sono uno accanto
+all'altro e posso viaggiare tra di loro quasi
+
+84
+00:06:49,759 --> 00:06:51,399
+istantaneamente.
+
+85
+00:06:51,400 --> 00:06:56,639
+Ma, ancora una volta, questo è tutto teorico.  Fortunatamente,
+abbiamo un possibile modo per analizzare i
+
+86
+00:06:56,640 --> 00:07:01,779
+buchi neri proprio qui sulla Terra.  Inserisci il "Dumbhole".
+
+87
+00:07:01,780 --> 00:07:07,979
+Proprio come un buco nero non permette
+alla luce di fuoriuscire, un Dumbhole è un buco nero acustico
+
+88
+00:07:07,980 --> 00:07:14,878
+.  Non permetterà al suono di fuoriuscire.  Non
+deve essere per forza altrettanto potente e gli scienziati
+
+89
+00:07:14,879 --> 00:07:20,968
+sono stati in grado di creare Dumbholes nei laboratori
+utilizzando fluidi speciali che viaggiano alla velocità
+
+90
+00:07:20,969 --> 00:07:21,579
+del suono.
+
+91
+00:07:21,580 --> 00:07:26,179
+Sono ancora necessari molti progressi
+nel mondo dei buchi neri acustici, ma
+
+92
+00:07:26,180 --> 00:07:30,848
+potremmo essere in grado di apprendere un'incredibile quantità di
+informazioni su come funzionano i buchi neri
+
+93
+00:07:30,849 --> 00:07:33,568
+osservando come viene trattato il suono in un Dumbhole.
+
+94
+00:07:33,569 --> 00:07:39,278
+Ora ecco un'altra buona domanda:
+come sarebbe viaggiare alla velocità della luce,
+
+95
+00:07:39,279 --> 00:07:44,338
+diciamo, verso il Sole?  Beh, sorprendentemente
+, non vedresti semplicemente il Sole correre
+
+96
+00:07:44,339 --> 00:07:50,918
+immediatamente verso di te.  No, no, no.  In effetti, inizialmente
+, sembrerebbe quasi come se il Sole si stesse
+
+97
+00:07:50,919 --> 00:07:57,378
+allontanando da te.  Come mai?  Perché il tuo campo
+visivo aumenterebbe notevolmente di dimensioni.
+
+98
+00:07:57,379 --> 00:08:01,338
+Saresti in grado di vedere cose quasi dietro di te.
+Ed ecco perché.
+
+99
+00:08:01,339 --> 00:08:05,788
+Mentre sei seduto lì, senza muoverti ancora, a guardare
+il Sole, c'è una luce proveniente dalle cose
+
+100
+00:08:05,789 --> 00:08:11,508
+dietro di te.  Ma, se viaggi alla velocità della
+luce, raggiungerai effettivamente quella luce
+
+101
+00:08:11,509 --> 00:08:16,598
+proveniente dalle cose dietro di te.  Quando raggiungevi la
+velocità della luce, il tuo campo visivo si espandeva in
+
+102
+00:08:16,599 --> 00:08:19,649
+questo modo, concentrando le cose nel
+mezzo.
+
+103
+00:08:19,650 --> 00:08:26,598
+Ma dove sei nell'universo?  Oppure, ecco
+una domanda migliore.  Dov'è il
+
+104
+00:08:26,599 --> 00:08:32,439
+centro dell'universo?  Bene, questo potrebbe sembrare pazzesco,
+ma è ovunque.  Questo è noto come il
+
+105
+00:08:32,440 --> 00:08:38,197
+"Principio Cosmologico".  Non importa dove
+ti trovi nell'universo, tutto il resto
+
+106
+00:08:38,198 --> 00:08:42,808
+sembrerà allontanarsi da te, espandendosi,
+alla stessa velocità.
+
+107
+00:08:42,809 --> 00:08:47,148
+L'universo si sta espandendo, ma non come un
+pallone che si ingrandisce con tutte le persone
+
+108
+00:08:47,149 --> 00:08:52,698
+al suo interno.  Invece, è come se fossimo la
+superficie di un palloncino.  Se dovessi mettere un
+
+109
+00:08:52,699 --> 00:08:56,659
+mucchio di punti su un palloncino e poi farlo
+esplodere, tutti i punti si allontanerebbero l'uno
+
+110
+00:08:56,660 --> 00:09:01,719
+dall'altro alla stessa velocità.  E, sulla superficie
+del pallone, non c'è un centro.
+
+111
+00:09:01,720 --> 00:09:06,479
+Dai un'occhiata a questi due strati.  Sono
+esattamente simili, tranne per il fatto che lo strato superiore rappresenta
+
+112
+00:09:06,480 --> 00:09:09,679
+un'espansione del 5% dello strato inferiore.
+
+113
+00:09:09,680 --> 00:09:14,698
+Diciamo che vivi su uno di questi punti
+e vuoi misurare da dove tutto si
+
+114
+00:09:14,699 --> 00:09:20,888
+sta allontanando.  Bene, guarda cosa succede
+quando allineo un punto nel passato e nel presente.
+
+115
+00:09:20,889 --> 00:09:29,518
+Boom.  Sembra il centro dell'espansione.
+Posso farlo con qualsiasi punto.  Non appena scelgo
+
+116
+00:09:29,519 --> 00:09:35,429
+un punto come quadro di riferimento, diventa immediatamente
+il centro dell'espansione.
+
+117
+00:09:35,430 --> 00:09:41,758
+Quindi, mentre morire in un buco nero sarebbe solo,
+spaventoso e morboso, quando guardi
+
+118
+00:09:41,759 --> 00:09:46,499
+in cielo pensa invece a questo.  Non importa
+dove tu sia, o chi tu sia, o quali siano i tuoi
+
+119
+00:09:46,500 --> 00:09:54,879
+amici oi tuoi genitori, tu davvero,
+scientificamente, sei il centro dell'universo.
+
+120
+00:09:54,880 --> 00:10:02,049
+Infine, e se il nostro universo fosse un googolplex di
+diversi metri?  Non è neanche lontanamente così grande.
+
+121
+00:10:02,050 --> 00:10:07,889
+Ma, se lo fosse, sarebbe così voluminoso
+che, statisticamente, sarebbe quasi impossibile
+
+122
+00:10:07,890 --> 00:10:14,619
+che non ci sia una tua copia esatta da qualche
+altra parte nell'universo.  Per capire perché,
+
+123
+00:10:14,620 --> 00:10:19,749
+ti consiglio vivamente di fare clic proprio lì
+e controllare il nuovo canale "Numberphile" di Brady Haran.
+
+124
+00:10:19,750 --> 00:10:23,429
+Fa parte del canale originale di YouTube
+e ho già lavorato con questi ragazzi.  Sono
+
+125
+00:10:23,430 --> 00:10:27,749
+fantastici, sono il mio tipo preferito di secchioni.
+Quindi, guarda quel video, guarda le loro altre
+
+126
+00:10:27,750 --> 00:10:31,119
+cose e, se ti piace la matematica,
+ti consiglio vivamente di iscriverti.
+
+127
+00:10:31,120 --> 00:10:31,979
+E come sempre,
+
+128
+00:10:31,980 --> 00:10:33,460
+grazie per la visione.
+

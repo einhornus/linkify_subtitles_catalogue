@@ -1,0 +1,284 @@
+1
+00:00:00,250 --> 00:00:00,978
+Hallo internet.
+
+2
+00:00:00,979 --> 00:00:05,059
+Het Verenigd Koninkrijk had een verkiezing waar we over moeten praten, want na de debatten,
+
+3
+00:00:05,060 --> 00:00:07,778
+het stemmen en optellen van de stembiljetten zag het resultaat er zo uit:
+
+4
+00:00:07,779 --> 00:00:10,259
+Terwijl de verdeling in het parlement er zo uit kwam te zien:
+
+5
+00:00:10,260 --> 00:00:14,899
+Dit is enigzins niet representatief en met enigzins niet bedoel ik absoluut niet.
+
+6
+00:00:14,900 --> 00:00:19,608
+Rood kreeg 30% van de stemmen en 36% van de zetels wat soort van klopt maar de rest
+
+7
+00:00:19,609 --> 00:00:24,698
+ziet er niet uit. Oranje kreeg 8% en maar een achtste ervan aan zetels terwijl Geels 5%
+
+8
+00:00:24,699 --> 00:00:28,278
+verdubbelde en paars 13% verdiende en nop kreeg.
+
+9
+00:00:28,279 --> 00:00:33,669
+Ondertussen steeg Blauws 37% van de stemmen naar 51% van de zetels in het parlement. En die
+
+10
+00:00:33,670 --> 00:00:38,869
+winst is zelfs groter aangezien dat 51% van de zetels je 100% van de
+
+11
+00:00:38,870 --> 00:00:39,799
+controle geeft.
+
+12
+00:00:39,800 --> 00:00:40,529
+Hoe kon dit gebeuren?
+
+13
+00:00:40,530 --> 00:00:45,049
+In het VK zijn nationale verkiezingen niet echt nationaal. Het zijn een boel lokale verkiezingen.
+
+14
+00:00:45,050 --> 00:00:49,709
+Het VK is verdeeld in districten, waarvan elk een parlementariër (M.P.) kiest
+
+15
+00:00:49,710 --> 00:00:54,218
+om hen te vertegenwoordigen. Deze verdeling tussen lokaal/nationaal is waar de problemen beginnen.
+
+16
+00:00:54,219 --> 00:00:58,339
+Stel je een parlement voor met maar drie districten en je ziet snel hoe zo'n systeem niet altijd
+
+17
+00:00:58,340 --> 00:01:03,159
+overeenkomt met het volk. Sommige mensen denken dat dat prima is, "het draait om
+
+18
+00:01:03,160 --> 00:01:07,199
+het winnen van lokale verkiezingen" zullen ze zeggen. "Elke M.P. vertegenwoordigt zijn eigen district"
+
+19
+00:01:07,200 --> 00:01:11,919
+En hoewel de afwijking in dit voorbeeld overdreven is, gebeurt hetzelfde probleem in de echte
+
+20
+00:01:11,920 --> 00:01:16,429
+verkiezing en hetzelfde argument wordt gegeven, maar er zijn nog twee problemen in
+
+21
+00:01:16,430 --> 00:01:17,539
+het land van realiteit.
+
+22
+00:01:17,540 --> 00:01:23,118
+1) Maar weinig burgers weten wie hun M.P. is, ze weten alleen voor welke partij ze hebben gestemd
+
+23
+00:01:23,119 --> 00:01:27,959
+-- welke partij ze als vertegenwoordiger willen op het nationale niveau. En doen alsof
+
+24
+00:01:27,960 --> 00:01:33,749
+het een lokale verkiezing is, is nogal oneerlijk. In de praktijk is het een verkiezing voor hoe
+
+25
+00:01:33,750 --> 00:01:38,429
+het land bestuurd wordt, niet wie de vertegenwoordiger wordt van een klein stuk ervan.
+
+26
+00:01:38,430 --> 00:01:39,099
+En zelfs als dat het geval was
+
+27
+00:01:39,100 --> 00:01:43,898
+2) de districten zijn zelfs slechter in het vertegenwoordigen van hun burgers dan het parlement.
+
+28
+00:01:43,899 --> 00:01:46,449
+Excuseer deze van Excel sheets houdende nerd voor een moment alstublieft.
+
+29
+00:01:46,450 --> 00:01:49,849
+Het verschil tussen wat een partij verdiend aan stemmen en wat een partij krijgt aan zetels
+
+30
+00:01:49,850 --> 00:01:52,589
+is de afwijking in mis-vertegenwoordiging.
+
+31
+00:01:52,590 --> 00:01:56,669
+Als we alle afwijkingen berekenen voor alle partijen en ze allemaal optellen dan kunnen we zeggen dat het parlement
+
+32
+00:01:56,670 --> 00:02:03,489
+bij elkaar genomen 47% aan mis-vertegenwoordiging heeft. Dat klinkt erg maar is een utopische
+
+33
+00:02:03,490 --> 00:02:08,738
+regenboog aan diversiteit vergeleken met de lokale verkiezing want lokale verkiezingen hebben
+
+34
+00:02:08,739 --> 00:02:17,669
+maar 1 winnaar. Van de 650 districten hebben 647 een hogere afwijking dan
+
+35
+00:02:17,670 --> 00:02:22,429
+het parlement. Dit zijn de enige drie die dat niet hebben en die zijn erg ongebruikelijk voor het hebben
+
+36
+00:02:22,430 --> 00:02:26,269
+van zoveel kiezers van slechts een partij in een district.
+
+37
+00:02:26,270 --> 00:02:32,458
+de meeste plekken zien er uit als The Wrekin, die precies in het midden is, met honderd-en-een punten verschil.
+
+38
+00:02:32,459 --> 00:02:37,199
+Maar, de winnende kandidaat kreeg hier geen meerderheid. Wat betekend dat
+
+39
+00:02:37,200 --> 00:02:41,469
+meer dan de helft van de districten hun MP met een minderheid hebben verkozen.
+
+40
+00:02:41,470 --> 00:02:47,659
+De ergste is Belfast South, onderaan de lijst. Hilarisch onrepresentatief. Minder dan
+
+41
+00:02:47,660 --> 00:02:51,909
+een kwart van de stemmers spreken voor het hele district in het parlement. Dit is
+
+42
+00:02:51,910 --> 00:02:56,119
+het laagste percentage ooit waar een MP mee is verkozen.
+
+43
+00:02:56,120 --> 00:02:59,818
+Dus als mensen argumenteren dat de verkiezingen een stel lokale verkiezingen zijn, dan: 1 mensen gedragen
+
+44
+00:02:59,819 --> 00:03:03,639
+zich er niet naar en 2 het is een nog beter argument dat de verkiezingen niet goed zijn want op
+
+45
+00:03:03,640 --> 00:03:05,139
+dit niveau zijn ze erger.
+
+46
+00:03:05,140 --> 00:03:08,149
+Deze lokale verkiezingen zijn onrepresentatief wegens het vreselijke "first past the post"
+
+47
+00:03:08,150 --> 00:03:11,809
+systeem-- waar ik al vaak over klaag en dus hier niet over ga klagen-- kijk maar
+
+48
+00:03:11,810 --> 00:03:16,318
+de video-- want het 'werkt' alleen als stemmers zijn beperkt tot 2 keuzes
+
+49
+00:03:16,319 --> 00:03:21,719
+Stemmen voor een partij anders dan de grootste maakt het waarschijnlijker dat de grootste partij met een minderheid wint.
+
+50
+00:03:21,720 --> 00:03:24,059
+Precies wat is gebeurd.
+
+51
+00:03:24,060 --> 00:03:27,119
+Dat inwoners blijven stemmen voor kleinere partijen, ondanks dat dit tegen hun strategische belangen ingaat
+
+52
+00:03:27,120 --> 00:03:32,619
+toont aan dat men diverse vertegenwoordiging wil. Maar hierdoor is dit het meest mis-vertegenwoordigde
+
+53
+00:03:32,620 --> 00:03:37,298
+parlement in de geschiedenis van het VK geworden.
+
+54
+00:03:37,299 --> 00:03:38,939
+ 
+
+55
+00:03:38,940 --> 00:03:43,089
+Mensen die blij zijn met het resultaat zullen zeggen dat het systeem werkt.
+
+56
+00:03:43,090 --> 00:03:44,939
+Uiteraard, hun team heeft gewonnen.
+
+57
+00:03:44,940 --> 00:03:48,539
+Maar de regering is geen sport waar een winnaar moet worden aangewezen. Het is een systeem
+
+58
+00:03:48,540 --> 00:03:54,229
+om regels te maken die iedereen moet volgen. Dus we hebben een systeem nodig waarbij iedereen het eens is
+
+59
+00:03:54,230 --> 00:03:58,048
+dat het proces eerlijk is, ook als de resultaten niet zijn zoals ze het willen.
+
+60
+00:03:58,049 --> 00:04:03,298
+Als je voor een systeem bent dat mensen achterstelt die je niet mag, en mensen voortrekt
+
+61
+00:04:03,299 --> 00:04:08,339
+die je wel mag, dan ben je niet echt iemand die representatieve democratie aanhangt. Je bent meer het
+
+62
+00:04:08,340 --> 00:04:14,279
+soort dat een vorm van dictatorschap light steunt, waar een kleine groep mensen
+
+63
+00:04:14,280 --> 00:04:16,189
+de regels voor iedereen maakt.
+
+64
+00:04:16,190 --> 00:04:22,739
+Maar zoals het nu is, en wanneer bij verkiezingen mensen steeds meer aangeven wat ze willen zal dit leiden tot een slecht systeem
+
+65
+00:04:22,740 --> 00:04:30,119
+waardoor mensen ongeïnteresseerd raken, of erger: boos en JEMIG IK SNAP
+
+66
+00:04:30,120 --> 00:04:30,499
+NIET WAAROM.
+
+67
+00:04:30,500 --> 00:04:35,309
+Dit is te herstellen. Er zijn veel betere manieren waarop het VK kan stemmen. Hier zijn 2 opties die zelfs
+
+68
+00:04:35,310 --> 00:04:37,159
+lokale vertegenwoordigers behouden.
+
+69
+00:04:37,160 --> 00:04:42,719
+En het herstellen van het stemmen is belangrijk, want dit is een soort legitimiteitsscore van de overheid
+
+70
+00:04:42,720 --> 00:04:47,989
+en deze score wordt al een tijd slechter, en zal slechter worden tenzij dit fundamenteel verkeerde systeem
+
+71
+00:04:47,990 --> 00:05:00,500
+wordt veranderd.
+

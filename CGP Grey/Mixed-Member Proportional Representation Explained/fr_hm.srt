@@ -1,0 +1,329 @@
+1
+00:00:01,310 --> 00:00:05,559
+La reine Lionne veut améliorer le système démocratique de 
+son Royaume Animal. Elle a récemment introduit les 
+
+2
+00:00:05,560 --> 00:00:09,929
+élections législatives, où les citoyens élisent des 
+députés pour l’Assemblée de la Jungle.
+
+3
+00:00:09,930 --> 00:00:13,958
+Pourtant, elle remarque que les citoyens sont déçus du 
+mode de scrutin utilisé. Pour le constater, allons 
+
+4
+00:00:13,959 --> 00:00:17,719
+assister à une élection sur une des petites îles du 
+Royaume:
+
+5
+00:00:17,720 --> 00:00:22,409
+Sur cette île, il y a trois partis politiques:
+deux gros partis, Kéa et Tuatara, et un troisième 
+
+6
+00:00:22,410 --> 00:00:24,418
+parti plus petit, Kakapo.
+
+7
+00:00:24,419 --> 00:00:28,399
+Le jour de l’élection, les citoyens doivent donner
+leur vote à un candidat qui s’est présenté dans une 
+
+8
+00:00:28,400 --> 00:00:31,018
+des circonscriptions de l’île. Les résultats finaux
+sont les suivants:
+
+9
+00:00:31,019 --> 00:00:36,649
+Au niveau de l’île, les résultats donnent 49% au Tuatara, 
+48% au Kéa et 3% au Kakapo.
+
+10
+00:00:36,650 --> 00:00:41,459
+L’élection a été fait avec le mode uninominal majoritaire 
+à un tour, ce qui signifie que celui qui obtient le plus 
+
+11
+00:00:41,460 --> 00:00:46,819
+de voix remporte la circonscription. Comme le Tuatara a la 
+majorité des voix dans toutes les circonscriptions, il 
+
+12
+00:00:46,820 --> 00:00:47,649
+obtient 100% des sièges à l’assemblée.
+
+13
+00:00:47,650 --> 00:00:52,659
+Et c’est pour cela que plusieurs citoyens sont mécontents. 
+La majorité d’entre eux, les 51% qui ont voté pour les 
+
+14
+00:00:52,660 --> 00:00:55,449
+autres partis, n’obtiennent aucune représentation à 
+l’assemblée.
+
+15
+00:00:55,450 --> 00:00:59,809
+Cela semble injuste aux yeux de la reine, mais elle ne 
+sait pas comment résoudre le problème. Les citoyens aiment 
+
+16
+00:00:59,810 --> 00:01:03,749
+avoir des représentants locaux, et ils ne veulent pas 
+changer les frontières des circonscriptions.
+
+17
+00:01:03,750 --> 00:01:07,639
+Mais heureusement, Kiwi, un des citoyens de l’île,
+a une idée à suggérer à la reine Lionne pour améliorer 
+
+18
+00:01:07,640 --> 00:01:11,648
+le système électoral, tout en gardant la représentation 
+locale et en gardant les frontières électorales 
+
+19
+00:01:11,649 --> 00:01:12,269
+inchangées.
+
+20
+00:01:12,270 --> 00:01:18,099
+L’idée est le mode de scrutin proportionnel mixte et qui 
+fait deux changements: le nombre de sièges à l’Assemblée 
+
+21
+00:01:18,100 --> 00:01:22,559
+est doublé et les citoyens doivent voter maintenant deux 
+fois.
+
+22
+00:01:22,560 --> 00:01:24,408
+Voici son fonctionnement:
+
+23
+00:01:24,409 --> 00:01:27,298
+Dans un premier temps, le temps du vote est le même 
+qu’avant pour Kiwi.
+
+24
+00:01:27,299 --> 00:01:31,618
+Il a une liste des candidats qui se présentent dans sa 
+circonscription. Kiwi choisit un parmi eux et celui qui 
+
+25
+00:01:31,619 --> 00:01:34,248
+obtient le plus de votes est élu député.
+
+26
+00:01:34,249 --> 00:01:39,148
+Jusqu’à maintenant, ce mode de scrutin n’est pas mieux. 
+Tuatara remporte tous les sièges et plus de la moitié des 
+
+27
+00:01:39,149 --> 00:01:43,068
+citoyens n’ont pas du tout de représentation. Mais voici 
+comment le deuxième vote de Kiwi et les cinq autres sièges 
+
+28
+00:01:43,069 --> 00:01:46,099
+à l’Assemblée résolvent ce problème.
+
+29
+00:01:46,100 --> 00:01:49,688
+Le deuxième vote de Kiwi lui permet de choisir son parti 
+politique préféré.
+
+30
+00:01:49,689 --> 00:01:53,108
+Ces deuxièmes votes sont comptés et révèle le 
+pourcentage d’appui que chacun des partis politiques 
+
+31
+00:01:53,109 --> 00:01:57,339
+obtiennent parmi les citoyens, et montre clairement 
+que l’Assemblée est inégale en terme de représentation 
+
+32
+00:01:57,340 --> 00:01:57,908
+jusqu’à maintenant.
+
+33
+00:01:57,909 --> 00:02:02,868
+Pour rééquilibrer le tout, les membres des partis 
+politiques sont ajoutés un à la fois pour rendre 
+
+34
+00:02:02,869 --> 00:02:04,078
+l’Assemblée plus proportionnelle.
+
+35
+00:02:04,079 --> 00:02:08,879
+Comme le parti Tuatara est surreprésenté et Kéa 
+est sous-représenté, ce dernier obtient donc le 
+
+36
+00:02:08,880 --> 00:02:10,618
+premier siège vide.
+
+37
+00:02:10,619 --> 00:02:15,318
+Le processus continue, en ajoutant un député Kéa 
+à la fois jusqu’à ce que les deux partis soient 
+
+38
+00:02:15,319 --> 00:02:18,818
+surreprésentés, et que Kakapo soit sous-représenté,
+alors, Kakapo obtient le dernier siège.
+
+39
+00:02:18,819 --> 00:02:22,619
+Maintenant, l’Assemblée de la Jungle représente, 
+le plus possible, les préférences des citoyens, 
+
+40
+00:02:22,620 --> 00:02:27,518
+ce qui constitue une importante amélioration, comparé 
+à l’ancien mode uninominal majoritaire.
+
+41
+00:02:27,519 --> 00:02:31,169
+Par contre, il y a une question qui peut venir à l’esprit 
+de certains:
+
+42
+00:02:31,170 --> 00:02:34,399
+Qui choisit les membres du parti qui seront dans les 
+nouveaux sièges à l’Assemblée?
+
+43
+00:02:34,400 --> 00:02:38,708
+En fait, avant l’élection, les partis font une liste 
+de leurs candidats choisis pour siéger qui sont 
+
+44
+00:02:38,709 --> 00:02:41,969
+classés en ordre de préférence.
+
+45
+00:02:41,970 --> 00:02:46,119
+Donc, s’ils obtiennent un siège, le premier nom de la 
+liste sera choisi. S’ils obtiennent deux sièges, les deux 
+
+46
+00:02:46,120 --> 00:02:48,839
+premiers noms de la liste seront choisis, et ainsi 
+de suite.
+
+47
+00:02:48,840 --> 00:02:53,219
+Cette particularité rend ce mode de scrutin différent des 
+autres, car les formations politiques sont maintenant 
+
+48
+00:02:53,220 --> 00:02:56,389
+partie intégrante du fonctionnement de l’élection.
+
+49
+00:02:56,390 --> 00:02:59,809
+Cela donne au chefs de parti un plus grand contrôle sur 
+leurs membres car ils peuvent récompenser ou punir les 
+
+50
+00:02:59,810 --> 00:03:03,699
+actions des députés en changeant leur ordre dans la 
+liste de parti.
+
+51
+00:03:03,700 --> 00:03:07,458
+Même si ça peut sembler être un inconvénient, il 
+y a d’autres avantages que la reine Lionne apprécie 
+
+52
+00:03:07,459 --> 00:03:09,839
+tout particulièrement.
+
+53
+00:03:09,840 --> 00:03:13,499
+Comme peu de votes sont gaspillés, ça empêche le 
+découpage électoral biaisé, ainsi que le règne de 
+
+54
+00:03:13,500 --> 00:03:14,468
+la minorité.
+
+55
+00:03:14,469 --> 00:03:18,249
+Cela donne aussi plus de choix aux citoyens en 
+encourageant une diversité politique.
+
+56
+00:03:18,250 --> 00:03:20,199
+Ce dernier point mérite de plus amples explications.
+
+57
+00:03:20,200 --> 00:03:24,149
+Remarquez comment, avec ce mode de scrutin, les 
+pourcentages par circonscriptions ne sont pas les mêmes 
+
+58
+00:03:24,150 --> 00:03:28,408
+que pour ceux par partis politiques. C’est que dans les 
+élections des circonscriptions, les citoyens doivent avoir 
+
+59
+00:03:28,409 --> 00:03:29,708
+recours au vote stratégique.
+
+60
+00:03:29,709 --> 00:03:35,158
+Par exemple, les électeurs Kakapo n’aiment pas du tout le 
+parti Tuatara, mais ils peuvent tolérer Kéa. Comme il y a 
+
+61
+00:03:35,159 --> 00:03:38,929
+si peu d’électeurs Kakapo sur l’île, ils savent que leurs 
+candidats n’ont aucune chance de remporter une des 
+
+62
+00:03:38,930 --> 00:03:43,669
+circonscriptions, donc ça devient vraiment une course 
+entre les deux grands partis. Sachant cela, les électeurs 
+
+63
+00:03:43,670 --> 00:03:48,358
+Kakapo vont voter Kéa, en espérant qu’il remporte la 
+circonscription et soit élu député.
+
+64
+00:03:48,359 --> 00:03:51,568
+Par contre, quand vient le temps de voter pour les 
+partis politiques, cette stratégie ne compte plus. 
+
+65
+00:03:51,569 --> 00:03:55,929
+Plus un parti obtient de voix, plus il obtient de 
+sièges à l’Assemblée.
+
+66
+00:03:55,930 --> 00:04:00,809
+Donc, les citoyens sont libres de voter pour des 
+plus petits partis sachant que chaque vote compte.
+
+67
+00:04:00,810 --> 00:04:05,339
+La reine Lionne, après avoir comparé les possibilités, 
+décide d’adopter la proportionnelle mixte comme mode de 
+
+68
+00:04:05,340 --> 00:04:12,339
+scrutin. Pour la première fois, l’Assemblée de la Jungle 
+représente vraiment la volonté des citoyens.
+
+69
+00:04:12,340 --> 00:04:14,340
+(Traduction par Clarence Corbeil, QC, Can.)
+

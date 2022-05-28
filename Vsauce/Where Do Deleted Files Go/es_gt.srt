@@ -1,0 +1,744 @@
+1
+00:00:00,269 --> 00:00:03,539
+Hola, Vsauce.  Miguel aquí.
+Pero ahora
+
+2
+00:00:03,540 --> 00:00:09,299
+no lo soy.  Me he ido como el 90% de
+las películas mudas originales
+
+3
+00:00:09,300 --> 00:00:13,008
+jamás hechas.
+Se eliminaron seis de las siete maravillas del mundo antiguo
+
+4
+00:00:13,009 --> 00:00:16,538
+, como ese texto que pensaste dos veces antes de enviar
+
+5
+00:00:16,539 --> 00:00:19,919
+o una foto de Snapchat, ¿verdad?
+
+6
+00:00:19,920 --> 00:00:24,438
+Cuando Stalin decidió que Trotsky era
+un enemigo del estado
+
+7
+00:00:24,439 --> 00:00:28,268
+, lo eliminó de las fotos en las que aparecía
+
+8
+00:00:28,269 --> 00:00:32,158
+con Lenin.
+Muchas herramientas de software y servicios profesionales
+
+9
+00:00:32,159 --> 00:00:35,328
+le permiten hacer lo mismo.
+No se
+
+10
+00:00:35,329 --> 00:00:39,369
+olvide de los asistentes reales de un momento en el tiempo,
+
+11
+00:00:39,370 --> 00:00:43,148
+elimínelos.
+Pero, ¿dónde van las cosas
+
+12
+00:00:43,149 --> 00:00:45,799
+cuando se eliminan?
+
+13
+00:00:45,800 --> 00:00:50,029
+Google Ngram Viewer le
+permite buscar palabras y frases
+
+14
+00:00:50,030 --> 00:00:54,698
+en 5,2 millones de libros publicados entre 1500
+
+15
+00:00:54,699 --> 00:00:58,328
+y 2008.
+Es una excelente manera de ver cómo
+
+16
+00:00:58,329 --> 00:01:01,789
+las palabras que usamos han cambiado con el tiempo.
+
+17
+00:01:01,790 --> 00:01:05,639
+1979 fue un
+
+18
+00:01:05,640 --> 00:01:10,359
+año significativo.  Según Ngram Viewer
+, fue el primer año en que comenzamos a usar la
+
+19
+00:01:10,360 --> 00:01:10,969
+palabra
+
+20
+00:01:10,970 --> 00:01:14,349
+eliminar con más frecuencia que la palabra
+
+21
+00:01:14,350 --> 00:01:17,758
+borrar.
+Sin
+
+22
+00:01:17,759 --> 00:01:22,928
+embargo, la eliminación biológica todavía gana.  Olvidar es mucho más
+omnipresente en nuestra comunicación,
+
+23
+00:01:22,929 --> 00:01:26,648
+pero ¿cómo olvida una computadora?
+
+24
+00:01:26,649 --> 00:01:30,648
+Mover un archivo a la papelera es solo el comienzo.
+
+25
+00:01:30,649 --> 00:01:34,579
+Para protegerse contra una eliminación accidental,
+cuando se tira a la basura,
+
+26
+00:01:34,580 --> 00:01:39,109
+un archivo permanece en su computadora en un
+directorio temporal, una especie de
+
+27
+00:01:39,110 --> 00:01:44,609
+purgatorio, donde espera una
+eliminación más definitiva, pero puede resucitar
+
+28
+00:01:44,610 --> 00:01:48,199
+si lo desea.
+Cuando vacías la papelera
+
+29
+00:01:48,200 --> 00:01:51,269
+, se te advierte que no puedes deshacer la acción.
+
+30
+00:01:51,270 --> 00:01:54,929
+Pero cuando vacías la papelera, el espacio físico
+
+31
+00:01:54,930 --> 00:01:58,408
+que ocupa el archivo no se vacía realmente.
+
+32
+00:01:58,409 --> 00:02:01,908
+Está marcado como vacío.
+Disponible
+
+33
+00:02:01,909 --> 00:02:05,209
+siempre y cuando sea necesario almacenar nuevos datos en algún lugar.
+
+34
+00:02:05,210 --> 00:02:09,249
+La casa del archivo se ha convertido en un inmueble disponible,
+
+35
+00:02:09,250 --> 00:02:13,869
+pero el archivo en sí no se ha mudado.
+Sólo los punteros se
+
+36
+00:02:13,870 --> 00:02:18,729
+han ido.  Los punteros son otro tipo
+de datos en su disco que apuntan a
+
+37
+00:02:18,730 --> 00:02:20,229
+lugares en la memoria
+
+38
+00:02:20,230 --> 00:02:24,238
+donde se puede encontrar el archivo real al que hacen referencia
+.
+
+39
+00:02:24,239 --> 00:02:27,729
+Son un poco como la tabla de contenido, lo
+que significa que en la mayoría de
+
+40
+00:02:27,730 --> 00:02:31,189
+los sistemas operativos, eliminar un archivo y vaciar la papelera
+
+41
+00:02:31,190 --> 00:02:34,328
+es como eliminar un capítulo de un
+
+42
+00:02:34,329 --> 00:02:37,389
+libro yendo a la tabla de contenido y marcando
+
+43
+00:02:37,390 --> 00:02:42,078
+el capítulo como vacío.
+Aquí no hay nada, haz lo que quieras con las páginas.
+
+44
+00:02:42,079 --> 00:02:46,488
+Para una computadora que lee la tabla de
+contenido, parece que el espacio está
+
+45
+00:02:46,489 --> 00:02:50,099
+vacío pero, por supuesto, eso no cambia
+el hecho de que el contenido del
+
+46
+00:02:50,100 --> 00:02:54,649
+capítulo todavía está allí.
+Las herramientas especiales de recuperación de datos
+
+47
+00:02:54,650 --> 00:02:57,659
+examinan la memoria marcada como vacía disponible
+
+48
+00:02:57,660 --> 00:03:01,309
+para ver qué hay realmente allí.
+Si tiene suerte
+
+49
+00:03:01,310 --> 00:03:04,578
+, incluso pueden encontrar un archivo y guardarlo, recuperarlo y
+
+50
+00:03:04,579 --> 00:03:08,198
+marcarlo como no disponible, sin eliminar.
+
+51
+00:03:08,199 --> 00:03:11,939
+Pero si parte del archivo ya se ha sobrescrito
+
+52
+00:03:11,940 --> 00:03:15,729
+, puede haber problemas.
+El archivo puede
+
+53
+00:03:15,730 --> 00:03:19,768
+corromperse, fusionarse con otros
+datos como una especie de monstruo digital de
+
+54
+00:03:19,769 --> 00:03:23,238
+Frankenstein.
+Hace un par de años le robaron
+
+55
+00:03:23,239 --> 00:03:26,548
+una computadora portátil que pertenecía a la fotógrafa
+Melanie
+
+56
+00:03:26,549 --> 00:03:30,858
+Willhide.
+Contenía muchas de sus fotos digitales recientes.
+
+57
+00:03:30,859 --> 00:03:35,668
+Afortunadamente, la policía pudo devolverle la
+computadora portátil.  Lo encontraron en un automóvil que
+
+58
+00:03:35,669 --> 00:03:36,488
+detuvieron,
+
+59
+00:03:36,489 --> 00:03:41,899
+pero el ladrón había limpiado el
+disco duro de la computadora portátil y lo había estado usando
+
+60
+00:03:41,900 --> 00:03:43,418
+para sus propios fines.
+
+61
+00:03:43,419 --> 00:03:46,599
+Los expertos en recuperación de datos pudieron encontrar
+
+62
+00:03:46,600 --> 00:03:50,039
+algunos de sus archivos, todavía allí,
+en el espacio ahora vacío,
+
+63
+00:03:50,040 --> 00:03:53,099
+pero los archivos habían sido ligeramente sobrescritos
+
+64
+00:03:53,100 --> 00:03:56,298
+por cosas que había hecho el ladrón.
+Habían sido corrompidos, pero de una
+
+65
+00:03:56,299 --> 00:04:00,509
+manera realmente genial.
+Tan genial que Willhide decidió exhibir el trabajo.
+
+66
+00:04:00,510 --> 00:04:03,869
+Ella tituló el programa en honor al ladrón que lo hizo posible,
+
+67
+00:04:03,870 --> 00:04:06,958
+"Para Adrián Rodríguez, con amor".
+
+68
+00:04:06,959 --> 00:04:10,208
+Si desea eliminar el archivo tan completamente
+
+69
+00:04:10,209 --> 00:04:14,358
+que ni siquiera se puede recuperar de una manera genial y
+extraña, como las fotos de Willhide
+
+70
+00:04:14,359 --> 00:04:18,448
+, deberá sobrescribir el archivo no deseado por
+
+71
+00:04:18,449 --> 00:04:22,028
+completo.
+Negar al archivo un entierro adecuado
+
+72
+00:04:22,029 --> 00:04:25,059
+y reorganizar su cadáver con nuevos datos.
+
+73
+00:04:25,060 --> 00:04:29,849
+Una sobrescritura debería estar bien, pero algunas
+personas hacen hasta 35.
+
+74
+00:04:29,850 --> 00:04:34,409
+Incluso 35 sobrescrituras pueden no ser suficientes.
+
+75
+00:04:34,410 --> 00:04:39,079
+Claro, los datos anulados están ocultos, pero ¿qué pasa con los
+
+76
+00:04:39,080 --> 00:04:43,969
+sectores defectuosos?  Estas son partes de una unidad a las que los
+dispositivos no pueden acceder
+
+77
+00:04:43,970 --> 00:04:47,279
+debido a transistores defectuosos o daños físicos.
+
+78
+00:04:47,280 --> 00:04:52,478
+Una sobrescritura no podrá llegar a ellos, lo que
+significa que los datos que alguna vez se colocaron allí
+
+79
+00:04:52,479 --> 00:04:59,269
+permanecerán allí.  Por lo tanto, si usted es el
+Departamento de Defensa de los Estados Unidos y
+
+80
+00:04:59,270 --> 00:05:00,948
+no quiere correr ningún riesgo
+
+81
+00:05:00,949 --> 00:05:04,989
+, también triturará y polarizará físicamente
+
+82
+00:05:04,990 --> 00:05:09,179
+las unidades no deseadas.
+Los EE. UU., Europa y Japón a
+
+83
+00:05:09,180 --> 00:05:12,749
+menudo envían este tipo de desechos electrónicos a vertederos
+
+84
+00:05:12,750 --> 00:05:16,459
+en Ghana, como este.
+Esta ciudad de Ghana es conocida como
+
+85
+00:05:16,460 --> 00:05:19,589
+el basurero digital de la Tierra.
+
+86
+00:05:19,590 --> 00:05:23,158
+¿Por qué Ghana?
+Bueno, es más barato enviar productos
+
+87
+00:05:23,159 --> 00:05:27,859
+electrónicos insalvables a África,
+marcados como una donación,
+
+88
+00:05:27,860 --> 00:05:31,668
+que reciclarlos adecuadamente.
+
+89
+00:05:31,669 --> 00:05:34,769
+Pero allí, en estos vertederos electrónicos,
+
+90
+00:05:34,770 --> 00:05:38,098
+los archivos todavía pueden volver a la vida.
+
+91
+00:05:38,099 --> 00:05:42,638
+Los delincuentes organizados que operan en Ghana
+han logrado recuperar con éxito
+
+92
+00:05:42,639 --> 00:05:43,468
+datos
+
+93
+00:05:43,469 --> 00:05:47,299
+de vertederos electrónicos no regulados.
+Han podido encontrar
+
+94
+00:05:47,300 --> 00:05:49,679
+acuerdos confidenciales multimillonarios, que involucran a
+
+95
+00:05:49,680 --> 00:05:53,068
+la Agencia de Inteligencia de Defensa, Seguridad Nacional
+
+96
+00:05:53,069 --> 00:05:56,758
+y la TSA.
+Triturar
+
+97
+00:05:56,759 --> 00:06:01,329
+papel para deshacerse de lo que solía haber
+en el papel tampoco es
+
+98
+00:06:01,330 --> 00:06:06,288
+seguro.  No es fácil y no
+siempre funciona.  Pero al escanear
+
+99
+00:06:06,289 --> 00:06:11,119
+fragmentos de papel, el software de la computadora puede hacer
+coincidir las piezas.
+
+100
+00:06:11,120 --> 00:06:15,168
+Pero en el pasado, los documentos triturados
+se deshacían
+
+101
+00:06:15,169 --> 00:06:21,218
+a mano.  En 1979, estudiantes iraníes tomaron
+la embajada de Estados Unidos en Teherán.
+
+102
+00:06:21,219 --> 00:06:25,049
+Con la ayuda de tejedores de alfombras locales y
+años de arduo trabajo
+
+103
+00:06:25,050 --> 00:06:29,179
+, lograron reunir miles de
+páginas de documentos confidenciales
+
+104
+00:06:29,180 --> 00:06:33,718
+triturados por la CIA.
+Cuanto más pequeñas son las partículas trituradas
+
+105
+00:06:33,719 --> 00:06:37,019
+y más hay
+, más difícil es la tarea.  Entonces,
+
+106
+00:06:37,020 --> 00:06:40,848
+el Departamento de Defensa requiere que
+la mayoría de las partículas trituradas
+
+107
+00:06:40,849 --> 00:06:45,848
+no excedan los 5 milímetros cuadrados.
+
+108
+00:06:45,849 --> 00:06:49,318
+Si realmente quieres borrar algo, destrúyelo,
+
+109
+00:06:49,319 --> 00:06:52,818
+bórralo, el tiempo está de tu lado.
+
+110
+00:06:52,819 --> 00:06:55,859
+En unos 5.400 millones de años,
+
+111
+00:06:55,860 --> 00:06:59,568
+el Sol se convertirá en la trituradora definitiva.
+
+112
+00:06:59,569 --> 00:07:03,609
+Un gigante rojo lo suficientemente grande como para tragarse la tierra entera.
+
+113
+00:07:03,610 --> 00:07:07,438
+Todo estará bien durante miles de millones de años.
+
+114
+00:07:07,439 --> 00:07:12,149
+Pero muchos modelos aceptados del universo
+predicen que en 10 a 100
+
+115
+00:07:12,150 --> 00:07:13,459
+años,
+
+116
+00:07:13,460 --> 00:07:17,778
+cualquier inteligencia que quede será
+testigo de la
+
+117
+00:07:17,779 --> 00:07:21,098
+era oscura del universo y su
+
+118
+00:07:21,099 --> 00:07:24,528
+muerte térmica final, el fin del universo, el fin de
+
+119
+00:07:24,529 --> 00:07:27,638
+cualquier archivo o foto o recuerdo de ti.
+
+120
+00:07:27,639 --> 00:07:32,198
+accedido de nuevo.
+Cada vez que sucede algo,
+
+121
+00:07:32,199 --> 00:07:35,619
+se pierde un poco de energía.
+Por ejemplo, la
+
+122
+00:07:35,620 --> 00:07:40,589
+fricción a través del sonido o el calor.
+Esa energía sale al universo
+
+123
+00:07:40,590 --> 00:07:42,528
+poco a poco, lentamente
+
+124
+00:07:42,529 --> 00:07:46,408
+cada vez más.
+Eventualmente, en un sistema cerrado, la
+
+125
+00:07:46,409 --> 00:07:51,269
+energía se vuelve homogénea,
+uniformemente distribuida, igual en
+
+126
+00:07:51,270 --> 00:07:54,929
+todas partes.
+No hay gradiente de
+
+127
+00:07:54,930 --> 00:08:00,188
+entropía máxima.
+En un vaso pequeño de agua helada es bastante cotidiano,
+
+128
+00:08:00,189 --> 00:08:03,558
+pero con el tiempo suficiente, nuestro universo entero
+
+129
+00:08:03,559 --> 00:08:09,079
+puede no ser diferente.  Es necesario un gradiente,
+una diferencia de energía de un lugar a
+
+130
+00:08:09,080 --> 00:08:11,198
+otro para
+
+131
+00:08:11,199 --> 00:08:14,758
+que sucedan cosas, para que se creen y lean archivos,
+
+132
+00:08:14,759 --> 00:08:19,528
+para que exista la vida.
+Y en 10 a 100
+
+133
+00:08:19,529 --> 00:08:22,688
+años puede que no quede energía utilizable
+
+134
+00:08:22,689 --> 00:08:27,089
+.
+En el cuento de Isaac Asimov "La última pregunta", los
+
+135
+00:08:27,090 --> 00:08:30,348
+humanos están preocupados por esto.
+A medida que la historia
+
+136
+00:08:30,349 --> 00:08:33,899
+salta miles de millones de años en el futuro,
+
+137
+00:08:33,900 --> 00:08:37,689
+su lista de soluciones no es más larga
+
+138
+00:08:37,690 --> 00:08:43,048
+que ninguna.  Entonces, si pensamos en una gran escala de tiempo, ¿
+
+139
+00:08:43,049 --> 00:08:46,179
+es la eliminación cósmica la congelación
+
+140
+00:08:46,180 --> 00:08:50,549
+de todo, la muerte por calor, todo lo que tenemos que esperar
+
+141
+00:08:50,550 --> 00:08:53,939
+en este universo?
+
+142
+00:08:53,940 --> 00:08:57,028
+Fuimos a la Luna.
+Trajimos
+
+143
+00:08:57,029 --> 00:09:00,338
+banderas con nosotros que plantamos en la
+Luna, representando un lugar
+
+144
+00:09:00,339 --> 00:09:04,009
+en la tierra.
+Pero esas banderas estadounidenses en la
+
+145
+00:09:04,010 --> 00:09:07,409
+Luna probablemente se hayan borrado ahora,
+
+146
+00:09:07,410 --> 00:09:11,889
+sus símbolos y colores blanqueados por la
+intensa radiación del Sol en la
+
+147
+00:09:11,890 --> 00:09:12,759
+superficie lunar,
+
+148
+00:09:12,760 --> 00:09:16,949
+sin filtrar por ninguna atmósfera.
+Las banderas todavía están allí, no las
+
+149
+00:09:16,950 --> 00:09:20,259
+llevamos con nosotros, pero ahora están
+
+150
+00:09:20,260 --> 00:09:25,729
+vacías.  Banderas blancas.
+Banderas blancas que representan nuestra rendición
+
+151
+00:09:25,730 --> 00:09:31,809
+a la inevitabilidad de la eliminación en el universo.
+
+152
+00:09:31,810 --> 00:09:34,819
+Pero nosotros, hoy, estamos preocupados con todo
+
+153
+00:09:34,820 --> 00:09:39,339
+lo contrario.
+Lo que realmente satura nuestro lenguaje, de
+
+154
+00:09:39,340 --> 00:09:42,369
+lo que realmente parece que hablamos es de
+
+155
+00:09:42,370 --> 00:09:45,779
+creación.
+Cosas que pasan, no
+
+156
+00:09:45,780 --> 00:09:49,049
+pérdidas.
+En comparación con borrar,
+
+157
+00:09:49,050 --> 00:09:52,829
+olvidar y eliminar, "hacer" prácticamente
+
+158
+00:09:52,830 --> 00:09:55,839
+elimina la eliminación.
+
+159
+00:09:55,840 --> 00:09:58,859
+Las banderas en la Luna están
+
+160
+00:09:58,860 --> 00:10:01,939
+blanqueadas, pero ¿eso es sombrío?
+¿Están
+
+161
+00:10:01,940 --> 00:10:05,749
+borrados o en blanco, como una
+
+162
+00:10:05,750 --> 00:10:10,889
+hoja de papel nueva lista para nuevas historias?
+En realidad, solo depende de lo que
+
+163
+00:10:10,890 --> 00:10:14,119
+hagas con él.
+Así que gracias por hacer cosas.
+
+164
+00:10:14,120 --> 00:10:15,159
+Y como siempre,
+
+165
+00:10:15,160 --> 00:10:16,640
+gracias por mirar.
+

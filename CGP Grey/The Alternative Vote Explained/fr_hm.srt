@@ -1,0 +1,319 @@
+1
+00:00:01,790 --> 00:00:05,539
+La reine Lionne du Royaume Animal est déçue. Elle a 
+introduit récemment des élections démocratiques pour faire 
+
+2
+00:00:05,540 --> 00:00:08,409
+élire le roi en utilisant le scrutin uninominal 
+majoritaire à un tour.
+
+3
+00:00:08,410 --> 00:00:12,569
+Ce qui a commencé avec une démocratie multipartite avec 
+plusieurs candidats briguant la tête du royaume, s’est 
+
+4
+00:00:12,570 --> 00:00:16,739
+transformé avec le temps en système bipartite, où les 
+citoyens n’aiment pas vraiment l’un ou l’autre des 
+
+5
+00:00:16,740 --> 00:00:20,039
+candidats, mais qui sont pris dans le système à cause de 
+la division du vote.
+
+6
+00:00:20,040 --> 00:00:24,238
+Pourtant, un des sujets du Royaume, venant d’une terre 
+éloignée, Wallaby, a une solution: 
+
+7
+00:00:24,239 --> 00:00:26,159
+le vote alternatif.
+Quelle est la différence?
+
+8
+00:00:26,160 --> 00:00:30,319
+Pour le savoir, suivons un électeur le jour du vote, 
+Ecureuil Roux, avec les deux modes de scrutin.
+
+9
+00:00:30,320 --> 00:00:35,519
+Il y a cinq candidats dans la course pour être couronné 
+roi, deux venants des gros partis, Gorille et Léopard, 
+
+10
+00:00:35,520 --> 00:00:39,049
+ainsi que trois autres candidats, Tortue, Hibou et Tigre.
+
+11
+00:00:39,050 --> 00:00:43,219
+Avec le mode uninominal majoritaire, Ecureuil Roux a un 
+bulletin de vote où il doit choisir un seul candidat.
+
+12
+00:00:43,220 --> 00:00:46,859
+Ecureuil Roux est un partisan Tortue et a même milité 
+pour lui durant la campagne. Par contre, il sait que son 
+
+13
+00:00:46,860 --> 00:00:49,779
+voisin, Ecureuil Gris, va voter Gorille.
+
+14
+00:00:49,780 --> 00:00:53,569
+Alors, Ecureuil Roux s’interroge, pour qui vont 
+voter les autres animaux?
+
+15
+00:00:53,570 --> 00:00:56,689
+Les débats de fin de campagne sur la chaîne d’information 
+
+16
+00:00:56,690 --> 00:01:00,499
+du Royaume n’y présentent que les deux grands partis, donc 
+Ecureuil Roux se dit que la course se passe seulement 
+
+17
+00:01:00,500 --> 00:01:02,679
+entre le Gorille et le Léopard.
+Une gouvernance Gorille ne lui fait rien, mais il craint 
+
+18
+00:01:02,680 --> 00:01:06,219
+énormément le Léopard.
+Comme il ne peut faire qu’un seul choix, il donne son vote 
+
+19
+00:01:06,220 --> 00:01:10,279
+au Gorille, en espérant barrer la route au Léopard et 
+l’empêcher d’être couronné roi.
+
+20
+00:01:10,280 --> 00:01:13,559
+Ceci est un exemple de vote stratégique, qui est 
+nécessaire dans le mode de scrutin uninominal majoritaire.
+
+21
+00:01:13,560 --> 00:01:17,589
+Maintenant, voyons le vote alternatif, qui est expliqué 
+par Wallaby à Ecureuil Roux.
+
+22
+00:01:17,590 --> 00:01:22,449
+Plutôt que de choisir un seul candidat, il peut 
+les placer dans un ordre qui va du meilleur au
+
+23
+00:01:22,450 --> 00:01:25,009
+pire de ses préférences.
+Il va derrière l’isoloir avec un bulletin semblable au 
+
+24
+00:01:25,010 --> 00:01:29,048
+premier, mais cette fois-ci, il mets la Tortue comme 
+premier choix, le Hibou en deuxième, et Gorille en 
+
+25
+00:01:29,049 --> 00:01:32,849
+troisième.
+Il n’aime pas autant le Léopard que le Tigre, il 
+
+26
+00:01:32,850 --> 00:01:35,529
+arrête donc son classement et met le bulletin 
+de vote dans l’urne.
+
+27
+00:01:35,530 --> 00:01:38,459
+A présent, Ecureuil Roux ne pense pas à ce qui se passe, 
+il a d’autres priorités et s’en va. Mais, vous, chers 
+
+28
+00:01:38,460 --> 00:01:43,389
+citoyens, voulez savoir comment se passe le décompte des 
+votes.
+
+29
+00:01:43,390 --> 00:01:46,449
+Alors, voici:
+la Tortue, pourtant appréciée d’une partie de la 
+
+30
+00:01:46,450 --> 00:01:51,719
+population, arrive en dernière place avec seulement 5% 
+des voix et est donc éliminée de la course.
+
+31
+00:01:51,720 --> 00:01:54,139
+Comme les électeurs ont placés les candidats en ordre de 
+préférence, on peut savoir l’issue de la course si la 
+
+32
+00:01:54,140 --> 00:01:57,429
+Tortue en avait été absente.
+Sans la Tortue, des électeurs comme Ecureuil Roux,
+
+33
+00:01:57,430 --> 00:02:01,059
+auraient plutôt choisi le Hibou, donc les votes lui 
+sont transférés, comme si la Tortue n’avait jamais 
+
+34
+00:02:01,060 --> 00:02:04,559
+fait campagne.
+C’est pour cela que le vote alternatif est parfois appelé 
+
+35
+00:02:04,560 --> 00:02:08,219
+en anglais Instant Runoff Voting. Il est possible de 
+simuler plusieurs élections où le pire candidat est 
+
+36
+00:02:08,220 --> 00:02:11,688
+éliminé sans avoir à organiser à chaque fois 
+un nouveau scrutin un après l’autre avec tout 
+
+37
+00:02:11,689 --> 00:02:15,818
+le temps et l’argent nécessaire pour qu’ils aient lieu.
+
+38
+00:02:15,819 --> 00:02:18,918
+La méthode du vote alternatif fait éliminer les 
+candidats ayant le moins grand nombre de voix jusqu’
+
+39
+00:02:18,919 --> 00:02:21,908
+ce qu’un candidat remporte la majorité des voix, ou 
+qu’il n’en reste qu’un seul.
+
+40
+00:02:21,909 --> 00:02:26,539
+Comme personne n’a de majorité, le candidat qui a le 
+moins de voix, le Tigre, est éliminé. Les électeurs 
+
+41
+00:02:26,540 --> 00:02:29,208
+Tigre, ayant mis le Léopard comme deuxième choix, voient 
+leurs votes transférés à ce dernier.
+
+42
+00:02:29,209 --> 00:02:33,929
+Au dernier tour, c’est le Gorille qui est éliminé. Ces 
+électeurs ayant mis le Hibou comme deuxième choix, ces 
+
+43
+00:02:33,930 --> 00:02:38,558
+votes lui sont transférés, le Hibou remporte une majorité 
+et est couronné roi.
+
+44
+00:02:38,559 --> 00:02:42,119
+Le vote alternatif est donc un meilleur mode de scrutin 
+parce qu’il couronne des vainqueurs qui satisfaient un 
+
+45
+00:02:42,120 --> 00:02:45,438
+plus grand nombre d’électeurs.
+Même si le vote alternatif a aussi ses défauts, il faut 
+
+46
+00:02:45,439 --> 00:02:49,429
+remarquer qu’il partage des inconvénients avec le 
+scrutin uninominal majoritaire à un tour.
+
+47
+00:02:49,430 --> 00:02:54,168
+Ils sont sensibles au découpage électoral partisan, ils ne 
+sont pas proportionnels, ils ne peuvent garantir un 
+
+48
+00:02:54,169 --> 00:02:58,619
+gagnant de Condorcet (ce que les fous de maths n’aiment 
+pas, mais ce serait trop long à expliquer), et au fil du 
+
+49
+00:02:58,620 --> 00:03:01,528
+temps, il favorise le bipartisme.
+
+50
+00:03:01,529 --> 00:03:05,238
+Pourtant, le vote alternatif détient un avantage que le 
+scrutin uninominal n’a pas: pas de division du vote.
+
+51
+00:03:05,239 --> 00:03:09,248
+Imaginons le cas suivant: il y a deux candidats dans la 
+course, le Gorille et le Léopard, et ce dernier semble en 
+
+52
+00:03:09,249 --> 00:03:14,028
+position pour gagner 55% à 45%. Mais un troisième 
+candidat, le Tigre, se lance dans la course. Il parvient à 
+
+53
+00:03:14,029 --> 00:03:19,348
+convaincre 15% des électeurs Léopard de voter pour lui. 
+Cela change la donne. Avec le scrutin uninominal 
+
+54
+00:03:19,349 --> 00:03:23,429
+majoritaire, le Gorille l’emporterait facilement même si 
+une majorité d’électeurs ne voulaient pas de lui.
+
+55
+00:03:23,430 --> 00:03:26,828
+Avec le vote alternatif, comme les électeurs qui ont voté 
+
+56
+00:03:26,829 --> 00:03:29,988
+Tigre ont mis le Léopard comme deuxième choix, le Léopard 
+gagnerait tout de même l’élection, parce que les votes du 
+
+57
+00:03:29,989 --> 00:03:34,039
+Tigre lui seraient reportés. Ainsi, une victoire du 
+Gorille est évitée puisqu’une majorité de citoyens 
+
+58
+00:03:34,040 --> 00:03:36,558
+préfèrerait avoir le Léopard comme roi, plutôt que le 
+Gorille.
+
+59
+00:03:36,559 --> 00:03:42,938
+Avec le vote alternatif, les citoyens peuvent appuyer et 
+faire élargir les bases électorales des petits partis  
+
+60
+00:03:42,939 --> 00:03:45,668
+sans faciliter l’élection d’un candidat qu’ils ne 
+veulent pas.
+
+61
+00:03:45,669 --> 00:03:49,838
+Après réflexion et comparaisons, la reine Lionne décide 
+que le mode de scrutin du Royaume Animal sera désormais
+
+62
+00:03:49,839 --> 00:03:55,298
+le vote alternatif, et tout le monde est content.
+En fait, presque tout le monde.
+
+63
+00:03:55,299 --> 00:04:02,818
+Les deux gros partis devront maintenant faire de plus 
+grandes campagnes pour mériter leurs votes.
+
+64
+00:04:02,819 --> 00:04:05,848
+C’était "Le Vote alternatif", expliqué par moi-même, 
+C. G. P. Grey.
+
+65
+00:04:05,849 --> 00:04:08,809
+Merci beaucoup!
+(Traduction par Clarence Corbeil, QC, Can.)
+

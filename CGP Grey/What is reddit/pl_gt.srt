@@ -1,0 +1,429 @@
+1
+00:00:00,300 --> 00:00:01,568
+Czym jest reddit?
+
+2
+00:00:01,569 --> 00:00:05,569
+Przez większość Internetu reddit jest bramą
+do wszystkiego, co ciekawego dzieje się na
+
+3
+00:00:05,570 --> 00:00:05,909
+świecie.
+
+4
+00:00:05,910 --> 00:00:09,089
+Sprawdzanie reddit.com jest jak czytanie codziennej
+gazety, z tym wyjątkiem, że reddit jest
+
+5
+00:00:09,090 --> 00:00:10,199
+- aktualny
+- interaktywny
+
+6
+00:00:10,200 --> 00:00:11,489
+- spersonalizowany
+- partycypacyjny
+
+7
+00:00:11,490 --> 00:00:13,768
+- przerażająco absorbujący czasami
+
+8
+00:00:13,769 --> 00:00:15,149
+... w zasadzie *dobry*.
+
+9
+00:00:15,150 --> 00:00:19,059
+Działa to tak, że ludzie przesyłają linki
+do reddit (posty na blogu, zdjęcia lub filmy),
+
+10
+00:00:19,060 --> 00:00:23,168
+a inni głosują na te linki w górę lub w dół.
+To prosty pomysł, ale sprawia, że reddit staje się 
+
+11
+00:00:23,169 --> 00:00:27,738
+istą najlepszych rzeczy, które ludzie obecnie czytają lub o
+lądają w Inter
+
+12
+00:00:27,739 --> 00:00:31,338
+ecie.  Nazwa jest skrótem od „Przeczytaj to”, jak
+w: Przeczytałem już to na Reddicie, co, jeśli
+
+13
+00:00:31,339 --> 00:00:35,238
+spędzasz dużo czasu na stronie
+, powiesz każdemu, kto spróbuje
+
+14
+00:00:35,239 --> 00:00:38,189
+Ci coś pokazać.  To rodzaj niesamowitej klątwy.
+
+15
+00:00:38,190 --> 00:00:41,229
+Ponieważ na reddicie nie ma redaktorów,
+nigdy nie wiesz, co znajdziesz, ale możesz się
+
+16
+00:00:41,230 --> 00:00:45,919
+założyć, że będzie to zabawne, interesujące
+lub wciągające, ponieważ tysiące innych osób
+
+17
+00:00:45,920 --> 00:00:48,459
+już głosowało, że jest to coś do
+zobaczenia.
+
+18
+00:00:48,460 --> 00:00:51,729
+Pomyśl o tym w ten sposób: jeśli Google jest miejscem, w którym
+szukasz rzeczy, to na reddit
+
+19
+00:00:51,730 --> 00:00:54,288
+idziesz, aby zobaczyć rzeczy, które
+znaleźli ludzie.
+
+20
+00:00:54,289 --> 00:00:58,319
+Ale reddit to nie tylko jedna lista rzeczy:
+reddit to piękny fraktal z sekcjami,
+
+21
+00:00:58,320 --> 00:00:59,439
+zwanymi subredditami.
+
+22
+00:00:59,440 --> 00:01:03,819
+Jeśli po prostu lubisz politykę, programowanie lub
+śmieszne podpisy pod obrazkami, sport lub wiadomości ze świata,
+
+23
+00:01:03,820 --> 00:01:07,869
+istnieją subreddity, które zawierają tylko te rzeczy.
+I będzie subreddit dla twojego
+
+24
+00:01:07,870 --> 00:01:09,899
+miasta, kraju lub regionu.
+
+25
+00:01:09,900 --> 00:01:13,329
+Uwielbiasz program telewizyjny, który skończył się lata temu?
+Istnieje subreddit, na którym ludzie wciąż mówią
+
+26
+00:01:13,330 --> 00:01:15,009
+o tym, jakby właśnie to było emitowane.  Technicy
+
+27
+00:01:15,010 --> 00:01:18,099
+mają maniaków swoją technologię, a
+maniacy flag mają swoją vexillologię i --
+
+28
+00:01:18,100 --> 00:01:21,249
+a jeśli jesteś zainteresowany czymś, czego
+jeszcze nie ma, po prostu naciśnij przycisk
+
+29
+00:01:21,250 --> 00:01:23,059
+i rodzi się nowy subreddit.
+
+30
+00:01:23,060 --> 00:01:27,719
+Każdy subreddit działa tak samo jak strona główna
+: aktualizuje listę interesujących rzeczy
+
+31
+00:01:27,720 --> 00:01:29,389
+według osób zainteresowanych tymi rzeczami.
+
+32
+00:01:29,390 --> 00:01:33,879
+A kiedy subreddit rozrasta się, może być
+w tym przerażająco dobry: na przykład AWW
+
+33
+00:01:33,880 --> 00:01:38,949
+, sekcja poświęcona uroczom, to GLOBALNA
+24-GODZINNA BITWA, ABY ZNALEŹĆ NAJCIĘŻSZE OBRAZY
+
+34
+00:01:38,950 --> 00:01:39,679
+!
+
+35
+00:01:39,680 --> 00:01:43,309
+Okazuje się, że jeśli dasz ludziom ze zdjęciami małych zwierząt
+miejsce, w którym mogą rywalizować ze zdjęciami ich małych zwierząt,
+
+36
+00:01:43,310 --> 00:01:48,529
+rezultatem będzie największe
+zagęszczenie słodyczy, jakie ludzka cywilizacja dotychczas stworzyła.
+
+37
+00:01:48,530 --> 00:01:52,019
+Ale bez redaktorów prowadzących witrynę, jak
+działa ten proces sortowania?  Nie ma
+
+38
+00:01:52,020 --> 00:01:54,669
+czasu na zagłębianie się w kod, ale możesz myśleć
+o tym w ten sposób:
+
+39
+00:01:54,670 --> 00:01:58,439
+Linki, które ludzie wysyłają, to balony unoszące się w
+górę iw dół listy.  Kiedy ktoś głosuje
+
+40
+00:01:58,440 --> 00:02:02,799
+na link, dodaje trochę helu, a
+głos w dół wysysa trochę helu.  Od czasu do czasu
+
+41
+00:02:02,800 --> 00:02:06,239
+reddit kładzie nacisk na wszystkie balony
+, dając nowszym linkom, które pojawiają się później,
+
+42
+00:02:06,240 --> 00:02:09,379
+szansę konkurowania z tymi, które
+istnieją dłużej.
+
+43
+00:02:09,380 --> 00:02:13,529
+Ta metoda jest szokująco dobra w sortowaniu
+rzeczy, czy to polityki międzynarodowej, czy
+
+44
+00:02:13,530 --> 00:02:14,399
+zdjęć konfiguracji komputerowych.
+
+45
+00:02:14,400 --> 00:02:19,149
+Oczywiście, kiedy strona internetowa obejmuje
+cały ludzki wysiłek, robi się dziwnie: jak
+
+46
+00:02:19,150 --> 00:02:23,979
+subreddity tylko ze zdjęciami ptaków... z bronią lub tylko
+zdjęciami Hitlera... ze skarpetkami i
+
+47
+00:02:23,980 --> 00:02:27,969
+zawsze są inne rodzaje zdjęć, które ludzie
+lubią  oglądać, a czasem
+
+48
+00:02:27,970 --> 00:02:31,079
+kolekcje przerażających rzeczy, których nie można nie zobaczyć.
+
+49
+00:02:31,080 --> 00:02:35,479
+Więc tak, to się pogorszyło.
+Pamiętaj jednak, że reddit może być dziwny nie dlatego, że
+
+50
+00:02:35,480 --> 00:02:39,309
+reddit jest dziwny, ale dlatego, że dziwni są ludzie.
+Wspaniałą rzeczą w reddicie jest to, że
+
+51
+00:02:39,310 --> 00:02:43,479
+zmienia się, aby Ci odpowiadać: gdy dołączasz do subredditów,
+które lubisz i opuszczasz te, których nie lubisz,
+
+52
+00:02:43,480 --> 00:02:47,409
+strona główna staje się *twoja*: wymieniając wszystkie najlepsze
+rzeczy ze wszystkich obserwowanych subredditów i
+
+53
+00:02:47,410 --> 00:02:49,709
+pomijając rzeczy  od tych, których nie masz.
+
+54
+00:02:49,710 --> 00:02:53,029
+Więc reddit jest jak życie: to jest to, co
+robisz.
+
+55
+00:02:53,030 --> 00:02:56,818
+Ale linki to tylko wierzchołek redditberga,
+ponieważ ludzie mogą dyskutować o linkach i to
+
+56
+00:02:56,819 --> 00:02:59,029
+jest prawdziwe serce reddit.
+
+57
+00:02:59,030 --> 00:03:02,989
+Większość forów w Internecie jest ohydna, ale
+Reddit nie jest tablicą ogłoszeń twojej babci.
+
+58
+00:03:02,990 --> 00:03:07,059
+Tak jak metoda sortowania balonowego znajduje
+najlepsze linki, jest też matematyka, która jest bardziej skomplikowana
+
+59
+00:03:07,060 --> 00:03:10,259
+(i mniej wytłumaczalna), która znajduje
+najciekawsze komentarze w dyskusji i przenosi
+
+60
+00:03:10,260 --> 00:03:14,779
+je na górę.  Reddit wyświetla komentarze
+w sposób, który zachęca do dyskusji w obie strony.
+
+61
+00:03:14,780 --> 00:03:17,079
+(W przeciwieństwie do niektórych *innych* systemów komentarzy).
+
+62
+00:03:17,080 --> 00:03:20,239
+Takie sortowanie i wątkowanie oznacza, że
+ja na temat linku na reddicie jest zawsze cieka
+
+63
+00:03:20,240 --> 00:03:22,029
+sza niż sam link.
+
+64
+00:03:22,030 --> 00:03:25,929
+ Istnieją więc subreddity, które są niczym innym jak *
+dyskusją: na przykład Zmień mój pogląd na debaty
+
+65
+00:03:25,930 --> 00:03:30,059
+lub Zapytaj naukowca, gdzie eksperci odpowiadają na pytania.
+Albo jest „IamA”, gdzie ludzie mówią, kim
+
+66
+00:03:30,060 --> 00:03:34,339
+są „Jestem strażakiem”, „Jestem eskortą” lub
+„Jestem strażnikiem więziennym” i odpowiadają na pytania
+
+67
+00:03:34,340 --> 00:03:35,339
+z komentarzy.
+
+68
+00:03:35,340 --> 00:03:39,039
+A ponieważ ludzie na reddicie są anonimowi,
+dyskusje są o wiele bardziej interesujące i otwarte,
+
+69
+00:03:39,040 --> 00:03:41,818
+niż gdyby ludzie byli zmuszani do używania swoich prawdziwych
+imion.  ::cough:: Integracja z YouTube i Google+ ::cough::
+
+70
+00:03:41,819 --> 00:03:45,929
+Chociaż, zachowując anonimowość, przekonasz się, że nie
+wszystkie ujawniane prywatne myśli są piękne.
+
+71
+00:03:45,930 --> 00:03:49,958
+Czasami może być nieprzyjemnie widzieć,
+co grupa bez twarzy myśli na dany temat.
+
+72
+00:03:49,959 --> 00:03:53,469
+Ale na szczęście reddit ma sposób na radzenie sobie z
+komentarzami, które uważasz za nieprzydatne.  I pomimo
+
+73
+00:03:53,470 --> 00:03:58,109
+ludzi, którzy postępują źle, jasne jest, że reddit
+może istnieć tylko dlatego, że większość ludzi,
+
+74
+00:03:58,110 --> 00:04:00,149
+nawet anonimowych, jest dobra.
+
+75
+00:04:00,150 --> 00:04:04,488
+Ale ta anonimowość nie jest wymagana,
+więc na reddicie znajdziesz także aktorów i autorów, prezydentów
+
+76
+00:04:04,489 --> 00:04:07,839
+i premierów, którzy odpowiadają na
+pytania społeczności.
+
+77
+00:04:07,840 --> 00:04:11,439
+A reddit jest naprawdę społecznością z
+własną kulturą i historią, która
+
+78
+00:04:11,440 --> 00:04:15,419
+ma coraz większy wpływ na świat fizyczny poprzez takie rzeczy,
+jak: spotykanie się osobiście i zbieranie pieniędzy
+
+79
+00:04:15,420 --> 00:04:19,578
+na cele charytatywne, obrona Internetu i
+pomoc rodzinie przy chorym dziecku
+
+80
+00:04:19,579 --> 00:04:24,168
+i trzymaniu  największy sekretny mikołaj na świecie
+i wysyłanie nauczycieli potrzebnych im materiałów.
+
+81
+00:04:24,169 --> 00:04:28,188
+Dzięki błyskawicznej demokracji i szokująco
+szybkim reakcjom reddit może czasami sprawiać,
+
+82
+00:04:28,189 --> 00:04:32,489
+że czujesz się bardziej obywatelem Internetu
+niż obywatelem własnego kraju.
+
+83
+00:04:32,490 --> 00:04:36,938
+Ale ostatecznie trudno jest zrozumieć reddit
+bez wskoczenia, komentowania i
+
+84
+00:04:36,939 --> 00:04:40,299
+głosowania, co naprawdę powinieneś.  A kiedy
+już opanujesz to miejsce, będziesz się zastanawiać,
+
+85
+00:04:40,300 --> 00:04:44,899
+jak kiedykolwiek wcześniej korzystałeś z Internetu.
+
+86
+00:04:44,900 --> 00:04:51,288
+[Po napisach]
+
+87
+00:04:51,289 --> 00:05:06,929
+P.S.  Jeśli jesteś już użytkownikiem reddit i
+kochasz tę stronę, powinieneś rozważyć
+
+88
+00:05:06,930 --> 00:05:10,948
+zakup złota reddit, aby ją wesprzeć.  Zdziwiłem
+się, gdy podczas tworzenia tego filmu dowiedziałem się, że
+
+89
+00:05:10,949 --> 00:05:15,369
+pomimo rosnącej popularności reddit nadal nie jest
+opłacalny.  Więc jeśli, tak jak ja, używasz reddita
+
+90
+00:05:15,370 --> 00:05:18,219
+*cały dzień*, jest to więcej niż warte kilka
+dolarów miesięcznie.
+

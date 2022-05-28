@@ -1,0 +1,612 @@
+1
+00:00:00,709 --> 00:00:04,408
+Hé, Vsauce.  Michel ici.
+Et Jacques.  Et Kévin.
+
+2
+00:00:04,409 --> 00:00:06,289
+Et nous sommes à Santa Monica, ce qui
+
+3
+00:00:06,290 --> 00:00:11,108
+signifie bien sûr que le "V" dans "Vsauce
+" représentera le chiffre romain cinq,
+
+4
+00:00:11,109 --> 00:00:13,269
+comme dans cinq questions
+
+5
+00:00:13,270 --> 00:00:16,508
+de votre part.
+
+6
+00:00:16,509 --> 00:00:18,849
+Notre première question vient de "@notch".
+
+7
+00:00:18,850 --> 00:00:23,008
+Il ne m'a pas demandé cela en particulier,
+mais j'aime à quel point la
+
+8
+00:00:23,009 --> 00:00:25,608
+réponse n'est pas intuitive.
+Supposons
+
+9
+00:00:25,609 --> 00:00:27,979
+une Terre parfaitement sphérique
+
+10
+00:00:27,980 --> 00:00:31,708
+et une corde bien tendue autour de l'équateur.
+
+11
+00:00:31,709 --> 00:00:37,988
+Que se passerait-il si cette corde ne faisait,
+disons, que six mètres de plus ?  Six mètres, ce
+
+12
+00:00:37,989 --> 00:00:39,229
+n'est pas beaucoup,
+
+13
+00:00:39,230 --> 00:00:42,449
+mais en raison de la relation
+entre une circonférence
+
+14
+00:00:42,450 --> 00:00:43,698
+et un rayon,
+
+15
+00:00:43,699 --> 00:00:48,508
+six mètres de corde supplémentaire permettraient à la
+corde entière de ne pas s'ajuster parfaitement autour de
+
+16
+00:00:48,509 --> 00:00:49,449
+la terre,
+
+17
+00:00:49,450 --> 00:00:51,319
+mais à un mètre au-dessus,
+
+18
+00:00:51,320 --> 00:00:53,169
+tout autour.
+
+19
+00:00:53,170 --> 00:00:55,988
+C'est cool, mais si au lieu d'une corde
+
+20
+00:00:55,989 --> 00:01:00,259
+nous utilisions quelque chose de plus rigide, comme une structure, un pont
+
+21
+00:01:00,260 --> 00:01:03,569
+et nous construisions le pont tout autour de la Terre.
+
+22
+00:01:03,570 --> 00:01:08,499
+Et puis, tout à coup, détruit ses supports.
+
+23
+00:01:08,500 --> 00:01:09,759
+Est-ce que ça
+
+24
+00:01:09,760 --> 00:01:14,108
+flotterait ?
+Il est clair que la gravité terrestre tirerait la structure vers le bas,
+
+25
+00:01:14,109 --> 00:01:18,669
+mais la descente est dans la direction opposée
+pour l'autre côté du pont.
+
+26
+00:01:18,670 --> 00:01:20,149
+Eh bien, il s'avère
+
+27
+00:01:20,150 --> 00:01:26,559
+qu'un tel scénario serait incroyablement
+instable.  La gravité de la Terre n'est pas égale
+
+28
+00:01:26,560 --> 00:01:30,398
+partout, et si vous suivez @tweetsauce,
+vous avez vu de superbes graphiques montrant
+
+29
+00:01:30,399 --> 00:01:32,099
+à quel point la gravité change,
+
+30
+00:01:32,100 --> 00:01:34,669
+simplement en fonction de la densité de la roche en dessous.
+
+31
+00:01:34,670 --> 00:01:40,119
+Lorsque vous tenez compte du Soleil et de la Lune,
+vous vous retrouvez avec une structure de pont qui
+
+32
+00:01:40,120 --> 00:01:45,459
+ne restera pas là où elle est.
+Si le pont lui-même était indestructible, il commencerait à faire du
+
+33
+00:01:45,460 --> 00:01:49,409
+hula hoop violemment autour de la
+terre, écrasant des choses.  Mais il n'y a pas de
+
+34
+00:01:49,410 --> 00:01:54,089
+matériau connu assez solide pour le faire.
+Au lieu de cela, vous vous retrouveriez avec des
+
+35
+00:01:54,090 --> 00:01:56,809
+pièces de pont volant partout.
+
+36
+00:01:56,810 --> 00:02:00,859
+Une sphère autour de la terre serait un peu
+plus stable, mais un anneau ?
+
+37
+00:02:00,860 --> 00:02:02,149
+Pas tellement.
+
+38
+00:02:02,150 --> 00:02:07,618
+L'anneau, même s'il tournait, se briserait rapidement
+en plus petits morceaux.
+
+39
+00:02:07,619 --> 00:02:11,958
+La semaine dernière, vous m'avez posé une question
+que je me suis toujours posée.
+
+40
+00:02:11,959 --> 00:02:17,149
+Disons que j'étais bloqué dans les
+montagnes, attendant l'arrivée des secours,
+
+41
+00:02:17,150 --> 00:02:18,509
+mais ça allait prendre du
+
+42
+00:02:18,510 --> 00:02:21,908
+temps.
+J'avais beaucoup de neige et beaucoup d'eau,
+
+43
+00:02:21,909 --> 00:02:23,049
+mais j'avais faim -
+
+44
+00:02:23,050 --> 00:02:24,868
+mourant de faim -
+
+45
+00:02:24,869 --> 00:02:26,509
+serait-il judicieux
+
+46
+00:02:26,510 --> 00:02:27,668
+d'
+
+47
+00:02:27,669 --> 00:02:29,818
+amputer une de mes jambes
+
+48
+00:02:29,819 --> 00:02:31,459
+et de la manger ?
+Je veux dire,
+
+49
+00:02:31,460 --> 00:02:32,958
+ça a un peu de sens, non ? !
+
+50
+00:02:32,959 --> 00:02:37,578
+J'aurais ma jambe entière à manger comme nourriture,
+ce qui me remplirait probablement
+
+51
+00:02:37,579 --> 00:02:39,589
+et j'aurais un membre de moins
+
+52
+00:02:39,590 --> 00:02:42,488
+dont j'aurais besoin pour rester en vie.
+
+53
+00:02:42,489 --> 00:02:47,798
+Le seul problème est que le traumatisme que votre
+corps subirait suite à la perte d'un
+
+54
+00:02:47,799 --> 00:02:48,498
+membre
+
+55
+00:02:48,499 --> 00:02:53,258
+dépasserait largement le bénéfice que vous obtiendriez
+en mangeant de la nourriture.  Vous feriez mieux de garder
+
+56
+00:02:53,259 --> 00:02:54,059
+ce membre
+
+57
+00:02:54,060 --> 00:02:55,329
+sur votre corps,
+
+58
+00:02:55,330 --> 00:02:59,509
+car le processus d'utilisation des
+réserves d'énergie par votre corps est plus efficace que
+
+59
+00:02:59,510 --> 00:03:02,938
+le processus de digestion.
+Alors gardez la jambe
+
+60
+00:03:02,939 --> 00:03:10,068
+et laissez-la dépérir, vous gardant en vie.
+Ne le coupez pas et ne le mangez pas et ne le digérez pas.
+
+61
+00:03:10,069 --> 00:03:15,108
+Comment les cheveux savent-ils quand arrêter de pousser ?
+
+62
+00:03:15,109 --> 00:03:16,568
+C'est une bonne question,
+
+63
+00:03:16,569 --> 00:03:18,659
+parce que les poils de mon bras,
+
+64
+00:03:18,660 --> 00:03:21,729
+qui sont nombreux, ne poussent jamais plus longtemps que ça.
+
+65
+00:03:21,730 --> 00:03:25,398
+Et si je me rasais le bras,
+il repousserait et s'arrêterait
+
+66
+00:03:25,399 --> 00:03:27,518
+là où il est en ce moment.
+
+67
+00:03:27,519 --> 00:03:30,128
+Mais les cheveux sont différents.
+
+68
+00:03:30,129 --> 00:03:35,468
+Par exemple, mes cheveux - ce qu'il en reste
+- continueraient à pousser si je ne les coupais pas.
+
+69
+00:03:35,469 --> 00:03:40,008
+Mais aucun autre animal n'a cette situation.
+Vous ne voyez pas de loups dans la forêt
+
+70
+00:03:40,009 --> 00:03:44,008
+dire, wow, regardez comme mes cheveux
+deviennent longs, je ferais mieux d'aller chez le coiffeur.
+
+71
+00:03:44,009 --> 00:03:48,689
+Alors, pourquoi les humains ont-ils des cheveux qui poussent si longtemps,
+
+72
+00:03:48,690 --> 00:03:53,528
+mais des poils ailleurs qui s'arrêtent
+apparemment juste quand ils sont censés le faire.
+
+73
+00:03:53,529 --> 00:03:54,829
+Eh bien, tout d'abord.
+
+74
+00:03:54,830 --> 00:03:59,098
+Les cheveux sur votre tête ne continueront pas à pousser pour toujours.
+
+75
+00:03:59,099 --> 00:04:02,918
+Généralement, environ six ans de croissance est la limite.
+
+76
+00:04:02,919 --> 00:04:08,028
+Lorsque les cheveux poussent, ils sont dans ce qu'on appelle leur
+phase anagène.  Et pour les cheveux sur la
+
+77
+00:04:08,029 --> 00:04:10,078
+tête, cette phase peut durer
+
+78
+00:04:10,079 --> 00:04:12,028
+jusqu'à six ans.
+
+79
+00:04:12,029 --> 00:04:17,009
+Mais la phase anagène des poils ailleurs
+sur votre corps - sourcils, cils -
+
+80
+00:04:17,010 --> 00:04:18,629
+est beaucoup plus courte.
+
+81
+00:04:18,630 --> 00:04:23,448
+Sauf dans des cas comme celui-ci, dont les
+sourcils se dressent comme des cheveux et
+
+82
+00:04:23,449 --> 00:04:28,269
+lui ont permis d'établir le record du monde
+des sourcils les plus longs.
+
+83
+00:04:28,270 --> 00:04:33,168
+Les humains ont probablement perdu leurs manteaux de fourrure,
+leurs poils épais,
+
+84
+00:04:33,169 --> 00:04:38,418
+car cela ne nous a pas vraiment aidés à chasser
+et à courir en transpirant dans la savane.
+
+85
+00:04:38,419 --> 00:04:42,249
+Et contrairement aux autres animaux,
+nous, les humains, avions découvert le feu
+
+86
+00:04:42,250 --> 00:04:43,619
+et pouvions fabriquer des vêtements
+
+87
+00:04:43,620 --> 00:04:48,998
+pour nous garder au chaud
+sans avoir besoin d'un manteau de fourrure intégré.
+
+88
+00:04:48,999 --> 00:04:54,039
+Bien sûr, les cheveux longs qui tombent sur
+vos oreilles et votre cou peuvent vous garder au chaud.
+
+89
+00:04:54,040 --> 00:05:00,109
+Mais les principales théories soutiennent également
+que les cheveux longs peuvent être de
+
+90
+00:05:00,110 --> 00:05:01,508
+notre faute.
+
+91
+00:05:01,509 --> 00:05:03,998
+Un résultat du fait que les premiers humains ont
+
+92
+00:05:03,999 --> 00:05:07,849
+choisi des compagnons qui pouvaient faire pousser des cheveux plus longs sur la tête.
+
+93
+00:05:07,850 --> 00:05:10,528
+Les compagnons qui pouvaient le faire étaient probablement en meilleure santé
+
+94
+00:05:10,529 --> 00:05:14,388
+et dans les climats plus froids avaient littéralement un chapeau intégré
+
+95
+00:05:14,389 --> 00:05:16,558
+pour garder leur corps au chaud.
+
+96
+00:05:16,559 --> 00:05:20,629
+L'une des questions que je reçois le
+plus concerne les flotteurs oculaires.
+
+97
+00:05:20,630 --> 00:05:24,549
+Ces petits points ou gribouillis que vous voyez
+dans votre vision, surtout lorsque vous regardez
+
+98
+00:05:24,550 --> 00:05:28,459
+une scène fade, comme le ciel bleu clair.
+
+99
+00:05:28,460 --> 00:05:32,649
+Les flotteurs oculaires sont constitués de petites fibres
+qui se forment dans votre œil à
+
+100
+00:05:32,650 --> 00:05:37,808
+mesure que vous vieillissez.  Et vous ne pouvez pas les
+regarder directement car ils sont à l'intérieur du liquide
+
+101
+00:05:37,809 --> 00:05:43,079
+de votre œil.  Tourner votre œil pour les
+regarder fait simplement bouger le fluide
+
+102
+00:05:43,080 --> 00:05:47,718
+et le flotteur également.
+Mais ce que j'aime le plus avec les flotteurs oculaires,
+
+103
+00:05:47,719 --> 00:05:49,878
+c'est qu'ils sont presque toujours
+
+104
+00:05:49,879 --> 00:05:51,388
+microscopiques.
+
+105
+00:05:51,389 --> 00:05:54,158
+Vous ne pouvez pas les voir à l'œil nu,
+
+106
+00:05:54,159 --> 00:05:57,138
+sauf lorsqu'ils sont à l'intérieur de
+
+107
+00:05:57,139 --> 00:05:58,119
+votre œil.
+
+108
+00:05:58,120 --> 00:06:02,228
+Si vous deviez retirer un flotteur oculaire,
+vous ne pourriez pas le voir.  Mais dans votre œil,
+
+109
+00:06:02,229 --> 00:06:04,519
+il est suffisamment proche de la rétine
+
+110
+00:06:04,520 --> 00:06:09,188
+pour laisser une ombre sur la rétine et
+c'est ce que vous voyez lorsque vous voyez des corps
+
+111
+00:06:09,189 --> 00:06:10,868
+flottants.
+
+112
+00:06:10,869 --> 00:06:14,679
+Enfin, combien pèserait Wikipédia
+
+113
+00:06:14,680 --> 00:06:17,139
+si j'imprimais tout le texte
+
+114
+00:06:17,140 --> 00:06:19,609
+et le reliais dans des livres ?
+Heureusement,
+
+115
+00:06:19,610 --> 00:06:24,049
+il existe un article Wikipedia sur ce sujet.
+
+116
+00:06:24,050 --> 00:06:28,239
+Wikipédia en anglais contient
+environ deux milliards trois cent
+
+117
+00:06:28,240 --> 00:06:31,168
+quarante cinq millions de mots, qui,
+
+118
+00:06:31,169 --> 00:06:35,869
+s'ils étaient imprimés à la densité de l'
+Encyclopedia Britannica, équivaudraient à
+
+119
+00:06:35,870 --> 00:06:36,679
+environ
+
+120
+00:06:36,680 --> 00:06:39,668
+1 759
+
+121
+00:06:39,669 --> 00:06:40,739
+volumes.
+
+122
+00:06:40,740 --> 00:06:41,749
+Qui ressemblerait
+
+123
+00:06:41,750 --> 00:06:42,948
+à ça.
+
+124
+00:06:42,949 --> 00:06:47,519
+Au total, ils pèseraient environ 7 000 livres.
+
+125
+00:06:47,520 --> 00:06:50,799
+Si vous avez entre 13 et 18 ans,
+
+126
+00:06:50,800 --> 00:06:52,198
+vous voudrez peut-être consulter
+
+127
+00:06:52,199 --> 00:06:53,249
+le Google
+
+128
+00:06:53,250 --> 00:06:54,739
+Science Fair.
+
+129
+00:06:54,740 --> 00:06:58,228
+C'est une compétition incroyable.
+Ces gars sont super.  Ils ont en fait aidé à
+
+130
+00:06:58,229 --> 00:07:01,438
+faire cette animation du pont terrestre pour moi.
+
+131
+00:07:01,439 --> 00:07:02,948
+Assurez-vous donc de consulter
+
+132
+00:07:02,949 --> 00:07:05,739
+GoogleScienceFair.com.
+
+133
+00:07:05,740 --> 00:07:08,239
+Et je continuerai à vérifier Los Angeles.
+Je suis ici
+
+134
+00:07:08,240 --> 00:07:11,328
+avec Kevin et Jake de Vsauce2 et 3
+
+135
+00:07:11,329 --> 00:07:12,788
+pour la toute première fois.
+
+136
+00:07:12,789 --> 00:07:17,618
+Nous n'avons jamais été tous les trois au même
+endroit simultanément jusqu'à présent, alors
+
+137
+00:07:17,619 --> 00:07:20,798
+assurez-vous d'être abonné à nous, car des vidéos incroyables
+
+138
+00:07:20,799 --> 00:07:22,109
+arriveront bientôt.
+
+139
+00:07:22,110 --> 00:07:24,259
+Et comme toujours, merci d'avoir regardé.
+

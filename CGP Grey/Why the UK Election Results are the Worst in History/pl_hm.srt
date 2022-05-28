@@ -1,0 +1,284 @@
+1
+00:00:00,250 --> 00:00:00,978
+Cześć internecie!
+
+2
+00:00:00,979 --> 00:00:05,059
+Musimy porozmawiać o wyborach w Wielkiej Brytanii, bo gdy debaty już się skończyły,
+
+3
+00:00:05,060 --> 00:00:07,778
+ludzie zagłosowali, a głosy zostały podliczone, wyniki były takie:
+
+4
+00:00:07,779 --> 00:00:10,259
+Ale podział parlamentu wyglądał tak:
+
+5
+00:00:10,260 --> 00:00:14,899
+Czyli nie bardzo przypominał wyniki głosowania. Gdzie przez "nie bardzo" mam na myśli "ani trochę".
+
+6
+00:00:14,900 --> 00:00:19,608
+Czerwoni zdobyli 30% głosów i zajmują 36% miejsc, całkiem nieżle,
+
+7
+00:00:19,609 --> 00:00:24,698
+ale reszta to szaleństwo: Pomarańczowi dostali 8% głosów ale zajmują 1/8 tego, 5% Żółtych
+
+8
+00:00:24,699 --> 00:00:28,278
+zostało niemal podwojone, a 13% Fioletowych w zasadzie kompletnie zniknęło.
+
+9
+00:00:28,279 --> 00:00:33,669
+Tymczasem 37% Niebieskich urosło do 51% miejsc w parlamencie.
+
+10
+00:00:33,670 --> 00:00:38,869
+Ale w praktyce dostali jeszcze więcej bo 51% miejsc oznacza
+
+11
+00:00:38,870 --> 00:00:39,799
+100% kontroli.
+
+12
+00:00:39,800 --> 00:00:40,529
+Jak to się stało?
+
+13
+00:00:40,530 --> 00:00:45,049
+W Wielkiej Brytanii wybory krajowe nie są na prawdę krajowe. To po prostu wiele wyborów lokalnych.
+
+14
+00:00:45,050 --> 00:00:49,709
+Wielka Brytania jest podzielona na okręgi, z których każdy wybiera jednego członka parlamentu
+
+15
+00:00:49,710 --> 00:00:54,218
+który go reprezentuje. I to podział na okręgi powoduje całe zamieszanie.
+
+16
+00:00:54,219 --> 00:00:58,339
+Wyobraźmy sobie że są tylko trzy okręgi i natychmiast widać czemu miejsca w sejmie
+
+17
+00:00:58,340 --> 00:01:03,159
+nie zawsze dobrze reprezentują wyniki. Wiele osób mówi, że o to przecież chodzi
+
+18
+00:01:03,160 --> 00:01:07,199
+żeby wygrywać lokalne wybory i żeby każdy poseł reprezentował swój okręg.
+
+19
+00:01:07,200 --> 00:01:11,919
+I mimo że dysproporcja w tym przykładzie jest przesadzona, w rzeczywistości
+
+20
+00:01:11,920 --> 00:01:16,429
+mamy ten sam problem i pada ten sam argument. Ale oprócz tego są jeszcze
+
+21
+00:01:16,430 --> 00:01:17,539
+dwa problemy.
+
+22
+00:01:17,540 --> 00:01:23,118
+1) Niewielu wyborców pamięta kto reprezentuje ich okrąg, i wie tylko na którą partię zagłosowali,
+
+23
+00:01:23,119 --> 00:01:27,959
+i która partia powinna ich reprezentować. Wobec tego udawanie
+
+24
+00:01:27,960 --> 00:01:33,749
+że chodzi o lokalne wybory jest raczej nieuczciwe. W praktyce wybory mają określić
+
+25
+00:01:33,750 --> 00:01:38,429
+jak będzie działało państwo, a nie kto będzie reprezentował jego mały skrawek.
+
+26
+00:01:38,430 --> 00:01:39,099
+A nawet jeśli
+
+27
+00:01:39,100 --> 00:01:43,898
+to 2) wyniki w pojedynczym okręgu jeszcze gorzej odzwierciedlają głosy wyborców.
+
+28
+00:01:43,899 --> 00:01:46,449
+Może odpuszczę sobie tą monstrualną tabelę, co?
+
+29
+00:01:46,450 --> 00:01:49,849
+Różnica pomiędzy wynikami w wyborach i podziałem miejsc w parlamencie to
+
+30
+00:01:49,850 --> 00:01:52,589
+poziom niereprezentatywności.
+
+31
+00:01:52,590 --> 00:01:56,669
+Jeśli zsumujemy jak bardzo reprezentacja partii odbiega od ilości otrzymanych głosów,
+
+32
+00:01:56,670 --> 00:02:03,489
+parlament jako całość jest źle reprezentowany w 47%. Co wygląda źle, ale jest oazą różnorodności
+
+33
+00:02:03,490 --> 00:02:08,738
+w porównaniu do dowolnych wyborów lokalnych, bo w wyborach lokalnych jest
+
+34
+00:02:08,739 --> 00:02:17,669
+tylko jeden zwycięzca. Spośród 650, w 647 okręgach poziom niereprezentatywności
+
+35
+00:02:17,670 --> 00:02:22,429
+jest wyższy niż w parlamencie. A to są pozostałe trzy i trzeba przyznać że są wyjątkowe
+
+36
+00:02:22,430 --> 00:02:26,269
+pod względem zgodności wyborców.
+
+37
+00:02:26,270 --> 00:02:32,458
+Większość miejsc wygląda raczej jak Wrekin, ktore jest w połowie listy i gdzie błąd to około 100%.
+
+38
+00:02:32,459 --> 00:02:37,199
+Nawet w tym okręgu to większość zagłosowała na przegranego kandydata, a zatem
+
+39
+00:02:37,200 --> 00:02:41,469
+ponad połowa okręgów wybrała swojego przedstawiciela mniejszością głosów.
+
+40
+00:02:41,470 --> 00:02:47,659
+Najgorzej było w południowym Belfaście który jest na końcu listy. Imponująco niereprezentatywny wynik.
+
+41
+00:02:47,660 --> 00:02:51,909
+Mniej niż 1/4 wyborców zagłosowała na tego kto ma zasiadać w parlamencie.
+
+42
+00:02:51,910 --> 00:02:56,119
+To najmniejsza ilość głosów w historii, jaka wystarczyła aby wejść do parlamentu.
+
+43
+00:02:56,120 --> 00:02:59,818
+A zatem gdy ludzie argumentują że wybory to wiele wyborów lokalnych,
+
+44
+00:02:59,819 --> 00:03:03,639
+dają raczej argument przeciw, bo wyniki wyborów lokalnych są jeszcze gorsze niż wyniki
+
+45
+00:03:03,640 --> 00:03:05,139
+całego parlamentu.
+
+46
+00:03:05,140 --> 00:03:08,149
+Te lokalne wyniki są niereprezentatywne z powodu wyboru przez większość względną
+
+47
+00:03:08,150 --> 00:03:11,809
+(na co już narzekałem i nie chcę tu wszystkiego powtarzać, możesz
+
+48
+00:03:11,810 --> 00:03:16,318
+obejrzeć mój starszy filmik), który działa tylko gdy ma się tylko dwie możliwości do wyboru.
+
+49
+00:03:16,319 --> 00:03:21,719
+Głosowanie na małą partię tylko zwieksza szansę że duża wygra mniejszością głosów...
+
+50
+00:03:21,720 --> 00:03:24,059
+i dokładnie to się wydarzyło.
+
+51
+00:03:24,060 --> 00:03:27,119
+Ponieważ ludzie głosują na mniejsze partie mimo że jest to strategiczny błąd,
+
+52
+00:03:27,120 --> 00:03:32,619
+pokazuje że chcą bardziej różnorodnej reprezentacji, i to paradoksalnie doprowadziło
+
+53
+00:03:32,620 --> 00:03:37,298
+do najmniej reprezentatywnych wyników wyborów w historii
+
+54
+00:03:37,299 --> 00:03:38,939
+parlamentu Wielkiej Brytanii.
+
+55
+00:03:38,940 --> 00:03:43,089
+Ludzie zadowoleni z wyników argumentuję, oczywiście, że wszystko jest w porządku.
+
+56
+00:03:43,090 --> 00:03:44,939
+Ich drużyna wygrała.
+
+57
+00:03:44,940 --> 00:03:48,539
+Ale wybory to nie zawody gdzie musi byś jeden zwycięzca. To system zasad
+
+58
+00:03:48,540 --> 00:03:54,229
+którego wszyscy muszą przestrzegać, a więc reguły muszą być uczciwe według każdego,
+
+59
+00:03:54,230 --> 00:03:58,048
+nawet tego, kto nie jest zadowolony z wyników głosowania.
+
+60
+00:03:58,049 --> 00:04:03,298
+Jeżeli wspierasz system który sprawia że głos niektórych nie ma żadnego wpływu, a innych
+
+61
+00:04:03,299 --> 00:04:08,339
+liczy się podwójnie, to raczej nie jesteś zwolennikiem demokracji pośredniej, a popierasz
+
+62
+00:04:08,340 --> 00:04:14,279
+coś na kształt umiarkowanej dyktatury, w której mała grupka (w tym Ty)
+
+63
+00:04:14,280 --> 00:04:16,189
+decyduje o zasadach dla wszystkich.
+
+64
+00:04:16,190 --> 00:04:22,739
+Ale obecnie, im więcej ludzi w dniu wyborów wyraża czego na prawdę oczekuje, tym gorzej
+
+65
+00:04:22,740 --> 00:04:30,119
+wyglądają ostateczne wyniki, i wszyscy są zniechęceni albo źli i... no... zupełnie nie rozumiem czemu...
+
+66
+00:04:30,120 --> 00:04:30,499
+ 
+
+67
+00:04:30,500 --> 00:04:35,309
+Ale to da się naprawić bo jest mnóstwo lepszych systemów głosowania, na przykład te dwa
+
+68
+00:04:35,310 --> 00:04:37,159
+które pozwalają na wybór lokalnych reprezentantów.
+
+69
+00:04:37,160 --> 00:04:42,719
+Naprawienie systemu głosowania jest na prawdę ważne,  TO jest miara nieuprawnienia rządu do rządzenia,
+
+70
+00:04:42,720 --> 00:04:47,989
+która do tej pory rosła i będzie dalej rosnąć, dopóki ten fundamentalnie zły
+
+71
+00:04:47,990 --> 00:05:00,500
+system głosowania nie zostanie zmieniony.
+

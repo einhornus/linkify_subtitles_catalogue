@@ -1,0 +1,1175 @@
+1
+00:00:00,000 --> -1:59:59,999
+[música de sintetizador instrumental lúdica desaparece lentamente]
+Você sabe...
+
+2
+00:00:00,000 --> 00:00:00,959
+Você sabe...
+
+3
+00:00:00,960 --> 00:00:03,751
+Hexágonos são os melhores.
+
+4
+00:00:03,752 --> 00:00:04,428
+Por quê?
+
+5
+00:00:04,429 --> 00:00:05,722
+Porque abelhas.
+
+6
+00:00:05,723 --> 00:00:06,835
+As abelhas são as melhores
+
+7
+00:00:06,836 --> 00:00:09,300
+e constroem apenas o bestagon, o hexágono.
+
+8
+00:00:09,301 --> 00:00:10,529
+Agora, eu sei o que você está pensando.
+
+9
+00:00:10,530 --> 00:00:12,939
+As abelhas constroem hexágonos porque são hexápodes
+
+10
+00:00:12,940 --> 00:00:14,129
+com olhos hexagonais.
+
+11
+00:00:14,130 --> 00:00:15,759
+Como eles poderiam fazer o contrário?
+
+12
+00:00:15,760 --> 00:00:16,709
+Excelente ponto.
+
+13
+00:00:16,710 --> 00:00:19,819
+Mas o humilde bumble tem um problema de engenharia para resolver.
+
+14
+00:00:19,820 --> 00:00:22,159
+Ela faz duas coisas: mel e cera.
+
+15
+00:00:22,160 --> 00:00:23,169
+O primeiro para comer,
+
+16
+00:00:23,170 --> 00:00:25,029
+e o último para conter o primeiro.
+
+17
+00:00:25,030 --> 00:00:26,459
+Para fazer apenas um pouco de mel,
+
+18
+00:00:26,460 --> 00:00:28,569
+ela deve visitarmuitas flores.
+
+19
+00:00:28,570 --> 00:00:30,149
+E para fazer uma unidade de cera,
+
+20
+00:00:30,150 --> 00:00:31,769
+ela precisa de oito unidades de mel.
+
+21
+00:00:31,770 --> 00:00:33,859
+A cera é cara para as abelhas em termos de flores,
+
+22
+00:00:33,860 --> 00:00:35,859
+e o mel é pingando em termos de comida,
+
+23
+00:00:35,860 --> 00:00:38,299
+então fazer uma colmeia que contenha o máximo de
+
+24
+00:00:38,300 --> 00:00:41,319
+mel usando o mínimo de cera é extremamente vital.
+
+25
+00:00:41,320 --> 00:00:43,159
+Assim, uma conjectura de favo de mel.
+
+26
+00:00:43,160 --> 00:00:44,769
+Qual forma funciona melhor?
+
+27
+00:00:44,770 --> 00:00:46,469
+Para responder, precisamos falar de telhas.
+
+28
+00:00:46,470 --> 00:00:49,439
+O ladrilho está cobrindo uma superfície com um padrão de polígonos.
+
+29
+00:00:49,440 --> 00:00:50,579
+Há muitas opções
+
+30
+00:00:50,580 --> 00:00:52,219
+porque há muitos polígonos.
+
+31
+00:00:52,220 --> 00:00:54,519
+Até os frequentadores continuam e continuam.
+
+32
+00:00:54,520 --> 00:00:55,919
+Agora, para padrões de coleta de abelhas,
+
+33
+00:00:55,920 --> 00:00:57,069
+os mais complicados
+
+34
+00:00:57,070 --> 00:00:59,509
+obviamente usam mais linhas do que o necessário.
+
+35
+00:00:59,510 --> 00:01:01,159
+É isso que significa complicado.
+
+36
+00:01:01,160 --> 00:01:02,879
+E assim um favo de mel desse azulejo
+
+37
+00:01:02,880 --> 00:01:04,699
+usaria mais cera por mel.
+
+38
+00:01:04,700 --> 00:01:06,159
+Então, aderindo aos regulares simples,
+
+39
+00:01:06,160 --> 00:01:08,239
+há apenas três que se encaixam firmemente.
+
+40
+00:01:08,240 --> 00:01:09,849
+Triângulo, quadrado e hexágono.
+
+41
+00:01:09,850 --> 00:01:12,259
+Pentágonos são hexágonos quebrados deixando lacunas.
+
+42
+00:01:12,260 --> 00:01:13,399
+O mesmo com os septágonos.
+
+43
+00:01:13,400 --> 00:01:14,549
+Octógonos são bons,
+
+44
+00:01:14,550 --> 00:01:15,829
+mas não são hexágonos.
+
+45
+00:01:15,830 --> 00:01:18,479
+O que deixa o trio de ladrilhos que ladrilha de forma diferente.
+
+46
+00:01:18,480 --> 00:01:20,189
+Um quadrado é um quadrado de quadrados,
+
+47
+00:01:20,190 --> 00:01:22,189
+que é um quadrado de quadrados, e assim por diante.
+
+48
+00:01:22,190 --> 00:01:24,419
+Quadrados são arrumados, basicamente, trapaceando.
+
+49
+00:01:24,420 --> 00:01:26,029
+Cobrindo um plano infinito com um
+
+50
+00:01:26,030 --> 00:01:28,029
+número infinito de linhas paralelas.
+
+51
+00:01:28,030 --> 00:01:30,809
+Tipo, uau, é isso que um avião é.
+
+52
+00:01:30,810 --> 00:01:31,749
+Entediante!
+
+53
+00:01:31,750 --> 00:01:33,179
+Os triângulos fazem o mesmo truque,
+
+54
+00:01:33,180 --> 00:01:35,549
+dividindo-se em nada infinito.
+
+55
+00:01:35,550 --> 00:01:36,999
+Mas não o hexágono!
+
+56
+00:01:37,000 --> 00:01:38,529
+O único polígono regular
+
+57
+00:01:38,530 --> 00:01:42,019
+a ladrilhar um plano sem recorrer à autodivisão degradante,
+
+58
+00:01:42,020 --> 00:01:43,789
+ao contrário de alguns quadrados que poderia citar.
+
+59
+00:01:43,790 --> 00:01:45,209
+Pelo menos o triângulo está tentando ser
+
+60
+00:01:45,210 --> 00:01:47,209
+mais interessante geometricamente do que o quadrado,
+
+61
+00:01:47,210 --> 00:01:48,339
+juntando-se um pouco para...
+
+62
+00:01:48,340 --> 00:01:49,809
+um, dois, três, quatro, cinco, seis.
+
+63
+00:01:49,810 --> 00:01:50,689
+Espere, hexágono!
+
+64
+00:01:50,690 --> 00:01:52,019
+As outras formas não podem evitar.
+
+65
+00:01:52,020 --> 00:01:54,109
+Eles só querem ser o bestagon.
+
+66
+00:01:54,110 --> 00:01:55,299
+Mesmo alguns dos irregulares,
+
+67
+00:01:55,300 --> 00:01:57,139
+como o losango, ladrilham por hexágono.
+
+68
+00:01:57,140 --> 00:01:58,679
+O mesmo com seus triakis tilis,
+
+69
+00:01:58,680 --> 00:02:01,289
+[com dificuldade]
+e trihexagonais deltóides,
+
+70
+00:02:01,290 --> 00:02:03,329
+[com dificuldade contínua]
+e seus, ah, kisrhombille,
+
+71
+00:02:03,330 --> 00:02:06,609
+[com risos]
+e pentagonais floretes.
+
+72
+00:02:06,610 --> 00:02:07,979
+Olha, eles são todos apenas hexágonos.
+
+73
+00:02:07,980 --> 00:02:09,159
+Até mesmo os ladrilhos do Cairo
+
+74
+00:02:09,160 --> 00:02:10,149
+(pobres pentágonos) são
+
+75
+00:02:10,150 --> 00:02:13,259
+empilhados da melhor maneira possível para formar um hexágono irregular.
+
+76
+00:02:13,260 --> 00:02:16,029
+O resto simplesmente não pode competir com os melhores.
+
+77
+00:02:16,030 --> 00:02:16,839
+O hexágono,
+
+78
+00:02:16,840 --> 00:02:18,409
+nobremente indivisível,
+
+79
+00:02:18,410 --> 00:02:19,789
+é o bestagon.
+
+80
+00:02:19,790 --> 00:02:21,029
+Uh, onde estávamos?
+
+81
+00:02:21,030 --> 00:02:22,269
+Ah certo, conjectura do favo de mel.
+
+82
+00:02:22,270 --> 00:02:24,479
+Max querida.  Cera min.  Três opções.
+
+83
+00:02:24,480 --> 00:02:26,479
+Oksimhá o círculo.
+
+84
+00:02:26,480 --> 00:02:29,289
+Uma forma definida pelo menor perímetro para a maior área,
+
+85
+00:02:29,290 --> 00:02:31,199
+mas que só funciona quando você precisa de apenas um.
+
+86
+00:02:31,200 --> 00:02:33,779
+Faça círculos e isso é o melhor que eles podem fazer.
+
+87
+00:02:33,780 --> 00:02:35,199
+Olhe para todo esse espaço desperdiçado!
+
+88
+00:02:35,200 --> 00:02:36,499
+E mesmo se você preencher as lacunas
+
+89
+00:02:36,500 --> 00:02:37,969
+, ainda usa mais cera.
+
+90
+00:02:37,970 --> 00:02:39,319
+E, novamente, a maneira como esses círculos
+
+91
+00:02:39,320 --> 00:02:40,299
+se organizam
+
+92
+00:02:40,300 --> 00:02:41,039
+... é quase como...  um dois
+
+93
+00:02:41,040 --> 00:02:42,009
+três quatro cinco seis
+
+94
+00:02:42,010 --> 00:02:42,969
+hexágono oculto!
+
+95
+00:02:42,970 --> 00:02:44,389
+As abelhas usam o hexágono
+
+96
+00:02:44,390 --> 00:02:46,209
+porque nenhuma forma é melhor para criar
+
+97
+00:02:46,210 --> 00:02:48,689
+a área máxima para a parede mínima.
+
+98
+00:02:48,690 --> 00:02:50,689
+E essa estatística min-max do hexágono
+
+99
+00:02:50,690 --> 00:02:53,689
+é um dos muitos motivos pelos quais eles aparecem emtodos os lugares.
+
+100
+00:02:53,690 --> 00:02:56,329
+Inclusive nos olhos da abelha acima mencionada.
+
+101
+00:02:56,330 --> 00:02:58,649
+Cada hexágono é um longo tubo que leva
+
+102
+00:02:58,650 --> 00:03:00,499
+às células captadoras de luz na parte inferior.
+
+103
+00:03:00,500 --> 00:03:02,119
+Mais luz é igual a uma melhor visão e os
+
+104
+00:03:02,120 --> 00:03:04,289
+hexágonos deixam mais luz
+
+105
+00:03:04,290 --> 00:03:06,319
+usando a menor quantidade de parede.
+
+106
+00:03:06,320 --> 00:03:08,599
+Então, por queseusolhos não são hexágonos?
+
+107
+00:03:08,600 --> 00:03:09,769
+Au contraire mon ami,
+
+108
+00:03:09,770 --> 00:03:11,259
+eles são l'Hexagone.
+
+109
+00:03:11,260 --> 00:03:14,089
+[intensamente]
+Não por fora, mas por dentro.
+
+110
+00:03:14,090 --> 00:03:16,929
+Suas células captadoras de luz estão na parte de trás do seu olho,
+
+111
+00:03:16,930 --> 00:03:19,909
+em uma grade hexagonal pelo mesmo motivo que as abelhas.
+
+112
+00:03:19,910 --> 00:03:21,529
+Luz máxima, parede mínima.
+
+113
+00:03:21,530 --> 00:03:23,039
+Sua janela para o mundo
+
+114
+00:03:23,040 --> 00:03:24,719
+é apenas através do hexágono.
+
+115
+00:03:24,720 --> 00:03:26,719
+Isso não o torna o bestagon?
+
+116
+00:03:26,720 --> 00:03:28,589
+Ok, talvez hexágono como min-max-agon
+
+117
+00:03:28,590 --> 00:03:29,869
+não chame sua atenção.
+
+118
+00:03:29,870 --> 00:03:31,669
+Então que tal um pouco de mistério, oui?
+
+119
+00:03:31,670 --> 00:03:33,509
+Vamos viajar para Saturno.
+
+120
+00:03:33,510 --> 00:03:35,459
+Sim, os anéis chamam a atenção,
+
+121
+00:03:35,460 --> 00:03:36,739
+mas deixe o equador,
+
+122
+00:03:36,740 --> 00:03:39,529
+viaje para o norte e aqui está o inexplicável.
+
+123
+00:03:39,530 --> 00:03:41,529
+O Grande Hexágono de Saturno.
+
+124
+00:03:41,530 --> 00:03:42,579
+Precisa de algo para escala?
+
+125
+00:03:42,580 --> 00:03:43,959
+Bem, aqui está a Terra.
+
+126
+00:03:43,960 --> 00:03:46,189
+Oh, aqui estão seis Terras.
+
+127
+00:03:46,190 --> 00:03:48,719
+O hexágono de Saturno ébem grande.
+
+128
+00:03:48,720 --> 00:03:49,589
+O que é isso?
+
+129
+00:03:49,590 --> 00:03:52,249
+Bem, você pode estar pensando que é uma formação geológica.
+
+130
+00:03:52,250 --> 00:03:53,979
+Uma enorme coluna de basalto
+
+131
+00:03:53,980 --> 00:03:56,189
+como as versões menores que você encontra na Terra.
+
+132
+00:03:56,190 --> 00:03:56,769
+Mas não.
+
+133
+00:03:56,770 --> 00:03:58,069
+Saturno é um gigante gasoso.
+
+134
+00:03:58,070 --> 00:04:00,699
+Não há superfície ou geologia para falar.
+
+135
+00:04:00,700 --> 00:04:04,299
+Assim, o grande hexágono é composto de nuvens disformes de
+
+136
+00:04:04,300 --> 00:04:07,219
+alguma forma mantendo a forma e mudando de cor.
+
+137
+00:04:07,220 --> 00:04:09,829
+É um magnífico mistério do sistema solar.
+
+138
+00:04:09,830 --> 00:04:11,829
+E, embora eu não seja um arqueólogo espacial,
+
+139
+00:04:11,830 --> 00:04:14,809
+se eu estivesse procurando por um monólito dotado de alienígenas,
+
+140
+00:04:14,810 --> 00:04:16,549
+no planeta mais “olhe para mim”,
+
+141
+00:04:16,550 --> 00:04:19,768
+sob um farol hexagonal com lados do tamanho da Terra,
+
+142
+00:04:19,769 --> 00:04:21,249
+
+é por aí que eu começaria  .
+
+143
+00:04:21,250 --> 00:04:23,659
+Afinal, o que os alienígenas gostariam de fazer
+
+144
+00:04:23,660 --> 00:04:25,909
+primeiro contato com os macacos próximos
+
+145
+00:04:25,910 --> 00:04:27,729
+antes de se tornarem iluminados
+
+146
+00:04:27,730 --> 00:04:29,729
+para buscar a verdade universal.
+
+147
+00:04:29,730 --> 00:04:31,799
+Hexágono é o bestagon.
+
+148
+00:04:31,800 --> 00:04:34,529
+Do maior ao menor.
+
+149
+00:04:34,530 --> 00:04:37,359
+Digamos, por exemplo, este pequeno floco de neve que eu tenho,
+
+150
+00:04:37,360 --> 00:04:40,199
+que tem seis lados, como todos os flocos de neve.
+
+151
+00:04:40,200 --> 00:04:41,719
+Puxa, o que poderia causar isso?
+
+152
+00:04:41,720 --> 00:04:44,209
+Vamos diminuir o zoom para o reino atômico e ver.
+
+153
+00:04:44,210 --> 00:04:46,689
+Quando as moléculas de água se juntam para formar um floco,
+
+154
+00:04:46,690 --> 00:04:49,239
+a forma robusta que preferem é o hexágono.
+
+155
+00:04:49,240 --> 00:04:50,649
+À medida que mais moléculas se juntam,
+
+156
+00:04:50,650 --> 00:04:52,419
+elas estendem o floco fractalmente para cima.
+
+157
+00:04:52,420 --> 00:04:54,809
+A beleza do floco de neve na escala do macaco
+
+158
+00:04:54,810 --> 00:04:57,559
+é apenas uma extensão da perfeição hexagonal
+
+159
+00:04:57,560 --> 00:04:58,819
+na escala atômica.
+
+160
+00:04:58,820 --> 00:04:59,729
+Ok,sim*.*
+
+161
+00:04:59,730 --> 00:05:02,059
+Às vezes você encontrará flocos de neve com doze lados,
+
+162
+00:05:02,060 --> 00:05:03,649
+mas isso acontece quando dois flocos de neve em crescimento
+
+163
+00:05:03,650 --> 00:05:05,429
+ficam grudados, então ainda conta.
+
+164
+00:05:05,430 --> 00:05:07,429
+E o hexágono não é apenas para a neve,
+
+165
+00:05:07,430 --> 00:05:09,069
+mas para todo o gelo 1H, o
+
+166
+00:05:09,070 --> 00:05:11,229
+que significa basicamente todo o gelo da Terra.
+
+167
+00:05:11,230 --> 00:05:12,699
+Sim, há um pouco de gelo 1C sobre o
+
+168
+00:05:12,700 --> 00:05:13,599
+qual não falamos
+
+169
+00:05:13,600 --> 00:05:14,819
+porque é feito de cubos,
+
+170
+00:05:14,820 --> 00:05:16,069
+e cubos são chatos.
+
+171
+00:05:16,070 --> 00:05:17,429
+E há um pouco de gelo 9.
+
+172
+00:05:17,430 --> 00:05:18,179
+Não, não toque nisso.
+
+173
+00:05:18,180 --> 00:05:19,629
+Mas se houver gelo em sua bebida
+
+174
+00:05:19,630 --> 00:05:22,219
+, agradeça ao hexágono por mantê-la fresca.
+
+175
+00:05:22,220 --> 00:05:23,279
+E não é só água.
+
+176
+00:05:23,280 --> 00:05:25,479
+Muitos átomos usam hexágonos porque…
+
+177
+00:05:25,480 --> 00:05:26,359
+(observe)
+
+178
+00:05:26,360 --> 00:05:28,359
+hexágonos são os melhores.
+
+179
+00:05:28,360 --> 00:05:29,659
+Ah, usando um lápis?
+
+180
+00:05:29,660 --> 00:05:31,659
+Prepare-se para ter sua mente explodida
+
+181
+00:05:31,660 --> 00:05:33,439
+sobre o hexágono aqui também.
+
+182
+00:05:33,440 --> 00:05:34,339
+A liderança.
+
+183
+00:05:34,340 --> 00:05:36,339
+Bem, não é chumbo chumbo, é carbono.
+
+184
+00:05:36,340 --> 00:05:38,799
+E você sabe o que os átomos de carbono acham que é o bestagon?
+
+185
+00:05:38,800 --> 00:05:40,309
+[snap]
+O hexágono.
+
+186
+00:05:40,310 --> 00:05:43,159
+A grafite lápis é um monte de carbonos hexagonais,
+
+187
+00:05:43,160 --> 00:05:45,159
+e quando eles estão em uma folha reta,
+
+188
+00:05:45,160 --> 00:05:46,239
+isso égrafeno,
+
+189
+00:05:46,240 --> 00:05:48,259
+que por acaso é o
+
+190
+00:05:48,260 --> 00:05:50,599
+material atômico mais forte do universo.
+
+191
+00:05:50,600 --> 00:05:52,379
+Alguns dos quais estão naquele lápis.
+
+192
+00:05:52,380 --> 00:05:53,939
+Para rasgar uma folha de grafeno,
+
+193
+00:05:53,940 --> 00:05:56,189
+você precisaria de cem vezes mais força
+
+194
+00:05:56,190 --> 00:05:57,699
+do que com aço.
+
+195
+00:05:57,700 --> 00:05:59,629
+Hexagon é forte.
+
+196
+00:05:59,630 --> 00:06:01,579
+Isso ocorre porque quando os hexágonos se juntam,
+
+197
+00:06:01,580 --> 00:06:04,769
+eles formam juntas de três lados com 120 graus de distância.
+
+198
+00:06:04,770 --> 00:06:06,329
+Este, para o menor material,
+
+199
+00:06:06,330 --> 00:06:08,729
+é o arranjo mecanicamente mais estável.
+
+200
+00:06:08,730 --> 00:06:09,659
+Puxe uma articulação
+
+201
+00:06:09,660 --> 00:06:11,499
+e as outras duas igualmente puxam para trás,
+
+202
+00:06:11,500 --> 00:06:13,079
+empurram e as outras duas são as
+
+203
+00:06:13,080 --> 00:06:15,079
+mais capazes e estáveis de resis
+
+204
+00:06:15,080 --> 00:06:17,079
+ir.  Agora olhe novamente para um ladrilho de hexágonos
+
+205
+00:06:17,080 --> 00:06:18,839
+e você verá que ele é composto de nada
+
+206
+00:06:18,840 --> 00:06:20,289
+além dessas juntas estáveis máximas, cada 
+
+207
+00:06:20,290 --> 00:06:22,659
+ma disposta perfeitamente para ajudar as outras a serem
+
+208
+00:06:22,660 --> 00:06:24,119
+mais fortes e está
+
+209
+00:06:24,120 --> 00:06:27,419
+eis.  Esta éoutrarazão pela qual os hexágonos aparecem em todos os lugares.
+
+210
+00:06:27,420 --> 00:06:30,609
+O universo abençoa a estabilidade em sua física,
+
+211
+00:06:30,610 --> 00:06:32,209
+desde aquelas colunas de basalto,
+
+212
+00:06:32,210 --> 00:06:33,149
+até as bolhas que
+
+213
+00:06:33,150 --> 00:06:34,149
+, assim que podem,
+
+214
+00:06:34,150 --> 00:06:36,079
+abandonam suas esferas para
+
+215
+00:06:36,080 --> 00:06:38,879
+se aproximarem da perfeição hexagonal.
+
+216
+00:06:38,880 --> 00:06:39,949
+Isto é tão legal.
+
+217
+00:06:39,950 --> 00:06:40,559
+Ah certo, sim.
+
+218
+00:06:40,560 --> 00:06:42,239
+Então, se o seu lápis contém
+
+219
+00:06:42,240 --> 00:06:44,639
+um dos materiais mais fortesdo universo,
+
+220
+00:06:44,640 --> 00:06:45,699
+como você pode escrever com ele?
+
+221
+00:06:45,700 --> 00:06:46,429
+Está bem, está bem.
+
+222
+00:06:46,430 --> 00:06:49,009
+Isso vai ficarainda mais emocionante.
+
+223
+00:06:49,010 --> 00:06:51,289
+Embora os hexágonos sejam super fortesdessamaneira,
+
+224
+00:06:51,290 --> 00:06:53,189
+eles não são super fortesdessamaneira.
+
+225
+00:06:53,190 --> 00:06:54,039
+Em pequena escala,
+
+226
+00:06:54,040 --> 00:06:55,719
+isso significa que seu lápis pode quebrar
+
+227
+00:06:55,720 --> 00:06:57,189
+em camadas para deixar uma marca.
+
+228
+00:06:57,190 --> 00:06:58,299
+Mas em grande escala, os
+
+229
+00:06:58,300 --> 00:07:01,589
+hexágonos podem ser flexíveis mantendo sua força,
+
+230
+00:07:01,590 --> 00:07:04,679
+permitindo-nos construir alguns materiais totalmente irreais.
+
+231
+00:07:04,680 --> 00:07:06,789
+Imprima uma grade de hexágonos em qualquer coisa,
+
+232
+00:07:06,790 --> 00:07:07,969
+de alumínio a papelão,
+
+233
+00:07:07,970 --> 00:07:08,969
+faça um pequeno sanduíche
+
+234
+00:07:08,970 --> 00:07:09,749
+e pow!
+
+235
+00:07:09,750 --> 00:07:11,229
+Você tem painéis de favo de mel.
+
+236
+00:07:11,230 --> 00:07:13,759
+Um material ridiculamente resistente a rasgos
+
+237
+00:07:13,760 --> 00:07:15,969
+que também é super leve e flexível.
+
+238
+00:07:15,970 --> 00:07:17,419
+É usado emtodos os lugares,
+
+239
+00:07:17,420 --> 00:07:19,309
+mas principalmente na aviação.
+
+240
+00:07:19,310 --> 00:07:21,309
+Os foguetes precisam ser fortes, mas leves.
+
+241
+00:07:21,310 --> 00:07:22,479
+O mesmo para aeronaves.
+
+242
+00:07:22,480 --> 00:07:24,479
+Com asas que realmente não podem rasgar,
+
+243
+00:07:24,480 --> 00:07:25,979
+mas também precisam dobrar.
+
+244
+00:07:25,980 --> 00:07:28,109
+E apenas a magia do painel de favo de mel
+
+245
+00:07:28,110 --> 00:07:29,429
+pode fazer as duas coisas também.
+
+246
+00:07:29,430 --> 00:07:32,179
+Agradeça ao hexágono por abençoar nosso voo.
+
+247
+00:07:32,180 --> 00:07:34,049
+E ainda não discutimos
+
+248
+00:07:34,050 --> 00:07:36,829
+a aplicação mais importante do hexágono.
+
+249
+00:07:36,830 --> 00:07:37,539
+Jogos!
+
+250
+00:07:37,540 --> 00:07:40,919
+Durante séculos houve um grande debate sobre tabuleiros,
+
+251
+00:07:40,920 --> 00:07:42,769
+quadrados ou hexágonos?
+
+252
+00:07:42,770 --> 00:07:44,209
+Spoiler... hexágonos vencem.
+
+253
+00:07:44,210 --> 00:07:45,609
+Tábuas quadradas são a primeira coisa em que
+
+254
+00:07:45,610 --> 00:07:47,609
+uma espécie não iluminada pensaria.
+
+255
+00:07:47,610 --> 00:07:50,189
+Parecem sensatas e fáceis de implementar,
+
+256
+00:07:50,190 --> 00:07:51,269
+mas são placas terríveis,
+
+257
+00:07:51,270 --> 00:07:53,889
+ineficazes que causam sofrimento espacial.
+
+258
+00:07:53,890 --> 00:07:55,609
+Em um tabuleiro quadrado, mova horizontalmente
+
+259
+00:07:55,610 --> 00:07:56,669
+ou verticalmente um espaço
+
+260
+00:07:56,670 --> 00:07:58,419
+e você moveu um espaço,
+
+261
+00:07:58,420 --> 00:07:59,759
+mas mova na diagonal
+
+262
+00:07:59,760 --> 00:08:02,319
+e a distância é a raiz quadrada de dois espaços.
+
+263
+00:08:02,320 --> 00:08:03,139
+Bruto.
+
+264
+00:08:03,140 --> 00:08:05,629
+As diagonais distorcem a distância que as peças se movem.
+
+265
+00:08:05,630 --> 00:08:07,699
+As tábuas quadradas parecem uniformes e arrumadas,
+
+266
+00:08:07,700 --> 00:08:08,529
+mas são enganosas.
+
+267
+00:08:08,530 --> 00:08:12,049
+Suas diagonais corrompendo o significado de espaço e tempo,
+
+268
+00:08:12,050 --> 00:08:13,489
+e é claro que devem,
+
+269
+00:08:13,490 --> 00:08:16,639
+porque um quadrado só tem quatro vizinhos verdadeiros.
+
+270
+00:08:16,640 --> 00:08:18,439
+Os hexágonos, no entanto, têm seis,
+
+271
+00:08:18,440 --> 00:08:19,619
+que é mais do que quatro, o
+
+272
+00:08:19,620 --> 00:08:20,279
+que é melhor!
+
+273
+00:08:20,280 --> 00:08:22,479
+E a distância de um espaço para o próximo
+
+274
+00:08:22,480 --> 00:08:24,199
+é a mesma em todas as direções.
+
+275
+00:08:24,200 --> 00:08:25,249
+Um espaço.
+
+276
+00:08:25,250 --> 00:08:26,569
+Assim como ele deve ser.
+
+277
+00:08:26,570 --> 00:08:28,029
+Se você é um jogo baseado em quadrados,
+
+278
+00:08:28,030 --> 00:08:29,019
+sinto muito.
+
+279
+00:08:29,020 --> 00:08:30,359
+Mas há esperança.
+
+280
+00:08:30,360 --> 00:08:31,539
+Com pensamento e esforço,
+
+281
+00:08:31,540 --> 00:08:34,548
+você pode se transformar em um lugar melhor.
+
+282
+00:08:34,549 --> 00:08:36,428
+Como todos nós devemos aspirar a fazer,
+
+283
+00:08:36,429 --> 00:08:39,069
+espalhando ordem e iluminação hexagonal
+
+284
+00:08:39,070 --> 00:08:41,729
+, os hexágonos são os melhores.
+
+285
+00:08:41,730 --> 00:08:44,369
+E agora que você concorda, com seus olhos verá
+
+286
+00:08:44,370 --> 00:08:46,949
+sua perfeição de seis lados em todas as coisas.
+
+287
+00:08:46,950 --> 00:08:48,559
+E você dirá a si mesmo,
+
+288
+00:08:48,560 --> 00:08:49,839
+como parte da ordem, os
+
+289
+00:08:49,840 --> 00:08:56,399
+hexágonossãoos bestagons.
+
+290
+00:08:56,400 --> 00:09:02,149
+Uhh, obrigado por passar aqui para o café do comunicador.
+
+291
+00:09:02,150 --> 00:09:05,979
+Agora vá.  Compartilhe a iluminação da ordem com os outros.
+
+292
+00:09:05,980 --> 00:09:07,470
+[clique]
+

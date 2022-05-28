@@ -1,0 +1,319 @@
+1
+00:00:01,909 --> 00:00:05,849
+La Reina león del Reino animal está muy disgustada
+Recientemente ha introducido elecciones a
+
+2
+00:00:05,850 --> 00:00:09,248
+Rey utilizando el sistema del escrutinio
+uninominal mayoritario. 
+
+3
+00:00:09,249 --> 00:00:12,708
+Aunque su reinado comenzó como una democracia sana con 
+muchos candidatos a la corona
+
+4
+00:00:12,709 --> 00:00:16,829
+rápidamente se tornó en un gobierno bipartidista con ciudadanos a los que
+no les gustaba ninguno de los dos candidatos, pero que estaban atrapados
+
+5
+00:00:16,830 --> 00:00:20,108
+que estaban atrapados en el sistema 
+por un problema: el voto estratégico.
+
+6
+00:00:20,109 --> 00:00:25,318
+Sin embargo, uno de los súbditos de la reina León de una tierra lejana, 
+, Walabí, tiene una solución: el voto preferencial.
+
+7
+00:00:25,319 --> 00:00:26,209
+¿Cuál es la diferencia? 
+
+8
+00:00:26,210 --> 00:00:26,989
+Para descubrirlo, 
+
+9
+00:00:26,990 --> 00:00:31,989
+sigamos a un votante el día de las elecciones, Ardilla 
+Roja, con los dos sistemas.
+
+10
+00:00:31,990 --> 00:00:33,659
+Hay cinco candidatos a la corona,
+
+11
+00:00:33,660 --> 00:00:39,169
+dos miembros de partidos grandes, Gorila y Leopardo,
+y tres otros candidatos: Tortuga, Búho y Tigre.
+
+12
+00:00:39,170 --> 00:00:43,439
+Con el sistema del escrutinio uninominal mayoritario Ardilla Roja
+recibe una papeleta en la que elige a un solo candidato.
+
+13
+00:00:43,440 --> 00:00:47,789
+A Ardilla Roja le gusta mucho Tortuga e incluso ha hecho campaña
+para él. Sin embargo, sabe que su vecino nuevo,
+
+14
+00:00:47,790 --> 00:00:49,909
+Ardilla Gris, va a votar a Gorila. 
+
+15
+00:00:49,910 --> 00:00:51,968
+"¿Y qué pasa", comienza a preguntarse Ardilla Roja, 
+
+16
+00:00:51,969 --> 00:00:54,839
+"con los demás animales? ¿Ellos a quién van a votar?" 
+
+17
+00:00:54,840 --> 00:00:58,369
+Los debates en Animals News Network sólo 
+incluían a los partidos mayoritarios, así que Ardilla Roja piensa
+
+18
+00:00:58,370 --> 00:01:01,349
+que va a ser una carrera muy cercana entre Gorila y Leopardo.
+
+19
+00:01:01,350 --> 00:01:04,818
+Mientras que le es indiferente Gorila, Leopardo le aterroriza.
+
+20
+00:01:04,819 --> 00:01:10,369
+Como sólo puede escoger a un candidato, da su único voto
+a Gorila con el fin de evitar que Leopardo se convierta en el Rey.
+0:01:08.670,0:01:10.370
+leopard from becoming king
+
+21
+00:01:10,370 --> 00:01:14,749
+Esto se llama votar estratégicamente, y es una necesidad
+en el sistema del escrutinio uninominal mayoritario. 
+
+22
+00:01:14,750 --> 00:01:18,699
+Pero ahora miremos al voto alternativo,
+que explica Walabí a Ardilla Roja.
+
+23
+00:01:18,700 --> 00:01:22,478
+En vez de escoger a uno, y sólo un candidato
+puede ordenarlos de mayor 
+
+24
+00:01:22,479 --> 00:01:23,979
+a menor preferencia. 
+
+25
+00:01:23,980 --> 00:01:27,499
+Entra a la cabina y le dan la misma papeleta que antes,
+pero ahora marca a Tortuga 
+
+26
+00:01:27,500 --> 00:01:31,019
+Búho como su segunda, y Gorila como su tercera.
+
+27
+00:01:31,020 --> 00:01:35,619
+Leopardo y Tigre le disgustan por igual, por lo que se abstiene 
+de seguir rellenando la papeleta y la deposita en la caja. 
+
+28
+00:01:35,620 --> 00:01:38,959
+Llegado a este punto, a Ardilla Roja no le importa 
+lo que pase exactamente, tiene otras cosas en su cabeza. 
+
+29
+00:01:38,960 --> 00:01:45,249
+Pero tú, querido ciudadano, quieres saber cómo se cuentan 
+los votos así que allá va:  
+
+30
+00:01:45,250 --> 00:01:48,839
+Tortuga, a pesar de ser querido por parte de la ciudadanía,
+obtiene el último puesto con sólo un cinco por ciento 
+
+31
+00:01:48,840 --> 00:01:51,729
+y es eliminado de la carrera.
+
+32
+00:01:51,730 --> 00:01:55,839
+Como los votantes han puesto sus candidatos en orden, podemos saber
+a quién habrían votado si no se hubiera presentado como candidato. 
+
+33
+00:01:55,840 --> 00:02:00,109
+Sin Tortuga, votantes como Ardilla Roja habrían escogido
+a Búho, así que esos votos son transferidos 
+
+34
+00:02:00,110 --> 00:02:03,209
+como si Tortuga no se hubiera presentado nunca a las elecciones.
+
+35
+00:02:03,210 --> 00:02:06,789
+Es por eso que este tipo de voto también
+se llama "Instant Runoff Voting". Es capaz de simular
+
+36
+00:02:06,790 --> 00:02:10,948
+una cantidad de elecciones en los que el candidato
+menos popular es eliminado en cada vuelta sin
+
+37
+00:02:10,949 --> 00:02:15,928
+el tiempo y el coste que supondrían más elecciones,
+una detrás de otra.
+
+38
+00:02:15,929 --> 00:02:19,418
+El método del voto preferencial deja eliminado
+al candidato menos popular hasta que uno
+
+39
+00:02:19,419 --> 00:02:22,008
+uno gana la mayoría absoluta o sólo queda uno.
+
+40
+00:02:22,009 --> 00:02:26,208
+Como no ha conseguido nadie la mayoría absoluta, el siguiente candidato
+menos popular, Tigre, es eliminado.  
+
+41
+00:02:26,209 --> 00:02:30,398
+Los votantes de Tigre escogieron a Leopardo como segunda opción,
+así que éste recibe los votos de tigre. 
+
+42
+00:02:30,399 --> 00:02:34,828
+Los votantes de gorila seleccionaron a Búho 
+como su segunda opción, así que Búho recibe 
+
+43
+00:02:34,829 --> 00:02:38,908
+esos votos, gana la mayoría y es coronado Rey.
+
+44
+00:02:38,909 --> 00:02:42,068
+El voto preferencial es un mejor sistema
+porque produce ganadores con los que 
+
+45
+00:02:42,069 --> 00:02:43,678
+acuerdan más votantes. 
+
+46
+00:02:43,679 --> 00:02:46,998
+Aunque el voto preferencial tiene pegas, es
+importante tener en cuenta que todos sus problemas 
+
+47
+00:02:46,999 --> 00:02:50,278
+también los tiene el escrutinio uninominal mayoritario.
+
+48
+00:02:50,279 --> 00:02:54,798
+. Los dos son susceptibles de manipulación por "gerrymandering",
+no son sistemas proporcionales, no pueden
+
+49
+00:02:54,799 --> 00:02:59,329
+garantizar un ganador "condorcet" (que frikis de las mates
+ odian pero no hay tiempo para explicar aquí)
+
+50
+00:02:59,330 --> 00:03:03,999
+y con el tiempo los dos tienden a dos partidos mayoritarios.
+Habiendo dicho esto, el voto preferencial tiene una ventaja enorme
+
+51
+00:03:04,000 --> 00:03:09,508
+del que el primero carece y lo hace un método
+matemáticamente superior: ¡No hay voto estratégico!
+
+52
+00:03:09,509 --> 00:03:11,208
+Imagínate estas elecciones:
+
+53
+00:03:11,209 --> 00:03:13,789
+dos candidatos, Gorila y Leopardo, parece que
+
+54
+00:03:13,790 --> 00:03:18,049
+van a obtener un 55% y un 45%
+Pero entonces entra un tercer partido,
+
+55
+00:03:18,050 --> 00:03:19,598
+el de Tigre.
+
+56
+00:03:19,599 --> 00:03:23,388
+Tigre consigue convencer al 15% de los votantes
+de Leopardo a votarle a él.
+
+57
+00:03:23,389 --> 00:03:28,468
+Con el método del sistema del escrutinio uninominal mayoritario:
+Gorila gana aunque la mayoría de los votantes no lo querían. 
+
+58
+00:03:28,469 --> 00:03:32,288
+Con el voto preferencial: como los votantes de 
+Tigre pusieron a leopardo como segunda opción, Leopardo 
+
+59
+00:03:32,289 --> 00:03:35,758
+sigue ganando porque la mayoría de
+los ciudadanos del Reino de los Animales le prefieren a ella
+
+60
+00:03:35,759 --> 00:03:37,648
+en el cargo que a Gorila.
+
+61
+00:03:37,649 --> 00:03:41,398
+Con el voto preferencial los ciudadanos pueden ayudar
+y hacer crecer a partidos que 
+
+62
+00:03:41,399 --> 00:03:42,198
+que les convencen más
+
+63
+00:03:42,199 --> 00:03:45,899
+sin tener que preocuparse de si acaba
+elegido alguien que no querían. 
+
+64
+00:03:45,900 --> 00:03:49,509
+Después de ver las diferencias, la Reina león decreta que
+el voto preferencial
+
+65
+00:03:49,510 --> 00:03:54,528
+es por el que deben de regirse las elecciones,
+y todo el mundo es más feliz. Bueno, casi
+
+66
+00:03:54,529 --> 00:03:55,388
+todo el mundo.
+
+67
+00:03:55,389 --> 00:03:59,418
+dos partidos mayoritarios no pueden complacerse tanto
+y deberán hacer más campaña.
+
+68
+00:03:59,419 --> 00:04:02,819
+para conseguir el apoyo de sus votantes.
+

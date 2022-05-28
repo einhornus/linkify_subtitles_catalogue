@@ -1,0 +1,557 @@
+1
+00:00:00,459 --> 00:00:03,749
+Queen Lion busca que las elecciones
+en su reino animal sean más justas.
+
+2
+00:00:03,750 --> 00:00:07,789
+Actualmente, divide a sus ciudadanos en rangos,
+cada uno de los cuales selecciona un representante para
+
+3
+00:00:07,790 --> 00:00:10,808
+ir al consejo de la jungla que elabora las
+leyes del reino.
+
+4
+00:00:10,809 --> 00:00:15,709
+Pero sus ciudadanos están descontentos, y es
+fácil ver por qué: el consejo está lleno de monos.
+
+5
+00:00:15,710 --> 00:00:18,838
+Por supuesto, algunos de sus ciudadanos son monos,
+pero no todos.
+
+6
+00:00:18,839 --> 00:00:21,629
+Este consejo no representa justamente su
+reino.
+
+7
+00:00:21,630 --> 00:00:25,479
+Queen lion visita uno de los rangos para
+averiguar qué está mal y cómo solucionarlo.
+
+8
+00:00:25,480 --> 00:00:30,658
+En esta cordillera hay cinco monos, cuatro tigres,
+tres búhos, dos linces y un búfalo.
+
+9
+00:00:30,659 --> 00:00:34,869
+Uno de cada uno se postula para representante y todos los
+ciudadanos votan por su propia especie.
+
+10
+00:00:34,870 --> 00:00:38,909
+La regla de elección es que gana el candidato
+con más votos, que es el mono.
+
+11
+00:00:38,910 --> 00:00:43,959
+Pero es un resultado bastante insatisfactorio considerando
+que 2/3 de los ciudadanos en este rango *no* son
+
+12
+00:00:43,960 --> 00:00:45,748
+monos y no votarían por monos.
+
+13
+00:00:45,749 --> 00:00:50,439
+Esto es lo mismo en todos los rangos
+del reino, los monos tienen más votos que
+
+14
+00:00:50,440 --> 00:00:55,409
+nadie, por lo que ganan todas las elecciones,
+a pesar de que son una minoría de la
+
+15
+00:00:55,410 --> 00:00:56,409
+población total.
+
+16
+00:00:56,410 --> 00:01:00,049
+Una inspección más cercana revela que los
+asesores independientes contratados para trazar los límites del rango
+
+17
+00:01:00,050 --> 00:01:03,678
+en primer lugar no eran tan independientes
+como parecían al principio.
+
+18
+00:01:03,679 --> 00:01:07,629
+El resultado son ciudadanos descontentos que no confían en que
+el consejo de la selva haga las leyes más justas
+
+19
+00:01:07,630 --> 00:01:09,319
+para todos, con razón.
+
+20
+00:01:09,320 --> 00:01:13,519
+Ahora Queen lion quiere maximizar el número
+de ciudadanos felices con los resultados de las elecciones.
+
+21
+00:01:13,520 --> 00:01:17,078
+Una forma de hacerlo es abolir los rangos
+y usar un sistema proporcional...
+
+22
+00:01:17,079 --> 00:01:19,839
+...Pero sus ciudadanos *quieren* representantes locales.
+
+23
+00:01:19,840 --> 00:01:24,109
+Entonces, Queen lion necesita un sistema que haga que
+sus ciudadanos sean más felices al tener un consejo más representativo
+
+24
+00:01:24,110 --> 00:01:27,429
+y al mismo tiempo mantener las elecciones locales en su lugar.
+
+25
+00:01:27,430 --> 00:01:31,339
+Después de investigar un poco, descubre
+cómo: Voto único transferible.
+
+26
+00:01:31,340 --> 00:01:36,429
+El gran cambio con STV es que los rangos envían
+más de un representante, lo que puede parecer
+
+27
+00:01:36,430 --> 00:01:40,589
+extraño, pero Queen Lion decide probarlo
+: toma tres rangos que solían
+
+28
+00:01:40,590 --> 00:01:45,328
+enviar un representante cada uno y los combina
+en un rango más grande que enviará tres  .
+
+29
+00:01:45,329 --> 00:01:49,849
+El día de las elecciones los ciudadanos acuden a las urnas y
+los resultados en este nuevo rango son los
+
+30
+00:01:49,850 --> 00:01:53,339
+mismos que en los rangos anteriores: 34% para
+Mono, 33% para Búho y 33% para Lince.
+
+31
+00:01:53,340 --> 00:01:56,478
+Pero no se trata de que la mayoría de los votos gane: con STV para
+determinar los ganadores, se toma el total de votos
+
+32
+00:01:56,479 --> 00:02:02,389
+y se divide por el número de representantes
+necesarios, en este caso 3, lo que da un 33 % como
+
+33
+00:02:02,390 --> 00:02:04,538
+la cantidad que un candidato necesita para ganar.
+
+34
+00:02:04,539 --> 00:02:08,788
+Así que *los tres* candidatos van al consejo
+, que representa con precisión a los ciudadanos
+
+35
+00:02:08,789 --> 00:02:09,829
+en el rango.
+
+36
+00:02:09,830 --> 00:02:13,419
+Mientras que bajo el antiguo sistema cada rango
+habría enviado un mono.
+
+37
+00:02:13,420 --> 00:02:15,939
+Dejando a 2/3 de los ciudadanos sin representación.
+
+38
+00:02:15,940 --> 00:02:20,579
+Un rango más grande con más representantes permite que
+el rango sea más proporcional.
+
+39
+00:02:20,580 --> 00:02:24,829
+Esta prueba resultó bien, pero también fue
+tan simple como podría ser: ahora Queen Lion
+
+40
+00:02:24,830 --> 00:02:27,889
+quiere ver qué sucede en una carrera en la que no todos
+son ganadores.
+
+41
+00:02:27,890 --> 00:02:32,839
+El próximo gran rango que prueba tiene cinco candidatos que se
+postulan para el cargo: Gorilla, Tasier, Monkey,
+
+42
+00:02:32,840 --> 00:02:36,279
+Tiger y Lynx, tres de los cuales pueden ser representantes.
+
+43
+00:02:36,280 --> 00:02:40,579
+El día de las elecciones va y viene, y estos son
+los resultados de las primeras elecciones de los ciudadanos:
+
+44
+00:02:40,580 --> 00:02:43,499
+Tasier obtiene el 5 %
+Gorilla obtiene el 28 %
+
+45
+00:02:43,500 --> 00:02:46,309
+Monkey obtiene el 33 %
+Tiger obtiene el 21 %
+
+46
+00:02:46,310 --> 00:02:47,729
+Lynx obtiene el 13 %
+
+47
+00:02:47,730 --> 00:02:50,909
+Como antes, un candidato necesita el 33 % para ganar.
+
+48
+00:02:50,910 --> 00:02:55,069
+Monkey tiene que como tal es inmediatamente seleccionado
+como uno de los tres representantes.
+
+49
+00:02:55,070 --> 00:02:59,829
+Pero nadie más alcanzó el 33% ganador, entonces,
+¿cómo se seleccionan los otros dos representantes?
+
+50
+00:02:59,830 --> 00:03:01,789
+Paso uno: deshacerse del mayor perdedor.
+
+51
+00:03:01,790 --> 00:03:04,229
+Lo siento, tasier, realmente no tuviste ninguna
+posibilidad.
+
+52
+00:03:04,230 --> 00:03:07,969
+Ahora, cuando los ciudadanos votaron, podrían
+haber puesto una X al lado del candidato que más les gustaba,
+
+53
+00:03:07,970 --> 00:03:12,499
+pero con STV también pueden clasificar a sus
+candidatos favoritos.
+
+54
+00:03:12,500 --> 00:03:16,519
+Esto es importante porque muestra cómo
+habría resultado la elección si uno de los
+
+55
+00:03:16,520 --> 00:03:18,029
+candidatos no se hubiera presentado.
+
+56
+00:03:18,030 --> 00:03:22,719
+Los pequeños y preocupados Tasiers habrían votado
+por el gran gorila tranquilo sin Tasier en
+
+57
+00:03:22,720 --> 00:03:23,719
+la carrera.
+
+58
+00:03:23,720 --> 00:03:28,049
+Entonces, si su candidato no puede ganar, quieren que
+sus votos vayan a Gorilla en su lugar.
+
+59
+00:03:28,050 --> 00:03:32,369
+Esto empuja al gorila hasta el 33% y se convierte en
+el próximo representante.
+
+60
+00:03:32,370 --> 00:03:36,219
+La clasificación permite a los ciudadanos apoyar a su
+candidato favorito sin preocupaciones: no tiene
+
+61
+00:03:36,220 --> 00:03:38,729
+sentido elaborar estrategias sobre cómo
+van a votar los demás.
+
+62
+00:03:38,730 --> 00:03:42,289
+El sistema trabaja para maximizar la felicidad de los votantes
+con el resultado.
+
+63
+00:03:42,290 --> 00:03:46,589
+Volviendo a la gama: todavía hay un representante
+para seleccionar, por lo que el siguiente gran perdedor es Lynx.
+
+64
+00:03:46,590 --> 00:03:50,169
+A sus votantes no les gustan los simios, pero
+creen que los intereses del tigre son similares a los de ellos
+
+65
+00:03:50,170 --> 00:03:53,249
+y, por lo tanto, si Lynx no puede ganar, quieren que
+tenga sus votos.
+
+66
+00:03:53,250 --> 00:03:57,259
+Tiger consigue llegar al 33% y se convierte en el tercer
+y último representante.
+
+67
+00:03:57,260 --> 00:04:02,009
+El resultado de la elección se ve bastante bien, especialmente
+considerando que los ciudadanos son la primera *y* segunda opción.
+
+68
+00:04:02,010 --> 00:04:06,569
+Ahora, más ciudadanos tienen un representante local con el
+que pueden sentirse cómodos acercándose, mientras que
+
+69
+00:04:06,570 --> 00:04:09,479
+con el sistema anterior, todos obtienen un mono.
+
+70
+00:04:09,480 --> 00:04:13,509
+Por último, Queen Lion quiere saber qué sucede
+en un rango con solo dos partidos políticos.
+
+71
+00:04:13,510 --> 00:04:17,078
+Bajo los sistemas de mayoría de votos, gana, múltiples
+candidatos del mismo partido serían un
+
+72
+00:04:17,079 --> 00:04:20,898
+desastre: dividirían a sus votantes y le darían
+la victoria a su oposición.
+
+73
+00:04:20,899 --> 00:04:26,239
+Queen lion hace una última gama de prueba con
+2/3 de tigres y 1/3 de gorilas que, como antes,
+
+74
+00:04:26,240 --> 00:04:28,008
+necesita tres representantes.
+
+75
+00:04:28,009 --> 00:04:33,468
+Porque con STV los ciudadanos clasifican a sus
+candidatos puede haber más de un candidato postulandose
+
+76
+00:04:33,469 --> 00:04:36,359
+al mismo tiempo sin ningún problema.
+
+77
+00:04:36,360 --> 00:04:40,138
+Los tigres presentan dos candidatos al igual que los gorilas.
+
+78
+00:04:40,139 --> 00:04:52,929
+El tigre blanco se convierte en el primer representante,
+pero ¿qué sucede después?
+
+79
+00:04:52,930 --> 00:04:57,869
+Si bien el tigre parece ser el mayor perdedor
+, también es obvio que habría
+
+80
+00:04:57,870 --> 00:05:01,249
+obtenido muchos más votos si el tigre blanco no hubiera estado en la
+carrera.
+
+81
+00:05:01,250 --> 00:05:05,818
+Si un candidato tiene más votos de los que necesita,
+como lo hace el tigre blanco, el primer paso es
+
+82
+00:05:05,819 --> 00:05:08,758
+dar los votos adicionales a su segunda opción.
+
+83
+00:05:08,759 --> 00:05:12,688
+Esto lleva a tigre al 33% y se convierte en el
+próximo representante.
+
+84
+00:05:12,689 --> 00:05:14,859
+Si eso parece extraño, hay dos cosas
+a considerar:
+
+85
+00:05:14,860 --> 00:05:18,609
+1) Si, en cambio, se ignoraran los votos adicionales
+y se eliminara al tigre, los gorilas
+
+86
+00:05:18,610 --> 00:05:23,089
+obtendrían las dos victorias restantes, que obviamente
+no representarían el rango.
+
+87
+00:05:23,090 --> 00:05:27,739
+2) Ignorar estos votos 'extra' es castigar a los
+ciudadanos que respaldaron al candidato popular, lo
+
+88
+00:05:27,740 --> 00:05:32,859
+que hace que los votantes comiencen a pensar en cómo
+votarán los demás, en lugar de lo
+
+89
+00:05:32,860 --> 00:05:34,089
+que realmente quieren.
+
+90
+00:05:34,090 --> 00:05:39,009
+Si un candidato obtiene votos adicionales en primer
+lugar, también significa que aquellos que votaron por
+
+91
+00:05:39,010 --> 00:05:44,499
+él son una gran parte de la población y, por
+lo tanto, deberían obtener una mayor representación.
+
+92
+00:05:44,500 --> 00:05:48,908
+Derecha: después de que los votos extra vayan al tigre,
+la elección termina como antes: Silverback
+
+93
+00:05:48,909 --> 00:05:52,969
+llegó último, es eliminado y la
+segunda opción de sus votantes es el candidato más joven, por lo que
+
+94
+00:05:52,970 --> 00:05:54,288
+entra el gorila.
+
+95
+00:05:54,289 --> 00:05:55,788
+Y los resultados son justos.
+
+96
+00:05:55,789 --> 00:05:57,879
+Queen Lion ahora ha visto el trabajo de STV.
+
+97
+00:05:57,880 --> 00:06:02,198
+Ya sea que un rango tenga un partido o lotes, el
+proceso sigue siendo el mismo:
+
+98
+00:06:02,199 --> 00:06:03,198
+1. Los
+
+99
+00:06:03,199 --> 00:06:04,549
+ciudadanos clasifican a sus candidatos favoritos.
+
+100
+00:06:04,550 --> 00:06:05,549
+2.
+
+101
+00:06:05,550 --> 00:06:07,299
+Cualquier candidato por encima del umbral gana inmediatamente,
+3.
+
+102
+00:06:07,300 --> 00:06:09,499
+Los votos 'extra' van a su próxima elección.
+
+103
+00:06:09,500 --> 00:06:10,499
+4.
+
+104
+00:06:10,500 --> 00:06:13,679
+Si no hay ganador, se elimina el último lugar y
+los votos para ir a su siguiente elección.
+
+105
+00:06:13,680 --> 00:06:14,679
+5.
+
+106
+00:06:14,680 --> 00:06:16,598
+Repita hasta encontrar a todos los ganadores.
+
+107
+00:06:16,599 --> 00:06:20,658
+Todo este proceso está diseñado para maximizar
+el número de ciudadanos que están contentos con
+
+108
+00:06:20,659 --> 00:06:21,658
+el resultado.
+
+109
+00:06:21,659 --> 00:06:25,869
+Este proceso le da a STV muchas ventajas
+sobre el antiguo sistema de mayoría de votos gana:
+
+110
+00:06:25,870 --> 00:06:26,869
+1. Los
+
+111
+00:06:26,870 --> 00:06:29,628
+ciudadanos pueden votar honestamente por su
+candidato favorito sin preocuparse por lo
+
+112
+00:06:29,629 --> 00:06:30,668
+que harán los demás.
+
+113
+00:06:30,669 --> 00:06:31,668
+2.
+
+114
+00:06:31,669 --> 00:06:32,668
+Es más proporcional.
+
+115
+00:06:32,669 --> 00:06:34,348
+Entonces jugar con los bordes importa menos.
+
+116
+00:06:34,349 --> 00:06:35,348
+3.
+
+117
+00:06:35,349 --> 00:06:39,189
+Casi todos los ciudadanos tendrán un representante local por el
+que realmente votaron.
+
+118
+00:06:39,190 --> 00:06:42,969
+Al final, Queen Lion decide cambiar las
+elecciones del consejo a Voto Único Transferible
+
+119
+00:06:42,970 --> 00:06:45,649
+para hacer un mejor consejo de la jungla para todos.
+

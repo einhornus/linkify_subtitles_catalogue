@@ -1,0 +1,961 @@
+1
+00:00:00,260 --> 00:00:02,659
+Hé, Vsauce.  Michel ici.
+
+2
+00:00:02,660 --> 00:00:03,638
+Il y a quelques années
+
+3
+00:00:03,639 --> 00:00:08,199
+à Minneapolis, un père en colère a fait irruption
+dans le magasin de détail
+
+4
+00:00:08,200 --> 00:00:11,579
+Target.
+Sa fille, une lycéenne,
+
+5
+00:00:11,580 --> 00:00:15,838
+avait reçu par la poste des coupons
+du magasin pour des choses comme des berceaux
+
+6
+00:00:15,839 --> 00:00:19,778
+et des couches.
+Target encourageait-il sa fille
+
+7
+00:00:19,779 --> 00:00:23,059
+, mineure, à sortir et à tomber enceinte ?
+
+
+8
+00:00:23,060 --> 00:00:28,709
+Eh bien, le magasin s'est excusé mais quelques jours
+plus tard, le père a répondu.  Il
+
+9
+00:00:28,710 --> 00:00:29,448
+leur a dit
+
+10
+00:00:29,449 --> 00:00:32,859
+"quelques choses se sont passées dans ma maison dont
+
+11
+00:00:32,860 --> 00:00:36,499
+je n'étais pas au courant. Ma fille doit accoucher
+
+12
+00:00:36,500 --> 00:00:40,699
+en août. Je vous dois des excuses".
+Vous voyez,
+
+13
+00:00:40,700 --> 00:00:44,519
+les algorithmes internes de Target ont suivi
+
+14
+00:00:44,520 --> 00:00:48,038
+et traité les achats de sa fille et récemment,
+
+15
+00:00:48,039 --> 00:00:51,259
+elle a commencé à acheter des articles différents de ceux d'habitude.
+
+16
+00:00:51,260 --> 00:00:56,179
+Des choses comme certains suppléments vitaminiques
+et des savons et lotions sans parfum.
+
+17
+00:00:56,180 --> 00:00:59,769
+Les comportements que le système a signalés comme preuve
+
+18
+00:00:59,770 --> 00:01:03,558
+qu'elle pourrait être enceinte, ils lui ont donc envoyé les coupons.
+
+19
+00:01:03,559 --> 00:01:08,349
+Et ils avaient raison.
+Sans qu'on le lui dise,
+
+20
+00:01:08,350 --> 00:01:12,149
+Target savait qu'une fille était enceinte
+
+21
+00:01:12,150 --> 00:01:15,699
+avant son propre père.
+
+22
+00:01:15,700 --> 00:01:20,709
+Nous sommes suivis et suivis numériquement maintenant plus que
+
+23
+00:01:20,710 --> 00:01:26,309
+jamais.
+Nous vivons dans un monde de vidéosurveillance 24 heures sur 24, 7 jours sur 7, de
+
+24
+00:01:26,310 --> 00:01:30,879
+cookies de navigateur, de cartes de débit
+et de téléphones portables traçables et de GPS, d'
+
+25
+00:01:30,880 --> 00:01:34,639
+empreintes digitales et d'analyses ADN.
+Mais malgré
+
+26
+00:01:34,640 --> 00:01:38,069
+tout cela, chaque année,
+
+27
+00:01:38,070 --> 00:01:42,478
+rien qu'aux États-Unis, plus de 2 000 personnes
+
+28
+00:01:42,479 --> 00:01:46,438
+disparaissent et ne sont jamais retrouvées
+
+29
+00:01:46,439 --> 00:01:48,779
+mortes ou vivantes.
+
+30
+00:01:48,780 --> 00:01:53,739
+Où vont les personnes disparues ?
+Comment ont-ils disparu ?
+
+31
+00:01:53,740 --> 00:01:56,859
+Et si vous disparaissiez et
+
+32
+00:01:56,860 --> 00:01:59,968
+comment savez-vous que vous n'avez pas déjà
+
+33
+00:01:59,969 --> 00:02:04,529
+disparu ?
+Dans de nombreux cas, les personnes portées disparues sont les victimes
+
+34
+00:02:04,530 --> 00:02:07,578
+de crimes non résolus ou inconnus.
+
+35
+00:02:07,579 --> 00:02:11,049
+Ils ont peut-être subi des accidents
+ou se sont suicidés
+
+36
+00:02:11,050 --> 00:02:16,449
+et leurs corps n'ont jamais été retrouvés.
+Ou ils peuvent aller parfaitement bien et ont simplement
+
+37
+00:02:16,450 --> 00:02:21,279
+échappé à leur ancienne vie, à leurs anciens amis et à leur
+famille, à leurs anciennes dettes et obligations pour commencer
+
+38
+00:02:21,280 --> 00:02:22,029
+une nouvelle vie
+
+39
+00:02:22,030 --> 00:02:26,219
+ailleurs, peut-être en tant que quelqu'un d'autre.
+
+40
+00:02:26,220 --> 00:02:29,929
+Combien de temps faudrait-il pour que les gens
+
+41
+00:02:29,930 --> 00:02:34,389
+remarquent votre disparition ?
+Eh bien, pensez-y.  Je veux dire,
+
+42
+00:02:34,390 --> 00:02:37,979
+cela dépend en quelque sorte de qui vous êtes, comment vous vivez
+
+43
+00:02:37,980 --> 00:02:42,969
+et comment vous avez disparu.
+Dans la plupart des juridictions, après environ cinq à sept
+
+44
+00:02:42,970 --> 00:02:43,818
+ans,
+
+45
+00:02:43,819 --> 00:02:47,149
+si personne n'a entendu parler de vous,
+
+46
+00:02:47,150 --> 00:02:51,229
+vous pouvez être déclaré mort par contumace.
+
+47
+00:02:51,230 --> 00:02:53,829
+C'est ce qui est arrivé à l'astronome français
+
+48
+00:02:53,830 --> 00:02:59,169
+Guillaume Le Gentil.
+Au 18ème siècle, des centaines
+de personnes ont voyagé partout
+
+49
+00:02:59,170 --> 00:03:02,339
+pour observer le transit de Vénus depuis différents endroits
+
+50
+00:03:02,340 --> 00:03:06,399
+sur terre.  Ils savaient qu'en comparant leurs
+mesures, ils pouvaient calculer
+
+51
+00:03:06,400 --> 00:03:10,679
+plus précisément que jamais à quelle distance se
+
+52
+00:03:10,680 --> 00:03:14,299
+trouvait le Soleil.
+Ainsi, Le Gentil
+
+53
+00:03:14,300 --> 00:03:17,839
+quitte Paris en 1760 pour Pondichéry
+
+54
+00:03:17,840 --> 00:03:21,679
+en Inde.
+Mais après qu'une tempête l'ait fait dévier de sa route
+
+55
+00:03:21,680 --> 00:03:25,839
+et que les Britanniques aient occupé Pondichéry,
+il a été contraint de passer la journée
+
+56
+00:03:25,840 --> 00:03:29,408
+du transit sur un bateau en mer, qui a
+
+57
+00:03:29,409 --> 00:03:33,048
+trop basculé pour que des mesures précises puissent être prises.
+Maintenant, le prochain
+
+58
+00:03:33,049 --> 00:03:37,359
+transit aurait lieu dans 8 ans.
+Mais après cela, le
+
+59
+00:03:37,360 --> 00:03:40,479
+prochain transit n'aurait pas lieu avant 100 ans.
+
+60
+00:03:40,480 --> 00:03:45,179
+Alors, il est resté dans les parages.  Il n'est pas revenu à Paris.
+Au lieu de cela, il a construit un observatoire
+
+61
+00:03:45,180 --> 00:03:48,859
+et a attendu.
+Lorsqu'il revint enfin
+
+62
+00:03:48,860 --> 00:03:53,609
+à Paris, 11 ans après son départ,
+il découvrit qu'il avait été déclaré
+
+63
+00:03:53,610 --> 00:03:57,139
+mort.
+Sa femme s'était remariée,
+
+64
+00:03:57,140 --> 00:04:00,878
+sa famille avait pillé
+ses biens et son poste
+
+65
+00:04:00,879 --> 00:04:04,628
+à l'Académie royale des sciences
+avait été donné à quelqu'un d'autre.
+
+66
+00:04:04,629 --> 00:04:08,688
+Il n'a jamais vu le transit de Vénus, soit dit
+
+67
+00:04:08,689 --> 00:04:12,279
+en passant.
+Le jour où cela s'est produit, le ciel au-dessus de lui
+
+68
+00:04:12,280 --> 00:04:15,639
+était couvert.
+
+69
+00:04:15,640 --> 00:04:19,469
+Nous connaissons la population humaine
+
+70
+00:04:19,470 --> 00:04:21,919
+de la Terre.
+
+71
+00:04:21,920 --> 00:04:22,948
+En quelque sorte.
+
+72
+00:04:22,949 --> 00:04:27,339
+Les chiffres et compteurs de population ne sont que des estimations.
+
+73
+00:04:27,340 --> 00:04:31,168
+Les individus sont mieux représentés par de vraies personnes
+
+74
+00:04:31,169 --> 00:04:35,549
+dans leur vie réelle.
+Mais cela n'arrive pas toujours
+
+75
+00:04:35,550 --> 00:04:36,969
+.
+
+76
+00:04:36,970 --> 00:04:40,759
+Plus tôt cette année, Janet Veal
+est décédée dans son appartement
+
+77
+00:04:40,760 --> 00:04:44,139
+à Ringwood, Hampshire.
+De grandes parties de son corps
+
+78
+00:04:44,140 --> 00:04:48,659
+ont été mangées par ses chats de compagnie avant qu'elle ne soit découverte des
+
+79
+00:04:48,660 --> 00:04:51,809
+semaines plus tard.
+Et il y a sept ans,
+
+80
+00:04:51,810 --> 00:04:55,149
+Joyce Carol Vincent a été retrouvée morte sur son canapé,
+
+81
+00:04:55,150 --> 00:04:59,029
+à Wood Green ;  ou du moins son squelette a
+
+82
+00:04:59,030 --> 00:05:02,439
+été retrouvé.
+Elle était morte depuis au moins trois
+
+83
+00:05:02,440 --> 00:05:05,479
+ans et personne ne l'avait jamais surveillée.
+
+84
+00:05:05,480 --> 00:05:08,509
+Sa télévision était toujours allumée.
+
+85
+00:05:08,510 --> 00:05:11,559
+Et quatre jours après que Timothy McVeigh a bombardé
+
+86
+00:05:11,560 --> 00:05:14,399
+un bâtiment fédéral à Oklahoma City, faisant
+
+87
+00:05:14,400 --> 00:05:18,429
+168 morts, une
+
+88
+00:05:18,430 --> 00:05:22,389
+jambe gauche coupée a été retrouvée dans les décombres.
+
+89
+00:05:22,390 --> 00:05:28,209
+Personne ne savait à qui il appartenait.
+Les jambes de toutes les autres victimes avaient été retrouvées
+
+90
+00:05:28,210 --> 00:05:32,179
+et personne d'autre n'avait été porté disparu.
+
+91
+00:05:32,180 --> 00:05:36,029
+L'analyse ADN a montré que la jambe
+appartenait à une Lakesha Levy,
+
+92
+00:05:36,030 --> 00:05:39,419
+mais elle avait déjà été enterrée avec ses deux jambes.
+
+93
+00:05:39,420 --> 00:05:43,069
+Alors, ils ont déterré son cadavre.
+
+94
+00:05:43,070 --> 00:05:46,399
+Elle avait été enterrée avec la jambe gauche de quelqu'un d'autre
+
+95
+00:05:46,400 --> 00:05:50,439
+.  Les jambes ont été échangées,
+mais parce que son corps avait été embaumé, l'
+
+96
+00:05:50,440 --> 00:05:54,739
+ADN de la jambe inconnue n'a pas pu être analysé.
+
+97
+00:05:54,740 --> 00:05:58,359
+À ce jour, personne ne sait à qui appartient cette jambe
+
+98
+00:05:58,360 --> 00:06:01,509
+.  La 169ème
+
+99
+00:06:01,510 --> 00:06:04,619
+victime reste un mystère.
+
+100
+00:06:04,620 --> 00:06:09,459
+Certains théoriciens du complot soutiennent que
+la jambe appartenait peut-
+
+101
+00:06:09,460 --> 00:06:12,859
+être à un véritable kamikaze,
+quelqu'un d'autre que Timothy McVeigh,
+
+102
+00:06:12,860 --> 00:06:16,779
+qui était suffisamment proche de l'explosion
+pour être complètement effacé, à l'
+
+103
+00:06:16,780 --> 00:06:20,659
+exception d'une jambe.
+Quoi
+
+104
+00:06:20,660 --> 00:06:25,009
+qu'il en soit, ce que cela montre, c'est qu'il est
+possible qu'une personne disparaisse
+
+105
+00:06:25,010 --> 00:06:30,179
+sans que personne ne demande jamais où elle est allée.
+
+106
+00:06:30,180 --> 00:06:33,989
+Parfois, des personnes sont déclarées mortes ou portées
+
+107
+00:06:33,990 --> 00:06:37,589
+disparues alors qu'elles ne le sont pas.
+Les avis de décès prématurés
+
+108
+00:06:37,590 --> 00:06:41,468
+sont fréquents.
+De nombreuses personnes vivantes en ont déjà un dans leur dossier.
+
+109
+00:06:41,469 --> 00:06:46,339
+Si une personne célèbre meurt,
+les médias, la télévision, les journaux, les magazines, eh bien,
+
+110
+00:06:46,340 --> 00:06:49,549
+ils ont besoin d'une histoire complète dès que possible.
+Alors, ils les
+
+111
+00:06:49,550 --> 00:06:54,918
+préparent à l'avance, enfermés,
+ne laissant que les dates et les circonstances
+
+112
+00:06:54,919 --> 00:06:56,559
+du décès à remplir.
+
+113
+00:06:56,560 --> 00:06:59,929
+Logique, mais c'est gênant
+
+114
+00:06:59,930 --> 00:07:04,339
+quand ils fuient avant la mort de la personne.
+En 2003,
+
+115
+00:07:04,340 --> 00:07:10,188
+le site Web de CNN contenait accidentellement des brouillons de
+nécrologies pour les personnes vivantes qui pouvaient
+
+116
+00:07:10,189 --> 00:07:10,638
+être
+
+117
+00:07:10,639 --> 00:07:13,999
+consultées.
+C'est embarrassant, mais
+
+118
+00:07:14,000 --> 00:07:18,468
+pour la personne qui lit sa propre
+nécrologie, c'est une chance de faire quelque chose
+
+119
+00:07:18,469 --> 00:07:20,478
+que la plupart d'entre nous n'ont jamais la chance de faire.
+
+120
+00:07:20,479 --> 00:07:25,088
+Voyez comment on se souviendra de vous après votre départ.
+
+121
+00:07:25,089 --> 00:07:29,028
+Alfred Nobel a inventé la dynamite.
+
+122
+00:07:29,029 --> 00:07:32,179
+Il a fait fortune en fabriquant et en vendant
+
+123
+00:07:32,180 --> 00:07:36,378
+des armes mortelles - des canons et des armements.
+En 1888,
+
+124
+00:07:36,379 --> 00:07:41,059
+son frère Ludvig mourut mais de nombreux
+journaux pensèrent à tort qu'il
+
+125
+00:07:41,060 --> 00:07:41,818
+était mort
+
+126
+00:07:41,819 --> 00:07:44,829
+et publièrent des nécrologies pour Alfred
+
+127
+00:07:44,830 --> 00:07:48,528
+Nobel.
+Ils n'étaient pas très flatteurs.
+
+128
+00:07:48,529 --> 00:07:52,008
+Un journal français a déclaré
+"Le marchand de la mort
+
+129
+00:07:52,009 --> 00:07:55,288
+est mort".
+Nobel a lu ces
+
+130
+00:07:55,289 --> 00:07:59,859
+nécrologies et avait tellement honte de
+ce que son héritage
+
+131
+00:07:59,860 --> 00:08:03,359
+allait apparemment être.
+Quand il est mort, il a laissé presque
+
+132
+00:08:03,360 --> 00:08:07,218
+tout son argent à la cause de la célébration de l'humanité.
+
+133
+00:08:07,219 --> 00:08:11,788
+Il a créé le prix Nobel.
+Marcus Garvey
+
+134
+00:08:11,789 --> 00:08:15,568
+n'a pas été aussi chanceux.
+L'histoire raconte qu'après avoir subi
+
+135
+00:08:15,569 --> 00:08:19,978
+un accident vasculaire cérébral, les journaux ont publié des nécrologies prématurées qui le
+
+136
+00:08:19,979 --> 00:08:23,148
+critiquaient, disant qu'il était mort fauché,
+
+137
+00:08:23,149 --> 00:08:28,429
+seul et impopulaire.
+Choqué par la façon négative dont on se souvenait de lui,
+
+138
+00:08:28,430 --> 00:08:33,689
+Garvey a subi un autre accident vasculaire cérébral en
+lisant sa propre nécrologie
+
+139
+00:08:33,690 --> 00:08:38,298
+et est décédé.
+En avril 2006,
+
+140
+00:08:38,299 --> 00:08:43,109
+cinq étudiants de l'Université Taylor sont morts
+dans un tragique accident de voiture.
+
+141
+00:08:43,110 --> 00:08:46,588
+Un autre étudiant a survécu, mais était dans le coma.
+
+142
+00:08:46,589 --> 00:08:50,018
+Elle a été identifiée comme étant Laura van Ryn.
+
+143
+00:08:50,019 --> 00:08:54,119
+Son amie Whitney Cerak n'a pas eu autant de chance.
+Elle a été déclarée
+
+144
+00:08:54,120 --> 00:08:57,659
+morte.
+Un millier de personnes ont assisté à ses funérailles,
+
+145
+00:08:57,660 --> 00:09:00,989
+mais au cours des jours suivants, alors que Laura se
+
+146
+00:09:00,990 --> 00:09:04,568
+rétablissait, elle a commencé à parler
+et lorsqu'on lui a demandé son nom,
+
+147
+00:09:04,569 --> 00:09:09,139
+Laura a dit que je m'appelais Whitney.
+Les filles se
+
+148
+00:09:09,140 --> 00:09:12,249
+ressemblaient.
+Il s'est avéré que Laura
+
+149
+00:09:12,250 --> 00:09:15,629
+était celle qu'ils avaient enterrée.
+Plus tard, Whitney
+
+150
+00:09:15,630 --> 00:09:18,708
+s'est mariée dans la même église qui, des années auparavant,
+
+151
+00:09:18,709 --> 00:09:23,369
+avait tenu ses funérailles.
+Et si vous êtes déjà porté disparu
+
+152
+00:09:23,370 --> 00:09:28,409
+et que vous ne le savez tout simplement pas ?
+On ne sait pas à quelle fréquence les hôpitaux
+
+153
+00:09:28,410 --> 00:09:31,749
+changent accidentellement de bébé à la naissance.
+
+154
+00:09:31,750 --> 00:09:36,439
+Les politiques hospitalières modernes rendent
+cela peu probable, mais comme nous ne
+
+155
+00:09:36,440 --> 00:09:38,398
+sortons pas tous pour passer des
+
+156
+00:09:38,399 --> 00:09:42,518
+tests de maternité et de paternité pour le plaisir,
+il n'y a pas beaucoup de données
+
+157
+00:09:42,519 --> 00:09:47,659
+sur le phénomène.  Mais ça arrive.
+Il est souvent découvert à cause des tests ADN
+
+158
+00:09:47,660 --> 00:09:51,099
+administrés pour résoudre les différends en matière de pension alimentaire pour enfants.
+
+159
+00:09:51,100 --> 00:09:55,119
+Ou, dans le cas de la femme de 35 ans,
+aux îles Canaries,
+
+160
+00:09:55,120 --> 00:10:00,809
+c'est parce qu'en 2001, une employée d'un
+magasin chez qui vous faites vos courses vous prend
+
+161
+00:10:00,810 --> 00:10:04,759
+pour sa meilleure amie - parce que vous lui ressemblez exactement
+
+162
+00:10:04,760 --> 00:10:08,059
+, parce qu'elle est
+
+163
+00:10:08,060 --> 00:10:11,669
+ton jumeau perdu depuis longtemps, séparé de toi
+
+164
+00:10:11,670 --> 00:10:14,729
+depuis sa naissance.
+Et la sœur avec qui tu as grandi,
+
+165
+00:10:14,730 --> 00:10:19,619
+pensant être ta jumelle, s'avère être une
+
+166
+00:10:19,620 --> 00:10:23,289
+étrangère biologique.
+Que faire si vous êtes porté disparu
+
+167
+00:10:23,290 --> 00:10:26,379
+mais que les autorités ne le savent pas ?
+
+168
+00:10:26,380 --> 00:10:29,518
+Telle est la vie des disparus non signalés
+
+169
+00:10:29,519 --> 00:10:33,208
+.
+Des personnes dans un pays illégalement, des
+
+170
+00:10:33,209 --> 00:10:36,578
+personnes éloignées de leur famille et de leurs amis sans qu'aucun
+
+171
+00:10:36,579 --> 00:10:39,828
+rapport de personne disparue n'ait jamais été déposé, des
+
+172
+00:10:39,829 --> 00:10:44,249
+enfants de mères sans abri.
+Ces personnes ne sont pas seulement
+
+173
+00:10:44,250 --> 00:10:47,289
+portées disparues, elles sont ce qu'on appelle
+
+174
+00:10:47,290 --> 00:10:49,569
+des disparus.
+
+175
+00:10:49,570 --> 00:10:52,859
+La base de données nationale d'
+informations sur la criminalité du FBI contient
+
+176
+00:10:52,860 --> 00:10:57,148
+environ 50 000 enfants portés disparus,
+
+177
+00:10:57,149 --> 00:11:01,448
+mais Outpost For Hope rapporte qu'il
+y a plus d'un million d'
+
+178
+00:11:01,449 --> 00:11:05,188
+enfants en Amérique qui sont portés disparus, sans que personne ne
+
+179
+00:11:05,189 --> 00:11:09,499
+sache qu'ils sont portés disparus.
+Il n'est pas interdit par la loi
+
+180
+00:11:09,500 --> 00:11:12,789
+de disparaître de votre propre gré.
+
+181
+00:11:12,790 --> 00:11:15,859
+Vous avez peut-être des dettes à payer ou des contrats à honorer,
+
+182
+00:11:15,860 --> 00:11:19,789
+mais si vous êtes un adulte, le fait de disparaître
+
+183
+00:11:19,790 --> 00:11:23,898
+n'est pas illégal en soi.
+Vous avez le droit
+
+184
+00:11:23,899 --> 00:11:27,198
+de disparaître.
+Mais croire que personne ne
+
+185
+00:11:27,199 --> 00:11:32,648
+te manquerait ?  C'est ridicule et non scientifique.
+Les
+
+186
+00:11:32,649 --> 00:11:35,969
+statistiques suggèrent le contraire.
+David Wong a
+
+187
+00:11:35,970 --> 00:11:39,989
+écrit l'un des articles les plus puissants que j'aie jamais lus.
+
+188
+00:11:39,990 --> 00:11:43,519
+Il y a beaucoup d'
+
+189
+00:11:43,520 --> 00:11:47,899
+informations là-bas.
+Il y a même un mot pour ça : l'infobésité.
+
+190
+00:11:47,900 --> 00:11:50,479
+Il faut toute une vie pour même en faire l'
+
+191
+00:11:50,480 --> 00:11:54,859
+expérience.
+Il est facile de penser que tout le monde
+
+192
+00:11:54,860 --> 00:11:58,199
+sait tout ce que vous savez.
+Mais chaque année,
+
+193
+00:11:58,200 --> 00:12:02,778
+plus de 100 millions de nouvelles personnes
+naissent et pas une seule d'entre elles ne
+
+194
+00:12:02,779 --> 00:12:03,499
+naît en
+
+195
+00:12:03,500 --> 00:12:07,879
+sachant qu'elles sont constituées d'atomes
+ou que les trous noirs
+
+196
+00:12:07,880 --> 00:12:11,028
+sont géniaux.
+Quelqu'un doit être là
+
+197
+00:12:11,029 --> 00:12:14,338
+pour leur dire, pour leur montrer.
+
+198
+00:12:14,339 --> 00:12:17,539
+Combien de blagues entends-tu chaque jour,
+
+199
+00:12:17,540 --> 00:12:20,679
+chaque semaine ?
+Combien de blagues entends-tu
+
+200
+00:12:20,680 --> 00:12:23,699
+chaque année ?
+Voici une pensée amusante.
+
+201
+00:12:23,700 --> 00:12:26,999
+En considérant l'espérance de vie moyenne
+
+202
+00:12:27,000 --> 00:12:30,619
+et le nombre typique de blagues
+qu'une personne entend en un an,
+
+203
+00:12:30,620 --> 00:12:33,648
+David Wong a posé une pensée, grossière
+
+204
+00:12:33,649 --> 00:12:37,179
+dans son approximation, mais tranchante dans son essence.
+
+205
+00:12:37,180 --> 00:12:40,458
+Si vous avez moins de 38 ans,
+
+206
+00:12:40,459 --> 00:12:43,499
+la blague la plus drôle que
+
+207
+00:12:43,500 --> 00:12:48,299
+vous n'entendrez jamais est une blague que
+vous n'avez même pas encore entendue.
+
+208
+00:12:48,300 --> 00:12:51,419
+Et, si vous avez plus de 38 ans, il y a de
+
+209
+00:12:51,420 --> 00:12:56,249
+fortes chances que vous connaissiez déjà une blague qui,
+pour plus de personnes que vous ne pourriez jamais
+
+210
+00:12:56,250 --> 00:12:57,369
+rencontrer,
+
+211
+00:12:57,370 --> 00:13:01,179
+pourrait être la blague la plus drôle
+qu'ils n'entendront jamais.
+
+212
+00:13:01,180 --> 00:13:05,279
+Alors, où que vous soyez, nous sommes heureux que vous soyez là.
+
+213
+00:13:05,280 --> 00:13:06,579
+Et comme toujours,
+
+214
+00:13:06,580 --> 00:13:07,580
+merci d'avoir regardé.
+

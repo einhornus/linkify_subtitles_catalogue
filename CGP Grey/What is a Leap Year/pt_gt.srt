@@ -1,0 +1,378 @@
+1
+00:00:00,700 --> 00:00:04,119
+Um ano civil é feito de trezentos e
+sessenta e cinco dias - um número que se recusa a
+
+2
+00:00:04,120 --> 00:00:08,768
+ser dividido bem, e é por isso que acabamos com
+meses ímpares de 30 ou 31 dias.
+
+3
+00:00:08,769 --> 00:00:12,579
+Exceto fevereiro - o menor da ninhada
+- que só tem 28... exceto quando chega a
+
+4
+00:00:12,580 --> 00:00:15,869
+29 e então o ano tem 366 dias.
+
+5
+00:00:15,870 --> 00:00:16,869
+Por que isso acontece?
+
+6
+00:00:16,870 --> 00:00:19,639
+Em que tipo de universo louco vivemos
+onde alguns anos são mais longos que outros?
+
+7
+00:00:19,640 --> 00:00:22,189
+Para responder a isso, precisamos saber: o que
+é um ano?
+
+8
+00:00:22,190 --> 00:00:25,609
+Simplificando demais: um ano é o tempo
+que a Terra leva para dar uma volta ao redor do
+
+9
+00:00:25,610 --> 00:00:26,609
+sol.
+
+10
+00:00:26,610 --> 00:00:28,319
+Isso acontece para alinhar com o ciclo
+das estações.
+
+11
+00:00:28,320 --> 00:00:31,729
+Agora, desenhar um pequeno diagrama como este mostrando
+a Terra girando alegremente ao redor do sol é
+
+12
+00:00:31,730 --> 00:00:35,189
+fácil de fazer, mas rastrear com precisão um ano
+é complicado quando você está na Terra porque o
+
+13
+00:00:35,190 --> 00:00:37,429
+universo não fornece um mapa aéreo.
+
+14
+00:00:37,430 --> 00:00:40,499
+Na Terra, você só consegue ver as estações mudarem
+e a maneira óbvia de acompanhar suas
+
+15
+00:00:40,500 --> 00:00:45,259
+idas e vindas é contar os dias que passam, o
+que lhe dá um calendário de 365 dias.
+
+16
+00:00:45,260 --> 00:00:49,209
+Mas assim que você começa a usar esse calendário,
+ele sai lentamente de sincronia com as estações.
+
+17
+00:00:49,210 --> 00:00:52,078
+E a cada ano que passa a diferença fica cada
+vez maior e maior.
+
+18
+00:00:52,079 --> 00:00:55,809
+Em três décadas, o calendário estará atrasado
+em uma semana e em algumas centenas de anos as
+
+19
+00:00:55,810 --> 00:01:00,099
+estações serão invertidas – o que significa que as celebrações de Natal
+ocorrem no verão – o que seria uma loucura.
+
+20
+00:01:00,100 --> 00:01:01,099
+Por que isso acontece?
+
+21
+00:01:01,100 --> 00:01:02,099
+Contamos os dias errados?
+
+22
+00:01:02,100 --> 00:01:05,077
+Bem, o calendário prevê que o tempo que
+a Terra leva para dar a volta ao sol é de
+
+23
+00:01:05,078 --> 00:01:06,188
+8.760 horas.
+
+24
+00:01:06,189 --> 00:01:10,669
+Mas, se você realmente cronometrasse com um cronômetro,
+veria que um ano é realmente mais longo do que
+
+25
+00:01:10,670 --> 00:01:12,879
+o calendário prevê em quase seis horas.
+
+26
+00:01:12,880 --> 00:01:17,019
+Portanto, nosso calendário está se movendo um pouco
+mais rápido do que as estações realmente mudam.
+
+27
+00:01:17,020 --> 00:01:20,629
+E assim chegamos ao problema fundamental
+de todos os calendários: o ciclo dia/noite, embora
+
+28
+00:01:20,630 --> 00:01:23,748
+fácil de contar, não tem nada a ver com o
+ciclo anual.
+
+29
+00:01:23,749 --> 00:01:26,188
+O dia e a noite são causados pela rotação da Terra em torno
+de seu eixo.
+
+30
+00:01:26,189 --> 00:01:29,188
+ Quando você está do lado voltado para o sol, é
+dia e quando está do outro
+
+31
+00:01:29,189 --> 00:01:30,188
+lado é noite.
+
+32
+00:01:30,189 --> 00:01:33,388
+Mas essa rotação não está mais ligada ao
+movimento orbital ao redor do sol do que uma bailarina
+
+33
+00:01:33,389 --> 00:01:36,618
+girando na traseira de um
+caminhão está ligada à velocidade de cruzeiro do caminhão.
+
+34
+00:01:36,619 --> 00:01:39,258
+Contar o número de voltas da bailarina para
+prever quanto tempo o caminhão leva para mergulhar em
+
+35
+00:01:39,259 --> 00:01:43,359
+um círculo pode dar uma ideia aproximada,
+mas é loucura esperar que seja preciso.
+
+36
+00:01:43,360 --> 00:01:46,478
+Contar os dias para rastrear a órbita é
+praticamente a mesma coisa e, portanto, não deve ser
+
+37
+00:01:46,479 --> 00:01:50,789
+uma surpresa quando a Terra não
+fizer exatamente 365 giros completos em um ano.
+
+38
+00:01:50,790 --> 00:01:56,309
+Irritantemente, enquanto 365 dias são muito poucos, 366
+dias são muitos e ainda fazem com que as
+
+39
+00:01:56,310 --> 00:01:58,739
+estações fiquem fora de sincronia, exatamente no
+sentido oposto.
+
+40
+00:01:58,740 --> 00:02:02,068
+A solução para tudo isso é o ano bissexto:
+onde fevereiro ganha um dia a mais, mas apenas a
+
+41
+00:02:02,069 --> 00:02:03,438
+cada quatro anos.
+
+42
+00:02:03,439 --> 00:02:07,039
+Isso funciona muito bem, pois a cada ano o calendário
+é cerca de um quarto de dia curto, então depois de quatro
+
+43
+00:02:07,040 --> 00:02:09,388
+anos você adiciona um dia extra para voltar ao
+alinhamento.
+
+44
+00:02:09,389 --> 00:02:10,388
+Huzá!
+
+45
+00:02:10,389 --> 00:02:11,389
+O problema foi resolvido.
+
+46
+00:02:11,390 --> 00:02:12,539
+Exceto, não tem.
+
+47
+00:02:12,540 --> 00:02:15,739
+Aumentar o calendário em um dia a cada
+quatro anos é um pouco demais, e o calendário
+
+48
+00:02:15,740 --> 00:02:19,129
+ainda fica atrasado em relação às estações na proporção
+de um dia por cem anos.
+
+49
+00:02:19,130 --> 00:02:22,458
+O que é bom para os apáticos, mas não para
+designers de calendário que querem que tudo se
+
+50
+00:02:22,459 --> 00:02:23,679
+alinhe perfeitamente.
+
+51
+00:02:23,680 --> 00:02:26,739
+Para corrigir a irregularidade, a cada século o
+ano bissexto é ignorado.
+
+52
+00:02:26,740 --> 00:02:30,539
+Assim, 1896 e 1904 foram anos bissextos, mas
+1900 não.
+
+53
+00:02:30,540 --> 00:02:34,238
+Isso é melhor, mas ainda deixa o
+calendário um pouco rápido demais com um erro de
+
+54
+00:02:34,239 --> 00:02:35,999
+1 dia em 400 anos.
+
+55
+00:02:36,000 --> 00:02:39,029
+Portanto, uma cláusula adicional é adicionada à
+regra de ignorar os séculos de que, se o século for
+
+56
+00:02:39,030 --> 00:02:41,878
+divisível por 400, será um ano bissexto.
+
+57
+00:02:41,879 --> 00:02:45,159
+Portanto, 1900 e 2100 não são anos bissextos, mas 2000
+é.
+
+58
+00:02:45,160 --> 00:02:49,179
+Com essas três regras, o erro agora é apenas
+um dia de folga em quase oito mil anos
+
+59
+00:02:49,180 --> 00:02:52,568
+que o calendário atual declara 'missão
+cumprida' e assim o chama de dia.
+
+60
+00:02:52,569 --> 00:02:55,389
+O que provavelmente é bastante razoável, porque há
+oito mil anos os humanos estavam apenas
+
+61
+00:02:55,390 --> 00:02:58,729
+descobrindo que a agricultura poderia ser uma boa
+ideia e daqui a oito mil anos
+
+62
+00:02:58,730 --> 00:03:01,548
+estaremos usando um calendário com um
+sistema de rastreamento de data melhor.
+
+63
+00:03:01,549 --> 00:03:06,149
+Mas talvez você seja um matemático e um
+erro de 0,0001 por cento seja uma abominação aos seus olhos
+
+64
+00:03:06,150 --> 00:03:07,149
+e deva ser removido.
+
+65
+00:03:07,150 --> 00:03:10,369
+"Azar" diz o Universo porque a
+duração de um dia nem é constante.
+
+66
+00:03:10,370 --> 00:03:14,359
+Varia aleatoriamente em alguns milissegundos e,
+em média e muito lentamente, diminui cerca de
+
+67
+00:03:14,360 --> 00:03:16,109
+1 milissegundo por cem anos.
+
+68
+00:03:16,110 --> 00:03:19,969
+O que significa que é literalmente impossível construir
+um calendário perfeito que dure para sempre.
+
+69
+00:03:19,970 --> 00:03:23,089
+Em teoria, a duração de um dia se expandirá
+para ser tão longa quanto um mês atual - mas não se
+
+70
+00:03:23,090 --> 00:03:27,018
+preocupe na prática, levará dezenas de bilhões
+de anos, e nosso próprio sol em expansão destruirá
+
+71
+00:03:27,019 --> 00:03:28,798
+a Terra muito antes que isso aconteça.
+
+72
+00:03:28,799 --> 00:03:32,128
+Desculpe, não tenho certeza de como chegamos a contar
+os dias dos meses até o fim inevitável
+
+73
+00:03:32,129 --> 00:03:35,298
+de toda a civilização humana - a menos, é
+claro, que tenhamos um programa espacial adequadamente financiado
+
+74
+00:03:35,299 --> 00:03:37,348
+(dica, dica) - mas aí
+está.
+
+75
+00:03:37,349 --> 00:03:40,408
+Nos próximos oito milênios, os anos bissextos
+manterão o calendário sincronizado com as estações,
+
+76
+00:03:40,409 --> 00:03:43,889
+mas de uma maneira surpreendentemente complicada.
+
+77
+00:03:43,890 --> 00:03:47,289
+Você pode aprender muito mais sobre órbitas, diferentes
+tipos de anos e buracos negros supermassivos
+
+78
+00:03:47,290 --> 00:03:48,289
+e em Minute Physics.
+
+79
+00:03:48,290 --> 00:03:51,169
+Como sempre, Henry faz um ótimo trabalho
+explicando tudo em seu novo vídeo.
+
+80
+00:03:51,170 --> 00:03:51,590
+Confira.�
+

@@ -1,0 +1,260 @@
+1
+00:00:01,790 --> 00:00:05,539
+Koningin Leeuw van het dierenrijk is ontevreden. Ze heeft recentelijk verkiezingen geïntroduceerd voor
+
+2
+00:00:05,540 --> 00:00:08,409
+de functie koning met een meerderheidssysteem
+
+3
+00:00:08,410 --> 00:00:12,569
+Hoewel haar rijk begon als een gezonde democratie met veel partijen die zich kandidaat stelden voor koning
+
+4
+00:00:12,570 --> 00:00:16,739
+ging het snel over in een tweepartijensysteem, terwijl de burgers allebei de kandidaten niet leuk vinden, maar gevangen zijn
+
+5
+00:00:16,740 --> 00:00:20,039
+in het systeem door een probleem genaamd het Spoiler Effect
+
+6
+00:00:20,040 --> 00:00:24,238
+Echter, een van de onderdanen van koningin Leeuw uit een afgelegen land, Wallaby,heeft een oplossing:
+
+7
+00:00:24,239 --> 00:00:26,159
+De Alternative Vote. Wat is het verschil?
+
+8
+00:00:26,160 --> 00:00:30,319
+Laten we om daar achter te komen een kiezer volgen op verkiezingsdag, Rode Eekhoorn, bij beide systemen
+
+9
+00:00:30,320 --> 00:00:35,519
+Er zijn vijf kandidaten verkiesbaar voor koning, twee leden van de grote partijen Gorilla en Luipaard
+
+10
+00:00:35,520 --> 00:00:39,049
+en drie andere kandidaten, Schildpad, Uil en Tijger
+
+11
+00:00:39,050 --> 00:00:43,219
+Bij het meerderheidsstelsel krijgt Rode Eekhoorn een stembiljet waar hij slechts één kandidaat kiest
+
+12
+00:00:43,220 --> 00:00:46,859
+Rode Eekhoorn vindt Schildpad echt leuk en heeft zelfs campagne gevoerd voor hem. Hij weet echter dat
+
+13
+00:00:46,860 --> 00:00:49,779
+zijn nieuwe buurman, Grijze Eekhoorn, voor Gorilla stemt
+
+14
+00:00:49,780 --> 00:00:53,569
+En alle andere dieren? Vraagt de Rode Eekhoorn zich af. Voor wie gaan zij stemmen?
+
+15
+00:00:53,570 --> 00:00:56,689
+De debatten op het DierenNieuwsNetwerk hadden alleen
+
+16
+00:00:56,690 --> 00:01:00,499
+de grote partijen, dus Rode Eekhoorn denkt dat het een nauwe wedstrijd wordt tussen Gorilla en Luipaard
+
+17
+00:01:00,500 --> 00:01:02,679
+Hoewel hij onverschillig is tegenover Gorilla
+
+18
+00:01:02,680 --> 00:01:06,219
+hij is doodsbang voor Luipaard. Omdat hij slechts één kandidaat kan kiezen
+
+19
+00:01:06,220 --> 00:01:10,279
+geeft hij zijn ene stem aan Gorilla, hopende te voorkomen dat Luipaard koning wordt
+
+20
+00:01:10,280 --> 00:01:13,559
+Dit is strategisch stemmen, en het is een noodzaak in een meerderheidsstelsel
+
+21
+00:01:13,560 --> 00:01:17,589
+Maar nu is het tijd om te kijken naar de Alternative Vote, die Wallaby uitlegt aan Rode Eekhoorn
+
+22
+00:01:17,590 --> 00:01:22,449
+In plaats van alleen één kandidaat te kiezen, kan hij ze rangschikken van zijn meest favoriete
+
+23
+00:01:22,450 --> 00:01:25,009
+naar zijn minst favoriete. Hij gaat het stemhokje in en krijgt
+
+24
+00:01:25,010 --> 00:01:29,048
+hetzelfde stembiljet als eerst, maar nu zet hij Schildpad als eerste keus, Uil als tweede en
+
+25
+00:01:29,049 --> 00:01:32,849
+Gorilla als derde. Hij heeft een even grote hekel aan Luipaard en Tijger, dus hij
+
+26
+00:01:32,850 --> 00:01:35,529
+stopt met het stembiljet invullen en stopt het in de stembus
+
+27
+00:01:35,530 --> 00:01:38,459
+Op dit moment maakt het Rode Eekhoorn niet uit wat er precies gebeurt, hij heeft andere dingen
+
+28
+00:01:38,460 --> 00:01:43,389
+aan zijn hoofd en gaat weg. Maar jij, geachte burger, wil weten hoe de stemmen worden geteld
+
+29
+00:01:43,390 --> 00:01:46,449
+dus hier gaan we: Schildpad, alhoewel hij geliefd is onder een deel van
+
+30
+00:01:46,450 --> 00:01:51,719
+de bevolking, krijgt de laatste plek met slechts 5% en hij is geëlimineerd van de verkiezingen
+
+31
+00:01:51,720 --> 00:01:54,139
+Omdat de kiezers hun kandidaten op volgorde hebben gerangschikt, kunnen we weten wat gebeurd zou zijn
+
+32
+00:01:54,140 --> 00:01:57,429
+als Schildpad niet had meegedaan. Zonder Schildpad zouden kiezers zoals Rode Eekhoorn
+
+33
+00:01:57,430 --> 00:02:01,059
+Uil hebben gekozen, dus hun stemmen worden doorgegeven aan haar alsof Schildpad
+
+34
+00:02:01,060 --> 00:02:04,559
+nooit aan de verkiezingen mee had gedaan. Dit is waarom Alternative Vote soms
+
+35
+00:02:04,560 --> 00:02:08,219
+Instant Runoff Voting wordt genoemd. Het kan een aantal verkiezingen simuleren waar de
+
+36
+00:02:08,220 --> 00:02:11,688
+minst favoriete kandidaat geëlimineerd wordt na elke ronde zonder alle tijd en kosten
+
+37
+00:02:11,689 --> 00:02:15,818
+die het zou kosten om een aantal campagnes te voeren achter elkaar
+
+38
+00:02:15,819 --> 00:02:18,918
+De methode van Alternative Vote blijft de minst favoriete kandidaat elimineren totdat iemand
+
+39
+00:02:18,919 --> 00:02:21,908
+een meerderheid wint of de enige is die overblijft
+
+40
+00:02:21,909 --> 00:02:26,539
+Aangezien niemand al een meerderheid heeft, wordt de volgende minst favoriete kandidaat, Tijger, geëlimineerd. Kiezers voor Tijger
+
+41
+00:02:26,540 --> 00:02:29,208
+hebben Luipaard als hun tweede keus ingevuld, dus zij krijgt de stemmen voor Tijger
+
+42
+00:02:29,209 --> 00:02:33,929
+In de laatste ronde wordt Gorilla geëlimineerd. Kiezers voor Gorilla hebben Uil ingevuld als hun tweede
+
+43
+00:02:33,930 --> 00:02:38,558
+keus, dus Uil krijgt die stemmen, wint een meerderheid, en wordt gekroond als koning
+
+44
+00:02:38,559 --> 00:02:42,119
+De Alternative Vote is een beter systeem omdat het een winnaar produceert waar een groter aantal
+
+45
+00:02:42,120 --> 00:02:45,438
+kiezers het mee eens is. Hoewel de Alternative Vote gebreken heeft
+
+46
+00:02:45,439 --> 00:02:49,429
+is het belangrijk om op te merken dat elk probleem dat AV heeft, gedeeld wordt door het meerderheidsstelsel
+
+47
+00:02:49,430 --> 00:02:54,168
+Ze zijn beide vatbaar voor kiesrechtgeografie, het zijn geen evenredige systemen, ze kunnen geen
+
+48
+00:02:54,169 --> 00:02:58,619
+Condorcet-winnaar garanderen (wat wiskundenerds haten, maar er is geen tijd om dat hier uit te leggen)
+
+49
+00:02:58,620 --> 00:03:01,528
+En na een tijdje neigen ze beide naar twee hoofdpartijen
+
+50
+00:03:01,529 --> 00:03:05,238
+Dat gezegd hebbende, Alternative Vote heeft een gigantisch voordeel dat een meerderheidssysteem niet heeft
+
+51
+00:03:05,239 --> 00:03:09,248
+en dat maakt het een wiskundig superieure methode: geen Spoiler Effect!
+
+52
+00:03:09,249 --> 00:03:14,028
+Stel je deze verkiezing voor: de twee grote kandidaten doen mee, Gorilla en Luipaard, en Luipaard
+
+53
+00:03:14,029 --> 00:03:19,348
+lijkt te winnen met 55% tegen 45%. Maar dan doet een derde kandidaat, Tijger, mee.
+
+54
+00:03:19,349 --> 00:03:23,429
+Tijger krijgt het voor elkaar om 15% van de kiezers voor Luipaard hem te laten steunen. Nu zijn de resultaten:
+
+55
+00:03:23,430 --> 00:03:26,828
+Met het meerderheidssysteem wint Gorilla nu, zelfs al wilde de meerderheid van de kiezers
+
+56
+00:03:26,829 --> 00:03:29,988
+hem niet. Met de Alternative Vote, omdat alle kiezers voor Tijger
+
+57
+00:03:29,989 --> 00:03:34,039
+Luipaard als tweede keus hebben neergezet, wint Luipaard nog steeds omdat de meerderheid van de burgers
+
+58
+00:03:34,040 --> 00:03:36,558
+van het dierenrijk liever haar de leiding geeft dan Gorilla
+
+59
+00:03:36,559 --> 00:03:42,938
+Met AV kunnen burgers kleinere partijen waar ze het mee eens zijn steunen en laten groeien zonder zich zorgen te maken
+
+60
+00:03:42,939 --> 00:03:45,668
+dat ze iemand die ze niet leuk vinden in ambt laten treden
+
+61
+00:03:45,669 --> 00:03:49,838
+Na de verschillen te hebben onderzocht, verklaart koningin Leeuw dat de Alternative Vote
+
+62
+00:03:49,839 --> 00:03:55,298
+het nieuwe bewind zal zijn voor het verkiezen van de koning en iedereen is blijer... Nou, bijna iedereen
+
+63
+00:03:55,299 --> 00:04:02,818
+De twee grote partijen kunnen niet meer achterover leunen en ze moeten harder campagne voeren voor hun stemmen
+
+64
+00:04:02,819 --> 00:04:05,848
+Dit was de Alternative Vote uitgelegd door mij, C.G.P. Grey
+
+65
+00:04:05,849 --> 00:04:06,809
+Bedankt voor het kijken!
+

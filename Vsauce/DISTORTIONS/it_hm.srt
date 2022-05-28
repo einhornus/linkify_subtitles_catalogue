@@ -1,0 +1,684 @@
+1
+00:00:07,220 --> 00:00:10,558
+Hey, Vsauce. Qui Michael. Sono...
+
+2
+00:00:10,559 --> 00:00:13,959
+distorto. I pixel che stai guardando sono stati
+
+3
+00:00:13,960 --> 00:00:18,179
+distorti temporalmente. Sono stati mappati su un gradiente
+
+4
+00:00:18,180 --> 00:00:21,778
+e più è scura la regione su cui sono mappati, più sarà evidente
+
+5
+00:00:21,779 --> 00:00:25,589
+il loro ritardo. L' effetto è davvero divertente ma è certamente
+
+6
+00:00:25,590 --> 00:00:31,229
+irrealistico. O no?
+
+7
+00:00:31,230 --> 00:00:35,819
+Molte, molte telecamere digitali popolari soffrono di distorsione prodotta dal ritardo
+
+8
+00:00:35,820 --> 00:00:39,019
+come quella che avete appena visto, anche se molto,
+
+9
+00:00:39,020 --> 00:00:42,459
+molto più tenue. Di solito del tutto
+
+10
+00:00:42,460 --> 00:00:45,709
+impercettibile. E' chiamata distorsione da otturatore progressivo.
+
+11
+00:00:45,710 --> 00:00:48,789
+Invece di scattare con una esposizione completa in un solo colpo
+
+12
+00:00:48,790 --> 00:00:52,198
+scansionano rapidamente strisce di ogni fotogramma. E'
+
+13
+00:00:52,199 --> 00:00:56,709
+solitamente impercettibile. Ma quando il soggetto si muove più velocemente della velocità di scansione
+
+14
+00:00:56,710 --> 00:00:57,549
+della macchina,
+
+15
+00:00:57,550 --> 00:01:03,209
+si ottiene il famoso effetto gelatinoso traballante da otturatore progressivo. Oggetti
+
+16
+00:01:03,210 --> 00:01:06,799
+davvero veloci,  come le corde di una chitarra e le eliche di un aeroplano,
+
+17
+00:01:06,800 --> 00:01:11,709
+sono vittime note, ma anche le persone possono esserlo. Luke Mandel inviò questa foto
+
+18
+00:01:11,710 --> 00:01:16,618
+a BoingBoing[.net]. La sua macchina analizzò da sinistra a destra, in questo caso,
+
+19
+00:01:16,619 --> 00:01:20,209
+e riuscì a catturare un battito di ciglia, gli occhi chiusi
+
+20
+00:01:20,210 --> 00:01:25,169
+quando la scansione iniziò e poi aperti nel riflesso scansionato una frazione
+
+21
+00:01:25,170 --> 00:01:28,739
+di secondo dopo. Ma l'effetto dell'otturatore progressivo
+
+22
+00:01:28,740 --> 00:01:32,699
+non è solo una pura curiosità. Rappresenta
+
+23
+00:01:32,700 --> 00:01:36,129
+una fondamentale e ineludibile distorsione che
+
+24
+00:01:36,130 --> 00:01:39,709
+influenza tutto ciò che vediamo. Otturatore progressivo
+
+25
+00:01:39,710 --> 00:01:44,118
+o meno. Prima di tutto, parliamo di distorsioni.
+
+26
+00:01:44,119 --> 00:01:47,408
+Una allucinazione è una distorsione della realtà
+
+27
+00:01:47,409 --> 00:01:51,389
+quando non c'è nessuno stimolo evidente. Se stai semplicemente
+
+28
+00:01:51,390 --> 00:01:55,699
+interpretando male uno stimolo reale, allora è un'illusione.
+
+29
+00:01:55,700 --> 00:01:59,908
+Ma alcune distorsioni si verificano prima che i nostri organi di senso
+
+30
+00:01:59,909 --> 00:02:03,179
+e la nostra mente si mettano tra i piedi. Sono chiamate
+
+31
+00:02:03,180 --> 00:02:08,339
+fenomeni ottici. Non sono il risultato di sensazioni o percezioni sbagliate.
+
+32
+00:02:08,340 --> 00:02:13,659
+I fenomeni ottici sono invece distorsioni causate dalle pure caratteristiche della luce
+
+33
+00:02:13,660 --> 00:02:14,499
+e della materia
+
+34
+00:02:14,500 --> 00:02:17,969
+intrinseche ed estrinseche. Se alzi lo sguardo al cielo
+
+35
+00:02:17,970 --> 00:02:21,639
+e vedi un mestolo gigante e vivido [paragonato al Grande Carro nella tradiz. pop. amer. ndr]
+
+36
+00:02:21,640 --> 00:02:24,899
+stai avendo un'allucinazione. Ma se vedi una figura
+
+37
+00:02:24,900 --> 00:02:28,999
+bidimensionale fatta di punti da connettere a forma di Grande Carro, stai osservando
+
+38
+00:02:29,000 --> 00:02:32,289
+un'illusione. E' un'illusione perché quei punti sembrano appena
+
+39
+00:02:32,290 --> 00:02:37,509
+trovarsi sullo stesso piano, come buchi ricavati nella volta scura del cielo.
+
+40
+00:02:37,510 --> 00:02:40,608
+In realtà, quei puntini sono stelle
+
+41
+00:02:40,609 --> 00:02:44,729
+lontane anni luce l'una dall'altra, in uno spazio tridimensionale.
+
+42
+00:02:44,730 --> 00:02:48,839
+Come ci mostra la brillante e gratuita rappresentazione 3D dell'universo in real-time di Celestron
+
+43
+00:02:48,840 --> 00:02:52,439
+da diversi punti di vista, oltre al nostro,
+
+44
+00:02:52,440 --> 00:02:56,409
+sembrano molto meno un carro o un aratro.
+
+45
+00:02:56,410 --> 00:02:59,659
+Infatti, tutte le costellazioni e gli asterismi
+
+46
+00:02:59,660 --> 00:03:03,649
+sono illusioni geocentriche. Da una prospettiva più ampia
+
+47
+00:03:03,650 --> 00:03:06,729
+I loro contorni si dirigono all'interno,
+
+48
+00:03:06,730 --> 00:03:09,789
+verso il solo e modesto punto dello spazio
+
+49
+00:03:09,790 --> 00:03:13,559
+che ha dato loro un nome. Ma non puoi darci la colpa.
+
+50
+00:03:13,560 --> 00:03:18,419
+Intendo, la Terra è l'unico punto di vista che ogni essere umano abbia mai avuto.
+
+51
+00:03:18,420 --> 00:03:22,208
+Perfino Voyager 1, l'oggetto artificiale più distante,
+
+52
+00:03:22,209 --> 00:03:26,059
+non è ancora lontanamente vicino ad essere abbastanza lontano dalle costellazioni perché queste
+
+53
+00:03:26,060 --> 00:03:29,759
+sembrino anche leggermente diverse da come sono qui sulla Terra.
+
+54
+00:03:29,760 --> 00:03:33,569
+Non è neanche un nostro difetto, un difetto dei nostri occhi o cervelli,
+
+55
+00:03:33,570 --> 00:03:37,108
+il fatto che stelle così distanti non fossero incluse
+
+56
+00:03:37,109 --> 00:03:40,809
+nel nostro primordiale gioco di connetti-i-puntini.
+
+57
+00:03:40,810 --> 00:03:44,078
+Di sicuro la nostra vista potrebbe essere migliore,
+
+58
+00:03:44,079 --> 00:03:47,129
+ma anche i fenomeni ottici sono da incolpare.
+
+59
+00:03:47,130 --> 00:03:52,349
+Se non fosse per l'effetto redshift e la legge dell'inverso del quadrato e l'assorbimento della luce,
+
+60
+00:03:52,350 --> 00:03:55,599
+gli oggetti distanti potrebbero essere visti in tutto il loro splendore.
+
+61
+00:03:55,600 --> 00:03:59,819
+Il cielo notturno sembrerebbe fenomenale. Molte strutture
+
+62
+00:03:59,820 --> 00:04:03,149
+lassù sono enormi. Solo solo
+
+63
+00:04:03,150 --> 00:04:06,849
+troppo poco luminose perché la loro enormità venga apprezzata.
+
+64
+00:04:06,850 --> 00:04:11,869
+Quando guardiamo le immagini del Telescopio Hubble di oggetti distanti, come la Nebulosa Elica,
+
+65
+00:04:11,870 --> 00:04:15,509
+è comodo pensare che, senza l'ingrandimento di un telescopio,
+
+66
+00:04:15,510 --> 00:04:19,289
+l'oggetto sarebbe solo un piccolo puntino nel cielo.
+
+67
+00:04:19,290 --> 00:04:23,418
+Ma in realtà, anche se la Nebulosa Elica è
+
+68
+00:04:23,419 --> 00:04:26,679
+a 700 anni luce di distanza... è
+
+69
+00:04:26,680 --> 00:04:31,159
+larga 3 anni luce. Se potessimo rendere la Nebulosa Elica
+
+70
+00:04:31,160 --> 00:04:34,339
+meno fioca, se i nostri occhi potessero sopportare
+
+71
+00:04:34,340 --> 00:04:37,728
+un tempo molto lungo di esposizione alla sua luce, vedremmo la nebulosa
+
+72
+00:04:37,729 --> 00:04:42,839
+come è veramente - quasi il 70% del diametro apparente
+
+73
+00:04:42,840 --> 00:04:47,379
+della nostra Luna. Questa immagine è veritiera. Questo è quanto
+
+74
+00:04:47,380 --> 00:04:50,799
+la Nebulosa Elica sarebbe grande nel cielo notturno terrestre
+
+75
+00:04:50,800 --> 00:04:54,359
+se solo non fosse così poco luminosa. La nostra Luna è
+
+76
+00:04:54,360 --> 00:04:59,199
+minuscola nel cielo, a proposito. E' facile pensare alla Luna come a questo enorme
+
+77
+00:04:59,200 --> 00:05:02,909
+oggetto grande quando una palla da baseball su nel cielo, ma è un'illusione.
+
+78
+00:05:02,910 --> 00:05:06,959
+La prossima volta che vedi la Luna prova questo: prendi un foglio di carta da un taccuino
+
+79
+00:05:06,960 --> 00:05:10,299
+e noterai che il diametro angolare della Luna
+
+80
+00:05:10,300 --> 00:05:14,839
+è della stessa dimensione di un buco di un foglio di carta da taccuino tenuto in mano
+
+81
+00:05:14,840 --> 00:05:19,879
+alla distanza di un braccio. Seriamente, provaci qualche volta. Semplicemente, mostra
+
+82
+00:05:19,880 --> 00:05:23,619
+quanto piccola e carina è la nostra luna. La Nebulosa di Orione
+
+83
+00:05:23,620 --> 00:05:27,099
+apparirebbe anche più grande, se potessimo vedere tutta la sua luce.
+
+84
+00:05:27,100 --> 00:05:30,179
+E la Galassia di Andromeda? Solo
+
+85
+00:05:30,180 --> 00:05:34,969
+un macchiolina nel cielo per i nostri occhi. Ma se i nostri occhi fossero migliori nel recepire
+
+86
+00:05:34,970 --> 00:05:38,419
+la luce meno intensa, vedremmo Andromeda nel cielo nella sua reale
+
+87
+00:05:38,420 --> 00:05:41,689
+estensione. Ovviamente, il nostro
+
+88
+00:05:41,690 --> 00:05:44,719
+cielo notturno non è proprio così. Gli oggetti distanti
+
+89
+00:05:44,720 --> 00:05:49,519
+sono più fiochi, è seccante. Ma la luce vince lo stesso in quanto a velocità.
+
+90
+00:05:49,520 --> 00:05:55,329
+La luce viaggia alla velocità più alta. Infatti, nel vuoto, la luce viaggia
+
+91
+00:05:55,330 --> 00:05:58,539
+a 300,000 chilometri al secondo.
+
+92
+00:05:58,540 --> 00:06:01,069
+E' veloce.
+
+93
+00:06:01,070 --> 00:06:04,629
+Però non tanto. Intendo, non confrontata con quanto sono distanti
+
+94
+00:06:04,630 --> 00:06:08,199
+gli oggetti nell'universo. Sydney, Australia
+
+95
+00:06:08,200 --> 00:06:12,279
+è a 1/14 di secondo luce di distanza da Londra.
+
+96
+00:06:12,280 --> 00:06:13,919
+Ma la Galassia di Andromeda è a
+
+97
+00:06:13,920 --> 00:06:18,549
+2,500,000 anni luce di distanza da Londra.
+
+98
+00:06:18,550 --> 00:06:22,829
+Per mettere questa cosa in prospettiva facciamo un viaggio alla velocità della luce da Londra
+
+99
+00:06:22,830 --> 00:06:25,809
+a Sydney. Sembrerebbe così... Pronti?
+
+100
+00:06:25,810 --> 00:06:30,849
+Three... two... one... go!
+
+101
+00:06:30,850 --> 00:06:35,229
+Bene! OK, OK. Ecco la Galassia di Andromeda.
+
+102
+00:06:35,230 --> 00:06:40,519
+Okay, ora, tralasciando gli effetti relativistici, diamo uno sguardo a come sembrerebbe
+
+103
+00:06:40,520 --> 00:06:43,179
+viaggiare verso la Galassia di Andromeda
+
+104
+00:06:43,180 --> 00:06:46,019
+alla velocità della luce. Siete pronti? Bene.
+
+105
+00:06:46,020 --> 00:06:54,359
+Three... two... one... go!
+
+106
+00:06:54,360 --> 00:06:57,449
+Sì, insomma, sul serio. E'...
+
+107
+00:06:57,450 --> 00:07:01,349
+piuttosto noioso. Anche alla velocità della luce,
+
+108
+00:07:01,350 --> 00:07:05,229
+la più alta velocità possibile, a un anno da qui
+
+109
+00:07:05,230 --> 00:07:08,999
+non saremmo neanche a un miliardesimo di distanza dalla meta.
+
+110
+00:07:09,000 --> 00:07:11,329
+Ecco quanto è distante
+
+111
+00:07:11,330 --> 00:07:14,979
+Andromeda. E' quasi triste
+
+112
+00:07:14,980 --> 00:07:20,289
+in un certo senso. Ma questo ci riporta indietro all'effetto dell'otturatore progressivo.
+
+113
+00:07:20,290 --> 00:07:25,959
+La Galassia di Andromeda è enorme. E' più ampia di centinaio di migliaia di anni luce
+
+114
+00:07:25,960 --> 00:07:29,589
+e la nostra visione di essa è inclinata.
+
+115
+00:07:29,590 --> 00:07:33,819
+Il che significa che, nel piano visivo su cui la vediamo, la luce proveniente da dietro
+
+116
+00:07:33,820 --> 00:07:39,239
+rappresenta come Andromeda appariva migliaia e migliaia di anni prima
+
+117
+00:07:39,240 --> 00:07:42,329
+di quello che rappresenta la luce proveniente dal davanti.
+
+118
+00:07:42,330 --> 00:07:45,689
+Dei cambiamenti nel suo aspetto ci raggiungono più velocemente dal davanti
+
+119
+00:07:45,690 --> 00:07:50,269
+che dal didietro. Andromeda sta ruotando a centinaia di chilometri
+
+120
+00:07:50,270 --> 00:07:51,909
+al secondo in alcune parti.
+
+121
+00:07:51,910 --> 00:07:55,669
+Adesso, un ritardo tra la luce proveniente da punti vicini
+
+122
+00:07:55,670 --> 00:07:58,879
+e punti lontani di un oggetto rotante, risulta
+
+123
+00:07:58,880 --> 00:08:03,689
+in un'immagine distorta. L'effetto dell'otturatore progressivo in scala cosmica.
+
+124
+00:08:03,690 --> 00:08:06,699
+Applicato, diciamo, ad una scacchiera, vedere la parte frontale
+
+125
+00:08:06,700 --> 00:08:11,259
+più avanti della parte posteriore è piuttosto confusionario e impressionante.
+
+126
+00:08:11,260 --> 00:08:13,789
+Quindi, questo significa che noi vediamo
+
+127
+00:08:13,790 --> 00:08:18,199
+delle versioni di Andromeda traballanti, da casa degli specchi, distorte dall'otturatore progressivo
+
+128
+00:08:18,200 --> 00:08:21,669
+e lo stesso per le altre lontane galassie? Beh, tecnicamente
+
+129
+00:08:21,670 --> 00:08:26,659
+sì... però la distorsione è trascurabile. Potrebbe benissimo essere
+
+130
+00:08:26,660 --> 00:08:30,019
+ignorata. Perchè? Beh,
+
+131
+00:08:30,020 --> 00:08:33,668
+Le velocità usate in queste visualizzazioni non sono
+
+132
+00:08:33,669 --> 00:08:38,249
+in scala. Mediamente, sì, la materia interna alle galassie
+
+133
+00:08:38,250 --> 00:08:41,699
+orbita attorno al centro a centinaia di chilometri al secondo
+
+134
+00:08:41,700 --> 00:08:45,559
+ma le galassie sono così grandi che gli ci vogliono
+
+135
+00:08:45,560 --> 00:08:49,209
+centinaia di millioni di anni per completare anche solo una
+
+136
+00:08:49,210 --> 00:08:53,739
+rotazione. In altre parole, il ritardo tra la luce
+
+137
+00:08:53,740 --> 00:08:56,999
+che ti raggiunge dai vicini e lontani di una galassia,
+
+138
+00:08:57,000 --> 00:09:00,289
+non è niente a confronto del tempo che impiega
+
+139
+00:09:00,290 --> 00:09:03,859
+la materia della galassia per spostarsi della stessa distanza.
+
+140
+00:09:03,860 --> 00:09:06,989
+Nel caso di Andromeda, se insistessi
+
+141
+00:09:06,990 --> 00:09:10,379
+nel voler vedere Andromeda come è veramente,
+
+142
+00:09:10,380 --> 00:09:15,559
+cioè, corretta da ogni forma di ritardo causato dal fatto che la velocità della luce
+
+143
+00:09:15,560 --> 00:09:18,799
+è finita, il punto più estremo della galassia
+
+144
+00:09:18,800 --> 00:09:23,039
+dovrebbe soltanto essere spostato di circa 1/10,000 della
+
+145
+00:09:23,040 --> 00:09:26,419
+larghezza di ogni immagine. In questo caso, meno di un pixel.
+
+146
+00:09:26,420 --> 00:09:30,799
+Quindi, non è un grosso problema. Ma è comunque un problema.
+
+147
+00:09:30,800 --> 00:09:34,529
+E' reale. Infatti, tutto quello che vediamo è,
+
+148
+00:09:34,530 --> 00:09:37,669
+in qualche modo, distorto dal fatto che la velocità della luce
+
+149
+00:09:37,670 --> 00:09:40,749
+è finita. I tuoi piedi sono più o meno
+
+150
+00:09:40,750 --> 00:09:47,139
+a 5 o 6 nanosecondi luce di distanza dai tuoi occhi, il che significa che quando ti guardi i piedi
+
+151
+00:09:47,140 --> 00:09:50,949
+stai guardando dove erano 5 o 6
+
+152
+00:09:50,950 --> 00:09:55,229
+nanosecondi fa. 5 o 6 nanosecondi nel passato.
+
+153
+00:09:55,230 --> 00:09:58,249
+Certamente, un ritardo così leggero è piuttosto impercettibile
+
+154
+00:09:58,250 --> 00:10:01,879
+ma è calcolabile. Se ti fa sentire
+
+155
+00:10:01,880 --> 00:10:05,219
+vagamente triste sapere che anche con la mente più sveglia
+
+156
+00:10:05,220 --> 00:10:09,549
+o con i migliori strumenti, l'apparenza dipende ancora da
+
+157
+00:10:09,550 --> 00:10:13,139
+dove ti trovi; quel fenomeno ottico assicura
+
+158
+00:10:13,140 --> 00:10:17,679
+che le apparenze siano sempre relative... Tirati su.
+
+159
+00:10:17,680 --> 00:10:21,669
+Noi chiamiamo le persone più vicine a noi parenti [relatives].
+
+160
+00:10:21,670 --> 00:10:25,069
+Siamo davvero una semplice famiglia, una grande famiglia
+
+161
+00:10:25,070 --> 00:10:28,479
+o delle cornici di riferimento che, come una famiglia, non sempre vanno d'accordo
+
+162
+00:10:28,480 --> 00:10:31,569
+ma hanno un sacco di cose interessanti a cui interessarsi.
+
+163
+00:10:31,570 --> 00:10:35,489
+Vorrei ringraziare il mio editor, Guy, per avermi aiutato con
+
+164
+00:10:35,490 --> 00:10:51,888
+l'effetto dell'otturatore progressivo nominato nel video.
+
+165
+00:10:51,889 --> 00:10:54,448
+E vorrei ringraziare te, perchè, come sempre
+
+166
+00:10:54,449 --> 00:11:21,969
+grazie per la visione.
+
+167
+00:11:21,970 --> 00:11:23,009
+Oh, ecco una cosa forte:
+
+168
+00:11:23,010 --> 00:11:26,039
+molto presto sarò allo YouTube Fan Fest con HP
+
+169
+00:11:26,040 --> 00:11:29,579
+in India. Controlla la descrizione per maggiori informazioni. Se riesci
+
+170
+00:11:29,580 --> 00:11:30,069
+a farcela fin lì,
+
+171
+00:11:30,070 --> 00:11:31,020
+spero di incontrarvi.
+

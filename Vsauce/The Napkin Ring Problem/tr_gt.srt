@@ -1,0 +1,472 @@
+1
+00:00:02,409 --> 00:00:10,289
+Hey, Vsauce!  Michael burada!  Bir kürenin çekirdeğini alırsanız;  yani, ondan bir silindir çıkarın,
+
+2
+00:00:10,290 --> 00:00:14,979
+Peçete halkası adı verilen bir şekille kalacaksınız, çünkü bir peçete halkasına benziyor!
+
+3
+00:00:14,980 --> 00:00:20,099
+Tuhaf bir şekil çünkü iki Peçete halkası aynı yüksekliğe sahipse,
+
+4
+00:00:20,100 --> 00:00:24,639
+geldikleri kürelerin boyutundan bağımsız olarak aynı hacme sahip olacaklar!  (Harika)
+
+5
+00:00:24,640 --> 00:00:30,579
+Bu, bir portakaldan ve Dünya'dan eşit uzunlukta peçete halkaları keserseniz
+
+6
+00:00:30,580 --> 00:00:35,199
+, elinizde tutabileceğiniz anlamına gelir.  Diğeri tüm gezegenimizin çevresine sahip olurdu,
+
+7
+00:00:35,200 --> 00:00:39,339
+ama her ikisi de aynı hacme sahip olurdu...
+
+8
+00:00:39,340 --> 00:00:45,328
+Adam Savage ile bir Kendama yaparken bu mantıksız gerçeğe değinmiştim.  Videoyu izlemediyseniz bir göz atın, ya da daha iyisi
+
+9
+00:00:45,329 --> 00:00:51,959
+, gelip bizi görün.  Bu sonbaharda 24 yeni şehre beyin şekerini canlı olarak getiriyoruz.  Meşgul olacak, ama şu
+
+10
+00:00:51,960 --> 00:00:56,349
+anda toplardan bahsediyoruz ve onları özlüyoruz!
+
+11
+00:00:56,350 --> 00:01:02,139
+Burada çok farklı boyutlardaki kürelerden İKİ peçete halkası var;  biri küçük bir toptan,
+
+12
+00:01:02,140 --> 00:01:05,709
+sadece çekirdeklerini çıkardığım küçük bir domates, yani tam şurada küçük bir delik var.
+
+13
+00:01:05,710 --> 00:01:08,128
+Diğer Peçete halkası portakaldan yapılmıştır,
+
+14
+00:01:08,129 --> 00:01:12,879
+ancak her iki Peçete halkasının yüksekliği aynıdır.  Domatesin
+
+15
+00:01:12,880 --> 00:01:20,279
+çevresi portakaldan daha küçük yani daha az hacim anlamına gelir, ancak halkası daha kalın yani daha fazla hacim anlamına gelir.  Bu etkilerin her ikisi de
+
+16
+00:01:20,280 --> 00:01:31,559
+tam olarak ortadan kalkar.  Yani bu iki peçete halkası aynı hacimlere sahipler ve aynı miktarda yer kaplıyorlar
+
+17
+00:01:31,560 --> 00:01:34,269
+Bu arada portakal yağı yanıcı
+
+18
+00:01:34,270 --> 00:01:37,239
+Peçete halkası sorununun neden doğru olduğunu anlamak için
+
+19
+00:01:37,240 --> 00:01:44,769
+Cavalieri ilkesini tartışalım.  Burada inşa ettiğim bu iki silindir gibi herhangi iki katı için,
+
+20
+00:01:44,770 --> 00:01:49,868
+eğer başka bir paralel düzlem, eğer
+
+21
+00:01:49,869 --> 00:01:54,298
+nereden alınırsa alınsın, her ikisi de eşit alanlı bölgelerde kesişirse, paralel düzlemler arasına sıkıştırılır,
+
+22
+00:01:54,299 --> 00:02:02,618
+o zaman katıların hacmi aynı olur.  Bu, burada açıkça doğrudur, bu silindirler her Yığındaki 100 VSauce çıkartması yığınlarından yapılmıştır,
+
+23
+00:02:02,619 --> 00:02:07,909
+bu nedenle hacimleri aynıdır
+
+24
+00:02:07,910 --> 00:02:15,429
+, bunlardan birini bu şekilde eğirsem şekli değişecektir, ancak hacmi hala aynı miktarda içermiyor
+
+25
+00:02:15,430 --> 00:02:18,169
+Eklemediğim veya çıkartmadığım şeyler
+
+26
+00:02:18,170 --> 00:02:25,539
+Ve Cavalieri ilkesi, bunların hala aynı hacme sahip olmalarını sağlar çünkü buradan aşağıdan ortada herhangi bir yerden alınan herhangi bir kesit
+
+27
+00:02:25,540 --> 00:02:33,279
+bize her zaman diğeriyle aynı alanın bir bölgesini verecektir çünkü bunlar  bölgeler her zaman eşit alanlı dairelerdir.
+
+28
+00:02:33,280 --> 00:02:37,339
+Şimdi Cavalieri ilkesini Peçete Halkalarına Uygulayalım
+
+29
+00:02:37,340 --> 00:02:40,879
+Benzer Yüksekliğe sahip iki peçete Halkasının
+
+30
+00:02:40,880 --> 00:02:46,639
+bir düzlem tarafından kesildiğinde birinin kesit
+
+31
+00:02:46,640 --> 00:02:49,719
+alanının her zaman diğerlerinin
+
+32
+00:02:49,720 --> 00:02:56,829
+alanına eşit olduğunu göstererek aynı hacimlere sahip olduğunu görebiliriz.  kürelerin enine kesitinin eksi silindirlerin enine kesitinin alanı bize Peçete halkalarının Kesit alanını verir
+
+33
+00:02:56,830 --> 00:03:01,819
+.  Peçete halkasını nereye keseceğimize bağlı olarak kesitler farklı alanlara sahip olacaktır
+
+34
+00:03:01,820 --> 00:03:08,809
+Ama bunlar her zaman birbirinin aynısı olacaktır.  Öncelikle bu mavi halkaların alanlarını hesaplayalım
+
+35
+00:03:08,810 --> 00:03:18,169
+Peçete halkasının yüksekliğini h ve büyük R'den kestikleri kürenin yarıçapını diyelim
+
+36
+00:03:18,170 --> 00:03:25,629
+.  bunun gibi bir silindirin her ikisi de çemberdir
+
+37
+00:03:25,630 --> 00:03:30,019
+Yani alanları Pi çarpı yarıçapın karesi kullanılarak belirlenebilir
+
+38
+00:03:30,020 --> 00:03:37,509
+O halde kürelerin kesit alanını bulmak istiyorsak ve silindirlerin kesit alanını çıkarmak istiyorsak
+
+39
+00:03:37,510 --> 00:03:41,839
+(bir resmini çizeceğim)  Burada bir silindir), tek yapmamız gereken Pi'yi almak ve
+
+40
+00:03:41,840 --> 00:03:45,409
+onu kürenin enine kesitinin karesiyle
+
+41
+00:03:45,410 --> 00:03:53,329
+çarpmak ve sonra Pi çarpı silindirin yarıçapından kareyi çıkarmak, peki bunların yarıçapları nedir?
+
+42
+00:03:53,330 --> 00:04:01,059
+Pekala, bu kürenin merkeziyse, silindirin yan tarafından aşağı doğru silindirin köşesine kadar düz bir çizgi çizebiliriz
+
+43
+00:04:01,060 --> 00:04:05,679
+ve sonra bir dik üçgen oluşturmak için birleştirebiliriz
+
+44
+00:04:05,680 --> 00:04:12,439
+Pisagor Teoremi burada bize gerçekten yardımcı olacaktır.  bir kenarın uzunluğunun karesi artı diğerinin
+
+45
+00:04:12,440 --> 00:04:16,778
+uzunluğunun karesinin karesi eşittir hipotenüsün karesi
+
+46
+00:04:16,779 --> 00:04:20,909
+Şimdi bu mesafe tam burada üçgenin bu tarafı istediğimiz
+
+47
+00:04:20,910 --> 00:04:29,079
+şey Silindirin yarıçapı, bu yüzden buna küçük r yarıçapı diyeceğiz  (burada güzel küçük resim) yani silindirin
+
+48
+00:04:29,080 --> 00:04:34,839
+yarıçapının
+
+49
+00:04:34,840 --> 00:04:37,029
+karesi artı
+
+50
+00:04:37,030 --> 00:04:44,019
+bu kenar uzunluğu, yani silindir yüksekliğinin sadece yarısı, yani silindirin yüksekliği bölü 2
+
+51
+00:04:44,020 --> 00:04:45,369
+kare
+
+52
+00:04:45,370 --> 00:04:53,349
+eşittir hipotenüsün karesi hipotenüsün  büyük R
+
+53
+00:04:53,350 --> 00:04:57,179
+Perfect olan kürenin yarıçapı Şimdi silindirin yarıçapını çözelim.
+
+54
+00:04:57,180 --> 00:05:05,168
+Her iki taraftan da h bölü 2 kareyi çıkaracağız, bu bize silindirin
+
+55
+00:05:05,169 --> 00:05:08,469
+yarıçapının karesini, kürenin yarıçapının karesi eksi
+
+56
+00:05:08,470 --> 00:05:10,959
+silindirin yüksekliğinin yarısının
+
+57
+00:05:10,960 --> 00:05:17,888
+karesini verecek olan karekökünü alabiliriz.  her iki taraf da böylece silindirin
+
+58
+00:05:17,889 --> 00:05:21,879
+yarıçapı ile kürenin yarıçapının kareköküne eşit olan
+
+59
+00:05:21,880 --> 00:05:25,149
+eksi 1/2 silindirin
+
+60
+00:05:25,150 --> 00:05:32,439
+yüksekliğinin karesine eşit olur.  küre şimdi bunun için
+
+61
+00:05:32,440 --> 00:05:38,228
+merkezden kürenin Kesitinin kenarına doğru düz bir çizgi çizelim
+
+62
+00:05:38,229 --> 00:05:44,649
+ve dümdüz aşağı inip tekrar yukarıya bağlanalım, hey bak!  Başka bir dik üçgene
+
+63
+00:05:44,650 --> 00:05:48,699
+bu yüksekliğe y diyelim
+
+64
+00:05:48,700 --> 00:05:55,679
+ve bu uzaklığın şimdi buradaki üçgenin kenarının aslında
+
+65
+00:05:55,680 --> 00:05:57,969
+yukarıdaki dairenin Kesitinin yarıçapı olduğuna dikkat edin
+
+66
+00:05:57,970 --> 00:06:14,829
+.  İkisi de eşittir, dolayısıyla bunun için kürenin kesiti olan dairenin yarıçapını bile çözmek istiyoruz
+
+67
+00:06:14,830 --> 00:06:21,159
+.  hipotenüsün karesi iyi, ne biliyorsun hipotenüsün kürenin yarıçapı olduğunu tekrar (büyük R)
+
+68
+00:06:21,160 --> 00:06:27,819
+tamam hadi y kareyi her iki taraftan da çıkaralım kürelerin yarıçapı kesit kare
+
+69
+00:06:27,820 --> 00:06:31,749
+eşittir kürenin yarıçapının karesi eksi
+
+70
+00:06:31,750 --> 00:06:36,019
+Y kare alacak  her iki tarafın karekökü ve sonunda
+
+71
+00:06:36,020 --> 00:06:41,029
+kürenin enine kesitinin yarıçapının, kürenin yarıçapının karesi eksi y karesinin kareköküne eşit olduğunu öğreniyoruz
+
+72
+00:06:41,030 --> 00:06:45,499
+.  Y,
+
+73
+00:06:45,500 --> 00:06:58,009
+bu Kesitin ekvatorun üstünden alındığı yüksekliktir, kürenin bu kesitlerini ne kadar yükseğe alırsak, yarıçapları o kadar küçük olacaktır.
+
+74
+00:06:58,010 --> 00:07:01,609
+bu iki yarıçapı ve onları formülümüze takın
+
+75
+00:07:01,610 --> 00:07:06,079
+Tamam, kürenin enine kesitinin alanını ilk istediğimiz şey
+
+76
+00:07:06,080 --> 00:07:10,579
+Tamam, bu sadece R kare eksi y karenin karekökü
+
+77
+00:07:10,580 --> 00:07:18,039
+Şimdi çok kötü değil silindirin yarıçapı kare  R'nin kökü kare eksi
+
+78
+00:07:18,040 --> 00:07:25,549
+Silindirin yüksekliğinin karesinin yarısı şimdi fark edebileceğiniz şey, bir şeyin karekökünü alıyoruz ve sonra karesini alıyoruz
+
+79
+00:07:25,550 --> 00:07:28,339
+Bunlar aslında birbirini
+
+80
+00:07:28,340 --> 00:07:30,369
+mükemmel şekilde yok ediyor!  Çok daha basit görünümlü
+
+81
+00:07:30,370 --> 00:07:38,659
+Ama şimdi Pi'yi parantez içindeki terimlere dağıtalım, böylece pi çarpı R kare bize Pi R
+
+82
+00:07:38,660 --> 00:07:44,149
+kare Pi çarpı negatif y kare verir bize negatif pi y kare
+
+83
+00:07:44,150 --> 00:07:46,189
+O zaman negatif bir Pi çarpı R
+
+84
+00:07:46,190 --> 00:07:54,859
+kare negatif pi R kare negatif Pi  çarpı negatif h bölü 2 kare eşittir pozitif Pi
+
+85
+00:07:54,860 --> 00:07:56,659
+h bölü 2
+
+86
+00:07:56,660 --> 00:08:03,219
+Kare.  Harika, şimdi basitleştirmeye devam edebiliriz, ancak fark edebileceğiniz şey, elimizde bir pi r kare ve bir
+
+87
+00:08:03,220 --> 00:08:07,039
+eksi Pi R kare var, bu da 0'a eşittir, yani bunlar
+
+88
+00:08:07,040 --> 00:08:11,299
+birbirini tamamen ortadan kaldırır, ancak elimizde aşağıdakileri
+
+89
+00:08:11,300 --> 00:08:18,359
+içeren Terimler vardır:  kürelerden bahsedilmez Yarıçap yarıçapın büyük veya küçük olup
+
+90
+00:08:18,360 --> 00:08:23,299
+olmadığı Bir peçete halkasının enine kesit alanını bulmak için bilmeniz gereken tek şey
+
+91
+00:08:23,300 --> 00:08:25,579
+Peçete Halkasının
+
+92
+00:08:25,580 --> 00:08:32,219
+Y yüksekliğidir, elbette,  bir peçete halkasının yüksekliği bu mavi alanlar birbiriyle aynı alana sahiptir ve
+
+93
+00:08:32,220 --> 00:08:41,019
+bu, peçete halkası boyunca enine kesiti nerede kesersek alalım doğru olacaktır Cavalieri ilkesine göre her iki Peçete Halkasının da aynı
+
+94
+00:08:41,020 --> 00:08:43,099
+Hacim
+
+95
+00:08:43,100 --> 00:08:47,699
+Yay :3
+
+96
+00:08:47,700 --> 00:08:50,019
+(dişli) olduğu anlamına gelir  )
+
+97
+00:08:50,020 --> 00:08:54,279
+Ama bu evrendeki yaşam için sizin için ne anlama geliyor?
+
+98
+00:08:54,280 --> 00:08:58,779
+Bildiğimiz gibi, beğenirseniz yüzük takmanız gerekir
+
+99
+00:08:58,780 --> 00:09:00,679
+ama
+
+100
+00:09:00,680 --> 00:09:05,199
+beğenirseniz parmak genişliğini bilmiyorsanız ve sadece önceden belirlenmiş miktarda malzeme sunmak
+
+101
+00:09:05,200 --> 00:09:09,639
+istiyorsanız üzerine bir peçete halkası koymalısınız.
+
+102
+00:09:09,640 --> 00:09:11,899
+Ve her zaman olduğu gibi
+
+103
+00:09:11,900 --> 00:09:21,459
+İzlediğiniz için teşekkürler :D
+
+104
+00:09:21,460 --> 00:09:23,859
+21 Ağustos
+
+105
+00:09:23,860 --> 00:09:31,599
+2017'de tam bir güneş tutulması olacak Ay'ın gölgesi Bitişik Amerika Birleşik Devletleri boyunca yarışacak
+
+106
+00:09:31,600 --> 00:09:35,489
+İnanılmaz ve biraz korkutucu
+
+107
+00:09:35,490 --> 00:09:42,039
+olacak Eminim izleyeceğim  Atlas, Obscura'daki arkadaşlarımla Oregon'dan.  Bekleyemem, ama gözlerinizi güvende tutun
+
+108
+00:09:42,040 --> 00:09:47,699
+Tutulmayı izlemek istiyorsanız özel göz korumasına sahip olmalısınız
+
+109
+00:09:47,700 --> 00:09:52,819
+Merak Kutusu böyle gözlüklerle birlikte gelir bu gözlükler
+
+110
+00:09:52,820 --> 00:10:00,399
+görünür ışığın %99,999'unu bloke eder, doğrudan bakabilmek için gereken budur  güneş aslında bu gözlüklerde sevdiğim şey
+
+111
+00:10:00,400 --> 00:10:04,059
+Güneş tutulması yok.  Hala güneşe
+
+112
+00:10:04,060 --> 00:10:07,679
+bakabilirsin, onun bir top olduğuna dikkat et.  Belki ne tür bir Peçete
+
+113
+00:10:07,680 --> 00:10:09,789
+yüzüğü yapmak istediğinizi hayal edin.  Mevcut
+
+114
+00:10:09,790 --> 00:10:15,539
+Merak kutusu benim favorim.  Şu anda abone olursanız alacağınız, her türlü harika şeyle birlikte
+
+115
+00:10:15,540 --> 00:10:26,499
+gelir Tüm gezegenlerin ve plütonun dünya ile ay arasına sığabileceğini gösteren bir poster, ayrıca bu havada uçan manyetik halkalar gibi bilim araçlarıyla birlikte gelir
+
+116
+00:10:26,500 --> 00:10:32,109
+Oldukça havalı ayrıca tüm gelirlerin bir kısmı alzheimer'ın araştırmasına gidiyor, bu yüzden beyniniz için iyidir ve Diğer
+
+117
+00:10:32,110 --> 00:10:41,338
+herkesin beyni bunu kontrol eder.  Seni Brain Candy'de canlı görmeyi umuyorum ve her zamanki gibi
+
+118
+00:10:41,339 --> 00:10:43,339
+izlediğiniz için teşekkürler
+

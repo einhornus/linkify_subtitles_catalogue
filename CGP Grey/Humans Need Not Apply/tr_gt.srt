@@ -1,0 +1,1022 @@
+1
+00:00:03,770 --> 00:00:08,989
+Her insan hayatta kalmak için avlanmak veya toplanmak zorundaydı.  Ama insanlar zeki... çok tembeller,
+
+2
+00:00:08,990 --> 00:00:13,679
+biz de işimizi kolaylaştıracak araçlar yaptık.  Çubuklardan, sabanlara, traktörlere,
+
+3
+00:00:13,680 --> 00:00:18,139
+yiyecek üretmeye ihtiyaç duyan herkesten, neredeyse hiç kimsenin yiyecek üretmeye ihtiyaç duymadığı modern tarıma
+
+4
+00:00:18,140 --> 00:00:20,399
+geçtik - ve yine de bolluğumuz var.
+
+5
+00:00:20,400 --> 00:00:24,079
+Tabii ki, bu sadece çiftçilik değil,
+her şey.  Son birkaç
+
+6
+00:00:24,080 --> 00:00:29,579
+bin yılı her türden fiziksel emeği azaltmak için araçlar inşa etmekle geçirdik
+.  Bunlar mekanik kaslardır.  İnsan kaslarının olabileceğinden
+
+7
+00:00:29,580 --> 00:00:34,139
+daha güçlü, daha güvenilir ve daha yorulmaz
+.
+
+8
+00:00:34,140 --> 00:00:38,659
+Ve bu iyi bir şey.  İnsan
+emeğini mekanik kaslarla değiştirmek, insanları uzmanlaşma konusunda özgür kılar
+
+9
+00:00:38,660 --> 00:00:44,369
+ve bu da herkesin daha iyi durumda olmasını sağlar -
+hala fiziksel emekle uğraşanlar bile.  Ekonomiler böyle
+
+10
+00:00:44,370 --> 00:00:46,609
+büyür ve yaşam standartları yükselir.
+
+11
+00:00:46,610 --> 00:00:51,229
+Bazı insanlar,
+işleri mekanik zihinler oluşturmak olan programcılar ve mühendisler olmak için uzmanlaşmıştır
+
+12
+00:00:51,230 --> 00:00:56,119
+.  Nasıl mekanik kaslar insan
+emeğini daha az talep ediyorsa, mekanik beyinler
+
+13
+00:00:56,120 --> 00:00:59,099
+de insan beyni emeğini daha az talep ediyor.
+
+14
+00:00:59,100 --> 00:01:03,808
+Bu bir ekonomik devrimdir.
+Daha önce burada bulunduğumuzu düşünebilirsiniz, ama henüz gelmedik.
+
+15
+00:01:03,809 --> 00:01:05,499
+Bu sefer farklı.
+
+16
+00:01:05,500 --> 00:01:07,129
+## Fiziksel
+
+17
+00:01:07,130 --> 00:01:11,619
+Emek Otomasyonu düşündüğünüzde, muhtemelen şunu
+düşünürsünüz: dev, özel yapım, pahalı,
+
+18
+00:01:11,620 --> 00:01:16,449
+verimli, ama gerçekten aptal robotlar
+dünyaya ve kendi çalışmalarına kördür.
+
+19
+00:01:16,450 --> 00:01:20,449
+Korkunç bir otomasyon türüydüler, ancak
+dünyayı ele geçiremediler çünkü yalnızca
+
+20
+00:01:20,450 --> 00:01:23,309
+dar durumlarda maliyet etkinler.
+
+21
+00:01:23,310 --> 00:01:27,288
+Ama onlar eski tür otomasyon,
+bu yeni tür.
+
+22
+00:01:27,289 --> 00:01:28,319
+Baxter'la tanışın.
+
+23
+00:01:28,320 --> 00:01:32,199
+Yetenekli
+operatörler ve teknisyenler ve milyonlarca dolar gerektiren bu şeylerin aksine,
+
+24
+00:01:32,200 --> 00:01:37,038
+Baxter bir vizyona sahiptir ve ne
+yapmasını istediğinizi siz izleyerek öğrenebilir.
+
+25
+00:01:37,039 --> 00:01:41,578
+Ve bir insan işçinin ortalama yıllık maaşından daha ucuza mal oluyor
+.
+
+26
+00:01:41,579 --> 00:01:46,648
+Ağabeylerinin aksine belirli bir iş için önceden programlanmamıştır, elinin altındaki
+her işi yapabilir
+
+27
+00:01:46,649 --> 00:01:51,398
+.  Baxter,
+genel amaçlı bir robot olarak düşünülebilecek şeydir ve
+
+28
+00:01:51,399 --> 00:01:53,578
+genel amaç çok önemlidir.
+
+29
+00:01:53,579 --> 00:01:58,848
+Bilgisayarları düşünün, onlar da son derece
+özel ve oldukça pahalı olarak başladılar, ancak ucuza benzer
+
+30
+00:01:58,849 --> 00:02:02,748
+genel amaçlı bilgisayarlar ortaya çıktığında hızla
+her şey için hayati hale geldiler.
+
+31
+00:02:02,749 --> 00:02:07,428
+Genel amaçlı bir bilgisayar, değişikliği kolayca
+hesaplayabilir veya uçakta koltuk atayabilir,
+
+32
+00:02:07,429 --> 00:02:13,179
+oyun oynayabilir veya yazılımını değiştirerek herhangi bir şey yapabilir
+.  Ve her türden bilgisayara yönelik bu büyük talep
+
+33
+00:02:13,180 --> 00:02:18,169
+, onları her yıl hem daha güçlü hem de daha ucuz hale getiriyor
+.
+
+34
+00:02:18,170 --> 00:02:23,319
+Baxter bugün 1980'lerin bilgisayarıdır.
+O zirve değil, başlangıç.
+
+35
+00:02:23,320 --> 00:02:27,959
+Baxter yavaş olsa bile
+, ete dayalı
+
+36
+00:02:27,960 --> 00:02:32,899
+rekabeti asgari ücrete mal olurken, saatlik maliyeti bir peni değerinde elektriktir.
+
+
+37
+00:02:32,900 --> 00:02:36,609
+Onda biri, fiyatın yüzde biri olduğunda, hızın hala uygun maliyetlidir.  Baxter,
+bahsedeceğimiz diğer bazı şeyler kadar zeki olmasa da
+
+38
+00:02:36,610 --> 00:02:40,599
+,
+pek çok düşük vasıflı işi üstlenecek kadar zeki.
+
+39
+00:02:40,600 --> 00:02:45,289
+Baxter'dan daha aptal robotların
+işlerin yerini alabileceğini zaten gördük.  Yeni
+
+40
+00:02:45,290 --> 00:02:50,539
+süpermarketlerde eskiden 30 insan olan kişiler artık
+30 kasiyer robotu yöneten bir insan haline geldi.
+
+41
+00:02:50,540 --> 00:02:54,819
+Ya da dünya çapında istihdam edilen yüzbinlerce baristayı ele alalım
+?  Onlar için bir barista robotu
+
+42
+00:02:54,820 --> 00:02:59,959
+geliyor.  Tabii ki, adamınız duble mocha yapıyor - her ne olursa
+olsun mükemmel ve başkasına asla güvenmezsiniz
+
+43
+00:02:59,960 --> 00:03:05,259
+- ama milyonlarca insan umursamıyor
+ve sadece iyi bir fincan kahve istiyor.  Oh,
+
+44
+00:03:05,260 --> 00:03:09,299
+ve bu arada bu robot aslında
+
+
+45
+00:03:09,300 --> 00:03:13,039
+nerede olursanız olun kim olduğunuzu ve kahvenizi nasıl sevdiğinizi hatırlayan dev bir robot ağı
+.  Oldukça uygun.
+
+46
+00:03:13,040 --> 00:03:17,649
+Teknolojik değişimi süslü
+yeni pahalı şeyler olarak düşünüyoruz, ancak asıl
+
+47
+00:03:17,650 --> 00:03:22,359
+değişiklik son on yılın malzemelerinin daha ucuz ve
+daha hızlı hale gelmesinden geliyor.  Şimdi robotlara olan da bu
+
+48
+00:03:22,360 --> 00:03:27,229
+.  Ve mekanik zihinleri
+karar verme yeteneğine sahip olduğu
+
+49
+00:03:27,230 --> 00:03:31,729
+için, hiçbir saf mekanik kasın asla yapamayacağı şekilde, işler için rekabet eden insanlardır
+.
+
+50
+00:03:31,730 --> 00:03:33,669
+## Luddite
+
+51
+00:03:33,670 --> 00:03:38,179
+Atları 1900'lerin başında teknoloji hakkında konuşan bir çift atın hayal edin
+.  Tüm
+
+52
+00:03:38,180 --> 00:03:41,169
+bu yeni mekanik kasların atları
+gereksiz kılacağından endişe ediliyor.
+
+53
+00:03:41,170 --> 00:03:45,419
+Diğeri ona şimdiye kadarki her şeyin
+hayatlarını kolaylaştırdığını hatırlatıyor -- tüm
+
+54
+00:03:45,420 --> 00:03:50,209
+o çiftlik işlerini hatırlıyor musun?  Posta teslimi için kıyıdan kıyıya koşmayı hatırlıyor
+musunuz?  Savaşa binmeyi hatırlıyor musun?
+
+55
+00:03:50,210 --> 00:03:54,929
+Hepsi korkunç.  Bu şehir işleri oldukça rahat ve şehirlerde bu kadar çok insan varken
+
+56
+00:03:54,930 --> 00:03:57,399
+atlar için her zamankinden daha fazla iş olacak.
+
+57
+00:03:57,400 --> 00:04:00,199
+Bu araba işi havalansa bile - diyebilir ki -
+
+58
+00:04:00,200 --> 00:04:02,679
+atlar için hayal bile edemediğimiz yeni işler olacak.
+
+59
+00:04:02,680 --> 00:04:08,239
+Ama siz, sevgili izleyici, 2000'in ötesinden
+ne olduğunu biliyorsunuz - hala çalışan atlar var,
+
+60
+00:04:08,240 --> 00:04:13,649
+ama eskisi gibi değil.  At nüfusu
+1915'te zirveye ulaştı - o andan itibaren düşüşten
+
+61
+00:04:13,650 --> 00:04:14,649
+başka bir şey değildi.
+
+62
+00:04:14,650 --> 00:04:18,898
+Daha iyi teknolojinin atlar için daha iyi işler yaptığını söyleyen bir ekonomi kuralı yok
+
+
+63
+00:04:18,899 --> 00:04:24,598
+.  Bunu yüksek sesle söylemek bile şaşırtıcı derecede aptalca geliyor
+, ancak atları insanlarla takas edin
+
+64
+00:04:24,599 --> 00:04:27,388
+ve aniden insanlar bunun doğru olduğunu düşünüyor
+.
+
+65
+00:04:27,389 --> 00:04:31,459
+Mekanik kaslar atları ekonominin dışına ittiği gibi
+, mekanik beyinler de
+
+66
+00:04:31,460 --> 00:04:37,098
+aynı şeyi insanlara yapacaktır.  Hemen değil, her yerde değil,
+ama yeterince büyük ve çok yakında, hazırlıklı
+
+67
+00:04:37,099 --> 00:04:42,098
+olmazsak bu çok büyük bir sorun olacak
+.  Ve hazırlıklı değiliz.
+
+68
+00:04:42,099 --> 00:04:46,098
+Siz de ikinci at gibi,
+teknolojinin şu anki durumuna bakıp işinizin yerini alamayacağını düşünebilirsiniz
+
+69
+00:04:46,099 --> 00:04:50,309
+.  Ancak teknoloji
+, biyolojinin erişemeyeceği bir oranda daha iyi, daha ucuz ve daha hızlı hale
+
+70
+00:04:50,310 --> 00:04:52,089
+geliyor.
+
+71
+00:04:52,090 --> 00:04:56,519
+Nasıl araba at için sonun başlangıcıysa,
+şimdi de araba
+
+72
+00:04:56,520 --> 00:04:57,709
+bize gelecek şeylerin şeklini gösteriyor.
+
+73
+00:04:57,710 --> 00:05:01,998
+## Otomobiller
+
+74
+00:05:01,999 --> 00:05:05,998
+Kendi kendine giden arabalar gelecek değil:
+buradalar ve çalışıyorlar.  Kendi kendini süren arabalar
+
+75
+00:05:05,999 --> 00:05:09,418
+
+, Kaliforniya kıyılarında ve şehirlerde yüzbinlerce mil yukarı ve aşağı seyahat etti
+
+76
+00:05:09,419 --> 00:05:12,198
+- hepsi insan müdahalesi olmadan.
+
+77
+00:05:12,199 --> 00:05:16,869
+Soru, arabaları değiştirip değiştirmeyecekleri
+değil, ne kadar çabuk değiştirecekleri.  Mükemmel olmalarına gerek yok,
+
+78
+00:05:16,870 --> 00:05:22,579
+sadece bizden daha iyi olmaları gerekiyor.  Bu arada insan
+sürücüler,
+
+79
+00:05:22,580 --> 00:05:26,978
+sadece Amerika Birleşik Devletleri'nde arabalarla yılda 40.000 kişiyi öldürüyor.
+Kendi kendini süren arabaların gözlerini kırpmadığı
+
+80
+00:05:26,979 --> 00:05:30,959
+, sürüş sırasında mesaj atmadığı, uykulu
+ya da aptal olmadığı düşünüldüğünde,
+
+81
+00:05:30,960 --> 00:05:33,778
+zaten öyle oldukları için insanlardan daha iyi olduklarını görmek kolay.
+
+82
+00:05:33,779 --> 00:05:39,149
+Şimdi kendi kendine giden arabaları araba olarak tanımlamak
+, ilk arabalara mekanik atlar demek gibidir
+
+83
+00:05:39,150 --> 00:05:44,089
+.  Tüm formlarındaki arabalar,
+atlardan o kadar fazladır ki, adını kullanmak,
+
+84
+00:05:44,090 --> 00:05:49,288
+yapabilecekleri hakkında düşünmenizi bile sınırlar.
+Kendi kendini süren arabalara gerçekte ne olduklarını
+
+85
+00:05:49,289 --> 00:05:55,128
+söyleyelim: Otomobiller: Nesneleri A noktasından B noktasına taşıma
+sorununun çözümü.  Geleneksel arabalar insanları taşımak için insan
+
+86
+00:05:55,129 --> 00:05:59,668
+boyutundadır, ancak küçük arabalar
+depolarda çalışabilir ve devasa arabalar
+
+87
+00:05:59,669 --> 00:06:04,538
+maden ocaklarında çalışabilir.  Eşyaları taşımak,
+kim bilir kaç iş var ama
+
+88
+00:06:04,539 --> 00:06:09,318
+Amerika Birleşik Devletleri'ndeki ulaşım endüstrisi yaklaşık
+üç milyon kişiyi istihdam ediyor.  Dünya çapında tahminde bulunmak
+
+89
+00:06:09,319 --> 00:06:13,468
+, en az 70 milyon iş demektir
+.
+
+90
+00:06:13,469 --> 00:06:15,269
+Bu işler bitti.
+
+91
+00:06:15,270 --> 00:06:19,369
+Genel argüman, sendikaların bunu önleyeceğidir
+.  Ancak tarih,
+
+92
+00:06:19,370 --> 00:06:24,869
+onların yerini alacak teknolojiyle savaşan işçilerle dolu
+ve işçiler her zaman kaybediyor.  Ekonomi her zaman
+
+93
+00:06:24,870 --> 00:06:30,388
+kazanır ve
+çılgınca çeşitli endüstrilerde otomobilleri benimsemek için büyük teşvikler vardır.
+
+94
+00:06:30,389 --> 00:06:34,748
+Birçok nakliye şirketi için
+insanlar toplam maliyetlerinin yaklaşık üçte biri kadardır.  Bu
+
+95
+00:06:34,749 --> 00:06:39,438
+sadece düz maaş maliyetleri.
+Uzun yol kamyonlarında uyuyan insanlar zaman ve paraya mal olur.
+
+96
+00:06:39,439 --> 00:06:44,068
+Kazalar paraya mal olur.  Dikkatsizlik paraya mal olur.
+Sigorta şirketlerinin buna karşı çıkacağını
+
+97
+00:06:44,069 --> 00:06:48,688
+düşünüyorsanız, tahmin edin ne oldu?  Mükemmel şoförleri,
+küçük primlerini ödeyen ve asla kaza yapmayan kişidir
+
+98
+00:06:48,689 --> 00:06:50,098
+.
+
+99
+00:06:50,099 --> 00:06:54,109
+Otomobiller geliyor ve
+çoğu insanın
+
+100
+00:06:54,110 --> 00:06:58,489
+robotların toplumu değiştirdiğini gerçekten göreceği ilk yer onlar.  Ancak
+ekonomide
+
+101
+00:06:58,490 --> 00:07:00,859
+aynı şeyin daha az görünür bir şekilde gerçekleştiği başka birçok yer var.
+
+102
+00:07:00,860 --> 00:07:03,939
+Bu yüzden otomobillerle birlikte gidiyor, bu yüzden her şey için geçerli.
+
+103
+00:07:03,940 --> 00:07:06,579
+## Gelecek Şeylerin Şekli
+
+104
+00:07:06,580 --> 00:07:10,739
+Otomobillere ve Baxters'a bakıp
+düşünmek kolaydır: teknoloji her zaman
+
+105
+00:07:10,740 --> 00:07:15,399
+düşük vasıflı işlerden kurtulmuştur, biz zaten insanların yapmasını
+istemiyoruz.  Daha yetenekli olacaklar ve daha iyi
+
+106
+00:07:15,400 --> 00:07:17,899
+eğitimli işler yapacaklar -- her zaman yaptıkları gibi.
+
+107
+00:07:17,900 --> 00:07:22,579
+Yüz milyon ek insanı yüksek öğrenime zorlama sorununu görmezden gelsek bile
+,
+
+108
+00:07:22,580 --> 00:07:27,008
+beyaz yakalı çalışma da güvenli bir liman değil.
+İşiniz bir ekranın önünde
+
+109
+00:07:27,009 --> 00:07:31,109
+oturup yazmak ve tıklamaksa -- belki de
+şu anda yapıyor olmanız gerektiği gibi -- botlar
+
+110
+00:07:31,110 --> 00:07:32,538
+da sizin için geliyor ahbap.
+
+111
+00:07:32,539 --> 00:07:37,598
+Yazılım botları hem soyuttur hem de
+fiziksel robotlardan çok daha hızlı ve daha ucuzdur.
+
+112
+00:07:37,599 --> 00:07:41,959
+Beyaz yakalı çalışanların, bir şirketin
+bakış açısından hem daha pahalı hem de daha
+
+113
+00:07:41,960 --> 00:07:46,128
+çok sayıda olduğu düşünüldüğünde, işlerini otomatikleştirme teşviki,
+düşük vasıflı işlerden daha fazladır.
+
+114
+00:07:46,129 --> 00:07:51,008
+Ve otomasyon mühendisleri tam da
+bunun için var.  Bunlar,
+
+115
+00:07:51,009 --> 00:07:54,758
+tüm işi işinizi bir yazılım
+botuyla değiştirmek olan yetenekli programcılardır.
+
+116
+00:07:54,759 --> 00:07:58,938
+Dünyanın en zeki otomasyon
+mühendisinin bile işinizi yapmak için asla bir bot yapamayacağını
+
+117
+00:07:58,939 --> 00:08:03,668
+düşünebilirsiniz - ve haklı olabilirsiniz - ancak programlamanın en ileri
+teknolojisi bot yazan süper akıllı programcılar değil
+
+118
+00:08:03,669 --> 00:08:08,588
+, süper akıllı programcılar bot yazanlardır
+
+
+119
+00:08:08,589 --> 00:08:11,748
+programcının asla öğretemeyeceği şeyleri
+kendilerine nasıl yapacaklarını öğretirler.
+
+120
+00:08:11,749 --> 00:08:15,528
+Bunun nasıl çalıştığı
+bu videonun kapsamı dışındadır, ancak sonuç olarak,
+
+121
+00:08:15,529 --> 00:08:20,248
+bir bota yapılacak bir sürü
+şeyi göstermenin, bota bir sürü doğru yapılmış
+
+122
+00:08:20,249 --> 00:08:23,968
+şeyi göstermenin sınırlı yolları vardır ve o nasıl yapılacağını bulabilir.
+yapılacak iş.
+
+123
+00:08:23,969 --> 00:08:28,098
+Sadece bir hedefle ve nasıl yapılacağına dair hiçbir bilgisi olmasa
+bile, botlar yine de öğrenebilir.
+
+124
+00:08:28,099 --> 00:08:33,678
+Birçok yönden artık
+bir insan çabası olmayan borsayı ele alalım.
+
+125
+00:08:33,679 --> 00:08:38,158
+Kendilerine hisse senedi ticareti yapmayı öğretenler çoğunlukla botlar, kendi kendilerine öğreten diğer botlarla hisse senedi ticareti
+.
+
+126
+00:08:38,159 --> 00:08:42,038
+Sonuç olarak, New York Menkul Kıymetler Borsası'nın tabanı artık günlük
+işlerini yapan tüccarlarla dolu
+
+127
+00:08:42,039 --> 00:08:44,779
+değil, büyük ölçüde bir TV seti.
+
+128
+00:08:44,780 --> 00:08:48,969
+Yani botlar piyasayı öğrendi ve botlar
+yazmayı öğrendi.  Son zamanlarda bir gazete
+
+129
+00:08:48,970 --> 00:08:53,239
+aldıysanız, muhtemelen
+bir bot tarafından yazılmış bir hikaye okudunuz.
+
+130
+00:08:53,240 --> 00:08:57,939
+Botlara her şeyi yazmayı öğreten şirketler var: spor
+hikayeleri, TPS raporları, hatta
+
+131
+00:08:57,940 --> 00:08:59,729
+işte yazdığınız üç aylık raporlar bile.
+
+132
+00:08:59,730 --> 00:09:03,679
+Kağıt işleri, karar verme, yazma --
+pek çok insan işi bu kategoriye giriyor
+
+133
+00:09:03,680 --> 00:09:09,509
+ve insan metal işçiliğine olan talep bu
+alanlarda azalıyor.  Ama kesinlikle
+
+134
+00:09:09,510 --> 00:09:11,999
+meslekler botlardan güvenli mi?  Evet?
+
+135
+00:09:12,000 --> 00:09:15,539
+## Profesyonel
+
+136
+00:09:15,540 --> 00:09:19,889
+Botlar 'Avukat' düşündüğünüzde
+, mahkemeleri düşünmek kolaydır.  Ancak avukatlığın büyük kısmı aslında
+
+137
+00:09:19,890 --> 00:09:24,379
+yasal belgeler hazırlamak
+, davaların olası sonuçlarını ve etkilerini tahmin etmek ve
+
+138
+00:09:24,380 --> 00:09:28,729
+'keşif' denen bir şey
+, bu da avukatların üzerine kutular dolusu evrakın atıldığı ve avukatların
+
+139
+00:09:28,730 --> 00:09:32,609
+kalıbı ya da dışında kalan modeli bulmaları gerektiği yerdir.
+-hepsi arasında işlem yerleştirin.
+
+140
+00:09:32,610 --> 00:09:38,699
+Bu bot çalışması olabilir.  Özellikle keşif
+, birçok hukuk firmasında zaten bir insan işi değildir.
+
+141
+00:09:38,700 --> 00:09:42,419
+Geçmesi gereken evrak işi olmadığı için
+değil, her zamankinden daha fazla olduğu için değil,
+
+142
+00:09:42,420 --> 00:09:46,719
+akıllı araştırma botları
+milyonlarca e-posta, not ve hesap arasında
+
+143
+00:09:46,720 --> 00:09:51,749
+haftalar değil saatler içinde geçiş yaptığı için - insan araştırmacıları
+yalnızca maliyet ve zaman açısından değil, aynı zamanda  , en
+
+144
+00:09:51,750 --> 00:09:56,809
+önemlisi, doğruluk.  Botlar
+, milyonlarca e-postayı okurken uykuları gelmez.
+
+145
+00:09:56,810 --> 00:10:01,339
+Ama bu basit şeyler: IBM'in Watson adında bir botu
+var: Onu televizyonda Jeopardy'de insanları yok ettiğini görmüş olabilirsiniz
+
+146
+00:10:01,340 --> 00:10:05,589
+- ama bu
+onun için sadece eğlenceli bir yan projeydi.
+
+147
+00:10:05,590 --> 00:10:09,809
+Watson'ın gündelik işi, dünyanın en iyi
+doktoru olmaktır: insanların ne
+
+148
+00:10:09,810 --> 00:10:14,249
+dediğini kendi sözleriyle anlamak ve doğru teşhisleri geri vermek
+.  Ve bunu zaten
+
+149
+00:10:14,250 --> 00:10:17,709
+Slone-Kettering'de yapıyor, akciğer kanseri tedavileri konusunda rehberlik ediyor
+.
+
+150
+00:10:17,710 --> 00:10:21,699
+Auto'nun mükemmel olması gerekmediği gibi -
+sadece insanlardan daha az hata yapmaları gerekiyor
+
+151
+00:10:21,700 --> 00:10:23,929
+- aynı şey doktor robotları için de geçerli.
+
+152
+00:10:23,930 --> 00:10:28,099
+İnsan doktorlar hiçbir şekilde mükemmel değildir -
+yanlış teşhislerin sıklığı ve ciddiyeti
+
+153
+00:10:28,100 --> 00:10:33,239
+ürkütücüdür - ve insan doktorların
+bir insanın karmaşık tıbbi geçmişiyle başa çıkma konusunda ciddi şekilde sınırlıdır
+
+154
+00:10:33,240 --> 00:10:37,939
+.  Her ilacı
+ve her ilacın diğer her ilaçla etkileşimini anlamak
+
+155
+00:10:37,940 --> 00:10:40,939
+, insan bilgisinin kapsamı dışındadır.
+
+156
+00:10:40,940 --> 00:10:45,449
+Özellikle de
+tüm işi aynı anda binlerce yeni ilacı test etmek olan araştırma robotları olduğunda
+
+157
+00:10:45,450 --> 00:10:47,029
+.
+
+158
+00:10:47,030 --> 00:10:51,199
+Ve insan doktorlar ancak
+kendi deneyimleriyle gelişebilir.  Doktor botları,
+
+159
+00:10:51,200 --> 00:10:54,929
+her doktor botunun deneyimlerinden öğrenebilir.  En
+son tıbbi araştırmaları okuyabilir ve dünya çapında
+
+160
+00:10:54,930 --> 00:10:59,189
+tüm hastalarına olan her şeyi takip edebilir
+ve
+
+161
+00:10:59,190 --> 00:11:01,759
+başka türlü bulunması imkansız olan korelasyonlar kurabilir.
+
+162
+00:11:01,760 --> 00:11:06,349
+Tüm doktorlar gitmeyecek, ancak doktor
+botları insanlarla karşılaştırılabilir olduğunda ve
+
+163
+00:11:06,350 --> 00:11:10,849
+yalnızca telefonunuz kadar uzakta olduklarında -
+genel doktorlara olan ihtiyaç daha az olacaktır.
+
+164
+00:11:10,850 --> 00:11:15,349
+Dolayısıyla profesyonellerin, beyaz yakalı çalışanların ve
+düşük vasıflı çalışanların hepsinin otomasyondan endişe etmesi gereken şeyler var
+
+165
+00:11:15,350 --> 00:11:21,259
+.  Ama belki de
+özel bir yaratıcı kar tanesi olduğunuz için etkilenmemişsinizdir.
+
+166
+00:11:21,260 --> 00:11:23,619
+Öyleyse tahmin et?  O kadar özel değilsin.
+
+167
+00:11:23,620 --> 00:11:27,679
+## Yaratıcı Botlar
+
+168
+00:11:27,680 --> 00:11:32,679
+Yaratıcılık sihir gibi gelebilir ama değil.
+Beyin karmaşık bir makinedir - belki
+
+169
+00:11:32,680 --> 00:11:36,929
+de tüm evrendeki en karmaşık makine
+- ama bu bizi
+
+170
+00:11:36,930 --> 00:11:38,219
+onu simüle etmeye çalışmaktan alıkoymadı.
+
+171
+00:11:38,220 --> 00:11:42,049
+Mekanik
+kasların düşünme işlerine geçmemize izin
+
+172
+00:11:42,050 --> 00:11:45,509
+verdiği gibi, mekanik zihinlerin de yaratıcı işlere geçmemize izin vereceğine dair bir fikir var
+.
+
+173
+00:11:45,510 --> 00:11:50,449
+Ancak insan zihninin sihirli bir şekilde yaratıcı olduğunu varsaysak bile - öyle
+değil, sadece tartışma uğruna -
+
+174
+00:11:50,450 --> 00:11:55,939
+sanatsal yaratıcılık işlerin çoğunun dayandığı şey değildir
+.  Yazarların, şairlerin
+
+175
+00:11:55,940 --> 00:12:00,629
+, yönetmenlerin, aktörlerin ve
+işlerini yaparak geçimlerini sağlayan sanatçıların sayısı, işgücünün çok küçük, çok
+
+176
+00:12:00,630 --> 00:12:04,549
+küçük bir kısmıdır.  Ve
+bunların popülerliğe bağlı meslekler olduğu göz önüne alındığında,
+
+177
+00:12:04,550 --> 00:12:08,609
+her zaman nüfusun çok küçük bir
+kısmı olacaklar.
+
+178
+00:12:08,610 --> 00:12:12,799
+Şiire ve resme dayalı ekonomi diye bir şey olamaz
+.
+
+179
+00:12:12,800 --> 00:12:17,269
+Oh, bu arada, arka planda dinlediğin bu müzik
+?  Bir bot tarafından yazılmıştır.
+
+180
+00:12:17,270 --> 00:12:21,789
+Adı Emily Howell ve
+tüm gün ücretsiz olarak sonsuz miktarda yeni müzik yazabilir.
+
+181
+00:12:21,790 --> 00:12:25,049
+Ve insanlar, kör bir teste tabi tutulduklarında, onunla insan besteciler arasındaki farkı anlayamıyorlar
+
+182
+00:12:25,050 --> 00:12:26,999
+.
+
+183
+00:12:27,000 --> 00:12:31,079
+Yapay yaratıcılık hakkında konuşmak
+hızla tuhaflaşıyor - bu ne anlama geliyor?
+
+184
+00:12:31,080 --> 00:12:33,799
+Ama yine de gelişmekte olan bir alan.
+
+185
+00:12:33,800 --> 00:12:37,389
+İnsanlar, satranç oynamanın
+, makinelerin en iyimizi yenene kadar asla yapamayacağı, benzersiz bir yaratıcı insan becerisi olduğunu
+
+186
+00:12:37,390 --> 00:12:43,519
+düşünürdü
+.  Ve böylece tüm insan yetenekleri için geçerli olacak.
+
+187
+00:12:43,520 --> 00:12:47,219
+## Sonuç
+
+188
+00:12:47,220 --> 00:12:51,219
+Doğru: Bu, kabul edilmesi gereken çok şey
+olmuş olabilir ve reddetmek isteyebilirsiniz -- asla olmayan geleceklerin
+
+189
+00:12:51,220 --> 00:12:55,609
+sonsuz ve aptalca tahminlerine karşı alaycı olmak kolaydır
+.  Bu yüzden
+
+190
+00:12:55,610 --> 00:13:00,199
+
+bu şeylerin bilim kurgu olmadığını tekrar vurgulamak önemlidir.  Robotlar
+
+191
+00:13:00,200 --> 00:13:05,529
+şu anda burada.  Dünyanın dört bir yanındaki
+laboratuvarlarda ve depolarda korkunç miktarda çalışma otomasyonu var
+
+192
+00:13:05,530 --> 00:13:07,469
+.
+
+193
+00:13:07,470 --> 00:13:12,949
+Daha önce ekonomik devrimler yaşadık
+ama robot devrimi farklı.
+
+194
+00:13:12,950 --> 00:13:17,989
+Atlar artık
+tür olarak tembelleştikleri için işsiz değiller, işsizler.
+
+195
+00:13:17,990 --> 00:13:21,439
+Bir atın
+barınma ve saman masraflarını karşılamak için yapabileceği çok az iş vardır.
+
+196
+00:13:21,440 --> 00:13:26,619
+Ve birçok parlak, mükemmel yetenekli insan
+kendilerine yeni atı bulacaklar:
+
+197
+00:13:26,620 --> 00:13:28,219
+kendi hataları olmadan işsiz kalacaklar.
+
+198
+00:13:28,220 --> 00:13:33,009
+Ama yine de yeni işlerin bizi kurtaracağını düşünüyorsanız
+: İşte dikkate almanız gereken son bir nokta.
+
+199
+00:13:33,010 --> 00:13:38,619
+1776'daki ABD nüfus sayımı sadece birkaç
+tür işi takip etti.  Şimdi yüzlerce çeşit
+
+200
+00:13:38,620 --> 00:13:42,869
+iş var ama yenileri işgücünün önemli bir
+parçası değil.
+
+201
+00:13:42,870 --> 00:13:46,879
+İşte bunları gerçekleştiren kişi sayısına göre sıralanan işlerin listesi
+-
+
+202
+00:13:46,880 --> 00:13:52,369
+en üstte ulaştırma endüstrisinin olduğu ayık bir liste
+.  Aşağıya doğru devam edecek olursak, tüm bu çalışmalar
+
+203
+00:13:52,370 --> 00:13:58,449
+bir şekilde yüz yıl önce de vardı ve neredeyse
+tamamı otomasyon için hedeflerdi.  Ancak
+
+204
+00:13:58,450 --> 00:14:02,659
+listede 33 numaraya ulaştığımızda
+nihayet yeni bir şey var.
+
+205
+00:14:02,660 --> 00:14:07,339
+Her barista veya beyaz yakalı çalışanın, işler bir sorun haline gelmeden önce işini kaybetmesi gerekmiyor mu?
+
+206
+00:14:07,340 --> 00:14:10,009
+Büyük buhran sırasında işsizlik oranı
+%25 idi.
+
+207
+00:14:10,010 --> 00:14:17,359
+Yukarıdaki liste işgücünün %45'ini oluşturmaktadır.  Sadece
+bugün konuştuklarımız,
+
+208
+00:14:17,360 --> 00:14:22,519
+zaten işe yarayan şeyler bizi çok yakında bu sayının üzerine çıkarabilir
+.  Modern
+
+209
+00:14:22,520 --> 00:14:28,209
+teknolojik harikalar diyarımızda bile yeni iş
+türlerinin ekonominin önemli bir parçası olmadığı düşünülürse,
+
+210
+00:14:28,210 --> 00:14:29,989
+bu büyük bir sorun.
+
+211
+00:14:29,990 --> 00:14:34,869
+Bu video otomasyonun ne kadar kötü olduğuyla ilgili
+değil, otomasyonun kaçınılmaz olduğuyla ilgili.
+
+212
+00:14:34,870 --> 00:14:39,959
+Az çabayla bolluk üretmek için bir araçtır.
+
+
+213
+00:14:39,960 --> 00:14:44,519
+Nüfusun büyük bir bölümü işsiz kaldığında ne yapacağımızı düşünmeye başlamalıyız
+- kendi kusurları olmaksızın.
+
+214
+00:14:44,520 --> 00:14:49,220
+Çoğu
+iş için insanların başvurmasına gerek olmadığı bir gelecekte ne yapmalı?
+

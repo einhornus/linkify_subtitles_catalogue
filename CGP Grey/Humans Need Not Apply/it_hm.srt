@@ -1,0 +1,876 @@
+1
+00:00:03,770 --> 00:00:08,989
+Ogni essere umano aveva bisogno di cacciare o raccogliere per sopravvivere. Ma gli uomini sono intelligent-emente pigri perciò
+
+2
+00:00:08,990 --> 00:00:13,679
+abbiamo creato strumenti per rendere il nostro lavoro più facile. Dai bastoni, agli aratri, ai trattori,
+
+3
+00:00:13,680 --> 00:00:18,209
+siamo passati da che ognuno doveva prodursi cibo, all'agricoltura moderna dove quasi nessuno ha bisogno di produrre cibo
+
+4
+00:00:18,210 --> 00:00:20,399
+- e ciò nonostante ne creiamo in abbondanza.
+
+5
+00:00:20,400 --> 00:00:24,079
+Ovviamente, non vale solo per la coltivazione, per tutto. Abbiamo speso
+
+6
+00:00:24,080 --> 00:00:29,579
+millenni creando oggetti per ridurre il lavoro fisico di ogni tipo. Questi sono muscoli meccanici
+
+7
+00:00:29,580 --> 00:00:34,139
+- più forti, affidabili, si stancano meno rispetto a qualsiasi muscolo umano.
+
+8
+00:00:34,140 --> 00:00:38,659
+E questa è una buona cosa. Rimpiazzare le fatiche umane con muscoli meccanici lascia alle persone
+
+9
+00:00:38,660 --> 00:00:44,369
+spazio per specializzarsi e arricchirsi, anche continuando a fare lavoro fisico.
+
+10
+00:00:44,370 --> 00:00:46,609
+Così crescono economia e standard di vita.
+
+11
+00:00:46,610 --> 00:00:51,229
+Alcuni si son specializzati diventando programmatori e ingegneri il cui lavoro è costruire menti meccaniche.
+
+12
+00:00:51,230 --> 00:00:56,119
+Così come i muscoli meccanici resero il lavoro fisico meno richiesto così le menti meccaniche
+
+13
+00:00:56,120 --> 00:00:59,099
+rendono il lavoro della mente umana meno richiesto.
+
+14
+00:00:59,100 --> 00:01:03,808
+Questa è una rivoluzione economica! Potreste pensare, ci siamo già passati tempo fa, ma non è vero.
+
+15
+00:01:03,809 --> 00:01:05,497
+Questa volta è diverso
+
+16
+00:01:05,498 --> 00:01:07,129
+## Lavoro Fisico
+
+17
+00:01:07,130 --> 00:01:11,618
+Quando si pensa all'automazione, si pensa probabilmente a questi: giganti, costosi, specializzati
+
+18
+00:01:11,619 --> 00:01:16,449
+e efficienti; ma in realtà stupidi robot all'oscuro di tutto ciò che non è il loro lavoro.
+
+19
+00:01:16,450 --> 00:01:20,449
+Sono stati un preoccupante tipo di automazione ma non hanno preso il controllo del mondo
+
+20
+00:01:20,450 --> 00:01:23,309
+perchè sono vantaggiosi solo per particolari compiti.
+
+21
+00:01:23,310 --> 00:01:27,288
+Ma loro sono il vecchio tipo di automazione, questo è il nuovo.
+
+22
+00:01:27,289 --> 00:01:28,318
+Vi presento Baxter
+
+23
+00:01:28,319 --> 00:01:32,199
+Diverso rispetto a questi, che richiedono operatori specializzati, tecnici e milioni di dollari,
+
+24
+00:01:32,200 --> 00:01:37,038
+Baxter può vedere e può imparare qualsiasi cosa gli venga mostrato.
+
+25
+00:01:37,039 --> 00:01:41,578
+E costa meno del salario di un lavoratore medio. Diverso dai suoi fratelli più grandi
+
+26
+00:01:41,579 --> 00:01:46,648
+non è pre-programmato per un lavoro specifico, può fare qualsiasi lavoro le sue braccia
+
+27
+00:01:46,649 --> 00:01:51,398
+gli permettono di fare. Baxter è ciò che potrebbe esser definito come un robot general purpose
+
+28
+00:01:51,399 --> 00:01:53,578
+e general purpose (multiuso) è un grande affare.
+
+29
+00:01:53,579 --> 00:01:58,848
+Si pensi ai computer, anche loro iniziarono come altamente specializzati e costosi, ma quando uscirono
+
+30
+00:01:58,849 --> 00:02:02,748
+computer general purpose economici diventarono immediatamente vitali per far qualsiasi cosa
+
+31
+00:02:02,749 --> 00:02:07,428
+Un computer general purpose può facilmente calcolare il resto o assegnare i posti su un aereo
+
+32
+00:02:07,429 --> 00:02:13,179
+o giocare ad un gioco o fare qualsiasi cosa basta cambiare programma. E questa enorme domanda
+
+33
+00:02:13,180 --> 00:02:18,169
+di computer di ogni tipo è ciò che li rende più potenti e economici ogni anno.
+
+34
+00:02:18,170 --> 00:02:23,319
+Baxter oggi è il computer degli anni '80. Non è all'apice ma all'inizio.
+
+35
+00:02:23,320 --> 00:02:27,959
+Anche se Baxter è lento, il suo basso costo di elettricità batte anche il minimo costo
+
+36
+00:02:27,960 --> 00:02:32,769
+del suo concorrente umano. Dieci volte più lento rimane vantaggioso quando è cento volte
+
+37
+00:02:32,770 --> 00:02:36,609
+più economico. E mentre Baxter non è intelligente come altri strumenti di cui perleremo
+
+38
+00:02:36,610 --> 00:02:40,599
+è abbastanza intelligente da completare lavori che richiedono poche abilità.
+
+39
+00:02:40,600 --> 00:02:45,289
+E si son già visti robot più stupidi di Baxter rimpiazzare lavori. Nei nuovi supermercati
+
+40
+00:02:45,290 --> 00:02:50,539
+quello che una volta erano 30 umani è ora 1 umano che supervisiona 30 robot cassieri.
+
+41
+00:02:50,540 --> 00:02:54,819
+E le centinaia di migliaia di baristi impiegati nel mondo? C'è un robot barista pronto per loro.
+
+42
+00:02:54,820 --> 00:02:59,959
+Certo, magari il caffè doppio latte macchiato blablabla del tuo barista è perfetto e non ti fideresti mai di nessun
+
+43
+00:02:59,960 --> 00:03:05,259
+altro -- ma milioni di persone se ne fregano e vogliono semplicemente un caffè decente. Oh e tralatro
+
+44
+00:03:05,260 --> 00:03:09,299
+questo robot è in realtà una gigante rete di robot che ricorda chi sei
+
+45
+00:03:09,300 --> 00:03:13,039
+e come ti piace il caffè, indipendentemente da dove ti trovi. Conveniente no?
+
+46
+00:03:13,040 --> 00:03:17,649
+Pensiamo al progresso tecnologico come il nuovo costoso capriccio, ma il vero cambiamento proviene
+
+47
+00:03:17,650 --> 00:03:22,359
+dagli oggetti dell'ultimo decennio, diventati più economici e veloci. Questo sta accadendo ai robot
+
+48
+00:03:22,360 --> 00:03:27,229
+ora. E siccome le loro menti meccaniche son capaci di prendere decisioni, surclassano
+
+49
+00:03:27,230 --> 00:03:31,729
+gli umani per lavori che nessun puro muscolo meccanico potrebbe mai fare.
+
+50
+00:03:31,730 --> 00:03:33,669
+## Luddismo dei cavalli
+
+51
+00:03:33,670 --> 00:03:38,179
+Si immaginino un paio di cavalli nei primi '900 parlare di tecnologia. Uno ha paura
+
+52
+00:03:38,180 --> 00:03:41,169
+che questi nuovi macchinari renderanno i cavalli inutili.
+
+53
+00:03:41,170 --> 00:03:45,419
+L'altro gli ricorda che tutto ciò fino ad ora ha reso le loro vite più facili --- "Ricordi tutto
+
+54
+00:03:45,420 --> 00:03:50,209
+quel lavoro nei campi? Ricordi le corse per consegnare la posta? Le battaglie a cavallo?
+
+55
+00:03:50,210 --> 00:03:54,929
+Terribile. Questi lavori di città sono piuttosto comodi" --- "e con così tanti umani nelle città
+
+56
+00:03:54,930 --> 00:03:57,399
+ci son più lavori per noi cavalli che mai."
+
+57
+00:03:57,400 --> 00:04:01,839
+Anche se questa cosa, la macchina, prende piede, potrai dire che ci saranno tanti nuovi lavori per i cavalli
+
+58
+00:04:01,840 --> 00:04:02,679
+che noi possiamo immaginare.
+
+59
+00:04:02,680 --> 00:04:08,239
+"Ma te, caro spettatore del 21esimo secolo, sai perfettamente cosa accadde" --
+
+60
+00:04:08,240 --> 00:04:13,649
+Ci sono ancora cavalli che lavorano, ma non come prima. La popolazione equina ebbe il suo picco nel 1915,
+
+61
+00:04:13,650 --> 00:04:14,649
+da lì in poi crollò-
+
+62
+00:04:14,650 --> 00:04:18,898
+Non c'è nessuna legge dell'economia che dice: "Una miglior tecnologia, crea migliori
+
+63
+00:04:18,899 --> 00:04:24,598
+posti di lavoro per i cavalli". Suona scandalosamente stupido persino da dire ad alta voce, ma sostituite cavalli con
+
+64
+00:04:24,599 --> 00:04:27,388
+umani e d'improvviso la gente pensa che suona corretto.
+
+65
+00:04:27,389 --> 00:04:31,459
+Come i muscoli meccanici spinsero i cavalli fuori dall'economia così le menti meccaniche faranno
+
+66
+00:04:31,460 --> 00:04:37,098
+con gli umani. Non immediatamente, non dappertutto, ma in numeri abbastanza grandi e abbastanza presto
+
+67
+00:04:37,099 --> 00:04:42,098
+che diverrà un grande problema se non saremo pronti. E non siamo pronti.
+
+68
+00:04:42,099 --> 00:04:46,098
+Te, come il secondo cavallo, puoi vedere la tecnologia odierna e pensare che
+
+69
+00:04:46,099 --> 00:04:50,309
+che non potrà mai rimpiazzare il tuo lavoro. Ma la tecnologia migliora ad un ritmo così veloce
+
+70
+00:04:50,310 --> 00:04:52,288
+che l'evoluzione biologica non riesce a sostenere.
+
+71
+00:04:52,289 --> 00:04:56,519
+Come l'auto fu l'inizio del declino dei cavalli, ora l'automobile ci mostra
+
+72
+00:04:56,520 --> 00:04:57,709
+la forma di ciò che succerderà
+
+73
+00:04:57,710 --> 00:05:01,998
+## Automobili
+
+74
+00:05:01,999 --> 00:05:05,998
+Le automobili senza conducente NON sono il futuro. Sono qui e funzionano,
+
+75
+00:05:05,999 --> 00:05:09,418
+hanno già viaggiato centinaia di migliaia di chilometri su e giù per la costa Californiana
+
+76
+00:05:09,419 --> 00:05:12,198
+e attraverso grandi città -- il tutto senza intervento umano.
+
+77
+00:05:12,199 --> 00:05:16,869
+La domanda non è SE rimpiazzeranno le normali auto, ma QUANTO in fretta. Non devono essere perfette,
+
+78
+00:05:16,870 --> 00:05:22,579
+basta che siano migliori di noi. Gli automobilisti uccidono 40.000 persone
+
+79
+00:05:22,580 --> 00:05:26,978
+ogni anno solo negli Stati Uniti. Dato che le auto senza conducente non si addormentano,
+
+80
+00:05:26,979 --> 00:05:30,959
+non messaggiano, non fanno stupidate, è facile vederle migliori degli umani
+
+81
+00:05:30,960 --> 00:05:33,778
+perchè già lo sono.
+
+82
+00:05:33,779 --> 00:05:39,149
+Ora descrivere queste auto senza conducente come semplici auto è come chiamare le prime
+
+83
+00:05:39,150 --> 00:05:44,089
+automobili dei cavalli meccanici. Le auto, in tutte le loro forme sono molto più che dei cavalli, tanto che chiamarle cavalli meccanici
+
+84
+00:05:44,090 --> 00:05:48,709
+è limitante rispetto a quello che possono fare. Chiamiamo le automobili senza conducente come cosa
+
+85
+00:05:48,710 --> 00:05:49,288
+sono davvero
+
+86
+00:05:49,289 --> 00:05:55,128
+Auto: la soluzione al problema del trasporto dal punto A al punto B. Le macchine tradizionali sono
+
+87
+00:05:55,129 --> 00:05:59,668
+a misura d'uomo, ma piccole auto possono lavorare in magazzini e grandi auto possono
+
+88
+00:05:59,669 --> 00:06:04,538
+lavorare in miniere. Solo per spostare cose in giro l'industria dei trasporti americana
+
+89
+00:06:04,539 --> 00:06:09,318
+impiega 3 milioni di lavoratori. Estrapolando in tutto il mondo
+
+90
+00:06:09,319 --> 00:06:13,468
+è qualcosa come minimo 70 milioni di posti di lavoro.
+
+91
+00:06:13,469 --> 00:06:15,269
+Questo tipo di lavoro è finito.
+
+92
+00:06:15,270 --> 00:06:19,369
+La solita risposta è che i sindacati non lo permetteranno. Ma la storia è piena di lavoratori
+
+93
+00:06:19,370 --> 00:06:24,869
+che lottarono contro la tecnologia che li avrebbe sostituiti, perdono sempre. L'economia
+
+94
+00:06:24,870 --> 00:06:30,388
+vince sempre e sono enormi i vantaggi che diverse industrie trarranno nell'adottare le nuove auto.
+
+95
+00:06:30,389 --> 00:06:34,748
+Per molte agenzie di trasporto, il personale è circa un terzo dei costi totali.
+
+96
+00:06:34,749 --> 00:06:39,438
+Questo solo di stipendi. Gli umani che riposano nei tir durante i lunghi viaggi perdono tempo e denaro.
+
+97
+00:06:39,439 --> 00:06:44,068
+Gli incidenti costano. La disattenzione costa. Se pensi che le assicurazioni saranno contro le nuove auto,
+
+98
+00:06:44,069 --> 00:06:48,688
+indovina? Il perfetto conducente è quello che paga la rata più bassa ma non fa
+
+99
+00:06:48,689 --> 00:06:50,098
+mai incidenti.
+
+100
+00:06:50,099 --> 00:06:54,109
+Queste auto spopoleranno nel primo settore in cui la gente realizzerà che
+
+101
+00:06:54,110 --> 00:06:58,489
+i robot stanno cambiando la nostra società. Ma ci sono altri posti dove questo
+
+102
+00:06:58,490 --> 00:07:00,859
+sta accadendo, solo con meno visibilità.
+
+103
+00:07:00,860 --> 00:07:03,829
+Così è per le auto, così è per tutto.
+
+104
+00:07:03,830 --> 00:07:04,928
+##La forma delle cose che veranno.
+
+105
+00:07:04,929 --> 00:07:06,579
+##La forma delle cose che veranno.
+
+106
+00:07:06,580 --> 00:07:10,739
+È facile guardare le auto e Baxter e pensare: la tecnologia si è da sempre occupata
+
+107
+00:07:10,740 --> 00:07:15,399
+dei lavori ripetitivi che le persone non avrebbero comunque voluto fare. Si specializzeranno e faranno
+
+108
+00:07:15,400 --> 00:07:17,899
+lavori meno manuali, come hanno sempre fatto.
+
+109
+00:07:17,900 --> 00:07:22,579
+Anche solo ignorando il problema di spingere centinaia di milioni di persone in più verso una maggiore educazione,
+
+110
+00:07:22,580 --> 00:07:27,008
+perfino i lavori da i colletti bianchi non sono un rifugio sicuro. Se il tuo lavoro è stare seduto davanti allo schermo
+
+111
+00:07:27,009 --> 00:07:31,109
+scrivendo e cliccando -- cosa che forse dovresti fare in questo momento -- i robot
+
+112
+00:07:31,110 --> 00:07:32,538
+stanno arrivando anche per te, amico.
+
+113
+00:07:32,539 --> 00:07:37,598
+I robot software sono sia intangibili che molto più veloci ed economici rispetto ai robot fisici.
+
+114
+00:07:37,599 --> 00:07:41,959
+Dato che i colletti bianchi sono, dalla prospettiva dell'azienda, sia più costosi che
+
+115
+00:07:41,960 --> 00:07:46,128
+più numerosi, l'incentivo ad automatizzare il loro lavoro è ancora più elevato rispetto ai lavori manuali.
+
+116
+00:07:46,129 --> 00:07:51,008
+E questo è proprio il motivo per cui esistono ingegneri dell'automazione. Sono abili programmatori
+
+117
+00:07:51,009 --> 00:07:54,758
+il cui intero lavoro è quello di rimpiazzare il tuo lavoro con un software robot.
+
+118
+00:07:54,759 --> 00:07:58,938
+Potresti pensare che neanche il più intelligente ingegnere dell'automazione potrebbe mai produrre un bot che sappia fare il tuo
+
+119
+00:07:58,939 --> 00:08:03,668
+lavoro -- e potresti avere ragione-- ma la punta di diamante della programmazione non è fatta da programmatori super intelligenti
+
+120
+00:08:03,669 --> 00:08:08,588
+che creano robot ma è fatta da programmatori che creano robot capaci di insegnare a loro stessi
+
+121
+00:08:08,589 --> 00:08:11,748
+cose che i programmatori non potrebbero mai dirgli di fare.
+
+122
+00:08:11,749 --> 00:08:15,528
+Come ciò avviene è ben al di fuori dallo scopo del video, ma il principio è che ci sono
+
+123
+00:08:15,529 --> 00:08:20,248
+limitati modi di dire ad un robot un po' di cose da fare; mostra al robot delle cose corrette
+
+124
+00:08:20,249 --> 00:08:23,968
+e lui potrà trovare una soluzione al lavoro propostogli.
+
+125
+00:08:23,969 --> 00:08:28,098
+Anche solo con un obiettivo e nessun esempio su come fare, il robot può ancora imparare. Prendi ad esempio
+
+126
+00:08:28,099 --> 00:08:33,678
+il mercato azionario che, per molti versi, non è più gestito da umani. È per lo più composto da robot che
+
+127
+00:08:33,679 --> 00:08:37,149
+hanno imparato a scambiare azioni che scambiano azioni con altri robot autodidatti.
+
+128
+00:08:37,150 --> 00:08:37,779
+Di nuovo: non si tratta di robot che stanno eseguendo ordini in base a cosa il loro controllore umano vuole,
+
+129
+00:08:37,780 --> 00:08:38,279
+si tratta di robot che prendono decisioni autonome su cosa comprare e cosa vendere.
+
+130
+00:08:38,280 --> 00:08:42,038
+Di conseguenza la sala della Borsa di New York non è piena di economisti che fanno il loro
+
+131
+00:08:42,039 --> 00:08:44,779
+solito lavoro, ma è per lo più un set televisivo.
+
+132
+00:08:44,780 --> 00:08:48,969
+Quindi i robot hanno capito il mercato e imparato a scrivere. Se hai comprato un giornale
+
+133
+00:08:48,970 --> 00:08:53,239
+ultimamente hai probabilmente già letto un articolo scritto da un robot. Ci sono aziende
+
+134
+00:08:53,240 --> 00:08:57,939
+che stanno insegnando ai robot come scrivere riguardo qualsiasi cosa: sport, norme, anche per dire quei rapporti
+
+135
+00:08:57,940 --> 00:08:59,729
+trimestrali che scrivi al lavoro.
+
+136
+00:08:59,730 --> 00:09:03,679
+Lavori cartacei, prendere decisioni, scrivere: tanti lavori per umani cadono in queste categorie
+
+137
+00:09:03,680 --> 00:09:09,509
+e la richiesta di forze lavoro umane in questi campi è in calo. Ma sicuramente i professionisti
+
+138
+00:09:09,510 --> 00:09:14,449
+sono al sicuro dai bot, no?
+
+139
+00:09:14,450 --> 00:09:15,649
+## Robot professionisti
+
+140
+00:09:15,650 --> 00:09:19,889
+Quando pensi ad un avvocato è facile pensare ad un processo. Ma la maggior parte del suo lavoro consiste
+
+141
+00:09:19,890 --> 00:09:24,379
+nell'abbozzare documenti legali, predire il probabile risultato e impatto della causa e qualcosa
+
+142
+00:09:24,380 --> 00:09:28,729
+chiamato "ricerca", cioè quando scatole piene di fogli vengono scaricate sugli avvocati che
+
+143
+00:09:28,730 --> 00:09:32,609
+devono trovare lo schema o l'unica operazione fuori posto.
+
+144
+00:09:32,610 --> 00:09:38,699
+Questi possono tutti essere lavori adatti ai robot. La ricerca, in particolare, è già un lavoro non per umani in molti studi legali.
+
+145
+00:09:38,700 --> 00:09:42,419
+Non perché non c'è materiale in cui cercare - non ce ne è mai stato così tanto - ma perché
+
+146
+00:09:42,420 --> 00:09:46,719
+robot intelligenti vagliano milioni di email e memo e conti in ore
+
+147
+00:09:46,720 --> 00:09:51,749
+non settimane, distruggendo i ricercatori umani in termini non solo di costi ma, cosa più importante,
+
+148
+00:09:51,750 --> 00:09:56,889
+per accuratezza: i robot non si addormentano mentre leggono un milione di email.
+
+149
+00:09:56,890 --> 00:10:01,339
+Ma queste sono ancora cose facili: l' IBM ha un robot chiamato Watson. Forse l'hai visto in TV
+
+150
+00:10:01,340 --> 00:10:05,589
+distruggere umani a Jeopardy, ma quello era solo un divertente progetto parallelo per lui.
+
+151
+00:10:05,590 --> 00:10:09,809
+Il normale lavoro di Watson è essere il miglior medico al mondo: capire cosa intendono i pazienti
+
+152
+00:10:09,810 --> 00:10:14,249
+con le loro parole e dare diagnosi accurate. E lo sta già facendo allo
+
+153
+00:10:14,250 --> 00:10:17,709
+Alone-Kettering, fornendo consigli per trattamenti contro il cancro ai polmoni.
+
+154
+00:10:17,710 --> 00:10:21,699
+Così come le auto non devono essere perfette, devono solo fare meno errori degli umani,
+
+155
+00:10:21,700 --> 00:10:23,929
+lo stesso vale per i medici robot.
+
+156
+00:10:23,930 --> 00:10:28,099
+I medici umani non sono assolutamente perfetti: la frequenza e la gravità di diagnosi errate è
+
+157
+00:10:28,100 --> 00:10:33,239
+incredibile e un medico è molto limitato nel nel trattare una complicata storia medica
+
+158
+00:10:33,240 --> 00:10:37,939
+del paziente. La comprensione di ciascuna droga e della sua interazione con ciascun' altra
+
+159
+00:10:37,940 --> 00:10:40,939
+droga è ben al di là dell'ambito di conoscibilità umana.
+
+160
+00:10:40,940 --> 00:10:45,449
+Specialmente quando ci sono ricerche il cui intero lavoro è quello di testare migliaia di nuove
+
+161
+00:10:45,450 --> 00:10:47,029
+droghe contemporaneamente.
+
+162
+00:10:47,030 --> 00:10:51,199
+E i medici umani possono solo migliorare con la loro personale esperienza. I robot possono imparare
+
+163
+00:10:51,200 --> 00:10:54,929
+dalle esperienze di ciascun altro robot. Possono leggere le ultime novità nella ricerca e tenere traccia
+
+164
+00:10:54,930 --> 00:10:59,189
+di tutto ciò che succede a tutti i loro pazienti nel mondo, facendo collegamenti che sarebbero
+
+165
+00:10:59,190 --> 00:11:01,759
+altrimenti impossibili da trovare in altri modi.
+
+166
+00:11:01,760 --> 00:11:06,349
+Non tutti i medici scompariranno, ma quando i medici robot saranno comparabili agli umani e saranno
+
+167
+00:11:06,350 --> 00:11:10,849
+così vicini da starvi in tasca, il bisogno per medici generali diminuirà.
+
+168
+00:11:10,850 --> 00:11:15,369
+Quindi professionisti, colletti bianchi e operai hanno tutti qualcosa per cui
+
+169
+00:11:15,370 --> 00:11:16,179
+preoccuparsi
+
+170
+00:11:16,180 --> 00:11:21,619
+Ma forse tu ancora non sei preoccupato perché sei uno speciale fiocco di neve creativo.
+
+171
+00:11:21,620 --> 00:11:24,909
+Beh indovina? Non sei così speciale.
+
+172
+00:11:24,910 --> 00:11:28,189
+## Robot creativi
+
+173
+00:11:28,190 --> 00:11:32,839
+La creatività potrebbe sembrare magia, ma non lo è. Il cervello è una macchina complicata, forse
+
+174
+00:11:32,840 --> 00:11:36,929
+la più complicata nell'intero universo, ma ciò non ci ha impedito di
+
+175
+00:11:36,930 --> 00:11:38,219
+provare a simularlo.
+
+176
+00:11:38,220 --> 00:11:42,049
+C'è questa idea che come i muscoli meccanici ci hanno permesso di arrivare a lavori intelligenti,
+
+177
+00:11:42,050 --> 00:11:46,409
+allora menti intelligenti ci permetteranno di arrivare a lavori creativi. Ma anche se assumessimo
+
+178
+00:11:46,410 --> 00:11:51,269
+che la mente umana è magicamente creativa -- non lo è, ma solo per amore dell'argomento -- la creatività
+
+179
+00:11:51,270 --> 00:11:55,939
+artistica non è ciò da cui dipende la maggior parte dei mestieri. La quantità di scrittori e poeti
+
+180
+00:11:55,940 --> 00:12:00,629
+e registi e attori e artisti che vivono con il loro lavoro è una piccola,
+
+181
+00:12:00,630 --> 00:12:04,549
+piccolissima parte della forza lavoro. E considerando che queste sono professioni dipendenti
+
+182
+00:12:04,550 --> 00:12:08,609
+dalla popolarità saranno sempre una piccola fetta della popolazione.
+
+183
+00:12:08,610 --> 00:12:12,799
+Non esiste un poema o un dipinto basato sull'economia.
+
+184
+00:12:12,800 --> 00:12:17,269
+Oh, a proposito, questa musica che state ascoltando in sottofondo? È stata scritta
+
+185
+00:12:17,270 --> 00:12:21,309
+da un robot. Si chiama Emily Howel e può scrivere una qualità infinita di musica
+
+186
+00:12:21,310 --> 00:12:25,699
+tutto il giorno gratis. E la gente non riesce a cogliere la differenza tra lei e un compositore umano quando
+
+187
+00:12:25,700 --> 00:12:27,009
+sottoposti ad un test.
+
+188
+00:12:27,010 --> 00:12:32,119
+Parlare della creatività artificiale diventa presto strano, cosa vuol significare questo? Ma
+
+189
+00:12:32,120 --> 00:12:33,799
+ciò nonostante è un campo di sviluppo
+
+190
+00:12:33,800 --> 00:12:37,389
+Si era soliti pensare che giocare a scacchi fosse una capacità creativa unica agli umani che le macchine
+
+191
+00:12:37,390 --> 00:12:44,289
+non avrebbero mai potuto fare fino a quando batterono i  migliori. E lo stesso vale per tutti i talenti umani.
+
+192
+00:12:44,290 --> 00:12:46,039
+## Conclusione
+
+193
+00:12:46,040 --> 00:12:51,219
+Quindi: questo potrebbe essere troppo da digerire e potresti voler rifiutarlo.
+
+194
+00:12:51,220 --> 00:12:55,609
+È facile esser cinici delle previsioni infinite, e idiote, previsioni che non si avverano mai, quindi
+
+195
+00:12:55,610 --> 00:13:00,199
+è per questo che è importante enfatizzare di nuovo che queste cose non sono fantascienza. I robot
+
+196
+00:13:00,200 --> 00:13:05,529
+sono qui ora. C'è una quantità terrificante di lavoratori automizzati in laboratori e
+
+197
+00:13:05,530 --> 00:13:07,469
+magazzini ne sono la prova.
+
+198
+00:13:07,470 --> 00:13:12,949
+Siamo già passati attraverso rivoluzioni economiche, ma quella dei robot è diversa.
+
+199
+00:13:12,950 --> 00:13:17,989
+I cavalli oggi non sono disoccupati perché sono diventati una specie pigra, è perché non sono impiegabili.
+
+200
+00:13:17,990 --> 00:13:21,439
+Ci sono pochi lavori che può fare un cavallo che pagano per una stalla e il fieno.
+
+201
+00:13:21,440 --> 00:13:26,619
+E molti brillanti, perfettamente capaci lavoratori si ritroveranno ad essere i nuovi cavalli: non impiegabili
+
+202
+00:13:26,620 --> 00:13:28,219
+anche se non è colpa loro.
+
+203
+00:13:28,220 --> 00:13:33,009
+Ma se pensi ancora che nuovi mestieri ci salveranno: ecco un punto di vista finale da considerare.
+
+204
+00:13:33,010 --> 00:13:38,619
+Il censimento degli Stati Uniti del 1776 registrava solo pochi tipi di lavoro. Ora ce ne sono centinaia
+
+205
+00:13:38,620 --> 00:13:42,869
+ma i nuovi non sono una parte significativa della forza lavoro.
+
+206
+00:13:42,870 --> 00:13:46,879
+Ecco la lista delle professioni ordinata secondo il numero di persone che le pratica; è una lista che fa riflettere,
+
+207
+00:13:46,880 --> 00:13:52,369
+con l'industria del trasporto al primo posto. Scendendo lungo la lista tutti questi lavori esistevano
+
+208
+00:13:52,370 --> 00:13:58,449
+in qualche forma un centinaio di anni fa e praticamente tutti sono un obiettivo per l'automazione. Solo
+
+209
+00:13:58,450 --> 00:14:02,659
+quando si arriva al numero 33 sulla lista c'è finalmente qualcosa di nuovo.
+
+210
+00:14:02,660 --> 00:14:07,339
+Non che ogni singolo barista e impiegato debba perdere il suo lavoro prima che ciò diventi un problema.
+
+211
+00:14:07,340 --> 00:14:10,009
+La disoccupazione durante la grande depressione raggiunse il 25%.
+
+212
+00:14:10,010 --> 00:14:17,309
+La lista di prima rappresenta il 45% della forza lavoro. Solo quello di cui abbiamo parlato oggi, ciò che
+
+213
+00:14:17,310 --> 00:14:22,519
+già funziona, può farci raggiungere quel numero abbastanza velocemente. E dato anche che nel nostro moderno
+
+214
+00:14:22,520 --> 00:14:28,209
+e tecnologico mondo delle meraviglie i nuovi tipi di lavoro non sono una porzione significativa dell'economia,
+
+215
+00:14:28,210 --> 00:14:29,989
+questo è un grande problema.
+
+216
+00:14:29,990 --> 00:14:34,869
+Questo video non è su come l'automazione sia negativa, piuttosto è su come sia inevitabile.
+
+217
+00:14:34,870 --> 00:14:39,959
+È uno strumento per produrre abbondanza con il minimo sforzo. Dobbiamo cominciare a pensare a cosa fare
+
+218
+00:14:39,960 --> 00:14:44,129
+quando una larga parte della popolazione diventerà non impiegabile, anche se non per sua colpa.
+
+219
+00:14:44,130 --> 00:14:49,220
+Cosa fare in un futuro in cui, per la maggior parte dei lavori, gli umani non dovranno applicarsi.
+

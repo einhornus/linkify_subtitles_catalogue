@@ -1,0 +1,582 @@
+1
+00:00:03,250 --> 00:00:07,329
+
+Benim tarafımdan açıklanan oylama sonrası soruna hoş geldiniz, C. G. P.
+
+2
+00:00:07,330 --> 00:00:11,259
+Gray Kraliyet ailesinin bir sorunu var.  Ama bu
+herhangi bir kraliyet ailesi değil, bunlar aslanlar
+
+3
+00:00:11,260 --> 00:00:13,259
+-- çok eski zamanlardan beri ormanın hükümdarları.
+
+4
+00:00:13,260 --> 00:00:17,319
+Monarşinin mutlak gücüne karşı protestolar var
+ve Hayvan Krallığı
+
+5
+00:00:17,320 --> 00:00:19,159
+vatandaşları nasıl yönetildikleri konusunda söz istiyorlar.
+
+6
+00:00:19,160 --> 00:00:23,239
+Aslan baskıya boyun eğerek tahtından feragat
+etti ve kral seçilmiş bir makam olacak.
+
+7
+00:00:23,240 --> 00:00:27,278
+Sorunsuz bir geçiş sağlamak için - ve
+kocasından daha kurnaz olduğu için - kraliçe
+
+8
+00:00:27,279 --> 00:00:30,688
+dişi aslan, krallığındaki
+tüm seçimlerin kurallarını belirleme gücüyle tahtta
+
+9
+00:00:30,689 --> 00:00:32,097
+kalıyor.
+
+10
+00:00:32,098 --> 00:00:36,099
+Tüm vatandaşların bir
+ve sadece bir oy aldığını ve
+
+11
+00:00:36,100 --> 00:00:38,299
+en çok oyu alan adayın tacı kazanacağını ilan etti.
+
+12
+00:00:38,300 --> 00:00:41,799
+Bu oylama yöntemine genellikle Gönderiyi
+İlk Geçiren (garip bir şekilde
+
+13
+00:00:41,800 --> 00:00:43,919
+FPTP olarak kısaltılır) veya Kazanan Tümünü Al denir.
+
+14
+00:00:43,920 --> 00:00:46,569
+Bu sistem basit, adil ve mantıklıdır.  Doğru?
+
+15
+00:00:46,570 --> 00:00:47,589
+Aslında hayır.
+
+16
+00:00:47,590 --> 00:00:49,069
+Bu korkunç, korkunç bir fikir.
+
+17
+00:00:49,070 --> 00:00:50,069
+Niye ya?
+
+18
+00:00:50,070 --> 00:00:54,578
+Pekala, görevden önce gelen sorunları görmek için
+, Hayvan Krallığı'ndaki ilk seçimin ortaya çıkışını izleyelim
+
+19
+00:00:54,579 --> 00:00:58,069
+. Gelişen demokrasi için heyecan verici bir zaman
+ve yedi umutlu aday
+
+20
+00:00:58,070 --> 00:01:02,019
+, partilerini yönetmek ve temsil etmek için öne çıkıyor.  En
+iyi kampanyalarını yapıyorlar, vatandaşlar
+
+21
+00:01:02,020 --> 00:01:05,429
+sandık başına gidiyor ve oylar sayılıyor.
+Sonuçlar şu şekilde çıkıyor:
+
+22
+00:01:05,430 --> 00:01:06,889
+Kaplumbağa oyların %9'unu alıyor.
+
+23
+00:01:06,890 --> 00:01:08,149
+Maymun %18 alır.
+
+24
+00:01:08,150 --> 00:01:09,349
+Goril %19 alır.
+
+25
+00:01:09,350 --> 00:01:10,429
+Baykuş %13 alır.
+
+26
+00:01:10,430 --> 00:01:11,429
+Leopar %20 alır.
+
+27
+00:01:11,430 --> 00:01:12,709
+Kaplan %15 alır.
+
+28
+00:01:12,710 --> 00:01:13,709
+Yılan %6 alır.
+
+29
+00:01:13,710 --> 00:01:16,701
+First Past the Post kuralları uyarınca, Leopard
+kazanan olarak taçlandırılır ve görev
+
+30
+00:01:16,702 --> 00:01:17,701
+süresi boyunca hükmeder.
+
+31
+00:01:17,702 --> 00:01:21,449
+Ancak sonuçlara bir
+kez daha bakın ve bu sistemdeki ilk sorunu görürsünüz:
+
+32
+00:01:21,450 --> 00:01:26,100
+azınlık kuralı.  Vatandaşların büyük çoğunluğu
+- %80 - başka birinin kral olmasını istedi, ancak
+
+33
+00:01:26,101 --> 00:01:30,749
+Leopard yine de kazandı.  Bu yarışta yalnızca yedi aday
+vardı, ancak bunun
+
+34
+00:01:30,750 --> 00:01:34,179
+yirmi olduğunu hayal ederseniz, oyların yalnızca %5'ini alabilir,
+ancak yine de seçilmiş olabilir.
+
+35
+00:01:34,180 --> 00:01:37,079
+Azınlık yönetimiyle ilgili bu sorun sadece
+başlangıç.
+
+36
+00:01:37,080 --> 00:01:40,649
+İlk gönderiyi geçmenin ikinci sorunu
+, yeterli zaman verildiğinde,
+
+37
+00:01:40,650 --> 00:01:43,359
+kaçınılmaz, kaçınılmaz iki partili bir sistemle sonuçlanmasıdır.
+
+38
+00:01:43,360 --> 00:01:44,359
+Niye ya?
+
+39
+00:01:44,360 --> 00:01:47,499
+Görmek için, birkaç seçim döngüsünde neler olduğunu izleyelim
+...
+
+40
+00:01:47,500 --> 00:01:51,279
+Leopard görev süresini doldurdu ve
+genç demokraside seçim zamanı.  Ancak
+
+41
+00:01:51,280 --> 00:01:54,999
+şimdi, Hayvan Krallığının tüm vatandaşları
+geçen seferki sonuçları hatırlıyor.
+
+42
+00:01:55,000 --> 00:01:58,579
+Bu bilgi onların nasıl davranacağını değiştirir.
+Özellikle Yılan ve Kaplumbağa seçmenleri -
+
+43
+00:01:58,580 --> 00:02:02,118
+çekici
+olmayan, kazanma şansı olmayan aşırılık yanlısı adayları destekledikleri gerçeğiyle yüzleşmek zorundalar
+
+44
+00:02:02,119 --> 00:02:03,118
+.
+
+45
+00:02:03,119 --> 00:02:06,449
+Leopar yönetimi altında mutsuz olan kaplumbağa seçmenleri,
+
+
+46
+00:02:06,450 --> 00:02:08,339
+kazanma şansı en yüksek olan aday olan Gorilla'yı desteklemeye karar verdi.
+
+47
+00:02:08,340 --> 00:02:12,348
+Şimdi yılan seçmenleri
+, en çok ortak noktaları olan aday olan Tiger'a oy vermek istiyor
+
+48
+00:02:12,349 --> 00:02:15,789
+, ancak Leopard rakiplerine
+karşı olumsuz bir kampanya yürüttüğü için korkuyorlar
+
+49
+00:02:15,790 --> 00:02:17,169
+.
+
+50
+00:02:17,170 --> 00:02:20,759
+Goril yönetimi fikrinden hoşlanmayan yılan
+seçmenleri stratejik olarak Leopard'a oy veriyor.
+
+51
+00:02:20,760 --> 00:02:24,568
+Nihai sonuçlar böyle görünüyor,
+Leopard oyların %26'sını ve Gorilla'nın
+
+52
+00:02:24,569 --> 00:02:26,799
+28'ini alarak onu yeni kral yaptı.
+
+53
+00:02:26,800 --> 00:02:30,169
+Yılan ve Kaplumbağa, onların iç karartıcı sonuçlarını
+ve kampanyalarının maliyetini görerek
+
+54
+00:02:30,170 --> 00:02:32,039
+gelecekteki yarışları bırakmaya karar verir.
+
+55
+00:02:32,040 --> 00:02:34,488
+Yedi partili bir sistem olarak başlayan sistem
+şimdi beşe düştü.
+
+56
+00:02:34,489 --> 00:02:36,899
+Bir sonraki seçime hızlı ilerleyin:
+
+57
+00:02:36,900 --> 00:02:40,449
+Yalnızca beş aday yarışıyor ve seçmenler
+geçen sefer ne olduğunu yine hatırlıyorlar.
+
+58
+00:02:40,450 --> 00:02:44,369
+Bu seçimde,
+adaylarının kazanamayacağını anlayan Baykuş seçmenleridir.
+
+59
+00:02:44,370 --> 00:02:47,729
+Merkezci seçmenler ve
+Hayvan Krallığının geri kalanından daha az ideolojikler - bu
+
+60
+00:02:47,730 --> 00:02:49,859
+nedenle Gorilla veya Leopard'ı gerçekten sevmiyorlar.
+
+61
+00:02:49,860 --> 00:02:53,169
+Hem Gorilla hem de Leopard bunu biliyor, bu yüzden
+her biri merkezcilerin korkularından yararlanmak için olumsuz kampanyalar yapıyor
+
+62
+00:02:53,170 --> 00:02:54,809
+.
+
+63
+00:02:54,810 --> 00:02:58,139
+Baykuş seçmenleri oylarını bölüyor ve çoğunlukla
+beğendikleri adayı desteklemek yerine sevmedikleri adaya oy
+
+64
+00:02:58,140 --> 00:03:00,479
+veriyorlar
+.
+
+65
+00:03:00,480 --> 00:03:05,409
+Bu seçimden sonra Goril oyların %33'ünü,
+leopar ise %34'ünü alarak galip geldi.
+
+66
+00:03:05,410 --> 00:03:08,889
+Baykuş, ondan önceki Kaplumbağa ve Yılan gibi
+, yarıştan çekilir.
+
+67
+00:03:08,890 --> 00:03:13,159
+Bakacağımız son seçimde Monkey
+ve Tiger seçmenleri mutsuz.
+
+68
+00:03:13,160 --> 00:03:17,179
+İkisi de destekledikleri adayları gerçekten seviyorlar
+ama uzlaşmaları gerekiyor.  Maymun seçmenleri,
+
+69
+00:03:17,180 --> 00:03:21,239
+Gorilla ile birkaç konuda hemfikir ama
+Leopard'ı gerçekten sevmiyorlar.  Kaplan seçmenleri
+
+70
+00:03:21,240 --> 00:03:24,549
+bazı konularda leoparla hemfikir, ancak Goril'i gerçekten sevmiyorlar
+.  En çok kral
+
+71
+00:03:24,550 --> 00:03:27,749
+
+olanla aynı fikirde olmadıkları adayın korkusuyla tercih ettikleri adayı stratejik olarak terk ederler
+
+72
+00:03:27,750 --> 00:03:29,399
+.
+
+73
+00:03:29,400 --> 00:03:34,199
+Nihai sonuçlar Leopard %49 ve Gorilla
+%51, kral olarak taç giydi.
+
+74
+00:03:34,200 --> 00:03:37,579
+Maymun ve Kaplan, ayrılan son
+adaylar ve şimdi Animal Kingdom
+
+75
+00:03:37,580 --> 00:03:39,779
+iki partili bir sistemle kaldı.
+
+76
+00:03:39,780 --> 00:03:43,249
+Merkezci ve güçlü Baykuş
+seçmenleri nedeniyle, gelecekteki seçimlerde Leopar
+
+77
+00:03:43,250 --> 00:03:47,018
+tacı alabilir, ardından Gorilla onu geri kazanır
+, ancak iki Leoparı tekrar kaybeder, ancak
+
+78
+00:03:47,019 --> 00:03:48,839
+iki parti asla değişmez.
+
+79
+00:03:48,840 --> 00:03:52,229
+Hayvanlar aleminin vatandaşları,
+tembel seçmenler oldukları için
+
+80
+00:03:52,230 --> 00:03:55,579
+ya da gerçekten istedikleri için değil
+, sistemin nasıl kurulduğunun matematiği nedeniyle bu sistemle
+
+81
+00:03:55,580 --> 00:03:56,699
+sonuçlandı.
+
+82
+00:03:56,700 --> 00:04:01,869
+Kaçınılmaz olarak, yeterli zaman verildiğinde, tüm ilk
+önce post sistemleri iki ana partiye yönelir.
+
+83
+00:04:01,870 --> 00:04:05,329
+Ancak seçmenlerin tercihleri
+seçimden bu yana hala değişmedi.  Sade
+
+84
+00:04:05,330 --> 00:04:08,629
+beşte ikisi ilk tercihi olarak Leopard veya Gorilla istiyor
+ve 3/5'i
+
+85
+00:04:08,630 --> 00:04:10,369
+ilk tercihi olarak başka birini istiyor.
+
+86
+00:04:10,370 --> 00:04:14,268
+Gerçek tercihlerini
+
+
+87
+00:04:14,269 --> 00:04:16,838
+ifade etmenin anlamlı bir yolu olmadığını düşündükleri için demokratik sürece ilgisiz kalan seçmenlerin bu çoğunluğudur
+.
+
+88
+00:04:16,839 --> 00:04:21,179
+Ama sadece buradan daha da kötüleşiyor.  Hayvan Krallığı
+
+
+89
+00:04:21,180 --> 00:04:24,339
+vatandaşları oy vermeden önce gruplara
+ayrılırsa, gerrymandering'e açıktırlar.
+
+90
+00:04:24,340 --> 00:04:28,569
+Gerrymandering biraz zor, ancak
+her birinde bir seçmen bulunan on evden oluşan bir blok hayal edin.
+
+91
+00:04:28,570 --> 00:04:31,839
+Üçü Leopar seçmeni, üçü Goril
+seçmeni ve dört tanesi Baykuş seçmeni.
+
+92
+00:04:31,840 --> 00:04:35,539
+Seçmenler oy vermeden önce gruplara
+ayrılırsa, çizgilerin nerede çizileceğine kim karar verirse, seçimi
+
+93
+00:04:35,540 --> 00:04:38,439
+kimin kazanacağı üzerinde muazzam bir etkiye sahip olur
+.
+
+94
+00:04:38,440 --> 00:04:42,739
+Örneğin, üç Leopar
+seçmenini iki Baykuş seçmeni ile gruplandırırsanız ve aynı şeyi
+
+95
+00:04:42,740 --> 00:04:47,059
+üç goril seçmen için de yaparsanız.  Baykuş
+
+
+96
+00:04:47,060 --> 00:04:51,459
+seçmenleri en büyük azınlığa sahip olsalar ve seçimden
+sonraki oylamadan önce kazansalar bile, seçimden baykuşu aydınlatabilirsiniz.
+
+97
+00:04:51,460 --> 00:04:54,429
+Oylama sınırları çizildiğinde leopar ve goril partileri
+sorumluysa,
+
+98
+00:04:54,430 --> 00:04:57,649
+kendilerine güvenli koltuklar açmak için muazzam bir teşvikleri var
+.
+
+99
+00:04:57,650 --> 00:04:59,859
+Ama başka bir videoda Gerrymandering hakkında daha fazla bilgi.
+
+100
+00:04:59,860 --> 00:05:03,589
+Bah!  3. partiye oy ver sistemi değiştir diyorsunuz
+!
+
+101
+00:05:03,590 --> 00:05:07,339
+Bu bizi
+, Post'u İlk Geçmiş'in nihai ve muhtemelen en kötü sorununa getiriyor:
+
+102
+00:05:07,340 --> 00:05:08,649
+Spoiler Etkisi
+
+103
+00:05:08,650 --> 00:05:12,388
+Şimdi, yıllar ve yıllar Gorilla
+ve Leopard egemenliğinin geçtiğini hayal edin.
+
+104
+00:05:12,389 --> 00:05:16,109
+Kaplan, yarışa girme zamanının geldiğine karar verir.
+Seçmenlerin
+
+105
+00:05:16,110 --> 00:05:18,489
+statükodan bıktığını ve kazanma şansı olduğunu düşünüyor.
+
+106
+00:05:18,490 --> 00:05:22,649
+Kampanya ofisini kurar
+, bağışlardan şaşırtıcı miktarda altın alır
+
+107
+00:05:22,650 --> 00:05:25,679
+ve ana adaylarla tartışmak için Animal News Network'e girer
+.
+
+108
+00:05:25,680 --> 00:05:30,049
+Seçim gecesi yaklaşıyor, ama ne yazık ki, Tiger
+oyların yalnızca %15'ini alıyor - çoğunlukla
+
+109
+00:05:30,050 --> 00:05:33,698
+siyasi yelpazede kendisine en yakın olan Leopar seçmenlerinden
+.  Goril, Leopard'ı kolayca yener ve
+
+110
+00:05:33,699 --> 00:05:35,379
+kral olur.
+
+111
+00:05:35,380 --> 00:05:39,359
+Posta sistemini en kötü şekilde geçen ilk şey
+: bir 3. parti adayı ne kadar iyi olursa,
+
+112
+00:05:39,360 --> 00:05:43,138
+
+en çok hemfikir oldukları partiye bir kayıp
+
+113
+00:05:43,139 --> 00:05:45,379
+ve aynı fikirde olmadıkları partiye bir kazanç garanti ederek kendi seçmenlerine daha fazla zarar verir.
+
+114
+00:05:45,380 --> 00:05:49,909
+Ve unutma, Goril aptal değil:
+sistemin nasıl çalıştığını biliyor.
+
+115
+00:05:49,910 --> 00:05:52,509
+Bu altın bağışlarının bir kısmının nereden geldiğini düşünüyorsunuz?
+
+116
+00:05:52,510 --> 00:05:55,399
+Bu arada, Kraliçe Dişi Aslan memnun değil.
+
+117
+00:05:55,400 --> 00:05:58,859
+Seçimleri gözlemliyor ve
+sistemin tebaası için kötü olduğunu görüyor.  Ve
+
+118
+00:05:58,860 --> 00:06:01,849
+düşünüyor, iyi bir oylama sistemini ne yapar
+?  Peki...
+
+119
+00:06:01,850 --> 00:06:06,089
+
+En çok beğendiğiniz adaya hiç tereddüt etmeden oy verebilmelisiniz.
+
+120
+00:06:06,090 --> 00:06:08,259
+Temsilcilerde daha fazla seçenek daha iyidir.
+
+121
+00:06:08,260 --> 00:06:09,969
+Sistem gerrymandering'e duyarlı olmamalıdır.
+
+122
+00:06:09,970 --> 00:06:13,379
+Ve yeni siyasi partilere açık olmalıdır.
+
+123
+00:06:13,380 --> 00:06:16,568
+Neyse ki kraliçe için, alternatif oylama da dahil olmak üzere, seçilebilecek birkaç farklı
+oylama sistemi var
+
+124
+00:06:16,569 --> 00:06:20,549
+.  Ancak bunun
+ayrıntılı olarak başka bir zaman tartışılması gerekecek.
+
+125
+00:06:20,550 --> 00:06:29,660
+İzlediğiniz için çok teşekkür ederim.
+

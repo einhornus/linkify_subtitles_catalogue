@@ -1,0 +1,557 @@
+1
+00:00:00,459 --> 00:00:03,749
+Queen Lion is looking to make the elections
+in her animal kingdom more fair.
+
+2
+00:00:03,750 --> 00:00:07,789
+Currently she divides her citizens into ranges
+each of which selects one representative to
+
+3
+00:00:07,790 --> 00:00:10,808
+go to the jungle council which makes laws
+for the kingdom.
+
+4
+00:00:10,809 --> 00:00:15,709
+But her citizens are unhappy, and it's easy
+to see why: the council is full of monkeys.
+
+5
+00:00:15,710 --> 00:00:18,838
+Of course some of her citizens are monkeys,
+but not all of them.
+
+6
+00:00:18,839 --> 00:00:21,629
+This council doesn't fairly represent her
+kingdom.
+
+7
+00:00:21,630 --> 00:00:25,479
+Queen lion visits one of the ranges to find
+out what's wrong and how to fix it.
+
+8
+00:00:25,480 --> 00:00:30,658
+In this range there five monkeys, four tigers,
+three owls, two lynx and one buffalo.
+
+9
+00:00:30,659 --> 00:00:34,869
+One of each runs for representative and all
+citizens vote for their own species.
+
+10
+00:00:34,870 --> 00:00:38,909
+The election rule is that the candidate with
+the most votes wins, which is the monkey.
+
+11
+00:00:38,910 --> 00:00:43,959
+But it's a pretty unsatisfying result considering
+that 2/3rds of citizens in this range *aren't*
+
+12
+00:00:43,960 --> 00:00:45,748
+monkeys and wouldn't vote for monkeys.
+
+13
+00:00:45,749 --> 00:00:50,439
+This is the same across all the ranges of
+the kingdom, the monkeys have more votes than
+
+14
+00:00:50,440 --> 00:00:55,409
+anybody else, so they win all the elections,
+even though they are a minority of the total
+
+15
+00:00:55,410 --> 00:00:56,409
+population.
+
+16
+00:00:56,410 --> 00:01:00,049
+Closer inspection reveals that the independent
+advisors hired to draw the range boundaries
+
+17
+00:01:00,050 --> 00:01:03,678
+in the first place weren't as independent
+as they first appeared.
+
+18
+00:01:03,679 --> 00:01:07,629
+The result is unhappy citizens who don't trust
+the jungle council to make the fairest laws
+
+19
+00:01:07,630 --> 00:01:09,319
+for all, quite rightly.
+
+20
+00:01:09,320 --> 00:01:13,519
+Now Queen lion wants to maximize the number
+of citizens happy with the election results.
+
+21
+00:01:13,520 --> 00:01:17,078
+One way to do that is to abolish the ranges
+and use a proportional system...
+
+22
+00:01:17,079 --> 00:01:19,839
+...But her citizens *want* local representatives.
+
+23
+00:01:19,840 --> 00:01:24,109
+So Queen lion needs a system that both make
+her citizens happier by having a more representative
+
+24
+00:01:24,110 --> 00:01:27,429
+council while keeping local elections in place.
+
+25
+00:01:27,430 --> 00:01:31,339
+After doing a little research she finds out
+how: Single Transferable Vote.
+
+26
+00:01:31,340 --> 00:01:36,429
+The big change with STV is that ranges send
+more than one representative, which may seem
+
+27
+00:01:36,430 --> 00:01:40,589
+weird, but queen lion decides to test it out:
+she takes three ranges which used to each
+
+28
+00:01:40,590 --> 00:01:45,328
+send one representative and combines them
+into one bigger range that will send three.
+
+29
+00:01:45,329 --> 00:01:49,849
+On election day citizens go to the polls and
+the results in this new range are just the
+
+30
+00:01:49,850 --> 00:01:53,339
+same as they were in the old ranges: 34% for
+Monkey, 33% for Owl and 33% for Lynx.
+
+31
+00:01:53,340 --> 00:01:56,478
+But this isn't most votes wins: with STV to
+figure out the winners take the total votes
+
+32
+00:01:56,479 --> 00:02:02,389
+and divide by the number of representatives
+needed, in this case 3 which gives 33% as
+
+33
+00:02:02,390 --> 00:02:04,538
+the amount a candidates needs to win.
+
+34
+00:02:04,539 --> 00:02:08,788
+So *all three* candidates go to the council
+-- which accurately represents the citizens
+
+35
+00:02:08,789 --> 00:02:09,829
+in the range.
+
+36
+00:02:09,830 --> 00:02:13,419
+Whereas under the old system each range would
+have sent a monkey.
+
+37
+00:02:13,420 --> 00:02:15,939
+Leaving 2/3rd of the citizens without representation.
+
+38
+00:02:15,940 --> 00:02:20,579
+A bigger range with more representatives allows
+the range to be more proportional.
+
+39
+00:02:20,580 --> 00:02:24,829
+This test turned out well, but it was also
+as simple as could be -- now Queen Lion wants
+
+40
+00:02:24,830 --> 00:02:27,889
+to see what happens in a race where not everyone
+is a winner.
+
+41
+00:02:27,890 --> 00:02:32,839
+The next big range she tests has five candidates
+running for office: Gorilla, Tasier, Monkey,
+
+42
+00:02:32,840 --> 00:02:36,279
+Tiger, and Lynx, three of which can be representatives.
+
+43
+00:02:36,280 --> 00:02:40,579
+Election day comes and goes, and here are
+the results of citizens first choices:
+
+44
+00:02:40,580 --> 00:02:43,499
+Tasier gets 5%
+Gorilla gets 28%
+
+45
+00:02:43,500 --> 00:02:46,309
+Monkey gets 33%
+Tiger gets 21%
+
+46
+00:02:46,310 --> 00:02:47,729
+Lynx gets 13%
+
+47
+00:02:47,730 --> 00:02:50,909
+As before, a candidate needs 33% to win.
+
+48
+00:02:50,910 --> 00:02:55,069
+Monkey has that as so is immediately selected
+as one of the three representatives.
+
+49
+00:02:55,070 --> 00:02:59,829
+But no one else reached the winning 33% so
+how are the other two representatives selected?
+
+50
+00:02:59,830 --> 00:03:01,789
+Step one: get rid of the biggest loser.
+
+51
+00:03:01,790 --> 00:03:04,229
+Sorry tasier -- you really had no chance at
+all.
+
+52
+00:03:04,230 --> 00:03:07,969
+Now, when the citizens voted, they could have
+just put an X next to the candidate they liked
+
+53
+00:03:07,970 --> 00:03:12,499
+most but with STV they can also rank their
+favorite candidates.
+
+54
+00:03:12,500 --> 00:03:16,519
+This is important because it shows how the
+election would have turned out if one of the
+
+55
+00:03:16,520 --> 00:03:18,029
+candidates hadn't run.
+
+56
+00:03:18,030 --> 00:03:22,719
+Tiny and Worried Tasiers would have voted
+for the big calm gorilla without tasier in
+
+57
+00:03:22,720 --> 00:03:23,719
+the race.
+
+58
+00:03:23,720 --> 00:03:28,049
+So if their candidate can't win, they want
+their votes to go to Gorilla instead.
+
+59
+00:03:28,050 --> 00:03:32,369
+This pushes gorilla up to 33% and he become
+the next representative.
+
+60
+00:03:32,370 --> 00:03:36,219
+Ranking allows citizens to support their favorite
+candidate without worry -- there's no point
+
+61
+00:03:36,220 --> 00:03:38,729
+in strategizing about how everyone else is
+going to vote.
+
+62
+00:03:38,730 --> 00:03:42,289
+The system works to maximize voter happiness
+with the result.
+
+63
+00:03:42,290 --> 00:03:46,589
+Back to the range: there's still one representative
+to select, so the next biggest loser is Lynx.
+
+64
+00:03:46,590 --> 00:03:50,169
+His voters don't like simians, but they do
+think tiger's interests are similar to theirs
+
+65
+00:03:50,170 --> 00:03:53,249
+and so if Lynx can't win they want him to
+have their votes.
+
+66
+00:03:53,250 --> 00:03:57,259
+Tiger gets reaches 33% and becomes the third
+and final representative.
+
+67
+00:03:57,260 --> 00:04:02,009
+The election result looks pretty good especially
+considering citizens first *and* second choices.
+
+68
+00:04:02,010 --> 00:04:06,569
+Now more citizens have a local representative
+they can feel comfortable approaching, whereas
+
+69
+00:04:06,570 --> 00:04:09,479
+using the old system, everybody gets a monkey.
+
+70
+00:04:09,480 --> 00:04:13,509
+Lastly queen lion wants know what happens
+in a range with just two political parties.
+
+71
+00:04:13,510 --> 00:04:17,078
+Under the most-votes-wins systems, multiple
+candidates from the same party would be a
+
+72
+00:04:17,079 --> 00:04:20,898
+disaster: they'd split their voters and hand
+the win to their opposition.
+
+73
+00:04:20,899 --> 00:04:26,239
+Queen lion makes one last test range with
+2/3rd tigers and 1/3 gorillas that as before,
+
+74
+00:04:26,240 --> 00:04:28,008
+needs three representatives.
+
+75
+00:04:28,009 --> 00:04:33,468
+Because with STV citizens rank their candidates
+there can be more than one candidate running
+
+76
+00:04:33,469 --> 00:04:36,359
+at the same time without any problems.
+
+77
+00:04:36,360 --> 00:04:40,138
+The tigers run two candidates as do the gorillas.
+
+78
+00:04:40,139 --> 00:04:52,929
+White tiger becomes the first representative,
+but what happens next?
+
+79
+00:04:52,930 --> 00:04:57,869
+While tiger seems to be the biggest loser,
+it's also obvious that he would have gotten
+
+80
+00:04:57,870 --> 00:05:01,249
+way more votes if white tiger wasn't in the
+race.
+
+81
+00:05:01,250 --> 00:05:05,818
+If a candidate has more votes than they need,
+like white tiger does, the first step is to
+
+82
+00:05:05,819 --> 00:05:08,758
+give the extra votes to their second choice.
+
+83
+00:05:08,759 --> 00:05:12,688
+This gets tiger to 33% and he becomes the
+next representative.
+
+84
+00:05:12,689 --> 00:05:14,859
+If that seems strange, there are two things
+to consider:
+
+85
+00:05:14,860 --> 00:05:18,609
+1) If instead the extra votes were ignored,
+and tiger eliminated then the gorillas would
+
+86
+00:05:18,610 --> 00:05:23,089
+get the remaining two wins, which would obviously
+not be represent the range.
+
+87
+00:05:23,090 --> 00:05:27,739
+2) Ignoring these 'extra' votes is punishing
+citizens who backed the popular candidate,
+
+88
+00:05:27,740 --> 00:05:32,859
+which makes voters start thinking about how
+everyone else will vote, rather than what
+
+89
+00:05:32,860 --> 00:05:34,089
+they really want.
+
+90
+00:05:34,090 --> 00:05:39,009
+If a candidate gets extra votes in the first
+place it also means that those who voted for
+
+91
+00:05:39,010 --> 00:05:44,499
+him are a big section of the population and
+thus fairly should get more representation.
+
+92
+00:05:44,500 --> 00:05:48,908
+Right: after the extra votes go to tiger,
+the election finishes as before: Silverback
+
+93
+00:05:48,909 --> 00:05:52,969
+came in last, is eliminated and his voters'
+second choice is the younger candidate so
+
+94
+00:05:52,970 --> 00:05:54,288
+gorilla gets in.
+
+95
+00:05:54,289 --> 00:05:55,788
+And the results are fair.
+
+96
+00:05:55,789 --> 00:05:57,879
+Queen Lion has now seen STV work.
+
+97
+00:05:57,880 --> 00:06:02,198
+Whether a range has one party or lots the
+process is still the same:
+
+98
+00:06:02,199 --> 00:06:03,198
+1.
+
+99
+00:06:03,199 --> 00:06:04,549
+Citizens rank their favorite candidates.
+
+100
+00:06:04,550 --> 00:06:05,549
+2.
+
+101
+00:06:05,550 --> 00:06:07,299
+Any candidate above the threshold wins immediately,
+3.
+
+102
+00:06:07,300 --> 00:06:09,499
+'Extra' votes go to their next choice.
+
+103
+00:06:09,500 --> 00:06:10,499
+4.
+
+104
+00:06:10,500 --> 00:06:13,679
+If no winner, last place is eliminated, and
+the votes to go their next choice.
+
+105
+00:06:13,680 --> 00:06:14,679
+5.
+
+106
+00:06:14,680 --> 00:06:16,598
+Repeat until all the winners are found.
+
+107
+00:06:16,599 --> 00:06:20,658
+This whole this process is designed to maximize
+the number of citizens who are happy with
+
+108
+00:06:20,659 --> 00:06:21,658
+the result.
+
+109
+00:06:21,659 --> 00:06:25,869
+This process gives STV has many advantages
+over the old, most-votes-wins system:
+
+110
+00:06:25,870 --> 00:06:26,869
+1.
+
+111
+00:06:26,870 --> 00:06:29,628
+Citizens can honestly vote for their favorite
+candidate without worrying about what everyone
+
+112
+00:06:29,629 --> 00:06:30,668
+else is going to do.
+
+113
+00:06:30,669 --> 00:06:31,668
+2.
+
+114
+00:06:31,669 --> 00:06:32,668
+It's more proportional.
+
+115
+00:06:32,669 --> 00:06:34,348
+So monkeying with the borders matters less.
+
+116
+00:06:34,349 --> 00:06:35,348
+3.
+
+117
+00:06:35,349 --> 00:06:39,189
+Almost all citizens will have a local representative
+they actually voted for.
+
+118
+00:06:39,190 --> 00:06:42,969
+In the end Queen lion decides to switch the
+council's elections to Single Transferable
+
+119
+00:06:42,970 --> 00:06:45,649
+Vote to make a better jungle council for all.
+

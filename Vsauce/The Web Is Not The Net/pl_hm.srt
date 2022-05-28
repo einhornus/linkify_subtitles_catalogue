@@ -1,0 +1,685 @@
+1
+00:00:00,190 --> 00:00:03,329
+Hej, Vsauce. Tutaj Michael.
+
+2
+00:00:03,330 --> 00:00:07,548
+Mimas jest jednym z najsłodszych księżyców Saturna.
+
+3
+00:00:07,549 --> 00:00:10,649
+Jego cała powierzchnia jest wielkości Hiszpanii,
+
+4
+00:00:10,650 --> 00:00:14,798
+ale jego ogromny krater powoduje, że wygląda jak
+
+5
+00:00:14,799 --> 00:00:18,618
+Gwiazda Śmierci. A gdy NASA stworzyła mapę cieplną
+
+6
+00:00:18,619 --> 00:00:22,868
+Mimasa, odkryli, że najcieplejsze regiony - pokazane na żółto
+
+7
+00:00:22,869 --> 00:00:26,278
+przypominają Pac-Mana jedzącego krater
+
+8
+00:00:26,279 --> 00:00:29,518
+jak kropkę. Uczyłem się o Mimasie podczas
+
+9
+00:00:29,519 --> 00:00:34,179
+surfowania światowej sieci jak prawdziwy internauta.
+
+10
+00:00:34,180 --> 00:00:35,968
+Ale Sieć
+
+11
+00:00:35,969 --> 00:00:39,898
+oraz Internet, to różne rzeczy. Sieć WWW
+[World Wide Web]
+
+12
+00:00:39,899 --> 00:00:43,999
+i Internet mają podobne nazwy,
+
+13
+00:00:44,000 --> 00:00:47,878
+ale łapią co innego. I jak zobaczymy
+
+14
+00:00:47,879 --> 00:00:51,269
+surfowanie WWW jest radykalne,
+
+15
+00:00:51,270 --> 00:00:54,689
+ale także à propos. Metaforycznie mówiąc,
+
+16
+00:00:54,690 --> 00:00:58,509
+sieć jest całkiem mokra.
+
+17
+00:00:58,510 --> 00:01:01,878
+Zanim istniała sieć oraz zanim istniał internet,
+
+18
+00:01:01,879 --> 00:01:05,088
+istniały komputery, ale były duże
+
+19
+00:01:05,089 --> 00:01:08,259
+i samotne. Nie mogły właściwie rozmawiać ze sobą.
+
+20
+00:01:08,260 --> 00:01:12,099
+Znaczy - racja - można było podłączyć podobne sprzęty, które mówiły podobnymi
+
+21
+00:01:12,100 --> 00:01:13,879
+protokołami, ale wtedy to była
+
+22
+00:01:13,880 --> 00:01:18,438
+sieć [network]. Aby połączyć osobne globalnie maszyny
+
+23
+00:01:18,439 --> 00:01:22,069
+potrzebaby sieci tych sieci.
+
+24
+00:01:22,070 --> 00:01:26,459
+I w latach 60. grupa wspaniałych umysłów współpracowała
+
+25
+00:01:26,460 --> 00:01:31,599
+nad taką rzeczą. W tamtych czasach, koncerny telefonowe nie były zainteresowane
+
+26
+00:01:31,600 --> 00:01:35,438
+i ponieważ żadna instytucja nie mogłaby utrzymać całej odpowiedzialności
+
+27
+00:01:35,439 --> 00:01:39,039
+i siły obliczeniowej potrzebnej dla dedykowanych liń...
+No cóż,
+
+28
+00:01:39,040 --> 00:01:42,529
+bardziej innowacyjne i wydajne metody zostały użyte.
+
+29
+00:01:42,530 --> 00:01:46,739
+System obejmujący wiele narodów jest międzynarodowy.
+
+30
+00:01:46,740 --> 00:01:49,789
+Więc system obejmujący wiele sieci
+
+31
+00:01:49,790 --> 00:01:54,978
+jest międzysiecią. W 1974,
+
+32
+00:01:54,979 --> 00:01:57,999
+w tym dokumencie, słowo internetwork
+
+33
+00:01:58,000 --> 00:02:01,868
+zostało oficjalnie skrócone do tego, co używamy dziś -
+Internet
+
+34
+00:02:01,869 --> 00:02:05,449
+29 października 1969,
+
+35
+00:02:05,450 --> 00:02:08,579
+dokładnie 100 dni po tym, jak po raz pierwszy
+
+36
+00:02:08,580 --> 00:02:11,729
+wylądowaliśmy na dalekiej skale w przestrzeni kosmicznej,
+
+37
+00:02:11,730 --> 00:02:14,738
+pierwszy raz wylądowaliśmy literę
+
+38
+00:02:14,739 --> 00:02:20,229
+na odległym ekranie w przestrzeni internetu.
+Leonard Kleinrock i drużyna w UCLA
+
+39
+00:02:20,230 --> 00:02:21,929
+zdecydowali się wysłać słowo
+
+40
+00:02:21,930 --> 00:02:25,458
+"login" do innego modelu komputera w Stanford.
+
+41
+00:02:25,459 --> 00:02:29,779
+Przesłali "L" i dotarło. Przesłali "O"
+
+42
+00:02:29,780 --> 00:02:33,609
+i dotarło. I wtedy system się zepsuł.
+
+43
+00:02:33,610 --> 00:02:37,399
+Ale wciąż, pierwsza wiadomość przesłana przez internet
+
+44
+00:02:37,400 --> 00:02:41,119
+była wielką rzeczą. Na liście technologicznych osiągnięć
+
+45
+00:02:41,120 --> 00:02:45,299
+stanęła całkiem wysoko, nawet jeśli to było tylko
+
+46
+00:02:45,300 --> 00:02:48,399
+lo... [ang.: nisko]
+Teraz do przyszłości
+
+47
+00:02:48,400 --> 00:02:53,109
+o dwie dekady. CERN pracuje nad wieloma różnymi projektami z różnymi ludźmi
+
+48
+00:02:53,110 --> 00:02:54,109
+i technologiami.
+
+49
+00:02:54,110 --> 00:02:57,109
+Aby się dowiedzieć kto lub co robi co...
+
+50
+00:02:57,110 --> 00:03:02,378
+Możesz po prostu sprawdzić to w internecie. Ale sposób w jaki informacja była układana w internecie
+
+51
+00:03:02,379 --> 00:03:06,128
+była nielogiczna. Bazując na hierarchiach,
+
+52
+00:03:06,129 --> 00:03:10,158
+liniowo, było to kiepskie. I to przeszkadzało człowiekowi
+
+53
+00:03:10,159 --> 00:03:14,359
+imieniem Tim Berners-Lee. Właściwie, mogłeś podążać za drzewem długi czas
+
+54
+00:03:14,360 --> 00:03:17,499
+tylko po to, żeby znaleźć osobę lub technologię związaną z jakimś innym projektem
+
+55
+00:03:17,500 --> 00:03:21,639
+i po informacje o tym, musisz iść spowrotem na początek i zacząć od nowa.
+
+56
+00:03:21,640 --> 00:03:25,128
+Więc w marcu 1989 Tim Berners-Lee
+
+57
+00:03:25,129 --> 00:03:29,559
+napisał wartościowy tekst zwyczajnie nazwany "Zarządzanie informacjami:
+
+58
+00:03:29,560 --> 00:03:33,839
+Propozycja". Argumentował, że notatki z linkami,
+
+59
+00:03:33,840 --> 00:03:37,039
+jak odnośniki między nimi są użyteczniejsze niż
+
+60
+00:03:37,040 --> 00:03:40,378
+stały system hierarchii. Zamiast drzew,
+
+61
+00:03:40,379 --> 00:03:44,739
+Berners-Lee zaproponował sieć [web].
+
+62
+00:03:44,740 --> 00:03:49,899
+Sieciowane systemy, które łączyły dokumenty w nieliniowy sposób już istniały.
+
+63
+00:03:49,900 --> 00:03:53,658
+Nazywały się hipertekstem. Ale Tim Berners-Lee
+
+64
+00:03:53,659 --> 00:03:57,738
+zoficjalizował małżeństwo hipertekstowych sieci i internetu,
+
+65
+00:03:57,739 --> 00:04:03,149
+aby stworzyć sieć, która była światowa. Było to szerokie, połączone, logiczne
+
+66
+00:04:03,150 --> 00:04:06,859
+i użyteczne partnerstwo potrzebne do stworzenia internetu, najszybciej przyjętej
+
+67
+00:04:06,860 --> 00:04:09,958
+formy komunikacji w historii naszego gatunku.
+
+68
+00:04:09,959 --> 00:04:13,119
+Internet łączy uczestników,
+
+69
+00:04:13,120 --> 00:04:17,018
+sieć łączy informacje. Dokładniej,
+
+70
+00:04:17,019 --> 00:04:21,249
+hipertekstowe dokumenty dostępne przez internet.
+
+71
+00:04:21,250 --> 00:04:26,039
+Możesz zobaczyć komputer, którym Tim Berners-Lee stworzył światową sieć
+
+72
+00:04:26,040 --> 00:04:29,869
+w Londyńskim Muzeum Nauki. 25 lat temu,
+
+73
+00:04:29,870 --> 00:04:34,739
+gdyby odłączyć ten komputer, możnaby dosłownie wyłączyć
+
+74
+00:04:34,740 --> 00:04:38,279
+całą sieć. Pierwsza strona sieciowa
+
+75
+00:04:38,280 --> 00:04:43,809
+to "info.cern.ch". Dzisiaj dostarcza ona symulator, który pozwala
+
+76
+00:04:43,810 --> 00:04:45,008
+zobaczyć sieć
+
+77
+00:04:45,009 --> 00:04:48,159
+jak wyglądała na początku. Przeszliśmy
+
+78
+00:04:48,160 --> 00:04:52,809
+długą drogę od tego. Jeśli chcesz dostać mindblowa,
+
+79
+00:04:52,810 --> 00:04:56,388
+odwiedź "Onesecond.designly.com" w sieci. Możesz zobaczyć jak dużo
+
+80
+00:04:56,389 --> 00:05:00,279
+Facebookowych like'ów, tweetów i nawet e-maili jest przesyłanych każdej sekundy
+
+81
+00:05:00,280 --> 00:05:05,049
+oraz jak dużo zostało wysłanych od kiedy otworzyłeś stronę.
+
+82
+00:05:05,050 --> 00:05:08,739
+Isaac Asimov raz powiedział, że Ziemia powinna nazywać się
+
+83
+00:05:08,740 --> 00:05:12,129
+oceanem, ponieważ ocean jest jej największą
+
+84
+00:05:12,130 --> 00:05:15,508
+cechą. Nasze oceany są szerokie,
+
+85
+00:05:15,509 --> 00:05:20,179
+i niebezpieczne, i głębokie, i zagadkowe. Więc nie jest to zagadką, że gdy ludzie potrzebowali
+
+86
+00:05:20,180 --> 00:05:22,409
+metafory do opisania internetu
+
+87
+00:05:22,410 --> 00:05:26,089
+i na wygląd nieskończonej i często niezbadanej
+
+88
+00:05:26,090 --> 00:05:30,198
+sieci hipertekstu jaki dostarczał, kierowali się morzem.
+
+89
+00:05:30,199 --> 00:05:33,309
+Surfujemy po sieci, nawigując
+
+90
+00:05:33,310 --> 00:05:37,099
+strumienie danych. Są tam piraci i powodzie i połowy [phishing].
+
+91
+00:05:37,100 --> 00:05:40,819
+Nawet blogi i vlogi pochodzą
+
+92
+00:05:40,820 --> 00:05:45,559
+od logów - zapisów początkowo trzymanych przez kapitanów na morzu.
+
+93
+00:05:45,560 --> 00:05:49,209
+Jak ciekła woda, sieć jest fenomenalnym rozpuszczalnikiem.
+
+94
+00:05:49,210 --> 00:05:53,089
+Sprawia, że materiał jest szeroko dostępny.
+
+95
+00:05:53,090 --> 00:05:56,679
+Szacuje się, że każda strona sieciowa jest średnio
+
+96
+00:05:56,680 --> 00:05:59,909
+19 kliknięć od każdej
+
+97
+00:05:59,910 --> 00:06:02,969
+innej strony. Jak nasze oceany,
+
+98
+00:06:02,970 --> 00:06:06,369
+sieć jest po prostu jednym globalnym
+
+99
+00:06:06,370 --> 00:06:09,739
+morzem. I jak nasze oceany, sieć
+
+100
+00:06:09,740 --> 00:06:13,869
+jest ekosystemem, którego potrzebujemy i musimy ostrożnie ochraniać.
+
+101
+00:06:13,870 --> 00:06:18,168
+Jest giętki i płynący, i jak odkrywamy
+
+102
+00:06:18,169 --> 00:06:23,079
+sieć, jak ciekła woda, jest czymś, w czym możesz zobaczyć siebie.
+
+103
+00:06:23,080 --> 00:06:26,818
+W latach 90. Douglas Rushkoff wymyślił termin
+
+104
+00:06:26,819 --> 00:06:31,049
+"ekrano-latkowie", aby opisać pokolenie, które pierwszy raz wyrastało
+
+105
+00:06:31,050 --> 00:06:32,568
+na myśli, że obrazy
+
+106
+00:06:32,569 --> 00:06:36,209
+na ekranie nie są czymś, na co można jedynie patrzeć,
+
+107
+00:06:36,210 --> 00:06:39,879
+ale zamiast tego, czymś co można manipulować.
+
+108
+00:06:39,880 --> 00:06:42,969
+Cóż, dziś jest to jeszcze bardziej ekstremalne.
+
+109
+00:06:42,970 --> 00:06:46,388
+Narzędzia i łączność dostarczana przez Sieć pozwala nam myśleć
+
+110
+00:06:46,389 --> 00:06:49,399
+o obrazach na ekranach nie tylko o rzeczach do manipulowania,
+
+111
+00:06:49,400 --> 00:06:54,089
+ale jako rzeczom, na które możemy nakładać naszą tożsamość.
+
+112
+00:06:54,090 --> 00:06:58,219
+Nie każdy kto to robi jest profesjonalnym powieściopisarzem
+
+113
+00:06:58,220 --> 00:07:02,089
+lub uznanym poetą lub razem.
+
+114
+00:07:02,090 --> 00:07:08,359
+Ale, poza materiałem, hiperlinkowane sieci ludzkich ekspresji są niewiarygodnie bogatymy środowiskami
+
+115
+00:07:08,360 --> 00:07:13,819
+i ćwiczą one nasz mózg, bardziej niż książki?
+
+116
+00:07:13,820 --> 00:07:15,848
+No, wyłącznie dla argumentu,
+
+117
+00:07:15,849 --> 00:07:19,589
+czytajmy z "Wszystko co złe jest dla ciebie dobre",
+
+118
+00:07:19,590 --> 00:07:22,689
+książki Stevena Johnsona. W tej książce
+
+119
+00:07:22,690 --> 00:07:26,008
+wyobraża sobie świat, w którym książki zostały wynalezione
+
+120
+00:07:26,009 --> 00:07:29,478
+po grach wideo i WWW.
+
+121
+00:07:29,479 --> 00:07:32,839
+Wszędzie dzieci zaczynają czytać te nowe, modne
+
+122
+00:07:32,840 --> 00:07:37,299
+książki, więc nauczyciele i rodzice są zaniepokojeni. Wyobraża sobie,
+
+123
+00:07:37,300 --> 00:07:40,529
+że mogą mówić coś w tym stylu:
+
+124
+00:07:40,530 --> 00:07:43,709
+"Byćmoże najniebezpieczniejszą właściwością tych książek
+
+125
+00:07:43,710 --> 00:07:47,159
+jest fakt, że podążają one stałą, liniową ścieżką.
+
+126
+00:07:47,160 --> 00:07:50,679
+Nie możesz kontrolować ich narracji w żaden sposób. Zwyczajnie siadasz
+
+127
+00:07:50,680 --> 00:07:53,899
+i ta opowieść jest tobie dyktowana.
+
+128
+00:07:53,900 --> 00:07:58,228
+Dla tych z nas, dorastających na interaktywnych narracjach, ta właściwość może wydawać się
+
+129
+00:07:58,229 --> 00:08:01,418
+zaskakująca. Dlaczego ktoś chciałby rozpocząć przygodę
+
+130
+00:08:01,419 --> 00:08:04,529
+w całości poukładaną przez inną osobę?
+
+131
+00:08:04,530 --> 00:08:07,918
+Ale dzisiejsze pokolenie rozpoczyna takie przygody
+
+132
+00:08:07,919 --> 00:08:11,409
+miliony razy dziennie. Czytanie nie jest
+
+133
+00:08:11,410 --> 00:08:15,309
+procesem z aktywnym uczestnictwem, tylko uległym.
+
+134
+00:08:15,310 --> 00:08:18,388
+Czytelnicy książek młodszych pokoleń uczą się
+
+135
+00:08:18,389 --> 00:08:22,609
+podążać za wątkiem zamiast go prowadzić."
+
+136
+00:08:22,610 --> 00:08:25,758
+Interesujące. Ale możesz myśleć, no weź,
+
+137
+00:08:25,759 --> 00:08:29,079
+Michael, nie możesz odsuwać materiału na bok tak prosto.
+
+138
+00:08:29,080 --> 00:08:32,639
+Co na temat wszystkich głupich i powierzchownych rzeczy, które sieć upowszechnia?
+
+139
+00:08:32,640 --> 00:08:37,099
+Znaczy, racja, dużo z tego jest kompletnie bezużyteczne. W końcu, jesteśmy ludźmi,
+
+140
+00:08:37,100 --> 00:08:42,018
+powinniśmy wartościować powód. Może.
+
+141
+00:08:42,019 --> 00:08:46,278
+Ale czy to  powoduje, że jesteśmy wyjątkowi? Unamuno powiedział:
+
+142
+00:08:46,279 --> 00:08:49,489
+"częściej widziałem kota uzasadniającego
+
+143
+00:08:49,490 --> 00:08:52,749
+niż śmiejącego lub płaczącego. Byćmoże on płacze lub śmieje się
+
+144
+00:08:52,750 --> 00:08:57,648
+wewnętrznie. Lecz wtedy byćmoże, także wewnętrznie, krab rozwiązuje równania
+
+145
+00:08:57,649 --> 00:09:03,409
+drugiego stopnia." Co jeśli tanie śmieszki, soczyste poematy, plotki,
+
+146
+00:09:03,410 --> 00:09:06,028
+skomlenie, dramaty i selfie tak naprawdę są
+
+147
+00:09:06,029 --> 00:09:10,789
+najbardziej ludzką rzeczą, którą sieć pozwoliła nam robić?
+
+148
+00:09:10,790 --> 00:09:14,759
+To głębokie. Ale nie tak głębokie jak Głęboka Sieć,
+
+149
+00:09:14,760 --> 00:09:18,219
+ukryta sieć. Część sieci niewidoczna
+
+150
+00:09:18,220 --> 00:09:23,379
+dla silników wyszukiwania. Teraz, większość z tego, to nieszkodliwe dane
+
+151
+00:09:23,380 --> 00:09:25,219
+ukryte za paywall lub hasłami
+
+152
+00:09:25,220 --> 00:09:28,979
+lub dynamicznie tworzonymi stronami sieciowymi. Ale nawet nie zindeksowaliśmy
+
+153
+00:09:28,980 --> 00:09:32,999
+tego. I nie jest to 1% sieci,
+
+154
+00:09:33,000 --> 00:09:36,349
+nie 10%. To 80%
+
+155
+00:09:36,350 --> 00:09:39,458
+całej sieci WWW.
+
+156
+00:09:39,459 --> 00:09:42,708
+Sieć to głęboki ocean
+
+157
+00:09:42,709 --> 00:09:46,939
+w którym ciągle robimy fale. Na przykład, popatrz na użycie emoji
+
+158
+00:09:46,940 --> 00:09:51,939
+na Twitterze w czasie rzeczywistym i powiedz kilka słów pocieszenia
+
+159
+00:09:51,940 --> 00:09:56,518
+dla najmniej popularnego emoji. My także ciągle eksplorujemy sieć.
+
+160
+00:09:56,519 --> 00:10:00,689
+To kompletnie nowa granica. Każdego dnia
+
+161
+00:10:00,690 --> 00:10:04,398
+Google otrzymuje 500 milionów zapytań,
+
+162
+00:10:04,399 --> 00:10:08,669
+które nigdy wcześniej nie zostały wyszukane.
+
+163
+00:10:08,670 --> 00:10:12,278
+Gdzie zaprowadzi nas ta eksploracja?
+
+164
+00:10:12,279 --> 00:10:17,619
+Kto wie? Ale wróćmy do naszej metafory, dokładnie te same stroje, które stworzyliśmy do eksploracji
+
+165
+00:10:17,620 --> 00:10:19,599
+głębin oceanu
+
+166
+00:10:19,600 --> 00:10:22,909
+zainspirowały i stworzyły stroje, które później użyliśmy,
+
+167
+00:10:22,910 --> 00:10:27,208
+by opuścić Ziemię. Więc eksploruj dalej,
+
+168
+00:10:27,209 --> 00:10:28,539
+surfuj dalej.
+
+169
+00:10:28,540 --> 00:10:29,539
+I jak zawsze,
+
+170
+00:10:29,540 --> 00:10:31,200
+dzieki za oglądanie.
+

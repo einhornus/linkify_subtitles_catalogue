@@ -1,0 +1,267 @@
+1
+00:00:00,470 --> 00:00:02,199
+Hej, Vsosie.
+Michael tutaj.
+
+2
+00:00:02,200 --> 00:00:08,379
+A ta truskawka waży około 50 gramów,
+co według Russella Seitza
+
+3
+00:00:08,380 --> 00:00:14,379
+jest również wagą całego Internetu.
+Co to znaczy?
+
+4
+00:00:14,380 --> 00:00:19,309
+Mam na myśli, że Internet to gigantyczne miejsce, a
+jak mierzy się informacje?
+
+5
+00:00:19,310 --> 00:00:22,768
+Cóż, zacznijmy trochę mniej
+z Kindle.
+
+6
+00:00:22,769 --> 00:00:27,178
+W tej chwili czytam Gadsby,
+świetną powieść, która ma pełny sens, z wyjątkiem
+
+7
+00:00:27,179 --> 00:00:31,839
+tego, że została napisana bez użycia litery
+„e”, co jest niesamowite.
+
+8
+00:00:31,840 --> 00:00:35,719
+Ale kiedy położyłem Gadsby na moim Kindle, czy mój Kindle przybrał na
+wadze?
+
+9
+00:00:35,720 --> 00:00:40,599
+Cóż, teoretycznie tak.
+Informacje są przechowywane na takich dyskach flash,
+
+10
+00:00:40,600 --> 00:00:45,889
+jak i na moim Kindle w formacie binarnym.
+I ten układ binarny fizycznie istnieje, ponieważ
+
+11
+00:00:45,890 --> 00:00:50,679
+elektrony ładują tranzystory z pływającą bramką.
+A z elektronami chodzi o to, że
+
+12
+00:00:50,680 --> 00:00:55,239
+mają masę.
+W rzeczywistości profesor z Berkeley oszacował,
+
+13
+00:00:55,240 --> 00:01:00,699
+że kiedy Kindle jest całkowicie wypełniony książkami,
+jego waga wzrasta o około 10 do minus
+
+14
+00:01:00,700 --> 00:01:05,549
+18 gramów.
+Ta liczba jest niewiarygodnie maleńka.
+
+15
+00:01:05,550 --> 00:01:11,109
+W rzeczywistości mówi, że kiedy w pełni naładujesz
+baterię Kindle, zyskuje ona 100 milionów razy
+
+16
+00:01:11,110 --> 00:01:13,869
+większą masę niż po wypełnieniu jej
+książkami.
+
+17
+00:01:13,870 --> 00:01:16,809
+Ale nawet wtedy liczba jest niemożliwa do
+zmierzenia.
+
+18
+00:01:16,810 --> 00:01:22,529
+Najbardziej szczegółowe wagi, jakie kiedykolwiek stworzyliśmy,
+mierzą tylko od około 10 do 9
+
+19
+00:01:22,530 --> 00:01:25,299
+gramów.
+Więc chodźmy więksi.
+
+20
+00:01:25,300 --> 00:01:30,069
+Russell Seitz wymyślił swoje pomiary,
+ponieważ Internet składa się z
+
+21
+00:01:30,070 --> 00:01:36,559
+sieci serwerów, z których około 75 do 100 milionów
+serwerów działa, aby internet działał.
+
+22
+00:01:36,560 --> 00:01:42,259
+W sumie wiele serwerów ma około 40
+miliardów watów energii elektrycznej i wiemy,
+
+23
+00:01:42,260 --> 00:01:46,239
+że Amp to około 10 do 18 elektronów na
+sekundę.
+
+24
+00:01:46,240 --> 00:01:50,949
+A ponieważ znamy wagę elektronu
+, możemy obliczyć, że cały Internet
+
+25
+00:01:50,950 --> 00:01:55,709
+to tak naprawdę około 50 gramów elektronów
+w ruchu.
+
+26
+00:01:55,710 --> 00:01:59,809
+Teraz ta liczba obejmuje tylko serwery.
+Seitz mówi, że jeśli chcesz włączyć
+
+27
+00:01:59,810 --> 00:02:04,059
+chipy również do komputerów osobistych, liczba ta jest
+około 3 razy większa.
+
+28
+00:02:04,060 --> 00:02:07,119
+Ale jest waga Internetu, która
+robi na mnie większe wrażenie.
+
+29
+00:02:07,120 --> 00:02:11,779
+Nie jest to wyliczenie energii potrzebnej
+do obsługi Internetu, ale energii zawartej
+
+30
+00:02:11,780 --> 00:02:16,439
+w rzeczywistych informacjach.
+Filmy, zdjęcia, e-maile.
+
+31
+00:02:16,440 --> 00:02:20,639
+Ile razem ważą podczas
+przechowywania?
+
+32
+00:02:20,640 --> 00:02:26,348
+Cóż, oto rzecz.
+Przechowywanie
+
+33
+00:02:26,349 --> 00:02:29,788
+jednej wiadomości e-mail zajmuje około 8 miliardów elektronów.
+8 miliardów brzmi jak dużo, ale elektrony
+
+34
+00:02:29,789 --> 00:02:36,479
+są malutkie, więc jeden e-mail waży tylko
+dwie dziesięciotysięczne
+
+35
+00:02:36,480 --> 00:02:39,699
+biliardowej uncji.
+Ale Internet zawiera mnóstwo e-maili
+
+36
+00:02:39,700 --> 00:02:44,399
+, filmów, zdjęć i
+plotek o celebrytach, więc ile to
+
+37
+00:02:44,400 --> 00:02:47,659
+razem waży?
+Cóż, pierwsze pytanie, które musimy zadać, to
+
+38
+00:02:47,660 --> 00:02:53,319
+jak duży jest Internet i trudno
+to policzyć, ale Eric Schmidt, ówczesny dyrektor generalny
+
+39
+00:02:53,320 --> 00:03:00,429
+Google, oszacował kiedyś, że cały Internet
+zawiera około 5 milionów terabajtów informacji,
+
+40
+00:03:00,430 --> 00:03:05,729
+z czego, jak powiedział  , Google zindeksował tylko
+0,004%.
+
+41
+00:03:05,730 --> 00:03:10,889
+Ok, więc nie licząc energii potrzebnej
+do dostarczenia Internetu, sama informacja
+
+42
+00:03:10,890 --> 00:03:16,899
+w Internecie ma około 5 milionów terabajtów.
+Teraz wiemy, ile elektronów potrzeba, aby
+
+43
+00:03:16,900 --> 00:03:21,289
+utworzyć pojedynczy bajt i znamy
+masę elektronu, więc przy odrobinie matematyki
+
+44
+00:03:21,290 --> 00:03:26,919
+możesz dowiedzieć się, że cały Internet,
+wszystko na nim, łącznie waży tylko
+
+45
+00:03:26,920 --> 00:03:33,699
+0,2 milionowych części  uncja.
+Pomyśl o tym w ten sposób: każdy film w
+
+46
+00:03:33,700 --> 00:03:38,719
+YouTube, każdy film w całej
+sieci, każdy obraz, każda strona internetowa,
+
+47
+00:03:38,720 --> 00:03:42,139
+każdy wysłany e-mail, każdy
+napisany list miłosny, każde zdjęcie
+
+48
+00:03:42,140 --> 00:03:47,848
+wnuków  które otrzymałeś jest zbiorowo
+utrzymywane w ilości masy o
+
+49
+00:03:47,849 --> 00:03:54,878
+wielkości najmniejszego możliwego ziarnka piasku.
+Jeśli śledzisz @tweetsauce na Twitterze, możesz
+
+50
+00:03:54,879 --> 00:03:56,859
+dowiedzieć się jeszcze więcej.
+Podzielę się tam kilkoma faktami, których
+
+51
+00:03:56,860 --> 00:03:59,979
+nie zawarłem w tym filmie o elektryczności w
+ogóle.
+
+52
+00:03:59,980 --> 00:04:02,379
+Polub nas na Facebooku, aby pokazać, że masz klasę.
+
+53
+00:04:02,380 --> 00:04:02,999
+I jak zawsze
+
+54
+00:04:03,000 --> 00:04:04,420
+dzięki za oglądanie.
+

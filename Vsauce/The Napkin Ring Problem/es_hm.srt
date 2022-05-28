@@ -1,0 +1,648 @@
+1
+00:00:02,400 --> 00:00:04,559
+Hola, Vsauce! Aquí Michael!
+
+2
+00:00:04,560 --> 00:00:09,179
+Si quitas el centro de una esfera, es decir, remueves un cilindro de ella,
+
+3
+00:00:09,180 --> 00:00:10,288
+te quedarás con una forma
+
+4
+00:00:10,289 --> 00:00:14,979
+llamada anillo de servilleta, porque bien, se ve como un anillo de servilleta!
+
+5
+00:00:14,980 --> 00:00:20,099
+Es una forma bizarra porque si dos anillos de servilletas tienen la misma altura, bueno
+
+6
+00:00:20,100 --> 00:00:24,639
+Tendrán el mismo volumen a pesar del tamaño de las esferas de donde vinieron!
+
+7
+00:00:24,640 --> 00:00:30,579
+Esto significa que si cortas los anillos de servilletas igualmente altos de una naranja y de la Tierra,
+
+8
+00:00:30,580 --> 00:00:32,779
+Bueno, uno podría estar sostenido en tu mano.
+
+9
+00:00:32,780 --> 00:00:35,599
+El otro tendría la circunferencia de nuestro planeta entero,
+
+10
+00:00:35,600 --> 00:00:39,339
+pero los dos tendrían el mismo volumen...
+
+11
+00:00:39,340 --> 00:00:41,519
+Mencioné este hecho contradictorio mientras estaba haciendo
+
+12
+00:00:41,520 --> 00:00:43,099
+una kendama con Adam Savage.
+
+13
+00:00:43,100 --> 00:00:45,439
+Mira ese vídeo si no lo has visto, mejor aún,
+
+14
+00:00:45,440 --> 00:00:50,199
+Sólo ven a vernos. Estamos llevando Brain Candy Live  a 24 ciudades nuevas este otoño.
+
+15
+00:00:50,200 --> 00:00:51,579
+Estaremos ocupados,
+
+16
+00:00:51,580 --> 00:00:56,339
+pero ahora mismo estamos hablando sobre esferas y quitando su centro
+
+17
+00:00:56,340 --> 00:01:00,679
+Aquí tengo DOS anillos de servilletas de una esferas de diferente tamaño;
+
+18
+00:01:00,680 --> 00:01:02,559
+una es de una pequeña esfera,
+
+19
+00:01:02,560 --> 00:01:04,059
+que retirado de un pequeño tomate,
+
+20
+00:01:04,060 --> 00:01:05,699
+así que tiene un pequeño hueco justo aquí.
+
+21
+00:01:05,700 --> 00:01:08,119
+El otro anillo de servilleta está hecho de una naranja,
+
+22
+00:01:08,120 --> 00:01:11,719
+pero los dos anillos de servilletas tienen la misma altura.
+
+23
+00:01:11,720 --> 00:01:14,639
+El tomate tiene una circunferencia más pequeña que la naranja,
+
+24
+00:01:14,640 --> 00:01:19,379
+lo que significa menos volumen, pero el anillo es más grueso lo que significa más volumen.
+
+25
+00:01:19,380 --> 00:01:22,539
+ambos efectos se cancelan exactamente lo cancelan.
+
+26
+00:01:22,540 --> 00:01:25,779
+Así que esos dos anillos de servilletas tienen volúmenes idénticos
+
+27
+00:01:25,780 --> 00:01:31,559
+que toman la misma cantidad de espacio.
+
+28
+00:01:31,560 --> 00:01:34,739
+Por cierto, el aceite de naranja es flamable.
+
+29
+00:01:34,740 --> 00:01:37,639
+Para ver porqué el problema del anillo de servilleta es verdadero,
+
+30
+00:01:37,640 --> 00:01:40,359
+déjenme discutir sobre el principio de Cavalieri.
+
+31
+00:01:40,360 --> 00:01:42,519
+Que afirma que para cualquiera de los dos sólidos
+
+32
+00:01:42,520 --> 00:01:44,759
+como estos dos cilindros que he construido aquí
+
+33
+00:01:44,760 --> 00:01:49,868
+atrapados entre planos paralelos, si cualquiera de los otros planos paralelos
+
+34
+00:01:49,869 --> 00:01:54,299
+Intersecta a los dos en regiones de área igual, no importa de dónde se ha tomado
+
+35
+00:01:54,300 --> 00:01:57,239
+bien, los sólidos tienen el mismo volumen.
+
+36
+00:01:57,240 --> 00:02:00,679
+Es claramente real aquí que esos cilindros son construidos de
+
+37
+00:02:00,680 --> 00:02:02,619
+de montones de pegantinas de VSauce,
+
+38
+00:02:02,620 --> 00:02:06,659
+100 en cada uno, así que sus volúmenes son el mismo
+
+39
+00:02:06,660 --> 00:02:07,899
+Si yo...
+
+40
+00:02:07,900 --> 00:02:12,179
+...tuerzo uno de ellos así, se cambiará su forma,
+
+41
+00:02:12,180 --> 00:02:15,539
+pero su volumen no, sigue conteniendo la misma cantidad de cosas
+
+42
+00:02:15,540 --> 00:02:18,159
+No he añadido o sustraído las pegantinas
+
+43
+00:02:18,160 --> 00:02:21,459
+y el principio de Cavalieri asegura que estas siguen teniendo el mismo volumen,
+
+44
+00:02:21,460 --> 00:02:25,539
+porque cualquier sección transversal tomada de arriba o abajo o el medio, cualquier lugar
+
+45
+00:02:25,540 --> 00:02:29,599
+Nos dará siempre  una región de la misma área que la otra,
+
+46
+00:02:29,600 --> 00:02:33,279
+porque esas regiones son siempre círculos de la misma área.
+
+47
+00:02:33,280 --> 00:02:37,339
+Ahora, apliquemos el principio de Cavalieri a los anillos de servilletas.
+
+48
+00:02:37,340 --> 00:02:40,879
+Podemos ver que dos anillos de servilletas con altura similar, tienen
+
+49
+00:02:40,880 --> 00:02:44,479
+volúmenes idénticos, mostrando que cuando se cortan por un plano,
+
+50
+00:02:44,480 --> 00:02:46,799
+el área de la sección vertical de uno de ellos
+
+51
+00:02:46,800 --> 00:02:48,919
+siempre iguala el área de los otros.
+
+52
+00:02:48,920 --> 00:02:49,799
+Ahora para hacer esto
+
+53
+00:02:49,800 --> 00:02:52,599
+Date cuenta que el área de la sección transversal de las esferas,
+
+54
+00:02:52,600 --> 00:02:55,119
+menos el área de la sección vertical de los cilindros nos da el área de la sección transversal
+
+55
+00:02:55,120 --> 00:02:58,039
+nos da el área de los anillos de servilleta.
+
+56
+00:02:58,040 --> 00:03:02,079
+Dependiendo de donde cortemos el anillo de servilleta, las secciones transversales tendrán diferentes áreas,
+
+57
+00:03:02,080 --> 00:03:05,039
+Pero serán siempre iguales entre ellas.
+
+58
+00:03:05,040 --> 00:03:08,799
+Calculemos las áreas de estos anillos azules.
+
+59
+00:03:08,800 --> 00:03:17,359
+Primero, llamemos al alto del anillo de servilleta 'h', y el radio de la esfera del que se cortan
+
+60
+00:03:17,360 --> 00:03:18,819
+'R' mayúscula.
+
+61
+00:03:18,820 --> 00:03:20,219
+Perfecto, ahora
+
+62
+00:03:20,220 --> 00:03:22,459
+una sección transversal de una esfera como esta,
+
+63
+00:03:22,460 --> 00:03:25,619
+y una sección transversal de un cilindro como este, son ambos círculos
+
+64
+00:03:25,620 --> 00:03:30,399
+por lo tanto sus áreas pueden ser determinadas usando Pi (r)^2.
+
+65
+00:03:30,400 --> 00:03:34,699
+si queremos encontrar el área la sección transversal de las esferas y substraer
+
+66
+00:03:34,700 --> 00:03:36,959
+el área de la sección transversal de los cilindros --
+
+67
+00:03:36,960 --> 00:03:38,819
+-- Dibujaré un cilindro aquí.
+
+68
+00:03:38,820 --> 00:03:41,839
+Lo único que necesitamos hacer es tomar Pi
+
+69
+00:03:41,840 --> 00:03:45,399
+multiplicarlo por el radio de la sección transversal de la esfera
+
+70
+00:03:45,400 --> 00:03:53,319
+al cuadrado, y restar Pi veces el radio del cilindro al cuadrado, pero cual es su radio?
+
+71
+00:03:53,320 --> 00:03:56,079
+Bien, si este es el centro de la esfera,
+
+72
+00:03:56,080 --> 00:04:02,559
+podemos dibujar una linea recta hasta la esquina del cilindro, bajar por un lado del cilindro
+
+73
+00:04:02,560 --> 00:04:05,679
+y entonces conectarlo para formar un triángulo recto.
+
+74
+00:04:05,680 --> 00:04:08,319
+El teorema de Pitágoras, nos ayudará aquí.
+
+75
+00:04:08,320 --> 00:04:13,259
+Nos dice que el largo de un lado al cuadrado, más el largo del otro lado al cuadrado
+
+76
+00:04:13,260 --> 00:04:16,778
+es igual al largo de la hipotenusa al cuadrado
+
+77
+00:04:16,779 --> 00:04:20,898
+esta distancia de aquí, este lado del triangulo, que queremos
+
+78
+00:04:20,899 --> 00:04:27,319
+es el radio del cilindro, lo llamaremos esta pequeña 'r' radio del cilindro
+
+79
+00:04:27,320 --> 00:04:29,079
+--hermosa figurita allí
+
+80
+00:04:29,080 --> 00:04:31,388
+Así que el radio del...
+
+81
+00:04:31,389 --> 00:04:34,839
+cilindro
+
+82
+00:04:34,840 --> 00:04:37,029
+cuadrado, más
+
+83
+00:04:37,030 --> 00:04:44,019
+el largo de este lado, que es la mitad de alto que el cilindro, la altura del cilindro dividido 2
+
+84
+00:04:44,020 --> 00:04:45,369
+al cuadrado
+
+85
+00:04:45,370 --> 00:04:48,119
+es igual a la hipotenusa al cuadrado.
+
+86
+00:04:48,120 --> 00:04:53,339
+La hipotenusa termina siendo el radio de la esfera que es R mayúscula.
+
+87
+00:04:53,340 --> 00:04:57,179
+Perfecto, ahora resolvamos el radio del cilindro, que es lo que queremos.
+
+88
+00:04:57,180 --> 00:05:04,119
+Sólo restemos h/2 cuadrado de ambos lados, esto nos dará el radio del cilindro
+
+89
+00:05:04,120 --> 00:05:05,159
+cuadrado
+
+90
+00:05:05,160 --> 00:05:08,659
+igualando el radio de la esfera cuadrada, menos
+
+91
+00:05:08,660 --> 00:05:10,959
+(h/2)^2
+
+92
+00:05:10,960 --> 00:05:17,879
+Podemos tomar la raíz cuadrado de ambos lados, así que terminamos con el radio del cilindro
+
+93
+00:05:17,880 --> 00:05:21,879
+igualando la raiz cuadrada del radio de la esfera
+
+94
+00:05:21,880 --> 00:05:25,139
+menos 1/2 de la latura del cilindro cuadrado
+
+95
+00:05:25,140 --> 00:05:26,279
+Pefecto.
+
+96
+00:05:26,280 --> 00:05:32,699
+Ahora miremos el área de la sección transversal de la esfera , ahora para esto
+
+97
+00:05:32,700 --> 00:05:36,999
+dibujemos una linea recta del centro hasta el borde de
+
+98
+00:05:37,000 --> 00:05:38,219
+la sección transversal
+
+99
+00:05:38,220 --> 00:05:44,639
+de la esfera, y vamos directo a conectarlo, hey mira! Otro triangulo recto
+
+100
+00:05:44,640 --> 00:05:48,699
+Llamemos esta altura 'y'
+
+101
+00:05:48,700 --> 00:05:55,699
+y date cuenta que esta distancia (el lado del triangulo de aquí) es el radio
+
+102
+00:05:55,700 --> 00:05:57,959
+de la sección transversal
+
+103
+00:05:57,960 --> 00:05:59,899
+del circulo de aquí arriba (son iguales).
+
+104
+00:05:59,900 --> 00:06:05,099
+Así que queremos resolver el radio de la sección transversal de la esfera,
+
+105
+00:06:05,100 --> 00:06:05,709
+Bien
+
+106
+00:06:05,710 --> 00:06:08,948
+así que sabemos que el radio de
+
+107
+00:06:08,949 --> 00:06:14,819
+la sección transversal cuadrada, más la distancia al cuadrado (que es 'y')
+
+108
+00:06:14,820 --> 00:06:21,159
+es igual a la hipotenusa cuadrada. Pero esta es el radio de la esfera, otra vez (R)
+
+109
+00:06:21,160 --> 00:06:24,279
+Muy bien, restemos 'y' cuadrado de ambos lados.
+
+110
+00:06:24,280 --> 00:06:27,819
+El radio de la sección tranversal de la esfera cuadrada
+
+111
+00:06:27,820 --> 00:06:32,659
+es igual al radio de la esfera cuadrada, menos 'y' cuadrada.
+
+112
+00:06:32,660 --> 00:06:36,019
+Tomaremos la raíz cuadrada de ambos lados y terminar
+
+113
+00:06:36,020 --> 00:06:41,029
+aprendiendo que el radio de la sección transversal de la esfera es igual a la raíz cuadrada de
+
+114
+00:06:41,030 --> 00:06:45,499
+el radio de la esfera cuadrada, menos 'y'cuadrada. 'y' es la altura que es
+
+115
+00:06:45,500 --> 00:06:53,569
+la sección transversal  tomada de encima.Cuanto más arriba tomamos estas secciones transversales de la esfera menor serán sus radios
+
+116
+00:06:53,570 --> 00:06:58,009
+Mientras que el radio de los cilindros es siempre el mismo,
+
+117
+00:06:58,010 --> 00:07:01,609
+De cualquier forma; vamos a tomar estos dos radios y conectarlos en nuestra fórmula
+
+118
+00:07:01,610 --> 00:07:06,079
+Bueno, el área de la sección transversal de la esfera es lo que queremos primero
+
+119
+00:07:06,080 --> 00:07:10,579
+Que es sólo la raíz cuadrada de R cuadrado menos 'y' cuadrado
+
+120
+00:07:10,580 --> 00:07:18,039
+No tan mal, ahora el radio del cilindro es la raíz cuadrada de R cuadrado menos
+
+121
+00:07:18,040 --> 00:07:25,549
+La mitad de la altura del cilindro cuadrado,  ahora lo que podría notar es que estamos tomando la raíz cuadrada de algo y luego poniéndolo al cuadrado
+
+122
+00:07:25,550 --> 00:07:28,339
+Éstos se cancelan mutuamente
+
+123
+00:07:28,340 --> 00:07:30,369
+¡Perfecto! se ve mucho más simple
+
+124
+00:07:30,370 --> 00:07:38,659
+pero ahora vamos a distribuir Pi a los términos dentro de los paréntesis para pi veces R cuadrado nos da (PiR^2)
+
+125
+00:07:38,660 --> 00:07:44,149
+Pi veces menos 'y' cuadrado nos da  Pi negativo 'y' cuadrado
+
+126
+00:07:44,150 --> 00:07:46,189
+Ahora Pi negativo veces R^2
+
+127
+00:07:46,190 --> 00:07:54,859
+ES PIR negativo. h/2 cuadrado es Pi positivo
+
+128
+00:07:54,860 --> 00:07:56,659
+(h/2)^2
+
+129
+00:07:56,660 --> 00:08:03,219
+ahora podemos seguir simplificando pero lo que podrías notar es que tenemos un pi r cuadrado y un
+
+130
+00:08:03,220 --> 00:08:07,039
+Menos Pi R al cuadrado, bueno, eso equivale a 0 para que estos
+
+131
+00:08:07,040 --> 00:08:11,299
+completamente se cancelan mutuamente, pero lo que nos queda es
+
+132
+00:08:11,300 --> 00:08:18,359
+Términos que no contienen ninguna mención del radio de las esferas. Si el radio es grande o pequeño
+
+133
+00:08:18,360 --> 00:08:23,299
+No importa, todo lo que necesitas saber para encontrar el área de la sección transversal de un anillo de servilleta
+
+134
+00:08:23,300 --> 00:08:25,579
+es la altura del Anillo de Servilleta
+
+135
+00:08:25,580 --> 00:08:32,219
+'y', por supuesto, está limitada por la altura de un anillo de servilleta. Estas áreas azules tienen la misma área que el otro y esto
+
+136
+00:08:32,220 --> 00:08:41,019
+es cierto no importa dónde cortamos la sección transversal a través  del anillo de servilleta, significando que por el principio de Cavalieri:  ambos Anillos de Servilleta tienen el mismo
+
+137
+00:08:41,020 --> 00:08:43,099
+Volumen
+
+138
+00:08:43,100 --> 00:08:47,699
+Yay :3
+
+139
+00:08:47,700 --> 00:08:50,019
+(Con dientes)
+
+140
+00:08:50,020 --> 00:08:54,279
+Pero, ¿qué significa esto para ti, para la vida en el universo?
+
+141
+00:08:54,280 --> 00:08:58,779
+Pues como sabemos si te gusta, deberías poner un anillo en él
+
+142
+00:08:58,780 --> 00:09:00,679
+Pero si te gusta,
+
+143
+00:09:00,680 --> 00:09:05,199
+y no sabes  el ancho del dedo, solo quieres ofrecer una predeterminada cantidad de material
+
+144
+00:09:05,200 --> 00:09:09,639
+Deberías poner un anillo de servilleta en él.
+
+145
+00:09:09,640 --> 00:09:11,899
+Y como siempre
+
+146
+00:09:11,900 --> 00:09:21,459
+Gracias por ver :D
+
+147
+00:09:21,460 --> 00:09:23,859
+El 21 de agosto de 2017
+
+148
+00:09:23,860 --> 00:09:31,599
+habrá un eclipse solar total. La sombra de la luna correrá a través de los Estados Unidos contiguos
+
+149
+00:09:31,600 --> 00:09:35,489
+va a ser increíble y un poco de miedoso estoy seguro
+
+150
+00:09:35,490 --> 00:09:42,039
+Estoy seguro de que voy a ver desde Oregon con mis amigos en Atlas, Obscura. No puedo esperar, pero mantén tus ojos
+
+151
+00:09:42,040 --> 00:09:47,699
+salvos.Si quieres ver el eclipse,  tienes que tener protección especial para los ojos
+
+152
+00:09:47,700 --> 00:09:52,819
+la Curiosity Box viene con unas gafas para esto. Estas bloquean
+
+153
+00:09:52,820 --> 00:10:00,399
+99.999% de luz visible, que es lo que se necesita para poder mirar directamente al sol. Pero en realidad lo que me gusta de estas gafas
+
+154
+00:10:00,400 --> 00:10:04,059
+Si no hay un eclipse, puedes sin embargo seguir mirando el sol
+
+155
+00:10:04,060 --> 00:10:07,679
+Dándote cuenta que es una bola. Quizá imaginando en que clase de anillo de servilleta
+
+156
+00:10:07,680 --> 00:10:09,789
+te gustaría convertirlo. (hahaha)
+
+157
+00:10:09,790 --> 00:10:15,539
+La actual Curiosity Box a es mi favorita. La que recibirás si te subscribes ahora mismo, viene con toda clase de cosas increíbles,
+
+158
+00:10:15,540 --> 00:10:23,539
+Viene con un afiche ostrando que todos los planetas y plutón pueden caber entre la tierra y la luna, también viene con gadgets de la ciencia como estos
+
+159
+00:10:23,540 --> 00:10:26,499
+anillos magnéticos levitantes
+
+160
+00:10:26,500 --> 00:10:32,109
+Bastante bueno, también una porción de todos los ingresos van a la investigación del alzheimer, así que es bueno para tu cerebro y
+
+161
+00:10:32,110 --> 00:10:41,338
+el de todo el mundo. Miralo. Espero verte en Brain Candy live  y como siempre
+
+162
+00:10:41,339 --> 00:10:43,339
+Gracias por ver
+

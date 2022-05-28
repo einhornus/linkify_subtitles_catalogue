@@ -1,0 +1,900 @@
+1
+00:00:11,600 --> 00:00:22,899
+Selam, Vsauce, Ben Michael.
+
+2
+00:00:22,900 --> 00:00:26,529
+Ters çevrildiğinde anlaşılır olacak şekilde, tersten konuşmayı
+
+3
+00:00:26,530 --> 00:00:29,899
+pratik yaparak öğrenebilirsiniz. Ama işte garip bir şey daha:
+
+4
+00:00:29,900 --> 00:00:33,329
+Işık hızının rakamları,
+
+5
+00:00:33,330 --> 00:00:38,479
+Büyük Gize Piramidi'nin koordinatları ile tıpatıp aynı.
+
+6
+00:00:38,480 --> 00:00:42,219
+Ve anagram dahisi'ne göre "bütün dünya bir sahnedir",
+
+7
+00:00:42,220 --> 00:00:46,269
+ve "hayatın anlamı" kelimesindeki harfleri karıştırırsanız,
+
+8
+00:00:46,270 --> 00:00:49,349
+"bir film makinesi" sözünü elde edersiniz.
+
+9
+00:00:49,350 --> 00:00:54,579
+veya, daha da kötümser olursak "Hiçliğin Güzel Oyunu"
+
+10
+00:00:54,580 --> 00:00:56,619
+Bütün bunların anlamı ne?
+
+11
+00:00:56,620 --> 00:00:59,399
+Hepsi sadece birer tesadüf mü?
+
+12
+00:00:59,400 --> 00:01:02,879
+Yoksa daha büyük güçler mi işin içinde?
+
+13
+00:01:02,880 --> 00:01:05,799
+Neden gizli mesajlar bulmak bizim için çok kolay?
+
+14
+00:01:05,800 --> 00:01:09,029
+Neden basit bir tesadüf tüylerimizi diken diken edebiliyor
+
+15
+00:01:09,030 --> 00:01:12,019
+ve bu, neden bu kadar eğlenceli?
+
+16
+00:01:12,020 --> 00:01:15,489
+Neil Armstrong'un "İnsan için küçük bir adım," deyişini ters çevirirsek,
+
+17
+00:01:15,490 --> 00:01:19,228
+"İnsanlar uzayda yürüyecek" diyormuş gibi gelen bir cümle duyabiliriz.
+
+18
+00:01:19,229 --> 00:01:30,879
+"İnsanlık için küçük bir adım." - "İnsanlar uzayda yürüyecek." x3
+
+19
+00:01:30,880 --> 00:01:33,799
+Lee Harvey Oswald, ABD Başkanı John F. Kennedy'ye suikast düzenledi.
+
+20
+00:01:33,800 --> 00:01:39,339
+ve bu röportajda da üyesi olduğu "Küba için Adalet" komitesini savunuyor.
+
+21
+00:01:39,340 --> 00:01:45,319
+"Sovyetler Birliğinde bir süre yaşamış olmam Küba'nın ve Küba İçin Adalet komitesinin komünistler tarafından
+
+22
+00:01:45,320 --> 00:01:50,719
+"yönetildiğini reddetmek açısından benim inanılmaz derecede vasıflı olmamı sağlıyor."
+
+23
+00:01:50,720 --> 00:01:53,819
+Şimdi de "ve Küba İçin Adalet" derken ses kaydını ters çevirirsek
+
+24
+00:01:53,820 --> 00:01:56,299
+neler duyacağımıza bakalım.
+
+25
+00:01:56,300 --> 00:02:00,679
+"ve Küba İçin Adalet-" - "Başkanı öldürmek istiyorum."
+
+26
+00:02:00,680 --> 00:02:06,819
+"Başkanı öldürmek istiyorum."
+
+27
+00:02:06,820 --> 00:02:13,999
+Bu da bir tesadüf mü yoksa kendi ağzıyla yaptığı bilinçaltından gelen bir itiraf mı?
+
+28
+00:02:14,000 --> 00:02:16,089
+Bir tesadüf.
+
+29
+00:02:16,090 --> 00:02:20,639
+Hadi ama, herhangi biri "ve Küba İçin Adalet" deyip
+
+30
+00:02:20,640 --> 00:02:26,139
+ters çevirse, yine aynı şey olacak.
+
+31
+00:02:26,140 --> 00:02:28,349
+Bu uygulama, bu arada, "Virtual Recorder"
+
+32
+00:02:28,350 --> 00:02:31,629
+Kendi konuşmanızı hızla ters çevirmek için gerçekten kolay bir yöntem.
+
+33
+00:02:31,630 --> 00:02:35,419
+"Büyülü Düşünmenin 7 Yolu" adlı kitabında Matthew Hutson'ın dediğine göre eğer kendinizi
+
+34
+00:02:35,420 --> 00:02:36,719
+şöyle derken kaydederseniz:
+
+35
+00:02:36,720 --> 00:02:38,879
+"Ooh, hindi yağı gibi kokuyorsun!"
+
+36
+00:02:38,880 --> 00:02:39,729
+ve ters çevirirseniz,
+
+37
+00:02:39,730 --> 00:02:45,119
+kulağa "Doğum günün kutlu olsun" diyormuşsunuz gibi geliyor.
+
+38
+00:02:45,120 --> 00:02:46,059
+Yani birazcık.
+
+39
+00:02:46,060 --> 00:02:48,859
+Eğer bir kelime düzden ve tersten aynı şekilde
+
+40
+00:02:48,860 --> 00:02:51,339
+yazılıyorsa, buna Palindrom denir.
+
+41
+00:02:51,340 --> 00:02:53,119
+Ama eğer bir kelime veya kelime grubu
+
+42
+00:02:53,120 --> 00:02:56,789
+düzden veya tersten söylendiğinde kulağa aynı şekilde geliyorsa,
+
+43
+00:02:56,790 --> 00:02:59,369
+buna "Fonetik Palindrom" denir.
+
+44
+00:02:59,370 --> 00:03:00,239
+Örneğin,
+
+45
+00:03:00,240 --> 00:03:05,839
+"say yes" Ters çevirelim.
+
+46
+00:03:05,840 --> 00:03:09,799
+Baya havalı. Ama şimdi Karsten Johansson'ın şu şiirine bakalım:
+
+47
+00:03:09,800 --> 00:03:13,059
+"Neden hiç olmayanın hiç olmadığını merak ettiğimde,
+
+48
+00:03:13,060 --> 00:03:16,099
+ve "Evet, hepimizin seni sevdiğini biliyorsun" dediğimizde yalan söylerdik.
+
+49
+00:03:16,100 --> 00:03:29,479
+Hiç olmayan hiç olmamıştır. Ve şu anda hiçbir yerdeyiz."
+
+50
+00:03:29,480 --> 00:03:33,629
+Bu arada, bazı insanlar istedikleri zaman tersten konuşabiliyorlar,
+
+51
+00:03:33,630 --> 00:03:35,589
+ve bunu yaparken onları görmek de baya havalı.
+
+52
+00:03:35,590 --> 00:03:36,989
+Bu videodan sonra "Guys Lean Back"i
+
+53
+00:03:36,990 --> 00:03:42,519
+izleyin. Linki aşağıdaki açıklamalarda ve tesadüflerle ilgili gayet güzel videolardan oluşuyor.
+
+54
+00:03:42,520 --> 00:03:48,099
+"Apofeni" verilerden anlamlı bir bağlantı veya örüntü çıkarma eğilimidir.
+
+55
+00:03:48,100 --> 00:03:51,029
+Apofeninin bir türü de "Pareidolia"dır,
+
+56
+00:03:51,030 --> 00:03:55,119
+aslında orada olmayan şeyleri duymak veya görmek.
+
+57
+00:03:55,120 --> 00:03:58,449
+Örneğin, sizi biri isminizle çağırıyormuş gibi duymak, duyduğunuz sadece suyun sesiyken
+
+58
+00:03:58,450 --> 00:04:02,229
+telefonunuz çalıyormuş sanmak, İngilizce olmayan bir şarkı dinlerken
+
+59
+00:04:02,230 --> 00:04:07,839
+İngilizce kelimeler duymak, oraya bilerek yerleştirilmemiş yerlerde suratlar görmek gibi.
+
+60
+00:04:07,840 --> 00:04:10,959
+Beyinlerimiz böyle işlerde gerçekten iyidirler,
+
+61
+00:04:10,960 --> 00:04:15,269
+bunun nedeniyse büyük ihtimalle, yüzlere ve örüntülere olan bu aşırı duyarlılığın
+
+62
+00:04:15,270 --> 00:04:19,508
+hayatınızı kurtarabilmesi. Eğer gölgelerde gördüğünüz bir şeyin
+
+63
+00:04:19,509 --> 00:04:23,448
+bir tehlike mi yoksa sadece gölge mi olduğu hakkında şüpheliyseniz,
+
+64
+00:04:23,449 --> 00:04:27,519
+tehlikeymiş gibi davranmak avantajlı olabilir.
+
+65
+00:04:27,520 --> 00:04:30,769
+Sağlıklı bir Apofeni algısına sahip olan organizmalar,
+
+66
+00:04:30,770 --> 00:04:34,189
+daha uzun yaşar, çocuk sahibi olur ve onları büyütürler,
+
+67
+00:04:34,190 --> 00:04:37,829
+ve doğal olarak da standart bir örnek olurlar. Suratlarla o kadar
+
+68
+00:04:37,830 --> 00:04:41,969
+iyi bağdaşıyoruz ki, Hutson bize kaybetmek istemediği şeylerin, mesela çantalarının
+
+69
+00:04:41,970 --> 00:04:45,129
+üzerine suratlar çizen bir arkadaşının hikayesini anlatıyor.
+
+70
+00:04:45,130 --> 00:04:48,859
+Diyormuş ki, suratlar onun çantalarını unutma ihtimalini azaltıyormuş.
+
+71
+00:04:48,860 --> 00:04:53,529
+Yani onu seviyorsan, ona bir yüzük takmalıydın ve eğer onu kaybetmek istemiyorsan,
+
+72
+00:04:53,530 --> 00:04:55,649
+ona bir surat çizmeliydin.
+
+73
+00:04:55,650 --> 00:04:57,449
+Rastgele bir gürültüden bile
+
+74
+00:04:57,450 --> 00:05:00,819
+örüntüler ve suratlar çıkarmakta o kadar iyiyiz ki,
+
+75
+00:05:00,820 --> 00:05:04,179
+gerçekten rastgele olan bir dizi bile
+
+76
+00:05:04,180 --> 00:05:07,019
+bize rastgele gelmeyebiliyor.
+
+77
+00:05:07,020 --> 00:05:12,069
+Apple'ın iTunes rastgele karıştırma özelliği kullanıcılardan şikayetler aldı.
+
+78
+00:05:12,070 --> 00:05:15,699
+Benzer şarkıların veya aynı sanatçının farklı şarkılarının art arda
+
+79
+00:05:15,700 --> 00:05:20,259
+geldiğini söylediler, bu da rastgele bir diziden beklenebilecek bir şeydi
+
+80
+00:05:20,260 --> 00:05:22,419
+ama insana yeterince rastgele gelmiyordu.
+
+81
+00:05:22,420 --> 00:05:26,129
+Bunun üzerine Apple bir "akıllı" rastgele özelliği sundu,
+
+82
+00:05:26,130 --> 00:05:30,599
+amaç örüntüleri çok seven beyinlerimize rastgele gelmeyen,
+
+83
+00:05:30,600 --> 00:05:33,779
+ama aslında rastgele olan durumlardan kaçınmaktı.
+
+84
+00:05:33,780 --> 00:05:37,599
+Steve Jobs bunu şöyle açıkladı: "Bize daha rastgele gelsin diye,
+
+85
+00:05:37,600 --> 00:05:41,109
+özelliği daha az rastgele hale getiriyoruz."
+
+86
+00:05:41,110 --> 00:05:45,319
+Hayalimizde örüntü kurmadaki hayranlık verici yeteneklerimiz, şarkıları ve animasyonları
+
+87
+00:05:45,320 --> 00:05:48,279
+birbirine bağlarken de kendini gösteriyor.
+
+88
+00:05:48,280 --> 00:05:51,019
+Bu ünlü "dans eden Spider-Man" animasyonu, açtığınız
+
+89
+00:05:51,020 --> 00:05:55,719
+herhangi bir müziğin ritmine ayak uydurabiliyor.
+
+90
+00:05:55,720 --> 00:06:00,529
+Bir deneyin. Bu nasıl bir kara büyü böyle?
+
+91
+00:06:00,530 --> 00:06:04,479
+Şey, öğrendiğimize göre, aslında çoğu sadece bizim beynimizde bitiyor.
+
+92
+00:06:04,480 --> 00:06:07,899
+Radiolab diyor ki, Michigan State Üniversitesinin açıklamalarına göre,
+
+93
+00:06:07,900 --> 00:06:12,979
+dans eden animasyonların çoğunluğundaki hareketler, -bu veya bu animasyon gibi-
+
+94
+00:06:12,980 --> 00:06:17,059
+tipik şarkı tempolarında hareket ediyorlar, ama aynı zamanda çoğu dans gibi
+
+95
+00:06:17,060 --> 00:06:24,699
+farklı tempolara ayak uydurabiliyormuş gibi durmalarını sağlayan değişik, farklı hareket ritimlerine de sahipler.
+
+96
+00:06:24,700 --> 00:06:27,379
+Bunun başka bir nedeni de "seçilim önyargısı"
+
+97
+00:06:27,380 --> 00:06:30,979
+Animasyon şarkımıza istediğimiz gibi ayak uydurmadığı zaman bunu görmezden geldiğimizde de
+
+98
+00:06:30,980 --> 00:06:36,999
+bu önyargıya yenik düşüyoruz, ve daha çok müziğe uyduğu zamanlara odaklanmayı tercih ediyoruz.
+
+99
+00:06:37,000 --> 00:06:39,979
+Daha önce bahsettiğimiz tuhaf piramit tesadüfü,
+
+100
+00:06:39,980 --> 00:06:43,559
+ondalık hane noktasının aslında yanlış yerde olduğunu görünce
+
+101
+00:06:43,560 --> 00:06:45,819
+çok daha az "tuhaf" oluyor.
+
+102
+00:06:45,820 --> 00:06:50,749
+Ayrıca piramidin yerini belirlemek için bu kadar detaylı bir koordinata bile ihtiyacımız yok.
+
+103
+00:06:50,750 --> 00:06:54,319
+Virgülden sonra dördüncü basamaktan itibaren artık koordinatlar birkaç metreden bahsediyor,
+
+104
+00:06:54,320 --> 00:06:57,409
+yani geri kalanını da kolaylıkla ışığın hızına tam uyacak şekilde yazarsak
+
+105
+00:06:57,410 --> 00:07:00,519
+seçtiğimiz nokta hala piramidin içinde olacaktır.
+
+106
+00:07:00,520 --> 00:07:03,689
+Seçilim önyargısı işte burada da iş başında.
+
+107
+00:07:03,690 --> 00:07:06,909
+Eğer iki şeyin birbiriyle senkronize olmasını istiyorsanız,
+
+108
+00:07:06,910 --> 00:07:07,969
+olacaklardır.
+
+109
+00:07:07,970 --> 00:07:11,289
+Genelde inandığımız şeyleri haklı çıkaracak delilleri aramayı tercih eder
+
+110
+00:07:11,290 --> 00:07:14,289
+ve onunla uyuşmayan delilleri de köşeye iteriz.
+
+111
+00:07:14,290 --> 00:07:19,559
+Marshall McLuhan'ın dediği gibi, "Onu göremezdim, eğer ona inanmamış olsaydım."
+
+112
+00:07:19,560 --> 00:07:23,788
+Bu önyargılar bazen bize ünlü şarkılar ve ünlü albümlerin inanılmaz bir şekilde,
+
+113
+00:07:23,789 --> 00:07:27,319
+tesadüfen senkronize imiş gibi gelmelerini de açıklıyor.
+
+114
+00:07:27,320 --> 00:07:32,099
+Bunların en ünlü örneklerinden biri şu: Pink Floyd'dan "Dark Side of The Moon"
+
+115
+00:07:32,100 --> 00:07:36,579
+ve Oz Büyücüsü'nü aynı anda açarsanız, bir süre sonra ürkütücü bir şekilde senkronize hale gelecekler.
+
+116
+00:07:36,580 --> 00:07:40,939
+Albümlerin ve filmlerin "senkronize" olması etrafında oluşmuş büyük topluluklar var.
+
+117
+00:07:40,940 --> 00:07:43,989
+Benim favorilerimden bazıları Yellow Submarine film müziği
+
+118
+00:07:43,990 --> 00:07:48,559
+ve Küçük Denizkızı, Lorde'den Pure Heroine ve Twilight - Şafak Vakti 2
+
+119
+00:07:48,560 --> 00:07:52,168
+ve "2001,  Bir Uzay Destanı"nın sonu ile
+
+120
+00:07:52,169 --> 00:07:54,328
+Pink Floyd'dan "Echoes".
+
+121
+00:07:54,329 --> 00:07:59,019
+Bunların aslında gizlice planlanılarak yapılmış olduğuna dair komplo teorileri var,
+
+122
+00:07:59,020 --> 00:08:03,739
+Ama aslında bunlar yanlışlıkla birbirine uymuş müzik videoları.
+
+123
+00:08:03,740 --> 00:08:09,359
+Bunlar sadece Seçilim Önyargısı, Doğrulama Yanlılığı ve "Yeterince Uygun" kuralının sonuçları.
+
+124
+00:08:09,360 --> 00:08:12,279
+Örüntülere karşı duyarlı beyinlerimizin bir ürünü.
+
+125
+00:08:12,280 --> 00:08:15,959
+İki şey tam anlamıyla, tıpatıp birbirlerine uymasalar bile
+
+126
+00:08:15,960 --> 00:08:19,859
+bir bağlantı görebiliyoruz. Bu yüzden "psişik"miş gibi görünmek
+
+127
+00:08:19,860 --> 00:08:24,408
+için aşağı yukarı tahminler yeterli oluyor. Bu, sevdiğimiz ve
+
+128
+00:08:24,409 --> 00:08:28,209
+kullandığımız ritim ve tempoların, aslında olabilecek tempolarla
+
+129
+00:08:28,210 --> 00:08:31,819
+kıyaslandığında çok küçük bir aralığa denk geldiği düşünülünce,
+
+130
+00:08:31,820 --> 00:08:35,119
+aslında şaşılacak bir şey değil.
+
+131
+00:08:35,120 --> 00:08:38,769
+"Olanaksızlık Prensipi"nde David J. Hand bu duruma
+
+132
+00:08:38,770 --> 00:08:40,399
+"Olanak Manivelası" adını veriyor.
+
+133
+00:08:40,400 --> 00:08:42,939
+Normalde veya tüm durumu düşünürken
+
+134
+00:08:42,940 --> 00:08:45,519
+çok nadir gibi duran şeyler,
+
+135
+00:08:45,520 --> 00:08:48,789
+belirli senaryolar için çok da nadir olmayabilir,
+
+136
+00:08:48,790 --> 00:08:52,708
+aralarında çok az bir fark olsa bile. Birine yıldırım çarpması
+
+137
+00:08:52,709 --> 00:08:56,959
+şöyle bakarsak çok yaygın bir durum değil, ama Walter Summerford'a
+
+138
+00:08:56,960 --> 00:09:05,099
+hayatı boyunca bir kere değil, tam üç kere yıldırım çarptı. Ona ölümcül bir zarar vermediler ama
+
+139
+00:09:05,100 --> 00:09:07,229
+ölümünden dört yıl sonra,
+
+140
+00:09:07,230 --> 00:09:10,859
+mezar taşına da yıldırım çarptı.
+
+141
+00:09:10,860 --> 00:09:15,399
+Bunun olma olasılığı ne ki? Yani, Summerford şüphesiz şimşek çekicilerden
+
+142
+00:09:15,400 --> 00:09:19,109
+oluşan bir çeşit robot değildi, veya Zeus'u bir şekilde kızdırmamıştı,
+
+143
+00:09:19,110 --> 00:09:21,299
+değil mi?
+
+144
+00:09:21,300 --> 00:09:25,209
+Büyük ihtimalle değil. Ortalama bir insanı şimşek çarpma
+
+145
+00:09:25,210 --> 00:09:30,279
+ihtimali baya düşük olabilir, ama Summerford gibi hırslı bir açık alan sporcusu için,
+
+146
+00:09:30,280 --> 00:09:32,209
+çok da düşük değil.
+
+147
+00:09:32,210 --> 00:09:34,209
+"Gerçekten Büyük Sayılar" yasası
+
+148
+00:09:34,210 --> 00:09:35,739
+işte burada işin içine giriyor.
+
+149
+00:09:35,740 --> 00:09:40,619
+Her 40-50 saniyede bir Dünya'ya yıldırım düştüğünü düşünürsek, üstüne düşebileceği
+
+150
+00:09:40,620 --> 00:09:41,829
+milyarlarca insan varken,
+
+151
+00:09:41,830 --> 00:09:45,989
+ve kayda geçmiş binlerce yıllık bir tarihimiz varken, Summerford'un hikayesi gibi bir hikayenin
+
+152
+00:09:45,990 --> 00:09:50,859
+en azından bir kere meydana gelmesi çok da şaşırtıcı değil.
+
+153
+00:09:50,860 --> 00:09:53,189
+Her gün Disney World'e giden insanların
+
+154
+00:09:53,190 --> 00:09:58,179
+gerçekten çok fazla olduğunu ve orada gerçekten çok fazla fotoğraf çektiklerini düşünürsek,
+
+155
+00:09:58,180 --> 00:10:01,789
+Alex ve Donna Voutsinas'ınki gibi bir hikayenin de en azından bir kere
+
+156
+00:10:01,790 --> 00:10:06,079
+yaşanmış olması hiç de şaşırtıcı değil.
+
+157
+00:10:06,080 --> 00:10:10,319
+Düğünlerinden önce eski fotoğraflarını elden geçiren Alex ve Donna, çift tanışmadan 14 yıl önce,
+
+158
+00:10:10,320 --> 00:10:14,439
+Donna'nın Disney World'de çektirdiği bir fotoğraf buldular.
+
+159
+00:10:14,440 --> 00:10:19,899
+Ama sonra Alex de bir şey fark etti, o da küçükken Disney World'e gitmişti ve işte o da orada,
+
+160
+00:10:19,900 --> 00:10:23,719
+arkada, babasının ittiği bebek arabasındaydı.
+
+161
+00:10:23,720 --> 00:10:27,149
+Bazense tesadüfler trajik olabilir.
+
+162
+00:10:27,150 --> 00:10:30,759
+1864 yılında, Abraham Lincoln'un oğlu
+
+163
+00:10:30,760 --> 00:10:34,849
+Robert Lincoln, neredeyse tren raylarına düşecekken,
+
+164
+00:10:34,850 --> 00:10:37,909
+bir yabancının onu gömleğinin yakasından tutup çekmesiyle
+
+165
+00:10:37,910 --> 00:10:41,259
+ciddi yaralanmalardan, hatta belki de ölümden kurtuldu.
+
+166
+00:10:41,260 --> 00:10:45,269
+O yabancı, zamanın en ünlü Shakespeare aktörlerinden
+
+167
+00:10:45,270 --> 00:10:49,679
+biri olan Edwin Booth idi. Hatta Robert onu tanıdı
+
+168
+00:10:49,680 --> 00:10:55,639
+ona hayatını kurtardığı için teşekkür eden bir mektup gönderdi. Bir yıldan kısa bir süre sonra,
+
+169
+00:10:55,640 --> 00:11:00,299
+Edwin Booth'un kardeşi John Wilkes Booth, bu iyiliği geri aldı
+
+170
+00:11:00,300 --> 00:11:03,619
+ve Abraham Lincoln'e suikast düzenledi.
+
+171
+00:11:03,620 --> 00:11:05,159
+İlk başta ne kadar garip gözükseler de,
+
+172
+00:11:05,160 --> 00:11:10,839
+matematiğe göre yeterince zamanımız, ve psikolojiye göre de yeterince ilgimiz olursa,
+
+173
+00:11:10,840 --> 00:11:14,899
+tesadüfler ve bağlantılar, ne kadar muhtemel gözükmeseler de
+
+174
+00:11:14,900 --> 00:11:18,639
+bulunabilir. Abraham Lincoln ve John F. Kennedy'nin arasındaki
+
+175
+00:11:18,640 --> 00:11:22,039
+tesadüfler de bayağı ünlüdür.
+
+176
+00:11:22,040 --> 00:11:25,819
+İkisi de sonu -60'la biten yıllarda başkanlığa seçildiler.
+
+177
+00:11:25,820 --> 00:11:29,119
+Lincoln Ford Tiyatrosu'nda vurulmuştu,
+
+178
+00:11:29,120 --> 00:11:33,669
+Kennedy ise vurulduğunda 1961 model 4 kapılı bir Lincoln Continental'da idi,
+
+179
+00:11:33,670 --> 00:11:35,669
+bu da Ford tarafından yapılmıştı.
+
+180
+00:11:35,670 --> 00:11:38,109
+İki başkanın da soyadı 7 harfli,
+
+181
+00:11:38,110 --> 00:11:42,489
+ve iki suikastçinin ismi de 15 harfliydi.
+
+182
+00:11:42,490 --> 00:11:45,699
+Liste böyle uzuyor, ki uzar da.
+
+183
+00:11:45,700 --> 00:11:49,579
+Eğer yeterince ararsanız, herhangi iki insan, şey veya olay arasında
+
+184
+00:11:49,580 --> 00:11:51,349
+benzerlik bulabilirsiniz.
+
+185
+00:11:51,350 --> 00:11:55,939
+İlk bakışta tuhaf gözükseler bile genelde en sonunda tahmin edilebilir
+
+186
+00:11:55,940 --> 00:11:59,349
+hale gelirler. Örnek olarak,
+
+187
+00:11:59,350 --> 00:12:02,839
+bir ismin uzunluğu o kadar da değişken bir şey değil.
+
+188
+00:12:02,840 --> 00:12:06,269
+7 harften oluşan isimler baya yaygın, Lincoln,
+
+189
+00:12:06,270 --> 00:12:10,779
+Kennedy, Michael, Stevens...
+
+190
+00:12:10,780 --> 00:12:14,719
+Skeptical Inquirer tarafından 1992'de yapılan
+
+191
+00:12:14,720 --> 00:12:19,579
+Ünlü Ürkütücü Başkanlık Tesadüfleri yarışmasında, tek bir yarışmacı
+
+192
+00:12:19,580 --> 00:12:22,789
+tıpkı buna benzer çılgın benzerliklerden oluşan listeler yazdı,
+
+193
+00:12:22,790 --> 00:12:26,799
+hem de tam 21 çift eski Başkan arasında.
+
+194
+00:12:26,800 --> 00:12:30,589
+Hayatımızdaki detayların inanılmaz çokluğu düşünülürse,
+
+195
+00:12:30,590 --> 00:12:36,029
+bu gayet kolay bir şey. Bu konu aşırı incelemeye geldiğinde
+
+196
+00:12:36,030 --> 00:12:38,439
+komik olacak şekilde çürütülebilir.
+
+197
+00:12:38,440 --> 00:12:43,389
+Tabii ki, gizli mesaj ve semboller sadece eğlence olsun diye, veya dikkatli seyircileri
+
+198
+00:12:43,390 --> 00:12:46,569
+onurlandırmak için medyada kasten konulabilir.
+
+199
+00:12:46,570 --> 00:12:49,929
+Ama yine de kasıtsız, olağanüstü şeyler
+
+200
+00:12:49,930 --> 00:12:54,939
+her zaman oluyor. Aslında o kadar da olağanüstü değiller.
+
+201
+00:12:54,940 --> 00:12:56,649
+Bununla ilgili çok ünlü
+
+202
+00:12:56,650 --> 00:13:00,929
+bir hesaplama var: Littlewood's Yasası. Her gün uyanık olduğumuz
+
+203
+00:13:00,930 --> 00:13:05,999
+saatlerin sayısını ve bir olayın gerçekleşmesi için sadece birkaç saniye gerekli olduğunu düşünürsek,
+
+204
+00:13:06,000 --> 00:13:10,099
+başınıza gelebilecek herhangi bir olayı milyonda 1 olarak hesaplarsanız...
+
+205
+00:13:10,100 --> 00:13:16,479
+Bu olayın teorik olarak 35 günde bir başınıza gelmesi gerekir.
+
+206
+00:13:16,480 --> 00:13:21,239
+David J. Hand bu hesaplamayı biraz daha ileri taşıdı ve Dünya'daki 7 milyar insan ile,
+
+207
+00:13:21,240 --> 00:13:25,139
+başımıza gelme olasılığı milyonda bir olan bir olayın,
+
+208
+00:13:25,140 --> 00:13:29,379
+bugün herhangi birimizin başımıza GELMEME olasılığı,
+
+209
+00:13:29,380 --> 00:13:34,249
+10 üzeri 3040'ta 1. Persi Diaconis'in de dediği gibi
+
+210
+00:13:34,250 --> 00:13:40,619
+Asıl "tuhaf" bir gün, hiç "tuhaf" bir olay yaşanmayan bir gündür.
+
+211
+00:13:40,620 --> 00:13:41,759
+Ve her zamanki gibi,
+
+212
+00:13:41,760 --> 00:13:45,079
+izlediğiniz için teşekkürler.
+
+213
+00:13:45,080 --> 00:13:49,189
+Birçok Youtube kanalının bu hafta öğrenmeyle alakalı videolar yaptığını fark etmiş olabilirsiniz.
+
+214
+00:13:49,190 --> 00:13:53,979
+İşte bu bir tesadüf değil. Bu hafta Youtube'da okul haftası.
+
+215
+00:13:53,980 --> 00:13:57,349
+Şu an birçok kişi okula veya üniversiteye geri dönüyor,
+
+216
+00:13:57,350 --> 00:14:02,179
+ama dünyanın her yerinde milyonlarca çocuk... dönemiyor.
+
+217
+00:14:02,180 --> 00:14:04,499
+Belki ailelerini desteklemek için çalışmak zorundalar,
+
+218
+00:14:04,500 --> 00:14:08,119
+belki bir evleri yok, belki de savaşın olduğu yerlerde yaşıyorlar.
+
+219
+00:14:08,120 --> 00:14:11,459
+Belki okulda fazla kalabalıklar veya öğretecek insan
+
+220
+00:14:11,460 --> 00:14:15,309
+ve materyal eksik. Ama şanslıyız ki, biz onlara yardım edebiliriz.
+
+221
+00:14:15,310 --> 00:14:18,709
+Comic Relief'in Youtube Okulu kampanyasına yaptığınız bağışlar
+
+222
+00:14:18,710 --> 00:14:22,139
+dünyanın dört bir yanında dezavantajlı genç insanların bir
+
+223
+00:14:22,140 --> 00:14:25,389
+eğitim almasına yardımcı olabilir. Bir hayat değiştirmek o kadar zor değil.
+
+224
+00:14:25,390 --> 00:14:29,499
+Açıklama kısmında konu hakkında daha fazla şey öğrenebilir veya bağışta bulunabilirsiniz.
+
+225
+00:14:29,500 --> 00:14:33,100
+Ve her zamanki gibi, yardım ettiğiniz ve öğrendiğiniz için teşekkürler.
+

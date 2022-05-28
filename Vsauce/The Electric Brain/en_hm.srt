@@ -1,0 +1,3492 @@
+1
+00:00:06,072 --> 00:00:09,140
+The nervous system
+is fundamentally electric.
+
+2
+00:00:09,141 --> 00:00:10,375
+When we move our arm,
+
+3
+00:00:10,376 --> 00:00:11,676
+it moves because a signal
+
+4
+00:00:11,677 --> 00:00:13,211
+has been sent to the muscle
+
+5
+00:00:13,212 --> 00:00:14,512
+that controls it,
+
+6
+00:00:14,513 --> 00:00:16,414
+and that message
+is made of charged atoms
+
+7
+00:00:16,415 --> 00:00:19,150
+moving in and out
+of nerve cells.
+
+8
+00:00:19,151 --> 00:00:20,852
+It's electricity.
+
+9
+00:00:20,853 --> 00:00:22,554
+Now, because the brain
+is electric,
+
+10
+00:00:22,555 --> 00:00:24,756
+we could also use
+electricity to record
+
+11
+00:00:24,757 --> 00:00:26,524
+what the brain is doing
+
+12
+00:00:26,525 --> 00:00:28,860
+or bypass it entirely,
+
+13
+00:00:28,861 --> 00:00:31,629
+-and control a body.
+-[beep]
+
+14
+00:00:31,630 --> 00:00:33,865
+That means that
+we could use our minds
+
+15
+00:00:33,866 --> 00:00:36,334
+to move other people's bodies,
+
+16
+00:00:36,335 --> 00:00:38,736
+restore movement to people
+who are paralyzed,
+
+17
+00:00:38,737 --> 00:00:41,473
+feel through an artificial hand
+as if it was our own,
+
+18
+00:00:41,474 --> 00:00:44,776
+and even read people's minds.
+
+19
+00:00:44,777 --> 00:00:46,377
+Shocking!
+
+20
+00:00:46,378 --> 00:01:07,732
+[theme music playing]
+
+21
+00:01:07,733 --> 00:01:09,434
+Even though electricity
+
+22
+00:01:09,435 --> 00:01:10,635
+wasn't really understood
+
+23
+00:01:10,636 --> 00:01:12,237
+until the 1800s,
+
+24
+00:01:12,238 --> 00:01:14,405
+its ability
+to influence the body
+
+25
+00:01:14,406 --> 00:01:15,740
+had been known since at least
+
+26
+00:01:15,741 --> 00:01:17,308
+ancient Roman times,
+
+27
+00:01:17,309 --> 00:01:18,776
+when respected physician
+
+28
+00:01:18,777 --> 00:01:20,645
+Scribonius Largus
+
+29
+00:01:20,646 --> 00:01:21,779
+ wrote about a man
+
+30
+00:01:21,780 --> 00:01:23,348
+ who accidentally stepped
+
+31
+00:01:23,349 --> 00:01:24,816
+ on an electric fish
+
+32
+00:01:24,817 --> 00:01:27,785
+ and was suddenly relieved
+ of gout pain.
+
+33
+00:01:27,786 --> 00:01:29,487
+Scribonius did some experiments
+
+34
+00:01:29,488 --> 00:01:31,789
+and found that you could put
+an electric fish
+
+35
+00:01:31,790 --> 00:01:35,560
+ on your head
+ and relieve headaches.
+
+36
+00:01:35,561 --> 00:01:36,928
+In 1804,
+
+37
+00:01:36,929 --> 00:01:38,530
+centuries later,
+
+38
+00:01:38,531 --> 00:01:40,832
+ Italian physicist
+ Giovanni Aldini
+
+39
+00:01:40,833 --> 00:01:43,401
+ discovered he could make
+ people's muscles move
+
+40
+00:01:43,402 --> 00:01:45,170
+ with electricity.
+
+41
+00:01:45,171 --> 00:01:46,504
+He amazed the European world
+
+42
+00:01:46,505 --> 00:01:47,739
+by using electricity
+
+43
+00:01:47,740 --> 00:01:49,374
+to animate the corpse
+
+44
+00:01:49,375 --> 00:01:50,942
+of an executed criminal.
+
+45
+00:01:50,943 --> 00:01:53,211
+ The corpse opened its eyes
+
+46
+00:01:53,212 --> 00:01:55,547
+ and even seemed to sit up.
+
+47
+00:01:55,548 --> 00:01:59,284
+But Aldini wasn't just
+trying to shock people.
+
+48
+00:01:59,285 --> 00:02:01,452
+He was showing the world
+that neurons,
+
+49
+00:02:01,453 --> 00:02:02,887
+the cells that control both
+
+50
+00:02:02,888 --> 00:02:05,223
+our thoughts and our movements,
+
+51
+00:02:05,224 --> 00:02:07,725
+operate through electricity.
+
+52
+00:02:07,726 --> 00:02:17,702
+[buzzing]
+
+53
+00:02:17,703 --> 00:02:20,805
+Imagine bypassing
+a person's brain
+
+54
+00:02:20,806 --> 00:02:24,375
+so as to control their body.
+
+55
+00:02:24,376 --> 00:02:25,810
+Now normally
+when you move your body,
+
+56
+00:02:25,811 --> 00:02:27,812
+your brain sends
+electrical signals
+
+57
+00:02:27,813 --> 00:02:29,247
+through nerves.
+
+58
+00:02:29,248 --> 00:02:30,982
+But if we could use electrodes
+
+59
+00:02:30,983 --> 00:02:32,350
+to send those signals,
+
+60
+00:02:32,351 --> 00:02:34,519
+we could control
+a person's body
+
+61
+00:02:34,520 --> 00:02:36,287
+without needing their brain
+to be involved.
+
+62
+00:02:36,288 --> 00:02:38,323
+We could control them
+with a remote control,
+
+63
+00:02:38,324 --> 00:02:40,925
+and that's what
+we are about to do today
+
+64
+00:02:40,926 --> 00:02:49,334
+with cockroaches.
+
+65
+00:02:49,335 --> 00:02:51,769
+I'm here with Tim Marzullo
+from Backyard Brains,
+
+66
+00:02:51,770 --> 00:02:54,305
+and, Tim, you brought
+some cockroaches.
+
+67
+00:02:54,306 --> 00:02:56,608
+[Tim] Yes, Michael,
+cockroaches use their antenna
+
+68
+00:02:56,609 --> 00:02:58,643
+to sense their environment
+and move around,
+
+69
+00:02:58,644 --> 00:03:01,246
+and we're going to try
+to trick the cockroach
+
+70
+00:03:01,247 --> 00:03:02,847
+and control
+its movement
+
+71
+00:03:02,848 --> 00:03:04,716
+for a number
+of minutes.
+
+72
+00:03:04,717 --> 00:03:05,984
+Trick it, how do we trick it?
+
+73
+00:03:05,985 --> 00:03:08,853
+We are going to do a surgery
+on the cockroach
+
+74
+00:03:08,854 --> 00:03:10,688
+where we're going to hijack
+the nervous system
+
+75
+00:03:10,689 --> 00:03:12,590
+to send electrical impulses
+to their antenna.
+
+76
+00:03:12,591 --> 00:03:14,325
+[Michael] All right,
+well, let's get to it.
+
+77
+00:03:14,326 --> 00:03:16,027
+-[Tim] Let's do it.
+-[Michael] I've brought with me
+
+78
+00:03:16,028 --> 00:03:18,730
+today a state-of-the-art
+cockroach operating room.
+
+79
+00:03:18,731 --> 00:03:20,832
+Now, how do you do surgery
+on a cockroach?
+
+80
+00:03:20,833 --> 00:03:23,801
+We have a jar of ice water,
+and to induce anesthesia
+
+81
+00:03:23,802 --> 00:03:25,637
+we are going to put
+the cockroaches
+
+82
+00:03:25,638 --> 00:03:27,872
+in the ice water
+and their nervous system
+
+83
+00:03:27,873 --> 00:03:30,341
+will stop firing
+electrical impulses.
+
+84
+00:03:30,342 --> 00:03:32,343
+We'll notice after a minute
+or two they'll stop moving.
+
+85
+00:03:32,344 --> 00:03:34,412
+ [Michael] Once the roaches
+ were anesthetized,
+
+86
+00:03:34,413 --> 00:03:36,414
+ they were ready
+ for surgery.
+
+87
+00:03:36,415 --> 00:03:37,749
+[Tim] All right,
+so then now what we're gonna do
+
+88
+00:03:37,750 --> 00:03:39,484
+is attach the electrodes.
+
+89
+00:03:39,485 --> 00:03:40,718
+So here we have
+the little connector.
+
+90
+00:03:40,719 --> 00:03:42,420
+It has three wires.
+It has a ground wire,
+
+91
+00:03:42,421 --> 00:03:43,755
+and it has a wire
+for the left antenna
+
+92
+00:03:43,756 --> 00:03:45,556
+and the right antenna.
+
+93
+00:03:45,557 --> 00:03:47,558
+I'm going to put
+a little bead of Superglue
+
+94
+00:03:47,559 --> 00:03:49,327
+on the cockroach right here,
+
+95
+00:03:49,328 --> 00:03:51,462
+and then I'm just gonna
+stick the electrode
+
+96
+00:03:51,463 --> 00:03:53,998
+on the cockroach's head.
+
+97
+00:03:53,999 --> 00:03:56,334
+ [Michael] Next,
+ we inserted the ground wire
+
+98
+00:03:56,335 --> 00:03:58,703
+ into the flight muscle
+ of the wing.
+
+99
+00:03:58,704 --> 00:03:59,904
+-[Tim] There you go.
+-[Michael] Cool.
+
+100
+00:03:59,905 --> 00:04:01,472
+[Tim] I put the wire
+in the back.
+
+101
+00:04:01,473 --> 00:04:02,907
+[Michael]
+ The remaining two wires
+
+102
+00:04:02,908 --> 00:04:04,976
+ get inserted
+ into the antenna.
+
+103
+00:04:04,977 --> 00:04:06,711
+[Tim] Now I'm just
+gonna snip the antenna
+
+104
+00:04:06,712 --> 00:04:08,346
+right there and we...
+
+105
+00:04:08,347 --> 00:04:09,814
+[Michael] And now because
+it's a hollow tube...
+
+106
+00:04:09,815 --> 00:04:11,015
+...we can stick
+the wire in.
+
+107
+00:04:11,016 --> 00:04:12,917
+[Tim] So now,
+what I'm gonna do
+
+108
+00:04:12,918 --> 00:04:15,320
+is I'm just gonna insert it
+into the antenna.
+
+109
+00:04:15,321 --> 00:04:17,455
+-All right?
+-[Michael] Got it, wow.
+
+110
+00:04:17,456 --> 00:04:19,824
+[Tim] And he's ready
+for the left antenna.
+
+111
+00:04:19,825 --> 00:04:21,725
+There we go.
+It went right in there.
+
+112
+00:04:21,726 --> 00:04:23,061
+I'll put the cockroach
+
+113
+00:04:23,062 --> 00:04:25,630
+right back in the ice water.
+
+114
+00:04:25,631 --> 00:04:27,999
+Now it's worth pointing out
+what this does to them
+
+115
+00:04:28,000 --> 00:04:29,600
+and to their quality of life.
+
+116
+00:04:29,601 --> 00:04:30,868
+[Tim] Yeah, after the surgery
+
+117
+00:04:30,869 --> 00:04:32,070
+I'm gonna take them back
+to their homes,
+
+118
+00:04:32,071 --> 00:04:33,338
+snip the wires,
+and these cockroaches
+
+119
+00:04:33,339 --> 00:04:34,739
+will then be retired.
+
+120
+00:04:34,740 --> 00:04:36,474
+[Michael] And the antenna
+will grow back?
+
+121
+00:04:36,475 --> 00:04:39,377
+[Tim] Yes, and I will return
+them to our reproducing colony,
+
+122
+00:04:39,378 --> 00:04:40,678
+and they'll live happy
+cockroach lives
+
+123
+00:04:40,679 --> 00:04:42,046
+after the show.
+
+124
+00:04:42,047 --> 00:04:43,881
+-[Michael] Fantastic.
+-[Tim] All right.
+
+125
+00:04:43,882 --> 00:04:45,750
+-So now we're ready to go.
+-[Michael] Wonderful.
+
+126
+00:04:45,751 --> 00:04:48,653
+ Our cyber-roach
+ was now neurologically wired
+
+127
+00:04:48,654 --> 00:04:50,755
+ for external control.
+
+128
+00:04:50,756 --> 00:04:52,790
+[Michael] This is
+a state-of-the-art
+
+129
+00:04:52,791 --> 00:04:54,492
+roach racetrack.
+
+130
+00:04:54,493 --> 00:04:56,861
+Tim and I are about
+to take some robo-roaches
+
+131
+00:04:56,862 --> 00:04:58,129
+for a test drive.
+
+132
+00:04:58,130 --> 00:04:59,430
+But first, Tim,
+
+133
+00:04:59,431 --> 00:05:01,599
+I wanna see how
+an ordinary roach
+
+134
+00:05:01,600 --> 00:05:03,768
+moves around
+and uses its antenna.
+
+135
+00:05:03,769 --> 00:05:04,936
+[Tim] So let's just see
+where this guy goes.
+
+136
+00:05:04,937 --> 00:05:06,003
+He wants to explore my hand.
+
+137
+00:05:06,004 --> 00:05:07,538
+All right,
+and then, oh wow.
+
+138
+00:05:07,539 --> 00:05:08,873
+-Wow.
+-Racin' away.
+
+139
+00:05:08,874 --> 00:05:10,942
+And you can you see
+he's hugging that wall.
+
+140
+00:05:10,943 --> 00:05:13,578
+You can see he keeps tapping
+the wall and moving along.
+
+141
+00:05:13,579 --> 00:05:15,046
+He's not in the middle
+of the road,
+
+142
+00:05:15,047 --> 00:05:16,681
+-he's on the edge of it.
+-[Michael] Yeah.
+
+143
+00:05:16,682 --> 00:05:18,783
+ As we know,
+ roaches use their antennas
+
+144
+00:05:18,784 --> 00:05:20,618
+ to explore their surroundings
+
+145
+00:05:20,619 --> 00:05:23,020
+ and locate food and shelter.
+
+146
+00:05:23,021 --> 00:05:25,757
+ When no walls or obstacles
+ were sensed,
+
+147
+00:05:25,758 --> 00:05:27,158
+ the roaches felt free
+
+148
+00:05:27,159 --> 00:05:28,926
+ to move around at will.
+
+149
+00:05:28,927 --> 00:05:30,595
+-Hey, guys...
+-[Tim] Hey, whoa, whoa.
+
+150
+00:05:30,596 --> 00:05:31,696
+[Michael] follow the rules.
+
+151
+00:05:31,697 --> 00:05:33,498
+ It was time to test-drive
+
+152
+00:05:33,499 --> 00:05:35,400
+ our robo-roach.
+
+153
+00:05:35,401 --> 00:05:37,001
+[Michael] So this
+is the battery,
+
+154
+00:05:37,002 --> 00:05:38,803
+along with
+the Bluetooth device.
+
+155
+00:05:38,804 --> 00:05:40,438
+[Tim] And I'm just gonna plug
+them in right now.
+
+156
+00:05:40,439 --> 00:05:42,540
+[Michael] We're talking
+about actual voltages.
+
+157
+00:05:42,541 --> 00:05:44,575
+[Tim] Yes, because
+we are talking to the nerves
+
+158
+00:05:44,576 --> 00:05:46,411
+in a language that
+the nerves understand.
+
+159
+00:05:46,412 --> 00:05:48,012
+ [Michael] Tim has built an app
+
+160
+00:05:48,013 --> 00:05:49,480
+ that communicates
+ to the electrode
+
+161
+00:05:49,481 --> 00:05:50,715
+ on the roach's back.
+
+162
+00:05:50,716 --> 00:05:51,916
+ When we swipe right,
+
+163
+00:05:51,917 --> 00:05:53,551
+ the electrode sends a signal
+
+164
+00:05:53,552 --> 00:05:54,952
+ to the roach's left antenna,
+
+165
+00:05:54,953 --> 00:05:57,555
+ stimulating the sensation
+ of an obstacle
+
+166
+00:05:57,556 --> 00:05:59,724
+ on its left
+ which causes the roach
+
+167
+00:05:59,725 --> 00:06:02,126
+ to move right and vice versa.
+
+168
+00:06:02,127 --> 00:06:03,728
+Which way should we go,
+left or right?
+
+169
+00:06:03,729 --> 00:06:04,896
+I think we should go left.
+
+170
+00:06:04,897 --> 00:06:07,198
+Left. Whoa.
+
+171
+00:06:07,199 --> 00:06:08,866
+-[Tim] Okay, well, that's...
+-[Michael] Doing donuts.
+
+172
+00:06:08,867 --> 00:06:10,701
+All right, that was
+a little bit too high.
+
+173
+00:06:10,702 --> 00:06:12,870
+[Michael] We adjusted
+ the intensity of the signal
+
+174
+00:06:12,871 --> 00:06:15,072
+ to find the optimal setting.
+
+175
+00:06:15,073 --> 00:06:17,775
+All right, now, I'm gonna try
+to get him to turn right,
+
+176
+00:06:17,776 --> 00:06:19,110
+go back through the factory.
+
+177
+00:06:19,111 --> 00:06:20,645
+-[Tim] Oh.
+-[Michael] Good job.
+
+178
+00:06:20,646 --> 00:06:21,979
+-[Tim] Okay, very good.
+-[Michael] Good job.
+
+179
+00:06:21,980 --> 00:06:24,549
+Now he doesn't know
+if there's a road,
+
+180
+00:06:24,550 --> 00:06:26,584
+so I'm gonna have to tell him
+to kind of keep going
+
+181
+00:06:26,585 --> 00:06:28,152
+-to the right, good.
+-[Tim] Okay, very good.
+
+182
+00:06:28,153 --> 00:06:30,221
+-[Michael]
+ Yeah, good, come here.
+-All right, where is he?
+
+183
+00:06:30,222 --> 00:06:31,789
+Did he just-- he wants to go
+to the hot air balloon?
+
+184
+00:06:31,790 --> 00:06:33,124
+He wants to go
+to the hot air balloon,
+
+185
+00:06:33,125 --> 00:06:35,226
+but I would rather
+he go to work
+
+186
+00:06:35,227 --> 00:06:36,794
+at the factory,
+so I'm gonna-- I'm gonna...
+
+187
+00:06:36,795 --> 00:06:37,995
+He's like,
+"I'll go back to work."
+
+188
+00:06:37,996 --> 00:06:39,464
+[Michael] I'm gonna swipe left.
+
+189
+00:06:39,465 --> 00:06:41,732
+-[Tim] Okay.
+-There, good. All right, left.
+
+190
+00:06:41,733 --> 00:06:43,034
+-[Tim] Very good.
+-[Michael] Now right.
+
+191
+00:06:43,035 --> 00:06:45,069
+-[Tim] Ooh. All right.
+-[Michael] Good.
+
+192
+00:06:45,070 --> 00:06:47,004
+-[Michael] All right,
+ watch this. And turn right.
+-[Tim] Okay.
+
+193
+00:06:47,005 --> 00:06:48,206
+[Michael] Good, good, good.
+Turn right.
+
+194
+00:06:48,207 --> 00:06:49,874
+[Tim] All right,
+turns a little bit.
+
+195
+00:06:49,875 --> 00:06:51,576
+-[Michael] Turn right, oh.
+-[Tim] Oh, you see
+
+196
+00:06:51,577 --> 00:06:53,177
+-he adapts over time.
+-[Michael] He adapts over time.
+
+197
+00:06:53,178 --> 00:06:54,812
+So we are taking away
+
+198
+00:06:54,813 --> 00:06:56,814
+their autonomous control
+of their body.
+
+199
+00:06:56,815 --> 00:06:58,816
+We're just causing
+them to think
+
+200
+00:06:58,817 --> 00:07:01,252
+they should decide to move
+one way or the other.
+
+201
+00:07:01,253 --> 00:07:04,155
+[Tim] Yeah, some people
+used to be sort of scared
+
+202
+00:07:04,156 --> 00:07:05,890
+that we're on
+the slippery slope
+
+203
+00:07:05,891 --> 00:07:08,259
+where I'm gonna control
+a whole humanity
+
+204
+00:07:08,260 --> 00:07:10,795
+with my electrical stimulation,
+but you can see that
+
+205
+00:07:10,796 --> 00:07:12,530
+there's so many other sensory
+signals that the cockroach
+
+206
+00:07:12,531 --> 00:07:14,131
+is receiving,
+that we're competing with.
+
+207
+00:07:14,132 --> 00:07:16,801
+-So, Tim, this was very cool...
+-[Tim] Uh-huh.
+
+208
+00:07:16,802 --> 00:07:18,169
+-a little bit weird.
+-[Tim] Uh-huh.
+
+209
+00:07:18,170 --> 00:07:19,737
+I didn't feel
+totally comfortable
+
+210
+00:07:19,738 --> 00:07:21,706
+controlling
+a living organism.
+
+211
+00:07:21,707 --> 00:07:23,140
+-Uh-huh.
+-But there's something here
+
+212
+00:07:23,141 --> 00:07:25,109
+that's, that's really
+important for the future
+
+213
+00:07:25,110 --> 00:07:26,978
+of understanding brains.
+
+214
+00:07:26,979 --> 00:07:28,846
+[Tim] Sure,
+we use this technology
+
+215
+00:07:28,847 --> 00:07:32,216
+in biomedical applications,
+such as cochlear implants,
+
+216
+00:07:32,217 --> 00:07:34,752
+and deep brain stimulation
+to treat Parkinson's.
+
+217
+00:07:34,753 --> 00:07:37,555
+But things such as
+consciousness and attention
+
+218
+00:07:37,556 --> 00:07:40,558
+and will are currently
+really at the cutting edge
+
+219
+00:07:40,559 --> 00:07:41,726
+of neuroscience research.
+
+220
+00:07:41,727 --> 00:07:43,160
+How do you
+make decisions?
+
+221
+00:07:43,161 --> 00:07:44,829
+The wonderful thing
+about, uh,
+
+222
+00:07:44,830 --> 00:07:54,939
+neuroscience is
+that it's wide open.
+
+223
+00:07:54,940 --> 00:07:56,674
+[Michael]
+ In the very near future,
+
+224
+00:07:56,675 --> 00:07:59,644
+ cyber cockroaches
+ could actually save lives.
+
+225
+00:07:59,645 --> 00:08:01,712
+ Researchers at Texas A&M
+
+226
+00:08:01,713 --> 00:08:04,048
+ and North Carolina
+ State University
+
+227
+00:08:04,049 --> 00:08:06,150
+ are developing
+ a groundbreaking use
+
+228
+00:08:06,151 --> 00:08:09,887
+ for robo-roaches in search
+ and rescue missions.
+
+229
+00:08:09,888 --> 00:08:11,756
+ Instead of installing wires
+
+230
+00:08:11,757 --> 00:08:13,057
+ in the roach's antennae,
+
+231
+00:08:13,058 --> 00:08:14,892
+ they're implanting receptors
+
+232
+00:08:14,893 --> 00:08:17,028
+ in the bug's
+ actual nervous systems
+
+233
+00:08:17,029 --> 00:08:19,797
+ to insure
+ a longer-term effect.
+
+234
+00:08:19,798 --> 00:08:22,567
+ The plan is to release
+ a swarm of robo-roaches
+
+235
+00:08:22,568 --> 00:08:23,968
+ into a disaster area
+
+236
+00:08:23,969 --> 00:08:25,636
+ like a collapsed building.
+
+237
+00:08:25,637 --> 00:08:27,271
+ As the roaches explore,
+
+238
+00:08:27,272 --> 00:08:30,074
+ they'll send images
+ and data back to a computer
+
+239
+00:08:30,075 --> 00:08:32,176
+ which creates a detailed 3D map
+
+240
+00:08:32,177 --> 00:08:34,211
+ of the disaster zone.
+
+241
+00:08:34,212 --> 00:08:36,747
+ If the cyber-bugs stray
+ from the search area,
+
+242
+00:08:36,748 --> 00:08:38,615
+ their nerves get stimulated
+
+243
+00:08:38,616 --> 00:08:39,683
+ to steer them back in.
+
+244
+00:08:39,684 --> 00:08:41,652
+ If a roach detects a survivor,
+
+245
+00:08:41,653 --> 00:08:43,254
+ a signal is sent back
+
+246
+00:08:43,255 --> 00:08:45,723
+ with the victim's location.
+
+247
+00:08:45,724 --> 00:08:48,259
+ While a real world test
+ has not been done yet,
+
+248
+00:08:48,260 --> 00:08:50,328
+ scientists hope to do so
+
+249
+00:08:50,329 --> 00:08:53,197
+ within the next 10 years.
+
+250
+00:08:53,198 --> 00:08:54,899
+ Meanwhile, the same technology
+
+251
+00:08:54,900 --> 00:08:56,901
+ used to cyber-hack cockroaches
+
+252
+00:08:56,902 --> 00:09:04,709
+ can also be used on humans.
+
+253
+00:09:04,710 --> 00:09:08,079
+Now, Tim,
+when I move my arm,
+
+254
+00:09:08,080 --> 00:09:09,847
+my brain is sending
+electrical signals
+
+255
+00:09:09,848 --> 00:09:12,049
+to my muscles
+and they respond to that,
+
+256
+00:09:12,050 --> 00:09:14,285
+and they contract,
+and they release.
+
+257
+00:09:14,286 --> 00:09:17,855
+But you are about
+to use a battery
+
+258
+00:09:17,856 --> 00:09:19,624
+to electrically
+stimulate my muscles.
+
+259
+00:09:19,625 --> 00:09:21,225
+Sure, sure.
+
+260
+00:09:21,226 --> 00:09:23,327
+[Michael] A human's
+ nervous system can be hacked
+
+261
+00:09:23,328 --> 00:09:25,696
+ with no surgery required.
+
+262
+00:09:25,697 --> 00:09:27,965
+ Tim attached electrodes
+ to my forearm,
+
+263
+00:09:27,966 --> 00:09:30,001
+ which communicated
+ via Bluetooth
+
+264
+00:09:30,002 --> 00:09:32,003
+ to an app on his iPad.
+
+265
+00:09:32,004 --> 00:09:33,871
+[Tim] So I'm gonna amplify
+the signals
+
+266
+00:09:33,872 --> 00:09:35,206
+of your muscle activity.
+
+267
+00:09:35,207 --> 00:09:37,408
+So, every time a neuron
+talks to the muscle,
+
+268
+00:09:37,409 --> 00:09:39,076
+the muscle fires
+an electrical impulse
+
+269
+00:09:39,077 --> 00:09:40,745
+like the neurons.
+
+270
+00:09:40,746 --> 00:09:42,647
+So we can see
+these electrical impulses
+right here.
+
+271
+00:09:42,648 --> 00:09:44,048
+So what I want you to do
+
+272
+00:09:44,049 --> 00:09:45,983
+-is contract.
+-[Michael grunts] Oh, yeah.
+
+273
+00:09:45,984 --> 00:09:47,351
+[Tim] All right,
+so there you go,
+you can see the impulses
+
+274
+00:09:47,352 --> 00:09:49,420
+-occurring in your...
+-Watch this.
+
+275
+00:09:49,421 --> 00:09:50,888
+[Tim] So that whoosh
+is the sound
+
+276
+00:09:50,889 --> 00:09:52,323
+of many muscle
+fibers firing...
+
+277
+00:09:52,324 --> 00:09:54,091
+-[Michael] Many, many.
+-firing action potentials
+
+278
+00:09:54,092 --> 00:09:56,227
+because neurons are synapsing
+on those muscles
+
+279
+00:09:56,228 --> 00:09:57,928
+when you are deciding
+to move your body.
+
+280
+00:09:57,929 --> 00:09:59,897
+Let me passively move
+your hand.
+
+281
+00:09:59,898 --> 00:10:02,400
+We don't see that much activity,
+maybe some stretch activity,
+
+282
+00:10:02,401 --> 00:10:03,934
+but now resist me.
+
+283
+00:10:03,935 --> 00:10:05,336
+-Now there's no movement...
+-[Michael] Wow.
+
+284
+00:10:05,337 --> 00:10:06,904
+but we're seeing
+electrical activity
+
+285
+00:10:06,905 --> 00:10:08,239
+because it's due
+to contraction.
+
+286
+00:10:08,240 --> 00:10:09,340
+So what's cool
+about this
+
+287
+00:10:09,341 --> 00:10:10,708
+is that because
+you are making
+
+288
+00:10:10,709 --> 00:10:12,977
+voluntary movements
+with your brain,
+
+289
+00:10:12,978 --> 00:10:15,913
+we can exploit these
+muscle contractions
+
+290
+00:10:15,914 --> 00:10:17,248
+and use it
+to control robotics.
+
+291
+00:10:17,249 --> 00:10:19,083
+[Michael] Okay, so, Tim,
+this is all really cool,
+
+292
+00:10:19,084 --> 00:10:21,118
+but the real reason
+I invited you here today
+
+293
+00:10:21,119 --> 00:10:22,820
+and told you to bring
+all of this is that
+
+294
+00:10:22,821 --> 00:10:25,690
+I want to control
+another human. Alie?
+
+295
+00:10:25,691 --> 00:10:27,458
+-Hi, Michael.
+-Thanks for coming.
+
+296
+00:10:27,459 --> 00:10:29,960
+So, Alie, you might be
+a little apprehensive now
+
+297
+00:10:29,961 --> 00:10:31,295
+after hearing
+what I just said, but...
+
+298
+00:10:31,296 --> 00:10:32,963
+Yeah, yeah, I heard you.
+
+299
+00:10:32,964 --> 00:10:35,299
+This is for science,
+and it's gonna go both ways.
+
+300
+00:10:35,300 --> 00:10:37,368
+I'm gonna let you control
+my arm as well. You ready?
+
+301
+00:10:37,369 --> 00:10:39,136
+Okay. Wait, I'm going
+first, though?
+
+302
+00:10:39,137 --> 00:10:41,772
+You're gonna go first,
+I think that's important, yes.
+
+303
+00:10:41,773 --> 00:10:43,908
+-For...
+-For randomization.
+
+304
+00:10:43,909 --> 00:10:45,342
+-[Alie] Okay.
+-I flipped a coin earlier
+
+305
+00:10:45,343 --> 00:10:47,211
+that no one saw,
+but it happened.
+
+306
+00:10:47,212 --> 00:10:50,448
+ Alie Ward
+ from the Ologies podcast
+
+307
+00:10:50,449 --> 00:10:52,116
+ was brave enough to let me test
+
+308
+00:10:52,117 --> 00:10:54,385
+ how the brain sends signals
+ to the body,
+
+309
+00:10:54,386 --> 00:10:58,055
+ in this case
+ my brain sending signals
+
+310
+00:10:58,056 --> 00:11:00,291
+ to move her body.
+
+311
+00:11:00,292 --> 00:11:01,959
+ And we've placed
+ a screen between us
+
+312
+00:11:01,960 --> 00:11:04,061
+ so she can't see
+ when I make a move
+
+313
+00:11:04,062 --> 00:11:06,464
+ that sends the signal.
+
+314
+00:11:06,465 --> 00:11:08,065
+All right, let's do it.
+So, Michael.
+
+315
+00:11:08,066 --> 00:11:10,267
+Okay. Should I contract
+like softly or firmly?
+
+316
+00:11:10,268 --> 00:11:11,869
+-Just go all the way
+ like that, yes.
+-All the way?
+
+317
+00:11:11,870 --> 00:11:14,138
+-Okay, here we go.
+-All right.
+
+318
+00:11:14,139 --> 00:11:16,107
+-Did you feel anything?
+-Not yet, no.
+
+319
+00:11:16,108 --> 00:11:17,308
+-I'm not strong enough.
+-Okay, I'm gonna turn it up
+
+320
+00:11:17,309 --> 00:11:18,876
+-a little bit, okay?
+-[Alie] Okay, yeah.
+
+321
+00:11:18,877 --> 00:11:20,511
+It feels like pins and needles
+a little bit.
+
+322
+00:11:20,512 --> 00:11:22,046
+[Tim] Okay. You're at two.
+I'm gonna turn up to four, okay?
+
+323
+00:11:22,047 --> 00:11:23,481
+-[Alie] All right.
+-Okay.
+
+324
+00:11:23,482 --> 00:11:24,949
+Now contract,
+Michael.
+
+325
+00:11:24,950 --> 00:11:27,818
+Ah!
+
+326
+00:11:27,819 --> 00:11:30,020
+That was really, really,
+really weird.
+
+327
+00:11:30,021 --> 00:11:32,323
+-[Tim] Contract.
+-Oh, that's really weird.
+
+328
+00:11:32,324 --> 00:11:34,191
+-[Tim] Okay.
+-This is really weird.
+
+329
+00:11:34,192 --> 00:11:36,360
+Oh, that's-- I'd--
+I'm still not over that.
+
+330
+00:11:36,361 --> 00:11:38,529
+It feels like, uh,
+I'm a marionette
+
+331
+00:11:38,530 --> 00:11:40,831
+and there's just strings
+being tugged.
+
+332
+00:11:40,832 --> 00:11:43,134
+[Michael] For the sake
+ of science, it was only fair
+
+333
+00:11:43,135 --> 00:11:46,370
+ that I give Alie a turn
+ at the controls.
+
+334
+00:11:46,371 --> 00:11:47,805
+ But I also wanted to know
+
+335
+00:11:47,806 --> 00:11:49,273
+ what it was like
+ to have someone
+
+336
+00:11:49,274 --> 00:11:51,208
+ control my movements.
+
+337
+00:11:51,209 --> 00:11:53,477
+All right, now while
+Alie controls my body,
+
+338
+00:11:53,478 --> 00:11:56,113
+I thought it would be nice
+to maybe enjoy some hot,
+
+339
+00:11:56,114 --> 00:11:57,848
+bright-red tomato soup
+
+340
+00:11:57,849 --> 00:11:59,483
+and a nice glass
+of grape juice.
+
+341
+00:11:59,484 --> 00:12:02,319
+I might even do some writing,
+[scoffs] multitasking.
+
+342
+00:12:02,320 --> 00:12:06,023
+So, um, can we try out
+the strength,
+
+343
+00:12:06,024 --> 00:12:07,391
+uh, just, like, get
+a bit of a sense
+
+344
+00:12:07,392 --> 00:12:08,793
+-of what's gonna happen to me?
+-All right.
+
+345
+00:12:08,794 --> 00:12:10,027
+So, I'll put it
+really low at a two.
+
+346
+00:12:10,028 --> 00:12:11,195
+-[Michael] Good, yeah.
+-[Tim] Okay.
+
+347
+00:12:11,196 --> 00:12:13,197
+And, uh, okay,
+now contract, Alie.
+
+348
+00:12:13,198 --> 00:12:14,832
+All right.
+
+349
+00:12:14,833 --> 00:12:16,967
+-Ah, okay, yup, I felt it.
+-Contract again.
+
+350
+00:12:16,968 --> 00:12:18,169
+-I felt...
+-Okay. Did you feel that?
+
+351
+00:12:18,170 --> 00:12:19,336
+-Yes.
+-[Tim] All right, now,
+
+352
+00:12:19,337 --> 00:12:20,971
+I'm gonna turn it up
+to a four.
+
+353
+00:12:20,972 --> 00:12:23,107
+Okay.
+
+354
+00:12:23,108 --> 00:12:24,408
+All right,
+now contract.
+
+355
+00:12:24,409 --> 00:12:27,111
+-You ready?
+-Yup.
+
+356
+00:12:27,112 --> 00:12:29,914
+[laughter]
+
+357
+00:12:29,915 --> 00:12:31,115
+Wow.
+
+358
+00:12:31,116 --> 00:12:32,449
+That's, um,
+
+359
+00:12:32,450 --> 00:12:35,219
+that's not me moving my arm.
+
+360
+00:12:35,220 --> 00:12:37,121
+Or the rest of your
+entire body responds.
+
+361
+00:12:37,122 --> 00:12:38,989
+[Michael] Well-- yeah,
+I'm a jumpy person,
+
+362
+00:12:38,990 --> 00:12:40,391
+so you're gonna get
+a lot more out of me.
+
+363
+00:12:40,392 --> 00:12:43,294
+-Okay.
+-[Michael] Now, please
+
+364
+00:12:43,295 --> 00:12:45,496
+don't control me
+
+365
+00:12:45,497 --> 00:12:47,998
+while I just take a nice,
+relaxing sip of...
+
+366
+00:12:47,999 --> 00:12:51,135
+[Alie chuckles]
+
+367
+00:12:51,136 --> 00:12:52,970
+[Tim] I'll turn it up
+to five and a half.
+
+368
+00:12:52,971 --> 00:12:55,573
+[Michael] Okay, I'm just
+gonna take a nice little,
+
+369
+00:12:55,574 --> 00:13:00,611
+uh, taste of this soup.
+
+370
+00:13:00,612 --> 00:13:03,447
+This is so mean.
+I love it. [chuckles]
+
+371
+00:13:03,448 --> 00:13:07,184
+The meanest part is that
+this is very lukewarm soup.
+
+372
+00:13:07,185 --> 00:13:11,422
+All right. Now, just let me
+please eat in peace.
+
+373
+00:13:11,423 --> 00:13:13,190
+-I'm sorry.
+-[Michael] All right,
+
+374
+00:13:13,191 --> 00:13:14,992
+I'm gonna take a break
+and write something.
+
+375
+00:13:14,993 --> 00:13:16,293
+I'll leave you alone,
+I'll leave you alone.
+
+376
+00:13:16,294 --> 00:13:21,265
+Okay.
+
+377
+00:13:21,266 --> 00:13:22,533
+[groans]
+
+378
+00:13:22,534 --> 00:13:25,002
+I'm try--
+I can resist it, but...
+
+379
+00:13:25,003 --> 00:13:27,104
+ Like the cockroaches,
+ my body was learning
+
+380
+00:13:27,105 --> 00:13:30,207
+ to adapt to the signal.
+
+381
+00:13:30,208 --> 00:13:35,079
+To science.
+
+382
+00:13:35,080 --> 00:13:46,657
+That's the beauty
+of electrophysiology.
+
+383
+00:13:46,658 --> 00:13:48,025
+Of course the fact that our
+neurons
+
+384
+00:13:48,026 --> 00:13:49,393
+work through electricity
+
+385
+00:13:49,394 --> 00:13:51,962
+means that we can also
+record from them,
+
+386
+00:13:51,963 --> 00:13:54,431
+and that has amazing
+medical applications.
+
+387
+00:13:54,432 --> 00:13:57,301
+The electroencephalogram,
+or EEG,
+
+388
+00:13:57,302 --> 00:13:58,969
+came about in the 1920s,
+
+389
+00:13:58,970 --> 00:14:01,071
+ allowing doctors to see
+ some of the brain's
+
+390
+00:14:01,072 --> 00:14:03,974
+ electrical signals
+ as visible brain waves.
+
+391
+00:14:03,975 --> 00:14:05,442
+ But by the 1980s,
+
+392
+00:14:05,443 --> 00:14:07,678
+scientists realized
+that for some tasks,
+
+393
+00:14:07,679 --> 00:14:09,914
+like the dream of allowing
+paralyzed patients
+
+394
+00:14:09,915 --> 00:14:11,348
+to move a robotic arm,
+
+395
+00:14:11,349 --> 00:14:13,317
+you need a much richer
+brain signal.
+
+396
+00:14:13,318 --> 00:14:14,418
+ That's because moving an arm
+
+397
+00:14:14,419 --> 00:14:16,220
+ requires a lot of information.
+
+398
+00:14:16,221 --> 00:14:18,255
+ You need information
+ for how to move your upper arm,
+
+399
+00:14:18,256 --> 00:14:19,657
+ your forearm, your hand,
+
+400
+00:14:19,658 --> 00:14:22,026
+ your fingers,
+ all through 3D space.
+
+401
+00:14:22,027 --> 00:14:24,528
+EEG just doesn't carry enough
+information to do that,
+
+402
+00:14:24,529 --> 00:14:26,463
+since the electrical signals
+it picks up
+
+403
+00:14:26,464 --> 00:14:28,432
+get distorted
+after they make their way
+
+404
+00:14:28,433 --> 00:14:30,334
+through our skull and skin.
+
+405
+00:14:30,335 --> 00:14:32,937
+So, if you wanted to control
+a prosthetic limb
+
+406
+00:14:32,938 --> 00:14:35,539
+with just your mind,
+researchers realized
+
+407
+00:14:35,540 --> 00:14:39,076
+you'd need to record
+directly from the brain.
+
+408
+00:14:39,077 --> 00:14:40,344
+And in 2006,
+
+409
+00:14:40,345 --> 00:14:42,479
+scientists finally
+did just that.
+
+410
+00:14:42,480 --> 00:14:44,181
+ They implanted an electrode
+
+411
+00:14:44,182 --> 00:14:46,016
+ in the brain
+ of a paralyzed human
+
+412
+00:14:46,017 --> 00:14:47,518
+ for the very first time.
+
+413
+00:14:47,519 --> 00:14:49,320
+ And since that
+ first test patient,
+
+414
+00:14:49,321 --> 00:14:50,955
+ several paralyzed patients
+
+415
+00:14:50,956 --> 00:14:52,389
+ have received brain implants
+
+416
+00:14:52,390 --> 00:14:54,458
+ that allow them
+ to control robotic arms
+
+417
+00:14:54,459 --> 00:14:56,093
+ with their minds.
+
+418
+00:14:56,094 --> 00:14:59,163
+ As our understanding
+ of the brain grows
+
+419
+00:14:59,164 --> 00:15:00,497
+ and our computers get better
+
+420
+00:15:00,498 --> 00:15:02,633
+ at decoding signals
+ from the brain,
+
+421
+00:15:02,634 --> 00:15:05,970
+ these patients are gaining
+ finer and finer control
+
+422
+00:15:05,971 --> 00:15:08,372
+ over these robotic arms.
+
+423
+00:15:08,373 --> 00:15:11,375
+ Recently, science has taken
+ a big leap forward
+
+424
+00:15:11,376 --> 00:15:13,243
+ from allowing
+ paralyzed patients
+
+425
+00:15:13,244 --> 00:15:15,446
+ to control robotic limbs
+
+426
+00:15:15,447 --> 00:15:18,382
+ to giving them control
+ of their own limbs.
+
+427
+00:15:18,383 --> 00:15:21,618
+ I traveled
+ to Ohio State University
+
+428
+00:15:21,619 --> 00:15:24,555
+ to meet one of those patients,
+ Ian Burkhart.
+
+429
+00:15:24,556 --> 00:15:27,191
+ At 19, while vacationing
+ with friends,
+
+430
+00:15:27,192 --> 00:15:29,326
+ Ian dove into a wave
+ at the beach
+
+431
+00:15:29,327 --> 00:15:31,495
+ and broke his neck
+ on the sandy floor,
+
+432
+00:15:31,496 --> 00:15:35,199
+ leaving him paralyzed
+ from the chest down.
+
+433
+00:15:35,200 --> 00:15:36,700
+[Ian] I knew as soon as I hit
+
+434
+00:15:36,701 --> 00:15:38,135
+that I was paralyzed.
+
+435
+00:15:38,136 --> 00:15:40,170
+And I was floating
+face-down in the water
+
+436
+00:15:40,171 --> 00:15:42,039
+-and could not get up.
+-Could you...
+
+437
+00:15:42,040 --> 00:15:43,474
+[Ian] I couldn't move
+anything at all.
+
+438
+00:15:43,475 --> 00:15:45,743
+ You go from being 19
+ and independent,
+
+439
+00:15:45,744 --> 00:15:48,012
+ living on your own
+ in college, to now.
+
+440
+00:15:48,013 --> 00:15:49,713
+ I need help doing everything
+
+441
+00:15:49,714 --> 00:15:52,649
+ from eating to going
+ to the bathroom,
+
+442
+00:15:52,650 --> 00:15:55,219
+ sitting up,
+ getting into my wheelchair.
+
+443
+00:15:55,220 --> 00:15:56,587
+ I can move my shoulders
+ pretty well,
+
+444
+00:15:56,588 --> 00:15:58,022
+can move my biceps
+that allow me
+
+445
+00:15:58,023 --> 00:15:59,156
+to move my arms
+a little bit,
+
+446
+00:15:59,157 --> 00:16:01,058
+but nothing
+from my biceps down.
+
+447
+00:16:01,059 --> 00:16:03,427
+[Michael] The doctors
+ at Ohio State had approached
+
+448
+00:16:03,428 --> 00:16:06,530
+ Ian about a revolutionary
+ experimental treatment
+
+449
+00:16:06,531 --> 00:16:08,298
+ developed by Battelle,
+
+450
+00:16:08,299 --> 00:16:09,533
+ a research
+ and development firm
+
+451
+00:16:09,534 --> 00:16:11,235
+ using cutting-edge technology
+
+452
+00:16:11,236 --> 00:16:12,636
+ called NeuroLife.
+
+453
+00:16:12,637 --> 00:16:14,538
+ They wanted to implant a chip
+
+454
+00:16:14,539 --> 00:16:16,206
+ in Ian's motor cortex,
+
+455
+00:16:16,207 --> 00:16:18,575
+ which would allow him
+ to move his hand again
+
+456
+00:16:18,576 --> 00:16:21,812
+ while he was connected
+ to a computer in the lab.
+
+457
+00:16:21,813 --> 00:16:24,681
+ I was invited
+ to the Wexner Medical Center
+
+458
+00:16:24,682 --> 00:16:27,351
+ at Ohio State University
+ to meet the researchers
+
+459
+00:16:27,352 --> 00:16:30,154
+ and witness this cutting-edge
+ work in action.
+
+460
+00:16:30,155 --> 00:16:32,823
+[Sam] So first we're gonna plug
+Ian into the system.
+
+461
+00:16:32,824 --> 00:16:35,225
+[Ian] The piece, uh, is
+protruding from my skull as...
+
+462
+00:16:35,226 --> 00:16:37,194
+-[Michael] Yeah.
+-[Ian] ...reference,
+ that's the pedestal.
+
+463
+00:16:37,195 --> 00:16:39,196
+It's under
+a little protective cap,
+
+464
+00:16:39,197 --> 00:16:43,067
+um, but it's there 24/7
+and it leads to some wires
+
+465
+00:16:43,068 --> 00:16:44,735
+that go to the actual
+microchip array
+
+466
+00:16:44,736 --> 00:16:47,237
+that's on the surface
+of my brain.
+
+467
+00:16:47,238 --> 00:16:49,673
+[Michael] Pushed into
+the actual organ of the brain.
+
+468
+00:16:49,674 --> 00:16:51,175
+[Ian] Exactly.
+
+469
+00:16:51,176 --> 00:16:52,509
+[Michael]
+ The microchip in Ian's head
+
+470
+00:16:52,510 --> 00:16:53,811
+ detects the blood flow
+
+471
+00:16:53,812 --> 00:16:56,180
+ and electrical impulses
+ of his brain
+
+472
+00:16:56,181 --> 00:16:58,248
+ that are associated
+ with causing movement.
+
+473
+00:16:58,249 --> 00:16:59,683
+[Sam]
+So this is the actual chip.
+
+474
+00:16:59,684 --> 00:17:01,185
+It sits on the surface
+of his brain.
+
+475
+00:17:01,186 --> 00:17:02,519
+[Michael] Wow.
+
+476
+00:17:02,520 --> 00:17:04,221
+ Ian's brain is connected
+ to software
+
+477
+00:17:04,222 --> 00:17:06,289
+ that reads and analyzes
+
+478
+00:17:06,290 --> 00:17:07,558
+ his brain activity.
+
+479
+00:17:07,559 --> 00:17:09,860
+So this is a live look
+
+480
+00:17:09,861 --> 00:17:11,528
+at Ian's motor cortex.
+
+481
+00:17:11,529 --> 00:17:12,695
+[Marcie] Yes.
+
+482
+00:17:12,696 --> 00:17:15,766
+So if you think about
+moving your arm,
+
+483
+00:17:15,767 --> 00:17:17,468
+we should see more activity
+
+484
+00:17:17,469 --> 00:17:19,636
+-or a different pattern?
+-[Ian] Yeah.
+
+485
+00:17:19,637 --> 00:17:21,538
+[Michael]
+ At the start of the session,
+
+486
+00:17:21,539 --> 00:17:24,341
+ in order to calibrate
+ the decoder with his brain,
+
+487
+00:17:24,342 --> 00:17:26,143
+ Ian is prompted
+ to think about
+
+488
+00:17:26,144 --> 00:17:28,479
+ moving his hand
+ by watching images
+
+489
+00:17:28,480 --> 00:17:30,247
+ of hand movements.
+
+490
+00:17:30,248 --> 00:17:32,649
+[Ian] You'll see
+my computer prompt me
+
+491
+00:17:32,650 --> 00:17:34,885
+and as it prompts me
+to do that,
+
+492
+00:17:34,886 --> 00:17:36,787
+that's what
+I'm thinking about.
+
+493
+00:17:36,788 --> 00:17:38,322
+What do you mean
+"think about?"
+
+494
+00:17:38,323 --> 00:17:40,324
+[Ian] Just as much
+as I can think about
+
+495
+00:17:40,325 --> 00:17:42,693
+-imagining that movement.
+-Yeah.
+
+496
+00:17:42,694 --> 00:17:45,863
+ As Ian's brain thinks
+ about moving his hand...
+
+497
+00:17:45,864 --> 00:17:47,798
+-[Sam] Okay, Ian, are you ready?
+-Yup.
+
+498
+00:17:47,799 --> 00:17:49,533
+[Michael]
+ ...its electrical signals
+
+499
+00:17:49,534 --> 00:17:51,135
+ are detected by the chip
+
+500
+00:17:51,136 --> 00:17:53,670
+ and sent to the decoder.
+
+501
+00:17:53,671 --> 00:17:55,139
+Then we take
+that information
+
+502
+00:17:55,140 --> 00:17:57,808
+and we associate it
+with a hand closed.
+
+503
+00:17:57,809 --> 00:18:00,210
+So now the decoder
+can recognize
+
+504
+00:18:00,211 --> 00:18:02,312
+if he's thinking
+that same thing again.
+
+505
+00:18:02,313 --> 00:18:04,414
+[Michael] Next,
+ the decoder sends a signal
+
+506
+00:18:04,415 --> 00:18:06,316
+ to a device that can control
+
+507
+00:18:06,317 --> 00:18:08,152
+ Ian's muscle movement.
+
+508
+00:18:08,153 --> 00:18:10,254
+ This special sleeve
+ on Ian's arm
+
+509
+00:18:10,255 --> 00:18:12,422
+ contains a hundred
+ and thirty electrodes,
+
+510
+00:18:12,423 --> 00:18:15,159
+ which stimulate the muscles
+ in his forearm
+
+511
+00:18:15,160 --> 00:18:17,227
+ to produce the specific
+ movements
+
+512
+00:18:17,228 --> 00:18:19,496
+ that his brain
+ is thinking about,
+
+513
+00:18:19,497 --> 00:18:21,298
+ such as closing his hand
+
+514
+00:18:21,299 --> 00:18:22,933
+ or moving his thumb.
+
+515
+00:18:22,934 --> 00:18:26,670
+ Now it was time to see Ian
+ move his paralyzed hand
+
+516
+00:18:26,671 --> 00:18:28,305
+ with his thoughts.
+
+517
+00:18:28,306 --> 00:18:30,307
+[Sam] So, Ian, if you're ready
+for this next one...
+
+518
+00:18:30,308 --> 00:18:31,909
+-[Ian] Yup.
+-I'm gonna count you down.
+
+519
+00:18:31,910 --> 00:18:40,884
+Three, two, one.
+
+520
+00:18:40,885 --> 00:18:42,186
+[Michael] Whoa.
+
+521
+00:18:42,187 --> 00:18:45,489
+[Marcie] So,
+that was the decoder.
+
+522
+00:18:45,490 --> 00:18:46,690
+Decoding his thoughts?
+
+523
+00:18:46,691 --> 00:18:48,325
+-Decoding his thoughts.
+-[Michael] Wow.
+
+524
+00:18:48,326 --> 00:18:50,561
+[Marcie] Ian was in control
+of the movements.
+
+525
+00:18:50,562 --> 00:18:52,329
+[Michael] Nice work.
+
+526
+00:18:52,330 --> 00:18:54,264
+ Already, Ian's achievements
+
+527
+00:18:54,265 --> 00:18:56,900
+ go far beyond
+ closing his hand.
+
+528
+00:18:56,901 --> 00:18:59,236
+ With the help of this
+ cutting-edge technology,
+
+529
+00:18:59,237 --> 00:19:01,371
+ he can use
+ his own paralyzed hand
+
+530
+00:19:01,372 --> 00:19:03,373
+ to do a number
+ of fine motor tasks
+
+531
+00:19:03,374 --> 00:19:06,210
+ from everyday movements
+
+532
+00:19:06,211 --> 00:19:08,845
+ to playing Guitar Hero.
+
+533
+00:19:08,846 --> 00:19:10,914
+How many other people
+are like Ian?
+
+534
+00:19:10,915 --> 00:19:13,317
+Currently in the world,
+
+535
+00:19:13,318 --> 00:19:15,552
+maybe five?
+
+536
+00:19:15,553 --> 00:19:18,789
+[Michael] Ian continues
+ to gain more independence
+
+537
+00:19:18,790 --> 00:19:21,725
+ outside the lab, as well.
+
+538
+00:19:21,726 --> 00:19:23,660
+Do people
+ever drive with you
+
+539
+00:19:23,661 --> 00:19:25,662
+and get nervous like,
+"Oh, my gosh,
+
+540
+00:19:25,663 --> 00:19:27,497
+well, clearly
+this is dangerous."
+
+541
+00:19:27,498 --> 00:19:29,399
+[Ian] I think
+if everyone else
+
+542
+00:19:29,400 --> 00:19:30,767
+that was driving
+along in the road knew
+
+543
+00:19:30,768 --> 00:19:32,936
+I have no use of my hands
+
+544
+00:19:32,937 --> 00:19:34,471
+going 70 miles an hour
+down the freeway,
+
+545
+00:19:34,472 --> 00:19:35,872
+they may not like that.
+
+546
+00:19:35,873 --> 00:19:37,407
+But they've-- they have
+nothing to worry about.
+
+547
+00:19:37,408 --> 00:19:38,875
+[Ian] Right, yeah,
+and I'm probably safer
+
+548
+00:19:38,876 --> 00:19:41,011
+because I can't take
+my hands off the wheel
+
+549
+00:19:41,012 --> 00:19:43,380
+-to get on my cell phone and...
+-Right. Yup.
+
+550
+00:19:43,381 --> 00:19:45,249
+You're not fiddling
+with the radio and...
+
+551
+00:19:45,250 --> 00:19:47,284
+Yeah, that I shouldn't be
+doing while I'm driving.
+
+552
+00:19:47,285 --> 00:19:50,320
+ [Michael] Ian's progress
+ was truly inspiring,
+
+553
+00:19:50,321 --> 00:19:52,556
+ and this was only
+ the beginning for him.
+
+554
+00:19:52,557 --> 00:19:56,393
+What are your hopes
+for the future for yourself?
+
+555
+00:19:56,394 --> 00:19:59,296
+[Ian] Hopefully,
+I can upgrade
+
+556
+00:19:59,297 --> 00:20:01,765
+to the next version
+and, you know,
+
+557
+00:20:01,766 --> 00:20:03,033
+have more capabilities
+
+558
+00:20:03,034 --> 00:20:05,902
+and be able to do things
+a lot easier.
+
+559
+00:20:05,903 --> 00:20:08,372
+ In the long term, I hope
+ that this can be a device
+
+560
+00:20:08,373 --> 00:20:10,040
+ that people just use.
+
+561
+00:20:10,041 --> 00:20:12,276
+ You have someone
+ who has a spinal cord injury
+
+562
+00:20:12,277 --> 00:20:13,610
+ and they can just continue
+
+563
+00:20:13,611 --> 00:20:15,279
+ right where they left off.
+
+564
+00:20:15,280 --> 00:20:17,514
+I think, you know,
+the work that we're doing
+
+565
+00:20:17,515 --> 00:20:20,651
+is something that has
+never been done before
+
+566
+00:20:20,652 --> 00:20:31,361
+and it's really exciting to be
+on that cutting edge.
+
+567
+00:20:31,362 --> 00:20:33,463
+Restoring movement
+is one thing,
+
+568
+00:20:33,464 --> 00:20:35,732
+but what about feeling,
+
+569
+00:20:35,733 --> 00:20:37,301
+sensation?
+
+570
+00:20:37,302 --> 00:20:39,536
+We feel with our skin
+because of signals
+
+571
+00:20:39,537 --> 00:20:42,806
+sent to the somatosensory
+cortex of our brain.
+
+572
+00:20:42,807 --> 00:20:45,709
+By putting sensors
+in robotic fingers
+
+573
+00:20:45,710 --> 00:20:47,477
+connected to implants
+in a person's
+
+574
+00:20:47,478 --> 00:20:48,979
+somatosensory cortex,
+
+575
+00:20:48,980 --> 00:20:50,981
+researchers
+at the University of Pittsburgh
+
+576
+00:20:50,982 --> 00:20:52,916
+have enabled Nathan Copeland
+
+577
+00:20:52,917 --> 00:20:57,688
+to feel
+through a robotic hand.
+
+578
+00:20:57,689 --> 00:20:59,756
+ Nathan underwent
+ brain surgery
+
+579
+00:20:59,757 --> 00:21:01,491
+ to receive two implants,
+
+580
+00:21:01,492 --> 00:21:02,926
+ one in his motor cortex
+
+581
+00:21:02,927 --> 00:21:04,795
+ to control a robotic arm
+
+582
+00:21:04,796 --> 00:21:05,929
+ and a second implant
+
+583
+00:21:05,930 --> 00:21:08,598
+ over his somatosensory cortex.
+
+584
+00:21:08,599 --> 00:21:09,800
+ This second implant
+
+585
+00:21:09,801 --> 00:21:11,568
+ stimulates his brain
+
+586
+00:21:11,569 --> 00:21:13,603
+ and the pattern
+ of stimulation depends
+
+587
+00:21:13,604 --> 00:21:15,639
+ on what part
+ of the robot hand is touched.
+
+588
+00:21:15,640 --> 00:21:18,575
+ So, if you touch the robot
+ on a specific finger,
+
+589
+00:21:18,576 --> 00:21:21,578
+ then the part of Nathan's
+ somatosensory cortex
+
+590
+00:21:21,579 --> 00:21:23,814
+ that normally responds
+ to that finger
+
+591
+00:21:23,815 --> 00:21:25,849
+ get stimulated.
+
+592
+00:21:25,850 --> 00:21:27,951
+[Nathan] Pinky.
+
+593
+00:21:27,952 --> 00:21:29,753
+Uh, middle.
+
+594
+00:21:29,754 --> 00:21:33,056
+[Michael] His brain interprets
+ that as touch.
+
+595
+00:21:33,057 --> 00:21:35,926
+ Nathan and Ian's
+ remarkable achievements
+
+596
+00:21:35,927 --> 00:21:37,694
+ have been aided
+ by their ability
+
+597
+00:21:37,695 --> 00:21:39,996
+ to communicate
+ with the researchers involved.
+
+598
+00:21:39,997 --> 00:21:41,865
+ But what can be done
+ for people
+
+599
+00:21:41,866 --> 00:21:44,935
+ who are not only
+ unable to move,
+
+600
+00:21:44,936 --> 00:21:47,404
+ but also unable to speak?
+
+601
+00:21:47,405 --> 00:21:49,539
+ Steve Kaplan was an active
+
+602
+00:21:49,540 --> 00:21:52,776
+ 57-year-old computer programmer
+ dating Laurie,
+
+603
+00:21:52,777 --> 00:21:55,078
+ a horse wrangler
+ for the rodeo.
+
+604
+00:21:55,079 --> 00:21:57,080
+ But that all changed
+ a year ago
+
+605
+00:21:57,081 --> 00:21:59,049
+ when he suffered
+ a massive stroke
+
+606
+00:21:59,050 --> 00:22:01,451
+ leaving him
+ in a vegetative state,
+
+607
+00:22:01,452 --> 00:22:03,687
+ unable to move or speak.
+
+608
+00:22:03,688 --> 00:22:06,623
+ Doctors initially declared
+ Steve brain dead.
+
+609
+00:22:06,624 --> 00:22:08,558
+ However, inside his body
+
+610
+00:22:08,559 --> 00:22:09,826
+ he was fully conscious,
+
+611
+00:22:09,827 --> 00:22:11,962
+ but unable to tell them so.
+
+612
+00:22:11,963 --> 00:22:13,864
+ It wasn't
+ until a nurse noticed
+
+613
+00:22:13,865 --> 00:22:16,600
+ that Steve's eye movements
+ were intentional
+
+614
+00:22:16,601 --> 00:22:19,736
+ that he was diagnosed
+ with locked-in syndrome,
+
+615
+00:22:19,737 --> 00:22:21,972
+ a condition which robs
+ people of everything
+
+616
+00:22:21,973 --> 00:22:23,707
+ but their mind.
+
+617
+00:22:23,708 --> 00:22:26,576
+ While a normal brain
+ receives electrical signals
+
+618
+00:22:26,577 --> 00:22:29,045
+ from the senses and sends
+ signals back to them,
+
+619
+00:22:29,046 --> 00:22:31,581
+ the stroke prevented
+ the electrical signals
+
+620
+00:22:31,582 --> 00:22:34,184
+ from leaving Steve's brain.
+
+621
+00:22:34,185 --> 00:22:35,986
+ Over the last year,
+
+622
+00:22:35,987 --> 00:22:37,988
+ with the help
+ of physical therapists,
+
+623
+00:22:37,989 --> 00:22:39,856
+ Steve has regained
+ some very minor
+
+624
+00:22:39,857 --> 00:22:42,125
+ range of motion in his neck.
+
+625
+00:22:42,126 --> 00:22:45,662
+ I sat down with Steve
+ and his now-wife Laurie
+
+626
+00:22:45,663 --> 00:22:47,964
+ to learn more about
+ locked-in syndrome.
+
+627
+00:22:47,965 --> 00:22:50,767
+Steve, Laurie, hello.
+
+628
+00:22:50,768 --> 00:22:52,936
+ Although he's still
+ unable to speak,
+
+629
+00:22:52,937 --> 00:22:54,938
+ thanks to new scientific
+ developments,
+
+630
+00:22:54,939 --> 00:22:57,207
+ Steve can communicate
+ with the outside world
+
+631
+00:22:57,208 --> 00:22:58,909
+ using a computer.
+
+632
+00:22:58,910 --> 00:23:00,677
+[computer male voice]
+ Hello, Michael.
+
+633
+00:23:00,678 --> 00:23:01,678
+[Michael]
+Nice to meet you, Steve.
+
+634
+00:23:01,679 --> 00:23:02,746
+And nice
+to meet you, Laurie.
+
+635
+00:23:02,747 --> 00:23:03,914
+First of all,
+thank you so much
+
+636
+00:23:03,915 --> 00:23:05,515
+for giving us some time.
+
+637
+00:23:05,516 --> 00:23:08,452
+Tell me how Steve started
+being able to communicate.
+
+638
+00:23:08,453 --> 00:23:10,554
+[Laurie] Well, you know,
+I asked a lot of questions
+
+639
+00:23:10,555 --> 00:23:11,755
+about locked-in syndrome
+
+640
+00:23:11,756 --> 00:23:13,056
+when they explained
+what it was,
+
+641
+00:23:13,057 --> 00:23:15,058
+and there wasn't
+a lot of answers.
+
+642
+00:23:15,059 --> 00:23:16,660
+-Yeah.
+-[Laurie] At the beginning,
+
+643
+00:23:16,661 --> 00:23:19,796
+he would blink once for yes
+and twice for no.
+
+644
+00:23:19,797 --> 00:23:22,866
+ And that was the first parts
+ of the communication.
+
+645
+00:23:22,867 --> 00:23:24,534
+ And then they
+ gave us a board,
+
+646
+00:23:24,535 --> 00:23:26,236
+ and I went
+ through the ABCs,
+
+647
+00:23:26,237 --> 00:23:27,737
+ and he would close his eyes
+
+648
+00:23:27,738 --> 00:23:28,839
+ when I got to what he wanted.
+
+649
+00:23:28,840 --> 00:23:29,973
+ I'd write it down,
+
+650
+00:23:29,974 --> 00:23:31,508
+ and that's how it began.
+
+651
+00:23:31,509 --> 00:23:33,109
+[Michael] As you could imagine,
+
+652
+00:23:33,110 --> 00:23:35,679
+ Laurie and Steve's
+ first method of communicating
+
+653
+00:23:35,680 --> 00:23:38,915
+ was a slow
+ and painstaking process.
+
+654
+00:23:38,916 --> 00:23:40,817
+ But just months later,
+
+655
+00:23:40,818 --> 00:23:42,519
+ an engineer working to help
+
+656
+00:23:42,520 --> 00:23:43,720
+ locked-in patients
+
+657
+00:23:43,721 --> 00:23:44,955
+ built Steve a machine
+
+658
+00:23:44,956 --> 00:23:46,923
+ that tracks his eye movements.
+
+659
+00:23:46,924 --> 00:23:49,993
+ As Steve looks at different
+ letters on a screen,
+
+660
+00:23:49,994 --> 00:23:52,529
+ the machine translates
+ where he's looking
+
+661
+00:23:52,530 --> 00:23:54,664
+ into synthesized
+ audible speech.
+
+662
+00:23:54,665 --> 00:23:56,533
+[computer male voice]
+ I want to recover.
+
+663
+00:23:56,534 --> 00:23:59,102
+[Michael] Although
+ there's still a slight delay
+
+664
+00:23:59,103 --> 00:24:01,037
+ in communication
+ as Steve scans
+
+665
+00:24:01,038 --> 00:24:02,706
+ the letters on the screen,
+
+666
+00:24:02,707 --> 00:24:04,541
+ this method is much more fluid
+
+667
+00:24:04,542 --> 00:24:10,113
+ and significantly faster.
+
+668
+00:24:10,114 --> 00:24:12,516
+The computer helps me
+communicate
+
+669
+00:24:12,517 --> 00:24:14,618
+[Michael] Yeah.
+You can write with your eyes.
+
+670
+00:24:14,619 --> 00:24:15,819
+[Laurie]
+This thing's amazing.
+
+671
+00:24:15,820 --> 00:24:18,021
+He can email,
+he can text,
+
+672
+00:24:18,022 --> 00:24:19,523
+call me
+if he needs something.
+
+673
+00:24:19,524 --> 00:24:20,857
+It's such a relief.
+
+674
+00:24:20,858 --> 00:24:21,925
+[computer male voice]
+ It does wonders.
+
+675
+00:24:21,926 --> 00:24:23,593
+[Michael]
+It does wonders, yes.
+
+676
+00:24:23,594 --> 00:24:24,794
+-Uh-hmm, [chuckles]
+-[Michael] And I could only
+
+677
+00:24:24,795 --> 00:24:26,696
+imagine how emotional
+it would have been
+
+678
+00:24:26,697 --> 00:24:29,132
+to you to be able to look
+and write a thing,
+
+679
+00:24:29,133 --> 00:24:30,600
+and then have it spoken.
+
+680
+00:24:30,601 --> 00:24:33,036
+And, Laurie,
+for you to hear
+
+681
+00:24:33,037 --> 00:24:35,906
+words coming from his mind,
+from his heart,
+
+682
+00:24:35,907 --> 00:24:37,607
+especially
+for the first time
+
+683
+00:24:37,608 --> 00:24:39,175
+-in a long time.
+-[Laurie] Yes.
+
+684
+00:24:39,176 --> 00:24:47,584
+What was the first thing
+you said, Steve?
+
+685
+00:24:47,585 --> 00:24:49,586
+[computer male voice] The first
+ message was happy birthday.
+
+686
+00:24:49,587 --> 00:24:51,855
+[laughter]
+
+687
+00:24:51,856 --> 00:24:53,056
+What a birthday present.
+
+688
+00:24:53,057 --> 00:24:54,858
+[Laurie laughs]
+It really was.
+
+689
+00:24:54,859 --> 00:24:57,160
+[Michael] Steve's progress
+ is remarkable,
+
+690
+00:24:57,161 --> 00:24:58,895
+ and it would be
+ difficult to deny
+
+691
+00:24:58,896 --> 00:25:01,197
+ the connection between
+ his new ability to communicate
+
+692
+00:25:01,198 --> 00:25:02,933
+ and connect
+ with the outside world
+
+693
+00:25:02,934 --> 00:25:04,634
+ with the incredible advances
+
+694
+00:25:04,635 --> 00:25:06,970
+ he's made physically
+ over the last year.
+
+695
+00:25:06,971 --> 00:25:09,039
+-Look up at the ceiling.
+-[Michael] Yeah.
+
+696
+00:25:09,040 --> 00:25:12,008
+-Look down at your thumbs.
+-[clears throat]
+
+697
+00:25:12,009 --> 00:25:13,944
+Look over at me,
+your beautiful wife.
+
+698
+00:25:13,945 --> 00:25:15,712
+[laughter]
+
+699
+00:25:15,713 --> 00:25:17,881
+[Michael] Laurie and Steve
+ hope that one day
+
+700
+00:25:17,882 --> 00:25:19,349
+ Steve will make
+ a full recovery
+
+701
+00:25:19,350 --> 00:25:26,656
+ from locked-in syndrome.
+
+702
+00:25:26,657 --> 00:25:29,626
+Steve's eye-tracking device
+is electric,
+
+703
+00:25:29,627 --> 00:25:31,027
+and so is his brain.
+
+704
+00:25:31,028 --> 00:25:32,629
+They're connected by the fact
+
+705
+00:25:32,630 --> 00:25:34,631
+that Steve can move his eyes.
+
+706
+00:25:34,632 --> 00:25:36,199
+But some locked-in patients
+
+707
+00:25:36,200 --> 00:25:38,969
+can't even control
+their eye movements.
+
+708
+00:25:38,970 --> 00:25:40,203
+They have what is known
+
+709
+00:25:40,204 --> 00:25:43,773
+as completely
+locked-in syndrome.
+
+710
+00:25:43,774 --> 00:25:46,242
+For these patients,
+the eye-tracking technology
+
+711
+00:25:46,243 --> 00:25:49,279
+that helped Steve communicate
+is useless.
+
+712
+00:25:49,280 --> 00:25:51,781
+ But researchers in Europe
+ recently found a way
+
+713
+00:25:51,782 --> 00:25:53,984
+ of allowing completely
+ locked-in patients
+
+714
+00:25:53,985 --> 00:25:57,387
+ to communicate
+ using just their thoughts.
+
+715
+00:25:57,388 --> 00:25:59,656
+ The researchers combined EEG
+
+716
+00:25:59,657 --> 00:26:02,325
+ with near-infrared
+ spectroscopy,
+
+717
+00:26:02,326 --> 00:26:03,927
+ which can non-invasively
+
+718
+00:26:03,928 --> 00:26:06,096
+ measure blood flow
+ in the brain.
+
+719
+00:26:06,097 --> 00:26:07,230
+The patients were asked
+
+720
+00:26:07,231 --> 00:26:08,932
+simple yes or no questions
+
+721
+00:26:08,933 --> 00:26:10,900
+that the researchers
+knew the answers to,
+
+722
+00:26:10,901 --> 00:26:13,770
+which allowed them
+to train a machine to recognize
+
+723
+00:26:13,771 --> 00:26:15,939
+which brain signals meant yes
+
+724
+00:26:15,940 --> 00:26:18,274
+and which brain signals
+meant no.
+
+725
+00:26:18,275 --> 00:26:20,343
+The researchers
+then asked the patients
+
+726
+00:26:20,344 --> 00:26:21,845
+a new set of questions
+
+727
+00:26:21,846 --> 00:26:22,979
+they knew the answer to,
+
+728
+00:26:22,980 --> 00:26:24,414
+and using just their thoughts,
+
+729
+00:26:24,415 --> 00:26:26,149
+ the patients were able to give
+
+730
+00:26:26,150 --> 00:26:29,786
+ the correct answers
+ to 70% of the questions.
+
+731
+00:26:29,787 --> 00:26:32,288
+Now, giving just
+yes or no answers
+
+732
+00:26:32,289 --> 00:26:33,423
+may be limited,
+
+733
+00:26:33,424 --> 00:26:35,158
+but this technology is new.
+
+734
+00:26:35,159 --> 00:26:37,927
+All of this happened
+just this year.
+
+735
+00:26:37,928 --> 00:26:39,829
+ These rapid advancements,
+
+736
+00:26:39,830 --> 00:26:43,233
+ thanks to the devotion
+ and effort of researchers
+
+737
+00:26:43,234 --> 00:26:44,901
+ and subjects around the world,
+
+738
+00:26:44,902 --> 00:26:46,736
+ are slowly but surely
+
+739
+00:26:46,737 --> 00:26:49,739
+ chipping away
+ at the mysteries of the mind.
+
+740
+00:26:49,740 --> 00:26:51,274
+The better
+we understand the mind,
+
+741
+00:26:51,275 --> 00:26:52,809
+the better
+we'll be able to help
+
+742
+00:26:52,810 --> 00:26:54,444
+the millions of people
+who struggle to do
+
+743
+00:26:54,445 --> 00:26:56,813
+what they want
+because of psychological
+
+744
+00:26:56,814 --> 00:26:58,448
+or neurological conditions,
+
+745
+00:26:58,449 --> 00:27:03,019
+and ultimately the better
+we'll understand ourselves.
+
+746
+00:27:03,020 --> 00:27:04,888
+And as always,
+
+747
+00:27:04,889 --> 00:27:08,191
+thanks for watching.
+
+748
+00:27:08,192 --> 00:27:11,129
+[theme music playing]
+

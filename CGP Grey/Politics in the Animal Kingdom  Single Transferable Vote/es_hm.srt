@@ -1,0 +1,416 @@
+1
+00:00:00,459 --> 00:00:04,058
+La Reina León tratando de hacer que las elecciones en su reino animal sean mas justas. Actualmente
+
+2
+00:00:04,059 --> 00:00:07,929
+ella divide a sus ciudadanos en rangos de los cuales selecciona un representante para ir
+
+3
+00:00:07,930 --> 00:00:10,808
+al consejo de la jungla que hace las leyes para el reino.
+
+4
+00:00:10,809 --> 00:00:15,709
+Pero sus ciudadanos están descontentos, y es fácil ver porque: el consejo esta lleno de monos.
+
+5
+00:00:15,710 --> 00:00:19,758
+Es cierto que algunos de sus ciudadanos son monos, pero no todos ellos. Este consejo no
+
+6
+00:00:19,759 --> 00:00:21,629
+representa fielmente a su reino.
+
+7
+00:00:21,630 --> 00:00:25,478
+La Reina León visita uno de sus rangos para averiguar qué es lo anda mal y cómo solucionarlo.
+
+8
+00:00:25,479 --> 00:00:30,658
+En este rango hay 5 monos, 4 tigres, 3 búhos, 2 linces y 1 búfalo. Uno de
+
+9
+00:00:30,659 --> 00:00:34,869
+cada uno se postula para un cargo y todos los ciudadanos votan por su propia especie.
+
+10
+00:00:34,870 --> 00:00:38,909
+La regla de la elección es que aquel candidato con mas votos gana, que es el mono.
+
+11
+00:00:38,910 --> 00:00:43,959
+Pero es un resultado bastante insatisfactorio considerando que 2/3 de los ciudadanos en este rango no son monos
+
+12
+00:00:43,960 --> 00:00:45,748
+y no votarían por monos.
+
+13
+00:00:45,749 --> 00:00:50,439
+Lo mismo sucede en todos los rangos del reino, los monos tienen más votos que
+
+14
+00:00:50,440 --> 00:00:55,408
+los demás, por lo que ganan todas las elecciones, a pesar de que son una minoría de la población
+
+15
+00:00:55,409 --> 00:00:59,378
+total. Una investigación mas de cerca revela que los asesores independientes contratados para dibujar
+
+16
+00:00:59,379 --> 00:01:03,678
+los límites de los rangos iniciales no eran tan independientes como inicialmente parecían.
+
+17
+00:01:03,679 --> 00:01:07,629
+El resultado es ciudadanos descontentos que no confían en que el consejo de la selva haga leyes más justas
+
+18
+00:01:07,630 --> 00:01:09,319
+para todos, con toda razón.
+
+19
+00:01:09,320 --> 00:01:13,519
+Ahora, la Reina León quiere maximizar el número de ciudadanos felices con los resultados de las elecciones.
+
+20
+00:01:13,520 --> 00:01:17,459
+Una manera de hacerlo es abolir todos los rangos y usar un sistema proporcional...Pero sus
+
+21
+00:01:17,460 --> 00:01:19,839
+ciudadanos "quieren" representantes locales.
+
+22
+00:01:19,840 --> 00:01:24,109
+Así que la Reina León necesita un sistema que haga a sus ciudadanos mas felices al tener un consejo
+
+23
+00:01:24,110 --> 00:01:27,429
+mas representativo, manteniendo las elecciones locales.
+
+24
+00:01:27,430 --> 00:01:31,339
+Después de investigar un poco, encuentra cómo hacerlo: Voto Único Transferible.
+
+25
+00:01:31,340 --> 00:01:36,429
+El gran cambio con VUT es que los rangos envían mas de un representante, lo que puede parecer
+
+26
+00:01:36,430 --> 00:01:40,589
+extraño, pero la Reina León decide ponerlo a prueba: toma 3 rangos en los que cada uno
+
+27
+00:01:40,590 --> 00:01:45,328
+enviaban un representante y los combina en un rango más grande que enviará tres.
+
+28
+00:01:45,329 --> 00:01:49,849
+El día de las elecciones, los ciudadanos van a las urnas y los resultados en este nuevo rango son
+
+29
+00:01:49,850 --> 00:01:53,339
+los mismos que habían con los viejos rangos: 34% por el mono, 33% por el búho y 33% por el lince.
+
+30
+00:01:53,340 --> 00:01:56,478
+Pero con el VUT para saber los ganadores se toma el total de votos
+
+31
+00:01:56,479 --> 00:02:02,389
+y se divide por el número de representantes requeridos, en este caso 3 el cual da 33% como
+
+32
+00:02:02,390 --> 00:02:04,538
+la cantidad que un candidato necesita para ganar.
+
+33
+00:02:04,539 --> 00:02:08,788
+Así "los tres" candidatos van al consejo, que representa con más precisión a los ciudadanos
+
+34
+00:02:08,789 --> 00:02:09,829
+en este rango.
+
+35
+00:02:09,830 --> 00:02:14,909
+Bajo el viejo sistema, cada rango hubiese enviado un mono. Dejando 2/3 de los ciudadanos
+
+36
+00:02:14,910 --> 00:02:19,329
+sin representación. Un rango más grande con más representantes permite que el resultado
+
+37
+00:02:19,330 --> 00:02:20,579
+sea más proporcional.
+
+38
+00:02:20,580 --> 00:02:24,829
+Esta prueba resultó salir bien, pero fue tan simple como pudo haber sido. Ahora la Reina León
+
+39
+00:02:24,830 --> 00:02:27,889
+quiere ver que pasa en una contienda donde no todos son ganadores.
+
+40
+00:02:27,890 --> 00:02:32,839
+El siguiente rango que prueba tiene 5 candidatos: Gorila, Tarsio, Mono,
+
+41
+00:02:32,840 --> 00:02:36,279
+Tigre, y Lince, tres de los cuales pueden ser representantes.
+
+42
+00:02:36,280 --> 00:02:40,579
+El día de elecciones viene y se va, y aquí están los resultados de las primeras opciones de los ciudadanos:
+
+43
+00:02:40,580 --> 00:02:43,499
+Tarsio obtiene 5% Gorila obtiene 28%
+
+44
+00:02:43,500 --> 00:02:46,309
+Mono obtiene 33% Tigre obtiene 21%
+
+45
+00:02:46,310 --> 00:02:47,729
+Lince obtiene 13%
+
+46
+00:02:47,730 --> 00:02:53,059
+Como antes, un candidato necesita 33% para ganar. Mono lo tiene así que inmediatamente es elegido como
+
+47
+00:02:53,060 --> 00:02:55,069
+uno de los tres representantes.
+
+48
+00:02:55,070 --> 00:02:59,829
+Pero nadie más alcanzó el 33%, entonces ¿Cómo son elegidos los otros dos representantes?
+
+49
+00:02:59,830 --> 00:03:04,229
+Paso 1: deshacerse del mayor perdedor. Lo siento tarsio, de verdad no tenías ningún chance.
+
+50
+00:03:04,230 --> 00:03:07,969
+Ahora, cuando los ciudadanos votaron, pudieron poner solo una X al candidato que les gustaba
+
+51
+00:03:07,970 --> 00:03:13,359
+mas, pero con VUT también pueden ranquear a sus candidatos favoritos. Esto es importante porque
+
+52
+00:03:13,360 --> 00:03:18,029
+muestra como la elección hubiera sido si uno de los candidatos no hubiera participado.
+
+53
+00:03:18,030 --> 00:03:22,719
+Los pequeños y preocupados Tarsios hubiesen votado por el gran y calmado Gorila sin el Tarsio
+
+54
+00:03:22,720 --> 00:03:28,049
+en la contienda. Así que si su candidato no puede ganar, ellos quieren que sus votos vayan entonces al Gorila.
+
+55
+00:03:28,050 --> 00:03:32,369
+Esto empuja al Gorila hasta el 33% y se convierte en el siguiente representante.
+
+56
+00:03:32,370 --> 00:03:36,219
+Ranquear permite que los ciudadanos apoyen a sus candidatos sin preocuparse, no tiene sentido
+
+57
+00:03:36,220 --> 00:03:40,359
+hacer estrategias acerca de como los demás van a votar. El sistema trabaja para maximizar
+
+58
+00:03:40,360 --> 00:03:42,289
+la felicidad de los votantes con el resultado.
+
+59
+00:03:42,290 --> 00:03:46,589
+De vuelta al rango: todavía queda un representante por elegir, así que el siguiente gran perdedor es el Lince.
+
+60
+00:03:46,590 --> 00:03:50,169
+A sus votantes no le gustan los simios, pero piensan que los intereses del Tigre son similares a los suyos
+
+61
+00:03:50,170 --> 00:03:54,869
+y si el Lince no puede ganar, quieren que él tenga sus votos. Tigre obtiene 33% y
+
+62
+00:03:54,870 --> 00:03:57,259
+se convierte en el tercer y último representante.
+
+63
+00:03:57,260 --> 00:04:02,009
+La elección resulta bastante bien especialmente considerando las primeras "y" segundas opciones de los ciudadanos.
+
+64
+00:04:02,010 --> 00:04:06,569
+Ahora mas ciudadanos tienen un representante local con el cual sienten cómodos, donde
+
+65
+00:04:06,570 --> 00:04:09,479
+usando el viejo sistema, todos obtienen un mono.
+
+66
+00:04:09,480 --> 00:04:13,509
+Finalmente, la Reina León quiere saber que pasaría en un rango con solo dos partidos políticos.
+
+67
+00:04:13,510 --> 00:04:17,078
+Bajo el sistema de mas votos gana, múltiples candidatos del mismo partido sería un
+
+68
+00:04:17,079 --> 00:04:20,898
+desastre: dividirían sus votos y le darían la victoria a la oposición.
+
+69
+00:04:20,899 --> 00:04:26,239
+La Reina León hace una última prueba de rango con 2/3 Tigres y 1/3 Gorilas que como antes,
+
+70
+00:04:26,240 --> 00:04:28,008
+necesita tres representantes.
+
+71
+00:04:28,009 --> 00:04:33,468
+Debido a que con el VUT los ciudadanos ranquean a sus candidatos, puede haber mas de un candidato participando
+
+72
+00:04:33,469 --> 00:04:36,359
+al mismo tiempo sin ningún problema.
+
+73
+00:04:36,360 --> 00:04:40,138
+Los Tigres envían dos candidatos al igual que los Gorilas. El día de las Elecciones,
+
+74
+00:04:40,139 --> 00:04:55,429
+Tigre Blanco se convierte en el primer representante, ¿Pero qué pasa después? Mientras que Tigre parece ser
+
+75
+00:04:55,430 --> 00:04:59,228
+el gran perdedor, es también obvio que el hubiese obtenido mas votos si Tigre Blanco
+
+76
+00:04:59,229 --> 00:05:04,218
+no hubiese estado en la contienda. Sí un candidato tiene mas votos de los que necesita, como el Tigre Blanco,
+
+77
+00:05:04,219 --> 00:05:09,309
+el primer paso es dar los votos extras a su segunda opción. Esto le daría al Tigre
+
+78
+00:05:09,310 --> 00:05:12,688
+un 33% y se convierte en el siguiente representante.
+
+79
+00:05:12,689 --> 00:05:14,859
+Si eso parece extraño, hay dos cosas a considerar:
+
+80
+00:05:14,860 --> 00:05:18,609
+1) Si en el caso que los votos extras fuesen ignorados, y el tigre es eliminado entonces los gorilas hubiesen
+
+81
+00:05:18,610 --> 00:05:23,089
+obtenido las siguientes dos victorias, lo que obviamente no representaría al rango.
+
+82
+00:05:23,090 --> 00:05:27,739
+2) Ignorar estos votos "extra" es castigar a los ciudadanos que apoyan al candidato popular,
+
+83
+00:05:27,740 --> 00:05:32,859
+que hace a los votantes empiecen a pensar como los demás van a votar, en vez de
+
+84
+00:05:32,860 --> 00:05:38,059
+lo que realmente quieren. Si un candidato obtiene votos extra, esto también significa que
+
+85
+00:05:38,060 --> 00:05:42,668
+aquellos que votaron por él son una enorme sección de la población y por lo tanto justamente deberían
+
+86
+00:05:42,669 --> 00:05:44,498
+tener mas representación.
+
+87
+00:05:44,499 --> 00:05:48,908
+Muy bien: después que los votos extra van al Tigre, la elección termina como antes: Espalda Plateada
+
+88
+00:05:48,909 --> 00:05:52,968
+llega de último, es eliminado y la segunda opción de sus votantes es el candidato mas joven así que
+
+89
+00:05:52,969 --> 00:05:55,778
+Gorila logra meterse. Y los resultados son justos.
+
+90
+00:05:55,779 --> 00:06:00,498
+La Reina León ha visto que el VUT funciona. Ya sea si un rango tiene un partido o muchos, el proceso
+
+91
+00:06:00,499 --> 00:06:02,198
+es el mismo:
+
+92
+00:06:02,199 --> 00:06:06,628
+1. Ciudadanos ranquean a sus candidatos favoritos. 2. Cualquier candidato por arriba del umbral gana
+
+93
+00:06:06,629 --> 00:06:09,498
+inmediatamente, 3. Votos "extra" van a su siguiente opción.
+
+94
+00:06:09,499 --> 00:06:13,679
+4. Si no hay ganador, el último lugar es eliminado, y los votos van a su siguiente opción.
+
+95
+00:06:13,680 --> 00:06:16,598
+5. Repetir hasta que todos los ganadores sean encontrados.
+
+96
+00:06:16,599 --> 00:06:20,658
+Todo el proceso está diseñado para maximizar el número de ciudadanos felices con
+
+97
+00:06:20,659 --> 00:06:21,168
+el resultado.
+
+98
+00:06:21,169 --> 00:06:25,869
+Este proceso le da al VUT muchas ventajas sobre el viejo sistema de mas votos gana:
+
+99
+00:06:25,870 --> 00:06:29,628
+1. Ciudadanos pueden votar honestamente por su candidato favorito sin preocuparse acerca de lo que alguien
+
+100
+00:06:29,629 --> 00:06:32,658
+mas va a hacer. 2. Es mas proporcional. Así que monear con
+
+101
+00:06:32,659 --> 00:06:37,378
+los limites importa menos. 3. Casi todos los ciudadanos tendrán un representante local
+
+102
+00:06:37,379 --> 00:06:39,188
+por el cual realmente votaron.
+
+103
+00:06:39,189 --> 00:06:42,968
+Al final, la Reina León decide cambiar las elecciones al consejo a Voto Único Transferible
+
+104
+00:06:42,969 --> 00:06:45,649
+para hacer un mejor consejo de la jungla para todos.
+

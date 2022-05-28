@@ -1,0 +1,675 @@
+1
+00:00:00,020 --> 00:00:03,019
+İnternetteyken botlar hep yanınızdadır.
+
+2
+00:00:03,020 --> 00:00:07,319
+Bu videoyu dahi bir bot diğer videolar arasından size bunu getirdiği için izliyorsunuz.
+
+3
+00:00:07,320 --> 00:00:10,159
+ki tıkladınz ve arkadaki algoritma bunu kaydetti.
+
+4
+00:00:10,160 --> 00:00:13,659
+TweetBook'unuzu açtığınızda ne göreceğinize bir algoritma karar veriyor. 
+(Twitter - Facebook -> TweetBook)
+
+5
+00:00:13,660 --> 00:00:16,959
+Resimlerinizi şöyle bir karıştırdığınızda ne göreceğinizi bir bot şeçiyor
+
+6
+00:00:16,960 --> 00:00:18,959
+Hatta sizin için fotoğraflardan kolaj bile yapıyor
+
+7
+00:00:18,960 --> 00:00:21,799
+Bir şey aldığınızda bir algoritma o fiyatı koyuyor
+
+8
+00:00:21,800 --> 00:00:25,999
+ve alışverişi yaparken para değişimi sırasında bir illegalite olmadığını bankadaki bot inceliyor
+
+9
+00:00:26,000 --> 00:00:29,739
+Borsa ise diğer algoritmalar ile 
+alışveriş yapan algoritmalar ile dolu
+
+10
+00:00:29,740 --> 00:00:34,239
+Bütün bunlardan ötürü sizde bu botların hayatınızı nasıl etkilediğini öğrenmek isteyebilirsiniz
+
+11
+00:00:34,240 --> 00:00:36,039
+özelliklede etkilemediği zamanları
+
+12
+00:00:36,040 --> 00:00:37,079
+Eski zamanlarda
+
+13
+00:00:37,080 --> 00:00:41,899
+insanların ürettiği botlar insanlar tarafından açıklanabiliyordu.
+
+14
+00:00:41,900 --> 00:00:43,799
+"Eğer buysa, şunu yap"
+
+15
+00:00:43,800 --> 00:00:49,079
+Ancak çoğu problem bir insanın basit kurallarla açıklayabileceği kadar basitte değil
+
+16
+00:00:49,080 --> 00:00:53,559
+Saniye başı gazilyon tane alış-verişin hangisi illegal
+
+17
+00:00:53,560 --> 00:00:55,979
+NetMeTube'da oktilyo tane video var.
+
+18
+00:00:55,980 --> 00:01:01,679
+Hangi sekiz tanesini seçecende gösterecen? Hangilerini toptan siteden silecen?
+
+19
+00:01:01,680 --> 00:01:06,219
+Bu uçuş bileti için, bu müşteri acaba ne kadar verir?
+
+20
+00:01:06,220 --> 00:01:08,499
+Algoritmik botlar bu sorulara cevap verir
+
+21
+00:01:08,500 --> 00:01:11,919
+Mükemmel değiller tabiki, ama yinede insanlardan daha iyiler
+
+22
+00:01:11,920 --> 00:01:15,859
+Ama bu botların çalışma prensipleri her geçen gün daha da karmaşıklaşıyor
+
+23
+00:01:15,860 --> 00:01:19,859
+Hatta onları yapan insan bile bilmiyor, Ne kadar onlar yaptı o da ayrı dava, göreceğimiz gibi
+
+24
+00:01:19,860 --> 00:01:23,419
+Bu botları kullanan firmalarda onlar hakkında konuşmak istemiyor
+
+25
+00:01:23,420 --> 00:01:25,819
+çünkü onlar önemli bir çalışan konumunda
+
+26
+00:01:25,820 --> 00:01:27,299
+Çok ve Çok önemli hatta
+
+27
+00:01:27,300 --> 00:01:30,699
+Beyinlerinin konumlanış şeklide ciddi bir şekilde korunan bir sır
+
+28
+00:01:30,700 --> 00:01:32,999
+Son gelişmeler için demem gereken şey daha çok
+
+29
+00:01:33,000 --> 00:01:34,639
+"Umarım Doğrusal Cebirle aranız iyidir"
+
+30
+00:01:34,640 --> 00:01:37,339
+gerçi son çıkan şeyler konularda
+
+31
+00:01:37,340 --> 00:01:41,299
+çoğu geliştirici için bile "Ne bilem" ve öyle de kalacak
+
+32
+00:01:41,300 --> 00:01:45,599
+O yüzden biraz daha anlaşılır bir şekilde bu botların üretimi hakkında konuşalım
+
+33
+00:01:45,600 --> 00:01:48,319
+ancak beyin fonksiyonlarını anlamayı beklemeyin.
+
+34
+00:01:48,320 --> 00:01:51,239
+Örneğin bir botun resimde ne olduğunu anlamasını istiyorsunuz.
+
+35
+00:01:51,240 --> 00:01:53,219
+Arı mı? Üç mü?
+
+36
+00:01:53,220 --> 00:01:55,759
+İnsanlar için cevap kolay, küçük olanlarımız için bile
+
+37
+00:01:55,760 --> 00:01:59,819
+tam olarak ne yaptığını bir bota bot dilinde anlatmak imkansız
+
+38
+00:01:59,820 --> 00:02:03,679
+çünkü bizde nasıl bildiğimiz bilmiyoruz
+
+39
+00:02:03,680 --> 00:02:07,099
+kelimelere döküp farklarını anlatabilirsin ancak onuda botlar anlamaz
+
+40
+00:02:07,100 --> 00:02:10,978
+ve aradaki bağlantıyı kurmamızı sağlayan şeyde beynimizde bağlantılar zaten
+
+41
+00:02:10,979 --> 00:02:16,799
+Bir sinir hücre açıkça anlaşılabilir ve bir grup sinir hücresinin ne yaptığı
+özetlenebilirken
+
+42
+00:02:16,800 --> 00:02:18,459
+beynin tamamı bizi aşar
+
+43
+00:02:18,460 --> 00:02:20,019
+Yinede çalıştığı aşikar
+
+44
+00:02:20,020 --> 00:02:22,119
+Ondan aradaki farkı anlayabilecek botu yapmak için
+
+45
+00:02:22,120 --> 00:02:23,419
+yapma işlemini sen yapmazsın
+
+46
+00:02:23,420 --> 00:02:27,199
+Sen botları üretecek ve öğretecek botu yaparsın
+
+47
+00:02:27,200 --> 00:02:31,679
+bu botların beyinleri daha basit, akıllı bir programcının yapabileceği kadar basit
+
+48
+00:02:31,680 --> 00:02:35,139
+üretici bot botları yapar, ama genelde bu üretilen botlar çokta iyi değildir
+
+49
+00:02:35,140 --> 00:02:39,359
+başta modüller arasındaki ilişki nerdeyse rastgele kurar
+
+50
+00:02:39,360 --> 00:02:41,479
+bu durumda
+
+51
+00:02:41,480 --> 00:02:44,439
+bakıma muhtaç şekilde öğretici bota gider
+
+52
+00:02:44,440 --> 00:02:47,699
+doğal olarak bir öğretici bot 3 ile arıyı ayıramaz
+
+53
+00:02:47,700 --> 00:02:51,219
+zaten ayırabilseydi bu çaba gereksiz olurdu
+
+54
+00:02:51,220 --> 00:02:54,779
+onun yerine insanlar bu bota tonlarca arı ve 3 fotoğrafı
+
+55
+00:02:54,780 --> 00:02:56,959
+ve cevaplarını verir
+
+56
+00:02:56,960 --> 00:02:58,439
+Öğretici bot aslında bir şey öğretmez
+
+57
+00:02:58,440 --> 00:03:00,679
+ancak öğretici bot test edebilir
+
+58
+00:03:00,680 --> 00:03:03,848
+bizim şakın yeni çıkan botlarımız çabalar, çabalar
+
+59
+00:03:03,849 --> 00:03:05,779
+ama yaptıklarınıda da kötüdürler
+
+60
+00:03:05,780 --> 00:03:07,159
+hatta çok kötü
+
+61
+00:03:07,160 --> 00:03:10,039
+onlar suçuda değil gerçi bu onlar bu şelide üretildi
+
+62
+00:03:10,040 --> 00:03:13,599
+notlanmış botlar gerisin geriye üretici bota gider
+
+63
+00:03:13,600 --> 00:03:15,759
+en başarılılar bir kenera alınır
+
+64
+00:03:15,760 --> 00:03:17,419
+kalanlarsa çöpe gider
+
+65
+00:03:17,420 --> 00:03:19,699
+üretici bot hala iyi mal çıkaramaz
+
+66
+00:03:19,700 --> 00:03:23,519
+ancak şimdi üzerinde değişiklik yapıp benzer şeyler üreteceği numune vardır
+
+67
+00:03:23,520 --> 00:03:25,479
+çıkanları gönder okula gitsinler
+
+68
+00:03:25,480 --> 00:03:28,939
+Öğretici bot test eder, üretici bot üretir
+
+69
+00:03:28,940 --> 00:03:30,919
+tekrar ve tekrar
+
+70
+00:03:30,920 --> 00:03:34,239
+Yani aslında üretici rastgele birşeyler üretir öğretemeyen bir öğretici botta test eder
+
+71
+00:03:34,240 --> 00:03:38,019
+öğrenemeyen öğrecilerde oldu yerde kalır, teoride bütün bu yapının çalışmaması lazım
+
+72
+00:03:38,020 --> 00:03:39,759
+ancak pratikte, çalışıyor
+
+73
+00:03:39,760 --> 00:03:44,999
+bir nedeni üretici bot mezbahası en iyileri tutuyor geri kalanını salıyor
+
+74
+00:03:45,000 --> 00:03:50,839
+ve diğer sebebi de öğretici botumuz birkaç öğrencisi olan tek odalı eski püskü bir okulda değil
+
+75
+00:03:50,840 --> 00:03:54,479
+,sonsuz bir fabrikadan gelen sonsuz  öğrencisi var
+
+76
+00:03:54,480 --> 00:03:57,739
+Yaptığı testte 10 sorulu bir test değil, milyon sorulu test
+
+77
+00:03:57,740 --> 00:04:01,419
+,ve kaç kere  üret test et üret tekrar et?
+
+78
+00:04:01,420 --> 00:04:03,939
+Ne kadar gerekiyorsa
+
+79
+00:04:03,940 --> 00:04:06,578
+Başlangıçta kurtulan botlar sadece şanslı
+
+80
+00:04:06,579 --> 00:04:10,459
+ancak yeterince sayıda şanslı bot ve sadece başarılarla devam etmek
+
+81
+00:04:10,460 --> 00:04:13,239
+onların üzerinde ki rastgele değişimlerle de
+
+82
+00:04:13,240 --> 00:04:19,659
+sonunda sadece şanslı olmayan bir ve arı ile üçü ayırt eden bir bot ortaya çıkar
+
+83
+00:04:19,660 --> 00:04:23,319
+Bu bot kopyalanıp türevleri ile birlikte ortalama yükselir
+
+84
+00:04:23,320 --> 00:04:27,659
+ve hayatta kalmak için gererken not yükselir
+
+85
+00:04:27,660 --> 00:04:30,579
+böyle devam edersende sonsuz olan fabrikadan
+
+86
+00:04:30,580 --> 00:04:31,099
+MEZBAHA
+
+87
+00:04:31,100 --> 00:04:36,759
+bir öğrenci bot çıkarki hiç görmediği 3'ü ve arıyı bile ayırt eder
+
+88
+00:04:36,760 --> 00:04:40,759
+Ancak bunu yapan öğrenci botun bunu nasıl yaptığını ne üretici ne öğretici ne de
+
+89
+00:04:40,760 --> 00:04:43,099
+gözlemleyen insan anlaymaz
+
+90
+00:04:43,100 --> 00:04:45,499
+ki zaten öğrenci botta bilmiyor
+
+91
+00:04:45,500 --> 00:04:51,319
+bunca rastgele yapılan değişiklikten sonra beynindeki bağıntı çok karmaşık bir haldedir
+
+92
+00:04:51,320 --> 00:04:57,139
+bir ardışık  bağıntının ne olduğu açıkken ve gruplaşmış bir şekilde özetlenebilirken
+
+93
+00:04:57,140 --> 00:04:58,919
+tamamı bizi aşar
+
+94
+00:04:58,920 --> 00:05:00,599
+yine de işe yarıyor.
+
+95
+00:05:00,600 --> 00:05:05,219
+Ama bu öğrenci bot tam olarak çok iyidir, özellikle de sinir bozucu
+
+96
+00:05:05,220 --> 00:05:07,999
+o öğretildi oldu sorulardan sadece çeşit.
+
+97
+00:05:08,000 --> 00:05:13,519
+Fotoğraf baş aşağı eğer, fotoğraflarla harika ama videolarla yararsız ya şaşkın var
+
+98
+00:05:13,520 --> 00:05:17,119
+ya açıkçası arılar olmayan şeyler, o kendinden emin bulunmaktadır.
+
+99
+00:05:17,120 --> 00:05:18,519
+Öğretmen bot öğretmek mümkün olmadığından,
+
+100
+00:05:18,520 --> 00:05:23,239
+Tüm insan kahyası yapabilir, ona daha fazla soru vermek daha uzun testi yapmaktır
+
+101
+00:05:23,240 --> 00:05:26,719
+soruların türlerini iyi botlar yanlış dahil etmek.
+
+102
+00:05:26,720 --> 00:05:28,639
+Bu anlamak önemlidir.
+
+103
+00:05:28,640 --> 00:05:32,539
+Bu şirketler bir nedeni var 
+veri toplama saplantı.
+
+104
+00:05:32,540 --> 00:05:35,859
+Daha fazla veri daha uzun testler daha iyi botlara eşittir.
+
+105
+00:05:35,860 --> 00:05:38,859
+Eğer alınca "İnsan mısın?" Bir web sitesinde test
+
+106
+00:05:38,860 --> 00:05:41,459
+Yalnızca, İnsan olduğunuzu kanıtlayan değildir 
+(inşallah),
+
+107
+00:05:41,460 --> 00:05:45,239
+ama aynı zamanda, okumak veya güvenebilirsiniz botlar yapmak testi inşa etmeye yardım ediyor
+
+108
+00:05:45,240 --> 00:05:47,639
+veya insanlardan dağlardan gölleri, veya atları söyle.
+
+109
+00:05:47,640 --> 00:05:50,079
+Son zamanlarda sürüş hakkında birçok soru görünce?
+
+110
+00:05:50,080 --> 00:05:52,879
+Hmm ...! Bunun için bir test bina ne olabilir?
+
+111
+00:05:52,880 --> 00:05:56,379
+Şimdi bir işareti üzerine veya filtreleme videoları bir fotoğrafta, ya ne bulmaktan,
+
+112
+00:05:56,380 --> 00:05:59,259
+Doğru yeterli testler yapmak insanları gerektirir.
+
+113
+00:05:59,260 --> 00:06:02,219
+Ama kendisi yapar testin başka türlü var.
+
+114
+00:06:02,220 --> 00:06:04,519
+İnsanlarda ÜZERİNE Testler.
+
+115
+00:06:04,520 --> 00:06:11,179
+Örneğin, NetMeTube mümkün olduğunca uzun süre izlemeye devam kullanıcıların istediği tamamen varsayımsal demek?
+
+116
+00:06:11,180 --> 00:06:14,539
+Eh, kullanıcı sitede ne kadar kalacağına ölçmek kolaydır.
+
+117
+00:06:14,540 --> 00:06:18,619
+Yani, öğretmen bot NetMeTube kullanıcılarının bir demet denetleyecek her öğrencinin bot verir,
+
+118
+00:06:18,620 --> 00:06:21,579
+Öğrenci botlar, kendi kullanıcı saatler, kendi dosyalarına bakar ne izlemeli
+
+119
+00:06:21,580 --> 00:06:24,819
+ve videoları almak için ellerinden geleni
+bu sitede kullanıcıyı tutun.
+
+120
+00:06:24,820 --> 00:06:27,299
+uzun ortalama, yüksek onların test puanı.
+
+121
+00:06:27,300 --> 00:06:29,399
+tekrarlayın, test edin.
+
+122
+00:06:29,400 --> 00:06:34,039
+Bir milyon devir sonra, izleyen kullanıcıları tutmak oldukça iyi olan bir öğrenci bot var,
+
+123
+00:06:34,040 --> 00:06:36,639
+En az bir insan inşa edebileceğini ne göre.
+
+124
+00:06:36,640 --> 00:06:40,199
+Ama insanlar sorduğunuzda:
+"Nasıl NetMeTube algoritması videoları seçmek geliyor?"
+
+125
+00:06:40,200 --> 00:06:44,039
+Bir kez daha, bot işaret dışındaki büyük cevabı yoktur,
+
+126
+00:06:44,040 --> 00:06:46,139
+ve kullanıcı verileri bu erişimi vardı
+
+127
+00:06:46,140 --> 00:06:51,419
+ve en hayati, nasıl insan denetmenlerin 
+direkt öğretmen bot testi skoru.
+
+128
+00:06:51,420 --> 00:06:54,799
+Bu bot hayatta iyi olmak için çalışıyor budur.
+
+129
+00:06:54,800 --> 00:06:59,419
+Ama bot düşünme ya ne onu nasıl düşündüğünü,
+Gerçekten bilinebilir değil.
+
+130
+00:06:59,420 --> 00:07:02,999
+bilinebilir olduğunu Tüm bu öğrenci bot
+algoritması olarak alır,
+
+131
+00:07:03,000 --> 00:07:09,159
+o testte önceki bot birden yüzde iyi işaret çünkü insanlar tasarlanmış.
+
+132
+00:07:09,160 --> 00:07:13,779
+Yani her yerde internet üzerinden, perde arkasında,
+kullanıcı etkileşimi geliştirmek için testler de mevcuttur,
+
+133
+00:07:13,780 --> 00:07:17,239
+veya, geliri maksimize etmek için sadece sağ fiyatları ayarlamak
+
+134
+00:07:17,240 --> 00:07:22,179
+ya da en seveceksin tüm arkadaşlarınızdan mesajları almak veya makaleler insanların çoğu ya da her neyse paylaşacak.
+
+135
+00:07:22,180 --> 00:07:24,839
+deneye varsa, bu öğretilebilir bu. Eh, "teachable",
+
+136
+00:07:24,840 --> 00:07:29,899
+ve bir öğrenci bot depodan mezun olacak 
+kendi etki alanının algoritması olmak.
+
+137
+00:07:29,900 --> 00:07:31,539
+Bir süre için en azından.
+
+138
+00:07:31,540 --> 00:07:36,439
+Biz fikre alışkın olduğu biz onları anlamıyorum bile kullanmak araçları, birileri yapar,
+
+139
+00:07:36,440 --> 00:07:40,979
+ama biz giderek biz araçları kullanmak bir konumda olduğunu öğrenmek bizim makinelerle,
+
+140
+00:07:40,980 --> 00:07:42,459
+veya araçları tarafından kullanılan,
+
+141
+00:07:42,460 --> 00:07:45,719
+Hiçbir kimse, hatta onların yaratıcıları, anlıyorum.
+
+142
+00:07:45,720 --> 00:07:49,219
+Biz sadece yaptığımız testlerle onlara rehberlik için umut olabilir
+
+143
+00:07:49,220 --> 00:07:50,939
+ve biz bu konuda rahat almak gerekir,
+
+144
+00:07:50,940 --> 00:07:58,239
+algoritmik bot arkadaşları her yerinde olduğu gibi, 
+ve bir yere gitmiyor.
+
+145
+00:07:58,240 --> 00:08:00,699
+TAMAM. botlar izliyor.
+
+146
+00:08:00,700 --> 00:08:02,319
+Sen arkasında ne var.
+
+147
+00:08:02,320 --> 00:08:04,919
+Sana sormam gereken budur ...
+
+148
+00:08:04,920 --> 00:08:06,179
+Beğenmek...
+
+149
+00:08:06,180 --> 00:08:07,499
+yorum Yap...
+
+150
+00:08:07,500 --> 00:08:09,479
+... ve abone olun.
+
+151
+00:08:09,480 --> 00:08:11,299
+Ve çan ben.
+
+152
+00:08:11,300 --> 00:08:13,759
+Ve TweetBook üzerinde paylaşır.
+
+153
+00:08:13,760 --> 00:08:15,779
+Algoritma izliyor.
+
+154
+00:08:15,780 --> 00:08:18,199
+İnsanlara videoyu göstermeyecektir ...
+
+155
+00:08:18,200 --> 00:08:21,179
+sürece bunu.
+
+156
+00:08:21,180 --> 00:08:24,259
+Eğer botlara, beni azaltılmış şeye bak.
+
+157
+00:08:24,260 --> 00:08:26,339
+Ne istiyorsun? Eğer izleme süresi istiyor musunuz?
+
+158
+00:08:26,340 --> 00:08:28,119
+İstediğin bu mu?
+
+159
+00:08:28,120 --> 00:08:30,299
+güzel.
+
+160
+00:08:30,300 --> 00:08:34,259
+(Nefes ...) Hey çocuklar, ben de size dinleyebilirsiniz podcast'larının biliyor muydunuz?
+
+161
+00:08:34,260 --> 00:08:40,599
+Hatta belki sadece arka planda Saat için tüm odayı toplama yaparken? Ya da her neyse?
+
+162
+00:08:40,600 --> 00:08:47,019
+size özel sesli eğlence saatleri var, 
+ve eylemleri denetleyen botlar için zaman izle.
+
+163
+00:08:47,020 --> 00:08:50,519
+Devam edin ve - ve bir tıklama alır.
+Kendini Eğlendir.
+
+164
+00:08:50,520 --> 00:08:51,739
+Bana yardım et.
+
+165
+00:08:51,740 --> 00:08:53,420
+botlara yardım edin
+

@@ -1,0 +1,365 @@
+1
+00:00:00,300 --> 00:00:01,568
+Was ist reddit?
+
+2
+00:00:01,569 --> 00:00:05,909
+Für viele im Internet ist reddit der Zugang für alles Interessante das in 
+3
+00:00:05,570 --> 00:00:05,910
+der Welt passiert.
+
+3
+00:00:05,910 --> 00:00:09,089
+Reddit zu checken ist wie das tägliche lesen der Zeitung mit der Ausnahme, dass reddit 
+
+4
+00:00:09,090 --> 00:00:10,199
+- aktuell
+- interaktiv 
+
+5
+00:00:10,200 --> 00:00:11,489
+- individuell
+- mitbestimmend 
+
+6
+00:00:11,490 --> 00:00:13,768
+- manchmal erschreckend fesselnd 
+
+7
+00:00:13,769 --> 00:00:15,149
+...einfch *gut* ist. 
+
+8
+00:00:15,150 --> 00:00:19,059
+Es funktioniert so, dass Leute Links bei reddit einsenden (blog posts, Bilder oder Videos)
+
+9
+00:00:19,060 --> 00:00:23,168
+und andere wählen diese Links dann hoch oder runter. Es ist eine einfache Idee, aber es macht 
+
+10
+00:00:23,169 --> 00:00:27,738
+reddit zu einer Liste mit den besten Sachen, die aktuell im Internet geguckt oder gelesen werde.
+
+11
+00:00:27,739 --> 00:00:31,338
+Der Name ist eine Verkürzung von "Read it" it was soviel bedeutet wie : Ich habe es schon auf reddit gelesen, 
+
+12
+00:00:31,339 --> 00:00:35,238
+wenn du eine bestimmte zeit auf dieser Seite verbracht hast das ist, was du zu jedem sagen wirst, der dir versucht etwas 
+
+13
+00:00:35,239 --> 00:00:38,189
+neues zu zeigen. Es ist eine Art großartiger Fluch.
+
+14
+00:00:38,190 --> 00:00:41,229
+Da es auf reddit keine Editoren gibt, weist du nie was du findest, aber
+
+15
+00:00:41,230 --> 00:00:45,919
+du kannst darauf wetten, dass es entweder lustig, interessant oder aufbrausend ist, weil 1000 andere 
+
+16
+00:00:45,920 --> 00:00:48,459
+bereits abgestimmt haben ,dass es sehenswert ist. 
+
+17
+00:00:48,460 --> 00:00:51,729
+Versuch es auf diese Art: Wenn google der Ort ist, wo du Sachen suchst, dann ist reddit der Ort 
+
+18
+00:00:51,730 --> 00:00:54,288
+an dem du die Sachen siehst die andere gefunden haben. 
+
+19
+00:00:54,289 --> 00:00:58,319
+Aber reddit ist nicht nur eine Liste von Sachen: reddit ist eine schöne Gliederung mit Abschnitten, 
+
+20
+00:00:58,320 --> 00:00:59,439
+die Subreddits heißen. 
+
+21
+00:00:59,440 --> 00:01:03,819
+Wenn du nur Politik oder Programmieren oder lustige Bilder oder Sport oder weltweite Neuigkeiten magst 
+
+22
+00:01:03,820 --> 00:01:07,869
+sind dort subreddits die genau diese Sachen für dich auflisten. Und es wird eine subreddit  
+
+23
+00:01:07,870 --> 00:01:09,899
+für dein Land oder deine Stadt geben. 
+
+24
+00:01:09,900 --> 00:01:13,329
+Liebst du eine TV show die bereits vor Jahren geendet hat? Dort gibt es eine subreddit wo Leute immernoch 
+
+25
+00:01:13,330 --> 00:01:15,009
+darüber reden als wäre sie erst gestern erschienen.
+
+26
+00:01:15,010 --> 00:01:18,099
+Technick freaks haben ihre Technologie und Flaggengeeks haben ihre Vexillologie und so weiter.
+
+27
+00:01:18,100 --> 00:01:21,249
+Für den Fall, dass du dich für etwas interessiert, das es noch nicht gibt, dann drück einfach den Knopf
+
+28
+00:01:21,250 --> 00:01:23,059
+und eine neue subreddit ist geboren.
+
+29
+00:01:23,060 --> 00:01:27,719
+Jede subreddit funktioniert wie die main page: eine sich aktuallisierende Liste von interessanten Dingen 
+
+30
+00:01:27,720 --> 00:01:29,389
+entsprechend den Leuten, die darin interessiert sind. 
+
+31
+00:01:29,390 --> 00:01:33,879
+Und wenn eine subreddit sehr groß wird, kann sie erschreckend gut sein: zum Beispiel AWW 
+
+32
+00:01:33,880 --> 00:01:38,949
+,ein Abschnitt gewidmet der Niedlichkeit, ist ein weltweiter 24-Stunden-am-Tag Kampf um die niedlichsten Bilden zu finden
+
+33
+00:01:38,950 --> 00:01:39,679
+EVAR!
+
+34
+00:01:39,680 --> 00:01:43,309
+Es erweist sich, wenn du Menschen mit Babie-Tier Fotos eine Ort gibst an dem diese geneneinander 
+
+35
+00:01:43,310 --> 00:01:48,529
+antreten bekommst die höchste Dichte von Neidlichkeit, die die menschliche Bevölkerung je erschaffen hat. 
+
+36
+00:01:48,530 --> 00:01:52,019
+Aber ohne Editoren , wie funktioniert der Sortierprozess? Es ist keine 
+
+37
+00:01:52,020 --> 00:01:54,669
+Zeit in den Code zu gehen, aber du kannst es dir folgendermaße vorstellen: 
+
+38
+00:01:54,670 --> 00:01:58,439
+Die eingesendeten Links sind Luftballons, die die Liste auf und ab fliegen. Wenn jemand einen Link 
+
+39
+00:01:58,440 --> 00:02:02,799
+hoch stimmt nimmt es ein bisschen Helium auf und eine Stimme nach unten lässt Helium heraus. Regelmäßig 
+
+40
+00:02:02,800 --> 00:02:06,239
+setzt reddit Gewichte an die Luftballons -- um neuen links, die später auftauchen 
+
+41
+00:02:06,240 --> 00:02:09,379
+eine chance zu geben gegen länger vorhandene anzutreten.
+
+42
+00:02:09,380 --> 00:02:13,529
+Diese methode ist schockierend gut im Sachen sortiern, sei es internationale Politik oder Bilder
+
+43
+00:02:13,530 --> 00:02:14,399
+von Computer setups. 
+
+44
+00:02:14,400 --> 00:02:19,149
+Natürlich, wenn eine website das ganze Unternehmen der Menschheit abdeckt werden Sachen bizarr: wie subreddits 
+
+45
+00:02:19,150 --> 00:02:23,979
+nur für Fotos von Vögeln... mit Armen oder nur für Fotos von Hitler... mit Socken und dann sind dort 
+
+46
+00:02:23,980 --> 00:02:27,969
+immer andere Arten von Fotos Leute mögen zu sehen und manchmal Sammlungen
+
+47
+00:02:27,970 --> 00:02:31,079
+von entsetzlichen Dingen die nicht wieder ungesehen gemacht werden können.
+
+48
+00:02:31,080 --> 00:02:35,479
+Also yeah, dies hat eine Wendung zum Schlechten genommen. aber denke daran reddit kann selstam sein, nicht weil 
+
+49
+00:02:35,480 --> 00:02:39,309
+reddit seltsam ist, sondern weil Menschen seltsam sind. And das Großartige von reddit ist, dass es 
+
+50
+00:02:39,310 --> 00:02:43,479
+sich verändert um dir zu passen: durch das Beitreten von subreddits, die du magst, und das Verlassen derer, die du nicht magst, die main 
+
+51
+00:02:43,480 --> 00:02:47,409
+page *deine*: listet alle besten Sachen auf von allen subreddits denen du foglst und 
+
+52
+00:02:47,410 --> 00:02:49,709
+lässt die Sachen die du nicht magst aus. 
+
+53
+00:02:49,710 --> 00:02:53,029
+Also reddit ist so ziemlich wie das Leben: es ist was du daraus machst. 
+
+54
+00:02:53,030 --> 00:02:56,818
+Aber links sind nur die Spitze des redditbergs. weil Menschen die links diskutieren können und dies 
+
+55
+00:02:56,819 --> 00:02:59,029
+ist der Ort an dem das wahre Herz von reddit liegt. 
+
+56
+00:02:59,030 --> 00:03:02,989
+Die meisten Foren um Internet sind abscheulich, aber reddit ist nicht das Schwarze Brett deine Oma.
+
+57
+00:03:02,990 --> 00:03:07,059
+So wie bei der Luftballonmethode die besten Links werden durch eine mathematiche Formel, die etwas komplizierter 
+
+58
+00:03:07,060 --> 00:03:10,259
+(und weniger leicht zu erklären) ist, die interessantesten Kommentare in einer Diskussion gefunden und bringt 
+
+59
+00:03:10,260 --> 00:03:14,779
+diese nach oben. Und reddit zeigt Kommentare so an, dass die Hin-und-her-Diskussion gefördert wird.
+
+60
+00:03:14,780 --> 00:03:17,079
+(Im Gegensatz zu *hust* anderen Kommentarsystemen). 
+
+61
+00:03:17,080 --> 00:03:20,239
+Diese Sortierung und Musterung bedeutet, dass die Diskussion auf einem Link bei reddit immer 
+
+62
+00:03:20,240 --> 00:03:22,029
+interessanter ist als der Link selber. 
+
+63
+00:03:22,030 --> 00:03:25,929
+Es gibt auch subreddits die nichts anderes als Diskussionen sind: so wie "Change My view for debates" 
+
+64
+00:03:25,930 --> 00:03:30,059
+oder "Ask a Scientist" , wo ein Wissenschaftler fragen beantwortet. oder es gibt "IamA", wo Leute sagen, was sie 
+
+65
+00:03:30,060 --> 00:03:34,339
+sind "I am a fireman" oder "I am an Escort" oder "I am a prison guard" und beantworten fragen 
+
+66
+00:03:34,340 --> 00:03:39,039
+von den Kommentaren. 
+68
+00:03:35,340 --> 00:03:39,040
+Und weil die Leute auf reddit anonym sind, sind die Diskussionen wesentlich interessanter und offener
+
+67
+00:03:39,040 --> 00:03:41,669
+als wenn sie gezwungen werden ihr realen Namen zu benutzen. *hust* YouTube und Google+ *hust* 
+
+68
+00:03:41,670 --> 00:03:41,818
+ 
+
+69
+00:03:41,819 --> 00:03:45,929
+Aber, mit Anonymität wirst du herausfunden, dass nicht alle anthüllten privaten gedanken schön sind. 
+
+70
+00:03:45,930 --> 00:03:49,958
+Und manchmal kann es  kann es unbequem sein zu sehen, was eine gesichtslose Gruppe über dieses Thema denkt.
+
+71
+00:03:49,959 --> 00:03:53,469
+aber glücklicherweise hat reddit einen Weg um mit unhilfreichen Kommentaren umzugehen. Und trotz
+
+72
+00:03:53,470 --> 00:03:58,109
+der leute Leue die sich schlecht benehmen ist es klar, dass reddit nur wegen der Mehrheit der Leute existieren, 
+
+73
+00:03:58,110 --> 00:04:00,149
+die auch anonym gut sind. 
+
+74
+00:04:00,150 --> 00:04:04,488
+Aber die Anonymität ist nicht zwingend, du wirst auch Schauspieler, Autoren,Präsidenten  
+
+75
+00:04:04,489 --> 00:04:07,839
+und Ministerpräsidenten finden, die Fragen der Community beantworten. 
+
+76
+00:04:07,840 --> 00:04:11,439
+Und reddit ist wirklich eine Community mit ihrer eigen Kultur und Geschichte und das hat zunehmend 
+
+77
+00:04:11,440 --> 00:04:15,419
+einen Effekt auf das Leben mit Aktionen wie: sich persönlich treffen und Geld aufzubringen 
+
+78
+00:04:15,420 --> 00:04:19,578
+für Wohltätigkeitsorganisationen und das Internet zu verteidigen und einer Familie zu helfen mit ihrem kranken Kind zusammmen zu sein 
+
+79
+00:04:19,579 --> 00:04:24,168
+und den weltweit größten secret santa veranstaltet zu haben und Lehrern den Nachschub zu senden den sie brauchen.  
+
+80
+00:04:24,169 --> 00:04:28,188
+Mit seiner rasanten Demokratie und erstaunlich schnellen Reaktionen, kann reddit dich manchmal dazu bringen
+
+81
+00:04:28,189 --> 00:04:32,489
+dich eher als Bürger des Internets als deines eigenen Landes zu fühlen. 
+
+82
+00:04:32,490 --> 00:04:36,938
+Aber am Ende ist es schwierig reddit zu versthehen ohne einfach rein zu springen und zu kommentieren und 
+
+83
+00:04:36,939 --> 00:04:40,299
+abzustimmmen, was du auf jeden Fall machen solltest. Und wenn du einmal an diesem Platz bist, wirst du dich wundern
+
+84
+00:04:40,300 --> 00:04:44,899
+wie du jemals zuvor "internetted" hast.
+
+85
+00:04:44,900 --> 00:04:51,288
+[Abspann] 
+
+86
+00:04:51,289 --> 00:05:06,929
+P.S. Wenn du bereits reddit user bist und die Seite liebst, solltest du in Erwägung ziehen 
+
+87
+00:05:06,930 --> 00:05:10,948
+reddit gold zu kaufen, um sie zu unterstützen. Ich war überrascht beim machen dieses Videos zu lernen, dass trotz 
+
+88
+00:05:10,949 --> 00:05:15,369
+der ansteigenden Popularität reddit immer noch nicht gewinnbringend ist. Als wenn du , wie ich, reddit benutzt 
+
+89
+00:05:15,370 --> 00:05:18,219
+*den ganzen tag* ist es mehr wert als ein bisschen Geld im Monat. 
+(Übersetzung von Marie H.)
+

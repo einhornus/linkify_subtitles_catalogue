@@ -1,0 +1,1300 @@
+1
+00:00:00,020 --> 00:00:05,199
+Ehi Vsauce! Sono Michel. Quaggiù.
+
+2
+00:00:05,200 --> 00:00:07,739
+Ma in che direzione è "giù"?
+
+3
+00:00:07,740 --> 00:00:14,679
+E quanto... pesa? Beh, la lanugine pesa circa un centesimo di grammo per centimetro cubo
+
+4
+00:00:14,680 --> 00:00:20,239
+È leggera ed eterea, un'ottima fonte di isolamento e di galleggiabilità per gli uccelli acquatici
+
+5
+00:00:20,240 --> 00:00:22,939
+ma se lasci andare la lanugine...
+
+6
+00:00:22,940 --> 00:00:25,039
+cade verso il basso.
+
+7
+00:00:25,040 --> 00:00:26,679
+Quindi il "basso" è in questa direzione.
+
+8
+00:00:26,680 --> 00:00:29,239
+La direzione verso la quale la gravità tira ogni cosa.
+
+9
+00:00:29,240 --> 00:00:33,099
+Ora, per qualcuno dell'altra parte della Terra, il mio sotto è il loro sopra.
+
+10
+00:00:33,100 --> 00:00:38,519
+Ma in che direzione cadono le cose? E perché cadono?
+
+11
+00:00:38,520 --> 00:00:44,399
+Vengono spinte o... tirate? O è per via del... viaggio nel tempo?
+
+12
+00:00:44,400 --> 00:00:48,939
+Prima di tutto: trasformiamo il Sole in un buco nero.
+
+13
+00:00:48,940 --> 00:00:55,039
+Facciomolo con "Universe Sandbox 2". Questo simulatore vi sbalordirà. Lo amo.
+
+14
+00:00:55,040 --> 00:00:59,379
+Infatti, lo amo così tanto che ho messo un codice per ottenere il gioco gratuitamente nella Scatola delle Curiosità di oggi.
+
+15
+00:00:59,380 --> 00:01:02,199
+Se non siete ancora iscritti alla scatola, vi state perdendo un occasione!
+
+16
+00:01:02,200 --> 00:01:06,239
+Dunque, per raggiungere il nostro obiettivo abbiamo bisogno del Sistema Solare.
+
+17
+00:01:06,240 --> 00:01:10,439
+Eccolo qua. Notate come tutto si muove abbastanza velocemente intorno al sole.
+
+18
+00:01:10,440 --> 00:01:14,719
+Questo avviene perché abbiamo impostato che per ogni secondo che passa,
+
+19
+00:01:14,720 --> 00:01:17,219
+nel gioco trascorrono quasi 14 giorni.
+
+20
+00:01:17,220 --> 00:01:20,739
+Se lo porto ad un secondo,
+
+21
+00:01:20,740 --> 00:01:23,579
+vedremo il Sistema Solare muoversi in tempo reale.
+
+22
+00:01:23,580 --> 00:01:26,319
+Noterete che sembra come se si sia congelato.
+
+23
+00:01:26,320 --> 00:01:31,759
+Anche se la Terra sta viaggiando intorno al Sole a circa 30 Km/s, sembra che si muova appena.
+
+24
+00:01:31,760 --> 00:01:35,659
+Ecco quant'è vasto lo spazio. In ogni caso, torniamo a 14 giorni al secondo.
+
+25
+00:01:35,660 --> 00:01:37,569
+Mi piace questa velocità. Ora guardate il Sole.
+
+26
+00:01:37,570 --> 00:01:43,389
+Non è ancora un buco nero, ma possiamo farcelo diventare. Quello che dobbiamo fare è comprimere il Sole.
+
+27
+00:01:43,390 --> 00:01:49,298
+Quindi blocchiamo la sua massa, così che non cambi mentre diminuiamo il raggio.
+
+28
+00:01:49,299 --> 00:01:52,579
+Rendiamo il suo raggio il più piccolo possibile.
+
+29
+00:01:52,580 --> 00:01:59,139
+E... oh! Dov'è finito?! E' ancora lì; è solo diventato un buco nero.
+
+30
+00:01:59,140 --> 00:02:03,539
+Alquanto inquietante, ma ora guardiamo il resto del Sistema Solare.
+
+31
+00:02:03,540 --> 00:02:06,818
+Ok, rimpiccioliamo e-
+
+32
+00:02:06,819 --> 00:02:07,959
+ah.
+
+33
+00:02:07,960 --> 00:02:11,239
+Non è cambiato... nulla. Cioè, qualcosa è cambiato:
+
+34
+00:02:11,240 --> 00:02:16,259
+è più freddo e buio, ma non c'è niente che vola via nello spazio o viene risucchiata.
+
+35
+00:02:16,260 --> 00:02:20,339
+Vedete, restringendo il sole non abbiamo cambiato il "sotto" dei pianeti.
+
+36
+00:02:20,340 --> 00:02:25,639
+Continuano ad essere attratti verso il suo centro e rimpicciolirlo non ha cambiato la sua posizione.
+
+37
+00:02:25,640 --> 00:02:32,259
+In più, la forza che li attraeva verso il centro del sole ha conservato la sua intensità.
+
+38
+00:02:32,260 --> 00:02:35,619
+Questo ci dà un indizio sulla natura del "sotto".
+
+39
+00:02:35,620 --> 00:02:40,259
+L' altro parametro rimasto inalterato: la massa.
+
+40
+00:02:40,260 --> 00:02:45,459
+La massa misura la difficoltà di accelerare qualcosa; cambiare il suo stato di moto.
+
+41
+00:02:45,460 --> 00:02:50,259
+In questo momento queste due sfere non sono in movimento rispetto a me.
+
+42
+00:02:50,260 --> 00:02:54,339
+È piuttosto semplice prendere a schiaffi questa palla vuota di plastica
+
+43
+00:02:54,340 --> 00:03:01,419
+ma fare lo stesso con questa sfera d'acciaio duro
+
+44
+00:03:01,420 --> 00:03:03,119
+è molto più difficile.
+
+45
+00:03:03,120 --> 00:03:06,479
+Ora, la gravità e il peso non hanno niente a che fare con questo.
+
+46
+00:03:06,480 --> 00:03:10,279
+La forza di gravità agisce verso il basso, non contro il mio strapazzamento orizzontale.
+
+47
+00:03:10,280 --> 00:03:16,598
+Certo, la gravità contribuisce alla frizione, ma quest'ultima agisce a mio svantaggio quando inizio a muovere la palla,
+
+48
+00:03:16,599 --> 00:03:19,018
+ed è a mio vantaggio quando la fermo.
+
+49
+00:03:19,019 --> 00:03:23,078
+E la sfera di metallo è più difficile da fermare di quella di plastica.
+
+50
+00:03:23,079 --> 00:03:27,148
+La differenza sta nella MASSA. La palla di metallo è più massiccia.
+
+51
+00:03:27,149 --> 00:03:30,939
+Resiste maggiormente al cambiamento di moto.
+
+52
+00:03:30,940 --> 00:03:36,699
+La massa è una proprietà intrinseca: non dipende da ciò che c'è intorno e non cambia da posto a posto.
+
+53
+00:03:36,700 --> 00:03:40,619
+A volte potremmo definirla come la quantità di materia che un oggetto possiede.
+
+54
+00:03:40,620 --> 00:03:43,959
+La tua massa è la stessa, indipendentemente da dove ti trovi.
+
+55
+00:03:43,960 --> 00:03:47,999
+Sulla Terra, sulla Luna, nel mezzo dello spazio intergalattico.
+
+56
+00:03:48,000 --> 00:03:53,819
+Detto ciò, è anche vero che la massa sembra essere influenzata da ciò che c'è attorno.
+
+57
+00:03:53,820 --> 00:03:57,159
+Le piace la compagnia.
+
+58
+00:03:57,160 --> 00:04:03,608
+Gli oggetti dotati di massa e/o energia sono attratti gli uni agli altri da una forza chiamata gravità.
+
+59
+00:04:03,609 --> 00:04:08,639
+La sensazione di gravità è semplicemente l'attrazione reciproca tra te e la Terra.
+
+60
+00:04:08,640 --> 00:04:13,479
+Ogni parte di un oggetto dotato di massa attrae a sè altre parti.
+
+61
+00:04:13,480 --> 00:04:19,018
+Facendo una media di tutte queste forze, otteniamo l'attrazione tra i centri di massa.
+
+62
+00:04:19,019 --> 00:04:26,579
+Oggetti enormi come la Terra esercitano un'attrazione enorme, ma non solo. Anche una palla da baseball.
+
+63
+00:04:26,580 --> 00:04:36,159
+Queste due palle da baseball sono attratte reciprocamente dalle loro forze di gravità.
+
+64
+00:04:36,160 --> 00:04:43,239
+Se non fosse che le loro masse sono troppo piccole, le forze minuscole. Non riescono a sconfiggere la frizione o spostare l'aria circostante.
+
+65
+00:04:43,240 --> 00:04:44,888
+Non si avvicineranno mai.
+
+66
+00:04:44,889 --> 00:04:52,029
+MA mettendo due palle da baseball alla distanza di 1 metro in uno spazio privo di ulteriori forze
+
+67
+00:04:52,030 --> 00:04:57,129
+queste cadranno letteralmente l'una verso l'altra, toccandosi.
+
+68
+00:04:57,130 --> 00:05:01,598
+Ci metteranno tre giorni, ma ce la faranno.
+
+69
+00:05:01,599 --> 00:05:08,319
+Isaac Newton scoprì che l'intensità della forza di attrazione tra due oggetti è uguale al prodotto delle loro masse
+
+70
+00:05:08,320 --> 00:05:15,788
+diviso il quadrato della distanza tra i loro centri, moltiplicato per G maiuscola, la costante gravitazionale.
+
+71
+00:05:15,789 --> 00:05:21,009
+Se aumentate la massa di due o più oggetti, o li avvicinate, la forza gravitazionale sarà
+
+72
+00:05:21,010 --> 00:05:26,049
+più intensa, e questa forza di attrazione è ciò che chiamiamo PESO.
+
+73
+00:05:26,050 --> 00:05:31,459
+Quindi, la massa è intrinseca, mentre il peso dipende dal contesto.
+
+74
+00:05:31,460 --> 00:05:35,419
+Ora, quando vi pesate sulla maggior parte delle bilance accade una cosa strana:
+
+75
+00:05:35,420 --> 00:05:39,649
+il peso è una forza, ma le bilance mostrano chili e libbre
+
+76
+00:05:39,650 --> 00:05:42,939
+che sono unità di massa... Ciò che sta accadendo
+
+77
+00:05:42,940 --> 00:05:44,839
+è che una bilancia viene
+
+78
+00:05:44,840 --> 00:05:46,699
+attivata da una forza.
+
+79
+00:05:46,700 --> 00:05:47,289
+Di qualunque tipo.
+
+80
+00:05:47,290 --> 00:05:52,249
+Non dev'essere per forza la gravità. La bilancia mostra quindi quanta massa
+
+81
+00:05:52,250 --> 00:05:57,949
+verrebbe attratta dalla superficie della Terra con la forza rilevata.
+
+82
+00:05:57,950 --> 00:06:04,039
+Poichè le bilance vengono usate di solito sulla superficie della Terra, da gente su cui agisce la sola forza di gravità
+
+83
+00:06:04,040 --> 00:06:12,949
+sono in genere accurate, ma posso essere facilmente ingannate e aumentare la nostra confusione tra massa e peso.
+
+84
+00:06:12,950 --> 00:06:20,839
+Notate che il peso è reciproco. Viene attratto dalla Terra con la stessa forza con cui tu attrai la Terra.
+
+85
+00:06:20,840 --> 00:06:23,989
+Secondo una bilancia, io peso
+
+86
+00:06:23,990 --> 00:06:30,759
+81,6 kg sulla Terra
+
+87
+00:06:30,760 --> 00:06:36,699
+e la Terra pesa 81,6 kg su di me.
+
+88
+00:06:36,700 --> 00:06:41,559
+Ma dato che la massa della Terra è molto maggiore della mia
+
+89
+00:06:41,560 --> 00:06:46,809
+e dato che più qualcosa è massiccia, più resiste allo spostamento
+
+90
+00:06:46,810 --> 00:06:51,159
+le nostre forze uguali e opposto accelerano me molto più della Terra.
+
+91
+00:06:51,160 --> 00:06:58,869
+Se fate cadere una matita da un'altezza di 1.80 metri, la matita non cade semplicemente sulla Terra:
+
+92
+00:06:58,870 --> 00:07:01,269
+Terra e matita si stanno avvicinando.
+
+93
+00:07:01,270 --> 00:07:03,719
+Sono attratti l'una all'altra da una forza di uguale intensità
+
+94
+00:07:03,720 --> 00:07:06,249
+ma la matita viene spinta molto più
+
+95
+00:07:06,250 --> 00:07:11,439
+intensamente della Terra. Quando lasci la matita, la Terra viene letteralmente attratta
+
+96
+00:07:11,440 --> 00:07:17,469
+verso la matita dalla sua forza di gravità, coprendo una distanza pari a 9 bilionesimi
+
+97
+00:07:17,470 --> 00:07:20,169
+lo spessore di un protone.
+
+98
+00:07:20,170 --> 00:07:26,589
+La stessa forza fa coprire alla matita la distanza rimanente, che equivale ancora a 1.80 metri.
+
+99
+00:07:26,590 --> 00:07:33,069
+All'altezza della Stazione Spaziale Internazionale, sei attratto dalla Terra quasi
+
+100
+00:07:33,070 --> 00:07:39,819
+il 10% in meno di quando sei sulla superficie, all'incirca 8.8 volte la tua massa, ma non zero.
+
+101
+00:07:39,820 --> 00:07:47,459
+Per questo motivo, gli astronauti fluttuano non perchè non abbiano peso, o perchè non ci sia gravità.
+
+102
+00:07:47,460 --> 00:07:51,959
+La loro forza peso non riesce ad avvicinarli alla Terra perchè si muovono orizzontalmente
+
+103
+00:07:51,960 --> 00:07:58,299
+con una velocità tale da eguagliare la velocità di curvatura della Terra.
+
+104
+00:07:58,300 --> 00:08:03,189
+Anche sperimentando il 90% della gravità che sperimentiamo noi in questo momento
+
+105
+00:08:03,190 --> 00:08:04,749
+- in caso contrario, volerebbero via -
+
+106
+00:08:04,750 --> 00:08:12,309
+non ci sono forze (chiamate "forze g") che si oppongano alla loro forza peso, poiché tutto ciò che li circonda sta ugualmente cadendo.
+
+107
+00:08:12,310 --> 00:08:17,079
+È la resistenza alla tua forza peso; uno stress,
+
+108
+00:08:17,080 --> 00:08:24,129
+una deformazione, che ti consente di sentire il peso. Quello che gli astronauti in orbita non hanno è in realtà
+
+109
+00:08:24,130 --> 00:08:26,349
+un "peso apparente".
+
+110
+00:08:26,350 --> 00:08:29,459
+Allo stesso modo, un palloncino pieno d'elio ha un peso.
+
+111
+00:08:29,460 --> 00:08:36,028
+Voglio dire, è composto da materia. Ha chiaramente una massa, dunque è attratto dalla Terra.
+
+112
+00:08:36,029 --> 00:08:41,009
+Proviamo a misurare la sua forza peso.
+
+113
+00:08:41,010 --> 00:08:43,979
+Sono otto...
+
+114
+00:08:43,980 --> 00:08:46,979
+Bene, il suo peso apparente è negativo.
+
+115
+00:08:46,980 --> 00:08:52,859
+Questo avviene perchè la forza di attrazione verso la Terra è più debole delle forze di galleggiamento che lo spingono verso l'alto.
+
+116
+00:08:52,860 --> 00:08:54,499
+Ora, muovendosi verso l'alto
+
+117
+00:08:54,500 --> 00:09:02,279
+spinge verso il basso le molecole d'aria, in ogni direzione, non solo sulla bilancia.
+
+118
+00:09:02,280 --> 00:09:08,179
+Le forze di galleggiamento dipendono dal fatto che quando si viene immersi in un fluido come l'acqua o l'aria
+
+119
+00:09:08,180 --> 00:09:10,979
+sulle molecole più in basso viene esercitata una pressione maggiore:
+
+120
+00:09:10,980 --> 00:09:13,439
+vengono schiacciate dal peso di tutte le molecole
+
+121
+00:09:13,440 --> 00:09:18,599
+sopra di loro, inoltre sono più vicine alla terra quindi vengono attratte con una forza maggiore. Avendo una pressione maggiore,
+
+122
+00:09:18,600 --> 00:09:22,259
+tirano un pugno più forte agli oggetti quando collidono.
+
+123
+00:09:22,260 --> 00:09:23,459
+Dunque
+
+124
+00:09:23,460 --> 00:09:25,659
+su un piano orizzontale, queste collisioni si annullano a vicenda.
+
+125
+00:09:25,660 --> 00:09:32,539
+Ma su un piano verticale, le collisioni delle molecole inferiori, più intense, creano un sollevamento; una forza di galleggiamento.
+
+126
+00:09:32,540 --> 00:09:38,159
+La stessa cosa accade anche sul tuo corpo: l'aria solleva la sua superficie con una forza di circa
+
+127
+00:09:38,160 --> 00:09:45,838
+1 Newton, che è uguale alla forza peso di... una mela. Quindi se ti pesassi in una camera a vuoto, peseresti quasi
+
+128
+00:09:45,839 --> 00:09:48,269
+una "mela" in più.
+
+129
+00:09:48,270 --> 00:09:54,679
+Ma non è tutto: a causa della sua rotazione, la Terra è più spessa all'Equatore, quindi più vi sei vicino
+
+130
+00:09:54,680 --> 00:10:02,099
+più sei lontano dal centro di massa del pianeta e minore sarà il tuo peso gravitazionale. Il "basso"
+
+131
+00:10:02,100 --> 00:10:04,289
+cambia di continuo. Voglio dire,
+
+132
+00:10:04,290 --> 00:10:11,249
+dov'è il centro di massa della Terra? Coinciderebbe con il suo centro geometrico se la Terra avesse
+
+133
+00:10:11,250 --> 00:10:18,379
+una composizione uniforme, ma questo non terrebbe conto delle sacche rocciose a varie profondità, dell'acqua, delle montagne.
+
+134
+00:10:18,380 --> 00:10:24,239
+Ha un didentro sempre in movimento, aria, ghiacciai stagionali, e anche se sono molto distanti,
+
+135
+00:10:24,240 --> 00:10:31,699
+la gravità si estende da qui all'infinito. Quindi il Sole, la Luna, i pianeti... tutto ti attrae
+
+136
+00:10:31,700 --> 00:10:32,819
+in maniera trascurabile,
+
+137
+00:10:32,820 --> 00:10:39,659
+ma accade davvero. Pesi all'incirca un milionesimo di meno quando la Luna è direttamente sopra la tua testa.
+
+138
+00:10:39,660 --> 00:10:47,199
+Questo mosaico semovente di materiali sulla Terra e da ogni parte nell'universo significa che il "basso"
+
+139
+00:10:47,200 --> 00:10:48,249
+non è mai
+
+140
+00:10:48,250 --> 00:10:51,099
+nello stesso posto. Per di più, la rotazione della Terra
+
+141
+00:10:51,100 --> 00:10:57,039
+distorce la tua percezione di "basso", che non equivale al centro di massa perchè apparentemente la rotazione terrestre
+
+142
+00:10:57,040 --> 00:11:01,929
+ti solleva leggermente dal suolo, riducendo il tuo peso apparente e incurvando la sua direzione
+
+143
+00:11:01,930 --> 00:11:03,309
+verso l'equatore.
+
+144
+00:11:03,310 --> 00:11:10,929
+Il risultato netto è una perdita di peso apparente all'equatore del 0,5% circa. Se, usando la stessa bilancia,
+
+145
+00:11:10,930 --> 00:11:14,768
+pesassi 200 libbre ai poli,
+
+146
+00:11:14,769 --> 00:11:18,309
+il risultato sarebbe 199 all'equatore. Il fattore moltiplicante 9,8
+
+147
+00:11:18,310 --> 00:11:25,208
+usato spesso in fisica viene calcolato sulla base di come questi fattori influenzano una persona a 45° di latitudine.
+
+148
+00:11:25,209 --> 00:11:30,819
+Questi fattori influenzano la direzione del "basso", provocando una deviazione verticale
+
+149
+00:11:30,820 --> 00:11:35,049
+che in ogni punto della Terra, è al massimo di pochi secondi d'arco.
+
+150
+00:11:35,050 --> 00:11:42,429
+Non abbastanza per essere avvertita, ma ciononostante questa deviazione può essere usata per studiare la topologia del suolo oceanico,
+
+151
+00:11:42,430 --> 00:11:48,398
+determinare cosa c'è sotto di noi, o perfino aiutarci a rinvenire antiche camere in rovina.
+
+152
+00:11:48,399 --> 00:11:54,578
+Per fare il punto: il nostro "basso" non è un insieme di linee simmetriche.
+
+153
+00:11:54,579 --> 00:11:57,549
+Il basso è una confusione di linee spettinate.
+
+154
+00:11:57,550 --> 00:12:03,639
+Ora dal momento che i solidi non si destrutturano, possono avere frome indipendenti dalla gravità, ma l'acqua può
+
+155
+00:12:03,640 --> 00:12:11,379
+modificarsi, così ignrando le influenze del vento e le maree, la superfice dell'oceano dei laghi e delle pozzanghere è sempre perpendicolare
+
+156
+00:12:11,380 --> 00:12:17,859
+al basso. Se l'acqua potesse passare attraverso la terra, o se essa stessa fosse sommersa
+
+157
+00:12:17,860 --> 00:12:21,789
+la gravità sarebbe la stessa ovunque attraverso la sua superfice ondulata.
+
+158
+00:12:21,790 --> 00:12:26,708
+Una tale superficie sarebbe chiamata geoide e potrebbe essere tracciata ad ogni altitudine.
+
+159
+00:12:26,709 --> 00:12:32,458
+Se costruissimo un tavolo che racchiudesse la Terra, dovrebbe avere un'ondulazione costante,
+
+160
+00:12:32,459 --> 00:12:35,889
+a volte anche di un centinaio di metri, così da essere
+
+161
+00:12:35,890 --> 00:12:40,239
+piana. E una palla posizionata in qualunque punto non rotolerebbe.
+
+162
+00:12:40,240 --> 00:12:44,109
+Questo è il geoide terrestre, mille volte più esagerato.
+
+163
+00:12:44,110 --> 00:12:48,179
+In questo punto peseresti un millesimo di meno, pochi grammi,
+
+164
+00:12:48,180 --> 00:12:54,258
+a differenza di questo punto, dove la gravità è leggermente più intensa. Il punto è che la forza e la direzione
+
+165
+00:12:54,259 --> 00:12:59,488
+del "basso" variano in base al luogo e al tempo.
+
+166
+00:12:59,489 --> 00:13:04,738
+Dunque il "basso" è un vettore fluttuante, ma la vera domanda è un'altra:
+
+167
+00:13:04,739 --> 00:13:09,539
+perchè la materia dovrebbe attrarre altra materia?
+
+168
+00:13:09,540 --> 00:13:14,368
+Isaac Newton riuscì a descrivere la forza di attrazione, ma non a spiegarla.
+
+169
+00:13:14,369 --> 00:13:20,638
+Ci mancò poco, però, quando Albert Einstein formulò la sua teoria della relatività generale.
+
+170
+00:13:20,639 --> 00:13:24,328
+Einstein si chiese a lungo come fosse possibile che tutte le cose cadessero
+
+171
+00:13:24,329 --> 00:13:26,508
+alla stessa velocità. Non importa quanto
+
+172
+00:13:26,509 --> 00:13:33,108
+massiccio sia un oggetto: se fatto cadere, accelererà verso la Terra, in "basso", guadagnando una velocità
+
+173
+00:13:33,109 --> 00:13:37,588
+di 9.8 metri al secondo. Questo significa che un martello, che è piuttosto pesante, e una piuma,
+
+174
+00:13:37,589 --> 00:13:47,818
+se lasciati cadere dalla stessa altezza, toccheranno il suolo nello stesso momento.
+
+175
+00:13:47,819 --> 00:13:50,278
+Bene, quello che è appena successo
+
+176
+00:13:50,279 --> 00:13:51,988
+è stato un air-rore.
+
+177
+00:13:51,989 --> 00:13:53,038
+*risata imbarazzata*
+
+178
+00:13:53,039 --> 00:13:56,548
+Mentre cade, un oggetto deve spostare via l'aria che lo circonda.
+
+179
+00:13:56,549 --> 00:14:01,888
+Ma se possiede una superficie molto estesa e una forza peso poco intensa, dovrà muovere un sacco di aria,
+
+180
+00:14:01,889 --> 00:14:07,459
+e lo farà in molto più tempo. In assenza di aria, gli oggetti cadono alla stessa velocità indipendentemente
+
+181
+00:14:07,460 --> 00:14:14,039
+dalla massa. Questo venne dimostrato dal comandante David Scott della missione Apollo 15 sulla Luna.
+
+182
+00:14:14,040 --> 00:14:20,279
+"E ora... uh... faccio cadere entrambi e, come previsto, toccheranno il suolo nello stesso istante".
+
+183
+00:14:20,280 --> 00:14:21,259
+"Non male!"
+
+184
+00:14:21,260 --> 00:14:27,148
+E' strano, vero? Se un oggetto più massiccio viene attratto con maggiore intensità,
+
+185
+00:14:27,149 --> 00:14:31,409
+non dovrebbe cadere più veloce? Be', la spiegazione di Newton fu molto semplice:
+
+186
+00:14:31,410 --> 00:14:34,588
+Le masse più grandi sono attratte da forze più intense,
+
+187
+00:14:34,589 --> 00:14:39,898
+ma hanno anche bisogno di più forza per essere accelerate con la stessa intensità delle masse più piccole.
+
+188
+00:14:39,899 --> 00:14:46,768
+Un oggetto con una massa 100 volte maggiore potrebbe richiedere una forza 100 volte maggiore, ma verrà anche
+
+189
+00:14:46,769 --> 00:14:52,498
+attratto dalla gravità 100 volte più intensamente, quindi ogni cosa cade sulla Terra con la stessa velocità.
+
+190
+00:14:52,499 --> 00:14:56,969
+Che strana coincidenza, vero?
+
+191
+00:14:56,970 --> 00:14:58,738
+Forse non lo è.
+
+192
+00:14:58,739 --> 00:15:03,888
+Einstein si accorse che c'era un altro modo in cui le cose possono apparentemente cadere insieme
+
+193
+00:15:03,889 --> 00:15:05,398
+indipendentemente dalla loro massa
+
+194
+00:15:05,399 --> 00:15:13,318
+Immaginate una piuma e un martello che fluttuano in una stanza in mezzo allo spazio. Se la stanza viene improvvisamente
+
+195
+00:15:13,319 --> 00:15:18,719
+accellerata di 9.8 M/s^2, la piuma e il martello cadranno a terra nello stesso istante.
+
+196
+00:15:18,720 --> 00:15:24,659
+In più sia che sia la stanza che si muove in alto per toccarli o la gravità che viene improvvisamente attivata
+
+197
+00:15:24,660 --> 00:15:28,078
+Nessun oggetto sentirà una forza che li spinge
+
+198
+00:15:28,079 --> 00:15:34,018
+Non c'è modo di capire cosa sia successo fra questi due eventi. Questo è il famoso
+
+199
+00:15:34,019 --> 00:15:35,398
+principio di equivalenza di Einstein
+
+200
+00:15:35,399 --> 00:15:40,438
+Egli stesso una volta confessò che il suo pensiero più importante era stato quello di un uomo
+
+201
+00:15:40,439 --> 00:15:42,628
+che cadeva da un tetto
+
+202
+00:15:42,629 --> 00:15:49,528
+In caduta, l'uomo non avrebbe sentito alcuna forza su di lui nonostante stesse accelerando
+
+203
+00:15:49,529 --> 00:15:50,909
+la caduta libera è
+
+204
+00:15:50,910 --> 00:15:57,688
+indistinguibile dal fluttuare in mezzo allo spazio, da non avere alcuna forza su di te, da non essere in movimento
+
+205
+00:15:57,689 --> 00:16:03,808
+E se la gravità non fosse una forza in primo luogo?  E se le cose cadessero non perchè stanno venendo spinte e tirate
+
+206
+00:16:03,809 --> 00:16:08,099
+ma perchè NON stanno venendo spinte e tirate?
+
+207
+00:16:08,100 --> 00:16:13,648
+Per vedere come questo possa essere possibile, dobbiamo parlare di linee rette
+
+208
+00:16:13,649 --> 00:16:17,488
+Qui con me ho un porta-tesserino retrattile
+
+209
+00:16:17,489 --> 00:16:20,698
+Questo è un ottimo modo per controllare se un percorso è diritto.
+
+210
+00:16:20,699 --> 00:16:24,168
+Perché la corda è sempre in tensione. La tessera
+
+211
+00:16:24,169 --> 00:16:26,748
+che ho messo dietro ha due linee disegnate sopra
+
+212
+00:16:26,749 --> 00:16:32,058
+Quindi se quando tiro fuori la corda, questa sta fra queste due linee
+
+213
+00:16:32,059 --> 00:16:34,859
+Sarò sicuro di non averla mai girata
+
+214
+00:16:34,860 --> 00:16:40,948
+mentre la tiravo, perché ogni volta che la giro si creerà un angolo diverso fra le linee sulla tessera e la corda
+
+215
+00:16:40,949 --> 00:16:47,398
+Se ora metto due di questi su un tavolo piatto e tiro le corde, facendo attenzione a farli andare dritti in avanti
+
+216
+00:16:47,399 --> 00:16:55,798
+non si incontreranno mai, saranno sempre parallele. Ma adesso mettiamoli su una sfera,  una superficie curva
+
+217
+00:16:55,799 --> 00:17:03,059
+Di nuovo, tiro le due corda in avanti, facendo attenzione che siano diritte, senza girarle
+
+218
+00:17:03,060 --> 00:17:06,118
+Aspetta un attimo. Si sono incontrate
+
+219
+00:17:06,119 --> 00:17:08,719
+Beh, non hanno curvato, guardate
+
+220
+00:17:08,720 --> 00:17:16,389
+Magari c'è una qualche sorta di forza nascosta che ha spinto insieme le mie mani e,  proprio come la gravità, non l'ho sentita, ma è successo.
+
+221
+00:17:16,390 --> 00:17:17,559
+No
+
+222
+00:17:17,560 --> 00:17:23,139
+Ciò che è successo non è il risultato di una forza, era solo un effetto naturale della curvatura
+
+223
+00:17:23,140 --> 00:17:30,639
+Potreste pensare "Aspetta un attimo, siamo proprio sicuri che siamo dritte quelle rette? Voglio dire, a me non sembrano dritte.
+
+224
+00:17:30,640 --> 00:17:38,439
+In più, se si fossero mosse lungo le linee della latitudine allora non si sarebbero mai incontrate, e quelle mi sembrano piuttosto dritte"
+
+225
+00:17:38,440 --> 00:17:46,269
+Ma non lo sono. Una linea dritta non deve mai curvare, e per quanto le linee di latitudine sembrino dritte a prima vista
+
+226
+00:17:46,270 --> 00:17:48,279
+per seguirne una è necessario
+
+227
+00:17:48,280 --> 00:17:54,329
+curvare. Per individuare linee dritte su una superficie, sia che sia piatta come questa o curva,
+
+228
+00:17:54,330 --> 00:17:58,319
+a me piace la prova del nastro. Potete usare un vero nastro,
+
+229
+00:17:58,320 --> 00:18:04,479
+ma ho osservato che una striscia di carta funziona anche meglio. Diamo un'occhiata a questo percorso qui:
+
+230
+00:18:04,480 --> 00:18:10,319
+è dritto all'inizio, ma poi curva. Ora, se due persone stessero viaggiando lungo questa curva
+
+231
+00:18:10,320 --> 00:18:16,989
+e volessero rimanere insieme, la persona all'interno dovrebbe percorrere una distanza minore della persone all'esterno.
+
+232
+00:18:16,990 --> 00:18:20,429
+Dal momento i lati di questa striscia di carta non possono cambiare lunghezza,
+
+233
+00:18:20,430 --> 00:18:25,599
+ci aiuteranno a individuare percorsi dritti. Se la striscia rimane piatta
+
+234
+00:18:25,600 --> 00:18:29,229
+sapremo di aver trovato una linea dritta e, come potete vedere
+
+235
+00:18:29,230 --> 00:18:32,889
+la striscia rimane piatta e segue la sezione dritta di questo percorso.
+
+236
+00:18:32,890 --> 00:18:36,339
+Ma quando si arriva alla curva, per seguire il percorso
+
+237
+00:18:36,340 --> 00:18:40,329
+la striscia.. beh, ha troppo materiale all'interno, che quindi
+
+238
+00:18:40,330 --> 00:18:47,769
+si accartoccia e si solleva dalla superficie, dimostrandoci che quella sezione del percorso non è dritta.
+
+239
+00:18:47,770 --> 00:18:52,659
+Usiamo la prova del nastro per individuare linee dritte sulla superficie di un cono.
+
+240
+00:18:52,660 --> 00:18:58,929
+Beh, apparentemente una linea tracciata tra la base e la punta sembrerebbe essere dritta.
+
+241
+00:18:58,930 --> 00:19:05,079
+Si, il nastro si stende piatto sul percorso, ma se facessimo un anello intorno al cono?
+
+242
+00:19:05,080 --> 00:19:11,459
+No, non funziona. La distanza più corta vicino alla punta del cono ci porta ad avere troppo nastro nella parte alta,
+
+243
+00:19:11,460 --> 00:19:13,179
+quindi non rimane piatto
+
+244
+00:19:13,180 --> 00:19:20,919
+Vediamo, cos'altro c'è oltre a questo? Beh se inizio qui e permetto al nastro
+
+245
+00:19:20,920 --> 00:19:22,689
+di stendersi piatto
+
+246
+00:19:22,690 --> 00:19:26,428
+ottengo una forma apparentemente curva come questa.
+
+247
+00:19:26,429 --> 00:19:33,189
+Dico "apparentemente curva" perchè nonostante, per qualcuno alla base del cono, possa sembrare che questo percorso salga,
+
+248
+00:19:33,190 --> 00:19:39,939
+deceleri, cambi direzione e poi scenda giù sempre più veloce, dal momento che il nastro rimane piatto
+
+249
+00:19:39,940 --> 00:19:44,109
+di fatto, per gli abitanti della superficie del cono
+
+250
+00:19:44,110 --> 00:19:48,058
+è un percorso perfettamente dritto. Se ci segnamo il percorso del nastro sul cono
+
+251
+00:19:48,059 --> 00:19:56,529
+lo vediamo chiaramente, dal momento che un cono può essere reso piano. Una linea dritta su una superficie curva è detta geodetica.
+
+252
+00:19:56,530 --> 00:20:01,509
+Questa è una geodetica su una sfera. L'equatore è una geodetica
+
+253
+00:20:01,510 --> 00:20:05,369
+Eccone un'altra. Una latitudine non è una geodetica.
+
+254
+00:20:05,370 --> 00:20:10,089
+Non è una linea dritta. Per dimostrarlo proviamo a seguirla col nastro.
+
+255
+00:20:10,090 --> 00:20:13,329
+Sai cosa? Devo continuare a sollevarlo.
+
+256
+00:20:13,330 --> 00:20:17,499
+Le distanze intorno ala sfera si accorciano più si sale,
+
+257
+00:20:17,500 --> 00:20:19,799
+quindi c'è troppo materiale nel nastro quassù
+
+258
+00:20:19,800 --> 00:20:24,759
+e si solleva dalla superficie. Questo percorso contiene curve, e per compiere una curva,
+
+259
+00:20:24,760 --> 00:20:27,749
+deve intervenire una forza. Altrimenti
+
+260
+00:20:27,750 --> 00:20:35,349
+il percorso compiuto sarebbe questo. Notate che il nastro inizia muovendosi verso est, ma poi "cade"
+
+261
+00:20:35,350 --> 00:20:37,389
+a sud.
+
+262
+00:20:37,390 --> 00:20:39,939
+Cade
+
+263
+00:20:39,940 --> 00:20:45,069
+Einstein realizzò che la curvatura avrebbe potuto portare le cose a sembrare attratte tra di loro
+
+264
+00:20:45,070 --> 00:20:49,089
+senza il bisogno di inventare una forza come la gravità.
+
+265
+00:20:49,090 --> 00:20:56,589
+Ma l'attrazione avviene solo se le cose si muovono lungo una superficie.
+
+266
+00:20:56,590 --> 00:21:02,369
+Se stanno ferme, beh, non si incontrano. Da dove parte la caduta?
+
+267
+00:21:02,370 --> 00:21:07,989
+Voglio dire: le cose devono muoversi in questa direzione, ma sono ferme, giusto? Beh
+
+268
+00:21:07,990 --> 00:21:08,489
+Si
+
+269
+00:21:08,490 --> 00:21:14,649
+Ma sono ferme solo nello spazio, e non è tutto quel che c'è. Su, giù,
+
+270
+00:21:14,650 --> 00:21:23,319
+davanti, dietro e destra e sinistra sono tutto ciò che ti serve per descrivere dove avviene un evento, ma una descrizione completa ha bisogno anche del
+
+271
+00:21:23,320 --> 00:21:30,279
+quando. Insieme, queste quattro dimensioni, formano lo scenario in cui avviene ogni cosa nel nostro universo.
+
+272
+00:21:30,280 --> 00:21:31,659
+Spaziotempo.
+
+273
+00:21:31,660 --> 00:21:39,009
+Dal momento che possiamo parlare di una matita che cade usando solo le dimensioni spaziali "su" e "giu", possiamo usare un foglio dicarta come modello
+
+274
+00:21:39,010 --> 00:21:43,659
+dello spaziotempo. Ok, abbiamo su e giu ma dobbiamo aggiungere un'altra direzione
+
+275
+00:21:43,660 --> 00:21:45,459
+in cui muovere la matita.
+
+276
+00:21:45,460 --> 00:21:46,299
+Il tempo.
+
+277
+00:21:46,300 --> 00:21:50,339
+Se nessuna forza influisce sulla matita, questa non si muoverà attraverso lo spazio.
+
+278
+00:21:50,340 --> 00:21:54,839
+Diventerà solo più vecchia. Come potete vedere, se si limita a diventare più vecchia
+
+279
+00:21:54,840 --> 00:22:00,639
+non cadrà. Se lo spaziotempo fosse piatto e lasciassi cadere la matita,
+
+280
+00:22:00,640 --> 00:22:08,169
+non andrebbe da nessuna parte. Ma ora permettiamo alla terra, che è massiccia, di manipolare lo spaziotempo nella forma di, diciamo,
+
+281
+00:22:08,170 --> 00:22:09,189
+un cono.
+
+282
+00:22:09,190 --> 00:22:14,079
+Ora, senza alcuna forza interagisce con la matita, ogni sua parte segue una linea dritta,
+
+283
+00:22:14,080 --> 00:22:20,859
+ma su un cono, come abbiamo visto prima, un tale percorso avrebbe questo aspetto. Cadrebbe.
+
+284
+00:22:20,860 --> 00:22:25,209
+Questo perchè le distanze intorno al cono sono più corste più si sale.
+
+285
+00:22:25,210 --> 00:22:29,499
+Il tempo scorre più veloce, lontano dagli oggetti massicci, ma per andare dritta
+
+286
+00:22:29,500 --> 00:22:34,629
+e non curvare, ogni parte della matita deve coprire la stessa distanza nello spaziotempo
+
+287
+00:22:34,630 --> 00:22:36,189
+in questo modo.
+
+288
+00:22:36,190 --> 00:22:43,749
+Solo quando la matita colpisce la terra, la repulsione dei loro rispettivi elettroni fornirà una forza che spingerà la matita fuori dalla geodetica.
+
+289
+00:22:43,750 --> 00:22:50,258
+Per la terra, il tempo è una seria di "fette" di questa evoluzione. La geodetica senza forze
+
+290
+00:22:50,259 --> 00:22:58,148
+della matita è il motivo per cui cade. Non una spinta o un'attrazione, solo la naturale inclinazione della matita a seguire linee dritte
+
+291
+00:22:58,149 --> 00:23:04,869
+fino all'interazione on qualcosa. Ora, abbiamo usato solo una dimensione per lo spazio e una per il tempo perchè
+
+292
+00:23:04,870 --> 00:23:12,099
+visualizzare il nostro universo con tre dimensioni per lo spazio e una per il tempo ci porterebbe oltre i limiti di quello che può essere mostrato sulla carta e sullo schermo.
+
+293
+00:23:12,100 --> 00:23:13,388
+Ma la matematica
+
+294
+00:23:13,389 --> 00:23:15,158
+ci può portare li.
+
+295
+00:23:15,159 --> 00:23:19,148
+La relatività generale ci permette di calcolare come la massa e l'energia
+
+296
+00:23:19,149 --> 00:23:26,648
+curvano lo spaziotempo ed è stata usata per spiegare cose inspiegabili dalla vecchia teoria newtoniana del cadere come risultato dell'interazione
+
+297
+00:23:26,649 --> 00:23:34,839
+di forze, come anomalie nell'orbita di mercurio, che orbitando vicino al sole è il piò soggetto dell'influenza del sole sullo
+
+298
+00:23:34,840 --> 00:23:42,008
+spaziotempo. Molti altri esperimenti hanno confermato la descrizione dell'universo fatta dalla relatività generale, portando alla conclusione che
+
+299
+00:23:42,009 --> 00:23:44,619
+non c'è nessuna
+
+300
+00:23:44,620 --> 00:23:47,079
+gravità, c'è solo
+
+301
+00:23:47,080 --> 00:23:52,959
+lo spaziotempo, la sua curvatura e noi al suo interno. Come l'ha notoriamente messa John Wheeler:
+
+302
+00:23:52,960 --> 00:24:00,668
+"lo spaziotempo stringe la massa dicendole dove muoversi. La massa stringe lo spaziotempo dicendogli come curvarsi"
+
+303
+00:24:00,669 --> 00:24:07,599
+Rispetto alla Terra, noi non ci muoviamo molto velocemente. Anche il moto di un jet è trascurabile di paragonato alla velocità della luce.
+
+304
+00:24:07,600 --> 00:24:10,959
+Quindi, rispetto alla terra, noi ci muoviamo quasi
+
+305
+00:24:10,960 --> 00:24:17,739
+esclusivamente attraverso il tempo, di conseguenza siamo più influenzati dal modo in cui il tempo è curvato dalla massa
+
+306
+00:24:17,740 --> 00:24:19,658
+che dal modo in cui lo è lo spazio.
+
+307
+00:24:19,659 --> 00:24:25,239
+Questo a portato molti a sostenere che per la maggior parte ci sentiamo come se venissimo spinti verso il terreno,
+
+308
+00:24:25,240 --> 00:24:27,518
+non a causa di una forza chiamata gravità
+
+309
+00:24:27,519 --> 00:24:33,758
+ma a causa del fatto che il tempo passa più in fretta per la tua testa che per i tuoi piedi. Il basso è
+
+310
+00:24:33,759 --> 00:24:41,979
+relativo e mutevole, ma esiste a causa, ed è sempre nella direzione, del tempo che scorre più lentamente.
+
+311
+00:24:41,980 --> 00:24:46,689
+Bertrand Russell la chiamò "legge della pigrizia cosmica".
+
+312
+00:24:46,690 --> 00:24:54,428
+Tutto curvato naturalmente verso dove il tempo scorre più lentamente e noi chiamiamo questo fenomeno cadere,
+
+313
+00:24:54,429 --> 00:24:56,529
+scendere.
+
+314
+00:24:56,530 --> 00:25:00,579
+Quindi non avrete bisogno di tenere un profilo basso,
+
+315
+00:25:00,580 --> 00:25:04,749
+ci penserà il tempo per voi.
+
+316
+00:25:04,750 --> 00:25:06,489
+E come sempre
+
+317
+00:25:06,490 --> 00:25:19,189
+Grazie per la visione.
+
+318
+00:25:19,190 --> 00:25:24,919
+Ricordate che potete supportare sia Vsauce sia la ricerca sull'Alzheimer iscrivendovi alla Vsauce
+
+319
+00:25:24,920 --> 00:25:29,389
+curiosity box. Quella attuale contiene un codice per ottenere una copia gratuita di Universe Sandbox 2
+
+320
+00:25:29,390 --> 00:25:35,589
+che è meraviglioso, e un grande assortimento di altri giochi e strumenti scientifici scelti da me, Jake  e Kevin
+
+321
+00:25:35,590 --> 00:25:42,129
+La adoro! In più, spero di vedervi a Brain Candy Live. Stiamo per arrivare in numerose città molto a breve
+
+322
+00:25:42,130 --> 00:25:45,339
+Possibilmente una vicino a voi! Andando allo spettacolo potrete vedere Adam
+
+323
+00:25:45,340 --> 00:25:51,769
+ed io fare cose che potreste non averci mai visto fare. Esploreremo anche la scienza e vari
+
+324
+00:25:51,770 --> 00:25:55,789
+luoghi comuni dietro a tutto ciò che riguarda...
+
+325
+00:25:55,790 --> 00:26:03,159
+L'aria? Forse ho detto un po' troppo, forse no. Spero di vedervi là e, come sempre, grazie per la visione!
+

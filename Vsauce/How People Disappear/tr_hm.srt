@@ -1,0 +1,866 @@
+1
+00:00:00,260 --> 00:00:02,659
+Hey, Vsauce. Michael burada.
+
+2
+00:00:02,660 --> 00:00:03,638
+Birkaç yıl önce,
+
+3
+00:00:03,639 --> 00:00:08,199
+Minneapolis'te, sinirli bir baba, Target isimli bir markete daldı.
+
+4
+00:00:08,200 --> 00:00:11,579
+Liseye giden kızı
+
+5
+00:00:11,580 --> 00:00:15,838
+bu mağazadan beşik ve bebek bezi gibi kuponlar
+
+6
+00:00:15,839 --> 00:00:19,778
+alıyordu. Mağaza daha reşit olmamış kızının
+
+7
+00:00:19,779 --> 00:00:23,059
+hamile kalması için mesaj mı gönderiyordu?
+
+8
+00:00:23,060 --> 00:00:28,709
+Elbette market özür diledi ama birkaç gün sonra baba tekrar gelmişti.
+
+9
+00:00:28,710 --> 00:00:29,448
+Onlara şöyle dedi:
+
+10
+00:00:29,449 --> 00:00:32,859
+"Evimizde benden habersiz
+
+11
+00:00:32,860 --> 00:00:36,499
+birkaç olay gelişmiş. Kızım ağustos ayında
+
+12
+00:00:36,500 --> 00:00:40,699
+doğum yapacak. Size bir özür borçluyum"
+
+13
+00:00:40,700 --> 00:00:44,519
+Target'in kullandığı algoritmalar, kızın yaptığı
+
+14
+00:00:44,520 --> 00:00:48,038
+tüm alışverişleri inceleyip analiz ediyordu ve kız son zamanlarda
+
+15
+00:00:48,039 --> 00:00:51,259
+normalin dışında şeyler satın almaya başlamıştı.
+
+16
+00:00:51,260 --> 00:00:56,179
+Vitamin takviyesi, kokusuz sabun ve losyonlar gibi.
+
+17
+00:00:56,180 --> 00:00:59,769
+Bu davranışlarından hareketle sistem, kızın
+
+18
+00:00:59,770 --> 00:01:03,558
+hamile olabileceğini düşündü ve de kuponları gönderdi.
+
+19
+00:01:03,559 --> 00:01:08,349
+Ve haklılardı da. Hiç kimse söylemeden
+
+20
+00:01:08,350 --> 00:01:12,149
+Target kızın hamile olduğunu anlamıştı
+
+21
+00:01:12,150 --> 00:01:15,699
+babasından bile önce.
+
+22
+00:01:15,700 --> 00:01:20,709
+Dijital olarak daha önce hiç olmadığımız kadar
+
+23
+00:01:20,710 --> 00:01:26,309
+takip ediliyoruz. 7/24 açık güvenlik kameraları,
+
+24
+00:01:26,310 --> 00:01:30,879
+tarayıcı çerezleri, kredi kartları, cep telefonları, GPS,
+
+25
+00:01:30,880 --> 00:01:34,639
+parmak izi ve DNA analizi. Ama buna rağmen
+
+26
+00:01:34,640 --> 00:01:38,069
+her sene
+
+27
+00:01:38,070 --> 00:01:42,478
+sadece Amerika'da 2000'den fazla insan
+
+28
+00:01:42,479 --> 00:01:46,438
+kayboluyor ve bulunamıyor.
+
+29
+00:01:46,439 --> 00:01:48,779
+Ne ölü ne de canlı.
+
+30
+00:01:48,780 --> 00:01:53,739
+Bunca kayıp insan nereye gidiyor? Nasıl yok oluyorlar?
+
+31
+00:01:53,740 --> 00:01:56,859
+Ya sen de kaybolursan, hatta
+
+32
+00:01:56,860 --> 00:01:59,968
+halihazırda kaybolmadığını nereden
+
+33
+00:01:59,969 --> 00:02:04,529
+biliyorsun? Genelde kayıp insanlar çözülemeyen ya da
+
+34
+00:02:04,530 --> 00:02:07,578
+bilinemeyen suçların kurbanıdırlar.
+
+35
+00:02:07,579 --> 00:02:11,049
+Kaza geçirmiş ya da intihar etmiş olabilirler
+
+36
+00:02:11,050 --> 00:02:16,449
+ve vücutları hiç bulunamamıştır. Belki de son derece iyilerdir ve sadece
+
+37
+00:02:16,450 --> 00:02:21,279
+eski hayatlarını, arkadaşlarını ve ailelerini, borçlarını terkedip yeni bir hayata başlamak istemişlerdir.
+
+38
+00:02:21,280 --> 00:02:22,029
+eski hayatlarını, arkadaşlarını ve ailelerini, borçlarını terkedip yeni bir hayata başlamak istemişlerdir.
+
+39
+00:02:22,030 --> 00:02:26,219
+Başka bir yerde, muhtemelen başka bir kimlikle.
+
+40
+00:02:26,220 --> 00:02:29,929
+Eğer kaybolsan, insanlar ne zaman
+
+41
+00:02:29,930 --> 00:02:34,389
+farkederdi? Bir düşün.
+
+42
+00:02:34,390 --> 00:02:37,979
+Kim olduğuna, nasıl yaşadığına ve nasıl
+
+43
+00:02:37,980 --> 00:02:42,969
+kaybolduğuna bağlı olarak değişir. Genelde kaybolduktan 5 ila 7 sene sonra
+
+44
+00:02:42,970 --> 00:02:43,818
+kaybolduğuna bağlı olarak değişir. Genelde kaybolduktan 5 ila 7 sene sonra
+
+45
+00:02:43,819 --> 00:02:47,149
+eğer kimse senden haber alamamışsa
+
+46
+00:02:47,150 --> 00:02:51,229
+gıyaben ölü olarak kayıtlara geçersin.
+
+47
+00:02:51,230 --> 00:02:53,829
+Fransız astronom Guillaume Le Gentil'in başına da
+
+48
+00:02:53,830 --> 00:02:59,169
+bu gelmişti. 18. yy'da yüzlerce insan Venüs'ün Güneş'in önünden geçmesini
+
+49
+00:02:59,170 --> 00:03:02,339
+izleyebilmek için çok uzaklara yolculuk ettiler.
+
+50
+00:03:02,340 --> 00:03:06,399
+Eğer bulgularını karşılaştırırlarsa Güneş'in Dünya'dan ne kadar uzata olduğunu
+
+51
+00:03:06,400 --> 00:03:10,679
+daha önce hiç olmadığı kadar isabetli bir şekilde hesaplayabileceklerini
+
+52
+00:03:10,680 --> 00:03:14,299
+biliyorlardı. Böylece Le Gentil Hindistan, Pondicherry'ye gitmek için 1760'ta Paris'ten yola çıktı.
+
+53
+00:03:14,300 --> 00:03:17,839
+biliyorlardı. Böylece Le Gentil Hindistan, Pondicherry'ye gitmek için 1760'ta Paris'ten yola çıktı.
+
+54
+00:03:17,840 --> 00:03:21,679
+Ama bir fırtına kıyıya yanaşmasına izin vermedi ve İngiletere Pondicherry'yi işgal etmişti.
+
+55
+00:03:21,680 --> 00:03:25,839
+Bu yüzden geçiş gününü gemide geçirmek zorunda kaldı.
+
+56
+00:03:25,840 --> 00:03:29,408
+Gemi çok sallandığı için de
+
+57
+00:03:29,409 --> 00:03:33,048
+hassas ölçümler alamadı. Bir sonraki geçiş günü
+
+58
+00:03:33,049 --> 00:03:37,359
+8 sene sonra gerçekleşecekti. Ondan sonraki geçiş günü ise
+
+59
+00:03:37,360 --> 00:03:40,479
+100 sene sonra gerçekleşecekti.
+
+60
+00:03:40,480 --> 00:03:45,179
+Bu yüzden orada kaldı. Paris'e geri dönmedi, orada bir gözlemevi kurdu
+
+61
+00:03:45,180 --> 00:03:48,859
+ve bekledi. Nihayet Paris'e döndüğünde,
+
+62
+00:03:48,860 --> 00:03:53,609
+ki 11 sene geçmişti, kendisinin ölü olarak ilan edildiğini
+
+63
+00:03:53,610 --> 00:03:57,139
+öğrendi. Karısı yeniden evlenmişti,
+
+64
+00:03:57,140 --> 00:04:00,878
+ailesi mal varlığını bölüşmüştü ve Kraliyet Akademisi'ndeki
+
+65
+00:04:00,879 --> 00:04:04,628
+pozisyonu başka birine devredilmişti.
+
+66
+00:04:04,629 --> 00:04:08,688
+Bu arada, Venüs'ün geçtiğini de hiç
+
+67
+00:04:08,689 --> 00:04:12,279
+göremedi. Geçiş gününde hava
+
+68
+00:04:12,280 --> 00:04:15,639
+bulutluydu.
+
+69
+00:04:15,640 --> 00:04:19,469
+Dünya'daki insan popülasyonunu biliyoruz.
+
+70
+00:04:19,470 --> 00:04:21,919
+Dünya'daki insan popülasyonunu biliyoruz.
+
+71
+00:04:21,920 --> 00:04:22,948
+Sayılır.
+
+72
+00:04:22,949 --> 00:04:27,339
+Popülasyon değerleri ve sayaçları sadece tahminden ibaret.
+
+73
+00:04:27,340 --> 00:04:31,168
+En iyi yöntem, gerçek insanların, gerçek insanlar
+
+74
+00:04:31,169 --> 00:04:35,549
+tarafından bizzat sayılması. Ama bu her zaman mümkün olmuyor.
+
+75
+00:04:35,550 --> 00:04:36,969
+tarafından bizzat sayılması. Ama bu her zaman mümkün olmuyor.
+
+76
+00:04:36,970 --> 00:04:40,759
+Bu sene Janet Veal apartmanında ölü bulundu.
+
+77
+00:04:40,760 --> 00:04:44,139
+Ölümünden haftalar sonra bulunduğunda
+
+78
+00:04:44,140 --> 00:04:48,659
+vücudunun büyük bir kısmının kedisi tarafından
+
+79
+00:04:48,660 --> 00:04:51,809
+yenildiği farkedildi. 7 sene önce ise
+
+80
+00:04:51,810 --> 00:04:55,149
+Joyce Carol Vincent koltuğunun üzerinde ölü bulundu,
+
+81
+00:04:55,150 --> 00:04:59,029
+daha doğrusu iskeleti bulundu.
+
+82
+00:04:59,030 --> 00:05:02,439
+En azından 3 senedir ölüydü
+
+83
+00:05:02,440 --> 00:05:05,479
+ve kimse kendisini kontrol etmemişti.
+
+84
+00:05:05,480 --> 00:05:08,509
+Televizyonu hala açıktı.
+
+85
+00:05:08,510 --> 00:05:11,559
+Timothy McVeigh, Oklahoma'daki bir devlet binasında
+
+86
+00:05:11,560 --> 00:05:14,399
+168 kişinin öldüğü bombalı saldırıyı gerçekleştirdikten 4 gün sonra
+
+87
+00:05:14,400 --> 00:05:18,429
+168 kişinin öldüğü bombalı saldırıyı gerçekleştirdikten 4 gün sonra
+
+88
+00:05:18,430 --> 00:05:22,389
+molozların içinde bir bacak bulundu.
+
+89
+00:05:22,390 --> 00:05:27,249
+Kimse kime ait olduğunu bilmiyordu. Kurbanların hepsi sayıldı
+
+90
+00:05:27,250 --> 00:05:28,209
+Kimse kime ait olduğunu bilmiyordu. Kurbanların hepsi sayıldı
+
+91
+00:05:28,210 --> 00:05:32,179
+ve kimse kayıp olarak bildirilmedi.
+
+92
+00:05:32,180 --> 00:05:36,029
+DNA analizi bacağın Lakesha Levy'ye ait olduğunu gösterdi
+
+93
+00:05:36,030 --> 00:05:39,419
+ama kendisi zaten iki ayağıyla birlikte mezardaydı.
+
+94
+00:05:39,420 --> 00:05:43,069
+Mezarı yeniden açıldı.
+
+95
+00:05:43,070 --> 00:05:46,399
+Başkasının bacağıyla gömülmüştü.
+
+96
+00:05:46,400 --> 00:05:50,439
+Bacaklar karışmıştı ama kurbanın vücudu mumyalandığı için
+
+97
+00:05:50,440 --> 00:05:54,739
+sahibi bilinmeyen bacaktan alınan DNA örneği analiz edilemedi.
+
+98
+00:05:54,740 --> 00:05:58,359
+Bugün bile o bacağın kime ait olduğunu
+
+99
+00:05:58,360 --> 00:06:01,509
+kimse bilmiyor. 169. kurban
+
+100
+00:06:01,510 --> 00:06:04,619
+bir gizem olarak kaldı.
+
+101
+00:06:04,620 --> 00:06:09,459
+Komplo teorisyenleri bacağın, Timothy McVeigh'nin yanında duran
+
+102
+00:06:09,460 --> 00:06:12,859
+gerçek bombacıya ait olduğunu savunuyorlar.
+
+103
+00:06:12,860 --> 00:06:16,779
+Patlamaya çok yakın olduğu için tek bir bacak dışında bütün
+
+104
+00:06:16,780 --> 00:06:20,659
+vücudu yok olmuş olabilir. Ama yine de
+
+105
+00:06:20,660 --> 00:06:25,009
+bu durum bize, bir insanın kimseye bir açıklama yapmadan
+
+106
+00:06:25,010 --> 00:06:30,179
+kaybolabileceğinin, en büyük göstergesi.
+
+107
+00:06:30,180 --> 00:06:33,989
+Bazen de insanlar aslında öyle olmadıkları halde
+
+108
+00:06:33,990 --> 00:06:37,589
+ölü veya kayıp ilan edilebiliyorlar. Erken basılan
+
+109
+00:06:37,590 --> 00:06:41,468
+ölüm ilanlarına sık rastlanır. Birçok yaşayan insanın hazırdır.
+
+110
+00:06:41,469 --> 00:06:46,339
+Eğer ünlü bir insan ölürse medya, televiyon, gazeteler, dergiler mümkün olan
+
+111
+00:06:46,340 --> 00:06:49,549
+en kısa zamanda bir hikaye yazmak zorundalar. Bu yüzden
+
+112
+00:06:49,550 --> 00:06:54,918
+kişilerin ölüm ilanlarını daha önceden hazırlayıp, tarihi ve ölüm nedeni kısmını
+
+113
+00:06:54,919 --> 00:06:56,559
+boş bırakıp metni saklıyorlar.
+
+114
+00:06:56,560 --> 00:06:59,929
+Mantıklı ama eğer insan ölmeden
+
+115
+00:06:59,930 --> 00:07:04,339
+basıma giderse uygunsuz bir durum. 2003'te
+
+116
+00:07:04,340 --> 00:07:10,188
+CNN'in sitesi taslak ölüm ilanlarını yanlışlıkla erişime açtı.
+
+117
+00:07:10,189 --> 00:07:10,638
+CNN'in sitesi taslak ölüm ilanlarını yanlışlıkla erişime açtı.
+
+118
+00:07:10,639 --> 00:07:13,999
+Utanç verici ama
+
+119
+00:07:14,000 --> 00:07:18,468
+kendi ölüm ilanını okuyan insanlar için birçoğumuzun
+
+120
+00:07:18,469 --> 00:07:20,478
+asla bulamayacağı bir şans.
+
+121
+00:07:20,479 --> 00:07:25,088
+Gittikten sonra nasıl hatırlanacağını görmek.
+
+122
+00:07:25,089 --> 00:07:29,028
+Alfred Nobel dinamiti icat etti.
+
+123
+00:07:29,029 --> 00:07:32,179
+Ölümcül silahlar üretip satarak bir servet kazandı. Toplar, tüfekler...
+
+124
+00:07:32,180 --> 00:07:36,378
+Ölümcül silahlar üretip satarak bir servet kazandı. Toplar, tüfekler...
+
+125
+00:07:36,379 --> 00:07:41,059
+1888'de, kardeşi Ludvig vefat etti ancak birçok gazete yanlış anladı ve onun öldüğünü sandı.
+
+126
+00:07:41,060 --> 00:07:41,818
+1888'de, kardeşi Ludvig vefat etti ancak birçok gazete yanlış anladı ve onun öldüğünü sandı.
+
+127
+00:07:41,819 --> 00:07:44,829
+Bu nedenle Alfred Nobel'in ölüm ilanı
+basıldı. Çok da iyi niyetli değillerdi.
+
+128
+00:07:44,830 --> 00:07:48,528
+Bu nedenle Alfred Nobel'in ölüm ilanı
+basıldı. Çok da iyi niyetli değillerdi.
+
+129
+00:07:48,529 --> 00:07:52,008
+Bir Fransız gazetesi "Ölüm tüccarı öldü" şeklinde başlık attı.
+
+130
+00:07:52,009 --> 00:07:55,288
+Bir Fransız gazetesi "Ölüm tüccarı öldü" şeklinde başlık attı.
+
+131
+00:07:55,289 --> 00:07:59,859
+Nobel bunları okuduğunda mirasının ne olacağını anladı
+
+132
+00:07:59,860 --> 00:08:03,359
+ve çok utandı. Öldüğünde neredeyse bütün
+
+133
+00:08:03,360 --> 00:08:07,218
+servetini insanlığı kutlamak için bıraktı.
+
+134
+00:08:07,219 --> 00:08:11,788
+Nobel Ödülü'nü yarattı. Marcus Garvey ise
+
+135
+00:08:11,789 --> 00:08:15,568
+o kadar şanslı değildi. Kendisi kalp krizi geçirdikten sonra
+
+136
+00:08:15,569 --> 00:08:19,978
+yayınlanan ölüm ilanlarında kendisinin fakir,
+
+137
+00:08:19,979 --> 00:08:23,148
+yalnız ve tanınamamış bir şekilde öldüğü
+
+138
+00:08:23,149 --> 00:08:28,429
+yazıyordu. Nasıl hatırlanacağını öğrenince şok geçiren Garvey bir kez daha kalp krizi geçirdi
+
+139
+00:08:28,430 --> 00:08:33,689
+yazıyordu. Nasıl hatırlanacağını öğrenince şok geçiren Garvey bir kez daha kalp krizi geçirdi
+
+140
+00:08:33,690 --> 00:08:38,298
+ve öldü. Nisan 2006'da,
+
+141
+00:08:38,299 --> 00:08:43,109
+Taylor Üniversitesi'nden 5 öğrenci trajik bir trafik kazasında öldü.
+
+142
+00:08:43,110 --> 00:08:46,588
+Bir öğrenci kurtulmuştu ama komadaydı.
+
+143
+00:08:46,589 --> 00:08:50,018
+Laura van Ryn olarak teşhis edilmişti.
+
+144
+00:08:50,019 --> 00:08:54,119
+Arkadaşı Whitney Cerak o kadar şanslı değildi. O ölmüştü. Cenazesine binlerce insan katıldı.
+
+145
+00:08:54,120 --> 00:08:57,659
+Arkadaşı Whitney Cerak o kadar şanslı değildi. O ölmüştü. Cenazesine binlerce insan katıldı.
+
+146
+00:08:57,660 --> 00:09:00,989
+Ama Laura uyandıktan birkaç gün sonra konuşmaya başladı ve kendisine ismi sorulduğunda
+
+147
+00:09:00,990 --> 00:09:04,568
+Ama Laura uyandıktan birkaç gün sonra konuşmaya başladı ve kendisine ismi sorulduğunda
+
+148
+00:09:04,569 --> 00:09:09,139
+Laura "Benim adım Whitney" dedi.
+
+149
+00:09:09,140 --> 00:09:12,249
+Kızlar birbirine benziyordu.
+
+150
+00:09:12,250 --> 00:09:15,629
+Aslında ölenin Laura olduğu anlaşıldı. Whitney ise
+
+151
+00:09:15,630 --> 00:09:18,708
+birkaç sene sonra, cenaze töreninin yapıldığı kilisede
+
+152
+00:09:18,709 --> 00:09:23,369
+evlilik törenini yaptı. Ya aslında kayıpsan
+
+153
+00:09:23,370 --> 00:09:28,409
+ama bunu bilmiyorsan? Hastanelerin bebekleri ne sıklıkla
+
+154
+00:09:28,410 --> 00:09:31,749
+yanlışlıkla karıştırdığı bilinmiyor.
+
+155
+00:09:31,750 --> 00:09:36,439
+Modern hastaneler bunun olmaması için gerekli önlemleri alıyorlar.
+
+156
+00:09:36,440 --> 00:09:38,398
+Ama durup dururken annelik veya babalık testi yaptıran olmadığı için bu fenomen hakkında yeterince
+
+157
+00:09:38,399 --> 00:09:42,518
+Ama durup dururken annelik veya babalık testi yaptıran olmadığı için bu fenomen hakkında yeterince
+
+158
+00:09:42,519 --> 00:09:47,659
+verimiz yok. Ama bu olabiliyor. Genelde çocuk desteği konusunda anlaşmazlıklar
+
+159
+00:09:47,660 --> 00:09:51,099
+sonucu yapılan DNA testleri sonucu keşfediliyor.
+
+160
+00:09:51,100 --> 00:09:55,119
+Ya da, Kanarya Adaları'nda yaşayan 35 yaşındaki kadının yaşadığı durumda.
+
+161
+00:09:55,120 --> 00:10:00,809
+2001'de bir market çalışanı kendisini en yakın arkadaşına benzetiyor.
+
+162
+00:10:00,810 --> 00:10:04,759
+Çünkü kadınlar birbirine çok benziyor.
+
+163
+00:10:04,760 --> 00:10:08,059
+Ve kadınların doğumda
+
+164
+00:10:08,060 --> 00:10:11,669
+birbirinden ayrılmış ikiz kardeşler oldukları
+
+165
+00:10:11,670 --> 00:10:14,729
+anlaşılıyor. Kadının beraber büyüdüğü ve
+
+166
+00:10:14,730 --> 00:10:19,619
+ikizi sandığı kişi ise biyolojik olarak
+
+167
+00:10:19,620 --> 00:10:23,289
+bir yabancı çıkıyor. Ya aslında kayıpsan
+
+168
+00:10:23,290 --> 00:10:26,379
+ama yetkililer bunu bilmiyorsa?
+
+169
+00:10:26,380 --> 00:10:29,518
+Örneğin; kayıp ilanı verilmemiş bir
+
+170
+00:10:29,519 --> 00:10:33,208
+kayıp gibi. Başka ülkelerde mülteci olarak
+
+171
+00:10:33,209 --> 00:10:36,578
+ailelerinden ve arkadaşlarından ayrı yaşayan ve
+
+172
+00:10:36,579 --> 00:10:39,828
+kayıp ilanı verilmeyen insanlar gibi.
+
+173
+00:10:39,829 --> 00:10:44,249
+Evsiz annelerin çocukları gibi. Bu insanlar sadece kayıp değiller.
+
+174
+00:10:44,250 --> 00:10:47,289
+Onlara şöyle deniyor:
+
+175
+00:10:47,290 --> 00:10:49,569
+Kayıbın da kaybı.
+Kapkayıp.
+
+176
+00:10:49,570 --> 00:10:52,859
+FBI'ın Ulusal Suç Bilgileri Veritabanı yaklaşık
+
+177
+00:10:52,860 --> 00:10:57,148
+50.000 kayıp çocuk ilanı içeriyor.
+
+178
+00:10:57,149 --> 00:11:01,448
+Ama Outpost For Hope raporlarına göre Amerika'da
+
+179
+00:11:01,449 --> 00:11:05,188
+bir milyonun üzerinde, kimsenin bilmediği kayıp
+
+180
+00:11:05,189 --> 00:11:09,499
+çocuklar var. Kendi iradenizle kaybolmak
+
+181
+00:11:09,500 --> 00:11:12,789
+yasak değil.
+
+182
+00:11:12,790 --> 00:11:15,859
+Ödeyecek borçlarınız ya da bunun gibi şeyler olabilir,
+
+183
+00:11:15,860 --> 00:11:19,789
+ama eğer yetişkin bir bireyseniz, kaybolma durumu
+
+184
+00:11:19,790 --> 00:11:23,898
+başlı başına yasak değil. Birey olarak kaybolma hakkına
+
+185
+00:11:23,899 --> 00:11:27,198
+sahipsiniz. Ama kimsenin sizi özlemeyeceğine
+
+186
+00:11:27,199 --> 00:11:32,648
+inanmak? Bu çok saçma ve hiç bilimsel değil. İstatistikler
+
+187
+00:11:32,649 --> 00:11:35,969
+tam tersini söylüyor. David Wong
+
+188
+00:11:35,970 --> 00:11:39,989
+okuduğum en iyi makalelerden birini yazmış.
+
+189
+00:11:39,990 --> 00:11:43,519
+Bilebileceğimizden çok daha fazla
+
+190
+00:11:43,520 --> 00:11:47,899
+bilgi var. Bunun için bir kelime öbeği bile var:
+Bilgi kirliliği (infobesity)
+
+191
+00:11:47,900 --> 00:11:50,479
+Yalnızca bir kısmını deneyimlemek bile bir yaşam boyu sürüyor. Herkesin sizin bildiğiniz kadar
+
+192
+00:11:50,480 --> 00:11:54,859
+Yalnızca bir kısmını deneyimlemek bile bir yaşam boyu sürüyor. Herkesin sizin bildiğiniz kadar
+
+193
+00:11:54,860 --> 00:11:58,199
+bildiğini düşünmek kolay. Ama her sene
+
+194
+00:11:58,200 --> 00:12:02,778
+100 milyon yeni insan doğuyor ve hiçbiri, kendilerinin atomlardan oluştuklarını
+
+195
+00:12:02,779 --> 00:12:03,499
+ya da karadeliklerin harika olduğunu biliyor halde doğmuyor.
+
+196
+00:12:03,500 --> 00:12:07,879
+ya da karadeliklerin harika olduğunu biliyor halde doğmuyor.
+
+197
+00:12:07,880 --> 00:12:11,028
+Birilerinin bunları onlara söylemesi lazım,
+göstermesi lazım.
+
+198
+00:12:11,029 --> 00:12:14,338
+Birilerinin bunları onlara söylemesi lazım,
+göstermesi lazım.
+
+199
+00:12:14,339 --> 00:12:17,539
+Günde kaç tane şaka duyuyorsunuz?
+
+200
+00:12:17,540 --> 00:12:20,679
+Haftada peki? Bir yılda kaç tane
+
+201
+00:12:20,680 --> 00:12:23,699
+şaka duyuyorsun? Eğlenceli bir fikir:
+
+202
+00:12:23,700 --> 00:12:26,999
+Ortalama yaşam süresini ve insanın
+
+203
+00:12:27,000 --> 00:12:30,619
+bir senede duyduğu şaka sayısını göz önünde bulundurarak
+
+204
+00:12:30,620 --> 00:12:33,648
+David Wong bir şey varsaydı.
+
+205
+00:12:33,649 --> 00:12:37,179
+Ama oldukça güçlü bir varsayım.
+
+206
+00:12:37,180 --> 00:12:40,458
+Eğer 38 yaşından küçükseniz,
+
+207
+00:12:40,459 --> 00:12:43,499
+muhtemelen hayatınızda duyacağınız
+
+208
+00:12:43,500 --> 00:12:48,299
+en komik şakayı henüz duymadınız bile!
+
+209
+00:12:48,300 --> 00:12:51,419
+Ve eğer 38 yaşından büyükseniz,
+
+210
+00:12:51,420 --> 00:12:56,249
+tanışabileceğinizden çok daha fazla insan için
+
+211
+00:12:56,250 --> 00:12:57,369
+hayatlarında duyabilecekleri en komik şakayı biliyorsunuz demektir!
+
+212
+00:12:57,370 --> 00:13:01,179
+hayatlarında duyabilecekleri en komik şakayı biliyorsunuz demektir!
+
+213
+00:13:01,180 --> 00:13:05,279
+Yani, her neredeysen, orada olduğun için memnunuz.
+
+214
+00:13:05,280 --> 00:13:06,579
+Ve her zamanki gibi,
+
+215
+00:13:06,580 --> 00:13:07,580
+izlediğiniz için teşekkürler.
+

@@ -1,0 +1,512 @@
+1
+00:00:02,409 --> 00:00:10,289
+Ehi, Vsauce!  Michele qui!  Se core una sfera;  cioè, rimuovi un cilindro da esso, ti verrà lasciata una forma
+
+2
+00:00:10,290 --> 00:00:14,979
+chiamata portatovagliolo perché, beh, sembra un portatovagliolo!
+
+3
+00:00:14,980 --> 00:00:20,099
+È una forma bizzarra perché se due portatovaglioli hanno la stessa altezza,
+
+4
+00:00:20,100 --> 00:00:24,639
+avranno lo stesso volume indipendentemente dalle dimensioni delle sfere da cui provengono!  (Cool)
+
+5
+00:00:24,640 --> 00:00:30,579
+Ciò significa che se tagli degli anelli di tovagliolo ugualmente alti da un'arancia e dalla Terra,
+
+6
+00:00:30,580 --> 00:00:35,199
+beh, uno potrebbe tenerti in mano.  L'altro avrebbe la circonferenza del nostro intero pianeta,
+
+7
+00:00:35,200 --> 00:00:39,339
+ma entrambi avrebbero lo stesso volume...
+
+8
+00:00:39,340 --> 00:00:45,328
+Ho menzionato questo fatto controintuitivo mentre facevo un Kendama con Adam Savage.  Guarda quel video se non l'hai fatto, o meglio ancora
+
+9
+00:00:45,329 --> 00:00:51,959
+, vieni a trovarci.  Questo autunno porteremo caramelle per il cervello dal vivo in 24 nuove città.  Sarà molto impegnativo, ma in questo momento
+
+10
+00:00:51,960 --> 00:00:56,349
+stiamo parlando di palle e di carotarle!
+
+11
+00:00:56,350 --> 00:01:02,139
+Ho qui DUE portatovaglioli di sfere di dimensioni molto diverse;  uno viene da una pallina,
+
+12
+00:01:02,140 --> 00:01:05,709
+solo un piccolo pomodoro che ho privato del torsolo, quindi ha un piccolo buco proprio lì.
+
+13
+00:01:05,710 --> 00:01:08,128
+L'altro portatovagliolo è fatto di un'arancia,
+
+14
+00:01:08,129 --> 00:01:12,879
+ma entrambi i portatovaglioli hanno la stessa altezza.  Il pomodoro ha una circonferenza più piccola
+
+15
+00:01:12,880 --> 00:01:20,279
+rispetto all'arancia, il che significa meno volume, ma il suo anello è più spesso, il che significa più volume.  Entrambi questi effetti si
+
+16
+00:01:20,280 --> 00:01:31,559
+annullano esattamente.  Quindi questi due portatovaglioli hanno volumi identici occupano la stessa quantità di spazio
+
+17
+00:01:31,560 --> 00:01:34,269
+A proposito, l'olio di arancia è infiammabile
+
+18
+00:01:34,270 --> 00:01:37,239
+Per vedere perché il problema del portatovagliolo è vero
+
+19
+00:01:37,240 --> 00:01:44,769
+, discutiamo del principio di Cavalieri.  Afferma che per due solidi come questi due cilindri che ho costruito qui
+
+20
+00:01:44,770 --> 00:01:49,868
+racchiusi tra piani paralleli se qualsiasi altro piano parallelo si
+
+21
+00:01:49,869 --> 00:01:54,298
+interseca entrambi in regioni di uguale area, indipendentemente da dove sia stato preso da
+
+22
+00:01:54,299 --> 00:02:02,618
+Bene, allora i solidi hanno lo stesso volume.  Questo è chiaramente vero qui questi cilindri sono costruiti con pile di adesivi VSauce
+
+23
+00:02:02,619 --> 00:02:06,289
+100 in ogni pila, quindi i loro volumi sono gli stessi
+
+24
+00:02:06,290 --> 00:02:07,909
+se ne
+
+25
+00:02:07,910 --> 00:02:15,429
+sposto uno in questo modo la forma cambierà, ma il suo volume non è ancora contenuto la stessa quantità di  roba
+
+26
+00:02:15,430 --> 00:02:18,169
+che non ho aggiunto né sottratto figurine
+
+27
+00:02:18,170 --> 00:02:25,539
+E il principio di Cavalieri assicura che abbiano sempre lo stesso volume perché qualsiasi sezione presa da quassù quassù in mezzo ovunque
+
+28
+00:02:25,540 --> 00:02:33,279
+ci darà sempre una regione della stessa area dell'altra perché quelle  le regioni sono sempre cerchi di area uguale.
+
+29
+00:02:33,280 --> 00:02:37,339
+Ora applichiamo il principio di Cavalieri ai portatovaglioli
+
+30
+00:02:37,340 --> 00:02:40,879
+Possiamo vedere che due portatovaglioli con altezze simili hanno
+
+31
+00:02:40,880 --> 00:02:46,639
+volumi identici mostrando che quando tagliati da un piano l'area della propria sezione trasversale è
+
+32
+00:02:46,640 --> 00:02:49,719
+sempre uguale all'area degli altri ora per fare questo
+
+33
+00:02:49,720 --> 00:02:56,829
+Notare che l'area  della sezione trasversale delle sfere meno l'area della sezione trasversale dei cilindri ci dà l'area della sezione trasversale degli anelli di tovagliolo
+
+34
+00:02:56,830 --> 00:03:01,819
+.  A seconda di dove affettamo l'anello portatovagliolo, le sezioni trasversali avranno aree diverse
+
+35
+00:03:01,820 --> 00:03:08,809
+ma saranno sempre uguali l'una all'altra.  Calcoliamo le aree di questi anelli blu
+
+36
+00:03:08,810 --> 00:03:17,359
+prima di tutto chiamiamo l'altezza del portatovagliolo h e il raggio della sfera che sono tagliati dalla
+
+37
+00:03:17,360 --> 00:03:18,169
+R maiuscola
+
+38
+00:03:18,170 --> 00:03:25,629
+Va bene, perfetto ora una sezione trasversale di una sfera come questa e una sezione trasversale di  un cilindro come questo sono entrambi cerchi
+
+39
+00:03:25,630 --> 00:03:30,019
+Quindi le loro aree possono essere determinate usando Pi per il raggio al quadrato
+
+40
+00:03:30,020 --> 00:03:37,509
+Quindi se vogliamo trovare l'area della sezione trasversale delle sfere e sottrarre l'area della sezione trasversale dei cilindri
+
+41
+00:03:37,510 --> 00:03:41,839
+(disegnerò un'immagine di  un cilindro qui), tutto quello che dobbiamo fare è prendere Pi lo
+
+42
+00:03:41,840 --> 00:03:45,409
+moltiplicare per il raggio della sezione trasversale della sfera
+
+43
+00:03:45,410 --> 00:03:53,329
+Square che e poi sottrarre Pi per il raggio del cilindro Squared, ma quali sono i loro raggi?
+
+44
+00:03:53,330 --> 00:04:01,059
+Bene, se questo è il centro della sfera possiamo tracciare una linea dritta fino all'angolo del cilindro lungo il lato
+
+45
+00:04:01,060 --> 00:04:05,679
+del cilindro e quindi collegarci per formare un triangolo rettangolo
+
+46
+00:04:05,680 --> 00:04:12,439
+Il teorema di Pitagora ci aiuterà davvero qui ci dice che il  la lunghezza di un lato al quadrato più la lunghezza dell'altro lato al
+
+47
+00:04:12,440 --> 00:04:16,778
+quadrato è uguale alla lunghezza dell'ipotenusa al quadrato
+
+48
+00:04:16,779 --> 00:04:20,909
+Ora questa distanza proprio qui questo lato del triangolo quello che vogliamo
+
+49
+00:04:20,910 --> 00:04:29,079
+È il raggio del cilindro, quindi lo chiameremo raggio r piccolo  del cilindro (bellissima foto lì)
+
+50
+00:04:29,080 --> 00:04:31,388
+quindi il raggio
+
+51
+00:04:31,389 --> 00:04:34,839
+del cilindro al
+
+52
+00:04:34,840 --> 00:04:37,029
+quadrato più
+
+53
+00:04:37,030 --> 00:04:44,019
+questa lunghezza del lato, che è solo la metà dell'altezza del cilindro, quindi l'altezza del cilindro divisa per 2 al
+
+54
+00:04:44,020 --> 00:04:45,369
+quadrato È
+
+55
+00:04:45,370 --> 00:04:53,349
+uguale all'ipotenusa al quadrato dell'ipotenusa sembra essere  il raggio della sfera stessa che è R maiuscola
+
+56
+00:04:53,350 --> 00:04:57,179
+Perfetto ora risolviamo per il raggio del cilindro.  Che è quello che
+
+57
+00:04:57,180 --> 00:05:04,119
+vogliamo Sottrarremo h su 2 al quadrato da entrambi i lati che ci darà il raggio del cilindro al
+
+58
+00:05:04,120 --> 00:05:05,168
+quadrato
+
+59
+00:05:05,169 --> 00:05:08,469
+uguale al raggio della sfera al quadrato meno
+
+60
+00:05:08,470 --> 00:05:10,959
+Metà dell'altezza del cilindro al quadrato
+
+61
+00:05:10,960 --> 00:05:17,888
+Possiamo prendere la radice quadrata di  entrambi i lati in modo da finire con il raggio del cilindro
+
+62
+00:05:17,889 --> 00:05:21,879
+uguale alla radice quadrata del raggio della sfera
+
+63
+00:05:21,880 --> 00:05:25,149
+meno 1/2 dell'altezza del cilindro al quadrato
+
+64
+00:05:25,150 --> 00:05:32,439
+Perfetto ok ora diamo un'occhiata all'area di una sezione trasversale del  sfera ora per
+
+65
+00:05:32,440 --> 00:05:36,699
+questo disegniamo una linea retta dal centro verso l'esterno fino al bordo della
+
+66
+00:05:36,700 --> 00:05:38,228
+sezione trasversale della sfera
+
+67
+00:05:38,229 --> 00:05:44,649
+, e andremo dritti verso il basso e ci collegheremo di nuovo su, ehi guarda!  Un altro triangolo rettangolo
+
+68
+00:05:44,650 --> 00:05:48,699
+chiamiamo questa altezza y
+
+69
+00:05:48,700 --> 00:05:55,679
+E notate che questa distanza ora il lato del triangolo quaggiù è in realtà il raggio
+
+70
+00:05:55,680 --> 00:05:57,969
+della sezione trasversale del cerchio
+
+71
+00:05:57,970 --> 00:06:05,109
+quassù.  Sono entrambi uguali quindi vogliamo anche risolvere per questo il raggio del cerchio che è la sezione trasversale delle sfere
+
+72
+00:06:05,110 --> 00:06:05,709
+Ok,
+
+73
+00:06:05,710 --> 00:06:08,948
+quindi sappiamo che il raggio della
+
+74
+00:06:08,949 --> 00:06:14,829
+sezione trasversale della sfera al quadrato più questa distanza al quadrato (che è y) è
+
+75
+00:06:14,830 --> 00:06:21,159
+uguale a  ipotenusa al quadrato bene, che ne sai l'ipotenusa è di nuovo il raggio della sfera (R maiuscola)
+
+76
+00:06:21,160 --> 00:06:27,819
+Ok sottrarre y al quadrato da entrambi i lati il raggio delle sfere la sezione al quadrato è ugual
+
+77
+00:06:27,820 --> 00:06:31,749
+ al raggio della sfera al quadrato meno Y al 
+
+78
+00:06:31,750 --> 00:06:36,019
+uadrato prenderà  la radice quadrata di entrambi i lati e finiscono per
+
+79
+00:06:36,020 --> 00:06:41,029
+imparare che il raggio della sezione trasversale della sfera è uguale alla radice quadrata di
+
+80
+00:06:41,030 --> 00:06:45,499
+Il raggio della sfera al quadrato meno y al quadrato.  Y è l'altezza che questa
+
+81
+00:06:45,500 --> 00:06:53,569
+sezione trasversale è presa da sopra l'equatore più in alto prendiamo queste sezioni trasversali della sfera più piccoli saranno i loro raggi
+
+82
+00:06:53,570 --> 00:06:58,009
+Considerando che il raggio dei cilindri è sempre lo stesso, non importa da dove tagliamo
+
+83
+00:06:58,010 --> 00:07:01,609
+Comunque, prendiamo  questi due raggi e inseriscili nella nostra formula
+
+84
+00:07:01,610 --> 00:07:06,079
+Va bene, l'area della sezione trasversale della sfera è quella che vogliamo prima
+
+85
+00:07:06,080 --> 00:07:10,579
+Va bene, è solo la radice quadrata di R al quadrato meno y al quadrato
+
+86
+00:07:10,580 --> 00:07:18,039
+Non male ora il raggio del cilindro è il quadrato  radice di R al quadrato meno
+
+87
+00:07:18,040 --> 00:07:25,549
+Metà dell'altezza del cilindro al quadrato ora quello che potresti notare è che prendiamo la radice quadrata di qualcosa e poi la quadramo
+
+88
+00:07:25,550 --> 00:07:28,339
+Questi in realtà si annullano a vicenda
+
+89
+00:07:28,340 --> 00:07:30,369
+perfettamente!  Sembra molto più semplice
+
+90
+00:07:30,370 --> 00:07:38,659
+Ma ora distribuiamo Pi ai termini tra parentesi così pi per R al quadrato ci dà Pi R al
+
+91
+00:07:38,660 --> 00:07:44,149
+quadrato Pi volte negativo y al quadrato ci dà pi negativo y al quadrato
+
+92
+00:07:44,150 --> 00:07:46,189
+Quindi un Pi negativo per R al
+
+93
+00:07:46,190 --> 00:07:54,859
+quadrato è negativo pi R al quadrato negativo Pi  volte negativo h su 2 al quadrato è positivo Pi
+
+94
+00:07:54,860 --> 00:07:56,659
+h su 2 al
+
+95
+00:07:56,660 --> 00:08:03,219
+quadrato.  Ottimo, ora possiamo continuare a semplificare ma quello che potresti notare è che abbiamo un pi r al quadrato e un
+
+96
+00:08:03,220 --> 00:08:07,039
+meno Pi R al quadrato, beh, questo è uguale a 0 quindi questi si
+
+97
+00:08:07,040 --> 00:08:11,299
+annullano completamente a vicenda, ma ciò che resta sono i
+
+98
+00:08:11,300 --> 00:08:18,359
+termini contenenti  nessuna menzione delle sfere Raggio se il raggio è grande o piccolo
+
+99
+00:08:18,360 --> 00:08:23,299
+Non importa tutto quello che devi sapere per trovare l'area della sezione trasversale di un portatovagliolo
+
+100
+00:08:23,300 --> 00:08:25,579
+è l'altezza del portatovagliolo
+
+101
+00:08:25,580 --> 00:08:32,219
+Y, ovviamente, è delimitata dal  altezza di un portatovagliolo queste aree blu hanno la stessa area l'una dell'altra e questo
+
+102
+00:08:32,220 --> 00:08:41,019
+sarà vero indipendentemente da dove tagliamo la sezione trasversale attraverso il portatovagliolo, il che significa che secondo il principio di Cavalieri entrambi i portatovaglioli hanno lo stesso
+
+103
+00:08:41,020 --> 00:08:43,099
+volume
+
+104
+00:08:43,100 --> 00:08:47,699
+Yay: 3
+
+105
+00:08:47,700 --> 00:08:50,019
+(con i denti  )
+
+106
+00:08:50,020 --> 00:08:54,279
+Ma cosa significa questo per te per la vita nell'universo?
+
+107
+00:08:54,280 --> 00:08:58,779
+Bene, come sappiamo, se ti piace dovresti metterci un anello,
+
+108
+00:08:58,780 --> 00:09:00,679
+ma se ti piace,
+
+109
+00:09:00,680 --> 00:09:05,199
+non sai che è largo un dito e vuoi solo offrirgli una quantità predeterminata di materiale
+
+110
+00:09:05,200 --> 00:09:09,639
+, dovresti metterci un portatovagliolo.
+
+111
+00:09:09,640 --> 00:09:11,899
+E come sempre
+
+112
+00:09:11,900 --> 00:09:21,459
+Grazie per la visione :D
+
+113
+00:09:21,460 --> 00:09:23,859
+Il 21 agosto
+
+114
+00:09:23,860 --> 00:09:31,599
+2017 ci sarà un'eclissi solare totale l'ombra della Luna correrà attraverso gli Stati Uniti contigui
+
+115
+00:09:31,600 --> 00:09:35,489
+Sarà incredibile e un po' spaventoso
+
+116
+00:09:35,490 --> 00:09:42,039
+Sono sicuro che lo guarderò  dall'Oregon con i miei amici di Atlas, Obscura.  Non vedo l'ora, ma tieni gli occhi al
+
+117
+00:09:42,040 --> 00:09:47,699
+sicuro se vuoi vedere l'eclissi devi avere una protezione speciale per gli occhi
+
+118
+00:09:47,700 --> 00:09:52,819
+la curiosità La scatola viene fornita con tali occhiali questi bloccano il
+
+119
+00:09:52,820 --> 00:10:00,399
+99,999% della luce visibile è quello che serve per poter guardare bene  il sole come in realtà ciò che amo di questi occhiali
+
+120
+00:10:00,400 --> 00:10:04,059
+Non c'è nessuna eclissi in corso.  Puoi ancora solo guardare il sole
+
+121
+00:10:04,060 --> 00:10:07,679
+Nota che è una palla.  Forse immagina in che tipo di
+
+122
+00:10:07,680 --> 00:10:09,789
+portatovagliolo vorresti farlo.  L'attuale
+
+123
+00:10:09,790 --> 00:10:15,539
+scatola Curiosity è la mia preferita.  Quello che otterrai se ti iscrivi in questo momento include tutti i tipi di cose interessanti che vengono fornite con Un po
+
+124
+00:10:15,540 --> 00:10:23,539
+ter che mostra che tutti i pianeti e Plutone possono stare tra la terra e la luna e include anche gadget scientifici come questi anell
+
+125
+00:10:23,540 --> 00:10:26,499
+ magnetici levit
+
+126
+00:10:26,500 --> 00:10:32,109
+nti  piuttosto interessante anche una parte di tutti i proventi va alla ricerca sull'Alzheimer, quindi fa bene al tuo cervello e il cervello di
+
+127
+00:10:32,110 --> 00:10:41,338
+tutti gli altri lo controlla.  Spero di vederti al Brain Candy dal vivo e come sempre
+
+128
+00:10:41,339 --> 00:10:43,339
+grazie per la visione
+

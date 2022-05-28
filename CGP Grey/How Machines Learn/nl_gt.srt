@@ -1,0 +1,707 @@
+1
+00:00:00,020 --> 00:00:03,019
+Op internet zijn de algoritmen overal om je heen.
+
+2
+00:00:03,020 --> 00:00:07,319
+U bekijkt deze video omdat een algoritme u (onder andere) ertoe bracht om te klikken,
+
+3
+00:00:07,320 --> 00:00:10,159
+wat u deed, en het algoritme nam nota.
+
+4
+00:00:10,160 --> 00:00:13,659
+Wanneer je het TweetBook opent, A bepaalt het algoritme wat je ziet.
+
+5
+00:00:13,660 --> 00:00:16,959
+Wanneer u uw foto's doorzoekt, doet het algoritme de bevinding.
+
+6
+00:00:16,960 --> 00:00:18,959
+Misschien maakt hij zelfs een filmpje voor je.
+
+7
+00:00:18,960 --> 00:00:21,799
+Wanneer u iets koopt, bepaalt A het algoritme de prijs
+
+8
+00:00:21,800 --> 00:00:25,999
+en A is het algoritme bij uw bank om transacties te controleren op fraude.
+
+9
+00:00:26,000 --> 00:00:28,179
+De aandelenmarkt staat vol met algoritmen
+
+10
+00:00:28,180 --> 00:00:29,739
+die met algoritmen handelen.
+
+11
+00:00:29,740 --> 00:00:34,239
+Gezien dit, wil je misschien weten hoe deze kleine algoritmische bots die jouw wereld vormgeven, werken,
+
+12
+00:00:34,240 --> 00:00:36,039
+vooral als ze dat niet doen.
+
+13
+00:00:36,040 --> 00:00:37,079
+In Ye Olden Days
+
+14
+00:00:37,080 --> 00:00:41,899
+bouwden mensen algoritmische bots door ze instructies te geven die mensen konden uitleggen.
+
+15
+00:00:41,900 --> 00:00:43,799
+"Als dit, dan dat."
+
+16
+00:00:43,800 --> 00:00:49,079
+Maar veel problemen zijn gewoon te groot en te moeilijk voor een mens om eenvoudige instructies voor te schrijven.
+
+17
+00:00:49,080 --> 00:00:53,559
+Er zijn een biljoen financiële transacties per seconde, welke zijn frauduleus?
+
+18
+00:00:53,560 --> 00:00:55,979
+Er staan octiljoen video's op NetMe
+
+19
+00:00:55,980 --> 00:01:01,679
+ube.  Welke acht moet de gebruiker zien als aanbevelingen?  Wat zou helemaal niet op de site mogen?
+
+20
+00:01:01,680 --> 00:01:06,219
+Wat is de maximale prijs die deze gebruiker op dit moment betaalt voor deze vliegtuigstoel?
+
+21
+00:01:06,220 --> 00:01:08,499
+Algoritmische bots geven antwoord op deze vragen.
+
+22
+00:01:08,500 --> 00:01:11,919
+Geen perfecte antwoorden,
+maar veel beter dan een mens zou kunnen doen.
+
+23
+00:01:11,920 --> 00:01:15,859
+Maar hoe deze bots precies werken,
+weet steeds meer niemand.
+
+24
+00:01:15,860 --> 00:01:17,919
+Zelfs niet de mensen die ze hebben gebouwd,
+
+25
+00:01:17,920 --> 00:01:18,879
+of "ze hebben gebouwd",
+
+26
+00:01:18,880 --> 00:01:19,859
+zoals we zullen zien...
+
+27
+00:01:19,860 --> 00:01:23,419
+Nu willen bedrijven die deze bots gebruiken
+niet praten over hoe ze werken,
+
+28
+00:01:23,420 --> 00:01:25,819
+omdat de bots waardevolle werknemers zijn.
+
+29
+00:01:25,820 --> 00:01:27,299
+Heel, heel waardevol.
+
+30
+00:01:27,300 --> 00:01:30,699
+En hoe hun hersenen zijn gebouwd, is een fel bewaard bedrijfsgeheim.
+
+31
+00:01:30,700 --> 00:01:32,999
+Op dit moment is het meest waarschijnlijke
+
+32
+00:01:33,000 --> 00:01:34,639
+'ik hoop dat je van lineaire algebra houdt',
+
+33
+00:01:34,640 --> 00:01:37,339
+maar wat de huidige hotness is op een bepaalde site
+
+34
+00:01:37,340 --> 00:01:41,299
+en hoe de bots werken,
+is een beetje "ik weet het niet", en dat zal altijd zo blijven.
+
+35
+00:01:41,300 --> 00:01:45,599
+Laten we het dus hebben over een van de meer eigenaardige maar begrijpelijke manieren waarop bots KUNNEN worden "gebouwd"
+
+36
+00:01:45,600 --> 00:01:48,319
+zonder te begrijpen hoe hun hersenen werken.
+
+37
+00:01:48,320 --> 00:01:51,239
+Stel dat u een bot wilt die kan herkennen
+wat er op een afbeelding staat.
+
+38
+00:01:51,240 --> 00:01:53,219
+Is het een bij, of is het een drie?
+
+39
+00:01:53,220 --> 00:01:55,759
+Het is gemakkelijk voor mensen (zelfs voor kleine mensen),
+
+40
+00:01:55,760 --> 00:01:59,819
+maar het is onmogelijk om een bot gewoon in bo
+taal te vertellen hoe het moet, want 
+
+41
+00:01:59,820 --> 00:02:03,679
+e weten gewoon dat h
+t een bij is en dat een drie.
+
+42
+00:02:03,680 --> 00:02:07,099
+ We kunnen in woorden zeggen wat hen anders maakt,
+maar bots begrijpen geen woorden.
+
+43
+00:02:07,100 --> 00:02:10,978
+En het is de bedrading in onze hersenen
+die ervoor zorgt dat het toch gebeurt.
+
+44
+00:02:10,979 --> 00:02:16,799
+Hoewel een individueel neuron kan worden begrepen en het algemene doel van clusters van neuronen vaag begrepen kan worden, gaat
+
+45
+00:02:16,800 --> 00:02:18,459
+het geheel verder dan dat.
+
+46
+00:02:18,460 --> 00:02:20,019
+Toch werkt het.
+
+47
+00:02:20,020 --> 00:02:22,119
+Dus om een bot te krijgen die dit kan sorteren, moet je he
+
+48
+00:02:22,120 --> 00:02:23,419
+ niet zelf bouwe
+
+49
+00:02:23,420 --> 00:02:27,199
+.  Je bouwt een bot die bots bouwt,
+en een bot die bots leert.
+
+50
+00:02:27,200 --> 00:02:31,679
+Het brein van deze bots is eenvoudiger,
+iets wat een slimme menselijke programmeur kan maken.
+
+51
+00:02:31,680 --> 00:02:35,139
+De builder-bot bouwt bots,
+hoewel hij er niet erg goed in is.
+
+52
+00:02:35,140 --> 00:02:39,359
+In het begin verbindt het bijna willekeurig de draden en modules in de bothersenen.
+
+53
+00:02:39,360 --> 00:02:41,479
+Dit leidt tot een aantal zeer...
+
+54
+00:02:41,480 --> 00:02:44,439
+"speciale" studentenbots die naar de leraarsbot worden gestuurd om les te geven.
+
+55
+00:02:44,440 --> 00:02:47,699
+Lerarenbot kan natuurlijk ook
+geen bij van een drie onderscheiden;
+
+56
+00:02:47,700 --> 00:02:51,219
+als de mens een lerarenbot zou kunnen bouwen om dat te doen,
+nou, dan is het probleem opgelost.
+
+57
+00:02:51,220 --> 00:02:54,779
+In plaats daarvan geeft de mens de leraar een aantal "bij"-foto's en "drie" foto's,
+
+58
+00:02:54,780 --> 00:02:56,959
+en een antwoordsleutel waarop is wat.
+
+59
+00:02:56,960 --> 00:02:58,439
+Docentenbot kan geen lesgeven,
+
+60
+00:02:58,440 --> 00:03:00,679
+maar leraarbot kan TESTEN.
+
+61
+00:03:00,680 --> 00:03:03,848
+De schattige studentenbots steken hun tong uit, doen erg hun best,
+
+62
+00:03:03,849 --> 00:03:05,779
+maar ze zijn slecht in wat ze doen.
+
+63
+00:03:05,780 --> 00:03:07,159
+Heel erg slecht.
+
+64
+00:03:07,160 --> 00:03:10,039
+En het is niet hun schuld, echt,
+ze zijn zo gebouwd.
+
+65
+00:03:10,040 --> 00:03:13,599
+Cijfers in de hand, de studentenbots nemen een mars van schaamte terug naar de bouwbot.
+
+66
+00:03:13,600 --> 00:03:15,759
+degenen die het beste deden, worden aan de kant geschoven,
+
+67
+00:03:15,760 --> 00:03:17,419
+de anderen worden gerecycled.
+
+68
+00:03:17,420 --> 00:03:19,699
+Builder-bot is nog steeds niet goed in het bouwen van bots,
+
+69
+00:03:19,700 --> 00:03:23,519
+maar nu neemt hij die over
+en maakt kopieën met wijzigingen in nieuwe combinaties.
+
+70
+00:03:23,520 --> 00:03:25,479
+Terug naar school gaan ze.
+
+71
+00:03:25,480 --> 00:03:28,939
+Lerarenbot geeft les - eh, test opnieuw en bouwbot bouwt opnieuw.
+
+72
+00:03:28,940 --> 00:03:30,919
+En opnieuw, en opnieuw.
+
+73
+00:03:30,920 --> 00:03:34,239
+Nu een bouwer die willekeurig bouwt,
+en een leraar die geen les geeft, alleen tests,
+
+74
+00:03:34,240 --> 00:03:38,019
+en studenten die niet kunnen leren, ze zijn gewoon wat ze zijn, in theorie zou niet moeten werken,
+
+75
+00:03:38,020 --> 00:03:39,759
+maar in de praktijk wel.
+
+76
+00:03:39,760 --> 00:03:44,999
+Deels omdat het slachthuis van de bouwbot bij elke iteratie het beste bewaart en de rest weggooit,
+
+77
+00:03:45,000 --> 00:03:50,839
+en deels omdat de lerarenbot niet toezicht houdt op een ouderwets schoolgebouw met één kamer met een dozijn studenten,
+
+78
+00:03:50,840 --> 00:03:54,479
+maar een oneindig magazijn met duizenden studenten.
+
+79
+00:03:54,480 --> 00:03:57,739
+De test bestaat niet uit tien vragen, maar uit een miljoen vragen.
+
+80
+00:03:57,740 --> 00:04:01,419
+En hoe vaak wordt de test, build, testloop herhaald?
+
+81
+00:04:01,420 --> 00:04:03,939
+Zo veel als nodig.
+
+82
+00:04:03,940 --> 00:04:06,578
+In het begin hebben studenten die overleven gewoon geluk,
+
+83
+00:04:06,579 --> 00:04:10,459
+maar door genoeg geluksbots te combineren, en alleen te houden wat werkt,
+
+84
+00:04:10,460 --> 00:04:13,239
+en willekeurig te rommelen met nieuwe exemplaren daarvan,
+
+85
+00:04:13,240 --> 00:04:16,018
+ontstaat er uiteindelijk een studentenbot die geen geluk heeft,
+
+86
+00:04:16,019 --> 00:04:19,659
+die misschien nauwelijks bijen van drie kan onderscheiden  .
+
+87
+00:04:19,660 --> 00:04:23,319
+Naarmate deze bot wordt gekopieerd en gewijzigd,
+stijgt langzaam de gemiddelde testscore,
+
+88
+00:04:23,320 --> 00:04:27,659
+en dus wordt het cijfer dat nodig is om de volgende ronde te overleven steeds hoger.
+
+89
+00:04:27,660 --> 00:04:30,579
+Ga zo door en uiteindelijk zal uit het oneindige pakhuis
+
+90
+00:04:30,580 --> 00:04:31,099
+(slachthuis)
+
+91
+00:04:31,100 --> 00:04:36,759
+een studentenbot tevoorschijn komen, die een bij nog nooit eerder gezien van een drie op een foto kan onderscheiden.
+
+92
+00:04:36,760 --> 00:04:40,759
+Maar hoe de studentenbot dit doet, kunnen noch de leraarsbot, noch de bouwbot,
+
+93
+00:04:40,760 --> 00:04:43,099
+noch de menselijke opzichter begrijpen.
+
+94
+00:04:43,100 --> 00:04:45,499
+De studentenbot zelf ook niet.
+
+95
+00:04:45,500 --> 00:04:51,319
+Na zoveel nuttige willekeurige veranderingen te hebben doorgevoerd, is
+de bedrading in zijn hoofd ongelooflijk gecompliceerd,
+
+96
+00:04:51,320 --> 00:04:57,139
+en hoewel een individuele regel code kan worden begrepen en clusters van het algemene doel van de code vaag begrepen, gaat
+
+97
+00:04:57,140 --> 00:04:58,919
+het geheel verder dan dat
+
+98
+00:04:58,920 --> 00:05:00,599
+, het werkt niettemin.
+
+99
+00:05:00,600 --> 00:05:05,219
+Maar dit is frustrerend, vooral omdat de studentenbot heel goed is in
+
+100
+00:05:05,220 --> 00:05:07,999
+precies het soort vragen dat hem is aangeleerd.
+
+101
+00:05:08,000 --> 00:05:13,519
+Het is geweldig met foto's, maar nutteloos met video's of verbijsterd als de foto's ondersteboven zijn,
+
+102
+00:05:13,520 --> 00:05:17,119
+of dingen die duidelijk geen bijen zijn, het is zeker dat ze dat zijn.
+
+103
+00:05:17,120 --> 00:05:18,519
+Omdat de bot van een leraar niet kan lesgeven, kan
+
+104
+00:05:18,520 --> 00:05:23,239
+de menselijke opzichter alleen maar meer vragen stellen, de test nog langer maken en
+
+105
+00:05:23,240 --> 00:05:26,719
+het soort vragen opnemen dat de beste bots fout hebben.
+
+106
+00:05:26,720 --> 00:05:28,639
+Dit is belangrijk om te begrijpen.
+
+107
+00:05:28,640 --> 00:05:32,539
+Het is een reden waarom bedrijven
+geobsedeerd zijn door het verzamelen van gegevens.
+
+108
+00:05:32,540 --> 00:05:35,859
+Meer data staat gelijk aan langere tests en staat gelijk aan betere bots.
+
+109
+00:05:35,860 --> 00:05:38,859
+Dus als je de melding "Ben je een mens?"  test op een website,
+
+110
+00:05:38,860 --> 00:05:41,459
+bewijs je niet alleen dat je een mens bent,
+(hopelijk),
+
+111
+00:05:41,460 --> 00:05:45,239
+maar je helpt ook bij het bouwen van de test om bots te maken die kunnen lezen, of tellen,
+
+112
+00:05:45,240 --> 00:05:47,639
+of meren van bergen kunnen onderscheiden, of paarden van mensen.
+
+113
+00:05:47,640 --> 00:05:50,079
+Zie je de laatste tijd veel vragen over autorijden?
+
+114
+00:05:50,080 --> 00:05:52,879
+Hm...!  Waar zou dat een test voor kunnen zijn?
+
+115
+00:05:52,880 --> 00:05:56,379
+Om nu uit te zoeken wat er op een foto of op een bord staat, of om video's te filteren,
+
+116
+00:05:56,380 --> 00:05:59,259
+moeten mensen voldoende correct testen.
+
+117
+00:05:59,260 --> 00:06:02,219
+Maar er is nog een ander soort test die zichzelf maakt.
+
+118
+00:06:02,220 --> 00:06:04,519
+Tests OP de mens.
+
+119
+00:06:04,520 --> 00:06:11,179
+Stel bijvoorbeeld dat het volledig hypothetische NetMeTube wilde dat gebruikers zo lang mogelijk zouden blijven kijken?
+
+120
+00:06:11,180 --> 00:06:14,539
+Welnu, hoe lang een gebruiker op de site blijft, is eenvoudig te meten.
+
+121
+00:06:14,540 --> 00:06:18,619
+De docentenbot geeft elke studentenbot dus een aantal NetMeTube-gebruikers om toezicht op te houden,
+
+122
+00:06:18,620 --> 00:06:21,579
+de studentenbots kijken naar wat hun gebruiker bekijkt, bekijken hun bestanden
+
+123
+00:06:21,580 --> 00:06:24,819
+en doen hun best om de video's te kiezen
+die de gebruiker op de site houden.
+
+124
+00:06:24,820 --> 00:06:27,299
+Hoe langer het gemiddelde, hoe hoger hun testscore.
+
+125
+00:06:27,300 --> 00:06:29,399
+Bouw, test, herhaal.
+
+126
+00:06:29,400 --> 00:06:34,039
+Een miljoen cycli later is er een studentenbot die er best goed in is om de gebruikers te laten kijken,
+
+127
+00:06:34,040 --> 00:06:36,639
+tenminste vergeleken met wat een mens zou kunnen bouwen.
+
+128
+00:06:36,640 --> 00:06:40,199
+Maar als mensen vragen:
+"Hoe selecteert het NetMeTube-algoritme video's?"
+
+129
+00:06:40,200 --> 00:06:44,039
+Nogmaals, er is geen ander goed antwoord dan te verwijzen naar de bot
+
+130
+00:06:44,040 --> 00:06:46,139
+en de gebruikersgegevens waartoe het toegang had,
+
+131
+00:06:46,140 --> 00:06:51,419
+en vooral hoe de menselijke opzichters de
+bot van de leraar sturen om de test te scoren.
+
+132
+00:06:51,420 --> 00:06:54,799
+Dat is waar de bot goed in probeert te zijn om te overleven.
+
+133
+00:06:54,800 --> 00:06:59,419
+Maar wat de bot denkt, of hoe hij het denkt,
+is niet echt kenbaar.
+
+134
+00:06:59,420 --> 00:07:02,999
+Het enige dat bekend is, is dat deze studentenbot
+het algoritme wordt,
+
+135
+00:07:03,000 --> 00:07:09,159
+omdat hij één procent beter is dan de vorige bot bij de test die de mensen ontwierpen.
+
+136
+00:07:09,160 --> 00:07:13,779
+Dus overal op internet, achter de schermen,
+zijn er tests om de gebruikersinteractie te vergroten,
+
+137
+00:07:13,780 --> 00:07:17,239
+of om de juiste prijzen in te stellen om de inkomsten te maximaliseren,
+
+138
+00:07:17,240 --> 00:07:22,179
+of kies de berichten van al je vrienden die je het leukst vindt, of artikelen die mensen het meest zullen delen,  of wat dan ook.
+
+139
+00:07:22,180 --> 00:07:24,839
+Als het toetsbaar is, is het aan te leren.  Nou ja, "leerbaar",
+
+140
+00:07:24,840 --> 00:07:29,899
+en een studentenbot zal uit het magazijn afstuderen
+om het algoritme van zijn domein te zijn.
+
+141
+00:07:29,900 --> 00:07:31,539
+Althans, voor een tijdje.
+
+142
+00:07:31,540 --> 00:07:36,439
+We zijn gewend aan het idee dat de tools die we gebruiken, zelfs als we ze niet begrijpen, iemand dat wel doet,
+
+143
+00:07:36,440 --> 00:07:40,979
+maar met onze machines die leren, bevinden we ons steeds meer in een positie waarin we tools gebruiken,
+
+144
+00:07:40,980 --> 00:07:42,459
+of worden gebruikt door tools,
+
+145
+00:07:42,460 --> 00:07:45,719
+dat geen  één, zelfs niet hun makers, begrijpen.
+
+146
+00:07:45,720 --> 00:07:49,219
+We kunnen alleen maar hopen ze te begeleiden met de tests die we doen,
+
+147
+00:07:49,220 --> 00:07:50,939
+en daar moeten we ons comfortabel bij voelen,
+
+148
+00:07:50,940 --> 00:07:58,239
+aangezien onze algoritmische botmaatjes overal zijn
+en nergens heen gaan.
+
+149
+00:07:58,240 --> 00:08:00,699
+OKÉ.  De bots kijken toe.
+
+150
+00:08:00,700 --> 00:08:02,319
+Je weet wat er gaat komen.
+
+151
+00:08:02,320 --> 00:08:04,919
+Dit is waar ik je moet vragen...
+
+152
+00:08:04,920 --> 00:08:06,179
+Om te liken...
+
+153
+00:08:06,180 --> 00:08:07,499
+commentaar te geven...
+
+154
+00:08:07,500 --> 00:08:09,479
+...en te abonneren.
+
+155
+00:08:09,480 --> 00:08:11,299
+En bel me.
+
+156
+00:08:11,300 --> 00:08:13,759
+En deel op het TweetBook.
+
+157
+00:08:13,760 --> 00:08:15,779
+Het algoritme kijkt toe.
+
+158
+00:08:15,780 --> 00:08:18,199
+Het zal mensen de video niet laten zien...
+
+159
+00:08:18,200 --> 00:08:21,179
+tenzij je dit doet.
+
+160
+00:08:21,180 --> 00:08:24,259
+Kijk waar je me toe hebt gereduceerd, bots.
+
+161
+00:08:24,260 --> 00:08:26,339
+Wat wil je?  Wil je kijktijd?
+
+162
+00:08:26,340 --> 00:08:28,119
+Is dat wat je wilt?
+
+163
+00:08:28,120 --> 00:08:30,299
+Prima.
+
+164
+00:08:30,300 --> 00:08:34,259
+(zucht...) Hey jongens, wisten jullie dat ik ook podcasts heb waar je naar kunt luisteren?
+
+165
+00:08:34,260 --> 00:08:40,599
+Misschien zelfs gewoon op de achtergrond terwijl je urenlang je hele kamer opruimt?  Of wat dan ook?
+
+166
+00:08:40,600 --> 00:08:47,019
+Er is urenlang audio-entertainment voor jou
+en kijktijd voor de bots die toezicht houden op je acties.
+
+167
+00:08:47,020 --> 00:08:50,519
+Ga je gang en - en neem een
+ Vermaak jezelf.
+
+168
+00:08:50,520 --> 00:08:51,739
+Help mij.
+
+169
+00:08:51,740 --> 00:08:53,420
+Help de bots.
+

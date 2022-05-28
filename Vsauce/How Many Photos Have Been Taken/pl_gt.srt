@@ -1,0 +1,326 @@
+1
+00:00:00,440 --> 00:00:07,838
+Hej, Vsosie.  Michael tutaj.
+W 1826 roku stało się to pierwszym zrobionym zdjęciem
+
+2
+00:00:07,839 --> 00:00:13,939
+.
+W 1992 roku stało się to pierwszym obrazem,
+
+3
+00:00:13,940 --> 00:00:19,969
+jaki kiedykolwiek został przesłany do sieci.
+Ale ile zdjęć zrobiliśmy wszyscy,
+
+4
+00:00:19,970 --> 00:00:27,249
+łącznie w całej historii?
+Cóż, 1000 wspomnień badało właśnie to
+
+5
+00:00:27,250 --> 00:00:30,959
+pytanie.
+Przyjrzeli się liczbie obecnie używanych aparatów cyfrowych
+
+6
+00:00:30,960 --> 00:00:36,889
+, typowym zastosowaniom aparatu cyfrowego
+, a także ilości analogowej
+
+7
+00:00:36,890 --> 00:00:42,759
+kliszy i materiałów do wywoływania filmów używanych przez
+przemysł od XIX wieku.
+
+8
+00:00:42,760 --> 00:00:52,169
+W zestawieniu oszacowali,
+że wykonaliśmy 3,5 biliona zdjęć,
+
+9
+00:00:52,170 --> 00:00:59,029
+z czego 4 miliardy zrobiono tylko w tym roku.
+Robimy więcej zdjęć niż kiedykolwiek
+
+10
+00:00:59,030 --> 00:01:03,878
+wcześniej z powodu mnożenia się łatwych w użyciu i
+niedrogich aparatów cyfrowych.
+
+11
+00:01:03,879 --> 00:01:10,529
+W rzeczywistości robimy 4 razy więcej zdjęć dziennie
+niż 10 lat temu.
+
+12
+00:01:10,530 --> 00:01:16,869
+Albo pomyśl o tym w ten sposób.
+Dzisiaj, co 2 minuty, ludzkość robi więcej
+
+13
+00:01:16,870 --> 00:01:22,299
+zdjęć, niż zrobiliśmy razem w całym XIX wieku.
+
+14
+00:01:22,300 --> 00:01:28,169
+Oczywiście, XIX wiek był dawno temu.
+Ale jeśli weźmiemy pod uwagę każdego roku od
+
+15
+00:01:28,170 --> 00:01:36,059
+wynalezienia fotografii do dziś, 10% wszystkich
+tych obrazów, jedna dziesiąta każdego
+
+16
+00:01:36,060 --> 00:01:42,849
+zarejestrowanego nieruchomego obrazu naszego świata, została wykonana w ciągu ostatnich 12 miesięcy.
+
+17
+00:01:42,850 --> 00:01:45,989
+To dużo.
+Ale jeszcze bardziej szalony jest fakt, że jedna
+
+18
+00:01:45,990 --> 00:01:52,399
+piąta tych zdjęć, 20% z nich, kończy się
+w tym samym miejscu – na Facebooku.
+
+19
+00:01:52,400 --> 00:01:58,059
+Facebook jest ogromny.
+Ale patrząc na to z innej perspektywy, wy, Vsaucers,
+
+20
+00:01:58,060 --> 00:02:01,449
+jesteście wielcy.
+Gdybyśmy wszyscy zebrali się w jednym miejscu i
+
+21
+00:02:01,450 --> 00:02:08,228
+zdobyli niepodległość, stalibyśmy się
+152. największym krajem na Ziemi.
+
+22
+00:02:08,229 --> 00:02:11,818
+Dokładnie między Gwineą Bissau a
+Trynidadem i Tobago.
+
+23
+00:02:11,819 --> 00:02:19,979
+Ale Facebook z miliardem użytkowników
+byłby trzecim co do wielkości krajem na Ziemi.
+
+24
+00:02:19,980 --> 00:02:26,649
+Aby zrobić szybki, ciemny objazd, z tych miliardów
+ludzi na Facebooku, szacuje się, że 30
+
+25
+00:02:26,650 --> 00:02:33,589
+milionów z nich nie żyje.
+Szacuje się, że za 100 lat
+
+26
+00:02:33,590 --> 00:02:39,009
+pół miliarda ludzi na Facebooku umrze.
+
+27
+00:02:39,010 --> 00:02:44,249
+Historie na Facebooku oferują naprawdę fajne narzędzie, w
+którym klikasz kraj, a następnie widzisz, w
+
+28
+00:02:44,250 --> 00:02:48,079
+jakich innych krajach mieszka większość ich
+znajomych z Facebooka.
+
+29
+00:02:48,080 --> 00:02:51,958
+Fajnie jest zobaczyć, które kraje są najbardziej powiązane
+z jakimi innymi, ale cała ta sprawa
+
+30
+00:02:51,959 --> 00:02:58,339
+rodzi pytanie  stopnie separacji.
+Gdybyś miał wziąć 2 losowe osoby na Ziemi,
+
+31
+00:02:58,340 --> 00:03:03,439
+ilu znajomego przyjaciela znajomego znajomego
+potrzebowałbyś, aby połączyć te
+
+32
+00:03:03,440 --> 00:03:06,929
+2 osoby?
+Cóż, w prawdziwym świecie trochę trudno
+
+33
+00:03:06,930 --> 00:03:11,689
+to rozgryźć, ponieważ nie wiemy, kto się
+z kim przyjaźni, a jest wielu ludzi.
+
+34
+00:03:11,690 --> 00:03:16,199
+Ale na szczęście matematyka przyszła nam z pomocą.
+
+35
+00:03:16,200 --> 00:03:22,708
+Watts i Strogatz pokazali, że można dość łatwo
+obliczyć średnią ścieżkę między dowolnymi dwoma przypadkowymi osobami
+
+36
+00:03:22,709 --> 00:03:26,419
+.
+W tym równaniu „N” oznacza całkowitą
+
+37
+00:03:26,420 --> 00:03:31,579
+liczbę osób w populacji.
+A „K” oznacza liczbę przyjaciół,
+
+38
+00:03:31,580 --> 00:03:35,599
+którą ma każda osoba.
+Jeśli przyjmiemy, że każda osoba ma, powiedzmy, 30
+
+39
+00:03:35,600 --> 00:03:42,139
+przyjaciół i założymy, że 10% naszej populacji
+jest zbyt młoda, by mieć prawdziwych przyjaciół, to okaże
+
+40
+00:03:42,140 --> 00:03:48,439
+się, że można połączyć dowolne dwie osoby na
+Ziemi za pomocą zaledwie 6,6 połączeń.
+
+41
+00:03:48,440 --> 00:03:51,598
+Teoretycznie.
+Oczywiście w prawdziwym świecie nie wszyscy
+
+42
+00:03:51,599 --> 00:03:56,699
+mamy taką samą liczbę znajomych, nie
+wszyscy mamy 30 znajomych, a odizolowane grupy sprawiają,
+
+43
+00:03:56,700 --> 00:04:01,729
+że średnia jest znacznie wyższa.
+Oczywiście są miejsca nierealne,
+
+44
+00:04:01,730 --> 00:04:06,299
+gdzie te połączenia są łatwiejsze do naśladowania.
+Na przykład Facebook.
+
+45
+00:04:06,300 --> 00:04:11,639
+W zeszłym roku zespół danych Facebooka opublikował dwa
+artykuły, z których wynika, że wśród wszystkich użyt
+
+46
+00:04:11,640 --> 00:04:21,159
+owników Facebooka w tym czasie średnia odległość między dowol
+ymi dwoma przypadkowymi użytkownikami wynosiła tylko 4,74 znajo
+
+47
+00:04:21,160 --> 00:04:25,849
+ych.  Twitter jest jeszcze mocniejszy.
+Wykazano, że dowolnych dwóch przypadkowych
+
+48
+00:04:25,850 --> 00:04:31,519
+użytkowników Twittera łączy tylko 4,67 znajomych,
+chociaż niektóre badania wykazały, że jest to
+
+49
+00:04:31,520 --> 00:04:37,409
+zaledwie 3,5.
+Takie liczby mogą sprawić, że bezosobowy tłum
+
+50
+00:04:37,410 --> 00:04:42,409
+wydaje się dość intymny.
+Ale jedną z moich ulubionych rzeczy w tłumie
+
+51
+00:04:42,410 --> 00:04:48,429
+jest to, jak są inteligentni.
+Mądrość tłumu to fascynujące zjawisko, w
+
+52
+00:04:48,430 --> 00:04:54,429
+którym zbiorowa wiedza, domysły
+lub szacunki dużej grupy ludzi,
+
+53
+00:04:54,430 --> 00:04:59,619
+uśrednione, są lepsze niż pojedyncza osoba
+pracująca w pojedynkę.
+
+54
+00:04:59,620 --> 00:05:04,739
+Dobrym tego przykładem jest próba odgadnięcia,
+ile żelek znajduje się w słoiku.
+
+55
+00:05:04,740 --> 00:05:10,909
+Niektórzy ludzie przeszacowują, podczas gdy inni
+nie docenią, ale wspólnie każdy
+
+56
+00:05:10,910 --> 00:05:16,929
+członek kasuje błędy drugiego,
+a średnia ocena grupy
+
+57
+00:05:16,930 --> 00:05:22,509
+jest mądrzejsza niż suma jej części.
+Pokaz BBC na to jest fantastyczny
+
+58
+00:05:22,510 --> 00:05:25,429
+, połączyłem to w opisie, warto go obejrzeć.
+
+59
+00:05:25,430 --> 00:05:29,679
+160 osób
+odgadło liczbę żelek w słoiku.
+
+60
+00:05:29,680 --> 00:05:37,249
+Domysły wahały się od kilkuset do
+kilkudziesięciu tysięcy, ale średnia wszystkich 160 domysłów
+
+61
+00:05:37,250 --> 00:05:46,859
+wyniosła 4515, czyli tylko 5 ziaren dzieliło od dokładnej odpowiedzi.
+
+62
+00:05:46,860 --> 00:05:51,759
+Niesamowite jest myśleć, że w wystarczająco dużej
+grupie błędy i niedociągnięcia wszystkich
+
+63
+00:05:51,760 --> 00:06:00,659
+innych, bez względu na to, jak bardzo irytujące są z osobna, w
+rzeczywistości mogą zrównoważyć i skorygować nasze własne niedociągnięcia.
+
+64
+00:06:00,660 --> 00:06:05,599
+To dobrze, choć trochę
+dziwnie pomyśleć, że w grupie
+
+65
+00:06:05,600 --> 00:06:12,299
+nikt nie ma racji, ale wszyscy mają rację.
+
+66
+00:06:12,300 --> 00:06:13,239
+I jak zawsze
+
+67
+00:06:13,240 --> 00:06:14,240
+dzięki za oglądanie.
+

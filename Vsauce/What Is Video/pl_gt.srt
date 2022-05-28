@@ -1,0 +1,484 @@
+1
+00:00:00,310 --> 00:00:03,059
+Hej, Vsosie.  Michael tutaj,
+a ja właśnie wróciłem z
+
+2
+00:00:03,060 --> 00:00:06,459
+VidConu.  Cały konwent był
+niesamowity, ale przez cały czas, kiedy
+
+3
+00:00:06,460 --> 00:00:07,099
+tam
+
+4
+00:00:07,100 --> 00:00:11,619
+byłem, dużo myślałem o wideo.
+Wszyscy oglądamy wideo
+
+5
+00:00:11,620 --> 00:00:15,239
+i wielu z nas pracuje z wideo,
+ale co to jest?  Mam na myśli, czym tak naprawdę
+
+6
+00:00:15,240 --> 00:00:18,919
+jest wideo?  Cóż, zgadnij co, dzisiaj
+przyjrzymy się.
+
+7
+00:00:18,920 --> 00:00:22,948
+Na początek myślę, że powinniśmy zacząć
+od samego dołu
+
+8
+00:00:22,949 --> 00:00:26,299
+z językiem.
+Co oznacza słowo rekord?
+
+9
+00:00:26,300 --> 00:00:30,759
+Historia kryjąca się za słowem „nagranie” jest
+całkiem fajna i sprawia, że jestem trochę senty
+
+10
+00:00:30,760 --> 00:00:34,689
+entalny.  Słowo „zapis” pochodzi z łaciny,
+gdzie „re” oznacza
+
+11
+00:00:34,690 --> 00:00:38,439
+znowu, a „cor” oznacza serce lub duszę.
+
+12
+00:00:38,440 --> 00:00:42,199
+Więc kiedy coś nagrywasz,
+dosłownie przenosisz to z powrotem
+
+13
+00:00:42,200 --> 00:00:46,038
+do swojego serca, przywracasz to z powrotem do swojej
+duszy, pamiętając o tym.
+
+14
+00:00:46,039 --> 00:00:49,288
+Brzmi to naprawdę ładnie i ładnie,
+ale w rzeczywistości miało to więcej wspólnego z
+
+15
+00:00:49,289 --> 00:00:49,699
+faktem, że
+
+16
+00:00:49,700 --> 00:00:53,979
+starożytni ludzie myśleli, że serce
+to my przechowywane wspomnienia, a nie mózg.
+
+17
+00:00:53,980 --> 00:00:57,468
+Powodem, dla którego sekwencja nieruchomych obrazów
+może wydawać się poruszająca,
+
+18
+00:00:57,469 --> 00:01:01,488
+jest efekt znany jako „ruch beta”.
+Jeśli obrazy poruszają się wystarczająco szybko,
+
+19
+00:01:01,489 --> 00:01:04,937
+nasz mózg nie jest w stanie pojąć ich jako
+oddzielnych obrazów i powstaje złudzenie
+
+20
+00:01:04,938 --> 00:01:05,609
+ruchu
+
+21
+00:01:05,610 --> 00:01:09,169
+.
+Teraz przez bardzo długi czas nagrywaliśmy
+
+22
+00:01:09,170 --> 00:01:12,959
+ruchome obrazy na kliszy fotograficznej,
+ale później pojawił
+
+23
+00:01:12,960 --> 00:01:16,789
+się nowy sposób rejestrowania ruchomych
+obrazów, który nazwano
+
+24
+00:01:16,790 --> 00:01:20,188
+„wideo”.
+Wideo pochodzi z łaciny i oznacza „widzę”
+
+25
+00:01:20,189 --> 00:01:24,258
+i zamiast chemicznie zachowywać ruchomy
+obraz na celuloidowej taśmie
+
+26
+00:01:24,259 --> 00:01:28,548
+fotograficznej,
+wideo jest elektroniczną
+
+27
+00:01:28,549 --> 00:01:33,219
+reprezentacją ruchomego obrazu.
+Teraz w prawdziwym świecie rzeczy po prostu się
+
+28
+00:01:33,220 --> 00:01:37,158
+dzieją.  Rzeczy po prostu ciągle się
+dzieją.  Ale w świecie kamery,
+
+29
+00:01:37,159 --> 00:01:38,118
+niezależnie od tego, czy jest to film,
+
+30
+00:01:38,119 --> 00:01:41,789
+czy kamera wideo, prawie zawsze ma
+to postać liczby klatek na sekundę.
+
+31
+00:01:41,790 --> 00:01:45,569
+Zdjęcia świata robione z
+określoną prędkością, które następnie szybko przechodzą
+
+32
+00:01:45,570 --> 00:01:46,078
+przez
+
+33
+00:01:46,079 --> 00:01:49,658
+tworzenie, poprzez ruch beta
+, iluzji ruchu.
+
+34
+00:01:49,659 --> 00:01:53,749
+Gdy kamera nagrywa z niższą liczbą klatek na
+sekundę, odtwarzanie często wygląda na
+
+35
+00:01:53,750 --> 00:01:58,648
+roztrzęsione i tak przeskakuje.  Więcej klatek
+na sekundę oznacza, że w każd
+
+36
+00:01:58,649 --> 00:02:00,109
+j sekundzie pobieranych jest więcej informacji, co pr
+
+37
+00:02:00,110 --> 00:02:03,609
+ekłada się na większą płynność.  Ale 
+to prowadzi do całej puszki robaków,
+
+38
+00:02:03,610 --> 00:02:06,618
+co jest świetnym przejściem do
+rozmowy, którą odbyłem z Dylanem z
+
+39
+00:02:06,619 --> 00:02:08,119
+HouseholdHacker na VidCon.
+
+40
+00:02:08,120 --> 00:02:11,239
+Zwiń taśmę.
+
+41
+00:02:11,240 --> 00:02:16,799
+Hej, Vsosie.  Michael tutaj, a ja jestem w łazience na VidConie i mam specjalnego gościa.  Na zewnątrz
+
+42
+00:02:16,800 --> 00:02:20,259
+jest Dylan z HouseholdHacker.
+Hej, co się dzieje ze wszystkimi?
+
+43
+00:02:20,260 --> 00:02:24,549
+Wiesz, mam dla ciebie dobre pytanie
+na podstawie liczby klatek na sekundę, a co nie.  Jaką
+
+44
+00:02:24,550 --> 00:02:31,049
+liczbę klatek na sekundę postrzega ludzkie oko?  Bardzo dobre pytanie.  Z jaką liczbą klatek na sekundę widzimy świat za pomocą naszych
+
+45
+00:02:31,050 --> 00:02:32,098
+gałek ocznych?
+Chodzi mi o to,
+
+46
+00:02:32,099 --> 00:02:35,409
+jak szybko informacje przemieszczają się
+z naszego oka do naszego mózgu?
+
+47
+00:02:35,410 --> 00:02:39,729
+Oczywiście nie może być zbyt niska,
+ponieważ szybkie obiekty nie wyglądają tak, jakby
+
+48
+00:02:39,730 --> 00:02:40,539
+przeskakiwały,
+
+49
+00:02:40,540 --> 00:02:44,979
+wyglądają dość płynnie.  Cóż, to trochę
+podchwytliwe pytanie, ponieważ nasze oczy
+
+50
+00:02:44,980 --> 00:02:48,878
+nie są aparatami.
+Zamiast tego śledzą obiekty
+
+51
+00:02:48,879 --> 00:02:52,219
+i odbierają ciągły przepływ fotonów
+do siatkówki,
+
+52
+00:02:52,220 --> 00:02:55,249
+wysyłając informacje poprzez reakcję chemiczną
+
+53
+00:02:55,250 --> 00:02:59,149
+do mózgu.  Oto, co robimy teraz.
+Kora wzrokowa w naszym mózgu
+
+54
+00:02:59,150 --> 00:03:02,408
+zwykle przechowuje te informacje
+z naszej siatkówki przez około
+
+55
+00:03:02,409 --> 00:03:06,399
+piętnastą część sekundy.  Więc jeśli animacja porusza się
+piętnaście klatek na sekundę
+
+56
+00:03:06,400 --> 00:03:09,719
+lub szybciej, będzie wyglądać ładnie i płynnie.
+Ale
+
+57
+00:03:09,720 --> 00:03:14,158
+jeśli jest niższy niż piętnaście klatek na sekundę,
+nasz mózg nie daje się zwieść ruchowi beta
+
+58
+00:03:14,159 --> 00:03:19,699
+i będzie wyglądał, jakby przeskakiwał.  Zasadniczo
+im większa liczba klatek na sekundę, tym lepiej
+
+59
+00:03:19,700 --> 00:03:24,268
+wszystko będzie na końcu wyglądało.  To jest ta rzecz.
+Jeśli liczba klatek na sekundę staje się coraz wyższa,
+
+60
+00:03:24,269 --> 00:03:27,499
+otrzymujesz obraz, który może
+powodować bóle głowy, gdy ludzie
+
+61
+00:03:27,500 --> 00:03:28,548
+oglądają go na ekranie.
+
+62
+00:03:28,549 --> 00:03:31,988
+Uhm... Tutaj wyjaśnię dlaczego.
+Przytrzymaj ten aparat przez sekundę.
+
+63
+00:03:31,989 --> 00:03:35,449
+O tak, nie ma problemu.
+Wracając do punktu
+
+64
+00:03:35,450 --> 00:03:39,059
+o naszych oczach śledzących obiekty.
+Jeśli to zrobię –
+
+65
+00:03:39,060 --> 00:03:42,708
+przesuń rękę przed twarz i
+śledź ją oczami –
+
+66
+00:03:42,709 --> 00:03:47,339
+widzę swoją rękę, to ma sens.  Ale
+w pewnym momencie moja ręka poruszy się tak szybko,
+
+67
+00:03:47,340 --> 00:03:51,238
+że jest to tylko rozmycie, a powodem
+tego jest to, że moje oko
+
+68
+00:03:51,239 --> 00:03:56,889
+może śledzić tylko tak szybko.  A kiedy obiekty poruszają się
+szybciej, niż są w stanie śledzić nasze gałki oczne, mózg
+
+69
+00:03:56,890 --> 00:03:57,529
+dodaje
+
+70
+00:03:57,530 --> 00:04:00,899
+rozmycie ruchu.  W ten sposób mamy wrażenie
+, że dzieje się ruch,
+
+71
+00:04:00,900 --> 00:04:04,139
+ale nie widzimy czegoś w rodzaju ręki
+
+72
+00:04:04,140 --> 00:04:07,818
+pojawiającej się przypadkowo w całym miejscu.
+Ale staje się to problemem w przypadku nowych
+
+73
+00:04:07,819 --> 00:04:09,658
+programów o wysokiej rozdzielczości na
+
+74
+00:04:09,659 --> 00:04:13,639
+dużych telewizorach, ponieważ niektóre z tych
+programów są przesyłane do telewizora
+
+75
+00:04:13,640 --> 00:04:16,948
+z szybkością klatek nawet 1000 klatek na sekundę.
+
+76
+00:04:16,949 --> 00:04:20,737
+A obiekty, takie jak piłka tenisowa,
+które normalnie poruszają się tak szybko, że
+
+77
+00:04:20,738 --> 00:04:24,439
+nasze oczy nie mogą ich śledzić i wyglądają na niewyraźne
+, nie wyglądają na niewyraźne,
+
+78
+00:04:24,440 --> 00:04:28,239
+ponieważ aparat jest w stanie je
+wyraźnie zobaczyć.  A kiedy oglądasz ten program
+
+79
+00:04:28,240 --> 00:04:28,969
+w telewizji
+
+80
+00:04:28,970 --> 00:04:32,469
+, możesz dostać bólu głowy lub
+zawrotów głowy, więc muszą znaleźć sposoby, aby
+
+81
+00:04:32,470 --> 00:04:33,649
+przywrócić rozmycie
+
+82
+00:04:33,650 --> 00:04:37,159
+do obrazów HD.
+Całkiem schludny, prawda?
+
+83
+00:04:37,160 --> 00:04:40,379
+To świetna informacja.  Jak
+się tego nauczyłeś?  Po to tu jestem, stary.
+
+84
+00:04:40,380 --> 00:04:45,918
+Dziękuję Ci.  Do zobaczenia.
+Do zobaczenia.
+
+85
+00:04:45,919 --> 00:04:52,219
+Wiesz, łazienka.  Wiesz, że.
+Słyszałem, że wychodzisz.  Czy umyłeś ręce?
+
+86
+00:04:52,220 --> 00:04:55,249
+Uhm, tak.
+
+87
+00:04:55,250 --> 00:04:58,829
+Więc proszę.  Kilka fajnych faktów na temat
+wideo, których nauczyłem się podczas lotu
+
+88
+00:04:58,830 --> 00:04:59,589
+do
+
+89
+00:04:59,590 --> 00:05:03,719
+iz VidCon z Nowego Jorku do LA.
+To był długi lot, ale dużo się nauczyłem
+
+90
+00:05:03,720 --> 00:05:07,508
+i chciałbym zakończyć kilkoma liczbami dotyczącymi
+YouTube.
+
+91
+00:05:07,509 --> 00:05:11,258
+YouTube udostępnia filmy z całego świata.
+Ogromne,
+
+92
+00:05:11,259 --> 00:05:14,839
+ogromne ilości.
+W rzeczywistości co minutę
+
+93
+00:05:14,840 --> 00:05:18,749
+ludzie przesyłają filmy do YouTube.
+A gdybyś wziął cały film
+
+94
+00:05:18,750 --> 00:05:22,549
+przesłany do YouTube w dowolnej chwili,
+łącznie wyniosłoby to
+
+95
+00:05:22,550 --> 00:05:27,249
+48 godzin.  Zgadza się.  Co minutę do YouTube przesyłane są
+filmy z dwóch pełnych dni
+
+96
+00:05:27,250 --> 00:05:31,698
+
+.  Jesteście częścią czegoś
+
+97
+00:05:31,699 --> 00:05:35,198
+gigantycznego.  W porządku, teraz jeszcze w tym tygodniu
+będę miał nowy odcinek IMG.
+
+98
+00:05:35,199 --> 00:05:38,569
+Niedługo będziemy mieć odcinki
+DONG, LÜt, będzie super, więc
+
+99
+00:05:38,570 --> 00:05:40,579
+upewnij się, że subskrybujesz, żeby niczego nie przegapić.
+
+100
+00:05:40,580 --> 00:05:41,619
+I jak zawsze
+
+101
+00:05:41,620 --> 00:05:49,299
+dzięki za oglądanie.
+
+102
+00:05:49,300 --> 00:05:51,460
+Nie są, nie są tą samą osobą.
+

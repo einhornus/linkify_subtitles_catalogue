@@ -1,0 +1,1078 @@
+1
+00:00:17,100 --> 00:00:23,349
+Olá, Vsauce.  Miguel aqui.  Agora, uma das minhas
+guloseimas favoritas das festas de fim de ano é
+
+2
+00:00:23,350 --> 00:00:29,279
+o bolo do Gabriel.  É um super sólido
+baseado no Chifre do Gabriel que você pode
+
+3
+00:00:29,280 --> 00:00:38,509
+fazer em casa, desde que sua casa
+seja infinitamente grande.  Ok, tudo bem.  Agora, a
+
+4
+00:00:38,510 --> 00:00:44,659
+primeira coisa que você quer fazer é assar um
+bolo.  Eu preparei este bolo antes.  É
+
+5
+00:00:44,660 --> 00:00:50,319
+um bolo lindo mesmo.  É um pouco grande,
+mas aposto que conseguiria comer
+
+6
+00:00:50,320 --> 00:00:57,319
+tudo em um dia se tentasse.  Estou certo?
+Ok, agora o segundo passo é cortar o bolo ao
+
+7
+00:00:57,320 --> 00:00:58,069
+meio.
+
+8
+00:00:58,070 --> 00:01:02,658
+Observe que enquanto eu corto este bolo ao meio
+
+9
+00:01:02,659 --> 00:01:08,119
+você não adiciona ou cria nenhum novo bolo, mas
+a área da superfície do bolo
+
+10
+00:01:08,120 --> 00:01:13,839
+aumentou.  Costumava ser completamente
+coberto e agora temos duas
+
+11
+00:01:13,840 --> 00:01:19,089
+regiões internas que não são cobertas.  O próximo
+passo é cortar essa metade, uma das metades,
+
+12
+00:01:19,090 --> 00:01:20,408
+ao meio.
+
+13
+00:01:20,409 --> 00:01:25,879
+Aqui vamos nós.  Novamente, o volume do bolo
+na mesa é o mesmo que era no
+
+14
+00:01:25,880 --> 00:01:30,749
+início, mas a área da superfície está
+aumentando.  Como você pode adivinhar, o próximo
+
+15
+00:01:30,750 --> 00:01:38,399
+passo será cortar um desses
+quartos do bolo original ao meio.
+
+16
+00:01:38,400 --> 00:01:44,859
+Está ficando muito fino, mas tudo o que você precisa
+fazer é continuar assim - cortar metades ao meio
+
+17
+00:01:44,860 --> 00:01:49,978
+e meio e meio e meio para sempre e
+uma vez que você tenha feito isso, bem, você está quase
+
+18
+00:01:49,979 --> 00:01:55,489
+lá.  Quando terminar de cortar, empilhe as
+metades uma sobre a outra para,
+
+19
+00:01:55,490 --> 00:02:00,769
+assim, criar uma bela
+sobremesa em camadas.  Como você tem um
+
+20
+00:02:00,770 --> 00:02:05,379
+número infinito de fatias cada vez mais finas,
+quando terminar de empilhá-las, a
+
+21
+00:02:05,380 --> 00:02:10,007
+altura vertical do bolo será infinita.
+Tal bolo tem uma
+
+22
+00:02:10,008 --> 00:02:17,249
+propriedade matemática interessante.  Seu volume, a
+quantidade de bolo que contém, claramente não é
+
+23
+00:02:17,250 --> 00:02:23,649
+diferente da quantidade com a qual você
+começou, mas sua área de superfície é infinita.  É
+
+24
+00:02:23,650 --> 00:02:29,818
+um bolo que você pode comer, mas não geada.
+Você precisaria de uma quantidade infinita de glacê
+
+25
+00:02:29,819 --> 00:02:35,378
+para cobrir tudo com uma
+camada uniforme.  Um objeto com volume finito mas
+
+26
+00:02:35,379 --> 00:02:40,009
+área de superfície infinita não precisa
+ser infinitamente alto, a propósito.  Existem
+
+27
+00:02:40,010 --> 00:02:45,279
+supersólidos limitados, como este cubo,
+com um número infinito de
+
+28
+00:02:45,280 --> 00:02:50,559
+buracos circulares cada vez menores.
+Claro, construir esses objetos no mundo real
+
+29
+00:02:50,560 --> 00:02:56,279
+vem com algumas dificuldades óbvias.
+Uma delas é o fato de que a quantidade de etapas
+
+30
+00:02:56,280 --> 00:03:01,468
+necessárias para completar a construção
+do bolo de Gabriel ou qualquer outro supersólido
+
+31
+00:03:01,469 --> 00:03:08,068
+é literalmente infinita.
+E o infinito não é um número que, você sabe,
+
+32
+00:03:08,069 --> 00:03:15,668
+você eventualmente alcança.
+Significa interminável.  Sempre haverá um próximo passo,
+
+33
+00:03:15,669 --> 00:03:21,089
+outro pedaço para cortar ao meio novamente.
+Por definição, uma sequência infinita de tarefas
+
+34
+00:03:21,090 --> 00:03:29,439
+não tem última tarefa.  Então você nunca poderia
+terminar de fazer um super sólido.
+
+35
+00:03:29,440 --> 00:03:31,479
+Ou você poderia?
+
+36
+00:03:31,480 --> 00:03:39,699
+Entre na Supertarefa.
+
+37
+00:03:39,700 --> 00:03:44,449
+E se, em vez de levar o
+mesmo tempo para concluir cada etapa,
+
+38
+00:03:44,450 --> 00:03:50,569
+acelerássemos à medida que trabalhávamos e fizéssemos cada
+etapa na metade do tempo da última?  Por
+
+39
+00:03:50,570 --> 00:03:54,659
+exemplo, digamos que você queira fazer
+o bolo do Gabriel em apenas dois minutos.
+
+40
+00:03:54,660 --> 00:04:00,319
+Isso é fácil.  Primeiro, corte o
+bolo original ao meio e espere um minuto
+
+41
+00:04:00,320 --> 00:04:06,109
+antes de fazer o segundo corte.  Espere meio minuto antes de fazer a terceira, um quarto de minuto
+
+42
+00:04:06,110 --> 00:04:11,219
+antes da quarta e assim por diante.
+Sempre esperando a metade do que resta passar
+
+43
+00:04:11,220 --> 00:04:17,528
+antes de cortar novamente.  Como você pode continuar
+dividindo ao meio para sempre,
+
+44
+00:04:17,529 --> 00:04:25,159
+sempre haverá outro passo.  Ações infinitas
+dentro de uma quantidade finita de tempo é uma
+
+45
+00:04:25,160 --> 00:04:30,259
+supertarefa.  O estranho, é claro,
+é que enquanto supertarefa, não importa
+
+46
+00:04:30,260 --> 00:04:35,299
+quantos passos você já tenha completado
+, sempre haverá uma quantidade infinita
+
+47
+00:04:35,300 --> 00:04:43,709
+de passos à frente.  Mas ainda assim, quando o tempo acabar,
+você terá terminado todos eles.  O
+
+48
+00:04:43,710 --> 00:04:49,359
+que acabamos de descrever é semelhante ao
+famoso paradoxo de Zenão da dicotomia em que
+
+49
+00:04:49,360 --> 00:04:54,699
+o herói grego Aquiles faz uma corrida curta
+que ele pode terminar claramente,
+
+50
+00:04:54,700 --> 00:05:00,479
+quer dizer, as pessoas terminam corridas o tempo todo,
+mas como exatamente isso termina
+
+51
+00:05:00,480 --> 00:05:06,759
+é um mistério.  Porque primeiro Aquiles deve
+percorrer metade da distância da corrida e
+
+52
+00:05:06,760 --> 00:05:10,519
+depois metade do que resta e metade de novo
+e de novo e de novo.  Como
+
+53
+00:05:10,520 --> 00:05:14,179
+sempre haverá outro meio-termo a ser
+alcançado, infinito o número de subdivisões
+
+54
+00:05:14,180 --> 00:05:21,399
+, não há destino final,
+após o qual a próxima parada de Aquiles é a
+
+55
+00:05:21,400 --> 00:05:22,359
+linha de chegada.
+
+56
+00:05:22,360 --> 00:05:28,829
+Mas ainda assim Aquiles obviamente pode terminar.
+De alguma forma, ele alcança todos eles, apesar do
+
+57
+00:05:28,830 --> 00:05:34,149
+fato de que durante sua jornada ele sempre
+tem um número infinito de passos para
+
+58
+00:05:34,150 --> 00:05:41,049
+alcançar.  Pense nisso desta maneira.
+E se a cada meio passo ao longo do caminho
+
+59
+00:05:41,050 --> 00:05:46,538
+Aquiles for obrigado a levantar uma bandeira.
+Em passos pares uma bandeira azul e em
+
+60
+00:05:46,539 --> 00:05:52,188
+passos ímpares uma bandeira vermelha.  Azul, vermelho, azul, vermelho,
+azul, vermelho, as bandeiras vão se alternando cada
+
+61
+00:05:52,189 --> 00:05:58,429
+vez mais rápido.  Mas quando Aquiles terminar
+a corrida, qual bandeira ele estará
+
+62
+00:05:58,430 --> 00:06:04,519
+segurando?  Segurar qualquer uma das bandeiras
+parece sugerir que o maior número
+
+63
+00:06:04,520 --> 00:06:11,418
+não apenas existe, mas também é par ou
+ímpar.  Agora, para isso, muitas vezes é sugerido
+
+64
+00:06:11,419 --> 00:06:16,468
+que o verdadeiro problema aqui é que Aquiles
+não está realmente fazendo
+
+65
+00:06:16,469 --> 00:06:20,848
+infinitas coisas.
+Ele está apenas dando alguns passos ou algo assim.
+
+66
+00:06:20,849 --> 00:06:27,549
+Uma verdadeira supertarefa requer fazer
+infinitas ações distintas.
+
+67
+00:06:27,550 --> 00:06:33,218
+Justo.  Mas mesmo que Aquiles corresse a
+corrida de forma staccato, parando em cada
+
+68
+00:06:33,219 --> 00:06:37,859
+meio do caminho pela metade do tempo que esperava
+até o último, o cenário ainda
+
+69
+00:06:37,860 --> 00:06:43,788
+seria sensato e lógico e
+terminaria em um tempo finito.
+
+70
+00:06:43,789 --> 00:06:48,348
+Foi demonstrado até mesmo como um
+corredor em staccato poderia se mover para evitar
+
+71
+00:06:48,349 --> 00:06:52,899
+velocidades e acelerações descontínuas.
+O ponto é, tudo bem,
+
+72
+00:06:52,900 --> 00:06:58,908
+infinitas ações distintas são pelo menos
+logicamente possíveis de fazer em uma
+
+73
+00:06:58,909 --> 00:07:05,068
+quantidade finita de tempo, mas apenas logicamente.
+Apenas como uma abstração matemática.
+
+74
+00:07:05,069 --> 00:07:11,239
+As supertarefas são obviamente apenas produtos da nossa
+imaginação.  Porque no mundo real
+
+75
+00:07:11,240 --> 00:07:17,359
+deve haver uma pequena quantidade de
+espaço e/ou tempo que não pode ser
+
+76
+00:07:17,360 --> 00:07:22,588
+significativamente dividida pela metade novamente.
+Uma vez que você esteja dentro de uma dessas distâncias da
+
+77
+00:07:22,589 --> 00:07:23,818
+linha de chegada,
+
+78
+00:07:23,819 --> 00:07:27,899
+a única próxima posição possível que você pode ter é a
+
+79
+00:07:27,900 --> 00:07:34,008
+linha de chegada.  Isso certamente parece justo.
+Afinal, acredita-se que, na realidade,
+
+80
+00:07:34,009 --> 00:07:40,069
+exista uma menor distância significativa - o comprimento de Planck.  Quaisquer
+
+81
+00:07:40,070 --> 00:07:46,079
+interações ou observações de partículas
+mais precisas do que esse intervalo não fazem
+
+82
+00:07:46,080 --> 00:07:51,909
+sentido dentro da física como a entendemos
+hoje.  E o tempo que levaria para
+
+83
+00:07:51,910 --> 00:07:57,299
+percorrer um comprimento de Planck na
+velocidade mais rápida possível, a velocidade da luz, é o
+
+84
+00:07:57,300 --> 00:08:03,689
+tempo de Planck.  Então, esses parecem ser os
+mais breves pedaços de espaço e tempo em que qualquer
+
+85
+00:08:03,690 --> 00:08:09,869
+força conhecida no universo poderia agir
+.  Se essa força é a gravidade ou uma
+
+86
+00:08:09,870 --> 00:08:16,509
+força dos músculos da perna de Aquiles.
+Mas isso resolve a crise ou é
+
+87
+00:08:16,510 --> 00:08:20,329
+apenas uma maneira de evitar o problema
+dizendo "não importa,
+
+88
+00:08:20,330 --> 00:08:24,989
+porque não estará no teste?"
+Como John Earman reclamou, não
+
+89
+00:08:24,990 --> 00:08:29,879
+me parece atraente fazer com que a verdade das
+afirmações matemáticas dependa das
+
+90
+00:08:29,880 --> 00:08:36,859
+contingências da estrutura do espaço-tempo.
+Talvez a dicotomia de Zenão nos diga menos
+
+91
+00:08:36,860 --> 00:08:42,028
+sobre movimento, tempo, espaço e verdade
+do que sobre nossas impressionantes
+
+92
+00:08:42,029 --> 00:08:49,469
+habilidades de nos confundir.
+E é isso que torna as supertarefas importantes.
+
+93
+00:08:49,470 --> 00:08:56,329
+Eles são um ponto de contato em uma
+espécie de aperto de mão desconfortável entre o universo em que
+
+94
+00:08:56,330 --> 00:09:02,729
+vivemos e os cérebros dentro de nós.
+Vamos brincar com alguns.  Eles não são todos
+
+95
+00:09:02,730 --> 00:09:08,778
+iguais.  Alguns convergem, como a dicotomia de Zenão,
+outros convergem, mas de maneiras que você pode não
+
+96
+00:09:08,779 --> 00:09:18,549
+esperar e ainda outros se recusam a
+cooperar de alguma forma.  Eles divergem.
+
+97
+00:09:18,550 --> 00:09:24,509
+Um ótimo exemplo de supertarefa cujo
+comportamento diverge é a lâmpada de Thomson, uma
+
+98
+00:09:24,510 --> 00:09:28,768
+famosa supertarefa criada por James F. Thomson.
+
+99
+00:09:28,769 --> 00:09:35,458
+Imagine uma lâmpada que pode ser ligada e
+desligada tão rapidamente quanto você desejar.  O que
+
+100
+00:09:35,459 --> 00:09:42,328
+aconteceria se você acendesse e apagasse tal lâmpada
+Zenoianly?  Bem, vamos descobrir.  Basta definir um
+
+101
+00:09:42,329 --> 00:09:50,178
+temporizador e acender a lâmpada.  Então espere
+um minuto e desligue-o.  Após meio
+
+102
+00:09:50,179 --> 00:09:54,938
+minuto, ligue-o novamente e desligue-o
+novamente após um quarto de minuto, ligue
+
+103
+00:09:54,939 --> 00:09:58,018
+novamente após um oitavo de minuto e assim por diante.
+
+104
+00:09:58,019 --> 00:10:02,698
+Esperando metade do tempo para ligar o interruptor
+cada vez que você fez anteriormente.  Agora, à medida que o
+
+105
+00:10:02,699 --> 00:10:07,729
+número de trocas cresce sem limites,
+o tempo total decorrido se aproxima de apenas
+
+106
+00:10:07,730 --> 00:10:13,919
+dois minutos.  A lâmpada será ligada
+e desligada um número infinito de vezes em
+
+107
+00:10:13,920 --> 00:10:21,238
+apenas dois minutos.
+Então, depois de dois minutos, a lâmpada acenderá ou apagará?
+
+108
+00:10:21,239 --> 00:10:28,068
+Bem, pela definição de infinito,
+não existe um último passo.  Nunca há uma
+
+109
+00:10:28,069 --> 00:10:34,909
+comutação não seguida de outra.
+Então a lâmpada não pode ficar acesa, porque sempre que é
+
+110
+00:10:34,910 --> 00:10:40,148
+ligada, ela é desligada imediatamente
+no próximo passo e não pode ser desligada
+
+111
+00:10:40,149 --> 00:10:44,479
+porque sempre que é desligada ela é
+ligada logo em seguida.  Qual é a
+
+112
+00:10:44,480 --> 00:10:49,969
+resposta?  É fácil dizer algo sobre
+uma supertarefa quando suas somas parciais
+
+113
+00:10:49,970 --> 00:10:58,479
+convergem, mas quando elas simplesmente oscilam para
+frente e para trás para sempre... Hmmmm...
+
+114
+00:10:58,480 --> 00:11:05,078
+Objetos Zeno fazem isso.  Imagine construir um cubo de um metro de
+altura.  Como em todas as supertarefas, você
+
+115
+00:11:05,079 --> 00:11:11,099
+constrói em um ritmo acelerado.
+Primeiro, você coloca uma laje verde de meio metro de altura,
+
+116
+00:11:11,100 --> 00:11:17,078
+depois uma laje de um quarto de metro de altura
+laranja, depois uma laje verde de oito metros,
+
+117
+00:11:17,079 --> 00:11:21,979
+depois uma laje laranja de 16 metros e assim por diante,
+até que haja infinitas camadas
+
+118
+00:11:21,980 --> 00:11:28,338
+de cores alternadas.  Agora, quando você olhar para o cubo de cima, que cor
+
+119
+00:11:28,339 --> 00:11:29,199
+você verá?
+
+120
+00:11:29,200 --> 00:11:35,709
+Laranja, verde?  Bem, não pode ser laranja
+porque cada camada laranja é coberta por
+
+121
+00:11:35,710 --> 00:11:38,909
+uma verde.  E não pode ser verde
+porque cada camada verde é bloqueada por
+
+122
+00:11:38,910 --> 00:11:45,079
+uma laranja acima dela.  E se tivéssemos uma
+máquina exibindo cada dígito de Pi
+
+123
+00:11:45,080 --> 00:11:50,389
+em ordem em um ritmo de supertarefa?  Após seu
+tempo de execução finito, o que estaria na
+
+124
+00:11:50,390 --> 00:11:53,099
+tela?
+O último dígito de Pi?
+
+125
+00:11:53,100 --> 00:11:58,599
+Bem, isso é impossível, certo?  Mas como poderia ser outra coisa?  Uma supertarefa nos
+
+126
+00:11:58,600 --> 00:12:01,989
+permite esgotar uma sequência infinita.
+
+127
+00:12:01,990 --> 00:12:07,959
+Paul Benacerraf deu o que muitas vezes é considerado a
+melhor resposta a essas confusões.  A
+
+128
+00:12:07,960 --> 00:12:10,529
+lâmpada de Thomson está ligada ou desligada?
+
+129
+00:12:10,530 --> 00:12:17,409
+O cubo é laranja ou verde?  A resposta
+é que não sabemos, porque essas perguntas
+
+130
+00:12:17,410 --> 00:12:24,239
+estão incompletas.  A lâmpada de Thomson pode estar
+ligada ou desligada ou quebrada.  O cubo pode
+
+131
+00:12:24,240 --> 00:12:30,189
+aparecer laranja ou verde ou qualquer outra coisa.
+Mas as supertarefas, como afirmado, não
+
+132
+00:12:30,190 --> 00:12:35,409
+nos permitem descobrir quais.  Também posso
+perguntar se uma lâmpada escondida em um quarto trancado
+
+133
+00:12:35,410 --> 00:12:40,889
+está acesa ou apagada.  É definitivamente um ou outro,
+mas não lhe dei informações suficientes
+
+134
+00:12:40,890 --> 00:12:47,319
+para fazer nada além de adivinhar.  Supertarefas como
+essas descrevem uma sequência interminável de
+
+135
+00:12:47,320 --> 00:12:53,149
+tarefas e depois nos perguntam sobre o final.
+Mas não podemos determinar um resultado porque,
+
+136
+00:12:53,150 --> 00:12:57,789
+embora possa haver um fim para sua
+duração, não há fim,
+
+137
+00:12:57,790 --> 00:13:04,189
+nenhum membro final de suas ações.
+Eles devem ser reformulados ou combinados com
+
+138
+00:13:04,190 --> 00:13:09,689
+suposições extras para serem resolvidos.
+Por exemplo, se assumirmos que o interruptor
+
+139
+00:13:09,690 --> 00:13:16,029
+usado na lâmpada de Thomson só pode estar
+totalmente ligado ou totalmente desligado, não podemos
+
+140
+00:13:16,030 --> 00:13:22,149
+determinar onde ele está após a supertarefa.
+Mas se o interruptor for, digamos, uma
+
+141
+00:13:22,150 --> 00:13:26,659
+bola quicando que completa o circuito
+ligando a lâmpada cada vez que ela quica
+
+142
+00:13:26,660 --> 00:13:31,969
+em uma placa de metal, um resultado pode ser
+determinado.  Se a física aqui for ideal
+
+143
+00:13:31,970 --> 00:13:35,479
+e a bola quicar metade da altura e
+metade do tempo
+
+144
+00:13:35,480 --> 00:13:40,409
+da balança anterior, sua sequência de
+alturas de salto acenderá e apagará a lâmpada
+
+145
+00:13:40,410 --> 00:13:45,828
+um número infinito de vezes em um
+tempo finito.  Embora essa
+
+146
+00:13:45,829 --> 00:13:52,638
+bola quicando não tenha penúltimo estado,
+nem penúltimo ressalto, ela tem um
+
+147
+00:13:52,639 --> 00:13:55,869
+estado final, um último,
+
+148
+00:13:55,870 --> 00:14:03,219
+repousando sobre o prato.  O circuito estará
+completo e a lâmpada estará acesa.  Você
+
+149
+00:14:03,220 --> 00:14:09,459
+também pode descrever um interruptor na lâmpada de Thomson que a deixa desligada.
+
+150
+00:14:09,460 --> 00:14:10,439
+Às vezes, o
+
+151
+00:14:10,440 --> 00:14:14,898
+próximo estado depois de infinitos não é
+paradoxal por falta de
+
+152
+00:14:14,899 --> 00:14:20,809
+informação, mas por uma
+descontinuidade surpreendente ou não intuitiva que
+
+153
+00:14:20,810 --> 00:14:26,528
+ocorre lá.  O paradoxo Ross-Littlewood
+é um dos maiores exemplos.  Imagine
+
+154
+00:14:26,529 --> 00:14:32,518
+uma urna gigante que pode conter um
+número ilimitado de bolas.  Agora, imagine que você
+
+155
+00:14:32,519 --> 00:14:38,499
+tem um suprimento ilimitado de bolas, cada
+uma com um número natural único escrito
+
+156
+00:14:38,500 --> 00:14:42,948
+nela.  Todos os números naturais, na verdade, já que
+não há fim para quantas bolas você
+
+157
+00:14:42,949 --> 00:14:48,789
+tem.  Agora, trabalhando em um ritmo zenoiano acelerado, você move as bolas para a urna
+
+158
+00:14:48,790 --> 00:14:50,689
+10 por vez,
+
+159
+00:14:50,690 --> 00:14:56,839
+mas de uma maneira estranha.  Na etapa um, você coloca as
+bolas de 1 a 10 na urna, mas
+
+160
+00:14:56,840 --> 00:15:02,779
+remove a de número 1. Na etapa dois, um minuto
+depois, você coloca as bolas de 11 a 20 na
+
+161
+00:15:02,780 --> 00:15:09,259
+urna e remove a bola de número 2. Na etapa três,
+você coloca as bolas  21 a 30 na urna
+
+162
+00:15:09,260 --> 00:15:12,369
+e retire a bola 3, e assim sucessivamente.
+
+163
+00:15:12,370 --> 00:15:19,159
+Após a conclusão da supertarefa
+quantas bolas estarão na urna?  A
+
+164
+00:15:19,160 --> 00:15:24,079
+princípio a resposta parece óbvia.  A cada
+passo você adiciona 10 bolas e
+
+165
+00:15:24,080 --> 00:15:28,679
+subtrai 1, então uma rede de nove bolas
+é adicionada a cada vez.
+
+166
+00:15:28,680 --> 00:15:33,889
+9 + 9 + 9 + 9 para sempre, a série cresce sem fim.
+
+167
+00:15:33,890 --> 00:15:40,419
+Nove infinito significa bolas infinitas
+no final.  Mas aqui está o problema.  A cada
+
+168
+00:15:40,420 --> 00:15:46,919
+passo, a bola com o número daquele passo
+escrito nela é removida.  A bola 1 é
+
+169
+00:15:46,920 --> 00:15:53,169
+removida na etapa um, a bola 2 foi removida
+na etapa dois, a bola 12-googol é removida na
+
+170
+00:15:53,170 --> 00:15:59,009
+etapa doze-googol.  Como há um
+número infinito de etapas para qualquer
+
+171
+00:15:59,010 --> 00:16:05,509
+número de bola, há um número de etapa no qual
+ela é removida.  Assim, embora a população de bolas da urna
+
+172
+00:16:05,510 --> 00:16:11,679
+cresça sem limites durante
+a tarefa, após a supertarefa o
+
+173
+00:16:11,680 --> 00:16:15,319
+número cai para 0.
+
+174
+00:16:15,320 --> 00:16:20,869
+Fica mais estranho.  Aqui está um segundo método, aparentemente idêntico
+.  Em vez de começar com as bolas de
+
+175
+00:16:20,870 --> 00:16:27,148
+1 a 10 e depois remover 1, comece com as
+bolas de 1 a 9. Em seguida, escreva
+
+176
+00:16:27,149 --> 00:16:36,039
+zero após o "1" na bola 1. Para o passo dois, adicione as bolas de 11 a 19 e desenhe um zero na bola 2, fazendo
+
+177
+00:16:36,040 --> 00:16:43,748
+diz 20. Para cada passo finito, ambos os métodos
+resultam em conteúdos ganhos idênticos, mas
+
+178
+00:16:43,749 --> 00:16:50,328
+depois de infinitas etapas, o primeiro
+nos deixa sem bolas e o segundo
+
+179
+00:16:50,329 --> 00:16:54,828
+nos deixa com infinitas bolas
+escritas nas quais estão todos os
+
+180
+00:16:54,829 --> 00:17:00,929
+números naturais, cada um seguido  por uma
+seqüência infinita de zeros.  Ambos são descontínuos
+
+181
+00:17:00,930 --> 00:17:10,658
+no infinito, mas, caramba, de maneiras muito diferentes.
+A questão maior agora se torna: "e
+
+182
+00:17:10,659 --> 00:17:16,928
+daí? Quem se importa?"  Você nunca terá um
+número infinito de bolas e
+
+183
+00:17:16,929 --> 00:17:21,668
+nunca terá uma urna grande o suficiente para
+conter todas elas.  Você nunca vai construir uma
+
+184
+00:17:21,669 --> 00:17:23,489
+lâmpada que pode ligar e desligar
+
+185
+00:17:23,490 --> 00:17:29,529
+arbitrariamente rápido.  Não podemos investigar o
+tempo ou o espaço além de uma certa pequenez,
+
+186
+00:17:29,530 --> 00:17:35,648
+exceto quando fingimos, então o que são supertarefas, senão ficções recreativas,
+
+187
+00:17:35,649 --> 00:17:43,208
+enigmas divertidos?  Podemos fazer mais
+perguntas do que podemos responder, e daí?
+
+188
+00:17:43,209 --> 00:17:44,749
+Bem, aqui está o quê.
+
+189
+00:17:44,750 --> 00:17:51,659
+Neandertais.  Neandertais e humanos, nós,
+Homo sapiens, vivemos juntos na Europa
+
+190
+00:17:51,660 --> 00:17:57,769
+há pelo menos cinco mil anos.
+Os neandertais eram fortes e inteligentes, eles
+
+191
+00:17:57,770 --> 00:18:03,279
+podem até ter enterrado intencionalmente seus
+mortos, mas por centenas de milhares de
+
+192
+00:18:03,280 --> 00:18:06,229
+anos, os neandertais mal
+
+193
+00:18:06,230 --> 00:18:12,909
+foram a lugar algum.  Eles praticamente exploraram
+e se espalharam até chegarem à água ou
+
+194
+00:18:12,910 --> 00:18:19,299
+algum outro obstáculo e depois pararam.
+O Homo sapiens, por outro lado, não fez
+
+195
+00:18:19,300 --> 00:18:24,479
+isso.  Eles fizeram coisas que não fazem sentido
+cruzar terreno e água sem
+
+196
+00:18:24,480 --> 00:18:29,919
+saber o que estava por vir.  Svante Pääbo
+trabalhou no genoma neandertal no
+
+197
+00:18:29,920 --> 00:18:34,959
+Instituto Max Planck de Antropologia Evolutiva
+e ressalta que a
+
+198
+00:18:34,960 --> 00:18:41,879
+tecnologia sozinha não permitiu que os humanos fossem para
+Madagascar, para a Austrália.  Os neandertais
+
+199
+00:18:41,880 --> 00:18:49,809
+também construíam barcos.  Em vez disso, ele diz, há
+"alguma loucura lá. Quantas pessoas
+
+200
+00:18:49,810 --> 00:18:55,169
+devem ter navegado e desaparecido no
+Pacífico antes de você encontrar a Ilha de Páscoa? Quero
+
+201
+00:18:55,170 --> 00:19:01,819
+dizer, é ridículo. E por que você faz
+isso? É pela glória? Pela imortalidade  ?
+
+202
+00:19:01,820 --> 00:19:13,579
+Por curiosidade? E agora vamos para Marte.
+Nunca paramos.  É ridículo, tolo, talvez?
+
+203
+00:19:13,580 --> 00:19:20,199
+Mas foram os neandertais que foram
+extintos, não os humanos.  Talvez seja apenas um
+
+204
+00:19:20,200 --> 00:19:25,939
+tolo que viajará perigosamente para o
+que pode não estar lá.  E talvez seja
+
+205
+00:19:25,940 --> 00:19:31,929
+apenas um tolo que perguntará sobre supertarefas,
+sobre o infinito.  Mas se você quer
+
+206
+00:19:31,930 --> 00:19:36,429
+resolver problemas, você não resolve apenas
+os que estão lá, você encontra mais e
+
+207
+00:19:36,430 --> 00:19:42,099
+faz mais e vai atrás dos
+impossíveis;  fomentar o amor e a obsessão pelos
+
+208
+00:19:42,100 --> 00:19:43,039
+problemas
+
+209
+00:19:43,040 --> 00:19:46,379
+é como você resolve os problemas.
+
+210
+00:19:46,380 --> 00:19:51,178
+Antoine de Saint-Exupéry não era
+matemático, mas seu conselho
+
+211
+00:19:51,179 --> 00:19:57,989
+se encaixa muito bem aqui.  Se você quer construir um
+navio, não chame as pessoas para coletar
+
+212
+00:19:57,990 --> 00:20:03,949
+madeira e não lhes atribua tarefas e trabalhos,
+mas ensine-as a ansiar pela
+
+213
+00:20:03,950 --> 00:20:07,839
+imensidão infinita do mar.
+
+214
+00:20:07,840 --> 00:20:09,279
+E como sempre,
+
+215
+00:20:09,280 --> 00:20:33,559
+obrigado por assistir.
+
+216
+00:20:33,560 --> 00:20:40,109
+Supertarefas são legais, mas super presentes são
+ainda mais legais.  É por isso que estou animado para
+
+217
+00:20:40,110 --> 00:20:44,609
+anunciar a caixa de férias do Vsauce deste ano
+.  Essa coisa vem carregada com
+
+218
+00:20:44,610 --> 00:20:50,439
+coisas exclusivas do Vsauce e equipamentos científicos,
+além de todos os rendimentos do Vsauce irem diretamente para
+
+219
+00:20:50,440 --> 00:20:54,149
+a pesquisa de Alzheimer.  Estou muito orgulhoso
+desta caixa.  Você pode pegar um em
+
+220
+00:20:54,150 --> 00:20:58,009
+geekfuel.com/Vsauce,
+link abaixo na descrição.
+
+221
+00:20:58,010 --> 00:21:01,439
+Há uma quantidade limitada disponível, então
+não hesite.
+
+222
+00:21:01,440 --> 00:21:02,479
+E como sempre,
+
+223
+00:21:02,480 --> 00:21:03,560
+obrigado por assistir.
+

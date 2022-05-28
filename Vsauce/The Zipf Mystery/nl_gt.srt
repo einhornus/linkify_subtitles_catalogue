@@ -1,0 +1,1085 @@
+1
+00:00:00,130 --> 00:00:08,349
+Hé, Vsaus.  Michaël hier.  Ongeveer 6 procent van
+alles wat je zegt en leest en schrijft is
+
+2
+00:00:08,350 --> 00:00:12,019
+het
+
+3
+00:00:12,020 --> 00:00:18,249
+"de" - is het meest gebruikte woord in de
+Engelse taal.  Ongeveer een op de
+
+4
+00:00:18,250 --> 00:00:25,079
+16 woorden die we dagelijks tegenkomen
+is 'de'.  De top 20 meest voorkomende Engelse
+
+5
+00:00:25,080 --> 00:00:32,209
+woorden in volgorde zijn "the", "of", "and", "to", "a", "in", "is", "I", "that", "it,"  'want', 'jij',
+
+6
+00:00:32,210 --> 00:00:39,459
+'was', 'met', 'aan', 'als', 'hebben', 'maar', 'zijn', 'zij'.
+Dat is een leuk feit.  Een stukje trivia, maar het is
+
+7
+00:00:39,460 --> 00:00:44,969
+ook meer.  Zie je, of de
+meest gebruikte woorden nu gerangschikt zijn in een
+
+8
+00:00:44,970 --> 00:00:51,529
+hele taal, of in slechts één boek of
+artikel, bijna elke keer dat er een bizar
+
+9
+00:00:51,530 --> 00:00:57,879
+patroon naar voren komt.  Het op één na meest gebruikte
+woord zal ongeveer de helft zo vaak voorkomen als
+
+10
+00:00:57,880 --> 00:01:04,558
+het meest gebruikte woord.  De derde een derde zo
+vaak.  De vierde een vierde zo vaak.  De
+
+11
+00:01:04,559 --> 00:01:10,639
+vijfde een vijfde zo vaak.  De zesde een zesde
+zo vaak, enzovoort helemaal naar beneden.
+
+12
+00:01:10,640 --> 00:01:16,969
+Ernstig.  Om de een of andere reden is het aantal
+keren dat een woord wordt gebruikt, gewoon
+
+13
+00:01:16,970 --> 00:01:23,279
+evenredig met één boven zijn rang.
+Woordfrequentie en rangschikking op een log-loggrafiek
+
+14
+00:01:23,280 --> 00:01:30,908
+volgen een mooie rechte lijn.  Een machtswet.
+Dit fenomeen wordt de wet van Zipf genoemd
+
+15
+00:01:30,909 --> 00:01:38,408
+en is niet alleen van toepassing op het Engels.  Het is ook van
+toepassing op andere talen, zoals, nou ja,
+
+16
+00:01:38,409 --> 00:01:39,389
+allemaal.
+
+17
+00:01:39,390 --> 00:01:43,379
+Zelfs oude talen die we nog niet hebben
+kunnen vertalen.
+
+18
+00:01:43,380 --> 00:01:50,349
+En hier is het ding.  We hebben geen idee waarom.
+Het is verrassend dat iets zo
+
+19
+00:01:50,350 --> 00:01:56,389
+complex als de realiteit op zo'n voorspelbare manier moet worden overgebracht door
+zoiets creatiefs als taal
+
+20
+00:01:56,390 --> 00:02:03,559
+.  Hoe voorspelbaar?
+Nou, kijk hier eens naar.  Volgens WordCount.org,
+
+21
+00:02:03,560 --> 00:02:08,629
+dat woorden rangschikt zoals gevonden in het
+British National Corpus, is "saus" het
+
+22
+00:02:08,630 --> 00:02:15,949
+5555ste meest voorkomende Engelse woord.
+Hier is een lijst van hoe vaak
+
+23
+00:02:15,950 --> 00:02:21,359
+elk woord op Wikipedia en in het
+hele Gutenberg Corpus van
+
+24
+00:02:21,360 --> 00:02:27,939
+tienduizenden boeken in het publieke domein voorkomt
+.  Het meest gebruikte woord, 'de', komt ongeveer
+
+25
+00:02:27,940 --> 00:02:34,469
+181 miljoen keer voor.  Als we deze twee
+dingen weten, kunnen we schatten dat het woord
+
+26
+00:02:34,470 --> 00:02:39,539
+'saus' ongeveer dertigduizend keer zou moeten voorkomen
+op Wikipedia en
+
+27
+00:02:39,540 --> 00:02:45,219
+Gutenberg samen.
+En dat doet het zo'n beetje.
+
+28
+00:02:45,220 --> 00:02:51,099
+Wat geeft?  De wereld is chaotisch.  Dingen
+worden op talloze manieren verdeeld, niet alleen
+
+29
+00:02:51,100 --> 00:02:54,089
+machtswetten.  En taal is persoonlijk,
+
+30
+00:02:54,090 --> 00:03:00,519
+opzettelijk, eigenzinnig.  Hoe zit het met de
+wereld en wijzelf kunnen ervoor zorgen dat zulke
+
+31
+00:03:00,520 --> 00:03:08,139
+complexe activiteiten en gedragingen
+zo'n basisregel volgen?  We weten het letterlijk
+
+32
+00:03:08,140 --> 00:03:13,739
+niet.  Meer dan een eeuw
+onderzoek moet de zaak nog sluiten.
+
+33
+00:03:13,740 --> 00:03:20,019
+Bovendien beschrijft de wet van Zipf niet alleen op
+mysterieuze wijze woordgebruik.  Het wordt
+
+34
+00:03:20,020 --> 00:03:25,809
+ook gevonden in stadspopulaties,
+zonnevlammen, eiwitsequenties en
+
+35
+00:03:25,810 --> 00:03:30,469
+immuunreceptoren, de hoeveelheid verkeer die
+websites krijgen, aardbevingen, het
+
+36
+00:03:30,470 --> 00:03:34,979
+aantal keren dat academische papers worden
+geciteerd, achternamen, de vuurpatronen van
+
+37
+00:03:34,980 --> 00:03:38,719
+neurale netwerken, ingrediënten die worden gebruikt in
+kookboeken  , het aantal telefoontjes dat
+
+38
+00:03:38,720 --> 00:03:42,359
+mensen ontvingen, de diameter van
+maankraters, het aantal mensen dat sterft
+
+39
+00:03:42,360 --> 00:03:47,619
+in oorlogen, de populariteit van
+openingsschaakbewegingen, zelfs de snelheid waarmee we vergeten.
+
+40
+00:03:47,620 --> 00:03:54,779
+Er zijn tal van theorieën over waarom
+taal 'zipf-y' is, maar geen harde conclusies
+
+41
+00:03:54,780 --> 00:04:00,219
+en ook deze video bevat geen
+duidelijke verklaring.  Sorry, ik weet
+
+42
+00:04:00,220 --> 00:04:06,279
+dat dat jammer is, aangezien we meer willen
+weten dan mysterie.  Maar dat gezegd hebbende,
+
+43
+00:04:06,280 --> 00:04:13,969
+we vragen ook meer dan we antwoorden.  Dus
+laten we een duik nemen in Zipf's vertakkingen, enkele
+
+44
+00:04:13,970 --> 00:04:18,439
+gerelateerde patronen, enkele mogelijke
+verklaringen en de diepte van het
+
+45
+00:04:18,440 --> 00:04:23,319
+mysterie zelf.
+De wet van Zipf werd gepopulariseerd door George Zipf,
+
+46
+00:04:23,320 --> 00:04:29,659
+een taalkundige aan de Harvard University.  Het is een
+discrete vorm van de continue Pareto-
+
+47
+00:04:29,660 --> 00:04:35,069
+verdeling waaruit we het
+Pareto-principe halen.  Omdat zoveel
+
+48
+00:04:35,070 --> 00:04:40,069
+processen in de echte wereld zich op deze manier gedragen,
+vertelt het Pareto-principe ons dat het als
+
+49
+00:04:40,070 --> 00:04:47,728
+vuistregel de moeite waard is om aan te nemen dat 20% van
+de oorzaken verantwoordelijk is voor 80% van
+
+50
+00:04:47,729 --> 00:04:49,019
+de uitkomst,
+
+51
+00:04:49,020 --> 00:04:54,348
+zoals in taal, waar de meest
+voorkomende  18 procent van de woorden is
+
+52
+00:04:54,349 --> 00:05:02,059
+goed voor meer dan 80 procent van de woordvoorvallen.
+In 1896 toonde Vilfredo Pareto aan dat
+
+53
+00:05:02,060 --> 00:05:08,299
+ongeveer 80% van het land in
+Italië eigendom was van slechts twintig procent van de
+
+54
+00:05:08,300 --> 00:05:13,689
+bevolking.  Er wordt gezegd dat hij later
+in zijn tuin opmerkte dat 20 procent van zijn
+
+55
+00:05:13,690 --> 00:05:20,439
+peulen tachtig procent van de
+erwten bevatte.  Hij en andere onderzoekers keken naar
+
+56
+00:05:20,440 --> 00:05:26,939
+andere datasets en ontdekten dat deze 80-20-
+onbalans veel voorkomt in de wereld.
+
+57
+00:05:26,940 --> 00:05:35,228
+De rijkste 20% van de mensen heeft 82,7% van
+het wereldinkomen.  In de VS gebruikt 20% van de
+
+58
+00:05:35,229 --> 00:05:41,049
+patiënten tachtig procent van de middelen voor de
+gezondheidszorg.  In 2002 meldde Microsoft
+
+59
+00:05:41,050 --> 00:05:46,609
+dat 80% van de fouten en
+crashes in Windows en Office worden veroorzaakt
+
+60
+00:05:46,610 --> 00:05:51,658
+door 20% van de gedetecteerde bugs.  Een algemene
+vuistregel in de zakenwereld
+
+61
+00:05:51,659 --> 00:05:57,418
+stelt dat 20% van uw klanten
+verantwoordelijk is voor 80% van uw winst en dat
+
+62
+00:05:57,419 --> 00:06:02,109
+80% van de klachten die u
+ontvangt afkomstig zal zijn van 20% van uw
+
+63
+00:06:02,110 --> 00:06:08,638
+klanten.  Een boek met de titel "Het 80/20-principe"
+zegt zelfs dat in een huis of
+
+64
+00:06:08,639 --> 00:06:09,778
+kantoor
+
+65
+00:06:09,779 --> 00:06:16,918
+20% van het tapijt 80 procent van
+de slijtage krijgt.  Oh, en zoals Woody Allen ooit
+
+66
+00:06:16,919 --> 00:06:24,908
+zei: "80 procent van het succes is gewoon
+opdagen."  Het Pareto-principe is
+
+67
+00:06:24,909 --> 00:06:27,698
+overal, en dat is goed.
+
+68
+00:06:27,699 --> 00:06:32,679
+Door je te concentreren op slechts 20 procent van wat er
+mis is, kun je vaak verwachten dat je
+
+69
+00:06:32,680 --> 00:06:38,839
+tachtig procent van de problemen kunt oplossen.  Een verscheidenheid
+aan verschillende niet-gerelateerde factoren zorgen ervoor dat
+
+70
+00:06:38,840 --> 00:06:43,638
+dit van geval tot geval waar is, maar als
+we tot op de bodem kunnen uitzoeken wat de oorzaak is
+
+71
+00:06:43,639 --> 00:06:44,929
+,
+
+72
+00:06:44,930 --> 00:06:49,279
+zullen we misschien ontdekken dat een of meer van
+die mechanismen verantwoordelijk zijn voor
+
+73
+00:06:49,280 --> 00:06:55,929
+de wet van Zipf in taal  .  George Zipf
+zelf dacht dat de interessante
+
+74
+00:06:55,930 --> 00:07:00,978
+frequentieverdeling van talen een gevolg was
+van het principe van de minste inspanning.  De
+
+75
+00:07:00,979 --> 00:07:07,409
+neiging van het leven en de dingen om
+de weg van de minste weerstand te volgen.  Zipf geloofde
+
+76
+00:07:07,410 --> 00:07:12,839
+dat het een groot deel van het menselijk gedrag veroorzaakte en
+veronderstelde dat naarmate de taal zich ontwikkelde
+
+77
+00:07:12,840 --> 00:07:18,279
+in onze soort, sprekers er natuurlijk de
+voorkeur aan gaven om uit zo min mogelijk woorden te putten
+
+78
+00:07:18,280 --> 00:07:23,369
+om hun gedachten naar buiten te brengen.
+Het was makkelijker.  Maar om te begrijpen
+
+79
+00:07:23,370 --> 00:07:25,598
+wat er werd gezegd, gaven
+
+80
+00:07:25,599 --> 00:07:30,989
+luisteraars de voorkeur aan grotere vocabulaires
+die meer specificiteit gaven, zodat ze
+
+81
+00:07:30,990 --> 00:07:36,638
+minder werk hoefden te doen.  Het compromis
+tussen luisteren en spreken
+
+82
+00:07:36,639 --> 00:07:43,309
+leidde volgens Zipf tot de huidige staat van de taal.
+Een paar woorden worden vaak gebruikt en heel
+
+83
+00:07:43,310 --> 00:07:47,128
+veel woorden worden zelden gebruikt.
+
+84
+00:07:47,129 --> 00:07:52,038
+Recente artikelen hebben gesuggereerd dat het hebben van
+een paar korte, vaak gebruikte, voorspelbare woorden
+
+85
+00:07:52,039 --> 00:07:57,748
+helpt om de informatiebelasting
+op luisteraars te verminderen, waarbij belangrijke woorden worden gespatieerd
+
+86
+00:07:57,749 --> 00:08:03,238
+zodat de informatiesnelheid
+constanter is.  Dit is logisch en er is
+
+87
+00:08:03,239 --> 00:08:07,829
+veel geleerd door het principe van de minste
+inspanning toe te passen op ander gedrag, maar
+
+88
+00:08:07,830 --> 00:08:13,288
+latere onderzoekers beweerden dat
+de verklaring voor taal nog
+
+89
+00:08:13,289 --> 00:08:19,028
+eenvoudiger was.  Slechts een paar jaar na Zipf's
+baanbrekende artikel, toonde Benoit Mandelbrot aan
+
+90
+00:08:19,029 --> 00:08:24,418
+dat er misschien helemaal niets mysterieus is
+aan de wet van Zipf, want zelfs als
+
+91
+00:08:24,419 --> 00:08:29,668
+je willekeurig op een toetsenbord typt, zul
+je woorden produceren die volgens
+
+92
+00:08:29,669 --> 00:08:35,629
+de wet van Zipf worden verdeeld.  Het is een vrij cool punt en
+dit is waarom het gebeurt.  Er zijn
+
+93
+00:08:35,630 --> 00:08:41,768
+exponentieel meer verschillende lange woorden
+dan korte woorden.  Het Engelse
+
+94
+00:08:41,769 --> 00:08:48,969
+alfabet kan bijvoorbeeld worden gebruikt om 26
+woorden van één letter te maken, maar 26 vierkante
+
+95
+00:08:48,970 --> 00:08:55,708
+woorden van twee letters.  Ook bij willekeurig typen, wanneer de
+spatiebalk wordt ingedrukt, eindigt een woord.
+
+96
+00:08:55,709 --> 00:09:00,938
+Aangezien er altijd een zekere kans is dat
+de spatiebalk wordt ingedrukt, zijn langere
+
+97
+00:09:00,939 --> 00:09:03,068
+perioden voordat het
+
+98
+00:09:03,069 --> 00:09:08,159
+gebeurt exponentieel minder waarschijnlijk dan
+kortere.  De combinatie van deze
+
+99
+00:09:08,160 --> 00:09:14,719
+exponentiëlen is behoorlijk 'Zipf-y.'
+Als bijvoorbeeld alle 26 letters en de
+
+100
+00:09:14,720 --> 00:09:20,129
+spatiebalk even vaak worden getypt,
+nadat een letter is getypt en een woord is
+
+101
+00:09:20,130 --> 00:09:25,388
+begonnen, is de kans dat de volgende
+invoer een spatie is, waardoor een
+
+102
+00:09:25,389 --> 00:09:31,578
+woord van één letter ontstaat, slechts één in  27.
+En inderdaad, als je willekeurig
+
+103
+00:09:31,579 --> 00:09:39,239
+karakters genereert of een spreekwoordelijke typerende
+aap inhuurt, zal ongeveer één op de 27 of 3,7
+
+104
+00:09:39,240 --> 00:09:44,768
+procent van de dingen tussen
+spaties enkele letters zijn.  Woorden van twee letters
+
+105
+00:09:44,769 --> 00:09:50,919
+verschijnen wanneer na het begin van een woord een willekeurig
+teken behalve de spatiebalk wordt geraakt - een
+
+106
+00:09:50,920 --> 00:09:54,619
+kans van 26 op 27 en dan de spatiebalk.
+
+107
+00:09:54,620 --> 00:09:59,979
+Een woord van drie letters is de kans
+op een letter, nog een letter en dan een
+
+108
+00:09:59,980 --> 00:10:04,349
+spatie.  Als we delen door het aantal
+unieke woorden van elke lengte die er kunnen zijn,
+
+109
+00:10:04,350 --> 00:10:08,949
+krijgen we de verwachte frequentie van voorkomen
+voor een bepaald woord gezien
+
+110
+00:10:08,950 --> 00:10:14,949
+de lengte ervan.  De letter V
+zal bijvoorbeeld ongeveer 0,142 procent uitmaken van
+
+111
+00:10:14,950 --> 00:10:24,439
+willekeurig typen.  Het woord "Vsauce"
+0,0000000993 procent.  Langere woorden zijn
+
+112
+00:10:24,440 --> 00:10:29,529
+minder waarschijnlijk, maar let hier eens op.  Laten we
+deze frequenties verdelen volgens de
+
+113
+00:10:29,530 --> 00:10:35,569
+rangen die ze zouden innemen op een meest
+gebruikte lijst.  Er zijn 26 mogelijke
+
+114
+00:10:35,570 --> 00:10:40,639
+woorden van één letter, dus verwacht wordt dat elk van de top 26
+gerangschikte woorden
+
+115
+00:10:40,640 --> 00:10:45,939
+hier vaak over zal voorkomen.  De volgende 676 rangen zullen worden ingenomen
+
+116
+00:10:45,940 --> 00:10:50,699
+door woorden van twee letters die
+hier vaak over voorkomen.  Als we elke frequentie uitbreiden op
+
+117
+00:10:50,700 --> 00:10:56,979
+basis van het aantal leden,
+krijgen we Zipf.  Latere onderzoekers hebben
+
+118
+00:10:56,980 --> 00:11:02,159
+gedetailleerd beschreven hoe het veranderen van de
+begincondities de stappen kan versoepelen.  Onze
+
+119
+00:11:02,160 --> 00:11:08,179
+mysterieuze verdeling is ontstaan
+ets anders dan de onvermijdelijkheden van w
+
+120
+00:11:08,180 --> 00:11:09,919
+skunde.  Dus 
+
+121
+00:11:09,920 --> 00:11:15,999
+misschien is er geen mysterie.  Misschien zijn
+woorden gewoon het resultaat van mensen die willekeurig
+
+122
+00:11:16,000 --> 00:11:21,338
+de waarneembare wereld en de
+mentale wereld segmenteren in labels en de wet van Zipf
+
+123
+00:11:21,339 --> 00:11:27,479
+beschrijft wat er natuurlijk gebeurt als
+je dat doet.  Zaak gesloten.  en zoals altijd
+
+124
+00:11:27,480 --> 00:11:28,249
+En zoals altijd,
+
+125
+00:11:28,250 --> 00:11:31,559
+bedankt voor... wacht even!
+
+126
+00:11:31,560 --> 00:11:36,419
+Echte taal is heel anders dan
+willekeurig typen.  Communicatie
+
+127
+00:11:36,420 --> 00:11:41,039
+is tot op zekere hoogte deterministisch.
+Uitingen en onderwerpen komen op basis van
+
+128
+00:11:41,040 --> 00:11:46,138
+wat eerder is gezegd.  En de woordenschat waarmee
+we moeten werken is zeker niet het
+
+129
+00:11:46,139 --> 00:11:51,539
+resultaat van puur willekeurige naamgeving.
+Het aaptyperingsmodel kan bijvoorbeeld niet
+
+130
+00:11:51,540 --> 00:11:56,439
+verklaren waarom zelfs de namen van de
+elementen, de planeten en de dagen van de
+
+131
+00:11:56,440 --> 00:12:02,049
+week in taal worden gebruikt volgens
+de wet van Zipf.  Dergelijke sets worden beperkt
+
+132
+00:12:02,050 --> 00:12:06,409
+door de natuurlijke wereld en zijn niet het
+resultaat van het willekeurig opdelen van de
+
+133
+00:12:06,410 --> 00:12:12,268
+wereld in labels.  Bovendien zullen mensen, wanneer ze
+een lijst met nieuwe woorden krijgen, woorden die ze nog
+
+134
+00:12:12,269 --> 00:12:16,669
+nooit eerder hebben gehoord of gebruikt, zoals wanneer ze worden
+gevraagd om een verhaal te schrijven over buitenaardse wezen
+
+135
+00:12:16,670 --> 00:12:21,929
+ met vreemde namen, de neigi
+g om de naam van een buite
+
+136
+00:12:21,930 --> 00:12:29,749
+aards wezen twee keer zo vaak te gebruiken als een ander.  , dr
+keer zo vaak als een ander... De wet van Zipf lijkt
+
+137
+00:12:29,750 --> 00:12:35,549
+in onze hersenen te zijn ingebouwd.  Misschien is
+er iets met de manier waarop gedachten en
+
+138
+00:12:35,550 --> 00:12:40,528
+discussieonderwerpen eb en vloed dat
+bijdraagt aan de wet van Zipf.  Een 
+
+139
+00:12:40,529 --> 00:12:44,838
+andere manier waarop 'Zipf-ian'-distributies
+plaatsvinden, is via processen die veranderen
+
+140
+00:12:44,839 --> 00:12:49,299
+afhankelijk van hoe ze eerder hebben
+gewerkt.  Dit worden preferentiële
+
+141
+00:12:49,300 --> 00:12:55,208
+gehechtheidsprocessen genoemd.
+Ze doen zich voor wanneer iets - geld, meningen,
+
+142
+00:12:55,209 --> 00:12:59,989
+aandacht, variatie, vrienden, banen,
+alles wordt uitgegeven op basis
+
+143
+00:12:59,990 --> 00:13:05,748
+van hoeveel al in bezit is.
+Om terug te keren naar het voorbeeld van tapijt: als de meeste
+
+144
+00:13:05,749 --> 00:13:11,308
+mensen over een bepaald pad van de woonkamer naar de
+keuken lopen,
+
+145
+00:13:11,309 --> 00:13:17,989
+zullen meubels ergens anders worden geplaatst, waardoor dat
+pad nog populairder wordt.  Hoe meer weergaven
+
+146
+00:13:17,990 --> 00:13:22,469
+een video, afbeelding of bericht heeft,
+hoe groter de kans is dat deze automatisch wordt aanbevolen
+
+147
+00:13:22,470 --> 00:13:28,208
+of het nieuws haalt
+omdat er zoveel weergaven zijn, die
+
+148
+00:13:28,209 --> 00:13:29,248
+beide meer weergaven opleveren.
+
+149
+00:13:29,249 --> 00:13:34,599
+Het is als een sneeuwbal die van een
+besneeuwde heuvel rolt.  Hoe meer sneeuw het verzamelt, hoe
+
+150
+00:13:34,600 --> 00:13:38,948
+groter het oppervlak wordt om
+meer te verzamelen en hoe sneller het groeit.
+
+151
+00:13:38,949 --> 00:13:43,789
+Er hoeft geen bewuste
+keuze te zijn die een proces van preferentiële gehechtheid aanstuurt
+
+152
+00:13:43,790 --> 00:13:50,648
+.  Het kan natuurlijk gebeuren.  Probeer dit.
+Pak een stapel paperclips en pak
+
+153
+00:13:50,649 --> 00:13:52,169
+er willekeurig twee.
+
+154
+00:13:52,170 --> 00:13:56,719
+Koppel ze aan elkaar en gooi ze dan
+terug op de stapel.  Herhaal nu
+
+155
+00:13:56,720 --> 00:14:02,019
+steeds opnieuw.  Als je paperclips pakt
+die al deel uitmaken van een ketting, koppel ze dan toch.
+
+156
+00:14:02,020 --> 00:14:06,109
+Meestal heb je na een
+tijdje een distributie die er
+
+157
+00:14:06,110 --> 00:14:11,879
+'Zipf-iaans' uitziet.  Een klein aantal kettingen
+bevat een onevenredig groot deel van het
+
+158
+00:14:11,880 --> 00:14:16,799
+totale aantal paperclips.  Dit komt simpelweg
+omdat hoe langer een ketting wordt, hoe
+
+159
+00:14:16,800 --> 00:14:20,289
+groter het aandeel van het geheel
+is, waardoor de
+
+160
+00:14:20,290 --> 00:14:26,189
+kans groter is dat deze in de toekomst wordt opgepakt en
+dus nog langer wordt.  De rijken
+
+161
+00:14:26,190 --> 00:14:33,419
+worden rijker, de groten worden groter,
+de populairen worden populairder.  Het is gewoon wiskunde.
+
+162
+00:14:33,420 --> 00:14:39,388
+Misschien wordt het Zipf-mysterie van talen, als het er niet
+door wordt veroorzaakt, in ieder geval versterkt door
+
+163
+00:14:39,389 --> 00:14:45,899
+preferentiële gehechtheid.  Als een woord eenmaal is
+gebruikt, is de kans groter dat het snel weer wordt gebruikt.
+
+164
+00:14:45,900 --> 00:14:49,419
+Kritieke punten kunnen ook een rol spelen.
+
+165
+00:14:49,420 --> 00:14:54,559
+Schrijven en converseren blijven vaak bij een
+onderwerp totdat een kritiek punt is bereikt
+
+166
+00:14:54,560 --> 00:14:59,419
+en het onderwerp wordt veranderd en
+de woordenschat verschuift.  Van processen als deze
+
+167
+00:14:59,420 --> 00:15:05,059
+is bekend dat ze resulteren in machtswetten.
+Dus uiteindelijk lijkt het houdbaar dat al deze
+
+168
+00:15:05,060 --> 00:15:11,259
+mechanismen zouden kunnen samenwerken om de
+wet van Zipf de meest natuurlijke manier van taal te
+
+169
+00:15:11,260 --> 00:15:16,969
+maken.  Misschien is een deel van onze woordenschat en
+grammatica willekeurig ontwikkeld, volgens
+
+170
+00:15:16,970 --> 00:15:22,559
+de theorie van Mandelbrot.  En de natuurlijke
+manier waarop conversatie en discussie
+
+171
+00:15:22,560 --> 00:15:26,948
+preferentiële gehechtheid en kritiek volgen,
+gekoppeld aan het principe van de minste
+
+172
+00:15:26,949 --> 00:15:31,919
+inspanning bij spreken en luisteren, zijn
+allemaal verantwoordelijk voor de relatie
+
+173
+00:15:31,920 --> 00:15:35,009
+tussen woordrang en frequentie.
+
+174
+00:15:35,010 --> 00:15:40,169
+Het is jammer dat het antwoord niet
+eenvoudiger is, maar het is fascinerend vanwege
+
+175
+00:15:40,170 --> 00:15:45,139
+de gevolgen die het heeft voor waar
+communicatie uit bestaat.
+
+176
+00:15:45,140 --> 00:15:52,209
+Grofweg, en dit is verbijsterend, zal bijna de
+helft van elk boek, gesprek of
+
+177
+00:15:52,210 --> 00:15:58,499
+artikel niets anders zijn dan dezelfde 50 tot 100
+woorden.  En bijna de andere helft zijn
+
+178
+00:15:58,500 --> 00:16:04,869
+woorden die maar één keer in die selectie voorkomen
+.  Dat is niet zo verwonderlijk als je
+
+179
+00:16:04,870 --> 00:16:11,689
+bedenkt dat één woord
+6% uitmaakt van wat we zeggen.  De top 25
+
+180
+00:16:11,690 --> 00:16:18,299
+meest gebruikte woorden vormen ongeveer een derde van
+alles wat we zeggen en de top 100 ongeveer de
+
+181
+00:16:18,300 --> 00:16:25,399
+helft.  Ernstig.  Ik bedoel, of het nu gaat om alle
+woorden in "Wet Hot American Summer", of
+
+182
+00:16:25,400 --> 00:16:30,419
+alle woorden in Plato's "Complete Works" of
+in de volledige werken van Edgar Allan Poe
+
+183
+00:16:30,420 --> 00:16:37,919
+of de Bijbel zelf, slechts ongeveer 100 woorden
+worden gebruikt voor bijna de helft van  alles wat
+
+184
+00:16:37,920 --> 00:16:48,359
+geschreven of gezegd is.  In Alice's Adventures in
+Wonderland 44% en in Tom Sawyer 49,8%
+
+185
+00:16:48,360 --> 00:16:55,259
+van de unieke woorden die worden gebruikt, komt slechts
+één keer in het boek voor.  Een woord dat
+
+186
+00:16:55,260 --> 00:17:01,299
+slechts één keer in een bepaalde
+woordselectie wordt gebruikt, wordt een 'hapax legomenon' genoemd.
+
+187
+00:17:01,300 --> 00:17:06,129
+Hapax legomena is van vitaal belang voor het
+begrijpen van talen.  Als een woord
+
+188
+00:17:06,130 --> 00:17:11,698
+maar één keer is gevonden in de hele bekende
+verzameling van een oude taal, kan
+
+189
+00:17:11,699 --> 00:17:17,639
+het heel moeilijk zijn om erachter te komen wat het
+betekent.  Nu is er geen corpus van
+
+190
+00:17:17,640 --> 00:17:23,549
+alles wat ooit in het Engels is gezegd of geschreven
+, maar er zijn heel erg grote
+
+191
+00:17:23,550 --> 00:17:29,239
+collecties en het is leuk om hapax legomena erin te vinden.
+Bijvoorbeeld, en dit
+
+192
+00:17:29,240 --> 00:17:34,359
+zal waarschijnlijk niet het geval zijn nadat ik
+het heb genoemd, maar het woord "quizzaciously"
+
+193
+00:17:34,360 --> 00:17:41,599
+staat in de Oxford English Dictionary, maar
+komt nergens voor op Wikipedia of in het
+
+194
+00:17:41,600 --> 00:17:45,999
+Gutenberg-corpus of in het British
+National Corpus of de American National Corpus.
+
+195
+00:17:46,000 --> 00:17:53,649
+Corpus, maar het verschijnt wel als er in
+slechts één resultaat op Google wordt gezocht.  Passend, in een
+
+196
+00:17:53,650 --> 00:18:01,729
+boek met de titel 'ElderSpeak' waarin het wordt vermeld
+als een 'zeldzaam woord'.  Tussen haakjes, tussen haakjes,
+
+197
+00:18:01,730 --> 00:18:07,609
+betekent "op een spottende manier", zoals in
+"De paradist ratelde vragend:
+
+198
+00:18:07,610 --> 00:18:12,918
+'Hé, Vsauce. Michael hier. Maar wie is Michael
+en hoeveel weegt hier
+
+199
+00:18:12,919 --> 00:18:20,589
+?'" Het is een beetje treurig dat spottend
+is zo weinig gebruikt.  Het is een
+
+200
+00:18:20,590 --> 00:18:26,909
+leuk woord, maar zo gaan de dingen in
+een 'Zipf-ian' systeem.  Sommige dingen krijgen alle
+
+201
+00:18:26,910 --> 00:18:33,539
+liefde, andere weinig.  Het meeste van wat je
+dagelijks meemaakt, is
+
+202
+00:18:33,540 --> 00:18:39,909
+vergeten, vergeetbaar.  De Dictionary of Obscure Sorrows heeft hier, zoals vaak het geval is, een
+
+203
+00:18:39,910 --> 00:18:45,969
+woord voor - Olēka - het besef hoe
+weinig dagen gedenkwaardig zijn.
+
+204
+00:18:45,970 --> 00:18:52,169
+Ik leef al bijna 11.000 dagen,
+maar ik zou je niets over
+
+205
+00:18:52,170 --> 00:18:54,779
+elk van hen kunnen vertellen.  Ik bedoel, niet eens in de buurt.
+
+206
+00:18:54,780 --> 00:19:00,729
+Het meeste van wat we doen en zien en denken en
+zeggen en horen en voelen wordt vergeten
+
+207
+00:19:00,730 --> 00:19:07,509
+in een tempo dat vergelijkbaar is met de wet van Zipf,
+wat logisch is.  Als een aantal factoren van
+
+208
+00:19:07,510 --> 00:19:12,289
+nature zijn geselecteerd om
+op
+
+209
+00:19:12,290 --> 00:19:17,249
+een 'Zipf-iaanse' manier over de wereld te denken en te praten met tools, is het logisch dat we
+het ook op die manier zouden onthouden.  Sommige dingen
+
+210
+00:19:17,250 --> 00:19:24,609
+heel goed, de meeste dingen nauwelijks.
+Maar soms baal ik ervan omdat het
+
+211
+00:19:24,610 --> 00:19:29,839
+betekent dat er zoveel vergeten is,
+zelfs dingen waarvan je dacht dat je
+
+212
+00:19:29,840 --> 00:19:33,499
+ze nooit zou kunnen vergeten.  Mijn lockernummer -
+
+213
+00:19:33,500 --> 00:19:38,229
+laatste jaar - de combinatie ervan, de grappen die
+ik leuk vond als ik een komiek op het podium zag,
+
+214
+00:19:38,230 --> 00:19:45,149
+de namen van mensen die ik 10 jaar geleden elke dag zag
+.  Zoveel herinneringen zijn weg.  Als
+
+215
+00:19:45,150 --> 00:19:48,869
+ik naar alle boeken kijk die ik heb gelezen en
+besef dat ik me niet elk
+
+216
+00:19:48,870 --> 00:19:53,569
+detail ervan kan herinneren, valt het een beetje
+tegen.  Ik bedoel, waarom zou ik me er druk om maken als
+
+217
+00:19:53,570 --> 00:19:58,029
+het Pareto-principe dicteert dat mijn
+'Zipf-achtige' geest zich bewust
+
+218
+00:19:58,030 --> 00:20:04,279
+vrijwel alleen de titels zal herinneren en een paar
+basale reacties jaren later geeft
+
+219
+00:20:04,280 --> 00:20:09,259
+Ralph Waldo Emerson me een beter gevoel.
+Hij zei ooit: "Ik kan me de boeken die
+
+220
+00:20:09,260 --> 00:20:17,089
+ik heb gelezen niet meer herinneren dan de maaltijden die ik heb
+gegeten. Toch hebben ze me gemaakt."
+
+221
+00:20:17,090 --> 00:20:19,048
+En zoals altijd,
+
+222
+00:20:19,049 --> 00:20:20,209
+bedankt voor het kijken.
+

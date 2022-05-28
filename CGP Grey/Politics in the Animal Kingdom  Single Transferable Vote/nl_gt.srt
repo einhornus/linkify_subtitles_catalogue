@@ -1,0 +1,557 @@
+1
+00:00:00,459 --> 00:00:03,749
+Koningin Lion wil de verkiezingen
+in haar dierenrijk eerlijker maken.
+
+2
+00:00:03,750 --> 00:00:07,789
+Momenteel verdeelt ze haar burgers in rangen
+die elk een vertegenwoordiger selecteren om
+
+3
+00:00:07,790 --> 00:00:10,808
+naar de jungle-raad te gaan die wetten maakt
+voor het koninkrijk.
+
+4
+00:00:10,809 --> 00:00:15,709
+Maar haar burgers zijn ongelukkig, en het is gemakkelijk in
+te zien waarom: de raad zit vol met apen.
+
+5
+00:00:15,710 --> 00:00:18,838
+Natuurlijk zijn sommige van haar burgers apen,
+maar niet allemaal.
+
+6
+00:00:18,839 --> 00:00:21,629
+Deze raad vertegenwoordigt haar
+koninkrijk niet goed.
+
+7
+00:00:21,630 --> 00:00:25,479
+Koningin leeuw bezoekt een van de reeksen om erachter te
+komen wat er aan de hand is en hoe het te repareren.
+
+8
+00:00:25,480 --> 00:00:30,658
+In dit bereik zijn er vijf apen, vier tijgers,
+drie uilen, twee lynxen en één buffel.
+
+9
+00:00:30,659 --> 00:00:34,869
+Een van elk loopt voor vertegenwoordiger en alle
+burgers stemmen op hun eigen soort.
+
+10
+00:00:34,870 --> 00:00:38,909
+De verkiezingsregel is dat de kandidaat met
+de meeste stemmen wint, dat is de aap.
+
+11
+00:00:38,910 --> 00:00:43,959
+Maar het is een behoorlijk onbevredigend resultaat als je bedenkt
+dat 2/3e van de burgers in dit bereik *geen*
+
+12
+00:00:43,960 --> 00:00:45,748
+apen zijn en niet op apen zouden stemmen.
+
+13
+00:00:45,749 --> 00:00:50,439
+Dit is hetzelfde in alle delen van
+het koninkrijk, de apen hebben meer stemmen dan
+
+14
+00:00:50,440 --> 00:00:55,409
+wie dan ook, dus ze winnen alle verkiezingen,
+ook al vormen ze een minderheid van de totale
+
+15
+00:00:55,410 --> 00:00:56,409
+bevolking.
+
+16
+00:00:56,410 --> 00:01:00,049
+Bij nadere inspectie blijkt dat de onafhankelijke
+adviseurs die waren ingehuurd om de grenzen van het assortiment te trekken,
+
+17
+00:01:00,050 --> 00:01:03,678
+niet zo onafhankelijk waren
+als ze eerst leken.
+
+18
+00:01:03,679 --> 00:01:07,629
+Het resultaat zijn ongelukkige burgers die er niet op vertrouwen dat
+de jungle-raad de eerlijkste wetten
+
+19
+00:01:07,630 --> 00:01:09,319
+voor iedereen maakt, terecht.
+
+20
+00:01:09,320 --> 00:01:13,519
+Nu wil Queen Lion het
+aantal burgers dat blij is met de verkiezingsuitslag maximaliseren.
+
+21
+00:01:13,520 --> 00:01:17,078
+Een manier om dat te doen is door de reeksen af te schaffen en ee
+ proportioneel systeem te gebruiken... ...Ma
+
+22
+00:01:17,079 --> 00:01:19,839
+r haar burgers *willen* lokale vertegenwoordigers.  Dus 
+
+23
+00:01:19,840 --> 00:01:24,109
+Queen Lion heeft een systeem nodig dat
+haar burgers gelukkiger maakt door een meer representatieve
+
+24
+00:01:24,110 --> 00:01:27,429
+raad te hebben en tegelijkertijd lokale verkiezingen te houden.
+
+25
+00:01:27,430 --> 00:01:31,339
+Na wat onderzoek komt ze erachter
+hoe: Single Transferable Vote.
+
+26
+00:01:31,340 --> 00:01:36,429
+De grote verandering met STV is dat reeksen
+meer dan één vertegenwoordiger sturen, wat misschien
+
+27
+00:01:36,430 --> 00:01:40,589
+raar lijkt, maar koningin leeuw besluit het uit te testen:
+ze neemt drie reeksen die vroeger
+
+28
+00:01:40,590 --> 00:01:45,328
+elk één vertegenwoordiger stuurden en combineert ze
+tot één grotere reeks die drie zal verzenden.  .
+
+29
+00:01:45,329 --> 00:01:49,849
+Op de verkiezingsdag gaan burgers naar de stembus en
+de resultaten in deze nieuwe reeks zijn precies
+
+30
+00:01:49,850 --> 00:01:53,339
+hetzelfde als in de oude reeksen: 34% voor
+Monkey, 33% voor Uil en 33% voor Lynx.
+
+31
+00:01:53,340 --> 00:01:56,478
+Maar dit zijn niet de meeste stemmen die winnen: met STV om
+erachter te komen wie de winnaars zijn, neemt u het totale aantal stemmen
+
+32
+00:01:56,479 --> 00:02:02,389
+en deelt u dit door het aantal benodigde vertegenwoordigers
+, in dit geval 3, wat 33% oplevert als
+
+33
+00:02:02,390 --> 00:02:04,538
+het bedrag dat een kandidaat nodig heeft om te winnen.
+
+34
+00:02:04,539 --> 00:02:08,788
+Dus *alle drie* kandidaten gaan naar de raad
+-- die de burgers
+
+35
+00:02:08,789 --> 00:02:09,829
+in het assortiment nauwkeurig vertegenwoordigt.
+
+36
+00:02:09,830 --> 00:02:13,419
+Terwijl onder het oude systeem elke reeks
+een aap zou hebben gestuurd.
+
+37
+00:02:13,420 --> 00:02:15,939
+2/3e van de burgers achterlatend zonder vertegenwoordiging.
+
+38
+00:02:15,940 --> 00:02:20,579
+Een groter bereik met meer vertegenwoordigers zorgt ervoor dat
+het bereik meer proportioneel is.
+
+39
+00:02:20,580 --> 00:02:24,829
+Deze test pakte goed uit, maar het was ook
+zo simpel als maar kon - nu wil Queen Lion
+
+40
+00:02:24,830 --> 00:02:27,889
+zien wat er gebeurt in een race waar niet
+iedereen een winnaar is.
+
+41
+00:02:27,890 --> 00:02:32,839
+De volgende grote reeks die ze test, heeft vijf
+kandidaten voor het ambt: Gorilla, Tasier, Monkey,
+
+42
+00:02:32,840 --> 00:02:36,279
+Tiger en Lynx, waarvan er drie vertegenwoordigers kunnen zijn.
+
+43
+00:02:36,280 --> 00:02:40,579
+De verkiezingsdag komt en gaat, en hier zijn
+de resultaten van de eerste keuzes van de burgers:
+
+44
+00:02:40,580 --> 00:02:43,499
+Tasier krijgt 5%
+Gorilla krijgt 28%
+
+45
+00:02:43,500 --> 00:02:46,309
+Monkey krijgt 33%
+Tiger krijgt 21%
+
+46
+00:02:46,310 --> 00:02:47,729
+Lynx krijgt 13%
+
+47
+00:02:47,730 --> 00:02:50,909
+Zoals eerder heeft een kandidaat 33% nodig om te winnen.
+
+48
+00:02:50,910 --> 00:02:55,069
+Monkey heeft die zo meteen geselecteerd
+als een van de drie vertegenwoordigers.
+
+49
+00:02:55,070 --> 00:02:59,829
+Maar niemand anders bereikte de winnende 33%, dus
+hoe worden de andere twee vertegenwoordigers geselecteerd?
+
+50
+00:02:59,830 --> 00:03:01,789
+Stap één: ontdoe je van de grootste verliezer.
+
+51
+00:03:01,790 --> 00:03:04,229
+Sorry tasier -- je had echt helemaal geen
+kans.
+
+52
+00:03:04,230 --> 00:03:07,969
+Nu, toen de burgers stemden, hadden ze
+gewoon een X kunnen plaatsen naast de kandidaat die ze het leukst vonden,
+
+53
+00:03:07,970 --> 00:03:12,499
+maar met STV kunnen ze ook hun
+favoriete kandidaten rangschikken.
+
+54
+00:03:12,500 --> 00:03:16,519
+Dit is belangrijk omdat het laat zien hoe de
+verkiezing zou zijn verlopen als een van de
+
+55
+00:03:16,520 --> 00:03:18,029
+kandidaten niet had meegedaan.
+
+56
+00:03:18,030 --> 00:03:22,719
+Tiny and Worried Tasiers zou
+zonder tasier in de race op de grote kalme gorilla hebben gestemd
+
+57
+00:03:22,720 --> 00:03:23,719
+.
+
+58
+00:03:23,720 --> 00:03:28,049
+Dus als hun kandidaat niet kan winnen, willen ze dat
+hun stemmen in plaats daarvan naar Gorilla gaan.
+
+59
+00:03:28,050 --> 00:03:32,369
+Dit duwt gorilla tot 33% en hij wordt
+de volgende vertegenwoordiger.
+
+60
+00:03:32,370 --> 00:03:36,219
+Door te rangschikken kunnen burgers hun favoriete
+kandidaat zonder zorgen steunen - het heeft geen zin
+
+61
+00:03:36,220 --> 00:03:38,729
+om een strategie te bedenken over hoe alle anderen gaan 
+temmen.  Het 
+
+62
+00:03:38,730 --> 00:03:42,289
+systeem werkt om het kiezersgeluk
+met het resultaat te maximaliseren.
+
+63
+00:03:42,290 --> 00:03:46,589
+Terug naar het assortiment: er moet nog één vertegenwoordiger
+worden geselecteerd, dus de volgende grootste verliezer is Lynx.
+
+64
+00:03:46,590 --> 00:03:50,169
+Zijn kiezers houden niet van apen, maar ze denken wel
+dat de interesses van tijger vergelijkbaar zijn met die van hen
+
+65
+00:03:50,170 --> 00:03:53,249
+en als Lynx niet kan winnen, willen ze dat
+hij hun stemmen krijgt.
+
+66
+00:03:53,250 --> 00:03:57,259
+Tiger haalt 33% en wordt de derde
+en laatste vertegenwoordiger.
+
+67
+00:03:57,260 --> 00:04:02,009
+Het verkiezingsresultaat ziet er redelijk goed uit, vooral
+gezien de eerste * en * tweede keuzes van de burger.
+
+68
+00:04:02,010 --> 00:04:06,569
+Nu hebben meer burgers een lokale vertegenwoordiger die
+ze met een gerust hart kunnen benaderen, terwijl
+
+69
+00:04:06,570 --> 00:04:09,479
+met het oude systeem iedereen een aap krijgt.
+
+70
+00:04:09,480 --> 00:04:13,509
+Ten slotte wil koningin leeuw weten wat er gebeurt
+in een gebied met slechts twee politieke partijen.
+
+71
+00:04:13,510 --> 00:04:17,078
+Onder de meest-stemmen-win-systemen zouden meerdere
+kandidaten van dezelfde partij een
+
+72
+00:04:17,079 --> 00:04:20,898
+ramp zijn: ze zouden hun kiezers verdelen en
+de overwinning afstaan aan hun oppos
+
+73
+00:04:20,899 --> 00:04:26,239
+tie.  Koningin leeuw maakt nog een laatste testbereik met
+2/3e tijgers en 1/3 gorilla's die net als
+
+74
+00:04:26,240 --> 00:04:28,008
+voorheen drie vertegenwoordigers nodig hebben.
+
+75
+00:04:28,009 --> 00:04:33,468
+Want met STV-burgers rangschikken hun kandidaten
+er zonder problemen meerdere kandidaten
+
+76
+00:04:33,469 --> 00:04:36,359
+tegelijk mee kunnen doen.
+
+77
+00:04:36,360 --> 00:04:40,138
+De tijgers hebben twee kandidaten, net als de gorilla's.
+
+78
+00:04:40,139 --> 00:04:52,929
+Witte tijger wordt de eerste vertegenwoordiger,
+maar wat gebeurt er daarna?
+
+79
+00:04:52,930 --> 00:04:57,869
+Hoewel de tijger de grootste verliezer lijkt te zijn,
+is het ook duidelijk dat hij
+
+80
+00:04:57,870 --> 00:05:01,249
+veel meer stemmen zou hebben gekregen als de witte tijger niet in de
+race was geweest.
+
+81
+00:05:01,250 --> 00:05:05,818
+Als een kandidaat meer stemmen heeft dan ze nodig hebben,
+zoals White Tiger doet, is de eerste stap
+
+82
+00:05:05,819 --> 00:05:08,758
+om de extra stemmen aan hun tweede keus te geven.
+
+83
+00:05:08,759 --> 00:05:12,688
+Dit brengt tijger tot 33% en hij wordt de
+volgende vertegenwoordiger.
+
+84
+00:05:12,689 --> 00:05:14,859
+Als dat vreemd lijkt, zijn er twee dingen
+om te overwegen:
+
+85
+00:05:14,860 --> 00:05:18,609
+1) Als in plaats daarvan de extra stemmen zouden worden genegeerd
+en de tijger zou worden geëlimineerd, zouden de gorilla
+
+86
+00:05:18,610 --> 00:05:23,089
+'s de resterende twee overwinningen behalen, wat duidelijk
+niet het bereik zou vertegenwoordigen.
+
+87
+00:05:23,090 --> 00:05:27,739
+2) Het negeren van deze 'extra' stemmen is het straffen van
+burgers die de populaire kandidaat steunden,
+
+88
+00:05:27,740 --> 00:05:32,859
+waardoor kiezers gaan nadenken over hoe
+iedereen zal stemmen, in plaats van wat
+
+89
+00:05:32,860 --> 00:05:34,089
+ze echt willen.
+
+90
+00:05:34,090 --> 00:05:39,009
+Als een kandidaat extra stemmen krijgt,
+betekent dat ook dat degenen die op
+
+91
+00:05:39,010 --> 00:05:44,499
+hem hebben gestemd een groot deel van de bevolking vormen en
+dus eerlijker zouden moeten zijn.
+
+92
+00:05:44,500 --> 00:05:48,908
+Rechts: nadat de extra stemmen naar tiger zijn gegaan,
+eindigt de verkiezing als voorheen: Silverback
+
+93
+00:05:48,909 --> 00:05:52,969
+kwam als laatste binnen, wordt uitgeschakeld en de
+tweede keus van zijn kiezers is de jongere kandidaat, dus
+
+94
+00:05:52,970 --> 00:05:54,288
+gorilla mag meedoen.
+
+95
+00:05:54,289 --> 00:05:55,788
+En de resultaten zijn eerlijk.
+
+96
+00:05:55,789 --> 00:05:57,879
+Inmiddels heeft Queen Lion STV aan het werk gezien.
+
+97
+00:05:57,880 --> 00:06:02,198
+Of een assortiment nu één partij heeft of veel, het
+proces blijft hetzelfde:
+
+98
+00:06:02,199 --> 00:06:03,198
+1.
+
+99
+00:06:03,199 --> 00:06:04,549
+Burgers rangschikken hun favoriete kandidaten.
+
+100
+00:06:04,550 --> 00:06:05,549
+2.
+
+101
+00:06:05,550 --> 00:06:07,299
+Elke kandidaat boven de drempel wint onmiddellijk,
+3.
+
+102
+00:06:07,300 --> 00:06:09,499
+'Extra' stemmen gaan naar hun volgende keuze.
+
+103
+00:06:09,500 --> 00:06:10,499
+4.
+
+104
+00:06:10,500 --> 00:06:13,679
+Als er geen winnaar is, wordt de laatste plaats geëlimineerd en gaan
+de stemmen naar hun volgende keuze.
+
+105
+00:06:13,680 --> 00:06:14,679
+5.
+
+106
+00:06:14,680 --> 00:06:16,598
+Herhaal totdat alle winnaars zijn gevonden.
+
+107
+00:06:16,599 --> 00:06:20,658
+Dit hele proces is ontworpen om
+het aantal burgers dat tevreden is met
+
+108
+00:06:20,659 --> 00:06:21,658
+het resultaat te maximaliseren.
+
+109
+00:06:21,659 --> 00:06:25,869
+Dit proces geeft STV veel voordelen ten
+opzichte van het oude systeem met de meeste stemmen en wint:
+
+110
+00:06:25,870 --> 00:06:26,869
+1.
+
+111
+00:06:26,870 --> 00:06:29,628
+Burgers kunnen eerlijk stemmen op hun favoriete
+kandidaat zonder zich zorgen te maken over wat
+
+112
+00:06:29,629 --> 00:06:30,668
+iedereen gaat doen.
+
+113
+00:06:30,669 --> 00:06:31,668
+2.
+
+114
+00:06:31,669 --> 00:06:32,668
+Het is meer proportioneel.
+
+115
+00:06:32,669 --> 00:06:34,348
+Dus apen met de grenzen is minder belangrijk.
+
+116
+00:06:34,349 --> 00:06:35,348
+3.
+
+117
+00:06:35,349 --> 00:06:39,189
+Vrijwel alle burgers zullen een lokale vertegenwoordiger
+hebben op wie ze daadwerkelijk hebben gestemd.
+
+118
+00:06:39,190 --> 00:06:42,969
+Uiteindelijk besluit Queen Lion om de
+gemeenteraadsverkiezingen om te zetten in Single Transferable
+
+119
+00:06:42,970 --> 00:06:45,649
+Vote om een betere jungle-raad voor iedereen te maken.
+

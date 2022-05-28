@@ -1,0 +1,744 @@
+1
+00:00:00,269 --> 00:00:03,539
+Hej, Vsosie.  Michael tutaj.
+Ale teraz
+
+2
+00:00:03,540 --> 00:00:09,299
+nie jestem.  Odszedłem jak 90
+% oryginalnych niemych filmów,
+
+3
+00:00:09,300 --> 00:00:13,008
+jakie kiedykolwiek nakręcono.
+Sześć z siedmiu cudów starożytnego świata zostało
+
+4
+00:00:13,009 --> 00:00:16,538
+usuniętych, na przykład ten tekst, nad którym zastanawiałeś się dwa razy,
+
+5
+00:00:16,539 --> 00:00:19,919
+lub zdjęcie Snapchata, prawda?
+
+6
+00:00:19,920 --> 00:00:24,438
+Kiedy Stalin zdecydował, że Trocki
+jest wrogiem państwa
+
+7
+00:00:24,439 --> 00:00:28,268
+, kazał usunąć Trockiego ze zdjęć, na których pojawiał się
+
+8
+00:00:28,269 --> 00:00:32,158
+z Leninem.
+Mnóstwo narzędzi programowych i profesjonalnych usług
+
+9
+00:00:32,159 --> 00:00:35,328
+pozwala zrobić to samo.
+Nie zapomnij tylko
+
+10
+00:00:35,329 --> 00:00:39,369
+o aktualnych uczestnikach,
+
+11
+00:00:39,370 --> 00:00:43,148
+usuń ich.
+Ale gdzie idą rzeczy
+
+12
+00:00:43,149 --> 00:00:45,799
+po ich usunięciu?
+
+13
+00:00:45,800 --> 00:00:50,029
+Przeglądarka Google Ngram
+umożliwia wyszukiwanie słów i fraz
+
+14
+00:00:50,030 --> 00:00:54,698
+w 5,2 miliona książek opublikowanych między 1500
+
+15
+00:00:54,699 --> 00:00:58,328
+a 2008 rokiem.
+To świetny sposób, aby zobaczyć,
+
+16
+00:00:58,329 --> 00:01:01,789
+jak słowa, których używamy, zmieniły się z biegiem czasu.
+
+17
+00:01:01,790 --> 00:01:05,639
+1979 był rokiem znaczącym
+
+18
+00:01:05,640 --> 00:01:10,359
+.  Według
+Ngram Viewer był to pierwszy rok, w którym zaczęliśmy używać
+
+19
+00:01:10,360 --> 00:01:10,969
+słowa
+
+20
+00:01:10,970 --> 00:01:14,349
+delete częściej niż słowa
+
+21
+00:01:14,350 --> 00:01:17,758
+erase.
+Usunięcie biologiczne
+
+22
+00:01:17,759 --> 00:01:22,928
+nadal jednak wygrywa.  Zapomnij jest zdecydowanie bardziej
+wszechobecny w naszej komunikacji,
+
+23
+00:01:22,929 --> 00:01:26,648
+ale jak komputer zapomina?
+
+24
+00:01:26,649 --> 00:01:30,648
+Przeniesienie pliku do kosza to dopiero początek.
+
+25
+00:01:30,649 --> 00:01:34,579
+Aby zabezpieczyć się przed przypadkowym usunięciem,
+po wyrzuceniu do
+
+26
+00:01:34,580 --> 00:01:39,109
+kosza plik pozostaje na twoim komputerze w
+katalogu tymczasowym, swego rodzaju
+
+27
+00:01:39,110 --> 00:01:44,609
+czyśćcu, gdzie czeka na bardziej
+ostateczne usunięcie, ale
+
+28
+00:01:44,610 --> 00:01:48,199
+jeśli chcesz, może zostać wskrzeszony.
+Kiedy opróżnisz kosz
+
+29
+00:01:48,200 --> 00:01:51,269
+, zostaniesz ostrzeżony, że nie możesz cofnąć akcji.
+
+30
+00:01:51,270 --> 00:01:54,929
+Ale kiedy opróżnisz kosz, fizyczna przestrzeń zajmowana
+
+31
+00:01:54,930 --> 00:01:58,408
+przez plik w rzeczywistości nie jest opróżniana.
+
+32
+00:01:58,409 --> 00:02:01,908
+Jest oznaczony jako pusty.
+Dostępne,
+
+33
+00:02:01,909 --> 00:02:05,209
+jeśli i kiedy trzeba gdzieś przechowywać nowe dane.
+
+34
+00:02:05,210 --> 00:02:09,249
+Dom akt stał się dostępny jako nieruchomość,
+
+35
+00:02:09,250 --> 00:02:13,869
+ale sam akt nie został przeniesiony.
+Tylko wskazówki
+
+36
+00:02:13,870 --> 00:02:18,729
+zniknęły.  Wskaźniki to inny
+rodzaj danych na dysku, które wskazują
+
+37
+00:02:18,730 --> 00:02:20,229
+miejsca w pamięci, w
+
+38
+00:02:20,230 --> 00:02:24,238
+których można znaleźć rzeczywisty plik, do którego się odwołują
+.
+
+39
+00:02:24,239 --> 00:02:27,729
+Przypominają trochę spis treści,
+co oznacza, że w większości syste
+
+40
+00:02:27,730 --> 00:02:31,189
+ów operacyjnych usunięcie pliku i opróżnienie kosza jest 
+
+41
+00:02:31,190 --> 00:02:34,328
+ak usunięcie rozdziału z książki przez
+
+42
+00:02:34,329 --> 00:02:37,389
+przejrzenie spisu treści i oznac
+
+43
+00:02:37,390 --> 00:02:42,078
+enie rozdziału jako pustego.  Nie 
+ma tu nic, rób ze stronami, co chcesz.
+
+44
+00:02:42,079 --> 00:02:46,488
+Komputerowi czytającemu spis
+treści wygląda to tak, jakby miejsce było
+
+45
+00:02:46,489 --> 00:02:50,099
+puste, ale oczywiście nie zmienia
+to faktu, że zawartość
+
+46
+00:02:50,100 --> 00:02:54,649
+rozdziału nadal tam jest.
+Specjalne narzędzia do odzyskiwania danych
+
+47
+00:02:54,650 --> 00:02:57,659
+przeglądają pamięć oznaczoną jako pustą dostępną,
+
+48
+00:02:57,660 --> 00:03:01,309
+aby zobaczyć, co tak naprawdę tam jest.
+Jeśli masz szczęście,
+
+49
+00:03:01,310 --> 00:03:04,578
+mogą nawet znaleźć plik i zapisać go, przywrócić,
+
+50
+00:03:04,579 --> 00:03:08,198
+oznaczyć jako niedostępny, cofnąć usunięcie.
+
+51
+00:03:08,199 --> 00:03:11,939
+Ale jeśli jakiś plik został już nadpisany
+
+52
+00:03:11,940 --> 00:03:15,729
+, mogą wystąpić problemy.
+Plik może zostać
+
+53
+00:03:15,730 --> 00:03:19,768
+uszkodzony, sklejony z innymi
+danymi, jak jakiś cyfrowy
+
+54
+00:03:19,769 --> 00:03:23,238
+potwór Frankensteina.
+Kilka lat
+
+55
+00:03:23,239 --> 00:03:26,548
+temu skradziono laptop należący do fotografki
+Melanie
+
+56
+00:03:26,549 --> 00:03:30,858
+Willhide.
+Zawierała wiele z jej ostatnich cyfrowych zdjęć.
+
+57
+00:03:30,859 --> 00:03:35,668
+Na szczęście policja zdołała
+zwrócić jej laptop.  Znaleźli go w samochodzie, który
+
+58
+00:03:35,669 --> 00:03:36,488
+zatrzymali,
+
+59
+00:03:36,489 --> 00:03:41,899
+ale złodziej
+wyczyścił dysk twardy laptopa i używał go
+
+60
+00:03:41,900 --> 00:03:43,418
+do własnych celów.
+
+61
+00:03:43,419 --> 00:03:46,599
+Eksperci od odzyskiwania danych byli w stanie znaleźć
+
+62
+00:03:46,600 --> 00:03:50,039
+niektóre z jej plików, które wciąż tam znajdowały
+się na pustym teraz miejscu,
+
+63
+00:03:50,040 --> 00:03:53,099
+ale pliki zostały nieco nadpisane
+
+64
+00:03:53,100 --> 00:03:56,298
+przez rzeczy, które zrobił złodziej.
+Były skorumpowane, ale w
+
+65
+00:03:56,299 --> 00:04:00,509
+naprawdę fajny sposób.
+Tak fajny Willhide postanowił wystawić pracę.
+
+66
+00:04:00,510 --> 00:04:03,869
+Zatytułowała serial imieniem złodzieja, który to umożliwił:
+
+67
+00:04:03,870 --> 00:04:06,958
+„Dla Adriana Rodrigueza, z miłością”.
+
+68
+00:04:06,959 --> 00:04:10,208
+Jeśli chcesz usunąć plik tak całkowicie,
+
+69
+00:04:10,209 --> 00:04:14,358
+że nie można go nawet odzyskać w fajny,
+dziwny sposób, jak zdjęcia Willhide'a,
+
+70
+00:04:14,359 --> 00:04:18,448
+będziesz musiał całkowicie zastąpić niechciany plik
+
+71
+00:04:18,449 --> 00:04:22,028
+.
+Odmów aktowi właściwego pochówku
+
+72
+00:04:22,029 --> 00:04:25,059
+i przestaw jego zwłoki na nowe dane.
+
+73
+00:04:25,060 --> 00:04:29,849
+Jedno nadpisanie powinno wystarczyć, ale
+niektórzy robią aż 35.
+
+74
+00:04:29,850 --> 00:04:34,409
+Nawet 35 nadpisań może nie wystarczyć.
+
+75
+00:04:34,410 --> 00:04:39,079
+Jasne, nadpisane dane są ukryte, ale co z uszkodzonymi
+
+76
+00:04:39,080 --> 00:04:43,969
+sektorami?  Są to części dysku, do których
+urządzenia nie mają dostępu z
+
+77
+00:04:43,970 --> 00:04:47,279
+powodu uszkodzonych tranzystorów lub uszkodzeń fizycznych.
+
+78
+00:04:47,280 --> 00:04:52,478
+Nadpisanie nie będzie w stanie do nich dotrzeć,
+co oznacza, że wszelkie dane, które kiedykolwiek tam zostały umieszczone, pozos
+
+79
+00:04:52,479 --> 00:04:59,269
+aną tam.  Tak więc, jeśli jesteś
+Departamentem Obrony Stanów Zjednoczonych i
+
+80
+00:04:59,270 --> 00:05:00,948
+nie chcesz podejmować żadnego ryzyka,
+
+81
+00:05:00,949 --> 00:05:04,989
+będziesz także niszczył, fizycznie spolaryzował
+
+82
+00:05:04,990 --> 00:05:09,179
+niechciane dyski.
+Stany Zjednoczone, Europa, Japonia
+
+83
+00:05:09,180 --> 00:05:12,749
+często wysyłają takie odpady elektroniczne na wysypiska
+
+84
+00:05:12,750 --> 00:05:16,459
+w Ghanie, takie jak ten.
+To miasto w Ghanie jest znane jako
+
+85
+00:05:16,460 --> 00:05:19,589
+cyfrowe wysypisko śmieci na Ziemi.
+
+86
+00:05:19,590 --> 00:05:23,158
+Dlaczego Ghana?
+Cóż, taniej jest wysłać
+
+87
+00:05:23,159 --> 00:05:27,859
+niezdatną do uratowania elektronikę do Afryki,
+oznaczoną jako darowizna,
+
+88
+00:05:27,860 --> 00:05:31,668
+niż odpowiednio ją poddać recyklingowi.
+
+89
+00:05:31,669 --> 00:05:34,769
+Ale tam, na tych elektronicznych zrzutach
+
+90
+00:05:34,770 --> 00:05:38,098
+, pliki wciąż można przywrócić do życia.
+
+91
+00:05:38,099 --> 00:05:42,638
+Zorganizowanym przestępcom działającym w Ghanie
+udało się skutecznie odzyskać
+
+92
+00:05:42,639 --> 00:05:43,468
+dane
+
+93
+00:05:43,469 --> 00:05:47,299
+z nieuregulowanych zrzutów elektronicznych.
+Udało im się znaleźć poufne
+
+94
+00:05:47,300 --> 00:05:49,679
+umowy o wartości wielu milionów dolarów, obejmujące
+
+95
+00:05:49,680 --> 00:05:53,068
+Agencję Wywiadu Obronnego, bezpieczeństwo wewnętrzne
+
+96
+00:05:53,069 --> 00:05:56,758
+i TSA.
+Niszczenie
+
+97
+00:05:56,759 --> 00:06:01,329
+papieru w celu pozbycia się tego, co kiedyś znajdowało
+się na papierze, również nie jest
+
+98
+00:06:01,330 --> 00:06:06,288
+bezpieczne.  Nie jest to łatwe i nie
+zawsze działa.  Ale skanując
+
+99
+00:06:06,289 --> 00:06:11,119
+strzępy papieru, oprogramowanie komputerowe może
+dopasować elementy do siebie.
+
+100
+00:06:11,120 --> 00:06:15,168
+Ale w przeszłości zniszczone dokumenty
+były niszczone
+
+101
+00:06:15,169 --> 00:06:21,218
+ręcznie.  W 1979 r. irańscy studenci
+zajęli ambasadę USA w Teheranie.
+
+102
+00:06:21,219 --> 00:06:25,049
+Z pomocą miejscowych tkaczy dywanów i
+latami ciężkiej pracy
+
+103
+00:06:25,050 --> 00:06:29,179
+udało im się złożyć tysiące
+stron poufnych dokumentów
+
+104
+00:06:29,180 --> 00:06:33,718
+zniszczonych przez CIA.
+Im mniejsze są rozdrobnione
+
+105
+00:06:33,719 --> 00:06:37,019
+cząstki i im jest ich więcej,
+tym trudniejsze zadanie.  Tak
+
+106
+00:06:37,020 --> 00:06:40,848
+więc Departament Obrony wymaga,
+aby większość rozdrobnionych cząstek
+
+107
+00:06:40,849 --> 00:06:45,848
+nie przekraczała 5 milimetrów kwadratowych.
+
+108
+00:06:45,849 --> 00:06:49,318
+Jeśli naprawdę chcesz coś skasować, zniszcz, wykasuj
+
+109
+00:06:49,319 --> 00:06:52,818
+, czas jest po twojej stronie.
+
+110
+00:06:52,819 --> 00:06:55,859
+Za około 5,4 miliarda
+
+111
+00:06:55,860 --> 00:06:59,568
+lat Słońce stanie się ostatecznym rozdrabniaczem.
+
+112
+00:06:59,569 --> 00:07:03,609
+Czerwony olbrzym wystarczająco duży, by połknąć całą ziemię.
+
+113
+00:07:03,610 --> 00:07:07,438
+Wszystko będzie dobrze przez miliardy lat.
+
+114
+00:07:07,439 --> 00:07:12,149
+Jednak wiele akceptowanych modeli wszechświata
+przewiduje, że za 10 do 100
+
+115
+00:07:12,150 --> 00:07:13,459
+lat
+
+116
+00:07:13,460 --> 00:07:17,778
+jakakolwiek inteligencja pozostanie, będzie
+świadkiem
+
+117
+00:07:17,779 --> 00:07:21,098
+mrocznej ery wszechświata i jego ostatecznej
+
+118
+00:07:21,099 --> 00:07:24,528
+Śmierci Cieplnej, końca wszechświata, końca
+
+119
+00:07:24,529 --> 00:07:27,638
+każdego pliku, zdjęcia lub wspomnienia o tobie.
+
+120
+00:07:27,639 --> 00:07:32,198
+dostępny ponownie.
+Za każdym razem, gdy coś się dzieje,
+
+121
+00:07:32,199 --> 00:07:35,619
+traci się trochę energii.
+Na przykład
+
+122
+00:07:35,620 --> 00:07:40,589
+tarcie spowodowane dźwiękiem lub ciepłem.
+Ta energia stopniowo wychodzi do wszechświata
+
+123
+00:07:40,590 --> 00:07:42,528
+, powoli
+
+124
+00:07:42,529 --> 00:07:46,408
+coraz bardziej.
+W końcu w układzie zamkniętym
+
+125
+00:07:46,409 --> 00:07:51,269
+energia staje się jednorodna,
+równomiernie rozłożona, wszędzie taka sama
+
+126
+00:07:51,270 --> 00:07:54,929
+.
+Nie ma maksymalnej
+
+127
+00:07:54,930 --> 00:08:00,188
+entropii gradientu.
+W małej szklance wody z lodem jest to dość zwyczajne,
+
+128
+00:08:00,189 --> 00:08:03,558
+ale biorąc pod uwagę wystarczająco dużo czasu, cały nasz wszechświat
+
+129
+00:08:03,559 --> 00:08:09,079
+może się nie różnić.  Gradient
+, różnica w energii z jednego miejsca do
+
+130
+00:08:09,080 --> 00:08:11,198
+drugiego jest niezbędna, aby
+
+131
+00:08:11,199 --> 00:08:14,758
+coś się wydarzyło, aby pliki mogły być tworzone i odczytywane,
+
+132
+00:08:14,759 --> 00:08:19,528
+aby zaistniało życie.
+A za 10 do 100
+
+133
+00:08:19,529 --> 00:08:22,688
+lat może nie być już żadnej użytecznej
+
+134
+00:08:22,689 --> 00:08:27,089
+energii.
+W opowiadaniu Isaaca Asimova „Ostatnie pytanie”
+
+135
+00:08:27,090 --> 00:08:30,348
+ludzie są tym zaniepokojeni.
+Ponieważ historia
+
+136
+00:08:30,349 --> 00:08:33,899
+przeskakuje miliardy lat w przyszłość,
+
+137
+00:08:33,900 --> 00:08:37,689
+ich lista rozwiązań nie jest dłuższa
+
+138
+00:08:37,690 --> 00:08:43,048
+niż żadne.  Więc jeśli myślimy, że w wielkiej skali czasu
+
+139
+00:08:43,049 --> 00:08:46,179
+jest kosmiczne usunięcie,
+
+140
+00:08:46,180 --> 00:08:50,549
+zamrożenie wszystkiego, śmierć cieplna, wszystko, na co musimy czekać
+
+141
+00:08:50,550 --> 00:08:53,939
+w tym wszechświecie?
+
+142
+00:08:53,940 --> 00:08:57,028
+Pojechaliśmy na Księżyc.
+Przywieźliśmy
+
+143
+00:08:57,029 --> 00:09:00,338
+ze sobą flagi, które postawiliśmy na
+Księżycu, reprezentujące miejsce
+
+144
+00:09:00,339 --> 00:09:04,009
+na ziemi.
+Ale te amerykańskie flagi na
+
+145
+00:09:04,010 --> 00:09:07,409
+Księżycu prawdopodobnie zostały teraz wymazane,
+
+146
+00:09:07,410 --> 00:09:11,889
+ich symbole i kolory wyblakły przez
+intensywne promieniowanie Słońca na
+
+147
+00:09:11,890 --> 00:09:12,759
+powierzchni Księżyca,
+
+148
+00:09:12,760 --> 00:09:16,949
+niefiltrowane przez żadną atmosferę.
+Flagi wciąż tam są, nie zabraliśmy
+
+149
+00:09:16,950 --> 00:09:20,259
+ich ze sobą, ale teraz dzień jest
+
+150
+00:09:20,260 --> 00:09:25,729
+pusty.  Białe flagi.
+Białe flagi reprezentujące nasze poddanie
+
+151
+00:09:25,730 --> 00:09:31,809
+się nieuchronności usunięcia we wszechświecie.
+
+152
+00:09:31,810 --> 00:09:34,819
+Ale my dzisiaj zajmujemy się czymś
+
+153
+00:09:34,820 --> 00:09:39,339
+wręcz przeciwnym.
+Tym, co naprawdę nasyca nasz język, o
+
+154
+00:09:39,340 --> 00:09:42,369
+czym naprawdę mówimy, jest
+
+155
+00:09:42,370 --> 00:09:45,779
+tworzenie.
+Rzeczy się dzieją, a nie
+
+156
+00:09:45,780 --> 00:09:49,049
+straty.
+W porównaniu do usuwania,
+
+157
+00:09:49,050 --> 00:09:52,829
+zapominania i usuwania, „make” praktycznie
+
+158
+00:09:52,830 --> 00:09:55,839
+usuwa usuwanie.
+
+159
+00:09:55,840 --> 00:09:58,859
+Flagi na Księżycu są
+
+160
+00:09:58,860 --> 00:10:01,939
+wyblakłe, ale czy to ponure?
+Czy są
+
+161
+00:10:01,940 --> 00:10:05,749
+usunięte, czy puste, jak świeża
+
+162
+00:10:05,750 --> 00:10:10,889
+kartka papieru gotowa na nowe historie?
+Naprawdę, to tylko zależy od tego, co z tego
+
+163
+00:10:10,890 --> 00:10:14,119
+zrobisz.
+Więc dzięki za zrobienie rzeczy.
+
+164
+00:10:14,120 --> 00:10:15,159
+I jak zawsze
+
+165
+00:10:15,160 --> 00:10:16,640
+dzięki za oglądanie.
+

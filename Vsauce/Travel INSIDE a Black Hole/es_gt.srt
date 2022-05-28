@@ -1,0 +1,620 @@
+1
+00:00:00,489 --> 00:00:07,668
+Hola, Vsauce.  Miguel aquí.  Y hoy
+vamos a entrar en un agujero negro.  No
+
+2
+00:00:07,669 --> 00:00:13,208
+va a ser cómodo, pero será bastante
+divertido.  Ahora, lo primero es lo primero: matemáticamente
+
+3
+00:00:13,209 --> 00:00:19,069
+hablando, cualquier cosa podría convertirse en un agujero negro,
+si tuviera que comprimirlo en un
+
+4
+00:00:19,070 --> 00:00:24,959
+espacio lo suficientemente pequeño.  Así es, tú, yo, esta cámara:
+todo en el universo tiene lo que se conoce
+
+5
+00:00:24,960 --> 00:00:31,969
+como "radio de Schwarzschild".  Una diminuta cantidad
+de espacio en el que, si colapsaras toda la
+
+6
+00:00:31,970 --> 00:00:38,249
+masa del objeto, su densidad
+sería tan grande que su atracción gravitacional
+
+7
+00:00:38,250 --> 00:00:45,119
+sería tan grande que ni siquiera la luz podría escapar
+de él.  Tendrías un agujero negro.
+
+8
+00:00:45,120 --> 00:00:50,279
+Si tuviera que comprimir el Monte Everest en
+algo más pequeño que un nanómetro,
+
+9
+00:00:50,280 --> 00:00:56,269
+tendría un agujero negro.  Y si tuviera que
+comprimir toda la Tierra hasta el tamaño de un maní
+
+10
+00:00:56,270 --> 00:00:57,779
+, tendría un agujero negro.
+
+11
+00:00:57,780 --> 00:01:03,529
+Pero, afortunadamente para nosotros, no existe una
+forma conocida de comprimir el Everest o la Tierra de esa manera.
+
+12
+00:01:03,530 --> 00:01:09,858
+Pero una estrella, muchas, muchas, muchas veces más grande
+que nuestro propio Sol, tiene un radio de Schwartzchild mucho más grande
+
+13
+00:01:09,859 --> 00:01:15,569
+, y cuando se queda sin combustible y
+ya no puede mantenerse lo suficientemente caliente, colapsa
+
+14
+00:01:15,570 --> 00:01:20,879
+en un solo punto infinitesimalmente pequeño conocido
+como una "singularidad".
+
+15
+00:01:20,880 --> 00:01:25,468
+Su densidad será infinita, por lo que su
+atracción gravitatoria será tan fuerte que
+
+16
+00:01:25,469 --> 00:01:29,078
+nada podrá escapar, ni siquiera la luz.
+
+17
+00:01:29,079 --> 00:01:34,839
+Pero basta de hablar de las formas en que se forman los agujeros negros,
+saltemos a uno.  Primera pregunta: ¿cómo
+
+18
+00:01:34,840 --> 00:01:41,839
+sería desde fuera?  Bueno, sabemos
+que los campos gravitatorios doblan el espacio y el tiempo.
+
+19
+00:01:41,840 --> 00:01:46,849
+Las estrellas detrás de nuestro Sol en realidad
+parecerán estar en lugares ligeramente diferentes de la
+
+20
+00:01:46,850 --> 00:01:52,459
+Tierra, porque el campo gravitacional del Sol
+desvía la luz que proviene de esas estrellas.
+
+21
+00:01:52,460 --> 00:01:57,578
+Cuando se trata de los campos gravitatorios
+de objetos más grandes, como galaxias enteras o,
+
+22
+00:01:57,579 --> 00:02:02,548
+para el caso, un agujero negro, el efecto
+es aún más loco.  La luz que proviene de los objetos que se encuentran
+
+23
+00:02:02,549 --> 00:02:07,849
+detrás de ellos se distorsiona significativamente, lo que
+produce manchas y borrones.
+
+24
+00:02:07,850 --> 00:02:13,969
+Como se ve desde la Tierra, la galaxia azul detrás de
+esta galaxia roja está completamente distorsionada, como el
+
+25
+00:02:13,970 --> 00:02:19,299
+espejo de una casa de juegos.  Entonces, en lugar de aparecer
+como realmente debería, nos parece un anillo,
+
+26
+00:02:19,300 --> 00:02:22,759
+una mancha alrededor de la galaxia roja.
+
+27
+00:02:22,760 --> 00:02:28,239
+Esto se conoce como "lente gravitacional".
+Ahora, eche un vistazo a esta simulación de un
+
+28
+00:02:28,240 --> 00:02:33,209
+agujero negro con una galaxia a millones de años luz
+detrás.  La galaxia realmente no está en peligro
+
+29
+00:02:33,210 --> 00:02:39,189
+de que el agujero negro "chupe", pero la luz
+que sale de esa galaxia sí lo está.  Observe
+
+30
+00:02:39,190 --> 00:02:45,549
+cómo la galaxia pasa detrás del agujero negro
+y su luz se retuerce, tuerce y
+
+31
+00:02:45,550 --> 00:02:47,099
+distorsiona.
+
+32
+00:02:47,100 --> 00:02:48,639
+Ahora aquí hay una demostración realmente divertida.
+
+33
+00:02:48,640 --> 00:02:54,689
+¿Qué pasaría si la Tierra orbitara alrededor de un
+agujero negro?  Mirando desde el exterior, la Tierra
+
+34
+00:02:54,690 --> 00:02:58,909
+parecería normal al principio, pero tan pronto
+como pasara detrás del agujero negro, el
+
+35
+00:02:58,910 --> 00:03:02,899
+campo gravitatorio del agujero negro deformaría la
+luz que se reflejaba en la Tierra, produciendo
+
+36
+00:03:02,900 --> 00:03:04,999
+esto.
+
+37
+00:03:05,000 --> 00:03:09,889
+En aras de la simplicidad, saltemos a
+un agujero negro simple, uno que no
+
+38
+00:03:09,890 --> 00:03:14,639
+tiene carga y no se mueve.  Y, además,
+ya no está absorbiendo un montón de materia.  Así que
+
+39
+00:03:14,640 --> 00:03:16,559
+está ahí por su cuenta.
+
+40
+00:03:16,560 --> 00:03:22,449
+A medida que nos acercamos, la distorsión del cielo se
+hace más y más grande.  Una porción cada vez mayor
+
+41
+00:03:22,450 --> 00:03:28,249
+de nuestro campo de visión que mira
+hacia el agujero negro se llenará de oscuridad.
+
+42
+00:03:28,250 --> 00:03:32,679
+En este punto, donde la mitad de nuestro campo de
+visión ha sido tragado por la oscuridad,
+
+43
+00:03:32,680 --> 00:03:35,259
+hemos llegado a la "Esfera de fotones".
+
+44
+00:03:35,260 --> 00:03:40,369
+En este punto, la luz no necesariamente será
+absorbida por el agujero negro, pero tampoco
+
+45
+00:03:40,370 --> 00:03:46,619
+necesariamente lo abandonará.  En cambio, en este
+punto mágico en el espacio, la luz, los fotones, en
+
+46
+00:03:46,620 --> 00:03:49,479
+realidad pueden orbitar el agujero negro.
+
+47
+00:03:49,480 --> 00:03:53,559
+Si se detuviera aquí por un momento y
+mirara hacia un lado, teóricamente podría
+
+48
+00:03:53,560 --> 00:03:58,589
+ver la parte posterior de su propia cabeza, porque la luz que se
+refleja en la parte posterior de su cabeza
+
+49
+00:03:58,590 --> 00:04:03,879
+viajaría alrededor de la esfera del
+agujero negro, de vuelta.  a tu cara
+
+50
+00:04:03,880 --> 00:04:10,649
+Un campo gravitacional no solo deforma el espacio
+, también deforma el tiempo.  Ahora, para los propósitos más intensivos
+
+51
+00:04:10,650 --> 00:04:15,189
+aquí en la Tierra, nunca tenemos que preocuparnos
+por eso.  Pero cerca de un agujero negro, la gravedad
+
+52
+00:04:15,190 --> 00:04:19,917
+sería tan fuerte que un observador de pie,
+mirándote saltar al agujero, vería
+
+53
+00:04:19,918 --> 00:04:25,369
+algo bastante extraño.  No te verían
+ser succionado rápidamente por el agujero.  En cambio
+
+54
+00:04:25,370 --> 00:04:31,508
+, verían que su enfoque se vuelve más
+y más lento, hasta llegar a
+
+55
+00:04:31,509 --> 00:04:35,008
+un punto conocido como el horizonte de eventos.
+
+56
+00:04:35,009 --> 00:04:41,318
+Este es un punto en el espacio donde, una vez cruzado,
+no hay vuelta atrás.  Es en ese punto
+
+57
+00:04:41,319 --> 00:04:46,568
+que la luz ya no puede escapar.  Y, entonces,
+para una persona que te ve caer en el hoyo,
+
+58
+00:04:46,569 --> 00:04:51,739
+ahí sería donde terminó tu viaje.
+Parecería casi congelado en el espacio, la luz
+
+59
+00:04:51,740 --> 00:04:58,279
+que sale de su cuerpo se vuelve cada vez más
+roja hasta que simplemente se desvanece en la nada.
+
+60
+00:04:58,280 --> 00:05:02,419
+Nunca te verían cruzar el horizonte de eventos.
+
+61
+00:05:02,420 --> 00:05:05,499
+Pero para ti, por supuesto, todo parecería estar
+bien y elegante.  Seguirías traspasando
+
+62
+00:05:05,500 --> 00:05:11,448
+ese horizonte hasta tu ahora, inevitable, muerte.
+A medida que continúa acercándose a la singularidad del agujero negro
+
+63
+00:05:11,449 --> 00:05:16,388
+, su visión de todo el universo
+se comprimiría en un punto cada vez más
+
+64
+00:05:16,389 --> 00:05:18,309
+pequeño en el espacio detrás de usted.
+
+65
+00:05:18,310 --> 00:05:22,968
+Si el agujero negro en el que estamos saltando fuera lo
+suficientemente grande, las cosas en realidad podrían ser bastante cómodas
+
+66
+00:05:22,969 --> 00:05:27,359
+en ese horizonte de eventos.  Sabremos que
+nunca vamos a escapar y que nuestras vidas
+
+67
+00:05:27,360 --> 00:05:31,918
+prácticamente han terminado, pero puede llevarnos
+horas llegar a un punto en el que las cosas empiecen
+
+68
+00:05:31,919 --> 00:05:33,059
+a doler.
+
+69
+00:05:33,060 --> 00:05:37,388
+¿Por qué harían daño?  Bueno, cuanto más te acercas
+a la singularidad, más significativa es la
+
+70
+00:05:37,389 --> 00:05:42,559
+diferencia en la atracción gravitatoria a través del
+espacio.  Y, entonces, las partes de mí que están más cerca
+
+71
+00:05:42,560 --> 00:05:47,369
+de la singularidad serían atraídas con más fuerza
+que las partes que estaban de espaldas y todo mi
+
+72
+00:05:47,370 --> 00:05:54,609
+cuerpo se estiraría hacia la singularidad.
+El efecto sería tan increíble que los científicos
+
+73
+00:05:54,610 --> 00:05:58,889
+no suelen llamarlo estiramiento, lo
+llaman "espaguetificación".
+
+74
+00:05:58,890 --> 00:06:04,049
+Una vez que alcances este punto, estarías muerto.
+Sus moléculas se romperían y estirarían violentamente
+
+75
+00:06:04,050 --> 00:06:09,649
+, y cuando llegaran a la
+singularidad, bueno, realmente no sabemos qué
+
+76
+00:06:09,650 --> 00:06:14,198
+sucedería.  Tal vez
+desaparecerían por completo en violación de todas las leyes de la
+
+77
+00:06:14,199 --> 00:06:19,109
+física o tal vez reaparecerían
+en otras partes del universo.  Se cree que un
+
+78
+00:06:19,110 --> 00:06:24,769
+agujero negro en movimiento o giratorio podría crear
+lo que se conoce como "agujero de gusano", una forma de
+
+79
+00:06:24,770 --> 00:06:30,119
+atravesar el espacio más rápido que la luz.  No de ninguna
+manera que viole las leyes de la ciencia, sino
+
+80
+00:06:30,120 --> 00:06:34,019
+de una manera que aproveche las dimensiones del universo
+.
+
+81
+00:06:34,020 --> 00:06:38,959
+Por ejemplo, si quisiera ir de este
+punto a este punto, tendría que recorrer la
+
+82
+00:06:38,960 --> 00:06:45,959
+distancia.  Pero, en teoría, un agujero de gusano
+haría algo realmente loco.  Por ejemplo, esto.
+
+83
+00:06:45,960 --> 00:06:49,758
+Ahora, los dos puntos están uno al lado del
+otro y puedo viajar entre ellos casi
+
+84
+00:06:49,759 --> 00:06:51,399
+instantáneamente.
+
+85
+00:06:51,400 --> 00:06:56,639
+Pero, de nuevo, todo esto es teórico.  Afortunadamente,
+tenemos una forma posible de analizar los
+
+86
+00:06:56,640 --> 00:07:01,779
+agujeros negros aquí mismo en la Tierra.  Introduzca el "tonto".
+
+87
+00:07:01,780 --> 00:07:07,979
+Así como un agujero negro no deja
+escapar la luz, un Dumbhole es un agujero negro acústico
+
+88
+00:07:07,980 --> 00:07:14,878
+.  No permitirá que el sonido se escape.  No
+tiene que ser tan poderoso y los científicos
+
+89
+00:07:14,879 --> 00:07:20,968
+han podido crear Dumbholes en laboratorios
+utilizando fluidos especiales que viajan a la velocidad
+
+90
+00:07:20,969 --> 00:07:21,579
+del sonido.
+
+91
+00:07:21,580 --> 00:07:26,179
+Aún queda mucho por hacer en
+el mundo de los agujeros negros acústicos, pero es
+
+92
+00:07:26,180 --> 00:07:30,848
+posible que podamos aprender una cantidad asombrosa de
+información sobre cómo funcionan los agujeros negros
+
+93
+00:07:30,849 --> 00:07:33,568
+observando cómo se trata el sonido en un Dumbhole.
+
+94
+00:07:33,569 --> 00:07:39,278
+Ahora aquí hay otra buena pregunta: ¿Cómo
+sería viajar a la velocidad de la luz,
+
+95
+00:07:39,279 --> 00:07:44,338
+digamos, hacia el Sol?  Bueno, sorprendentemente
+, no solo verías al Sol
+
+96
+00:07:44,339 --> 00:07:50,918
+correr hacia ti de inmediato.  No no no.  De hecho, inicialmente
+, parecería casi como si el Sol se estuviera
+
+97
+00:07:50,919 --> 00:07:57,378
+alejando de ti.  ¿Por qué?  Porque su campo de
+visión aumentaría enormemente de tamaño.
+
+98
+00:07:57,379 --> 00:08:01,338
+Podrías ver cosas casi detrás de ti.
+Y he aquí por qué.
+
+99
+00:08:01,339 --> 00:08:05,788
+Mientras te sientas ahí, sin moverte todavía, mirando
+al Sol, hay luz que viene de cosas
+
+100
+00:08:05,789 --> 00:08:11,508
+detrás de ti.  Pero, si viajas a la velocidad de la
+luz, alcanzarás esa luz que
+
+101
+00:08:11,509 --> 00:08:16,598
+viene de las cosas que están detrás de ti.  A medida que alcanzara
+la velocidad de la luz, su campo de visión se expandiría
+
+102
+00:08:16,599 --> 00:08:19,649
+así, concentrando las cosas en el
+medio.
+
+103
+00:08:19,650 --> 00:08:26,598
+Pero, ¿dónde estás en el universo?  O, aquí hay
+una mejor pregunta.  ¿Dónde está el centro
+
+104
+00:08:26,599 --> 00:08:32,439
+del universo?  Bueno, esto puede parecer una locura,
+pero está en todas partes.  Esto se conoce como el
+
+105
+00:08:32,440 --> 00:08:38,197
+"Principio Cosmológico".  No importa dónde
+estés en el universo, todo lo demás
+
+106
+00:08:38,198 --> 00:08:42,808
+parecerá alejarse de ti, expandirse,
+al mismo ritmo.
+
+107
+00:08:42,809 --> 00:08:47,148
+El universo se está expandiendo, pero no como un
+globo cada vez más grande con todas las personas
+
+108
+00:08:47,149 --> 00:08:52,698
+dentro.  En cambio, es como si fuéramos la
+superficie de un globo.  Si pusieras un
+
+109
+00:08:52,699 --> 00:08:56,659
+montón de puntos en un globo y luego lo
+inflaras, todos los puntos se alejarían unos de
+
+110
+00:08:56,660 --> 00:09:01,719
+otros a la misma velocidad.  Y, en la superficie
+del globo, no hay centro.
+
+111
+00:09:01,720 --> 00:09:06,479
+Echa un vistazo a estas dos capas.  Son
+exactamente similares, excepto que la capa superior representa
+
+112
+00:09:06,480 --> 00:09:09,679
+una expansión del 5% de la capa inferior.
+
+113
+00:09:09,680 --> 00:09:14,698
+Digamos que vives en uno de estos puntos
+y quieres medir de dónde se está
+
+114
+00:09:14,699 --> 00:09:20,888
+alejando todo.  Bueno, mira lo que sucede
+cuando alineo un punto en el pasado y el presente.
+
+115
+00:09:20,889 --> 00:09:29,518
+Auge.  Parece el centro de la expansión.
+Puedo hacer esto con cualquier punto.  Tan pronto como elijo
+
+116
+00:09:29,519 --> 00:09:35,429
+un punto para que sea el marco de referencia, inmediatamente se
+convierte en el centro de la expansión.
+
+117
+00:09:35,430 --> 00:09:41,758
+Entonces, aunque morir en un agujero negro sería solitario,
+aterrador y morboso, cuando mires hacia
+
+118
+00:09:41,759 --> 00:09:46,499
+el cielo, piensa en esto.  No importa
+dónde estés, o quién seas, o cuáles sean tus
+
+119
+00:09:46,500 --> 00:09:54,879
+amigos o tus padres, tú realmente,
+científicamente, eres el centro del universo.
+
+120
+00:09:54,880 --> 00:10:02,049
+Finalmente, ¿y si nuestro universo fuera un googolplex de
+metros de ancho?  No es tan grande.
+
+121
+00:10:02,050 --> 00:10:07,889
+Pero, si lo fuera, sería tan voluminoso
+que, estadísticamente, sería casi imposible
+
+122
+00:10:07,890 --> 00:10:14,619
+que no hubiera una copia exacta de ti en algún
+otro lugar del universo.  Para ver por qué,
+
+123
+00:10:14,620 --> 00:10:19,749
+le sugiero que haga clic allí mismo
+y vea el nuevo canal "Numberphile" de Brady Haran.
+
+124
+00:10:19,750 --> 00:10:23,429
+Es parte del canal original de YouTube
+y he trabajado con estos muchachos antes.  Son
+
+125
+00:10:23,430 --> 00:10:27,749
+increíbles, son mi tipo favorito de geeks.
+Entonces, mire ese video, mire sus otras
+
+126
+00:10:27,750 --> 00:10:31,119
+cosas, y si le gustan las matemáticas,
+le sugiero que se suscriba.
+
+127
+00:10:31,120 --> 00:10:31,979
+Y como siempre,
+
+128
+00:10:31,980 --> 00:10:33,460
+gracias por mirar.
+

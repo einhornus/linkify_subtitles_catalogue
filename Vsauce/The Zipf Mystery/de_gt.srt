@@ -1,0 +1,1085 @@
+1
+00:00:00,130 --> 00:00:08,349
+Hey, Vsoße.  Michael hier.  Etwa 6 Prozent von
+allem, was Sie sagen, lesen und schreiben, ist
+
+2
+00:00:08,350 --> 00:00:12,019
+das
+
+3
+00:00:12,020 --> 00:00:18,249
+„the“ – das am häufigsten verwendete Wort in der
+englischen Sprache.  Etwa eines von
+
+4
+00:00:18,250 --> 00:00:25,079
+16 Wörtern, denen wir täglich begegnen,
+ist „das“.  Die 20 häufigsten englischen
+
+5
+00:00:25,080 --> 00:00:32,209
+Wörter der Reihe nach sind „the“, „of“, „and“, „to“, „a“, „in“, „is“, „I“, „that“, „it“, „it“, „the“, „of“, „and“, „to“, „a“, „in“, „is“, „I“, „that“, „it“,  „für“, „du“,
+
+6
+00:00:32,210 --> 00:00:39,459
+„war“, „mit“, „auf“, „als“, „haben“, „aber“, „sein“, „sie“.
+Das ist eine lustige Tatsache.  Ein Stück Trivia, aber es ist
+
+7
+00:00:39,460 --> 00:00:44,969
+auch mehr.  Sie sehen, ob die am
+häufigsten verwendeten Wörter in einer
+
+8
+00:00:44,970 --> 00:00:51,529
+ganzen Sprache oder nur in einem Buch oder
+Artikel geordnet sind, fast jedes Mal taucht ein bizarres
+
+9
+00:00:51,530 --> 00:00:57,879
+Muster auf.  Das am zweithäufigsten verwendete
+Wort erscheint etwa halb so oft wie
+
+10
+00:00:57,880 --> 00:01:04,558
+das am häufigsten verwendete.  Der Dritte ein Drittel so
+oft.  Der Vierte ein Viertel so oft.  Der
+
+11
+00:01:04,559 --> 00:01:10,639
+Fünfte ein Fünftel so oft.  Der Sechste ein Sechstel
+so oft und so weiter bis ganz nach unten.
+
+12
+00:01:10,640 --> 00:01:16,969
+Ernsthaft.  Aus irgendeinem Grund ist die Häufigkeit, mit der
+ein Wort verwendet wird, nur
+
+13
+00:01:16,970 --> 00:01:23,279
+proportional zu eins über seinem Rang.  Die
+Worthäufigkeit und das Ranking in einem Log-Log-Diagramm
+
+14
+00:01:23,280 --> 00:01:30,908
+folgen einer schönen geraden Linie.  Ein Potenzgesetz.
+Dieses Phänomen wird Zipf's Law genannt und
+
+15
+00:01:30,909 --> 00:01:38,408
+gilt nicht nur für Englisch.  Es
+gilt auch für andere Sprachen, also für
+
+16
+00:01:38,409 --> 00:01:39,389
+alle.
+
+17
+00:01:39,390 --> 00:01:43,379
+Selbst alte Sprachen konnten wir noch
+nicht übersetzen.
+
+18
+00:01:43,380 --> 00:01:50,349
+Und hier ist das Ding.  Wir haben keine Ahnung warum.
+Es ist überraschend, dass etwas so
+
+19
+00:01:50,350 --> 00:01:56,389
+Komplexes wie die Realität durch
+etwas so Kreatives wie Sprache auf
+
+20
+00:01:56,390 --> 00:02:03,559
+so vorhersehbare Weise vermittelt werden kann.  Wie vorhersehbar?
+Nun, schau dir das an.  Laut WordCount.org,
+
+21
+00:02:03,560 --> 00:02:08,629
+das Wörter aus dem
+British National Corpus einordnet, ist "Sauce" das
+
+22
+00:02:08,630 --> 00:02:15,949
+5.555. häufigste englische Wort.
+Nun, hier ist eine Liste, wie oft
+
+23
+00:02:15,950 --> 00:02:21,359
+jedes Wort auf Wikipedia und im
+gesamten Gutenberg-Korpus von
+
+24
+00:02:21,360 --> 00:02:27,939
+Zehntausenden gemeinfreier Bücher
+auftaucht.  Das am häufigsten verwendete Wort „the“ taucht etwa
+
+25
+00:02:27,940 --> 00:02:34,469
+181 Millionen Mal auf.  Wenn wir diese beiden
+Dinge kennen, können wir schätzen, dass das Wort
+
+26
+00:02:34,470 --> 00:02:39,539
+„Soße“ zusammen ungefähr
+dreißigtausend Mal auf Wikipedia und
+
+27
+00:02:39,540 --> 00:02:45,219
+Gutenberg erscheinen sollte.
+Und das tut es ziemlich genau.
+
+28
+00:02:45,220 --> 00:02:51,099
+Was gibt?  Die Welt ist chaotisch.  Die Dinge
+sind auf unzählige Arten verteilt, nicht nur
+
+29
+00:02:51,100 --> 00:02:54,089
+Machtgesetze.  Und Sprache ist persönlich,
+
+30
+00:02:54,090 --> 00:03:00,519
+beabsichtigt, eigenwillig.  Was mit der
+Welt und uns selbst könnte dazu führen, dass solch
+
+31
+00:03:00,520 --> 00:03:08,139
+komplexe Aktivitäten und Verhaltensweisen einer
+solchen Grundregel folgen?  Wir
+
+32
+00:03:08,140 --> 00:03:13,739
+wissen es buchstäblich nicht.  Mehr als ein Jahrhundert
+Forschung hat den Fall noch nicht abgeschlossen.
+
+33
+00:03:13,740 --> 00:03:20,019
+Darüber hinaus beschreibt Zipfs Gesetz nicht nur
+den Wortgebrauch auf mysteriöse Weise.  Es findet sich
+
+34
+00:03:20,020 --> 00:03:25,809
+auch in Stadtbevölkerungen,
+Sonneneruptionsintensitäten, Proteinsequenzen und
+
+35
+00:03:25,810 --> 00:03:30,469
+Immunrezeptoren, der Menge an Zugriffen auf
+Websites, Erdbebenstärken, der Häufigkeit, mit der
+
+36
+00:03:30,470 --> 00:03:34,979
+wissenschaftliche Arbeiten
+zitiert werden, Nachnamen, den Feuermustern
+
+37
+00:03:34,980 --> 00:03:38,719
+neuronaler Netzwerke, Zutaten, die in
+Kochbüchern verwendet werden  , die Anzahl der erhaltenen
+
+38
+00:03:38,720 --> 00:03:42,359
+Anrufe, der Durchmesser von
+Mondkratern, die Anzahl der Menschen, die
+
+39
+00:03:42,360 --> 00:03:47,619
+in Kriegen sterben, die Popularität von
+Eröffnungszügen, sogar die Geschwindigkeit, mit der wir vergessen.
+
+40
+00:03:47,620 --> 00:03:54,779
+Es gibt viele Theorien darüber, warum
+Sprache "zipf-y" ist, aber keine eindeutigen Schlussfolgerungen,
+
+41
+00:03:54,780 --> 00:04:00,219
+und dieses Video enthält auch
+keine eindeutige Erklärung.  Tut mir leid, ich weiß
+
+42
+00:04:00,220 --> 00:04:06,279
+, das ist ein Mist, da wir anscheinend
+mehr Wissen mögen als Mysterien.  Aber
+
+43
+00:04:06,280 --> 00:04:13,969
+wir fragen auch mehr, als wir antworten.
+Lassen Sie uns also in Zipfs Verzweigungen, einige
+
+44
+00:04:13,970 --> 00:04:18,439
+verwandte Muster, einige mögliche
+Erklärungen und die Tiefe des
+
+45
+00:04:18,440 --> 00:04:23,319
+Mysteriums selbst eintauchen.
+Zipfs Gesetz wurde von George Zipf,
+
+46
+00:04:23,320 --> 00:04:29,659
+einem Linguisten an der Harvard University, populär gemacht.  Es ist eine
+diskrete Form der kontinuierlichen Pareto-
+
+47
+00:04:29,660 --> 00:04:35,069
+Verteilung, aus der wir das
+Pareto-Prinzip erhalten.  Da sich so viele
+
+48
+00:04:35,070 --> 00:04:40,069
+reale Prozesse so verhalten,
+sagt uns das Pareto-Prinzip, dass es sich als
+
+49
+00:04:40,070 --> 00:04:47,728
+Faustregel lohnt, anzunehmen, dass 20 %
+der Ursachen für 80 %
+
+50
+00:04:47,729 --> 00:04:49,019
+des Ergebnisses verantwortlich sind,
+
+51
+00:04:49,020 --> 00:04:54,348
+wie in der Sprache, wo dies am häufigsten der
+Fall ist  18 Prozent der verwendeten Wörter
+
+52
+00:04:54,349 --> 00:05:02,059
+machen über 80 % der Wortvorkommen aus.
+1896 zeigte Vilfredo Pareto, dass
+
+53
+00:05:02,060 --> 00:05:08,299
+etwa 80 % des Landes in
+Italien nur 20 % der
+
+54
+00:05:08,300 --> 00:05:13,689
+Bevölkerung gehörten.  Es wird gesagt, dass er später
+in seinem Garten bemerkte, dass 20 Prozent seiner
+
+55
+00:05:13,690 --> 00:05:20,439
+Erbsenschoten achtzig Prozent der
+Erbsen enthielten.  Er und andere Forscher haben sich
+
+56
+00:05:20,440 --> 00:05:26,939
+andere Datensätze angesehen und festgestellt, dass dieses 80-20-
+Ungleichgewicht weltweit häufig vorkommt.
+
+57
+00:05:26,940 --> 00:05:35,228
+Die reichsten 20 % der Menschen verfügen über 82,7 %
+des Welteinkommens.  In den USA nutzen 20 % der
+
+58
+00:05:35,229 --> 00:05:41,049
+Patienten 80 % der
+Gesundheitsressourcen.  Im Jahr 2002 berichtete Microsoft
+
+59
+00:05:41,050 --> 00:05:46,609
+, dass 80 % der Fehler und
+Abstürze in Windows und Office
+
+60
+00:05:46,610 --> 00:05:51,658
+durch 20 % der erkannten Fehler verursacht werden.  Eine gängige
+Faustregel in der Geschäftswelt
+
+61
+00:05:51,659 --> 00:05:57,418
+besagt, dass 20 % Ihrer Kunden
+für 80 % Ihres Gewinns verantwortlich sind und
+
+62
+00:05:57,419 --> 00:06:02,109
+80 % der Beschwerden, die Sie
+erhalten, von 20 % Ihrer
+
+63
+00:06:02,110 --> 00:06:08,638
+Kunden stammen.  Ein Buch mit dem Titel „Das 80/20-Prinzip“
+besagt sogar, dass in einer Wohnung oder einem
+
+64
+00:06:08,639 --> 00:06:09,778
+Büro
+
+65
+00:06:09,779 --> 00:06:16,918
+20 % des Teppichs 80 %
+der Abnutzung ausgesetzt sind.  Oh, und wie Woody Allen berühmt
+
+66
+00:06:16,919 --> 00:06:24,908
+sagte: „80 Prozent des Erfolgs
+zeigen sich einfach.“  Das Pareto-Prinzip ist
+
+67
+00:06:24,909 --> 00:06:27,698
+überall, was gut ist.
+
+68
+00:06:27,699 --> 00:06:32,679
+Indem Sie sich auf nur 20 Prozent der
+Fehler konzentrieren, können Sie oft erwarten, dass Sie
+
+69
+00:06:32,680 --> 00:06:38,839
+80 Prozent der Probleme lösen.  Eine
+Vielzahl unterschiedlicher unabhängiger Faktoren führt dazu
+
+70
+00:06:38,840 --> 00:06:43,638
+, dass dies von Fall zu Fall zutrifft, aber wenn
+wir einigen von ihnen auf den Grund gehen
+
+71
+00:06:43,639 --> 00:06:44,929
+können, werden
+
+72
+00:06:44,930 --> 00:06:49,279
+wir vielleicht feststellen, dass einer oder mehrere
+dieser Mechanismen für
+
+73
+00:06:49,280 --> 00:06:55,929
+Zipfs Gesetz in der Sprache verantwortlich sind  .  George Zipf
+selbst hielt die interessante Ranghäufigkeitsverteilung von Sprachen für
+
+74
+00:06:55,930 --> 00:07:00,978
+eine
+Folge des Prinzips des geringsten Aufwands.  Die
+
+75
+00:07:00,979 --> 00:07:07,409
+Tendenz des Lebens und der Dinge,
+den Weg des geringsten Widerstands zu gehen.  Zipf glaubte
+
+76
+00:07:07,410 --> 00:07:12,839
+, dass es einen Großteil des menschlichen Verhaltens beeinflusste, und stellte die
+Hypothese auf, dass die Sprecher mit der Entwicklung der Sprache
+
+77
+00:07:12,840 --> 00:07:18,279
+in unserer Spezies es natürlich
+vorzogen, aus so wenigen Wörtern wie
+
+78
+00:07:18,280 --> 00:07:23,369
+möglich zu schöpfen, um ihre Gedanken zu verbreiten.
+Es war einfacher.  Aber um zu verstehen,
+
+79
+00:07:23,370 --> 00:07:25,598
+was gesagt wurde,
+
+80
+00:07:25,599 --> 00:07:30,989
+bevorzugten die Zuhörer größere Vokabeln
+, die mehr Spezifität boten, sodass sie
+
+81
+00:07:30,990 --> 00:07:36,638
+weniger Arbeit leisten mussten.  Der Kompromiss
+zwischen Hören und Sprechen, so Zipf,
+
+82
+00:07:36,639 --> 00:07:43,309
+führte zum heutigen Stand der Sprache.
+Wenige Wörter werden oft verwendet und viele, viele,
+
+83
+00:07:43,310 --> 00:07:47,128
+viele Wörter werden selten verwendet.
+
+84
+00:07:47,129 --> 00:07:52,038
+Neuere Veröffentlichungen haben vorgeschlagen, dass die Verwendung
+einiger kurzer, häufig verwendeter, vorhersehbarer Wörter
+
+85
+00:07:52,039 --> 00:07:57,748
+dazu beiträgt, die Informationslastdichte
+auf die Zuhörer zu verteilen, indem wichtige Vokabeln verteilt werden,
+
+86
+00:07:57,749 --> 00:08:03,238
+sodass die Informationsrate
+konstanter ist.  Dies ist sinnvoll und es wurde
+
+87
+00:08:03,239 --> 00:08:07,829
+viel gelernt, indem man das Prinzip des geringsten
+Aufwands auf andere Verhaltensweisen anwendete, aber
+
+88
+00:08:07,830 --> 00:08:13,288
+spätere Forscher argumentierten, dass
+die Erklärung für die Sprache noch
+
+89
+00:08:13,289 --> 00:08:19,028
+einfacher sei.  Nur wenige Jahre nach
+Zipfs bahnbrechender Arbeit zeigte Benoit Mandelbrot,
+
+90
+00:08:19,029 --> 00:08:24,418
+dass
+an Zipfs Gesetz überhaupt nichts Mysteriöses sein kann, denn selbst wenn Sie
+
+91
+00:08:24,419 --> 00:08:29,668
+nur zufällig auf einer Tastatur tippen, werden
+Sie Wörter erzeugen, die
+
+92
+00:08:29,669 --> 00:08:35,629
+gemäß Zipfs Gesetz verteilt sind.  Es ist ein ziemlich cooler Punkt und
+deshalb passiert es.  Es gibt
+
+93
+00:08:35,630 --> 00:08:41,768
+exponentiell mehr verschiedene lange Wörter
+als kurze Wörter.  Zum Beispiel kann das englische
+
+94
+00:08:41,769 --> 00:08:48,969
+Alphabet verwendet werden, um 26
+Wörter mit einem Buchstaben zu bilden, aber 26 quadratische
+
+95
+00:08:48,970 --> 00:08:55,708
+Wörter mit 2 Buchstaben.  Außerdem wird beim zufälligen Tippen immer dann, wenn die
+Leertaste gedrückt wird, ein Wort beendet.
+
+96
+00:08:55,709 --> 00:09:00,938
+Da immer eine gewisse Wahrscheinlichkeit besteht, dass
+die Leertaste gedrückt wird, sind längere
+
+97
+00:09:00,939 --> 00:09:03,068
+Zeitspannen, bevor es passiert,
+
+98
+00:09:03,069 --> 00:09:08,159
+exponentiell unwahrscheinlicher als
+kürzere.  Die Kombination dieser
+
+99
+00:09:08,160 --> 00:09:14,719
+Exponentiale ist ziemlich „zipfig“.
+Wenn beispielsweise alle 26 Buchstaben und die
+
+100
+00:09:14,720 --> 00:09:20,129
+Leertaste mit gleicher Wahrscheinlichkeit eingegeben werden,
+nachdem ein Buchstabe eingegeben und ein Wort
+
+101
+00:09:20,130 --> 00:09:25,388
+begonnen wurde, ist die Wahrscheinlichkeit, dass die nächste
+Eingabe ein Leerzeichen ist und somit ein
+
+102
+00:09:25,389 --> 00:09:31,578
+Wort mit einem Buchstaben erstellt wird, nur eins  27.
+Und tatsächlich, wenn Sie zufällig
+
+103
+00:09:31,579 --> 00:09:39,239
+Zeichen generieren oder einen sprichwörtlichen Tipp-
+Affen einstellen, wird etwa einer von 27 oder 3,7
+
+104
+00:09:39,240 --> 00:09:44,768
+Prozent des Zeugs zwischen Leerzeichen
+ein einzelner Buchstabe sein.  Wörter mit zwei Buchstaben
+
+105
+00:09:44,769 --> 00:09:50,919
+erscheinen, wenn nach Beginn eines Wortes ein beliebiges
+Zeichen außer der Leertaste gedrückt wird – eine
+
+106
+00:09:50,920 --> 00:09:54,619
+Chance von 26 zu 27 und dann die Leertaste.
+
+107
+00:09:54,620 --> 00:09:59,979
+Ein Wort mit drei Buchstaben ist die
+Wahrscheinlichkeit eines Buchstabens, eines weiteren Buchstabens und dann eines
+
+108
+00:09:59,980 --> 00:10:04,349
+Leerzeichens.  Wenn wir durch die Anzahl der
+möglichen eindeutigen Wörter jeder Länge dividieren, erhalten
+
+109
+00:10:04,350 --> 00:10:08,949
+wir die Häufigkeit des Auftretens,
+die für ein bestimmtes Wort aufgrund
+
+110
+00:10:08,950 --> 00:10:14,949
+seiner Länge erwartet wird.  Beispielsweise macht der Buchstabe
+V etwa 0,142 Prozent der
+
+111
+00:10:14,950 --> 00:10:24,439
+zufälligen Eingabe aus.  Das Wort „Vsauce“
+0,0000000993 Prozent.  Längere Wörter sind
+
+112
+00:10:24,440 --> 00:10:29,529
+weniger wahrscheinlich, aber pass auf.  Lassen Sie uns
+diese Frequenzen nach den Rängen verteilen, die
+
+113
+00:10:29,530 --> 00:10:35,569
+sie auf einer am häufigsten
+verwendeten Liste einnehmen würden.  Es gibt 26 mögliche Ein-
+
+114
+00:10:35,570 --> 00:10:40,639
+Buchstaben-Wörter, daher wird erwartet, dass jedes der 26 am besten
+bewerteten Wörter
+
+115
+00:10:40,640 --> 00:10:45,939
+ungefähr so oft vorkommt.  Die nächsten 676 Ränge werden
+
+116
+00:10:45,940 --> 00:10:50,699
+von Wörtern mit zwei Buchstaben eingenommen, die
+häufig in diesem Zusammenhang vorkommen.  Wenn wir jede Frequenz
+
+117
+00:10:50,700 --> 00:10:56,979
+entsprechend ihrer Mitgliederzahl erweitern, erhalten
+wir Zipf.  Nachfolgende Forscher haben
+
+118
+00:10:56,980 --> 00:11:02,159
+detailliert beschrieben, wie eine Änderung der
+Anfangsbedingungen die Schritte glätten kann.  Unsere
+
+119
+00:11:02,160 --> 00:11:08,179
+mysteriöse Verteilung wurde
+aus nichts als der Unausweichlichkeit
+
+120
+00:11:08,180 --> 00:11:09,919
+der Mathematik geschaffen.
+
+121
+00:11:09,920 --> 00:11:15,999
+Vielleicht gibt es also kein Geheimnis.  Vielleicht sind
+Wörter nur das Ergebnis von Menschen, die
+
+122
+00:11:16,000 --> 00:11:21,338
+die beobachtbare Welt und die
+mentale Welt willkürlich in Etiketten segmentieren, und Zipfs Gesetz
+
+123
+00:11:21,339 --> 00:11:27,479
+beschreibt, was natürlich passiert, wenn
+man das tut.  Fall abgeschlossen.  und wie immer
+
+124
+00:11:27,480 --> 00:11:28,249
+Und wie immer
+
+125
+00:11:28,250 --> 00:11:31,559
+danke für... Moment mal!
+
+126
+00:11:31,560 --> 00:11:36,419
+Die tatsächliche Sprache unterscheidet sich stark von der
+zufälligen Eingabe.  Kommunikation ist
+
+127
+00:11:36,420 --> 00:11:41,039
+bis zu einem gewissen Grad deterministisch.
+Äußerungen und Themen kommen basierend auf dem,
+
+128
+00:11:41,040 --> 00:11:46,138
+was zuvor gesagt wurde.  Und das Vokabular, mit dem
+wir arbeiten müssen, ist sicherlich nicht das
+
+129
+00:11:46,139 --> 00:11:51,539
+Ergebnis einer rein zufälligen Benennung.
+Das Typisierungsmodell des Affen kann zum Beispiel nicht
+
+130
+00:11:51,540 --> 00:11:56,439
+erklären, warum sogar die Namen der
+Elemente, der Planeten und der
+
+131
+00:11:56,440 --> 00:12:02,049
+Wochentage in der Sprache nach dem
+Zipfschen Gesetz verwendet werden.  Sets wie diese werden
+
+132
+00:12:02,050 --> 00:12:06,409
+durch die natürliche Welt eingeschränkt und sind nicht das
+Ergebnis unserer willkürlichen Segmentierung der
+
+133
+00:12:06,410 --> 00:12:12,268
+Welt in Labels.  Darüber hinaus werden Menschen, wenn sie
+eine Liste mit neuartigen Wörtern erhalten, Wörter, die sie noch
+
+134
+00:12:12,269 --> 00:12:16,669
+nie gehört oder verwendet haben, wie wenn sie
+aufgefordert werden, eine Geschichte über außerirdische
+
+135
+00:12:16,670 --> 00:12:21,929
+Kreaturen mit seltsamen Namen zu schreiben,
+naturgemäß dazu neigen, den Namen eines
+
+136
+00:12:21,930 --> 00:12:29,749
+Außerirdischen doppelt so oft wie einen anderen zu verwenden  ,
+dreimal so oft wie andere ... Zipfs Gesetz
+
+137
+00:12:29,750 --> 00:12:35,549
+scheint in unser Gehirn eingebaut zu sein.  Vielleicht gibt
+es etwas an der Art und Weise, wie Gedanken und
+
+138
+00:12:35,550 --> 00:12:40,528
+Diskussionsthemen auf und ab gehen, das
+zu Zipfs Gesetz beiträgt.
+
+139
+00:12:40,529 --> 00:12:44,838
+Eine andere Art und Weise, wie „Zipf-ian“
+-Verteilungen auftreten, sind Prozesse, die sich
+
+140
+00:12:44,839 --> 00:12:49,299
+entsprechend ihrer vorherigen Funktionsweise ändern
+.  Diese werden als bevorzugte
+
+141
+00:12:49,300 --> 00:12:55,208
+Bindungsprozesse bezeichnet.
+Sie treten auf, wenn etwas – Geld, Ansichten,
+
+142
+00:12:55,209 --> 00:12:59,989
+Aufmerksamkeit, Abwechslung, Freunde, Jobs,
+wirklich alles – ausgegeben wird, je nachdem
+
+143
+00:12:59,990 --> 00:13:05,748
+, wie viel bereits besessen ist.
+Um auf das Teppichbeispiel zurückzukommen: Wenn die meisten
+
+144
+00:13:05,749 --> 00:13:11,308
+Menschen vom Wohnzimmer in die
+Küche über einen bestimmten Weg gehen, werden die
+
+145
+00:13:11,309 --> 00:13:17,989
+Möbel woanders platziert, was diesen
+Weg noch beliebter macht.  Je mehr Aufrufe
+
+146
+00:13:17,990 --> 00:13:22,469
+ein Video, Bild oder Beitrag hat,
+desto wahrscheinlicher ist es, dass es
+
+147
+00:13:22,470 --> 00:13:28,208
+automatisch empfohlen wird oder für die Nachrichten sorgt,
+weil es so viele Aufrufe hat, was beides
+
+148
+00:13:28,209 --> 00:13:29,248
+zu mehr Aufrufen führt.
+
+149
+00:13:29,249 --> 00:13:34,599
+Es ist wie ein Schneeball, der einen
+schneebedeckten Hügel hinunterrollt.  Je mehr Schnee er ansammelt, desto
+
+150
+00:13:34,600 --> 00:13:38,948
+größer wird seine Oberfläche zum
+Sammeln von mehr und desto schneller wächst er.
+
+151
+00:13:38,949 --> 00:13:43,789
+Es muss keine bewusste
+Entscheidung sein, die einen bevorzugten
+
+152
+00:13:43,790 --> 00:13:50,648
+Bindungsprozess vorantreibt.  Es kann natürlich passieren.  Versuche dies.
+Nehmen Sie ein paar Büroklammern und nehmen Sie
+
+153
+00:13:50,649 --> 00:13:52,169
+zufällig zwei davon.
+
+154
+00:13:52,170 --> 00:13:56,719
+Verbinden Sie sie miteinander und werfen Sie sie dann
+zurück in den Stapel.  Jetzt
+
+155
+00:13:56,720 --> 00:14:02,019
+immer wieder wiederholen.  Wenn Sie Büroklammern nehmen,
+die bereits Teil einer Kette sind, verknüpfen Sie sie trotzdem.
+
+156
+00:14:02,020 --> 00:14:06,109
+Meistens
+haben Sie nach einer Weile eine Distribution, die
+
+157
+00:14:06,110 --> 00:14:11,879
+"Zipf-ian" aussieht.  Eine kleine Anzahl von Ketten
+enthält einen unverhältnismäßigen Anteil der
+
+158
+00:14:11,880 --> 00:14:16,799
+gesamten Büroklammeranzahl.  Dies liegt einfach
+daran, dass je länger eine Kette wird, desto
+
+159
+00:14:16,800 --> 00:14:20,289
+größer ist der Anteil des
+Ganzen, was ihr eine bessere Chance gibt
+
+160
+00:14:20,290 --> 00:14:26,189
+, in Zukunft aufgenommen und
+folglich noch länger gemacht zu werden.  Die
+
+161
+00:14:26,190 --> 00:14:33,419
+Reichen werden reicher, die Großen werden größer,
+die Beliebten werden beliebter.  Es ist nur Mathematik.
+
+162
+00:14:33,420 --> 00:14:39,388
+Vielleicht wird das Zipf-Mysterium der Sprachen, wenn nicht dadurch
+verursacht, zumindest durch die
+
+163
+00:14:39,389 --> 00:14:45,899
+bevorzugte Bindung verstärkt.  Sobald ein Wort
+verwendet wird, ist es wahrscheinlicher, dass es bald wieder verwendet wird.
+
+164
+00:14:45,900 --> 00:14:49,419
+Auch kritische Punkte können eine Rolle spielen.
+
+165
+00:14:49,420 --> 00:14:54,559
+Schreiben und Konversation bleiben oft bei einem
+Thema, bis ein kritischer Punkt erreicht ist
+
+166
+00:14:54,560 --> 00:14:59,419
+und das Thema gewechselt wird und sich
+das Vokabular ändert.  Prozesse wie diese
+
+167
+00:14:59,420 --> 00:15:05,059
+führen bekanntermaßen zu Potenzgesetzen.
+Letztendlich scheint es also vertretbar, dass all diese
+
+168
+00:15:05,060 --> 00:15:11,259
+Mechanismen zusammenwirken könnten, um das Zipfsche
+Gesetz zum natürlichsten Weg für Sprache
+
+169
+00:15:11,260 --> 00:15:16,969
+zu machen.  Vielleicht wurde nach Mandelbrots Theorie ein Teil unseres Vokabulars und unserer
+Grammatik zufällig entwickelt
+
+170
+00:15:16,970 --> 00:15:22,559
+.  Und die natürliche
+Art und Weise, wie Konversation und Diskussion
+
+171
+00:15:22,560 --> 00:15:26,948
+bevorzugter Anhänglichkeit und Kritik folgen,
+gepaart mit dem Prinzip der geringsten
+
+172
+00:15:26,949 --> 00:15:31,919
+Anstrengung beim Sprechen und Zuhören, sind
+alle für das Verhältnis
+
+173
+00:15:31,920 --> 00:15:35,009
+zwischen Wortrang und -häufigkeit verantwortlich.
+
+174
+00:15:35,010 --> 00:15:40,169
+Schade, dass die Antwort nicht
+einfacher ist, aber faszinierend wegen
+
+175
+00:15:40,170 --> 00:15:45,139
+der Konsequenzen, die sie für die Zusammensetzung von
+Kommunikation hat.  Grob
+
+176
+00:15:45,140 --> 00:15:52,209
+gesagt, und das ist überwältigend, wird fast die
+Hälfte jedes Buches, Gesprächs oder
+
+177
+00:15:52,210 --> 00:15:58,499
+Artikels nichts als die gleichen 50 bis 100
+Wörter sein.  Und fast die andere Hälfte werden
+
+178
+00:15:58,500 --> 00:16:04,869
+Wörter sein, die nur einmal in dieser Auswahl vorkommen
+.  Das ist nicht so überraschend, wenn man
+
+179
+00:16:04,870 --> 00:16:11,689
+bedenkt, dass ein Wort
+6 Prozent dessen ausmacht, was wir sagen.  Die Top 25 der
+
+180
+00:16:11,690 --> 00:16:18,299
+am häufigsten verwendeten Wörter machen etwa ein Drittel von allem aus,
+was wir sagen, und die Top 100 etwa die
+
+181
+00:16:18,300 --> 00:16:25,399
+Hälfte.  Ernsthaft.  Ich meine, ob es nun alle
+Wörter in „Wet Hot American Summer“ oder
+
+182
+00:16:25,400 --> 00:16:30,419
+alle Wörter in Platons „Complete Works“ oder
+in den vollständigen Werken von Edgar Allan Poe
+
+183
+00:16:30,420 --> 00:16:37,919
+oder der Bibel selbst sind, nur etwa 100 Wörter
+werden für fast die Hälfte davon verwendet  alles
+
+184
+00:16:37,920 --> 00:16:48,359
+geschrieben oder gesagt.  In Alice's Adventures in
+Wonderland kommen 44 % und in Tom Sawyer 49,8
+
+185
+00:16:48,360 --> 00:16:55,259
+% der verwendeten einzigartigen Wörter nur
+einmal im Buch vor.  Ein Wort, das
+
+186
+00:16:55,260 --> 00:17:01,299
+nur einmal in einer bestimmten Wortauswahl verwendet
+wird, wird als „Hapax-Legomenon“ bezeichnet.
+
+187
+00:17:01,300 --> 00:17:06,129
+Hapax legomena sind für das
+Verständnis von Sprachen von entscheidender Bedeutung.  Wenn ein Wort
+
+188
+00:17:06,130 --> 00:17:11,698
+nur einmal in der gesamten bekannten
+Sammlung einer alten Sprache gefunden wurde, kann
+
+189
+00:17:11,699 --> 00:17:17,639
+es sehr schwierig sein, herauszufinden, was es
+bedeutet.  Nun, es gibt kein Korpus von
+
+190
+00:17:17,640 --> 00:17:23,549
+allem, was jemals auf Englisch gesagt oder geschrieben wurde
+, aber es gibt sehr, sehr große
+
+191
+00:17:23,550 --> 00:17:29,239
+Sammlungen, und es macht Spaß, Hapax-Legomena darin zu finden.
+Zum Beispiel, und das wird
+
+192
+00:17:29,240 --> 00:17:34,359
+wahrscheinlich nicht der Fall sein, nachdem ich es
+erwähnt habe, aber das Wort "quizzaciously"
+
+193
+00:17:34,360 --> 00:17:41,599
+steht im Oxford English Dictionary,
+taucht aber nirgendwo auf Wikipedia oder im
+
+194
+00:17:41,600 --> 00:17:45,999
+Gutenberg-Korpus oder im British
+National Corpus oder im American National auf
+
+195
+00:17:46,000 --> 00:17:53,649
+Corpus, aber es erscheint, wenn in
+nur einem Ergebnis bei Google gesucht wird.  Passenderweise in einem
+
+196
+00:17:53,650 --> 00:18:01,729
+Buch mit dem Titel „ElderSpeak“, das es
+als „seltenes Wort“ auflistet.  Quizzaciously bedeutet übrigens
+
+197
+00:18:01,730 --> 00:18:07,609
+„auf spöttische Weise“, wie in
+„Der Paradist ratterte spöttisch los:
+
+198
+00:18:07,610 --> 00:18:12,918
+‚Hey, Vsauce. Michael hier. Aber wer ist Michael
+und wie viel
+
+199
+00:18:12,919 --> 00:18:20,589
+wiegt hier?‘“
+wurde so selten verwendet.  Es ist ein
+
+200
+00:18:20,590 --> 00:18:26,909
+lustiges Wort, aber so laufen die Dinge in
+einem „Zipf-ian“-System.  Manche Dinge bekommen die ganze
+
+201
+00:18:26,910 --> 00:18:33,539
+Liebe, manche bekommen wenig.  Das meiste, was Sie
+tagtäglich erleben, ist
+
+202
+00:18:33,540 --> 00:18:39,909
+vergessen, vergesslich.  Das Dictionary of Obscure Sorrows hat wie so oft ein
+
+203
+00:18:39,910 --> 00:18:45,969
+Wort dafür – Olēka – das Bewusstsein, wie
+wenige Tage denkwürdig sind.
+
+204
+00:18:45,970 --> 00:18:52,169
+Ich lebe seit fast 11.000 Tagen,
+aber ich könnte Ihnen nichts über
+
+205
+00:18:52,170 --> 00:18:54,779
+jeden von ihnen erzählen.  Ich meine, nicht einmal annähernd.
+
+206
+00:18:54,780 --> 00:19:00,729
+Das meiste von dem, was wir tun und sehen und denken und
+sagen und hören und fühlen, wird
+
+207
+00:19:00,730 --> 00:19:07,509
+mit einer Rate vergessen, die dem Zipfschen Gesetz ziemlich ähnlich ist,
+was Sinn macht.  Wenn eine Reihe von Faktoren auf
+
+208
+00:19:07,510 --> 00:19:12,289
+natürliche Weise ausgewählt wurden, um
+mit Werkzeugen
+
+209
+00:19:12,290 --> 00:19:17,249
+auf „Zipf-ianische“ Weise über die Welt nachzudenken und zu sprechen, ist es sinnvoll, dass wir
+uns auch so daran erinnern.  Manches
+
+210
+00:19:17,250 --> 00:19:24,609
+richtig gut, das meiste kaum.
+Aber es nervt mich manchmal, weil es
+
+211
+00:19:24,610 --> 00:19:29,839
+bedeutet, dass so viel vergessen wird,
+sogar Dinge, von denen du damals dachtest, dass du
+
+212
+00:19:29,840 --> 00:19:33,499
+sie nie vergessen könntest.  Meine Schließfachnummer –
+
+213
+00:19:33,500 --> 00:19:38,229
+Abschlussjahr – seine Kombination, die Witze, die
+ich mochte, wenn ich einen Komiker auf der Bühne sah,
+
+214
+00:19:38,230 --> 00:19:45,149
+die Namen von Leuten, die ich vor 10 Jahren jeden Tag sah
+.  So viele Erinnerungen sind weg.  Wenn
+
+215
+00:19:45,150 --> 00:19:48,869
+ich mir all die Bücher ansehe, die ich gelesen habe, und
+merke, dass ich mich nicht an jedes
+
+216
+00:19:48,870 --> 00:19:53,569
+Detail erinnern kann, ist das ein wenig
+enttäuschend.  Ich meine, warum sich überhaupt die Mühe machen, wenn
+
+217
+00:19:53,570 --> 00:19:58,029
+das Pareto-Prinzip vorschreibt, dass mein
+„Zipf-ianischer“ Verstand sich bewusst so
+
+218
+00:19:58,030 --> 00:20:04,279
+ziemlich nur an die Titel erinnern wird und ein paar
+grundlegende Reaktionen Jahre später
+
+219
+00:20:04,280 --> 00:20:09,259
+Ralph Waldo Emerson mich besser fühlen lässt.
+Er sagte einmal: „Ich kann mich an die Bücher, die
+
+220
+00:20:09,260 --> 00:20:17,089
+ich gelesen habe, genauso wenig erinnern wie an die
+Mahlzeiten, die ich gegessen habe.
+
+221
+00:20:17,090 --> 00:20:19,048
+Und wie immer
+
+222
+00:20:19,049 --> 00:20:20,209
+danke fürs Zuschauen.
+

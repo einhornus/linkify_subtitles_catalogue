@@ -1,0 +1,465 @@
+1
+00:00:00,000 --> 00:00:01,279
+Bloccato a un incrocio,
+
+2
+00:00:01,280 --> 00:00:04,699
+guardi sempre svolgersi
+il problema fondamentale del traffico.
+
+3
+00:00:04,700 --> 00:00:07,679
+Sul verde, la prima macchina accelera, poi la successiva
+
+4
+00:00:07,680 --> 00:00:10,939
+, poi la successiva, e poi la successiva, e poi tu,
+
+5
+00:00:10,940 --> 00:00:12,459
+solo per prendere la rossa.
+
+6
+00:00:12,460 --> 00:00:14,539
+Se le macchine avessero accelerato contemporaneamente
+
+7
+00:00:14,540 --> 00:00:16,378
+, ce l'avresti fatta.
+
+8
+00:00:16,379 --> 00:00:19,319
+Il problema è il coordinamento, non le automobili,
+
+9
+00:00:19,320 --> 00:00:22,469
+perché siamo
+guidatori scimmieschi con tempi di reazione lenti e tempi di
+
+10
+00:00:22,470 --> 00:00:24,179
+attenzione ridotti.
+
+11
+00:00:24,180 --> 00:00:29,359
+Anche se provassimo a convincere tutti a
+premere il pedale sul 3-2-1, ora
+
+12
+00:00:29,360 --> 00:00:30,679
+sarebbe una sfida.
+
+13
+00:00:30,680 --> 00:00:34,039
+Questa dis-coordinazione limita
+il numero di auto che possono attraversare un incrocio
+
+14
+00:00:34,040 --> 00:00:36,199
+e quando una fa marcia indietro su quella successiva, è allora
+
+15
+00:00:36,200 --> 00:00:40,699
+che si verificano cascate di ingorghi delle dimensioni di una città
+, che impiegano un'eternità per liberarsi.
+
+16
+00:00:40,700 --> 00:00:44,539
+In generale, più incroci equivalgono a più
+dis-coordinamento che equivale a più traffico.
+
+17
+00:00:44,540 --> 00:00:47,579
+Questo è il motivo dietro le grandi autostrade:
+niente incroci.
+
+18
+00:00:47,580 --> 00:00:50,459
+Divide e unisce, sì.  Intersezioni, n.
+
+19
+00:00:50,460 --> 00:00:53,398
+Nessuna fermata, nessun problema di coordinazione, nessun traffico
+
+20
+00:00:53,399 --> 00:00:54,639
+Beh, questa è la teoria comunque.
+
+21
+00:00:54,640 --> 00:00:57,179
+Le intersezioni al di fuori di un'autostrada
+faranno il backup su di essa.
+
+22
+00:00:57,180 --> 00:01:00,939
+Ancora una volta, perché i tempi di reazione umana
+limitano il numero di auto che possono sfuggire alla rampa di uscita
+
+23
+00:01:00,940 --> 00:01:02,268
+quando la luce cambia.
+
+24
+00:01:02,269 --> 00:01:06,599
+Ma, anche senza incroci,
+ci sarebbe comunque traffico sull'autostrada.
+
+25
+00:01:06,600 --> 00:01:08,239
+Il traffico può semplicemente apparire.
+
+26
+00:01:08,240 --> 00:01:10,519
+Prendi un'autostrada a una corsia con auto felici che scorrono
+
+27
+00:01:10,520 --> 00:01:12,439
+finché un pollo non attraversa la strada.
+
+28
+00:01:12,440 --> 00:01:13,859
+Il guidatore che lo vede frena un po',
+
+29
+00:01:13,860 --> 00:01:17,379
+il guidatore dietro di lui non se ne accorge subito
+e frena un po' più forte del necessario,
+
+30
+00:01:17,380 --> 00:01:21,219
+il guidatore dietro di lui fa lo stesso
+finché qualcuno si ferma del tutto
+
+31
+00:01:21,220 --> 00:01:25,359
+e, guarda, le auto si avvicinano a
+velocità autostradale  ora deve fermarsi anche lui.
+
+32
+00:01:25,360 --> 00:01:30,059
+Sebbene il pollo sia scomparso da tempo,
+ha lasciato un incrocio fantasma sull'autostrada.
+
+33
+00:01:30,060 --> 00:01:32,739
+Questo è quello che è successo quando
+sei bloccato nel traffico per ore a pensare:
+
+34
+00:01:32,740 --> 00:01:36,119
+"Ci deve essere un mucchio mortale davanti"
+e poi all'improvviso, il traffico è finito
+
+35
+00:01:36,120 --> 00:01:39,059
+senza alcun relitto in vista,
+con tuo sollievo se sei una brava persona
+
+36
+00:01:39,060 --> 00:01:40,679
+e mite  fastidio se non lo sei.
+
+37
+00:01:40,680 --> 00:01:42,859
+Passi solo attraverso un
+incrocio fantasma,
+
+38
+00:01:42,860 --> 00:01:44,639
+la cui causa è scomparsa da tempo.
+
+39
+00:01:44,640 --> 00:01:47,139
+E questo incrocio fantasma si muove.
+
+40
+00:01:47,140 --> 00:01:50,079
+È davvero un serpente stradale che striscia lungo la strada
+
+41
+00:01:50,080 --> 00:01:53,519
+mangiando le auto in arrivo da un'estremità
+e facendole uscire dall'altra.
+
+42
+00:01:53,520 --> 00:01:55,739
+In una tangenziale, una sola macchina che rallenta
+
+43
+00:01:55,740 --> 00:01:58,559
+, avvierà un Ouroboros di traffico che durerà per sempre,
+
+44
+00:01:58,560 --> 00:02:01,339
+anche se la strada non ha problemi.
+
+45
+00:02:01,340 --> 00:02:04,879
+Se i conducenti potessero coordinarsi per
+accelerare e separarsi simultaneamente, la
+
+46
+00:02:04,880 --> 00:02:06,859
+guida facile ritornerebbe.
+
+47
+00:02:06,860 --> 00:02:09,159
+Ma non possono, quindi traffico eterno.
+
+48
+00:02:09,160 --> 00:02:13,039
+Sulle autostrade, i serpenti stradali crescono
+se le auto vengono mangiate più velocemente di quelle espulse
+
+49
+00:02:13,040 --> 00:02:15,359
+e si riducono se espulse più velocemente di quanto non vengano mangiate,
+
+50
+00:02:15,360 --> 00:02:19,499
+morendo quando l'ultima macchina accelera
+prima che l'auto successiva si fermi.
+
+51
+00:02:19,500 --> 00:02:22,819
+Ora, nelle autostrade a più corsie,
+non c'è bisogno di un pollo per iniziare lo stallo.
+
+52
+00:02:22,820 --> 00:02:26,759
+Un guidatore che attraversa velocemente le corsie
+con le auto troppo vicine è sufficiente
+
+53
+00:02:26,760 --> 00:02:29,719
+per far nascere un serpente stradale che vive per
+ore e leghe.
+
+54
+00:02:29,720 --> 00:02:34,919
+È questo rapido incrocio che fa sì che i
+conducenti dietro di loro frenino eccessivamente e inizino una reazione a catena.
+
+55
+00:02:34,920 --> 00:02:39,619
+Ma *possiamo* rendere
+meno probabili i serpenti del traffico cambiando il modo in cui guidiamo.
+
+56
+00:02:39,620 --> 00:02:42,819
+Il tuo obiettivo come pilota è
+rimanere sempre alla stessa distanza dall'auto che
+
+57
+00:02:42,820 --> 00:02:45,419
+precede e dall'auto dietro.
+
+58
+00:02:45,420 --> 00:02:48,509
+Il tailgating è un problema.  Non solo
+perché rende più probabili gli incidenti, ma
+
+59
+00:02:48,510 --> 00:02:53,068
+perché tu, come il tailgater, puoi avviare un
+serpente se il conducente che precede frena.
+
+60
+00:02:53,069 --> 00:02:54,988
+Sempre in mezzo!
+
+61
+00:02:54,989 --> 00:02:57,208
+Questo ti dà più tempo
+per evitare una frenata eccessiva,
+
+62
+00:02:57,209 --> 00:03:00,539
+ma dà anche
+più tempo al guidatore dietro di te.
+
+63
+00:03:00,540 --> 00:03:01,649
+E quando sono bloccati nel traffico,
+
+64
+00:03:01,650 --> 00:03:06,298
+questa regola farebbe smontare il serpente a tutte le auto più velocemente.
+
+65
+00:03:06,299 --> 00:03:10,439
+Questa è la semplice soluzione al traffico:
+convincere gli esseri umani a cambiare il loro comportamento,
+
+66
+00:03:10,440 --> 00:03:13,859
+magari condividendo questo video per mostrare
+come e perché accade il traffico,
+
+67
+00:03:13,860 --> 00:03:18,999
+perché i tailgather sono problemi e come possiamo lavorare insieme per rendere le strade migliori per tutti.
+
+68
+00:03:19,000 --> 00:03:20,479
+Fine.
+
+69
+00:03:20,480 --> 00:03:21,568
+Tranne, sì...
+
+70
+00:03:21,569 --> 00:03:25,799
+augurare a una star che le persone siano
+migliori di quello che sono è una soluzione terribile.
+
+71
+00:03:25,800 --> 00:03:26,579
+Ogni volta.
+
+72
+00:03:26,580 --> 00:03:29,789
+Invece, ciò che funziona è una
+soluzione strutturalmente sistematizzata
+
+73
+00:03:29,790 --> 00:03:32,449
+che è esattamente ciò che sono le auto a guida autonoma.
+
+74
+00:03:32,450 --> 00:03:34,069
+Le auto a guida autonoma possono semplicemente essere programmate
+
+75
+00:03:34,070 --> 00:03:36,519
+per rimanere nel mezzo e accelerare contemporaneamente.
+
+76
+00:03:36,520 --> 00:03:37,499
+Lo faranno e basta.
+
+77
+00:03:37,500 --> 00:03:41,339
+Più auto a guida autonoma in un incrocio
+, più efficiente diventa l'incrocio.
+
+78
+00:03:41,340 --> 00:03:45,719
+Una corsia solida di auto a guida autonoma
+aumenta notevolmente la produttività.
+
+79
+00:03:45,720 --> 00:03:46,729
+Hmm, in realtà!
+
+80
+00:03:46,730 --> 00:03:49,979
+Se vieti gli umani dalla strada
+(cosa che dovremmo comunque fare assolutamente)
+
+81
+00:03:49,980 --> 00:03:52,299
+puoi eliminare completamente l'incrocio.
+
+82
+00:03:52,300 --> 00:03:57,418
+Dopotutto, un semaforo è solo uno strumento per i conducenti
+su una strada per comunicare con i conducenti
+
+83
+00:03:57,419 --> 00:03:59,579
+su un'altra, in modo scadente e grossolano.
+
+84
+00:03:59,580 --> 00:04:02,379
+Il rosso è uguale a "Non andare ora,
+stiamo arrivando all'incrocio".
+
+85
+00:04:02,380 --> 00:04:03,639
+Il verde è uguale a "buono per andare".
+
+86
+00:04:03,640 --> 00:04:07,399
+Ma le auto a guida autonoma possono parlarsi
+alla velocità della luce.
+
+87
+00:04:07,400 --> 00:04:10,229
+con quel tipo di coordinamento, nessun semaforo necessario.
+
+88
+00:04:10,230 --> 00:04:14,669
+Proprio come con l'autostrada, il miglior
+incrocio non è un incrocio.
+
+89
+00:04:14,670 --> 00:04:16,989
+Gli esseri umani non guideranno mai questo con precisione.
+
+90
+00:04:16,990 --> 00:04:19,879
+All'incrocio, il problema fondamentale con il traffico
+
+91
+00:04:19,880 --> 00:04:23,259
+che guardi svolgersi, così come tutto, sono le persone.
+
+92
+00:04:23,260 --> 00:04:25,339
+Quindi la vera e semplice soluzione al traffico
+
+93
+00:04:25,340 --> 00:04:30,259
+: non ci sono più scimmie che guidano le auto.
+
+94
+00:04:30,260 --> 00:04:33,239
+Questo video ti è stato
+offerto in parte da Audible.com,
+
+95
+00:04:33,240 --> 00:04:37,279
+con oltre 180.000 audiolibri
+e prodotti audio parlati.
+
+96
+00:04:37,280 --> 00:04:41,599
+Ottieni una prova gratuita oggi andando su audible.com/grey
+
+97
+00:04:41,600 --> 00:04:44,019
+Se ti piace pensare a come il futuro può essere migliore,
+
+98
+00:04:44,020 --> 00:04:46,779
+perché non leggere la biografia di Elon Musk:
+
+99
+00:04:46,780 --> 00:04:51,039
+"Tesla, SpaceX, and the Quest for a Fantastic Future"
+di Ashlee Vance
+
+100
+00:04:51,040 --> 00:04:52,539
+è  disponibile su Audible.
+
+101
+00:04:52,540 --> 00:04:58,709
+Ascoltalo con la tua prova gratuita di 30 giorni che puoi
+ottenere su audible.com/grey
+
+102
+00:04:58,710 --> 00:05:02,829
+Audible è il posto dove vado per tutti i miei audiolibri, e dovresti farlo anche tu.
+
+103
+00:05:02,830 --> 00:05:06,129
+È un universo quasi infinito di
+cose interessanti da ascoltare.
+
+104
+00:05:06,130 --> 00:05:08,870
+Provali e grazie ad Audible per aver
+supportato il canale.
+

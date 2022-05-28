@@ -1,0 +1,456 @@
+1
+00:00:00,000 --> 00:00:04,619
+[Anúncios inaudíveis do aeroporto]
+
+2
+00:00:04,620 --> 00:00:06,599
+[Grey suspira]
+
+3
+00:00:06,600 --> 00:00:08,959
+Qual é a maneira mais rápida de embarcar em um avião?
+
+4
+00:00:08,960 --> 00:00:12,739
+Quero dizer, você não pode simplesmente abrir os portões como afunilar o gado em uma calha.
+
+5
+00:00:12,740 --> 00:00:15,539
+Isso não é para nós.  Afinal, somos primatas!
+
+6
+00:00:15,540 --> 00:00:20,459
+Então, vamos colocar nossos cérebros de macaco para trabalhar para enfrentar essa fila, que é o que os grupos de embarque fazem:
+
+7
+00:00:20,460 --> 00:00:24,299
+priorizar, empacotar primatas com precisão.  (Primeiramente)
+
+8
+00:00:24,300 --> 00:00:28,779
+Ok, temos uma sugestão: coloque as pessoas no avião de trás para frente.
+
+9
+00:00:28,780 --> 00:00:31,579
+Esta é uma solução intuitiva para encher um cilindro.
+
+10
+00:00:31,580 --> 00:00:35,199
+Mas há quase uma lei do universo que as soluções que são…
+
+11
+00:00:35,200 --> 00:00:40,039
+…a primeira coisa que você pensa e parece sensata e são fáceis de implementar são muitas vezes…
+
+12
+00:00:40,040 --> 00:00:46,359
+… soluções terríveis e ineficazes, uma vez implementadas, arrastarão a civilização para sempre.
+
+13
+00:00:46,360 --> 00:00:49,359
+:: Tosse, sistemas de votação, tosse ::
+
+14
+00:00:49,360 --> 00:00:52,399
+Portanto, não é de surpreender que este método não seja…
+
+15
+00:00:52,400 --> 00:00:56,639
+… bom e também o que a maioria das companhias aéreas usa para embarcar em seus aviões.
+
+16
+00:00:56,640 --> 00:00:57,919
+Vamos vê-lo em ação:
+
+17
+00:00:57,920 --> 00:01:00,399
+O primeiro grupo de embarque caminha para a parte de trás do avião.
+
+18
+00:01:00,400 --> 00:01:05,238
+Está tudo tranquilo até que o primeiro a sair chega à sua fila e começa a arrumar.
+
+19
+00:01:05,239 --> 00:01:06,879
+Tão lento.
+
+20
+00:01:06,880 --> 00:01:10,759
+E para o passageiro dois, enquanto seu assento está à vista, não há nada a fazer.
+
+21
+00:01:10,760 --> 00:01:15,439
+A única fila do corredor, onde todos podem nada além de ensopados, grudados como cola até que esse cara termine.
+
+22
+00:01:15,440 --> 00:01:16,759
+:: Ufa ::
+
+23
+00:01:16,760 --> 00:01:21,519
+São malas.  As malas causam a maior parte do atraso no embarque de um voo.
+
+24
+00:01:21,520 --> 00:01:23,679
+Como com isto: uma estiva completa.
+
+25
+00:01:23,680 --> 00:01:31,679
+Quando isso acontece, todos que embarcam dentro e fora do avião devem esperar até que uma pessoa termine de arrumar a mala.
+
+26
+00:01:31,680 --> 00:01:38,119
+Pode sentir isso?  O agregado de segundos perdidos de vida humana se acumulando como uma recompensa por um ceifador encantado?
+
+27
+00:01:38,120 --> 00:01:41,839
+Claro que você pode.  Você pode sentir isso com cada bolsa.
+
+28
+00:01:41,840 --> 00:01:42,839
+:: Uhhh :: O que eu estava dizendo?
+
+29
+00:01:42,840 --> 00:01:48,639
+Certo, os grupos de embarque de trás para a frente têm muitas estivas de parada completa e muito poucas do que você deseja:
+
+30
+00:01:48,640 --> 00:01:51,559
+… puxadas e paralelas e paralelas e puxadas.
+
+31
+00:01:51,560 --> 00:01:53,559
+Pullaways transformam uma fila em duas.
+
+32
+00:01:53,560 --> 00:01:57,839
+E os paralelos diminuem o tempo total de arrumação da mala e são super satisfatórios.
+
+33
+00:01:57,840 --> 00:02:03,279
+O raro parceiro triplo paralelo invocando um duplo high-five pelo puro prazer de sua eficiência.
+
+34
+00:02:03,280 --> 00:02:06,639
+Mas carregar de volta para a frente permite que poucas delas aconteçam.
+
+35
+00:02:06,640 --> 00:02:10,559
+Agora diga que você não era apenas… não era bom em projetar grupos de embarque…
+
+36
+00:02:10,560 --> 00:02:16,639
+… mas você era mal-intencionado e queria maximizar a quantidade de vida humana desperdiçada em um voo.
+
+37
+00:02:16,640 --> 00:02:20,639
+O que você faria?
+
+38
+00:02:20,640 --> 00:02:24,959
+Não de trás para frente, mas de frente para trás - quanto menor o grupo de embarque, melhor.
+
+39
+00:02:24,960 --> 00:02:29,599
+Isso faz com que quase todo tedioso movimento para frente resulte em uma parada completa,…
+
+40
+00:02:29,600 --> 00:02:36,239
+…porque a maior parte da fila espera por fileiras já cheias ou fora do avião.  Parece familiar?
+
+41
+00:02:36,240 --> 00:02:39,679
+É aqui que reconhecemos a estrutura de classes dos aviões.
+
+42
+00:02:39,680 --> 00:02:43,839
+Os aviões reais são assim e as pranchas de primeira classe primeiro, de frente para trás, …
+
+43
+00:02:43,840 --> 00:02:46,479
+… antes do arquivo pró-economia de trás para frente.
+
+44
+00:02:46,480 --> 00:02:53,479
+Portanto, excluindo o pré-embarque, todas as companhias aéreas começam com um pouco do método de embarque mais lento que você poderia projetar intencionalmente.
+
+45
+00:02:53,480 --> 00:02:57,119
+Agora, obviamente, este vídeo revelará em breve procedimentos de embarque mais rápidos.
+
+46
+00:02:57,120 --> 00:03:00,479
+E você vai se perguntar: “por que as companhias aéreas não usam os métodos mais rápidos?”
+
+47
+00:03:00,480 --> 00:03:03,759
+Uma resposta possível são os incentivos econômicos.
+
+48
+00:03:03,760 --> 00:03:08,359
+A primeira classe paga por vantagens - às vezes vantagens de tirar o fôlego por quantias de tirar o fôlego.
+
+49
+00:03:08,360 --> 00:03:10,399
+E embarcar primeiro é um deles.
+
+50
+00:03:10,400 --> 00:03:16,719
+Além disso, as companhias aéreas dão a todos os pontos de fidelidade que fazem você subir na estrutura de classes quanto mais você voar com essa companhia aérea.
+
+51
+00:03:16,720 --> 00:03:19,519
+O que dá às companhias aéreas outro bom motivo para agrupar pessoas.
+
+52
+00:03:19,520 --> 00:03:26,039
+E provavelmente ajuda a explicar por que eles abandonaram o método antigo mais rápido que você não acredita que eles costumavam usar:
+
+53
+00:03:26,040 --> 00:03:30,119
+[Cinza no microfone]: "Ei, pessoal. O avião está aqui. Vá em frente."
+
+54
+00:03:30,120 --> 00:03:34,599
+Não fazer nada e fazer com que as pessoas embarquem no voo em qualquer ordem em que apareçam…
+
+55
+00:03:34,600 --> 00:03:38,599
+… para obter o assento designado, é mais rápido do que organizar grupos de embarque organizados.
+
+56
+00:03:38,600 --> 00:03:41,599
+Isso ocorre porque pessoas aleatórias estão espalhadas, bem, aleatoriamente, …
+
+57
+00:03:41,600 --> 00:03:46,999
+… aumentando as chances de desvios e paralelos, ao contrário dos métodos mais ordenados para os quais as companhias aéreas mudaram.
+
+58
+00:03:47,000 --> 00:03:50,599
+Cara, é sempre frustrante saber que literalmente não ter feito nada…
+
+59
+00:03:50,600 --> 00:03:52,959
+… seria mais rápido do que algo que é feito.
+
+60
+00:03:52,960 --> 00:03:59,919
+Mas certamente há uma ordem de grupo de embarque melhor a ser encontrada se pudermos apenas subtrair a malícia e adicionar pensamento a esse problema.
+
+61
+00:03:59,920 --> 00:04:03,879
+Ahh!  Três grupos: janela, meio, corredor.  Naquela ordem.
+
+62
+00:04:03,880 --> 00:04:08,399
+Isso é realmente o mesmo que fazer três vezes aleatoriamente, uma para cada coluna da nave...
+
+63
+00:04:08,400 --> 00:04:13,399
+... mas a razão pela qual é um pouquinho mais rápido é porque elimina a outra fonte de atraso no embarque: a
+
+64
+00:04:13,400 --> 00:04:14,439
+mudança de assento.
+
+65
+00:04:14,440 --> 00:04:18,119
+Quando as pessoas embarcam aleatoriamente, a troca de assentos vai acontecer um monte.
+
+66
+00:04:18,120 --> 00:04:21,398
+E quando as pessoas entram no corredor, isso diminui a fila.
+
+67
+00:04:21,399 --> 00:04:25,919
+Ordenar todos pela janela, meio e corredor garante que uma troca de assentos nunca aconteça.
+
+68
+00:04:25,920 --> 00:04:28,439
+Isso parece que deve ser uma grande melhoria.
+
+69
+00:04:28,440 --> 00:04:31,759
+Mas quando você simula o embarque em uma aeronave com uma tonelada de matemática real...
+
+70
+00:04:31,760 --> 00:04:34,239
+(em vez de apenas animar de uma forma dramaticamente simplificada)
+
+71
+00:04:34,240 --> 00:04:39,839
+... ou faz experimentos reais, a troca de assentos simplesmente não é grande coisa em comparação com o armazenamento de malas.
+
+72
+00:04:39,840 --> 00:04:43,279
+Pessoas disputando sua única bolsa que não caberia, …
+
+73
+00:04:43,280 --> 00:04:47,319
+… ou tentando embarcar com três malas porque não acham que as regras deveriam se aplicar a elas, …
+
+74
+00:04:47,320 --> 00:04:49,999
+… que também ficam mexendo em pegar seus laptops depois de guardá-los.
+
+75
+00:04:50,000 --> 00:04:52,719
+Esses tipos de atrasos contam muito mais.
+
+76
+00:04:52,720 --> 00:04:56,399
+Então, Window-Middle-Aisle talvez seja um pouquinho mais rápido que aleatório, o que é bom…
+
+77
+00:04:56,400 --> 00:05:01,239
+… e algumas companhias aéreas usam esse método, que faz seus aviões virarem mais rápido do que de trás para frente …
+
+78
+00:05:01,240 --> 00:05:03,759
+… enquanto ainda dá a eles grupos de embarque para jogar  jogos com.
+
+79
+00:05:03,760 --> 00:05:08,279
+A grande maioria das companhias aéreas usa de trás para frente ou da janela do corredor central.
+
+80
+00:05:08,280 --> 00:05:12,839
+Portanto, fique de olho na próxima vez que embarcar em um voo para o qual está acontecendo com você.
+
+81
+00:05:12,840 --> 00:05:14,279
+Mas podemos ir mais longe?
+
+82
+00:05:14,280 --> 00:05:19,319
+Deixando o mundo real: com seus sistemas de classes e pessoas, e desordem e cheiros, …
+
+83
+00:05:19,320 --> 00:05:21,919
+… ascendendo à planície platônica da física, …
+
+84
+00:05:21,920 --> 00:05:26,719
+… onde vacas são esferas e pessoas autômatos celulares que executarão instruções perfeitamente.
+
+85
+00:05:26,720 --> 00:05:32,159
+Aqui, no Celestia, qual é a maneira teoricamente mais rápida de embarcar em um avião?
+
+86
+00:05:32,160 --> 00:05:34,879
+Nesse nível, eis o que é possível:
+
+87
+00:05:34,880 --> 00:05:53,039
+[The Nutcracker Suite, Op.  71a: VIII.  Valsa das Flores]
+
+88
+00:05:53,040 --> 00:05:58,319
+Para realizar este balé, não há grupos de embarque, mas todos ficam em uma ordem exata.
+
+89
+00:05:58,320 --> 00:06:03,679
+De trás para a frente em fileiras alternadas, em lados alternados, janelas para dentro.
+
+90
+00:06:03,680 --> 00:06:06,479
+Isso maximiza os desvios e os paralelos.
+
+91
+00:06:06,480 --> 00:06:08,959
+Embalando as pessoas de forma impecável.
+
+92
+00:06:08,960 --> 00:06:12,799
+Testemunhar tal glória é demais para as mentes mortais suportarem por muito tempo…
+
+93
+00:06:12,800 --> 00:06:16,399
+… então somos forçados a descer de volta ao mundo da carne.
+
+94
+00:06:16,400 --> 00:06:18,879
+A cacofonia!  O cheiro!
+
+95
+00:06:18,880 --> 00:06:21,519
+Onde devemos enfiar macacos em um tubo.
+
+96
+00:06:21,520 --> 00:06:26,159
+Macacos com famílias, onde separar seus filhotes convida ao caos e à limpeza.
+
+97
+00:06:26,160 --> 00:06:29,119
+Onde os incentivos econômicos dividem e lucram.
+
+98
+00:06:29,120 --> 00:06:38,239
+E onde, mesmo no seu melhor, a incapacidade humana de seguir instruções é de tirar o fôlego.
+
+99
+00:06:38,240 --> 00:06:43,999
+Aqui, as pessoas, ao verem o 'grupo de embarque 123', ficariam loucas.
+
+100
+00:06:44,000 --> 00:06:48,479
+Muito menos a impossibilidade de tentar colocá-los na fila em ordem.
+
+101
+00:06:48,480 --> 00:06:54,479
+E onde mesmo que mais rápido, como assistir segundos de um relógio, as pessoas reclamariam que era mais lento.
+
+102
+00:06:54,480 --> 00:06:55,759
+[Grey suspira]
+
+103
+00:06:55,760 --> 00:06:57,839
+Esses presentes que não deveríamos ter.
+
+104
+00:06:57,840 --> 00:07:03,419
+Mas existe uma maneira de modificar essa perfeição para melhorar nosso destino neste plano?
+
+105
+00:07:03,420 --> 00:07:03,919
+Sim.
+
+106
+00:07:03,920 --> 00:07:10,479
+Em vez da ordem exata, o primeiro grupo de embarque seria um lado do avião em todas as outras fileiras.
+
+107
+00:07:10,480 --> 00:07:14,799
+Grupo de embarque o segundo, o outro lado, depois de volta e de volta.
+
+108
+00:07:14,800 --> 00:07:18,239
+Um dois três quatro.  Não podemos pedir mais às pessoas.
+
+109
+00:07:18,240 --> 00:07:24,239
+Essa sombra do método perfeito tem a chance de funcionar no mundo real com benefícios como:
+
+110
+00:07:24,240 --> 00:07:27,199
+permitir que humanos com famílias e amigos embarquem juntos, …
+
+111
+00:07:27,200 --> 00:07:29,999
+dar às companhias aéreas grupos de embarque com os quais eles ainda podem brincar, …
+
+112
+00:07:30,000 --> 00:07:32,959
+e ainda ser mais rápido que os métodos atuais.
+
+113
+00:07:32,960 --> 00:07:36,319
+Alcançando a perfeição, sempre ficaremos aquém.
+
+114
+00:07:36,320 --> 00:07:39,920
+Mas talvez consigamos nos aproximar no processo.
+

@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:03,299
+El video principal habla sobre un modelo de reproducción genética
+
+2
+00:00:03,300 --> 00:00:05,679
+de cómo hacer que las máquinas aprendan.
+
+3
+00:00:05,680 --> 00:00:08,799
+Este método es más simple de explicar o simplemente mostrar.
+
+4
+00:00:08,800 --> 00:00:13,459
+Aquí hay una máquina que aprende a caminar o jugar a Mario o saltar muy alto.
+
+5
+00:00:13,460 --> 00:00:17,059
+Un código genético es un código más antiguo, pero aún se verifica
+
+6
+00:00:17,060 --> 00:00:20,719
+y personalmente sospecho que en el futuro los modelos genéticos resurgirán a medida que el
+
+7
+00:00:20,720 --> 00:00:23,339
+poder de cómputo se acerque a los pantalones locos.
+
+8
+00:00:23,340 --> 00:00:27,459
+Sin embargo, lo que está de moda actualmente es el aprendizaje profundo y las redes neuronales recursivas, y
+
+9
+00:00:27,460 --> 00:00:29,859
+ahí es donde el álgebra lineal realmente aumenta
+
+10
+00:00:29,860 --> 00:00:33,799
+y la explicabilidad en un video breve realmente disminuye.
+
+11
+00:00:33,800 --> 00:00:35,939
+Pero si tuviera que explicar cómo funcionan
+
+12
+00:00:35,940 --> 00:00:38,939
+en una nota al pie, solo para que conste, sería así:
+
+13
+00:00:38,940 --> 00:00:41,699
+No hay almacén infinito.  Solo un estudiante.
+
+14
+00:00:41,700 --> 00:00:46,599
+Teacher Bot tiene la misma prueba, pero esta vez Builder Bot es 'Dial Adjustment Bot'
+
+15
+00:00:46,600 --> 00:00:51,639
+donde cada dial es cuán sensible es una conexión en la cabeza del estudiante bot.
+
+16
+00:00:51,640 --> 00:00:55,439
+Hay muchas conexiones en su cabeza, así que muchos diales.
+
+17
+00:00:55,440 --> 00:00:56,899
+Mucho mucho.
+
+18
+00:00:56,900 --> 00:01:01,459
+El Teacher Bot le muestra una foto al Student Bot y el Dial Adjustment Bot ajusta ese dial
+
+19
+00:01:01,460 --> 00:01:05,119
+más fuerte o más débil para acercar al Student Bot a la respuesta.
+
+20
+00:01:05,120 --> 00:01:10,599
+Es un poco como ajustar el dial en una radio.  ¿Sigue siendo una cosa?  ¿Los autos todavía tienen radios?
+
+21
+00:01:10,600 --> 00:01:13,939
+No sé, de todos modos.  Es posible que no sepa la frecuencia exacta de la estación,
+
+22
+00:01:13,940 --> 00:01:17,699
+pero puede saber si se está acercando o alejando.
+
+23
+00:01:17,700 --> 00:01:22,519
+Es así pero con cien mil diales y muchas matemáticas,
+
+24
+00:01:22,520 --> 00:01:24,479
+y eso es solo para una pregunta de prueba.
+
+25
+00:01:24,480 --> 00:01:27,339
+Cuando Teacher Bot presenta la siguiente foto,
+
+26
+00:01:27,340 --> 00:01:32,399
+Dial Adjustment Bot necesita ajustar todos los diales para que Student Bot pueda responder ambas preguntas.
+
+27
+00:01:32,400 --> 00:01:34,619
+A medida que la prueba se hace más larga,
+
+28
+00:01:34,620 --> 00:01:39,899
+esto se convierte en una cantidad increíble de matemáticas y ajustes finos para el bot de ajuste del dial.
+
+29
+00:01:39,900 --> 00:01:42,839
+Pero cuando termina, hay un robot estudiante que
+
+30
+00:01:42,840 --> 00:01:46,359
+puede hacer un buen trabajo al reconocer nuevas fotos,
+
+31
+00:01:46,360 --> 00:01:50,339
+aunque todavía sufre algunos de los problemas mencionados en el video principal.
+
+32
+00:01:50,340 --> 00:01:55,839
+De todos modos, esa es la primera introducción de la mayoría de los bebés a las redes neuronales que jamás escuchará.
+
+33
+00:01:55,840 --> 00:01:58,719
+Si le parece interesante y le gustan las matemáticas y el código
+
+34
+00:01:58,720 --> 00:02:01,179
+, profundice en los detalles;
+
+35
+00:02:01,180 --> 00:02:04,879
+las máquinas que aprenden son el futuro de todo.
+
+36
+00:02:04,880 --> 00:02:08,038
+Tal vez, literalmente, el futuro de todo,
+
+37
+00:02:08,039 --> 00:02:12,098
+y dado lo que les hemos hecho pasar, que los bots tengan piedad de todos nosotros.
+

@@ -1,0 +1,504 @@
+1
+00:00:03,025 --> 00:00:07,032
+Bienvenidos al problema de la Elección Uninominal Mayoritaría", explicada por CGPgrey
+
+2
+00:00:07,033 --> 00:00:11,025
+La familia real tiene un problema. Pero esta no es una familia real cualquiera, son los leones
+
+3
+00:00:11,026 --> 00:00:13,025
+gobernantes de la jungla desde tiempos inmemoriables
+
+4
+00:00:13,026 --> 00:00:17,031
+Hay muchas protestas sobre el poder absoluto de la monarquía y los ciudadanos del Reino Animal
+
+5
+00:00:17,032 --> 00:00:19,015
+quieren tener voz en la manera en la que son gobernados
+
+6
+00:00:19,016 --> 00:00:23,023
+Cediendo a las presiones, León ha abdicado a la corona para que su puesto sea elegido electoralmente.
+
+7
+00:00:23,024 --> 00:00:27,278
+Para asegurar una transición suave, y porque es mucho más apañada que su marido, la reina
+
+8
+00:00:27,279 --> 00:00:30,688
+leona se mantiene en el trono con el poder de establecer las reglas del sistema electoral en
+
+9
+00:00:30,689 --> 00:00:32,097
+su reino.
+
+10
+00:00:32,098 --> 00:00:36,000
+Ella ha decidido que todos los ciudadanos tengan un voto, solo uno, y que el candidato con
+
+11
+00:00:36,001 --> 00:00:38,002
+la mayoría de los votos obtiene la corona.
+
+12
+00:00:38,003 --> 00:00:41,007
+Este método de votaciones es llamado Elección Uninominal Mayoritaria (EUM)
+
+13
+00:00:41,008 --> 00:00:43,091
+o El ganador se lo lleva todo.
+
+14
+00:00:43,092 --> 00:00:46,056
+El sistema es simple, justo y lógico. Verdad?
+
+15
+00:00:46,057 --> 00:00:47,058
+En realidad, no.
+
+16
+00:00:47,059 --> 00:00:49,006
+Es una idea terrible, muy mala.
+
+17
+00:00:49,007 --> 00:00:49,043
+¿Por que?
+
+18
+00:00:49,044 --> 00:00:53,002
+Bien, para ver los problemas de este sistema vamos a ver como se desarrolla la primera elección
+
+19
+00:00:53,003 --> 00:00:54,578
+en el Reino Animal
+
+20
+00:00:54,579 --> 00:00:58,006
+Son momentos excitantes para la democracia y siete esperanzados candidatos se presentan
+
+21
+00:00:58,007 --> 00:01:02,001
+para representar sus partidos. Se esfuerzan al máximo, los ciudadanos se lanzan
+
+22
+00:01:02,002 --> 00:01:05,042
+a las urnas y se contabilizan los votos. Los resultados quedan así:
+
+23
+00:01:05,043 --> 00:01:06,088
+La tortuga obtiene el 9% de los votos
+
+24
+00:01:06,089 --> 00:01:08,014
+Mono obtiene el 18%
+
+25
+00:01:08,015 --> 00:01:09,034
+Gorila el 19%
+
+26
+00:01:09,035 --> 00:01:10,042
+Búho el 13%
+
+27
+00:01:10,043 --> 00:01:11,042
+Leopardo el 20%
+
+28
+00:01:11,043 --> 00:01:12,070
+Tigre el 15%
+
+29
+00:01:12,071 --> 00:01:13,050
+y Serpiente el 6%
+
+30
+00:01:13,051 --> 00:01:16,006
+Bajo las reglas de este sistema de votaciones, Leopardo es coronado ganadora
+
+31
+00:01:16,007 --> 00:01:17,060
+y puede gobernar
+
+32
+00:01:17,061 --> 00:01:21,044
+Pero mira de nuevo los resultados, y verás el primer problema de este sistema:
+
+33
+00:01:21,045 --> 00:01:26,000
+La minoría gobierna. La inmensa mayoría de los ciudadanos -80%- querían otro candidato como rey, pero
+
+34
+00:01:26,001 --> 00:01:30,074
+aún así ganó Leopardo. Había solo 7 candidatos en estas elecciones pero puedes imaginar que de haber
+
+35
+00:01:30,075 --> 00:01:34,017
+20, ella podría obtener el 5% de los votos, y aún ser elegida.
+
+36
+00:01:34,018 --> 00:01:37,078
+Este problema: gobierna una minoría, es solo el principio.
+
+37
+00:01:37,079 --> 00:01:40,064
+El segundo problema con este sistema es que pasado el tiempo suficiente resulta en
+
+38
+00:01:40,065 --> 00:01:43,035
+un inevitable, ineludible sistema bipartidista
+
+39
+00:01:43,036 --> 00:01:43,084
+Por qué?
+
+40
+00:01:43,085 --> 00:01:47,004
+Para verlo vamos a simular que ocurriría despues de unos cuantos ciclos electorales
+
+41
+00:01:47,005 --> 00:01:51,027
+Leopardo ha pasado su mandato en la joven democracia. Solo
+
+42
+00:01:51,028 --> 00:01:54,999
+ahora, todos los ciudadanos del Reino Animal recuerdan los resultados de las últimas elecciones.
+
+43
+00:01:55,000 --> 00:01:58,578
+Esta información cambia su comportamiento. Especialmente los votantes de Serpiente y Tortuga, los cuales
+
+44
+00:01:58,579 --> 00:02:02,118
+deben enfrentarse a la realidad de apoyaron a candidatos extremistas poco deseables que no tienen oportunidad
+
+45
+00:02:02,119 --> 00:02:03,000
+de ganar.
+
+46
+00:02:03,001 --> 00:02:06,044
+Los votantes de Tortuga, que estuvieron infelices bajo el mandato de Leopardo, deciden apoyar al candidato que ha
+
+47
+00:02:06,045 --> 00:02:08,032
+obtenido la mayor oportunidad de ganar, Gorila.
+
+48
+00:02:08,033 --> 00:02:12,348
+Ahora los votantes de Serpiente quieren votar por Tigre, que es el candidato con el que tienen más cosas en común
+
+49
+00:02:12,349 --> 00:02:15,078
+pero estan preocupados porque Leopardo ha iniciado una campaña negativa contra sus
+
+50
+00:02:15,079 --> 00:02:17,016
+competidores.
+
+51
+00:02:17,017 --> 00:02:20,075
+los votantes de Serpiente, a los que no les gusta la idea de un mandato de Gorila, votan estratégicamente por Leopardo.
+
+52
+00:02:20,076 --> 00:02:24,568
+Los resultados finales quedan así, con Leopardo obteniendo el 26% de los votos y Gorila
+
+53
+00:02:24,569 --> 00:02:26,007
+28%, convirtiéndole en el nuevo rey.
+
+54
+00:02:26,008 --> 00:02:30,016
+Serpiente y Tortuga, viendo la disminución de sus resultados y el coste de las campañas deciden
+
+55
+00:02:30,017 --> 00:02:32,003
+dejar de presentarse a futuras elecciones.
+
+56
+00:02:32,004 --> 00:02:34,488
+Lo que comenzó siendo un sistema de 7 candidatos se ha rebajado ahora a 5.
+
+57
+00:02:34,489 --> 00:02:36,008
+Avance rápido a las siguientes elecciones:
+
+58
+00:02:36,009 --> 00:02:40,044
+Solo hay cinco candidatos, y otra vez los votantes se acuerdan de lo que pasó las últimas elecciones
+
+59
+00:02:40,045 --> 00:02:44,036
+En estas, son los votantes Búho los que se dan cuenta de que su candidato no puede ganar. Ellos son
+
+60
+00:02:44,037 --> 00:02:47,072
+votantes de centro y menos ideológicos que los del resto del Reino Animal, debido
+
+61
+00:02:47,073 --> 00:02:49,085
+a que realmente no les gusta ni Gorila ni Leopardo.
+
+62
+00:02:49,086 --> 00:02:53,016
+Ambos, Gorila y Leopardo saben esto, así que lanzan campañas negativas
+
+63
+00:02:53,017 --> 00:02:54,080
+para hacer énfasis en los miedos de los centristas.
+
+64
+00:02:54,081 --> 00:02:58,013
+Los votantes de Búho reparten sus votos, y están mayormente votando contra el candidato que menos les gusta
+
+65
+00:02:58,014 --> 00:03:00,047
+en lugar de apoyar el candidato que quieren.
+
+66
+00:03:00,048 --> 00:03:05,408
+Después de esta elección Gorila obtiene 33% de los votos y Leopardo 34% haciéndole ganador.
+
+67
+00:03:05,409 --> 00:03:08,088
+Búho, como hicieron Tortuga y Serpiente antes que él se retira de las elecciones.
+
+68
+00:03:08,089 --> 00:03:13,158
+En las últimas elecciones vimos que los votantes de Mono y Tigre estaban descontentos. Ambos están
+
+69
+00:03:13,159 --> 00:03:17,017
+de acuerdo con los candidatos que han apoyado, pero deben comprometerse. Los votantes de Mono se entienden
+
+70
+00:03:17,018 --> 00:03:21,238
+con Gorila en algunos temas pero realmente no quieren a Leopardo. Los votantes de Tigre están de acuerdo con
+
+71
+00:03:21,239 --> 00:03:24,054
+Leopardo en algunos temas, pero no les gusta nada Gorila.
+
+72
+00:03:24,055 --> 00:03:27,074
+Estratégicamente (los votantes de Mono y Tigre) abandonan a su candidato preferido por miedo al que no quieren
+
+73
+00:03:27,075 --> 00:03:29,003
+en ningún caso que se convierta en rey.
+
+74
+00:03:29,004 --> 00:03:34,001
+Los resultados finales son: Leopardo 49% y Gorila 51% siendó este último coronado como rey.
+
+75
+00:03:34,002 --> 00:03:37,057
+Mono y Tigre son los últimos candidatos en retirarse dejando al Reino Animal
+
+76
+00:03:37,058 --> 00:03:39,077
+con un sistema bipartidista.
+
+77
+00:03:39,078 --> 00:03:43,024
+Debido a los votantes de Búho, centristas e influenciables, en futuras elecciones Leopardo podría
+
+78
+00:03:43,025 --> 00:03:47,018
+coronarse, después Gorila gana otra vez, solo para perder con Leopardo otra vez, pero
+
+79
+00:03:47,019 --> 00:03:48,083
+el sistema bipartidista nunca cambia.
+
+80
+00:03:48,084 --> 00:03:52,022
+Los ciudadanos del Reino Animal tienen un sistema así, no por ser votantes vagos
+
+81
+00:03:52,023 --> 00:03:55,057
+o porque es lo que realmente querían si no por las matemáticas de como
+
+82
+00:03:55,058 --> 00:03:56,006
+está montado el sistema.
+
+83
+00:03:56,007 --> 00:04:01,086
+Inevitablemente, dado el tiempo suficiente, este sistema conduce al bipartidismo.
+
+84
+00:04:01,087 --> 00:04:05,032
+Pero las elecciones del los votantes todavía no han cambiado desde la primera elección. Solo
+
+85
+00:04:05,033 --> 00:04:08,628
+2/5 de ellos querían a Leopardo o a Gorila como primera opción y 3/5 quieren
+
+86
+00:04:08,629 --> 00:04:10,036
+alguien distinto como primera opción
+
+87
+00:04:10,037 --> 00:04:14,268
+Es esta mayoría de votantes la que se se ha desinteresado del proceso democrático porque
+
+88
+00:04:14,269 --> 00:04:16,083
+sienten que no tienen un medio significativo de expresar sus preferencias reales.
+
+89
+00:04:16,084 --> 00:04:21,016
+A partir de aquí solo va a peor. Si los ciudadanos del Reino Animal son divididos en dos grupos
+
+90
+00:04:21,017 --> 00:04:24,033
+antes de votar, son susceptibles a manipulaciones(electorales*?).
+
+91
+00:04:24,034 --> 00:04:28,056
+Este tipo de manipulación electoral es compleja, pero imagina un bloque de 10 casas con un votante cada una.
+
+92
+00:04:28,057 --> 00:04:31,083
+3 son votantes de Leopardo, 3 son votantes de Gorila y 4 son votantes de Búho.
+
+93
+00:04:31,084 --> 00:04:35,053
+Si los votantes son divididos en grupos antes de que voten, quien decida dónde se dibujan las líneas (distritos?)
+
+94
+00:04:35,054 --> 00:04:38,043
+tiene una enorme influencia sobre quien pueda ganar las elecciones.
+
+95
+00:04:38,044 --> 00:04:42,073
+Por ejemplo, si agrupas los 3 votantes de Leopardo con los 2 de Búho y haces lo mismo
+
+96
+00:04:42,074 --> 00:04:47,005
+con los 3 votantes de Gorila puedes acabar con Búho, aunque los votantes de Búho
+
+97
+00:04:47,006 --> 00:04:51,045
+tienen la mayoría y deberían ganar bajo este sistema electoral.
+
+98
+00:04:51,046 --> 00:04:54,042
+Si los partidos de Gorila y Leopardo están al cargo cuando se establecen los límites electorales
+
+99
+00:04:54,043 --> 00:04:57,064
+tienen un gran incentivo para hacerse con puestos
+
+100
+00:04:57,065 --> 00:04:59,085
+(más a cerca de esta manipulación electoral en otro video)
+
+101
+00:04:59,086 --> 00:05:03,058
+Bah! dirás, vota a un 3er partido y cambia el sistema!
+
+102
+00:05:03,059 --> 00:05:07,033
+Esto nos trae al final, y posiblemente el peor de los males de este sistema de elección:
+
+103
+00:05:07,034 --> 00:05:08,064
+El partido de voto no Útil
+
+104
+00:05:08,065 --> 00:05:12,388
+Imagínate que han pasado años de gobierno Gorila y Leopardo
+
+105
+00:05:12,389 --> 00:05:16,010
+Tigre decide presentarse a las elecciones . piensa que los votantes están cansados del
+
+106
+00:05:16,011 --> 00:05:18,048
+status-quo y que tiene ciertas oportunidades de ganar.
+
+107
+00:05:18,049 --> 00:05:22,064
+Él monta su campaña electoral, obtiene una sorprendente cantidad de oro en donaciones/financiación y se
+
+108
+00:05:22,065 --> 00:05:25,067
+a la cadena de Información Animal para debatir con los candidatos principales
+
+109
+00:05:25,068 --> 00:05:30,004
+Llega la noche de las elecciones y Tigre obtiene solo el 15% de los votos, mayormente de los
+
+110
+00:05:30,005 --> 00:05:33,698
+votantes d eLeopardo, quienes son los más cercanos a ellos en el espectro político. Fácilmente Gorila vence a
+
+111
+00:05:33,699 --> 00:05:35,037
+Leopardo y se proclama rey.
+
+112
+00:05:35,038 --> 00:05:39,035
+El sistema de votaciones en su peor aspecto: Cuanto mejor lo haga el 3er candidato
+
+113
+00:05:39,036 --> 00:05:43,138
+más daña a sus propios votantes garantizando una pérdida al partido con el que más tienen en común
+
+114
+00:05:43,139 --> 00:05:45,037
+y la victoria para el partido que menos quieren.
+
+115
+00:05:45,038 --> 00:05:49,090
+Y no lo olvides, Gorila no es tonto: él sabe como funciona el sistema. ¿De dónde crees
+
+116
+00:05:49,091 --> 00:05:52,508
+que venía parte del oro en la financiación?
+
+117
+00:05:52,509 --> 00:05:55,003
+Mientras tanto la Reina Leona está disgustada
+
+118
+00:05:55,004 --> 00:05:58,085
+Ha estado observando las elecciones y ve que es un mal sistema para su pueblo. Y
+
+119
+00:05:58,086 --> 00:06:01,084
+ha estado pensando, ¿qué hace a un buen sistema electoral?...
+
+120
+00:06:01,085 --> 00:06:06,008
+Debería de garantizar que vas a votar al candidato que más te guste sin preocuparte
+
+121
+00:06:06,009 --> 00:06:08,258
+Una mayor diversidad de representantes es mejor.
+
+122
+00:06:08,259 --> 00:06:09,096
+El sistema no debería ser susceptible de manipulación electoral.
+
+123
+00:06:09,097 --> 00:06:13,037
+Y debería estar abierto a nuevos partidos
+
+124
+00:06:13,038 --> 00:06:16,568
+Afortunadamente para la Reina, hay muchos sistemas de voto para elegir, incluído
+
+125
+00:06:16,569 --> 00:06:20,054
+el voto alternativo. Pero eso tendrá que ser discutido en detalle en otro momento.
+
+126
+00:06:20,055 --> 99:59:59,999
+Muchas gracias
+

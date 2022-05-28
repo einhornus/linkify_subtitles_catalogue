@@ -1,0 +1,334 @@
+1
+00:00:01,790 --> 00:00:05,539
+A Rainha Leoa do Reino Animal não está contente.
+Ela introduziu recentemente eleições para o
+
+2
+00:00:05,540 --> 00:00:08,409
+cargo de Rei usando o sistema
+eleitorial de Maioria Relativa.
+
+3
+00:00:08,410 --> 00:00:12,569
+Embora o Reino tenha começado com uma democracia
+saudável, com muitos candidatos ao cargo de Rei,
+
+4
+00:00:12,570 --> 00:00:16,739
+esta rapidamente transformou-se numa governação
+bipartidária, com os cidadãos não gostando de
+
+5
+00:00:16,740 --> 00:00:20,039
+nenhum partido, mas confinados a este sistema
+devido a um problema chamado efeito Spoiler.
+
+6
+00:00:20,040 --> 00:00:24,238
+No entanto, um dos súbditos da Rainha Leoa
+de uma terra distante, Canguru, tem uma solução:
+
+7
+00:00:24,239 --> 00:00:26,159
+Voto Alternativo.
+Qual é a diferença?
+
+8
+00:00:26,160 --> 00:00:31,919
+Para a descobrir, vamos seguir um eleitor num dia
+de eleição, Esquilo Vermelho, em ambos os sistemas.
+
+9
+00:00:31,920 --> 00:00:36,519
+Há cinco candidatos para o cargo de Rei, dois
+pertencentes aos grandes partidos, Gorila e Leopardo,
+
+10
+00:00:36,520 --> 00:00:39,049
+e três outros candidatos,
+Tartaruga, Coruja e Tigre.
+
+11
+00:00:39,050 --> 00:00:43,219
+Sob o sistema de Maioria Relativa, Esquilo Vermelho
+recebe uma cédula onde escolhe apenas um candidato.
+
+12
+00:00:43,220 --> 00:00:46,859
+Esquilo Vermelho gosta mesmo de Tartaruga, e
+até faz campanha por ela. Contudo, ele sabe
+
+13
+00:00:46,860 --> 00:00:49,779
+que o seu novo vizinho,
+Esquilo Cinzento, vai votar Gorila.
+
+14
+00:00:49,780 --> 00:00:52,969
+"E quanto aos outros animais?" começa-se
+a questionar Esquilo Vermelho.
+
+15
+00:00:52,970 --> 00:00:54,689
+Em quem irão eles votar?
+
+16
+00:00:54,690 --> 00:00:57,689
+Os debates no Canal de Notícias dos Animais
+eram sempre entre os partidos principais,
+
+17
+00:00:57,690 --> 00:01:00,989
+por isso Esquilo Vermelho acha que vai ser
+uma eleição renhida entre Gorila e Leopardo.
+
+18
+00:01:00,990 --> 00:01:04,679
+Enquanto ele é indiferente a Gorila, 
+ele tem um medo de morte de Leopardo.
+
+19
+00:01:04,680 --> 00:01:06,219
+Como só consegue
+escolher um único candidato
+
+20
+00:01:06,220 --> 00:01:10,279
+ele vota Gorila na esperança de
+prevenir Leopardo de se tornar Rei.
+
+21
+00:01:10,280 --> 00:01:14,559
+Isto é chamado de votação estratégia, e é
+uma necessidade sob o sistema de Maioria Relativa.
+
+22
+00:01:14,560 --> 00:01:18,089
+Mas agora vamos analisar o Voto Alternativo,
+que Canguru explica a Esquilo Vermelho.
+
+23
+00:01:18,090 --> 00:01:22,049
+Em vez de escolher um e um só candidato,
+o eleitor pode classificá-los por ordem,
+
+24
+00:01:22,050 --> 00:01:25,009
+do seu favorito para aquele de quem gosta menos.
+Ele dirige-se para as urnas e recebe
+
+25
+00:01:25,010 --> 00:01:28,548
+a mesma cédula de voto anterior, mas desta vez
+escolhe Tartaruga em primeiro lugar,
+
+26
+00:01:28,549 --> 00:01:32,849
+Coruja em segundo, e Gorila em terceiro.
+Como não gosta nem de Leopardo nem de Tigre,
+
+27
+00:01:32,850 --> 00:01:35,529
+não preenche mais nada e entrega o seu voto.
+
+28
+00:01:35,530 --> 00:01:37,959
+A partir daqui, Esquilo Vermelho não se
+importa muito com o que acontece.
+
+29
+00:01:37,960 --> 00:01:42,489
+Ele tem outras coisas em que pensar
+e vai-se embora. Mas tu, caro cidadão,
+
+30
+00:01:42,490 --> 00:01:46,449
+queres saber como os votos são contados. É assim:
+Tartaruga, apesar de popular entre alguns cidadãos,
+
+31
+00:01:46,450 --> 00:01:51,719
+fica em último lugar com 5%
+dos votos e é eliminada da eleição.
+
+32
+00:01:51,720 --> 00:01:54,139
+Como os eleitores classificaram os candidatos por
+ordem, podemos determinar o que teria acontecido
+
+33
+00:01:54,140 --> 00:01:57,429
+se Tartaruga não se tivesse candidatado.
+Sem Tartaruga, eleitores como Esquilo Vermelho
+
+34
+00:01:57,430 --> 00:02:01,059
+teriam votado Coruja em alternativa, e por
+isso os seus votos são transferidos para ela,
+
+35
+00:02:01,060 --> 00:02:04,559
+como se Tartaruga nunca se tivesse candidatado.
+Esta é a razão por que o Voto Alternativo
+
+36
+00:02:04,560 --> 00:02:08,219
+é por vezes designado de Votação com Turnos
+Instantâneos. É capaz de simular várias eleições
+
+37
+00:02:08,220 --> 00:02:11,688
+onde o candidato menos votado em cada ronda
+é eliminado, sem se perder tempo e dinheiro
+
+38
+00:02:11,689 --> 00:02:15,818
+necessários para organizar outras eleições.
+
+39
+00:02:15,819 --> 00:02:18,918
+O método do Voto Alternativo continua a
+eliminar o candidato menos votado até
+
+40
+00:02:18,919 --> 00:02:21,908
+que um candidato finalmente ganhe uma
+maioria ou seja o único que resta.
+
+41
+00:02:21,909 --> 00:02:26,539
+Como ainda ninguém tem uma maioria, o próximo
+candidato menos votado, Tigre, é eliminado.
+
+42
+00:02:26,540 --> 00:02:29,208
+Votantes em Tigre, escolheram Leopardo como sua
+segunda opção, por isso este fica com os seus votos.
+
+43
+00:02:29,209 --> 00:02:33,929
+Na última ronda, Gorila é eliminado.
+Votantes em Gorila escolheram Coruja como sua
+
+44
+00:02:33,930 --> 00:02:38,558
+segunda opção por isso esta fica com os
+seus votos, ganha uma maioria e é coroada Rei.
+
+45
+00:02:38,559 --> 00:02:42,119
+O Voto Alternativo é um sistema melhor porque
+produz vencedores com que um número maior
+
+46
+00:02:42,120 --> 00:02:45,438
+de eleitores concorda.
+Enquanto o Voto Alternativo tem falhas,
+
+47
+00:02:45,439 --> 00:02:49,429
+é importante salientar que qualquer problema que o
+Voto Alternativo tem, a Maioria Relativa também o tem.
+
+48
+00:02:49,430 --> 00:02:54,168
+São ambos susceptíveis a "gerrymandering",
+não são sistemas proporcionais, nenhum consegue
+
+49
+00:02:54,169 --> 00:02:58,619
+garantir um vencedor Condorcet (um facto odiado pelos
+matemáticos mas não há tempo para explicações),
+
+50
+00:02:58,620 --> 00:03:01,528
+e ao longo do tempo ambos tendem
+para um sistema biparditário.
+
+51
+00:03:01,529 --> 00:03:06,038
+No entanto, o Voto Alternativo tem uma enorme
+vantagem sobre a Maioria Relativa, o que faz
+
+52
+00:03:06,039 --> 00:03:09,248
+deste matemáticamente superior:
+não há efeito Spoiler!
+
+53
+00:03:09,249 --> 00:03:14,028
+Imaginemos uma última eleição, com os dois
+candidatos principais, Gorila e Leopardo,
+
+54
+00:03:14,029 --> 00:03:19,348
+e Leopardo pode ganhar com 55% dos votos. Mas
+o candidato dum terceiro partido, Tigre, aparece.
+
+55
+00:03:19,349 --> 00:03:23,429
+Tigre consegue convencer 15% dos
+votantes em Leopardo a apoiá-lo.
+
+56
+00:03:23,430 --> 00:03:27,928
+Sob a Maioria Relativa, Gorila vence apesar
+da maioria dos eleitores não o querer como Rei.
+
+57
+00:03:27,929 --> 00:03:30,988
+Sob o Voto Alternativo, como todos os
+que votaram Tigre escolheram Leopardo em
+
+58
+00:03:30,989 --> 00:03:34,239
+segundo lugar, Leopardo ganha na
+mesma porque uma maioria dos cidadãos
+
+59
+00:03:34,240 --> 00:03:36,958
+do Reino Animal prefeririam
+vê-lo no governo do que Gorila.
+
+60
+00:03:36,959 --> 00:03:42,038
+Com o Voto Alternativo, cidadãos conseguem
+apoiar e fazer crescer partidos mais pequenos
+
+61
+00:03:42,039 --> 00:03:45,668
+com que concordam sem terem de se preocupar
+que alguém de que não gostem ganhe a eleição.
+
+62
+00:03:45,669 --> 00:03:49,838
+Depois de examinar as diferenças entre os
+dois sistemas eleitorais, a Rainha Leoa
+
+63
+00:03:49,839 --> 00:03:55,098
+escolhe o Voto Alternativo para eleger o Rei
+e todos ficam mais felizes. Bem, quase todos.
+
+64
+00:03:55,099 --> 00:04:00,298
+Os dois partidos principais não podem ser
+tão complacentes como antes e têm de
+
+65
+00:04:00,299 --> 00:04:02,818
+lutar muito mais pelos seus votos.
+
+66
+00:04:02,819 --> 00:04:05,848
+Isto foi O Voto Alternativo
+explicado por mim, C. G. P. Grey.
+
+67
+00:04:05,849 --> 00:04:23,258
+Muito obrigado pela atenção.
+
+68
+00:04:23,259 --> 00:04:25,909
+Traduzido por Guilherme Simões
+

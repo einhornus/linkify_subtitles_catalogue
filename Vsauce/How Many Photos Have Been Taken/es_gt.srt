@@ -1,0 +1,326 @@
+1
+00:00:00,440 --> 00:00:07,838
+Hola, Vsauce.  Miguel aquí.
+En 1826, esta se convirtió en la primera fotografía
+
+2
+00:00:07,839 --> 00:00:13,939
+jamás tomada.
+Y en 1992, esta se convirtió en la primera
+
+3
+00:00:13,940 --> 00:00:19,969
+imagen subida a la web.
+Pero, ¿cuántas fotografías hemos tomado todos, en total, a lo
+
+4
+00:00:19,970 --> 00:00:27,249
+largo de toda la historia?
+Bueno, 1000memories investigó esta misma
+
+5
+00:00:27,250 --> 00:00:30,959
+pregunta.
+Echaron un vistazo a la cantidad de cámaras digitales
+
+6
+00:00:30,960 --> 00:00:36,889
+actualmente en uso, el uso típico de una
+cámara digital, así como la cantidad de películas analógicas
+
+7
+00:00:36,890 --> 00:00:42,759
+y suministros de revelado de películas utilizados por la
+industria desde el siglo XIX.
+
+8
+00:00:42,760 --> 00:00:52,169
+Tabulados en total, estimaron que
+hemos tomado 3,5 billones de fotografías, 4
+
+9
+00:00:52,170 --> 00:00:59,029
+mil millones de las cuales se tomaron solo este año.
+Estamos tomando más fotografías que
+
+10
+00:00:59,030 --> 00:01:03,878
+nunca debido a la proliferación de cámaras digitales asequibles y fáciles de usar
+.
+
+11
+00:01:03,879 --> 00:01:10,529
+De hecho, tomamos 4 veces más fotografías por día
+que hace 10 años.
+
+12
+00:01:10,530 --> 00:01:16,869
+O piénsalo de esta manera.
+Hoy, cada 2 minutos, la humanidad toma más
+
+13
+00:01:16,870 --> 00:01:22,299
+fotografías de las que tomamos en total en todo el siglo XIX.
+
+14
+00:01:22,300 --> 00:01:28,169
+Por supuesto, la década de 1800 fue hace mucho tiempo.
+Pero si tomamos todos los años desde la invención
+
+15
+00:01:28,170 --> 00:01:36,059
+de la fotografía hasta hoy, el 10% de todas
+esas imágenes, una décima parte de cada imagen fija
+
+16
+00:01:36,060 --> 00:01:42,849
+registrada de nuestro mundo, fue tomada en los últimos 12 meses.
+
+17
+00:01:42,850 --> 00:01:45,989
+Eso es mucho.
+Pero aún más loco es el hecho de que una quinta parte
+
+18
+00:01:45,990 --> 00:01:52,399
+de estas imágenes, el 20% de ellas, terminan todas
+en el mismo lugar: Facebook.
+
+19
+00:01:52,400 --> 00:01:58,059
+Facebook es enorme.
+Pero para ponerlo en perspectiva, ustedes Vsaucers
+
+20
+00:01:58,060 --> 00:02:01,449
+son enormes.
+Si todos nos reunimos en un solo lugar y
+
+21
+00:02:01,450 --> 00:02:08,228
+reclamamos la independencia, nos convertiríamos en el
+152º país más grande de la Tierra.
+
+22
+00:02:08,229 --> 00:02:11,818
+Justo entre Guinea-Bissau y
+Trinidad y Tobago.
+
+23
+00:02:11,819 --> 00:02:19,979
+Pero Facebook, con mil millones de usuarios,
+sería el tercer país más grande de la Tierra.
+
+24
+00:02:19,980 --> 00:02:26,649
+Para tomar un desvío rápido y oscuro, de esos mil millones de
+personas en Facebook, se estima que 30
+
+25
+00:02:26,650 --> 00:02:33,589
+millones de ellos ahora están muertos.
+Y en 100 años, se estima que
+
+26
+00:02:33,590 --> 00:02:39,009
+500 millones de personas en Facebook habrán fallecido.
+
+27
+00:02:39,010 --> 00:02:44,249
+Las historias de Facebook ofrecen una herramienta realmente genial,
+en la que haces clic en un país y luego ves en
+
+28
+00:02:44,250 --> 00:02:48,079
+qué otros países viven la mayoría de sus
+amigos de Facebook.
+
+29
+00:02:48,080 --> 00:02:51,958
+Es divertido ver qué países están más conectados
+con otros, pero todo esto
+
+30
+00:02:51,959 --> 00:02:58,339
+plantea la cuestión de  grados de separación.
+Si tuvieras que elegir a 2 personas al azar en la Tierra,
+
+31
+00:02:58,340 --> 00:03:03,439
+¿cuántos amigos de un amigo de un amigo de
+un amigo necesitarías para conectar a esas
+
+32
+00:03:03,440 --> 00:03:06,929
+2 personas?
+Bueno, en el mundo real, es un poco difícil
+
+33
+00:03:06,930 --> 00:03:11,689
+de averiguar, porque no sabemos quién es
+amigo de quién y hay mucha gente.
+
+34
+00:03:11,690 --> 00:03:16,199
+Pero, afortunadamente, las matemáticas han venido a nuestro rescate.
+
+35
+00:03:16,200 --> 00:03:22,708
+Watts y Strogatz demostraron que se podía calcular
+la ruta promedio entre 2 personas al azar con
+
+36
+00:03:22,709 --> 00:03:26,419
+bastante facilidad.
+En esta ecuación, la "N" representa el
+
+37
+00:03:26,420 --> 00:03:31,579
+número total de personas en la población.
+Y "K" representa el número de amigos
+
+38
+00:03:31,580 --> 00:03:35,599
+que tiene cada persona.
+Si asumimos que cada persona tiene, digamos, 30
+
+39
+00:03:35,600 --> 00:03:42,139
+amigos y asumimos que el 10% de nuestra población
+es demasiado joven para tener amigos reales,
+
+40
+00:03:42,140 --> 00:03:48,439
+resulta que puedes conectar a dos personas en la
+Tierra con solo 6,6 conexiones.
+
+41
+00:03:48,440 --> 00:03:51,598
+Teóricamente.
+Por supuesto, en el mundo real, no todos
+
+42
+00:03:51,599 --> 00:03:56,699
+tenemos el mismo número de amigos, no
+todos tenemos 30 amigos y los grupos aislados hacen que
+
+43
+00:03:56,700 --> 00:04:01,729
+el promedio sea mucho, mucho más alto.
+Por supuesto, hay lugares del mundo no real,
+
+44
+00:04:01,730 --> 00:04:06,299
+donde estas conexiones son más fáciles de seguir.
+Por ejemplo, Facebook.
+
+45
+00:04:06,300 --> 00:04:11,639
+El año pasado, el equipo de datos de Facebook publicó dos
+documentos que mostraban que entre todos los
+
+46
+00:04:11,640 --> 00:04:21,159
+usuarios de Facebook en ese momento, la distancia promedio
+entre dos usuarios aleatorios era de solo 4,74 amigos.
+
+47
+00:04:21,160 --> 00:04:25,849
+Twitter es aún más estricto.
+Se ha demostrado que dos usuarios aleatorios
+
+48
+00:04:25,850 --> 00:04:31,519
+de Twitter están conectados por solo 4,67 amigos,
+aunque algunos estudios han demostrado que es tan
+
+49
+00:04:31,520 --> 00:04:37,409
+bajo como 3,5.
+Números como ese pueden hacer que la multitud impersonal
+
+50
+00:04:37,410 --> 00:04:42,409
+parezca bastante íntima.
+Pero una de mis cosas favoritas sobre las multitudes
+
+51
+00:04:42,410 --> 00:04:48,429
+es lo inteligentes que son.
+Wisdom of the Crowds es un fenómeno fascinante,
+
+52
+00:04:48,430 --> 00:04:54,429
+donde el conocimiento colectivo o las conjeturas
+o estimaciones de un gran grupo de personas, cuando se
+
+53
+00:04:54,430 --> 00:04:59,619
+promedian, son mejores que una persona individual
+trabajando sola.
+
+54
+00:04:59,620 --> 00:05:04,739
+Un buen ejemplo de esto es tratar de adivinar
+cuántos caramelos hay en un frasco.
+
+55
+00:05:04,740 --> 00:05:10,909
+Algunas personas sobreestimarán, mientras que
+otras subestimarán, pero colectivamente, cada
+
+56
+00:05:10,910 --> 00:05:16,929
+miembro cancela los errores del otro
+y la estimación promedio del grupo termina
+
+57
+00:05:16,930 --> 00:05:22,509
+siendo más inteligente que la suma de sus partes.
+La demostración de esto de la BBC es fantástica, la
+
+58
+00:05:22,510 --> 00:05:25,429
+he vinculado en la descripción, vale la pena verla.
+
+59
+00:05:25,430 --> 00:05:29,679
+Hicieron que 160 personas adivinaran el número
+de gominolas en un frasco.
+
+60
+00:05:29,680 --> 00:05:37,249
+Las conjeturas oscilaron entre unos pocos cientos y decenas
+de miles, pero el promedio de las 160 conjeturas
+
+61
+00:05:37,250 --> 00:05:46,859
+fue de 4515, a solo 5 frijoles de la respuesta exacta.
+
+62
+00:05:46,860 --> 00:05:51,759
+Es sorprendente pensar que en un
+grupo lo suficientemente grande, los errores y las deficiencias de todos los
+
+63
+00:05:51,760 --> 00:06:00,659
+demás, sin importar cuán molestos sean individualmente, en
+realidad pueden equilibrar y corregir nuestras propias deficiencias.
+
+64
+00:06:00,660 --> 00:06:05,599
+Se siente bien, aunque un poco
+extraño pensar que en un grupo es posible que
+
+65
+00:06:05,600 --> 00:06:12,299
+nadie tenga la razón, pero que todos tengan la razón.
+
+66
+00:06:12,300 --> 00:06:13,239
+Y como siempre,
+
+67
+00:06:13,240 --> 00:06:14,240
+gracias por mirar.
+

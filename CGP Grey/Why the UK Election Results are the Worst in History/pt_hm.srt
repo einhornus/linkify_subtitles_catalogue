@@ -1,0 +1,285 @@
+1
+00:00:00,250 --> 00:00:00,978
+Olá, Internet
+
+2
+00:00:00,979 --> 00:00:05,059
+O Reino Unido teve uma eleição que precisamos falar sobre, por que depois que os debates terminaram, as pessoas
+
+3
+00:00:05,060 --> 00:00:07,778
+votaram e as cédulas foram computadas os resultados pareciam assim:
+
+4
+00:00:07,779 --> 00:00:10,259
+Mas o parlamento acabou parecendo desse jeito:
+
+5
+00:00:10,260 --> 00:00:14,899
+O que não é, exatamente, representativo. E por "não exatamente", eu quero dizer "de jeito nenhum".
+
+6
+00:00:14,900 --> 00:00:19,608
+Vermelho captou 30% dos votos e 36% dos assentos, que é relativamente próximo, mas o restante
+
+7
+00:00:19,609 --> 00:00:24,698
+é loucura: Laranja recebeu 8% dos votos mas conseguiu só um oitavo disso, enquanto os 5% do Amarelo
+
+8
+00:00:24,699 --> 00:00:28,278
+dobrou, e o Roxo recebeu 13% e ganhou neca.
+
+9
+00:00:28,279 --> 00:00:33,669
+Enquanto isso, os 37% do Azul subiram para 51% dos assentos do parlamento. Esse impulso
+
+10
+00:00:33,670 --> 00:00:38,869
+do Azul é ainda maior, se considerarmos que 51% dos assentos dá basicamente
+
+11
+00:00:38,870 --> 00:00:39,799
+100% de controle
+
+12
+00:00:39,800 --> 00:00:40,529
+Como isso aconteceu?
+
+13
+00:00:40,530 --> 00:00:45,049
+No Reino Unido, eleições nacionais não são exatamente nacionais... Elas são um monte de eleições locais.
+
+14
+00:00:45,050 --> 00:00:49,709
+O RU é dividido entre eleitorados, cada um elege seu parlamentar (M.P.)
+
+15
+00:00:49,710 --> 00:00:54,218
+para representá-los. Essa divisão local/nacional é onde o problema começa.
+
+16
+00:00:54,219 --> 00:00:58,339
+Imagine que um parlamento é só três eleitorados e vai ficar fácil de perceber como nem sempre
+
+17
+00:00:58,340 --> 00:01:03,159
+é alinhado com os cidadãos. Algumas pessoas pensam que esse tipo de resultado é OK - "é tudo uma questão de
+
+18
+00:01:03,160 --> 00:01:07,199
+vencer eleições locais", dizem eles. "Cada parlamentar representa seu eleitorado".
+
+19
+00:01:07,200 --> 00:01:11,919
+E enquanto o desequilíbro desse exemplo é extremo, é o mesmo problema em
+
+20
+00:01:11,920 --> 00:01:16,429
+eleições reais, e o mesmo argumento é dado, mas existem dois problemas com isso
+
+21
+00:01:16,430 --> 00:01:17,539
+no mundo real.
+
+22
+00:01:17,540 --> 00:01:23,118
+1. Poucos cidadãos tem ideia de quem é seu parlamentar, e eles só sabem para qual partidos eles votaram;
+
+23
+00:01:23,119 --> 00:01:27,959
+que partido eles querem que represente suas visões a nível nacional. E fingir que
+
+24
+00:01:27,960 --> 00:01:33,749
+é uma eleição local é um pouco insincero. Na realidade é uma eleição para como a
+
+25
+00:01:33,750 --> 00:01:38,429
+nação vai ser governada - não exatamente para quem vai representar uma pequena parte disso.
+
+26
+00:01:38,430 --> 00:01:39,099
+E mesmo se fosse:
+
+27
+00:01:39,100 --> 00:01:43,898
+2. Cada um dos eleitorados são piores em representar seus cidadãos do que o parlamento.
+
+28
+00:01:43,899 --> 00:01:46,449
+tolere este amante de tabelas de dados por um instante, tudo bem?
+
+29
+00:01:46,450 --> 00:01:49,849
+A diferença entre o que um partido recebeu nas urnas e o que eles receberam no parlamento
+
+30
+00:01:49,850 --> 00:01:52,589
+é o total de erro de desrepresentação.
+
+31
+00:01:52,590 --> 00:01:56,669
+Se a gente calculasse todos os erros de todos os partidos e somássemos, podemos dizer que o Parlamento,
+
+32
+00:01:56,670 --> 00:02:03,489
+no total, tem 47% pontos percentuais de desrepresentação. Isso soa mal, mas parece como um
+
+33
+00:02:03,490 --> 00:02:08,738
+arco-íris utópico de diversidade comparado com qualquer eleição local, por que elas têm
+
+34
+00:02:08,739 --> 00:02:17,669
+*um* vencedor. Dos 650 eleitorados, 647 têm uma desrepresentação maior do que
+
+35
+00:02:17,670 --> 00:02:22,429
+o Parlamento. Esses são os únicos três que não têm e são extremamente incomuns por terem
+
+36
+00:02:22,430 --> 00:02:26,269
+tantos de um mesmo tipo de eleitor em um lugar.
+
+37
+00:02:26,270 --> 00:02:32,458
+A maior parte dos lugares parece com o Wrekin, que está perfeitamente no meio de meros 101 pontos
+
+38
+00:02:32,459 --> 00:02:37,199
+errados. Note que o candidato vencedor não alcançou maioria aqui. O que quer dizer que
+
+39
+00:02:37,200 --> 00:02:41,469
+mais da metade dos eleitorados elegeram seus parlamentares com a minoria dos eleitores.
+
+40
+00:02:41,470 --> 00:02:47,659
+O pior foi Belfast do Sul no fim da lista. Comicamente desrepresentada.
+
+41
+00:02:47,660 --> 00:02:51,909
+Menos de um quarto dos eleitores definiram toda a região no Parlamento.
+
+42
+00:02:51,910 --> 00:02:56,119
+Isso é o percentual mais baixo que um parlamentar já foi eleito.
+
+43
+00:02:56,120 --> 00:02:59,818
+Então quando as pessoas discutem que a eleição no RU é um monte de eleições locais
+
+44
+00:02:59,819 --> 00:03:03,639
+1. pessoas não agem dessa forma;
+2. é um argumento ainda mais forte de que as eleições não funcionam por que
+
+45
+00:03:03,640 --> 00:03:05,139
+elas são piores nesse nível.
+
+46
+00:03:05,140 --> 00:03:08,149
+Essas eleições locais são desrepresentativas por causa do terrível sistema de "Maioria Uninominal"
+
+47
+00:03:08,150 --> 00:03:11,809
+(que eu já reclamei fortemente e não posso repetir tudo aqui - assista ao video)
+
+48
+00:03:11,810 --> 00:03:16,318
+mas resumindo: só "funciona" quando cidadãos são limitados a duas escolhas.
+
+49
+00:03:16,319 --> 00:03:21,719
+Votar por um partido que não o maior torna mais provável que o maior vai vencer por uma minoria
+
+50
+00:03:21,720 --> 00:03:24,059
+(o que é exatamente o que aconteceu).
+
+51
+00:03:24,060 --> 00:03:27,119
+Que cidadãos vão continuar votando em partidos menores apesar de saberem que o resultado é contra
+
+52
+00:03:27,120 --> 00:03:32,619
+seus interesses estratégicos demonstra que a sociedade quer representação diversificada, mas esses sucessos
+
+53
+00:03:32,620 --> 00:03:37,298
+é exatamente o que fez esse o sistema parlamentar mais desrepresentativo da História
+
+54
+00:03:37,299 --> 00:03:38,939
+do RU (Reino Unido).
+
+55
+00:03:38,940 --> 00:03:43,089
+Pessoas satisfeitas com esses resultados alegam que o sistema funciona perfeitamente (claro que sim).
+
+56
+00:03:43,090 --> 00:03:44,939
+O time deles venceram.
+
+57
+00:03:44,940 --> 00:03:48,539
+Mas o Governo não é esporte, onde um vencedor singular tem que ser determinado. É um sistema
+
+58
+00:03:48,540 --> 00:03:54,229
+para fazer regras que todo mundo segue, por isso a gente precisa de um sistema que todo mundo concorda que
+
+59
+00:03:54,230 --> 00:03:58,048
+o processo é justo mesmo se os resultados não forem a seu favor.
+
+60
+00:03:58,049 --> 00:04:03,298
+Se você apoia um sistema que aliena pessoas que você não gosta e super-privilegia
+
+61
+00:04:03,299 --> 00:04:08,339
+pessoas que gosta, então não parece que você apoia democracia representativa, parece
+
+62
+00:04:08,340 --> 00:04:14,279
+que você apoia uma forma leve de ditadura, onde um pequeno grupo de pessoas (incluindo você)
+
+63
+00:04:14,280 --> 00:04:16,189
+faz as regras para todo mundo.
+
+64
+00:04:16,190 --> 00:04:22,739
+Mas da forma que está, no dia da eleição, quanto mais pessoas expressarem o que eles querem,
+
+65
+00:04:22,740 --> 00:04:30,119
+pior fica o sistema que faz deles, na melhor das hipóteses, alienados ou irritados, na pior. E NOSSA, NÃO CONSIGO IMAGINAR
+
+66
+00:04:30,120 --> 00:04:30,499
+POR QUE...
+
+67
+00:04:30,500 --> 00:04:35,309
+Isso é reparável. Tem muitas e muitas formas que o RU pode votar. Aqui vão duas
+
+68
+00:04:35,310 --> 00:04:37,159
+que pode inclusive manter os eleitorados
+
+69
+00:04:37,160 --> 00:04:42,719
+E consertar a eleição realmente importa, porque isso é um tipo de grau de governo ilegítimo.
+
+70
+00:04:42,720 --> 00:04:47,989
+E vem acontecendo e deve continuar acontecendo a não ser que esse sistema
+
+71
+00:04:47,990 --> 00:05:00,500
+fundamentalmente quebrado seja mudado.
+

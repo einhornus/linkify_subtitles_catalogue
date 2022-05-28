@@ -1,0 +1,620 @@
+1
+00:00:00,489 --> 00:00:07,668
+Hé, Vsaus.  Michaël hier.  En vandaag gaan we
+een zwart gat in.  Het
+
+2
+00:00:07,669 --> 00:00:13,208
+zal niet comfortabel zijn, maar het zal best
+leuk zijn.  Nu, allereerst: wiskundig
+
+3
+00:00:13,209 --> 00:00:19,069
+gesproken kan alles een zwart gat worden,
+als je het zou comprimeren tot een
+
+4
+00:00:19,070 --> 00:00:24,959
+ruimte die klein genoeg is.  Dat klopt, jij, ik, deze camera -
+alles in het unvierse heeft wat bekend staat
+
+5
+00:00:24,960 --> 00:00:31,969
+als een "Schwarzschild-straal".  Een kleine, kleine
+hoeveelheid ruimte waarin, als je de hele
+
+6
+00:00:31,970 --> 00:00:38,249
+massa van het object zou instorten, de dichtheid
+zo groot zou zijn dat de zwaartekracht
+
+7
+00:00:38,250 --> 00:00:45,119
+zo groot zou zijn dat zelfs licht er niet uit zou kunnen
+ontsnappen.  Je zou een zwart gat hebben.
+
+8
+00:00:45,120 --> 00:00:50,279
+Als je de Mount Everest zou comprimeren tot
+iets kleiner dan een nanometer, zou
+
+9
+00:00:50,280 --> 00:00:56,269
+je een zwart gat hebben.  En als je
+de hele aarde zou comprimeren tot de grootte van een pinda
+
+10
+00:00:56,270 --> 00:00:57,779
+, zou je een zwart gat hebben.
+
+11
+00:00:57,780 --> 00:01:03,529
+Maar gelukkig voor ons is er geen bekende
+manier om de Everest of de aarde op die manier te comprimeren.
+
+12
+00:01:03,530 --> 00:01:09,858
+Maar een ster, vele, vele, vele malen groter
+dan onze eigen zon, heeft een veel grotere Schwartzchild-
+
+13
+00:01:09,859 --> 00:01:15,569
+straal, en wanneer de brandstof opraakt en
+zichzelf niet langer warm genoeg kan houden, stort hij in
+
+14
+00:01:15,570 --> 00:01:20,879
+tot een enkel, oneindig klein bekend punt
+als een "singulariteit".
+
+15
+00:01:20,880 --> 00:01:25,468
+Zijn dichtheid zal oneindig zijn en dus
+zal zijn aantrekkingskracht zo sterk zijn dat
+
+16
+00:01:25,469 --> 00:01:29,078
+niets kan ontsnappen, zelfs geen licht.
+
+17
+00:01:29,079 --> 00:01:34,839
+Maar genoeg over de manier waarop zwarte gaten worden gevormd, laten we er een
+induiken.  Eerste vraag: hoe
+
+18
+00:01:34,840 --> 00:01:41,839
+ziet het er van buiten uit?  Welnu, we weten
+dat zwaartekrachtsvelden ruimte en tijd buigen.
+
+19
+00:01:41,840 --> 00:01:46,849
+Sterren achter onze zon
+lijken zich in werkelijkheid op iets andere locaties dan de
+
+20
+00:01:46,850 --> 00:01:52,459
+aarde te bevinden, omdat het zwaartekrachtsveld van de zon
+het licht van die sterren afbuigt.
+
+21
+00:01:52,460 --> 00:01:57,578
+Als het gaat om de zwaartekrachtsvelden
+van grotere objecten, zoals hele sterrenstelsels of,
+
+22
+00:01:57,579 --> 00:02:02,548
+wat dat betreft, een zwart gat, is het
+effect nog gekker.  Licht dat van objecten
+
+23
+00:02:02,549 --> 00:02:07,849
+erachter komt, wordt aanzienlijk vervormd,
+waardoor vegen en vegen ontstaan.
+
+24
+00:02:07,850 --> 00:02:13,969
+Gezien vanaf de aarde is het blauwe sterrenstelsel achter
+dit rode sterrenstelsel volledig vervormd, als
+
+25
+00:02:13,970 --> 00:02:19,299
+een grappige huisspiegel.  Dus, in plaats van
+eruit te zien zoals het zou moeten, ziet het er voor ons uit als een ring -
+
+26
+00:02:19,300 --> 00:02:22,759
+een vlek helemaal rond het rode sterrenstelsel.
+
+27
+00:02:22,760 --> 00:02:28,239
+Dit staat bekend als 'zwaartekrachtlensing'.
+Kijk nu eens naar deze simulatie van een zwart
+
+28
+00:02:28,240 --> 00:02:33,209
+gat met een melkwegstelsel van miljoenen lichtjaren
+erachter.  De melkweg loopt niet echt het gevaar
+
+29
+00:02:33,210 --> 00:02:39,189
+dat het zwarte gat "zuigt", maar het licht
+dat van die melkweg komt, is dat zeker wel.  Kijk
+
+30
+00:02:39,190 --> 00:02:45,549
+hoe de melkweg achter het zwarte gat passeert
+en zijn licht wordt verwrongen, verdraaid en
+
+31
+00:02:45,550 --> 00:02:47,099
+vervormd.
+
+32
+00:02:47,100 --> 00:02:48,639
+Hier is een heel leuke demonstratie.
+
+33
+00:02:48,640 --> 00:02:54,689
+Wat als de aarde rond een zwart gat zou draaien
+?  Van buitenaf gezien zou de aarde
+
+34
+00:02:54,690 --> 00:02:58,909
+er in eerste instantie normaal uitzien, maar zodra
+ze achter het zwarte gat zou gaan,
+
+35
+00:02:58,910 --> 00:03:02,899
+zou het zwaartekrachtveld van het zwarte gat het
+licht dat van de aarde weerkaatst vervormen, waardoor
+
+36
+00:03:02,900 --> 00:03:04,999
+dit ontstaat.
+
+37
+00:03:05,000 --> 00:03:09,889
+Laten we voor de eenvoud in
+een eenvoudig zwart gat springen, een die
+
+38
+00:03:09,890 --> 00:03:14,639
+geen lading heeft en niet beweegt.  En zuigt ook niet
+al een hoop materie op.  Het staat
+
+39
+00:03:14,640 --> 00:03:16,559
+er dus gewoon op zichzelf.
+
+40
+00:03:16,560 --> 00:03:22,449
+Naarmate we dichterbij komen, wordt de vervorming van de lucht
+steeds groter.  Een groter en groter
+
+41
+00:03:22,450 --> 00:03:28,249
+deel van ons gezichtsveld dat vooruitkijkt
+in het zwarte gat, zal gevuld zijn met duisternis.
+
+42
+00:03:28,250 --> 00:03:32,679
+Op dit punt, waar de helft van ons
+gezichtsveld is opgeslokt door duisternis, hebben
+
+43
+00:03:32,680 --> 00:03:35,259
+we de 'Photon Sphere' bereikt.
+
+44
+00:03:35,260 --> 00:03:40,369
+Op dit moment wordt licht niet
+noodzakelijkerwijs in het zwarte gat gezogen, maar het
+
+45
+00:03:40,370 --> 00:03:46,619
+verlaat het ook niet noodzakelijkerwijs.  In plaats daarvan kan op dit
+magische punt in de ruimte licht, fotonen, in een
+
+46
+00:03:46,620 --> 00:03:49,479
+baan om het zwarte gat draaien.
+
+47
+00:03:49,480 --> 00:03:53,559
+Als je hier even zou stoppen
+en naar de zijkant zou kijken, zou je
+
+48
+00:03:53,560 --> 00:03:58,589
+theoretisch de achterkant van je eigen hoofd kunnen zien, omdat licht
+dat van je achterhoofd weerkaatst,
+
+49
+00:03:58,590 --> 00:04:03,879
+helemaal rond de bol van het
+zwarte gat zou reizen, helemaal terug  naar je gezicht.
+
+50
+00:04:03,880 --> 00:04:10,649
+Een zwaartekrachtveld vervormt niet alleen de ruimte,
+het vervormt ook de tijd.  Voor de meest intensieve
+
+51
+00:04:10,650 --> 00:04:15,189
+doeleinden hier op aarde hoeven we ons daar nooit zorgen
+over te maken.  Maar in de buurt van een zwart gat zou de
+
+52
+00:04:15,190 --> 00:04:19,917
+zwaartekracht zo sterk zijn dat een waarnemer die
+je in het gat ziet springen,
+
+53
+00:04:19,918 --> 00:04:25,369
+iets heel vreemds zou zien.  Ze zouden niet zien
+dat je snel in het gat wordt gezogen.  In plaats daarvan
+
+54
+00:04:25,370 --> 00:04:31,508
+zouden ze zien dat je nadering langzamer
+en langzamer en langzamer wordt, totdat je
+
+55
+00:04:31,509 --> 00:04:35,008
+een punt bereikt dat bekend staat als de gebeurtenishorizon.
+
+56
+00:04:35,009 --> 00:04:41,318
+Dit is een punt in de ruimte waar, eenmaal overgestoken,
+er geen weg meer terug is.  Op dat moment
+
+57
+00:04:41,319 --> 00:04:46,568
+kan het licht niet meer ontsnappen.  En dus,
+voor een persoon die ziet dat je in het gat valt
+
+58
+00:04:46,569 --> 00:04:51,739
+, zou dat zijn waar je reis eindigde.  Je
+zou bijna bevroren in de ruimte lijken, het licht
+
+59
+00:04:51,740 --> 00:04:58,279
+dat van je lichaam komt, wordt steeds meer
+roodverschoven totdat je eenvoudig in het niets vervaagt.
+
+60
+00:04:58,280 --> 00:05:02,419
+Ze zouden je nooit door de evenementenhorizon zien gaan.
+
+61
+00:05:02,420 --> 00:05:05,499
+Maar voor jou zou alles natuurlijk
+goed en dandy lijken.  Je zou doorgaan langs
+
+62
+00:05:05,500 --> 00:05:11,448
+die horizon naar je nu, onvermijdelijke, dood.
+Naarmate je de singulariteit van het zwarte gat nadert
+
+63
+00:05:11,449 --> 00:05:16,388
+, zou je zicht op het hele
+universum worden samengeperst tot een steeds kleiner wordend
+
+64
+00:05:16,389 --> 00:05:18,309
+punt in de ruimte achter je.
+
+65
+00:05:18,310 --> 00:05:22,968
+Als het zwarte gat waar we in springen groot
+genoeg zou zijn, zou het aan die waarnemingshorizon best comfortabel kunnen zijn
+
+66
+00:05:22,969 --> 00:05:27,359
+.  We zullen weten dat we
+nooit zullen ontsnappen en dat ons leven zo
+
+67
+00:05:27,360 --> 00:05:31,918
+goed als voorbij is, maar het kan uren
+duren voordat we echt een punt bereiken waarop de dingen
+
+68
+00:05:31,919 --> 00:05:33,059
+pijn begonnen te doen.
+
+69
+00:05:33,060 --> 00:05:37,388
+Waarom zouden ze pijn doen?  Welnu, hoe dichter je
+bij de singulariteit komt, hoe significanter het
+
+70
+00:05:37,389 --> 00:05:42,559
+verschil in zwaartekracht door de
+ruimte is.  En dus zouden delen van mij die dichter
+
+71
+00:05:42,560 --> 00:05:47,369
+bij de singulariteit staan sterker worden getrokken dan d
+len die van mij af waren gericht en mijn hele licha
+
+72
+00:05:47,370 --> 00:05:54,609
+m zou worden uitgerekt naar de singulariteit.  Het 
+effect zou zo ongelooflijk zijn, wetenschappers
+
+73
+00:05:54,610 --> 00:05:58,889
+noemen het meestal niet uitrekken, ze noemen
+het 'spaghettificatie'.
+
+74
+00:05:58,890 --> 00:06:04,049
+Als je dit punt eenmaal hebt bereikt, zou je dood zijn.
+Je moleculen zouden met geweld worden gescheurd en
+
+75
+00:06:04,050 --> 00:06:09,649
+uit elkaar worden getrokken, en wanneer ze bij de
+singulariteit kwamen, nou, we weten niet echt wat er
+
+76
+00:06:09,650 --> 00:06:14,198
+zou gebeuren.  Misschien zouden ze volledig
+verdwijnen in strijd met alle wetten van de
+
+77
+00:06:14,199 --> 00:06:19,109
+fysica of misschien zouden ze elders
+in het universum weer verschijnen.  Er wordt aangenomen dat een bewegend
+
+78
+00:06:19,110 --> 00:06:24,769
+of ronddraaiend zwart gat in
+feite een zogenaamd 'wormgat' zou kunnen creëren, een manier om
+
+79
+00:06:24,770 --> 00:06:30,119
+sneller dan het licht door de ruimte te bewegen.  Niet op een
+manier die de wetten van de wetenschap schendt, maar
+
+80
+00:06:30,120 --> 00:06:34,019
+op een manier die voordeel haalt uit de dimensies van het universum
+.
+
+81
+00:06:34,020 --> 00:06:38,959
+Als ik bijvoorbeeld van dit
+punt naar dit punt wilde komen, zou ik de
+
+82
+00:06:38,960 --> 00:06:45,959
+afstand moeten afleggen.  Maar theoretisch zou een wormgat
+iets heel geks doen.  Dit bijvoorbeeld.
+
+83
+00:06:45,960 --> 00:06:49,758
+Nu liggen de twee punten vlak naast
+elkaar en ik kan er bijna onmiddellijk tussen reizen
+
+84
+00:06:49,759 --> 00:06:51,399
+.
+
+85
+00:06:51,400 --> 00:06:56,639
+Maar nogmaals, dit is allemaal theoretisch.  Gelukkig
+hebben we een mogelijke manier om zwarte
+
+86
+00:06:56,640 --> 00:07:01,779
+gaten hier op aarde te analyseren.  Voer het "Dommegat" in.
+
+87
+00:07:01,780 --> 00:07:07,979
+Net zoals een zwart gat geen licht toelaat
+om te ontsnappen, is een Dumbhole een akoestisch zwart
+
+88
+00:07:07,980 --> 00:07:14,878
+gat.  Het laat geen geluid ontsnappen.  Het hoeft lang
+niet zo krachtig te zijn en wetenschappers
+
+89
+00:07:14,879 --> 00:07:20,968
+zijn erin geslaagd om Dumbholes in laboratoria te maken
+met behulp van speciale vloeistoffen die met de snelheid
+
+90
+00:07:20,969 --> 00:07:21,579
+van het geluid reizen.
+
+91
+00:07:21,580 --> 00:07:26,179
+Er moet nog veel vooruitgang worden geboekt in
+de wereld van akoestische zwarte gaten, maar we
+
+92
+00:07:26,180 --> 00:07:30,848
+kunnen mogelijk een verbazingwekkende hoeveelheid
+informatie leren over hoe zwarte gaten werken door te
+
+93
+00:07:30,849 --> 00:07:33,568
+kijken hoe geluid wordt behandeld in een Dumbhole.
+
+94
+00:07:33,569 --> 00:07:39,278
+Hier is nog een goede vraag: hoe zou
+het eruit zien om met de snelheid van het
+
+95
+00:07:39,279 --> 00:07:44,338
+licht naar de zon te reizen?  Wel, verrassend genoeg
+zou je de zon niet
+
+96
+00:07:44,339 --> 00:07:50,918
+meteen naar je toe zien razen.  Nee nee nee.  In feite
+zou het er in eerste instantie bijna uitzien alsof de zon
+
+97
+00:07:50,919 --> 00:07:57,378
+zich van je terugtrekt.  Waarom?  Omdat je
+gezichtsveld enorm zou toenemen.  Je zou
+
+98
+00:07:57,379 --> 00:08:01,338
+dingen bijna achter je kunnen zien.
+En hier is waarom.
+
+99
+00:08:01,339 --> 00:08:05,788
+Terwijl je daar zit, nog niet beweegt, kijkend
+naar de zon, komt er licht van dingen
+
+100
+00:08:05,789 --> 00:08:11,508
+achter je.  Maar als je met de snelheid van het
+licht reist, bereik je dat licht
+
+101
+00:08:11,509 --> 00:08:16,598
+dat van de dingen achter je komt.  Naarmate je de
+lichtsnelheid bereikte, zou je gezichtsveld zo
+
+102
+00:08:16,599 --> 00:08:19,649
+uitbreiden, waarbij de dingen in het
+midden worden geconcentreerd.
+
+103
+00:08:19,650 --> 00:08:26,598
+Maar waar ben je in het universum?  Of, hier is
+een betere vraag.  Waar is het centrum van
+
+104
+00:08:26,599 --> 00:08:32,439
+het heelal?  Dit klinkt misschien gek,
+maar het is overal.  Dit staat bekend als het
+
+105
+00:08:32,440 --> 00:08:38,197
+'kosmologische principe'.  Waar
+je ook bent in het universum, al het andere zal
+
+106
+00:08:38,198 --> 00:08:42,808
+van je weg lijken te gaan, zich uitbreidend,
+in hetzelfde tempo.
+
+107
+00:08:42,809 --> 00:08:47,148
+Het universum breidt zich uit, maar niet zoals een
+ballon die groter wordt met alle mensen
+
+108
+00:08:47,149 --> 00:08:52,698
+erin.  In plaats daarvan is het alsof we het
+oppervlak van een ballon zijn.  Als je een
+
+109
+00:08:52,699 --> 00:08:56,659
+aantal stippen op een ballon zou zetten en deze vervolgens zou
+opblazen, zouden alle stippen met
+
+110
+00:08:56,660 --> 00:09:01,719
+dezelfde snelheid van elkaar af bewegen.  En op het oppervlak
+van de ballon is er geen centrum.
+
+111
+00:09:01,720 --> 00:09:06,479
+Kijk eens naar deze twee lagen.  Ze zijn
+precies hetzelfde, behalve dat de bovenste laag
+
+112
+00:09:06,480 --> 00:09:09,679
+een uitzetting van 5% van de onderste laag vertegenwoordigt.
+
+113
+00:09:09,680 --> 00:09:14,698
+Stel dat u op een van deze punten woont
+en wilt meten waar alles
+
+114
+00:09:14,699 --> 00:09:20,888
+vandaan komt.  Kijk wat er gebeurt
+als ik een punt in het verleden en het heden op een rij zet.
+
+115
+00:09:20,889 --> 00:09:29,518
+Boom.  Het ziet eruit als het centrum van de uitbreiding.
+Ik kan dit met elke stip doen.  Zodra ik
+
+116
+00:09:29,519 --> 00:09:35,429
+een punt kies als referentiekader, wordt het
+meteen het middelpunt van de uitbreiding.
+
+117
+00:09:35,430 --> 00:09:41,758
+Dus, terwijl sterven in een zwart gat eenzaam,
+en eng en morbide zou zijn, als je naar
+
+118
+00:09:41,759 --> 00:09:46,499
+de lucht kijkt, denk in plaats daarvan hieraan.  Het maakt niet uit
+waar je bent, of wie je bent, of wat je
+
+119
+00:09:46,500 --> 00:09:54,879
+vrienden of je ouders zijn, je bent echt,
+wetenschappelijk gezien, het centrum van het universum.
+
+120
+00:09:54,880 --> 00:10:02,049
+Tot slot, wat als ons universum een
+breed zou zijn?  Het is lang niet zo groot.
+
+121
+00:10:02,050 --> 00:10:07,889
+Maar als dat zo was, zou het zo omvangrijk zijn
+dat het, statistisch gezien, bijna onmogelijk zou zijn
+
+122
+00:10:07,890 --> 00:10:14,619
+dat er ergens anders in het universum geen exacte kopie van jou zou zijn
+.  Om te zien waarom,
+
+123
+00:10:14,620 --> 00:10:19,749
+raad ik je ten zeerste aan om daar te klikken
+en Brady Haran's nieuwe kanaal "Numberphile" te bekijken.
+
+124
+00:10:19,750 --> 00:10:23,429
+Het maakt deel uit van het originele YouTube-kanaal
+en ik heb eerder met deze jongens gewerkt.  Ze zijn
+
+125
+00:10:23,430 --> 00:10:27,749
+geweldig, ze zijn mijn favoriete soort geeks.
+Dus bekijk die video, bekijk hun andere
+
+126
+00:10:27,750 --> 00:10:31,119
+dingen, en als je van wiskunde houdt,
+raad ik je ten zeerste aan je te abonneren.
+
+127
+00:10:31,120 --> 00:10:31,979
+En zoals altijd,
+
+128
+00:10:31,980 --> 00:10:33,460
+bedankt voor het kijken.
+

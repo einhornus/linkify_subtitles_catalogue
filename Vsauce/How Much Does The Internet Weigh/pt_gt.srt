@@ -1,0 +1,267 @@
+1
+00:00:00,470 --> 00:00:02,199
+Olá, Vsauce.
+Miguel aqui.
+
+2
+00:00:02,200 --> 00:00:08,379
+E esse morango pesa cerca de 50 gramas, o que,
+segundo Russell Seitz, também
+
+3
+00:00:08,380 --> 00:00:14,379
+é o peso de toda a Internet.
+O que isso significa?
+
+4
+00:00:14,380 --> 00:00:19,309
+Quer dizer, a Internet é um lugar gigantesco e
+como você mede a informação?
+
+5
+00:00:19,310 --> 00:00:22,768
+Bem, vamos começar um pouco menor com
+um Kindle.
+
+6
+00:00:22,769 --> 00:00:27,178
+No momento, estou lendo Gadsby, que é um
+grande romance que faz todo o sentido, exceto
+
+7
+00:00:27,179 --> 00:00:31,839
+que foi escrito sem nunca usar a letra
+"e", o que é incrível.
+
+8
+00:00:31,840 --> 00:00:35,719
+Mas quando eu coloquei Gadsby no meu Kindle, meu
+Kindle ganhou peso?
+
+9
+00:00:35,720 --> 00:00:40,599
+Bem, teoricamente, sim, ele fez.
+As informações são armazenadas em pen drives como
+
+10
+00:00:40,600 --> 00:00:45,889
+este e no meu Kindle em binário.
+E esse binário existe fisicamente porque os
+
+11
+00:00:45,890 --> 00:00:50,679
+elétrons carregam transistores de porta flutuante.
+E a coisa sobre os elétrons é que eles
+
+12
+00:00:50,680 --> 00:00:55,239
+têm massa.
+Na verdade, um professor de Berkeley estimou
+
+13
+00:00:55,240 --> 00:01:00,699
+que quando um Kindle está completamente cheio de livros,
+seu peso aumenta em cerca de 10 para o negativo
+
+14
+00:01:00,700 --> 00:01:05,549
+18 gramas.
+Esse número é incrivelmente minúsculo.
+
+15
+00:01:05,550 --> 00:01:11,109
+Na verdade, ele diz que quando você carrega totalmente
+a bateria de um Kindle, ele ganha 100 milhões de vezes
+
+16
+00:01:11,110 --> 00:01:13,869
+mais massa do que quando você a enche de
+livros.
+
+17
+00:01:13,870 --> 00:01:16,809
+Mas mesmo assim o número é impossível de
+medir.
+
+18
+00:01:16,810 --> 00:01:22,529
+As escalas mais específicas que já criamos
+medem apenas cerca de 10 a 9
+
+19
+00:01:22,530 --> 00:01:25,299
+gramas negativos.
+Então vamos ficar maiores.
+
+20
+00:01:25,300 --> 00:01:30,069
+Russell Seitz veio com sua medida
+porque a Internet é composta de redes
+
+21
+00:01:30,070 --> 00:01:36,559
+de servidores e são cerca de 75 a 100 milhões de
+servidores operando para fazer a Internet funcionar.
+
+22
+00:01:36,560 --> 00:01:42,259
+Combinados, muitos servidores equivalem a cerca de 40
+bilhões de Watts de eletricidade e sabemos que
+
+23
+00:01:42,260 --> 00:01:46,239
+um Amp é cerca de 10 elevado a 18 elétrons por
+segundo.
+
+24
+00:01:46,240 --> 00:01:50,949
+E como sabemos o peso de um elétron
+, podemos calcular que toda a Internet
+
+25
+00:01:50,950 --> 00:01:55,709
+é realmente apenas cerca de 50 gramas de elétrons
+em movimento.
+
+26
+00:01:55,710 --> 00:01:59,809
+Agora esse número inclui apenas servidores.
+E Seitz diz que se você quiser incluir os
+
+27
+00:01:59,810 --> 00:02:04,059
+chips em computadores pessoais também, o número é
+cerca de 3 vezes maior.
+
+28
+00:02:04,060 --> 00:02:07,119
+Mas há um peso da Internet que
+me impressiona um pouco mais.
+
+29
+00:02:07,120 --> 00:02:11,779
+É um cálculo não da energia necessária
+para servir a Internet, mas da energia contida
+
+30
+00:02:11,780 --> 00:02:16,439
+na informação real.
+Os vídeos, as fotos, os e-mails.
+
+31
+00:02:16,440 --> 00:02:20,639
+Quanto todos eles pesam coletivamente quando
+armazenados?
+
+32
+00:02:20,640 --> 00:02:26,348
+Bem, aqui está a coisa.
+São necessários cerca de 8 bilhões de elétrons para armazenar
+
+33
+00:02:26,349 --> 00:02:29,788
+um e-mail.
+8 bilhões parece muito, mas os elétrons
+
+34
+00:02:29,789 --> 00:02:36,479
+são minúsculos e, portanto, um e-mail pesa apenas cerca de
+dois décimos de milésimo de quadrilionésimo
+
+35
+00:02:36,480 --> 00:02:39,699
+de onça.
+Mas a Internet contém muitos e-mails
+
+36
+00:02:39,700 --> 00:02:44,399
+e muitos vídeos, imagens e
+rumores de celebridades, então quanto isso pesa ao
+
+37
+00:02:44,400 --> 00:02:47,659
+todo?
+Bem, a primeira pergunta que temos que fazer é
+
+38
+00:02:47,660 --> 00:02:53,319
+quão grande é a Internet e isso é difícil
+de calcular, mas Eric Schmidt, então CEO do
+
+39
+00:02:53,320 --> 00:03:00,429
+Google, uma vez estimou que toda a Internet
+contém cerca de 5 milhões de Terabytes de informação,
+
+40
+00:03:00,430 --> 00:03:05,729
+dos quais, ele disse  , o Google indexou apenas
+0,004%.
+
+41
+00:03:05,730 --> 00:03:10,889
+Ok, então sem contar a energia necessária
+para entregar a Internet, a informação
+
+42
+00:03:10,890 --> 00:03:16,899
+em si na Internet é de cerca de 5 milhões de Terabytes.
+Agora, sabemos quantos elétrons são necessários para
+
+43
+00:03:16,900 --> 00:03:21,289
+formar um único byte e sabemos a massa de
+um elétron e, portanto, com um pouco de matemática,
+
+44
+00:03:21,290 --> 00:03:26,919
+você pode descobrir que toda a Internet,
+tudo nela, coletivamente pesa apenas
+
+45
+00:03:26,920 --> 00:03:33,699
+0,2 milionésimos de um  onça.
+Pense assim: cada vídeo no
+
+46
+00:03:33,700 --> 00:03:38,719
+YouTube, cada vídeo em toda a
+web, cada imagem, cada site,
+
+47
+00:03:38,720 --> 00:03:42,139
+cada e-mail que você enviou, cada
+carta de amor que você escreveu, cada foto de seus
+
+48
+00:03:42,140 --> 00:03:47,848
+netos  que você recebeu é
+mantida coletivamente dentro de uma quantidade de massa do tamanho
+
+49
+00:03:47,849 --> 00:03:54,878
+do menor grão de areia possível.
+Se você seguir @tweetsauce no Twitter, poderá
+
+50
+00:03:54,879 --> 00:03:56,859
+aprender ainda mais.
+Vou compartilhar mais alguns fatos que não
+
+51
+00:03:56,860 --> 00:03:59,979
+incluí neste vídeo sobre eletricidade em
+geral.
+
+52
+00:03:59,980 --> 00:04:02,379
+Curta-nos no Facebook para mostrar que você é elegante.
+
+53
+00:04:02,380 --> 00:04:02,999
+E como sempre,
+
+54
+00:04:03,000 --> 00:04:04,420
+obrigado por assistir.
+

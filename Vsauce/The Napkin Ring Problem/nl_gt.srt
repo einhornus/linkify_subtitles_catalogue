@@ -1,0 +1,508 @@
+1
+00:00:02,409 --> 00:00:10,289
+Hé, Vsauce!  Michiel hier!  Als je een bol kernt;  dat wil zeggen, verwijder er een cilinder uit, je blijft zitten met een vorm
+
+2
+00:00:10,290 --> 00:00:14,979
+die een servetring wordt genoemd, want, nou ja, het lijkt op een servetring!
+
+3
+00:00:14,980 --> 00:00:20,099
+Het is een bizarre vorm, want als twee servetringen dezelfde hoogte hebben, hebben
+
+4
+00:00:20,100 --> 00:00:24,639
+ze hetzelfde volume, ongeacht de grootte van de bollen waar ze vandaan komen!  (Cool)
+
+5
+00:00:24,640 --> 00:00:30,579
+Dit betekent dat als je even hoge servetringen uit een sinaasappel en uit de aarde
+
+6
+00:00:30,580 --> 00:00:35,199
+knipt, je er een in je hand zou kunnen houden.  De andere zou de omtrek van onze hele planeet hebben,
+
+7
+00:00:35,200 --> 00:00:39,339
+maar beide zouden hetzelfde volume hebben...
+
+8
+00:00:39,340 --> 00:00:45,328
+Ik noemde dit contra-intuïtieve feit terwijl ik een Kendama maakte met Adam Savage.  Bekijk die video als je dat nog niet hebt gedaan, of beter nog,
+
+9
+00:00:45,329 --> 00:00:51,959
+kom gewoon naar ons toe.  We brengen hersensnoep dit najaar live naar 24 nieuwe steden.  Het wordt druk, maar op dit moment
+
+10
+00:00:51,960 --> 00:00:56,349
+hebben we het over ballen en ze uitboren!
+
+11
+00:00:56,350 --> 00:01:02,139
+Ik heb hier TWEE servetringen van bollen van heel verschillende grootte;  de ene is van een klein balletje,
+
+12
+00:01:02,140 --> 00:01:05,709
+gewoon een kleine tomaat die ik heb geboord, dus daar zit een klein gaatje in.
+
+13
+00:01:05,710 --> 00:01:08,128
+De andere Servetring is gemaakt van een sinaasappel,
+
+14
+00:01:08,129 --> 00:01:12,879
+maar beide Servetringen hebben dezelfde hoogte.  De tomaat heeft een kleinere
+
+15
+00:01:12,880 --> 00:01:20,279
+omtrek dan de sinaasappel wat minder volume betekent, maar de ring is dikker wat meer volume betekent.  Beide effecten
+
+16
+00:01:20,280 --> 00:01:31,559
+heffen elkaar precies op.  Dus deze twee servetringen hebben identieke volumes, ze nemen dezelfde hoeveelheid ruimte in.
+
+17
+00:01:31,560 --> 00:01:34,269
+Trouwens, sinaasappelolie is ontvlambaar
+
+18
+00:01:34,270 --> 00:01:37,239
+. Laten we, om te zien waarom het servetringprobleem waar is
+
+19
+00:01:37,240 --> 00:01:44,769
+, het principe van Cavalieri bespreken.  Er staat dat voor elke twee vaste stoffen zoals deze twee cilinders die ik hier heb gebouwd,
+
+20
+00:01:44,770 --> 00:01:49,868
+ingeklemd tussen parallelle vlakken als een ander parallel
+
+21
+00:01:49,869 --> 00:01:54,298
+vlak beide snijdt in gebieden met een gelijk gebied, ongeacht waar het vandaan komt.
+
+22
+00:01:54,299 --> 00:02:02,618
+Wel, dan hebben de vaste stoffen hetzelfde volume.  Dat is hier duidelijk waar, deze cilinders zijn opgebouwd uit stapels VSauce-stickers
+
+23
+00:02:02,619 --> 00:02:06,289
+100 in elke stapel, dus hun volumes zijn hetzelfde
+
+24
+00:02:06,290 --> 00:02:07,909
+als ik
+
+25
+00:02:07,910 --> 00:02:15,429
+een van hen zo scheef, de vorm zal veranderen, maar het volume is dat niet, het bevat nog steeds dezelfde hoeveelheid  dingen
+
+26
+00:02:15,430 --> 00:02:18,169
+Ik heb geen stickers toegevoegd of afgetrokken.
+
+27
+00:02:18,170 --> 00:02:25,539
+En het principe van Cavalieri zorgt ervoor dat ze nog steeds hetzelfde volume hebben, want elke dwarsdoorsnede die van hier naar boven in het midden wordt genomen,
+
+28
+00:02:25,540 --> 00:02:33,279
+zal ons altijd een regio geven van hetzelfde gebied als de andere, omdat die  regio's zijn altijd gelijke oppervlaktecirkels.
+
+29
+00:02:33,280 --> 00:02:37,339
+Laten we nu het principe van Cavalieri toepassen op
+
+30
+00:02:37,340 --> 00:02:40,879
+servetringen. We kunnen zien dat twee servetringen met vergelijkbare hoogten
+
+31
+00:02:40,880 --> 00:02:46,639
+identieke volumes hebben door aan te tonen dat wanneer ze door een vlak worden gesneden, de oppervlakte van iemands dwarsdoorsnede
+
+32
+00:02:46,640 --> 00:02:49,719
+altijd gelijk is aan de oppervlakte van de anderen om dit nu te doen
+
+33
+00:02:49,720 --> 00:02:56,829
+Merk op dat de oppervlakte  van de doorsnede van de bollen minus het oppervlak van de doorsnede van de cilinders geeft ons het oppervlak van de doorsnede van de servetringen
+
+34
+00:02:56,830 --> 00:03:01,819
+.  Afhankelijk van waar we de servetring snijden, zullen de doorsneden verschillende gebieden hebben,
+
+35
+00:03:01,820 --> 00:03:08,809
+maar ze zullen altijd hetzelfde zijn.  Laten we eerst de oppervlakte van deze blauwe ringen berekenen,
+
+36
+00:03:08,810 --> 00:03:18,169
+laten we de hoogte van de servetring h noemen en de straal van de bol die ze uit hoofdletter R hebben gesneden.
+
+37
+00:03:18,170 --> 00:03:25,629
+Oké, perfect nu een dwarsdoorsnede van een bol als deze en een dwarsdoorsnede van  een cilinder als deze zijn beide cirkels.
+
+38
+00:03:25,630 --> 00:03:30,019
+Dus hun oppervlakte kan worden bepaald door Pi maal de straal in het kwadraat te gebruiken.
+
+39
+00:03:30,020 --> 00:03:37,509
+Dus als we de oppervlakte van de dwarsdoorsnede van de bollen willen vinden en de oppervlakte van de dwarsdoorsnede van de cilinder willen aftrekken
+
+40
+00:03:37,510 --> 00:03:41,839
+(ik teken een afbeelding van  een cilinder hier), alles wat we hoeven te doen is Pi te nemen, het te
+
+41
+00:03:41,840 --> 00:03:45,409
+vermenigvuldigen met de straal van de boldoorsnede
+
+42
+00:03:45,410 --> 00:03:53,329
+Kwadraat dat en dan Pi af te trekken keer de straal van het kwadraat van de cilinder, maar wat zijn hun stralen?
+
+43
+00:03:53,330 --> 00:04:01,059
+Welnu, als dit het middelpunt van de bol is, kunnen we een lijn trekken recht omhoog naar de hoek van de cilinder langs de zijkant
+
+44
+00:04:01,060 --> 00:04:05,679
+van de cilinder en dan verbinden om een rechthoekige driehoek te vormen. De st
+
+45
+00:04:05,680 --> 00:04:12,439
+lling van Pythagoras zal ons hier echt helpen, het vertelt ons dat de  lengte van de ene zijde in het kwadraat plus de lengte van de andere zijde in het
+
+46
+00:04:12,440 --> 00:04:16,778
+kwadraat is gelijk aan de lengte van de hypotenusa in het kwadraat
+
+47
+00:04:16,779 --> 00:04:20,909
+Nu deze afstand hier deze zijde van de driehoek wat we willen
+
+48
+00:04:20,910 --> 00:04:29,079
+Het is de straal van de cilinder, dus we noemen dit de kleine r straal  van de cilinder (prachtig plaatje daar)
+
+49
+00:04:29,080 --> 00:04:31,388
+dus de straal van
+
+50
+00:04:31,389 --> 00:04:34,839
+de cilinder in het
+
+51
+00:04:34,840 --> 00:04:37,029
+kwadraat plus
+
+52
+00:04:37,030 --> 00:04:44,019
+deze zijlengte, dat is maar de helft van de hoogte van de cilinder, dus de hoogte van de cilinder gedeeld door 2
+
+53
+00:04:44,020 --> 00:04:45,369
+kwadraat
+
+54
+00:04:45,370 --> 00:04:53,349
+Is gelijk aan de hypotenusa in het kwadraat de hypotenusa is toevallig  de straal van de bol zelf die hoofdletter R is.
+
+55
+00:04:53,350 --> 00:04:57,179
+Perfect laten we nu de straal van de cilinder oplossen.  Dat is wat we willen.
+
+56
+00:04:57,180 --> 00:05:04,119
+We trekken h gewoon af van 2 kwadraat van beide zijden, dat geeft ons de straal van het kwadraat van de cilinder
+
+57
+00:05:04,120 --> 00:05:05,168
+die
+
+58
+00:05:05,169 --> 00:05:08,469
+gelijk is aan de straal van de kwadraat van de bol minus de
+
+59
+00:05:08,470 --> 00:05:10,959
+helft van de hoogte van het kwadraat van de cilinder.
+
+60
+00:05:10,960 --> 00:05:17,888
+We kunnen de vierkantswortel nemen van  beide zijden zodat we eindigen met de straal van de cilinder
+
+61
+00:05:17,889 --> 00:05:21,879
+gelijk aan de vierkantswortel van de straal van de bol
+
+62
+00:05:21,880 --> 00:05:25,149
+minus 1/2 van de hoogte van het kwadraat van de cilinder
+
+63
+00:05:25,150 --> 00:05:32,439
+Perfect ok laten we nu eens kijken naar de oppervlakte van een doorsnede van de  bol
+
+64
+00:05:32,440 --> 00:05:36,699
+laten we hiervoor nu een rechte lijn trekken van het midden naar de rand van
+
+65
+00:05:36,700 --> 00:05:38,228
+de doorsnede van de bol
+
+66
+00:05:38,229 --> 00:05:44,649
+, en we gaan recht naar beneden en maken weer verbinding, hey kijk!  Een andere rechthoekige
+
+67
+00:05:44,650 --> 00:05:48,699
+driehoek noemen we deze hoogte y.
+
+68
+00:05:48,700 --> 00:05:55,679
+Merk op dat deze afstand, nu de zijde van de driehoek hier beneden, eigenlijk de straal is
+
+69
+00:05:55,680 --> 00:05:57,969
+van de cirkel
+
+70
+00:05:57,970 --> 00:06:05,109
+Dwarsdoorsnede hierboven.  Ze zijn allebei gelijk, dus we willen hiervoor zelfs de straal oplossen van de cirkel die de doorsnede van de bollen is.
+
+71
+00:06:05,110 --> 00:06:05,709
+Oké,
+
+72
+00:06:05,710 --> 00:06:08,948
+dus we weten dat de straal van
+
+73
+00:06:08,949 --> 00:06:14,829
+de doorsnede van de bol in het kwadraat plus deze afstand in het kwadraat (wat y is)
+
+74
+00:06:14,830 --> 00:06:21,159
+gelijk is aan de  hypotenusa goed kwadraat, wat weet je de hypotenusa is weer de straal van de bol (hoofdletter R)
+
+75
+00:06:21,160 --> 00:06:27,819
+Ok laten we y kwadraat aftrekken van beide kanten de straal van de bollen doorsnede kwadraat is
+
+76
+00:06:27,820 --> 00:06:31,749
+gelijk aan de straal van de bol kwadraat minus
+
+77
+00:06:31,750 --> 00:06:36,019
+Y kwadraat zal nemen  de vierkantswortel van beide zijden en
+
+78
+00:06:36,020 --> 00:06:41,029
+leer uiteindelijk dat de straal van de doorsnede van de bol gelijk is aan de vierkantswortel van
+
+79
+00:06:41,030 --> 00:06:45,499
+De straal van de bol in het kwadraat minus y in het kwadraat.  Y is de hoogte waarop deze
+
+80
+00:06:45,500 --> 00:06:53,569
+doorsnede is genomen van boven de evenaar, hoe hoger we deze doorsneden van de bol nemen, hoe kleiner hun stralen zullen zijn
+
+81
+00:06:53,570 --> 00:06:58,009
+Terwijl de straal van de cilinder altijd hetzelfde is, ongeacht waar we vandaan snijden.
+
+82
+00:06:58,010 --> 00:07:01,609
+Hoe dan ook, laten we nemen  deze twee Radii en stop ze in onze formule
+
+83
+00:07:01,610 --> 00:07:06,079
+Oké, de oppervlakte van de doorsnede van de bol is wat we eerst willen.
+
+84
+00:07:06,080 --> 00:07:10,579
+Oké, dat is gewoon de vierkantswortel van R kwadraat minus y kwadraat
+
+85
+00:07:10,580 --> 00:07:18,039
+Niet zo erg nu is de straal van de cilinder het kwadraat  wortel van R in het kwadraat minus De
+
+86
+00:07:18,040 --> 00:07:25,549
+helft van de hoogte van de cilinder in het kwadraat. Wat je nu zou kunnen opvallen, is dat we de vierkantswortel van iets nemen en deze vervolgens kwadrateren.
+
+87
+00:07:25,550 --> 00:07:28,339
+Deze heffen elkaar eigenlijk
+
+88
+00:07:28,340 --> 00:07:30,369
+perfect op!  Veel eenvoudiger op zoek
+
+89
+00:07:30,370 --> 00:07:38,659
+Maar laten we nu Pi verdelen naar de termen tussen haakjes, zodat pi keer R kwadraat ons Pi R kwadraat geeft
+
+90
+00:07:38,660 --> 00:07:44,149
+Pi keer negatief y kwadraat geeft ons negatief pi y kwadraat
+
+91
+00:07:44,150 --> 00:07:46,189
+Dan is een negatieve Pi keer R
+
+92
+00:07:46,190 --> 00:07:54,859
+kwadraat negatief pi R kwadraat negatief Pi  keer negatief h over 2 kwadraat is positief Pi
+
+93
+00:07:54,860 --> 00:07:56,659
+h over 2
+
+94
+00:07:56,660 --> 00:08:03,219
+kwadraat.  Geweldig, nu kunnen we blijven vereenvoudigen, maar wat je misschien opvalt, is dat we een pir kwadraat hebben en een
+
+95
+00:08:03,220 --> 00:08:07,039
+min Pi R kwadraat, nou ja, dat is gelijk aan 0, dus deze
+
+96
+00:08:07,040 --> 00:08:11,299
+heffen elkaar volledig op, maar wat we overhouden zijn
+
+97
+00:08:11,300 --> 00:08:18,359
+termen die  geen melding gemaakt van de bollen Radius of de straal groot of klein is Het
+
+98
+00:08:18,360 --> 00:08:23,299
+maakt niet uit alles wat u hoeft te weten om de oppervlakte van de doorsnede van een servetring te vinden
+
+99
+00:08:23,300 --> 00:08:25,579
+is de hoogte van de servetring
+
+100
+00:08:25,580 --> 00:08:32,219
+Y wordt natuurlijk begrensd door de  hoogte van een servetring deze blauwe gebieden hebben hetzelfde gebied als elkaar en dit
+
+101
+00:08:32,220 --> 00:08:41,019
+zal waar zijn, ongeacht waar we de doorsnede over de servetring snijden, wat volgens het principe van Cavalieri betekent dat beide servetringen hetzelfde
+
+102
+00:08:41,020 --> 00:08:43,099
+volume hebben
+
+103
+00:08:43,100 --> 00:08:47,699
+Yay:3
+
+104
+00:08:47,700 --> 00:08:50,019
+(met tanden  )
+
+105
+00:08:50,020 --> 00:08:54,279
+Maar wat betekent dit voor jou voor het leven in het heelal?
+
+106
+00:08:54,280 --> 00:08:58,779
+We weten dat als je het leuk vindt, je er een ring om moet doen,
+
+107
+00:08:58,780 --> 00:09:00,679
+maar als je het leuk vindt,
+
+108
+00:09:00,680 --> 00:09:05,199
+de vingerbreedte niet weet en het alleen een vooraf bepaalde hoeveelheid materiaal wilt aanbieden,
+
+109
+00:09:05,200 --> 00:09:09,639
+moet je er een servetring op doen.
+
+110
+00:09:09,640 --> 00:09:11,899
+En zoals altijd
+
+111
+00:09:11,900 --> 00:09:21,459
+Bedankt voor het kijken :D
+
+112
+00:09:21,460 --> 00:09:23,859
+Op 21 augustus
+
+113
+00:09:23,860 --> 00:09:31,599
+2017 zal er een totale zonsverduistering zijn, de schaduw van de maan zal over de aangrenzende Verenigde Staten racen
+
+114
+00:09:31,600 --> 00:09:35,489
+Het wordt ongelooflijk en een beetje eng
+
+115
+00:09:35,490 --> 00:09:42,039
+Ik weet zeker dat ik het zal zien  uit Oregon met mijn vrienden in Atlas, Obscura.  Ik kan niet wachten, maar houd je ogen
+
+116
+00:09:42,040 --> 00:09:47,699
+veilig als je de zonsverduistering wilt zien moet je speciale oogbescherming hebben
+
+117
+00:09:47,700 --> 00:09:52,819
+de curiositeit Box wordt geleverd met zo'n bril deze blokkeren
+
+118
+00:09:52,820 --> 00:10:00,399
+99,999% van het zichtbare licht dat is wat er nodig is om er goed naar te kunnen kijken  de zon is eigenlijk wat ik zo leuk vind aan deze bril.
+
+119
+00:10:00,400 --> 00:10:04,059
+Er is geen zonsverduistering.  Je kunt nog steeds gewoon naar de zon kijken.
+
+120
+00:10:04,060 --> 00:10:07,679
+Merk op dat het een bal is.  Stel je misschien voor wat voor soort servetring
+
+121
+00:10:07,680 --> 00:10:09,789
+je zou willen maken.  De huidige
+
+122
+00:10:09,790 --> 00:10:15,539
+Curiosity-box is mijn favoriet.  Degene die je krijgt als je je nu abonneert, wordt geleverd met allerlei coole dingen die worden geleverd met
+
+123
+00:10:15,540 --> 00:10:23,539
+een poster die laat zien dat alle planeten en pluto tussen de aarde en de maan kunnen passen, het wordt ook geleverd met wetenschappelijke gadgets zoals deze
+
+124
+00:10:23,540 --> 00:10:26,499
+zwevende magnetische ringen
+
+125
+00:10:26,500 --> 00:10:32,109
+best cool ook een deel van alle opbrengst gaat naar alzheimer's onderzoek, dus het is goed voor je hersenen en
+
+126
+00:10:32,110 --> 00:10:41,338
+de hersenen van iedereen check it out.  Ik hoop je live te zien bij Brain Candy en zoals altijd
+
+127
+00:10:41,339 --> 00:10:43,339
+Bedankt voor het kijken
+

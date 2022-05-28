@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:03,299
+Das Hauptvideo spricht über ein genetisches Zuchtmodell,
+
+2
+00:00:03,300 --> 00:00:05,679
+wie man Maschinen lernen lässt.
+
+3
+00:00:05,680 --> 00:00:08,799
+Diese Methode ist einfacher zu erklären oder einfach nur zu zeigen.
+
+4
+00:00:08,800 --> 00:00:13,459
+Hier ist eine Maschine, die lernt, zu gehen oder Mario zu spielen oder wirklich hoch zu springen.
+
+5
+00:00:13,460 --> 00:00:17,059
+Ein genetischer Code ist ein älterer Code, aber er funktioniert immer noch,
+
+6
+00:00:17,060 --> 00:00:20,719
+und ich persönlich vermute, dass genetische Modelle in Zukunft ein Wiederaufleben
+
+7
+00:00:20,720 --> 00:00:23,339
+erleben werden, wenn sich die Rechenleistung verrückten Hosen nähert.
+
+8
+00:00:23,340 --> 00:00:27,459
+Die aktuelle Hotness ist jedoch Deep Learning und rekursive neuronale Netze, und
+
+9
+00:00:27,460 --> 00:00:29,859
+dort nimmt die lineare Algebra wirklich zu
+
+10
+00:00:29,860 --> 00:00:33,799
+und die Erklärbarkeit in einem kurzen Video nimmt wirklich ab.
+
+11
+00:00:33,800 --> 00:00:35,939
+Aber wenn ich erklären müsste, wie sie
+
+12
+00:00:35,940 --> 00:00:38,939
+in einer Fußnote funktionieren, nur fürs Protokoll, es ist so:
+
+13
+00:00:38,940 --> 00:00:41,699
+Kein unendliches Lager.  Nur ein Schüler.
+
+14
+00:00:41,700 --> 00:00:46,599
+Der Lehrer-Bot hat den gleichen Test, aber dieses Mal ist der Builder-Bot ein „Dial Adjustment Bot“,
+
+15
+00:00:46,600 --> 00:00:51,639
+bei dem jedes Zifferblatt angibt, wie empfindlich eine Verbindung im Kopf des Schüler-Bots ist.
+
+16
+00:00:51,640 --> 00:00:55,439
+Es gibt viele Verbindungen in seinem Kopf, also viele Zifferblätter.
+
+17
+00:00:55,440 --> 00:00:56,899
+Viel, viel.
+
+18
+00:00:56,900 --> 00:01:01,459
+Der Lehrer-Bot zeigt dem Schüler-Bot ein Foto und der Regler-Anpassungs-Bot passt diesen Regler
+
+19
+00:01:01,460 --> 00:01:05,119
+stärker oder schwächer an, um den Schüler-Bot der Antwort näher zu bringen.
+
+20
+00:01:05,120 --> 00:01:10,599
+Es ist ein bisschen so, als würde man den Regler eines Radios einstellen.  Ist das noch so eine Sache?  Haben Autos noch Radios?
+
+21
+00:01:10,600 --> 00:01:13,939
+Ich weiß es jedenfalls nicht.  Sie kennen vielleicht nicht die genaue Frequenz des Senders,
+
+22
+00:01:13,940 --> 00:01:17,699
+aber Sie können feststellen, ob Sie näher oder weiter entfernt sind.
+
+23
+00:01:17,700 --> 00:01:22,519
+Es ist so, aber mit hunderttausend Zifferblättern und viel Mathematik,
+
+24
+00:01:22,520 --> 00:01:24,479
+und das ist nur für eine Testfrage.
+
+25
+00:01:24,480 --> 00:01:27,339
+Wenn der Teacher Bot das nächste Foto vorstellt, muss der
+
+26
+00:01:27,340 --> 00:01:32,399
+Dial Adjustment Bot alle Wählscheiben anpassen, damit der Student Bot beide Fragen beantworten kann.
+
+27
+00:01:32,400 --> 00:01:34,619
+Wenn der Test länger wird, wird
+
+28
+00:01:34,620 --> 00:01:39,899
+dies zu einer wahnsinnigen Menge an Mathematik und Feinabstimmung für den Dial Adjustment Bot.
+
+29
+00:01:39,900 --> 00:01:42,839
+Aber wenn es fertig ist, gibt es einen Studenten-Bot, der
+
+30
+00:01:42,840 --> 00:01:46,359
+neue Fotos ziemlich gut erkennen kann,
+
+31
+00:01:46,360 --> 00:01:50,339
+aber immer noch unter einigen der im Hauptvideo erwähnten Probleme leidet.
+
+32
+00:01:50,340 --> 00:01:55,839
+Wie auch immer, das ist die erste Einführung der meisten Babys in neuronale Netze, die Sie jemals hören werden.
+
+33
+00:01:55,840 --> 00:01:58,719
+Wenn es für Sie interessant klingt und Sie Mathematik und Code mögen,
+
+34
+00:01:58,720 --> 00:02:01,179
+gehen Sie auf die Details ein;
+
+35
+00:02:01,180 --> 00:02:04,879
+Maschinen, die lernen, sind die Zukunft von allem.
+
+36
+00:02:04,880 --> 00:02:08,038
+Vielleicht, buchstäblich, die Zukunft von allem,
+
+37
+00:02:08,039 --> 00:02:12,098
+und angesichts dessen, was wir ihnen angetan haben, mögen die Bots uns allen gnädig sein.
+

@@ -1,0 +1,276 @@
+1
+00:00:00,000 --> 00:00:05,459
+Bu video yüklenmeden önce muhtemelen bir reklam izlemişsinizdir ve/veya şu anda bir reklam görünecektir
+
+2
+00:00:05,460 --> 00:00:06,359
+.
+
+3
+00:00:06,360 --> 00:00:08,899
+Tam olarak bu reklam bu videoya nasıl geldi?
+
+4
+00:00:08,900 --> 00:00:12,839
+Ve gerçekten bilmek istediğiniz şey, bu şeyler ne kadar para kazanıyor?
+
+5
+00:00:12,840 --> 00:00:14,899
+Tamam, bu oyunda üç oyuncu var.
+
+6
+00:00:14,900 --> 00:00:21,079
+Videoları oluşturan içerik oluşturucular, reklamları yapan reklamcılar ve eşleştirmeyi yapan çöpçatan çöpçatanı oynayan YouTube.
+
+7
+00:00:21,080 --> 00:00:26,739
+Artık, bir adamın bir odadaki tahmin edilebilir bilinen içeriklere yavaş bir programla reklam yerleştirebildiği ölmekte olan eski medyanın aksine,
+
+8
+00:00:26,740 --> 00:00:32,239
+YouTube böyle çalışmıyor.  Bu şekilde çalışamazsınız çünkü YouTube'da bir program yoktur.
+
+9
+00:00:32,240 --> 00:00:35,139
+Her an vahşi bir viral video görünebilir.
+
+10
+00:00:35,140 --> 00:00:39,359
+Normal bir günde YouTube'a 65 yıllık video yükleniyor
+
+11
+00:00:39,360 --> 00:00:42,819
+ve insanlar milyarlarca saatlik video izliyor.
+
+12
+00:00:42,820 --> 00:00:46,979
+Sadece büyümeye devam eden sonsuz bir rastgele içerik şelalesi.
+
+13
+00:00:46,980 --> 00:00:52,259
+Tüm bu videoları kategorilere ayıracak ve reklamları bunlarla eşleştirecek kadar insanı işe almak imkansız olurdu
+
+14
+00:00:52,260 --> 00:00:53,999
+, Bu botlar için bir iştir.
+
+15
+00:00:54,000 --> 00:01:00,319
+Her yeni video yüklendiği anda, YouTube'un botları, hangi kategoriye ait olduğu konusunda en iyi tahminlerini yapmak için başlığa, anahtar kelimelere, altyazılara, yorumlara, tartışmalara bakarak çalışmaya başlar
+
+16
+00:01:00,320 --> 00:01:04,779
+.
+
+17
+00:01:04,780 --> 00:01:12,239
+kendi botlarına, reklamlarının hangi kategorideki videolara karşı yayınlanmasını istediklerini ve ne türlerden kaçınmaları gerektiğini.
+
+18
+00:01:12,240 --> 00:01:19,599
+Ve YouTube'un para kazandığı yer burasıdır: Bir videoyu tıkladığınızda ve oynatıldığında arasında, bir YouTube botu bir açık artırma
+
+19
+00:01:19,600 --> 00:01:26,759
+düzenler, videonun içinde olduğunu tahmin ettiği kategorileri açıklar ve tekliflerini vermeleri için tüm ilgilenen reklamveren botlarına zemini açar.  .
+
+20
+00:01:26,760 --> 00:01:32,739
+Kazanan reklamveren botu, büyük olasılıkla YouTube'a ve içerik oluşturucuya o anda en fazla parayı kazandıracak reklama sahip olandır.
+
+21
+00:01:32,740 --> 00:01:37,319
+Ancak bu mutlaka en yüksek teklifi veren kişi değildir -- farklı reklamlar farklı şekillerde ödeme yapar.
+
+22
+00:01:37,320 --> 00:01:38,199
+Örneğin,
+
+23
+00:01:38,200 --> 00:01:43,479
+atlanabilir video reklamlar, izleyici mümkün olan en kısa sürede atlarsa reklamveren ödeme yapmaz.
+
+24
+00:01:43,480 --> 00:01:47,259
+Reklamveren, yalnızca reklamı tıklandığında veya izlendiğinde ödeme yapar.
+
+25
+00:01:47,260 --> 00:01:50,679
+Çok yüksek bir teklif, reklam çok sıkıcıysa hiçbir şey ifade etmez.
+
+26
+00:01:50,680 --> 00:01:53,899
+YouTube veya içerik oluşturucu için hiçbir tıklama hiçbir dolara eşit değildir.
+
+27
+00:01:53,900 --> 00:02:00,019
+Dolayısıyla sıkıcılığa karşı bir önyargı var: Açık artırmacı bot, tıklama oranı
+
+28
+00:02:00,020 --> 00:02:03,319
+daha düşük bir reklam için daha yüksek bir teklif yerine, daha yüksek tıklama oranına sahip bir reklam için daha düşük bir teklifi tercih edecektir.
+
+29
+00:02:03,320 --> 00:02:05,719
+Ancak izleyicinin gözünde sıkıcıdır,
+
+30
+00:02:05,720 --> 00:02:08,999
+bu nedenle YouTube'un videonun ne hakkında olduğunu tahmin etmeye çalışan botlarına ek olarak
+
+31
+00:02:09,000 --> 00:02:12,159
+, izleyicinin ne hakkında olduğunu tahmin etmeye çalışan botlar da var.
+
+32
+00:02:12,160 --> 00:02:18,299
+Yaşlarını, kromozomlarını, gelirlerini, konumlarını ve ilgi alanlarını tahmin etmeye çalışmak için saat geçmişlerine, cihazlarına ve etkinliklerine bakmak.
+
+33
+00:02:18,300 --> 00:02:21,179
+Bu bilgi de açık artırmanın bir parçasıdır
+
+34
+00:02:21,180 --> 00:02:27,199
+ve reklamcılar, botlarına yalnızca belirli kategorilerdeki belirli konumlardaki belirli demografilere
+
+35
+00:02:27,200 --> 00:02:29,199
+ve yalnızca belirli tutarlara kadar teklif vermelerini isteyebilir.
+
+36
+00:02:29,200 --> 00:02:33,999
+Dolayısıyla, bu videodan önce gördüğünüz reklam orada olmayı planlamamıştı, bu,
+
+37
+00:02:34,000 --> 00:02:40,159
+video hakkındaki bot tahminlerinin ve sizin hakkınızdaki bot tahminlerinin ve tam o milisaniyede dikkatinizi çekmek için bot tekliflerinin sonucuydu.
+
+38
+00:02:40,160 --> 00:02:46,479
+Bu kanaldaki videoları demografik olarak farklı birinin cihazında izleyin ve farklı türde reklamlar göreceksiniz.
+
+39
+00:02:46,480 --> 00:02:49,399
+En az iki, üç veya dört cihazda bu video ile denemelisiniz...
+
+40
+00:02:49,400 --> 00:02:51,419
+Bakın bu videoyu birçok farklı cihazda izleyin.
+
+41
+00:02:51,420 --> 00:02:51,979
+Her neyse,
+
+42
+00:02:51,980 --> 00:02:55,999
+reklamverenlerin YouTube'a ve içerik oluşturuculara ne kadar ödediğini bilmek istiyorsanız, tek bir yanıt yok.
+
+43
+00:02:56,000 --> 00:02:59,499
+Hepsi bir anlık açık artırmadır ve video kategorisine
+
+44
+00:02:59,500 --> 00:03:03,999
+, izleyicilere, yılın zamanına, reklam bütçesine, tam o anda kaç açık artırmanın gerçekleştiğine
+
+45
+00:03:04,000 --> 00:03:05,039
+ve ne kadar dolu olduklarına göre çılgınca değişir.
+
+46
+00:03:05,040 --> 00:03:08,579
+Bir dakikalık arz ve talep milyonlarca kibrittir.
+
+47
+00:03:08,580 --> 00:03:13,859
+Ödüllü demografiye sahip kanallar, görüntüleme başına diğer kanallara göre beş kat daha fazla kazanabilir.
+
+48
+00:03:13,860 --> 00:03:15,319
+Ama
+
+49
+00:03:15,320 --> 00:03:19,399
+.... İkimiz de biliyoruz ki hala bir çeşit ortalama sayı var.
+
+50
+00:03:19,400 --> 00:03:23,479
+Basketbol sahası olarak kullanılacak bir şey ve bilmek istediğiniz de bu.
+
+51
+00:03:23,480 --> 00:03:24,539
+Ortalama olarak,
+
+52
+00:03:24,540 --> 00:03:25,679
+bu sayı
+
+53
+00:03:25,680 --> 00:03:27,179
+kaç Benjamin?
+
+54
+00:03:27,180 --> 00:03:32,179
+Tamam, makul bir tahmin, bir görüntülemenin
+
+55
+00:03:32,180 --> 00:03:34,659
+YouTube ve içerik oluşturucu arasında bölünmüş bir çeyrek bir kuruşun dörtte biri, bir çeyrek bir kuruş değerinde olmasıdır.
+
+56
+00:03:34,660 --> 00:03:38,639
+bu, ilk kez bir kuruşun çok büyük bir değer ölçüsü olduğunu kanıtladı.
+
+57
+00:03:38,640 --> 00:03:45,119
+Bu nedenle, bunu düşünmenin daha iyi bir yolu, 1000 görüntülemenin yaklaşık 2,50 ABD doları tutarında reklam doları sağlamasıdır.
+
+58
+00:03:45,120 --> 00:03:49,259
+YouTube daha sonra bu parayı içerik oluşturucu ile kendileri arasında bölüştürür, elli beş - kırk beş
+
+59
+00:03:49,260 --> 00:03:52,459
+İçerik oluşturucu için yaklaşık 1,40 ABD doları ve YouTube için 1,10 ABD doları.
+
+60
+00:03:52,460 --> 00:03:54,539
+Veya bunun hakkında büyük düşünmek istiyorsanız,
+
+61
+00:03:54,540 --> 00:03:59,799
+her milyon görüntüleme, içerik oluşturucu için 1.400 ABD Doları ve YouTube için 1.100 ABD Dolarıdır.
+
+62
+00:03:59,800 --> 00:04:00,299
+tekrar,
+
+63
+00:04:00,300 --> 00:04:01,419
+Ortalama olarak.
+
+64
+00:04:01,420 --> 00:04:06,359
+Belirli kanallar, binde 50 sent veya binde 4,50'yi bölebilir.
+
+65
+00:04:06,360 --> 00:04:07,839
+Her şey açık artırmaya bağlı.
+
+66
+00:04:07,840 --> 00:04:09,079
+İşte böyle çalışıyor.
+
+67
+00:04:09,080 --> 00:04:14,459
+İnsanların izlemesi için botlara göre sıralanan ve satılan bir Niagara içerik.
+
+68
+00:04:14,460 --> 00:04:17,759
+* fon müziği ön plana çıkar *
+
+69
+00:04:17,760 --> 00:04:34,340
+* slate müziğini bitir *
+

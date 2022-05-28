@@ -1,0 +1,516 @@
+1
+00:00:02,400 --> 00:00:10,279
+Hey, Vsauce! ici Michael! Si vous prenez une sphère et passé un cylindre au travers, vous obtenez une forme
+
+2
+00:00:10,280 --> 00:00:14,739
+appelé ''anneau de serviette'', et bien parce que ça ressemble à on rond de serviette!
+
+3
+00:00:14,740 --> 00:00:20,059
+c'est une forme bizzare, car si deux anneaux de serviettes ont la même hauteur,
+
+4
+00:00:20,060 --> 00:00:24,739
+elles auront le même volume, peu importe la taille des sphères desquelles elles viennent. (Cool)
+
+5
+00:00:24,740 --> 00:00:30,579
+Ça veut dire que, si vous coupez de façon égale un grand anneau de serviette sur une orange et sur la terre
+
+6
+00:00:30,580 --> 00:00:35,199
+et bien, l'une peut être tenu dans vos mains. L'autre aurait la circonférence de notre planète entière,
+
+7
+00:00:35,200 --> 00:00:39,339
+mais les deux auraient le même volume
+
+8
+00:00:39,340 --> 00:00:45,319
+J'ai mentionné ce fait contre-intuitif en faisant un Kendama avec Adam Savage. Regardez la vidéo si vous ne l'Avez pas fait, ou mieux encore,
+
+9
+00:00:45,320 --> 00:00:51,959
+venez simplement nous voir. On amène brain candy en direct dans 24 nouvelles villes cet automne. Ça va être très occupé, mais pour le moment
+
+10
+00:00:51,960 --> 00:00:56,349
+nous parlons de sphères et enlevé leur noyau
+
+11
+00:00:56,350 --> 00:01:02,139
+J'ai ici deux anneaux de serviettes qui proviennent de deux sphères de taille différentes, l'une vient d'une petite sphère
+
+12
+00:01:02,140 --> 00:01:05,709
+, une petite tomate dont j'ai enlevé le noyau, donc j'ai un petit trou juste ici
+
+13
+00:01:05,710 --> 00:01:08,128
+L'autre anneau de serviette provient d'une orange
+
+14
+00:01:08,129 --> 00:01:12,879
+mais les deux anneaux de serviettes ont la même hauteur. La tomate a une circonférence plus petite
+
+15
+00:01:12,880 --> 00:01:20,279
+que l'orange, ce qui veut dire qu'elle a un volume plus petit, mais son anneau est plus épais, donc plus de volume. Ces deux effets
+
+16
+00:01:20,280 --> 00:01:31,559
+s'annulent donc. Ces deux anneaux de serviettes ont un volume identique et occupe le même espace.
+
+17
+00:01:31,560 --> 00:01:34,269
+Au fait, l'huile d'orange est inflammable
+
+18
+00:01:34,270 --> 00:01:37,239
+Pour vérifié pourquoi le problème de l'anneau de serviette est vrai,
+
+19
+00:01:37,240 --> 00:01:44,769
+Discutons du principe de Cavalieri. Il indique que pour deux solides, comme  les deux que j'ai fabriqué ici
+
+20
+00:01:44,770 --> 00:01:49,868
+, pris entre des plans parallèles, si un autre plan parallel
+
+21
+00:01:49,869 --> 00:01:54,298
+croise les deux régions d'une aire égale, peu importe d'où il est pris
+
+22
+00:01:54,299 --> 00:02:02,618
+Alors les solides ont le même volume. C'est clairement vrai ici, c'est deux cylindres sont fabriqués à partir d'autocollants Vsauce
+
+23
+00:02:02,619 --> 00:02:06,289
+100 autocollants dans chaques pilles, donc leur volume est le même
+
+24
+00:02:06,290 --> 00:02:07,909
+Si je...
+
+25
+00:02:07,910 --> 00:02:15,429
+Biaise l'un d'eux comme ceci, sa forme va changer, mais sont volume non, il contient toujours la même quantité de choses
+
+26
+00:02:15,430 --> 00:02:18,169
+Je n'ai pas ajouté ou enlevé d'autocollant
+
+27
+00:02:18,170 --> 00:02:25,539
+Et le principe de Cavalieri assure qu'ils ont toujours le même volume, parce que toute coupe transversale prise d'en bas, d'en haut, au milieu, partout
+
+28
+00:02:25,540 --> 00:02:33,279
+Va toujours donné une région d'aire égale à celle des autres, car ces régions sont toujours des cercles de superficie égales
+
+29
+00:02:33,280 --> 00:02:37,339
+Maintenant, appliquons le principe de Cavalieri aux anneaux de serviettes
+
+30
+00:02:37,340 --> 00:02:40,879
+On peut voir que deux anneaux de serviettes avec la même hauteur
+
+31
+00:02:40,880 --> 00:02:46,639
+même volume en montrant que, quand on coupe par un plan, l'aire d'une des coupes transversales
+
+32
+00:02:46,640 --> 00:02:49,719
+est toujours égale à l'aire de l'autre. Maintenant, pour faire ceci
+
+33
+00:02:49,720 --> 00:02:56,829
+Remarqué que l'aire des coupes transversales des sphères, moins l'aire  des coupes transversales des cylindre, nous donne l'aire de la coupe transversale de l'anneau de serviette
+
+34
+00:02:56,830 --> 00:03:01,819
+Dépendamment où on coupe l'anneau de serviette, la coupe transversale aura une aire différent
+
+35
+00:03:01,820 --> 00:03:08,809
+mais l'une et l'autre vont toujours être pareil. Calculons maintenant l'aire de ces anneaux bleus
+
+36
+00:03:08,810 --> 00:03:17,359
+Premièrement, appelons la hauteur de l'anneau de serviette h et le rayon de la sphère dont elle provient
+
+37
+00:03:17,360 --> 00:03:18,169
+R majuscule
+
+38
+00:03:18,170 --> 00:03:25,629
+Parfait, maintenant, une coupe transversale d'une sphère comme celle-ci et une coupe transversale d'un cylindre comme celui-ci sont toutes les deux des cercles
+
+39
+00:03:25,630 --> 00:03:30,019
+Donc leur aire peuvent être déterminées en utilisant Pi multiplié par l'aire au carré
+
+40
+00:03:30,020 --> 00:03:37,509
+Donc si on veut trouver l'aire de la coupe transversale de la sphère et soustraire l'aire de la coupe transversale des cylindres
+
+41
+00:03:37,510 --> 00:03:41,839
+(je vais dessiner l'image d'un cylindre ici), tout ce qu'on a besoin de faire est de prendre Pi
+
+42
+00:03:41,840 --> 00:03:45,409
+le multiplier par le rayon de la coupe transversale de la sphère
+
+43
+00:03:45,410 --> 00:03:53,329
+, au carré, et soustraire Pi, multiplié par le rayon du cylindre au carré, mais quels sont leurs rayons ?
+
+44
+00:03:53,330 --> 00:04:01,059
+Et bien, si ceci est le centre de la sphère, on peut dessiner une ligne droite vers le haut jusqu'au coin du cylindre, suivre le côté du cylindre vers le bas
+
+45
+00:04:01,060 --> 00:04:05,679
+et connecter les deux lignes pour former un triangle à angle droit
+
+46
+00:04:05,680 --> 00:04:12,439
+Le théorem de Pythagore va vraiment nous aider ici. Il nous dit que la longueur d'un côté au carré, plus la longueur de l'autre côté
+
+47
+00:04:12,440 --> 00:04:16,778
+au carré, est égale à la longueur de l'hypoténuse au carré
+
+48
+00:04:16,779 --> 00:04:20,909
+Maintenant, la distance ici est le côté du triangle que l'ont avoir
+
+49
+00:04:20,910 --> 00:04:29,079
+C'est la rayon du cylindre, on va donc l'appeler le r minuscule du cylindre (beau petit dessin ici)
+
+50
+00:04:29,080 --> 00:04:31,388
+donc le rayon
+
+51
+00:04:31,389 --> 00:04:34,839
+du cylindre
+
+52
+00:04:34,840 --> 00:04:37,029
+au carré, plus
+
+53
+00:04:37,030 --> 00:04:44,019
+la longueur de ce côté, qui est seulement la moitier de la hauteur du cylindre, donc  la hauteur du cylindre, divisé par deux
+
+54
+00:04:44,020 --> 00:04:45,369
+au carré
+
+55
+00:04:45,370 --> 00:04:53,349
+est égale à l'hypoténuse au carré. L'hypoténuse est le rayon de la sphère qui est R majuscule
+
+56
+00:04:53,350 --> 00:04:57,179
+Parfait, maintenant résolvons l'aire du cylindre, c'est ce qu'on veut.
+
+57
+00:04:57,180 --> 00:05:04,119
+On va seulement soustraire h des deux carrés des deux côtés, ça va nous donner l'Aire du cylindre
+
+58
+00:05:04,120 --> 00:05:05,168
+au carré
+
+59
+00:05:05,169 --> 00:05:08,469
+qui est égale à l'aire de la sphère au carré, moins
+
+60
+00:05:08,470 --> 00:05:10,959
+la moitié de la hauteur du cylindre au carré
+
+61
+00:05:10,960 --> 00:05:17,888
+On peut faire la racine carré sur les deux côtés, pour arriver à l'aire du cylindre
+
+62
+00:05:17,889 --> 00:05:21,879
+égale la racine carré de l'aire de la sphère
+
+63
+00:05:21,880 --> 00:05:25,149
+moins la moitié de la hauteur du cylindre, au carré
+
+64
+00:05:25,150 --> 00:05:32,439
+Parfait, maintenant regardons l'aire d'une coupe transversale de la sphère. Maintenant, pour ça,
+
+65
+00:05:32,440 --> 00:05:36,699
+dessinons une ligne droite à partir du centre, jusqu'à l'extrémité
+
+66
+00:05:36,700 --> 00:05:38,228
+de la coupe transversale de la sphère
+
+67
+00:05:38,229 --> 00:05:44,649
+et ont va allez vers le bas et connecter l'autre côté. Hey regardez! un autre triangle à angle droit
+
+68
+00:05:44,650 --> 00:05:48,699
+appelons cette hauteur y
+
+69
+00:05:48,700 --> 00:05:54,899
+Et remarquer cette distance ici, le côté bas du triangle, est en fait, le rayon
+
+70
+00:05:54,900 --> 00:05:55,679
+ 
+
+71
+00:05:55,680 --> 00:05:57,969
+de la coupe transversale de la sphère i
+
+72
+00:05:57,970 --> 00:06:05,109
+ici en haut. Elles sont toutes les deux égales. donc nous voulons même résoudre pour cela le rayon du cercle qui est la section transversale des sphères
+
+73
+00:06:05,110 --> 00:06:05,709
+okay
+
+74
+00:06:05,710 --> 00:06:08,948
+donc on sait que le rayon de
+
+75
+00:06:08,949 --> 00:06:14,829
+la coupe transversale de la sphère, au carré, plus la distance au carré (qui est y)
+
+76
+00:06:14,830 --> 00:06:21,159
+est égale à l'hypoténuse, au carré. Et bien, l'hypoténuse est encore une fois l'aire de la sphère (R majuscule)
+
+77
+00:06:21,160 --> 00:06:27,819
+Ok, soustrayons y, au carré, des deux côtés du rayon de la coupe transversale de la sphère, au carré
+
+78
+00:06:27,820 --> 00:06:31,749
+est égale au rayon de la sphère au carré, moins
+
+79
+00:06:31,750 --> 00:06:36,019
+Y au carré. On va prendre la racine carré de chaque côté et ensuite
+
+80
+00:06:36,020 --> 00:06:41,029
+apprendre que le rayon de la coupe transversale de la sphère est égale à la racine carré de
+
+81
+00:06:41,030 --> 00:06:45,499
+l'aire de la sphère au carré, moins y au carré. Y est la hauteur de cette
+
+82
+00:06:45,500 --> 00:06:53,569
+coupe-transversale à partir du dessus de l'équateur. Plus on prend une coupe-transversale haute dans la sphère, plus son rayon va être petit
+
+83
+00:06:53,570 --> 00:06:58,009
+contrairement au rayon du cylindre qui restera le même peu importe oû on coupe
+
+84
+00:06:58,010 --> 00:07:01,609
+En tout cas, prenons ces deux rayons et mettons les dans notre formule
+
+85
+00:07:01,610 --> 00:07:06,079
+Okay, l'aire de la coupe-transversale de la sphère et ce qu'on veut en premier
+
+86
+00:07:06,080 --> 00:07:10,579
+Okay.. C'est la racine carré de R au carré moins y au carré
+
+87
+00:07:10,580 --> 00:07:18,039
+pas trop mal, maintenant l'aire du cylindre est la racine carré de R au carré, moins
+
+88
+00:07:18,040 --> 00:07:25,549
+la moitié de la hauteur du cylindre au carré. Maintenant, ce que vous pouvez remarquer et qu'on prend la racine carré de quelque chose et qu'on la met au carré
+
+89
+00:07:25,550 --> 00:07:28,339
+Ils s'annulent donc mutuellement
+
+90
+00:07:28,340 --> 00:07:30,369
+parfait, beaucoup plus simple a regarder
+
+91
+00:07:30,370 --> 00:07:38,659
+Mais maintenant, distribuons Pi aux termes entre le parenthèses. Donc Pi multiplié par R au carré donne Pi R carré
+
+92
+00:07:38,660 --> 00:07:44,149
+Pi multiplié par moins y (-y), donne Pi moins y au carré
+
+93
+00:07:44,150 --> 00:07:46,189
+Ensuite, un Pi négatif multiplié par R
+
+94
+00:07:46,190 --> 00:07:54,859
+au carré, donne moins Pi R au carré ,moins Pi, multiplié par moins h sur 2 carré donne Pi
+
+95
+00:07:54,860 --> 00:07:56,659
+h sur 2
+
+96
+00:07:56,660 --> 00:08:03,219
+Au carré. Bon, maintenant on peut continuer a simplifier, mais ce que vous allez surement remarquer est que nous avons un Pi R carré et un
+
+97
+00:08:03,220 --> 00:08:07,039
+moins Pi R carré, donc c'Est égale à 0 , donc ils
+
+98
+00:08:07,040 --> 00:08:11,299
+s'annulent mutuellement. Mais ce qui nous reste
+
+99
+00:08:11,300 --> 00:08:18,359
+sont des termes ne contenant aucune mentions du rayon des sphères, peu importe si le rayon est grand ou petit
+
+100
+00:08:18,360 --> 00:08:23,299
+C'est sans importance, tout ce que vous devez savoir pour trouver l'aire de la coupe-transversale d'un anneau de serviette
+
+101
+00:08:23,300 --> 00:08:25,579
+est la hauteur du rayon de serviette
+
+102
+00:08:25,580 --> 00:08:32,219
+Y, bien sûr, est lié par la hauteur d'un anneau de serviette. Ces régions bleues on la même aire l'une et l'autre et ceci va être
+
+103
+00:08:32,220 --> 00:08:41,019
+vrai, peu importe où on coupe la section-transversale au travers de la serviette, par le principe de Cavalieri, ça veut dire que les deux anneaux de serviettes on le même
+
+104
+00:08:41,020 --> 00:08:43,099
+volume
+
+105
+00:08:43,100 --> 00:08:47,699
+Yay...
+
+106
+00:08:47,700 --> 00:08:50,019
+(avec dents)
+
+107
+00:08:50,020 --> 00:08:54,279
+Mais, qu'est-ce que tout cela vous dire pour vous, pour la vie dans l'univers
+
+108
+00:08:54,280 --> 00:08:58,779
+Et bien, à ce qu'on sait, si vous l'aimez, mettez lui un anneau
+
+109
+00:08:58,780 --> 00:09:00,679
+Mais si vous l'aimez
+
+110
+00:09:00,680 --> 00:09:05,199
+et ne connaissez pas la grosseur de son doigt et que vous voulez donnez une quantité prédéterminé de matériel
+
+111
+00:09:05,200 --> 00:09:09,639
+vous devriez lui mettre un anneau de serviette.
+
+112
+00:09:09,640 --> 00:09:11,899
+Et comme toujours,
+
+113
+00:09:11,900 --> 00:09:21,459
+Merci d'avoir regardé
+
+114
+00:09:21,460 --> 00:09:23,859
+Le 21 août
+
+115
+00:09:23,860 --> 00:09:31,599
+2017, il va y avoir une éclipse solaire totale. L'ombre de la lune va traverser les États-Unis
+
+116
+00:09:31,600 --> 00:09:35,489
+Ça va être incroyable et un peu épeurant
+
+117
+00:09:35,490 --> 00:09:42,039
+j'en suis sûr. Je vais la regarder depuis l'Oregon avec mes amis, à Atlas, Obscura. Je n'en peu plus d'attendre. Mais gardez vos yeux
+
+118
+00:09:42,040 --> 00:09:47,699
+en sécurité si vous voulez regarder l'éclipse vous devez avoir des protections sur les yeux
+
+119
+00:09:47,700 --> 00:09:52,819
+la boite ''curiosity'' viens avec des lunettes comme celles-ci
+
+120
+00:09:52,820 --> 00:10:00,399
+Elle bloquent 99.999% de la lumière visible, c'est ce que ça prend pour pouvoir regarder droit vers le soleil. Ce que j'aime à propos de ces lunettes est que
+
+121
+00:10:00,400 --> 00:10:04,059
+Si il n'y a pas d’éclipse normalement  vous pouvez quand même regarder droit vers le soleil
+
+122
+00:10:04,060 --> 00:10:07,679
+vous remarquerez que c'Est une sphère. Essayé d'imaginer quelle sorte d'anneau de serviette
+
+123
+00:10:07,680 --> 00:10:09,789
+vous aimeriez en faire le soleil. La présente
+
+124
+00:10:09,790 --> 00:10:15,539
+boite ''curiosity'' est a favorite. Celle que vous obtiendrez, si vous souscrivez maintenant, viens avec toutes sortes de choses cool, elle vient avec
+
+125
+00:10:15,540 --> 00:10:23,539
+un poster qui montre que toutes les planètes, ainsi que pluton, peuvent rentrer entre la terre et la lune, elle vient aussi avec des gadgets de sciences comme ces
+
+126
+00:10:23,540 --> 00:10:26,499
+ces aimants qui lévitent en forme d'anneau
+
+127
+00:10:26,500 --> 00:10:32,109
+très cool.. Aussi, une partie de l'argent amassé va être donné pour la recherche sur l’Alzheimer,  donc c'est bon pour votre cerveau et
+
+128
+00:10:32,110 --> 00:10:41,338
+pour le cerveau de tout le monde allez vérifiez. J'espère de vous voir à Brain Candy en direct, et comme toujours,
+
+129
+00:10:41,339 --> 00:10:43,339
+Merci d'Avoir regardé
+

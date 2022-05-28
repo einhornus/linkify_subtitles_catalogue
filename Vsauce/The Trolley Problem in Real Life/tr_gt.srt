@@ -1,0 +1,3745 @@
+1
+00:00:12,767 --> 00:00:15,967
+[hapşırır] Pardon.
+
+2
+00:00:15,968 --> 00:00:17,566
+Biliyor musun,
+ben kullanıyor olsaydım,
+
+3
+00:00:17,567 --> 00:00:19,132
+bu
+oldukça tehlikeli olurdu.
+
+4
+00:00:19,133 --> 00:00:20,366
+Her hapşırdığınızda,
+
+5
+00:00:20,367 --> 00:00:22,633
+gözleriniz
+yaklaşık bir saniye kapanır,
+
+6
+00:00:22,634 --> 00:00:25,500
+bu da
+, örneğin
+
+7
+00:00:25,501 --> 00:00:29,633
+saatte 70 mil çarpı 5,280
+bölü 60 bölü 60'ta araba kullanırken hapşırırsanız,
+
+8
+00:00:29,634 --> 00:00:35,766
+gözleriniz kapalıyken yaklaşık 103 fit seyahat edeceksiniz demektir
+.
+
+9
+00:00:35,767 --> 00:00:36,967
+Ama endişelenme.
+
+10
+00:00:36,968 --> 00:00:38,733
+Bu kendi kendine giden bir araba.
+
+11
+00:00:38,734 --> 00:00:41,600
+Beni ve diğer insanları güvende tutmak için sensörler ve yazılımlar kullanıyor
+
+
+12
+00:00:41,601 --> 00:00:44,032
+
+.
+
+13
+00:00:44,033 --> 00:00:45,833
+Umarım.
+
+14
+00:00:45,834 --> 00:00:47,700
+[lastikler gıcırdıyor]
+
+15
+00:00:47,701 --> 00:00:50,500
+Etkileyici.
+Ama sana bir soru sorayım.
+
+16
+00:00:50,501 --> 00:00:52,566
+Ya otonom bir araç
+
+
+17
+00:00:52,567 --> 00:00:54,900
+
+, önündeki iki kişiye çarpmak
+
+18
+00:00:54,901 --> 00:00:57,032
+veya onlardan kaçınmak için savrulup kaldırımda
+
+19
+00:00:57,033 --> 00:00:59,633
+bir kişiye çarpmak arasında bir seçim yapmak zorunda kalırsa
+?
+
+20
+00:00:59,634 --> 00:01:01,867
+Ne
+yapmak için programlanmalıdır?
+
+21
+00:01:01,868 --> 00:01:04,166
+[lastikler gıcırdıyor, araba çarpıyor]
+
+22
+00:01:04,167 --> 00:01:05,700
+Ne yapardınız?
+
+23
+00:01:05,701 --> 00:01:07,666
+Şimdi
+,
+
+24
+00:01:07,667 --> 00:01:09,433
+insanlara ne yapacaklarını düşündüklerini soran anketler ve anketler bir araya getirildi
+,
+
+25
+00:01:09,434 --> 00:01:11,700
+ancak hiçbir araştırmacı
+
+
+26
+00:01:11,701 --> 00:01:14,867
+insanları bu gerçek
+travmatik deneyime sokmadı.
+
+27
+00:01:14,868 --> 00:01:17,967
+Bunu yapsaydık, insan doğası hakkında daha fazla şey öğrenir miydik?
+
+
+28
+00:01:17,968 --> 00:01:21,032
+
+İnsanları bu tür bir konuma sokmak etik olur mu?
+
+29
+00:01:21,033 --> 00:01:23,766
+öğrenmek üzereyim.
+
+30
+00:01:23,767 --> 00:01:38,633
+[tema müziği çalıyor
+
+31
+00:01:38,634 --> 00:01:42,299
+] 1967'de İngiliz filozof
+Philippa Foot
+
+32
+00:01:42,300 --> 00:01:45,967
+,
+kendi kendini süren araba bilmecemize bir öncü oluşturdu.
+
+33
+00:01:45,968 --> 00:01:47,967
+Ortaya koyduğu ünlü senaryo
+
+
+34
+00:01:47,968 --> 00:01:49,933
+
+"tramvay sorunu" olarak biliniyor.
+
+35
+00:01:49,934 --> 00:01:53,466
+Bir tren yolundan hızla aşağı inen kaçak bir tren olduğunu hayal edin
+.
+
+36
+00:01:53,467 --> 00:01:55,166
+Trenin hemen önünde, rayda
+
+37
+00:01:55,167 --> 00:01:57,733
+beş kişi
+var.
+
+38
+00:01:57,734 --> 00:02:00,466
+Şimdi,
+
+
+39
+00:02:00,467 --> 00:02:03,633
+bu beş kişiye yardım edemeyecek kadar uzakta olduğunuzu hayal edin,
+ama hemen yanıbaşınızda
+
+40
+00:02:03,634 --> 00:02:07,766
+
+, treni başka bir raya yönlendirebilecek bir kol var.
+
+41
+00:02:07,767 --> 00:02:11,900
+Trenin yönünü değiştirirseniz
+, beş kişi kurtulacak.
+
+42
+00:02:11,901 --> 00:02:13,366
+Ama işin püf noktası burada.  İkinci yolda
+
+43
+00:02:13,367 --> 00:02:15,800
+bir kişi daha
+var.
+
+44
+00:02:15,801 --> 00:02:18,132
+Şimdi bir ikilemle karşı karşıyasınız.
+
+45
+00:02:18,133 --> 00:02:19,466
+Ya hiçbir şey yapmazsın
+
+46
+00:02:19,467 --> 00:02:21,700
+ve
+tren beş kişiyi öldürür
+
+47
+00:02:21,701 --> 00:02:25,266
+ya da kolu
+çekip hayatlarını kurtarabilirsin,
+
+48
+00:02:25,267 --> 00:02:29,867
+ama
+bir kişinin ölümünden doğrudan sorumlu olursun.
+
+49
+00:02:29,868 --> 00:02:31,566
+Sen ne yapardın?
+
+50
+00:02:31,567 --> 00:02:34,333
+Anket yapıldığında, çoğu insan
+kolu çekeceklerini
+
+51
+00:02:34,334 --> 00:02:37,566
+ve
+beş kişiyi kurtarmak için bir kişiyi feda edeceklerini söylüyor.
+
+52
+00:02:37,567 --> 00:02:39,666
+Bu daha büyük bir iyilik için.
+
+53
+00:02:39,667 --> 00:02:42,399
+Ancak
+
+
+54
+00:02:42,400 --> 00:02:46,266
+
+, senaryo gerçekten
+
+55
+00:02:46,267 --> 00:02:49,967
+gerçek duygular
+ve gerçek hayatlar söz konusu olduğunda, nasıl davranacağımızı söylediğimiz, gerçekte nasıl davranacağımızla eşleşmeyebilir.
+
+56
+00:02:49,968 --> 00:02:53,466
+İkisi arasındaki herhangi bir fark,
+kim olduğumuzu olmak istediğimizi ortaya çıkaracaktır
+
+57
+00:02:53,467 --> 00:02:56,600
+,
+ancak bir karşılaştırma ancak
+
+58
+00:02:56,601 --> 00:03:00,800
+
+daha önce hiç yapılmamış olanı yaparak yapılabilir:
+
+59
+00:03:00,801 --> 00:03:14,666
+tramvay problemini gerçeğe dönüştürmek.
+
+60
+00:03:14,667 --> 00:03:16,733
+[Michael] Diyelim ki
+bir deney
+
+61
+00:03:16,734 --> 00:03:19,433
+gerçekçi bir demiryolunda
+geçiş istasyonu
+
+62
+00:03:19,434 --> 00:03:22,600
+deneklerle  i>
+monitörlerden trenleri izlemek.
+
+63
+00:03:22,601 --> 00:03:25,533
+Trenler ve insanlar
+raylardaki insanlar
+
+64
+00:03:25,534 --> 00:03:27,867
+sahnelenecekti
+ve  önceden kaydedilmiş,
+
+65
+00:03:27,868 --> 00:03:30,500
+ancak denekler
+tüm bunların gerçek
+
+66
+00:03:30,501 --> 00:03:32,733
+olduğunu düşüneceklerdi Bir kolu kontrol edebileceklerine inanacaklardı
+
+
+67
+00:03:32,734 --> 00:03:34,600
+rayları değiştiren,
+
+68
+00:03:34,601 --> 00:03:37,600
+ ve trenin yönünü değiştirip değiştirmeme seçeneğine sahip olacaklar
+.
+
+69
+00:03:37,601 --> 00:03:40,867
+Onlar  beş ya da bir hayat arasında
+seçim yapmak zorunda olduklarına
+
+70
+00:03:40,868 --> 00:03:43,633
+ tamamen ikna olmuş.
+
+71
+00:03:43,634 --> 00:03:46,466
+Ama
+
+
+72
+00:03:46,467 --> 00:03:49,399
+bir dakika
+, daha iyiye yönelik bir deney yapmakla ilgili daha iyi bir ikilem var.
+
+73
+00:03:49,400 --> 00:03:52,066
+
+İnsanları gerçekten
+
+74
+00:03:52,067 --> 00:03:55,066
+birini öldürebileceklerine inandırarak, onlara
+
+
+75
+00:03:55,067 --> 00:03:57,466
+ciddi psikolojik zarar
+verme riskini alıyor muyuz?
+
+76
+00:03:57,467 --> 00:04:01,466
+Evet,
+neler olduğunu görmek hepimiz için faydalı
+
+77
+00:04:01,467 --> 00:04:06,700
+olabilir, ancak bu faydalar
+birkaç kişi için potansiyel travmaya değer mi?
+
+78
+00:04:06,701 --> 00:04:10,233
+
+Gerçek hayattaki bir tramvay problemini gerçekten yürütmek için
+
+79
+00:04:10,234 --> 00:04:13,366
+
+bunun etik olduğundan emin olmam gerekiyordu.
+
+80
+00:04:13,367 --> 00:04:16,032
+Böylece
+davranışsal sinirbilimci
+
+81
+00:04:16,033 --> 00:04:18,199
+Profesör Aaron Blaisdell ile görüştüm.
+
+82
+00:04:18,200 --> 00:04:20,266
+
+Tramvay sorunu
+
+83
+00:04:20,267 --> 00:04:22,466
+hakkında ne biliyorsunuz ve daha önceki çalışmalar neler
+buldu?
+
+84
+00:04:22,467 --> 00:04:25,299
+Çoğu insan
+anahtarı çekeceklerini söylüyor.
+
+85
+00:04:25,300 --> 00:04:27,967
+Elbette, beşe karşı bir hayat.
+Matematik işe yarıyor.
+
+86
+00:04:27,968 --> 00:04:30,633
+Ama bilmek
+istediğim şu ki,
+onları insanlara doğru gelen
+
+87
+00:04:30,634 --> 00:04:34,132
+bir treni izleyen bir şalterin önüne
+koyarsak,
+
+88
+00:04:34,133 --> 00:04:36,633
+gerçekten
+o anda çekerler mi?
+
+89
+00:04:36,634 --> 00:04:40,366
+Eminim birçoğu
+
+o anda donardı.
+
+90
+00:04:40,367 --> 00:04:41,700
+Korktuğunda,
+
+91
+00:04:41,701 --> 00:04:44,500
+bence bu
+birçok eylemi kapatıyor.
+
+92
+00:04:44,501 --> 00:04:46,366
+-Öğrenmek isterim.
+-Peki.  Bu durumdaki birine
+
+93
+00:04:46,367 --> 00:04:49,500
+ne gibi potansiyel zararlar
+gelebilir?
+
+94
+00:04:49,501 --> 00:04:50,833
+Çoğu insan
+muhtemelen iyi olurdu,
+
+95
+00:04:50,834 --> 00:04:53,500
+ancak
+birinin kararından
+
+96
+00:04:53,501 --> 00:04:57,633
+dolayı
+
+
+97
+00:04:57,634 --> 00:05:00,800
+
+suçluluk duyması,
+
+98
+00:05:00,801 --> 00:05:02,933
+"
+Bu düğmeye basıp
+
+99
+00:05:02,934 --> 00:05:05,666
+trenin gitmesine
+ve  birini öldür."
+
+100
+00:05:05,667 --> 00:05:08,766
+Ya da
+"
+Donup kalacak olan
+
+101
+00:05:08,767 --> 00:05:11,399
+benim ve
+o beş kişiye yardım edemem"
+
+102
+00:05:11,400 --> 00:05:13,466
+diye düşünebilirler ve bu travmatik olabilir.
+
+103
+00:05:13,467 --> 00:05:16,266
+
+Tramvay problemini
+
+104
+00:05:16,267 --> 00:05:19,132
+gerçekten insan denekler üzerinde hiç test ettik mi?
+
+105
+00:05:19,133 --> 00:05:20,999
+Bildiğim
+kadarıyla, yapmadık.  Gerçek hayatta uygulanan tramvay
+
+106
+00:05:21,000 --> 00:05:23,600
+problemini görmek ister misiniz
+
+
+107
+00:05:23,601 --> 00:05:24,867
+?
+
+108
+00:05:24,868 --> 00:05:26,633
+Biliyorsun, yapardım.
+
+109
+00:05:26,634 --> 00:05:30,166
+Bu,
+
+insanların gerçekte nasıl tepki verdiği konusunda çok bilgilendirici olurdu.
+
+110
+00:05:30,167 --> 00:05:33,132
+-Eğer sana
+bunu yürüteceğimizi
+söyleseydim... -Tamam.
+
+111
+00:05:33,133 --> 00:05:34,633
+...omuzlarınızdaki bu sorumlulukla rahat hisseder miydiniz
+
+112
+00:05:34,634 --> 00:05:36,867
+
+?
+
+113
+00:05:36,868 --> 00:05:40,233
+Hayır. Yapamadım.
+
+114
+00:05:40,234 --> 00:05:42,399
+Benim
+
+
+115
+00:05:42,400 --> 00:05:45,766
+buna dahil olmam için
+,
+
+116
+00:05:45,767 --> 00:05:47,433
+bir etik kurulu da dahil olmak üzere birçok insanın omuzlarında olması gerekir.
+
+117
+00:05:47,434 --> 00:05:49,199
+Sadece
+bununla devam edemezdim.
+
+118
+00:05:49,200 --> 00:05:50,500
+[Michael]
+Dr.  Blaisdell'in
+
+119
+00:05:50,501 --> 00:05:52,533
+bir etik kuruluna güvenmesi mantıklıydı.
+
+120
+00:05:52,534 --> 00:05:55,066
+Çoğu üniversitede
+cevap verecek etik inceleme kurulları var
+
+121
+00:05:55,067 --> 00:05:57,766
+yanıtlanacak
+önemli bir soru:</i
+
+122
+00:05:57,767 --> 00:06:00,967
+> Bilim adına psikolojik zarar verme riskini almak ne zaman uygundur
+
+
+123
+00:06:00,968 --> 00:06:03,166
+?
+
+124
+00:06:03,167 --> 00:06:05,366
+[Anlatıcı]
+Yıl 1962.
+
+125
+00:06:05,367 --> 00:06:08,066
+Yale Üniversitesi'nde bir deney yapılıyor
+.
+
+126
+00:06:08,067 --> 00:06:10,666
+[Michael] Etik inceleme kurulları
+geçen yüzyılın ortalarında
+
+127
+00:06:10,667 --> 00:06:13,399
+bazı tartışmalı
+psikolojik deneylerin
+
+128
+00:06:13,400 --> 00:06:15,233
+sonucu geliştirilmiştir
+.  
+
+129
+00:06:15,234 --> 00:06:17,533
+Bir teori, insanların bir hata
+
+
+130
+00:06:17,534 --> 00:06:19,500
+yaptıkları için cezalandırıldıklarında her şeyi doğru öğrendikleridir
+.
+
+131
+00:06:19,501 --> 00:06:21,333
+-[buzzer]
+-Yanlış.
+
+132
+00:06:21,334 --> 00:06:23,533
+Şimdi
+105 voltluk bir şok alacaksınız.
+
+133
+00:06:23,534 --> 00:06:25,233
+[adam homurdanır]
+
+134
+00:06:25,234 --> 00:06:27,066
+[Michael]
+Dr.  Stanley Milgram
+
+135
+00:06:27,067 --> 00:06:28,700
+
+denelerin otoriteye itaat etmede ne kadar ileri gidebileceğini
+
+136
+00:06:28,701 --> 00:06:31,166
+
+inanmış olsalar bile
+
+137
+00:06:31,167 --> 00:06:33,032
+fiziksel olarak
+birine zarar veriyorlardı.
+
+138
+00:06:33,033 --> 00:06:34,967
+330 volt.
+
+139
+00:06:34,968 --> 00:06:37,299
+[adam bağırıyor]
+
+140
+00:06:37,300 --> 00:06:39,666
+Kimse elektrik çarpmıyordu,
+ve şok kurbanının çığlıkları
+
+141
+00:06:39,667 --> 00:06:43,199
+sahteydi,
+ancak travma
+
+142
+00:06:43,200 --> 00:06:45,833
+katılımcıların çektiği acı
+çok gerçekti.
+
+143
+00:06:45,834 --> 00:06:48,032
+[adam]
+Beni burada tutmaya hakkınız yok!
+Çıkmama izin ver!
+
+144
+00:06:48,033 --> 00:06:49,333
+Bu,
+
+145
+00:06:49,334 --> 00:06:50,800
+
+bilim topluluğu içinde tartışmaya yol açtı.
+
+146
+00:06:50,801 --> 00:06:53,132
+Birçoğu sorgulandı
+Milgram'ın metodolojisi,
+
+147
+00:06:53,133 --> 00:06:56,733
+ama bir araştırma okulundan farklı olarak,
+Mind Field
+
+148
+00:06:56,734 --> 00:06:58,666
+bir üniversitenin
+etik kuruluna yanıt vermiyor.
+
+149
+00:06:58,667 --> 00:07:00,600
+Bununla birlikte,  
+
+
+150
+00:07:00,601 --> 00:07:03,199
+Bir kurumsal kuruluşun
+inceleme kurulunun düşüncelerini almak istedim,
+
+151
+00:07:03,200 --> 00:07:05,466
+bu yüzden bir tane buldum
+ve fikrimi
+
+152
+00:07:05,467 --> 00:07:08,733
+araba problemini yapmak için
+gerçek hayatta önerdim.
+
+153
+00:07:08,734 --> 00:07:10,733
+Sence bu çalışmayı onaylarken kendini rahat hissedeceğin bir noktaya gelebilir miyim
+
+
+154
+00:07:10,734 --> 00:07:13,466
+
+?
+
+155
+00:07:13,467 --> 00:07:16,833
+Kötü haberlerin taşıyıcısı olmaktan nefret ediyorum
+, Michael.
+
+156
+00:07:16,834 --> 00:07:19,132
+Muhtemelen değil.  Henüz
+
+157
+00:07:19,133 --> 00:07:21,900
+hayır demeye hazır
+değilim.
+
+158
+00:07:21,901 --> 00:07:24,600
+
+Çalışma kartınızı görmeyi çok
+
+159
+00:07:24,601 --> 00:07:26,299
+isterim ve aslında
+bunu geçmenin yollarının
+
+160
+00:07:26,300 --> 00:07:28,333
+
+
+
+161
+00:07:28,334 --> 00:07:30,633
+muhtemelen travma sonrası
+stres bozukluğu olan insanları taramamız gerektiğini düşünüyorum,
+
+162
+00:07:30,634 --> 00:07:32,933
+bilirsiniz, herhangi bir
+klinik problem gibi,
+
+163
+00:07:32,934 --> 00:07:34,833
+onları alabilecekleri.  yerinde travma danışmanı
+
+
+164
+00:07:34,834 --> 00:07:39,366
+gibi bir şeyin eklenmesiyle bu tür bir olaya karşı daha savunmasız
+
+
+165
+00:07:39,367 --> 00:07:41,066
+.
+
+166
+00:07:41,067 --> 00:07:43,266
+Aslında
+bu şartlar altında
+
+167
+00:07:43,267 --> 00:07:44,967
+-geçebileceğini düşünüyorum.
+-Bu çalışmanın toplumsal yararına ilişkin
+
+168
+00:07:44,968 --> 00:07:47,967
+ikna edici bir vaka sunabilir misiniz
+?
+
+169
+00:07:47,968 --> 00:07:49,566
+-Kabul ediyorum.
+-
+
+170
+00:07:49,567 --> 00:07:51,199
+"Bakın,
+işte bu yüzden önemli" demenin bir yolunu bulabilseydiniz.
+
+171
+00:07:51,200 --> 00:07:53,233
+Bu sadece temel
+teorik araştırma değil.
+
+172
+00:07:53,234 --> 00:07:56,633
+Bunun
+toplu taşıma için
+
+173
+00:07:56,634 --> 00:07:59,466
+doğrudan etkileri
+, kendi kendini süren arabalar için doğrudan sonuçları
+
+174
+00:07:59,467 --> 00:08:01,099
+var. Bu bir risk-fayda,
+
+175
+00:08:01,100 --> 00:08:02,933
+ancak
+faydaları potansiyel olarak muazzamdır."
+
+176
+00:08:02,934 --> 00:08:07,700
+Doğru, bu yüzden
+umuyorum ki
+bu deneyin yaptığı
+
+177
+00:08:07,701 --> 00:08:12,900
+iyi şey
+
+içgüdü
+
+178
+00:08:12,901 --> 00:08:16,466
+ve felsefi düşünce arasındaki farkı ortaya çıkarmaktır
+
+179
+00:08:16,467 --> 00:08:19,500
+ve bence bu farkı öğrenmenin
+muazzam bir yararı olabilir
+
+180
+00:08:19,501 --> 00:08:22,266
+,
+böylece insanları bu şekilde hareket etmeleri için eğitebiliriz
+
+181
+00:08:22,267 --> 00:08:25,299
+
+.  isterlerse isterler.
+
+182
+00:08:25,300 --> 00:08:27,266
+-[David] Evet.
+-[Natasha] Bu ilginç.
+
+183
+00:08:27,267 --> 00:08:29,733
+- Bu zorlayıcı bir argüman.
+-[Natasha] Evet.
+
+184
+00:08:29,734 --> 00:08:33,666
+Bu toplantıya
+çok fazla direniş bekleyerek
+
+185
+00:08:33,667 --> 00:08:36,966
+geldim, ama bunun yerine, aslında
+
+
+186
+00:08:36,967 --> 00:08:39,365
+
+onların endişelerini almak,
+
+187
+00:08:39,366 --> 00:08:41,099
+onları çalışmaya uygulamak
+
+188
+00:08:41,100 --> 00:08:43,298
+ve sadece
+daha kabul edilebilir kılmakla kalmayıp, amacın
+
+189
+00:08:43,299 --> 00:08:44,600
+bu olduğunu düşündüğüm
+için canlanmış, heyecanlı bir şekilde ayrılıyorum.
+
+190
+00:08:44,601 --> 00:08:46,800
+ama aslında onu
+daha faydalı,
+
+191
+00:08:46,801 --> 00:08:50,366
+daha büyüleyici kılmak,
+daha derine nüfuz etmek
+
+192
+00:08:50,367 --> 00:08:57,399
+ve toplumda daha fazla uygulamaya sahip olmak için
+.
+
+193
+00:08:57,400 --> 00:09:00,967
+Bu yüzden
+
+
+194
+00:09:00,968 --> 00:09:02,366
+
+, en kötü şöhretli
+
+195
+00:09:02,367 --> 00:09:06,666
+varsayımsal etik ikilemlerden
+birini gerçeğe dönüştürmek için ilerlemeye hazır olduğumuza karar verdim.
+
+196
+00:09:06,667 --> 00:09:10,533
+[tren kornası ötüyor]
+
+197
+00:09:10,534 --> 00:09:12,766
+
+Terk edilmiş bir demiryolu hattına gittik
+
+198
+00:09:12,767 --> 00:09:14,399
+ve bir yük treni kiraladık
+
+199
+00:09:14,400 --> 00:09:17,533
+Konularımızın gösterilmesi gerekiyordu  i>
+geçiş noktaları nasıl çalışır?
+
+200
+00:09:17,534 --> 00:09:19,533
+Öyleyse "Zihin Alanı"
+prodüksiyon ekibi
+
+201
+00:09:19,534 --> 00:09:22,433
+bir trenin videosunu çekti
+iki raydan iniyorum.
+
+202
+00:09:22,434 --> 00:09:26,566
+Sonra altı oyuncuyu
+demiryolu işçileri gibi giydirdik.
+
+203
+00:09:26,567 --> 00:09:28,666
+Onları istemediğimiz için
+gerçek zarar riskleri altında
+
+204
+00:09:28,667 --> 00:09:30,366
+olmak için güvende olduklarından emin olmak için adımlar aldık
+.
+
+205
+00:09:30,367 --> 00:09:33,132
+Hepiniz
+yolda işçiler olacaksınız.
+
+206
+00:09:33,133 --> 00:09:35,199
+
+Siz raylardayken treni hareket ettirmeyeceğiz
+
+207
+00:09:35,200 --> 00:09:36,766
+.
+
+208
+00:09:36,767 --> 00:09:39,466
+[Michael] Açıklamak için
+oyuncularımızı pistlerde
+
+209
+00:09:39,467 --> 00:09:41,299
+koruyucu kulaklık takmış
+ve dikkati dağılmış
+
+210
+00:09:41,300 --> 00:09:42,500
+filme aldık  
+neden onlara doğru gelen bir treni duyamadılar
+
+211
+00:09:42,501 --> 00:09:44,233
+Onlara doğru gelen bir tren.
+
+212
+00:09:44,234 --> 00:09:47,433
+Sonra kurguda
+görsel efektler kullandık  i>
+
+213
+00:09:47,434 --> 00:09:50,233
+yaklaşan trenin yanılsamasını yaratmak
+.
+
+214
+00:09:50,234 --> 00:09:52,266
+Sonra çekimleri birleştirdik
+.
+
+215
+00:09:52,267 --> 00:09:54,466
+Süreç sırasında  deneyde,
+videoyu izleyecektik
+
+216
+00:09:54,467 --> 00:09:56,132
+deneklerimiz için
+kim inanırdı
+
+217
+00:09:56,133 --> 00:09:57,999
+eylem canlı olarak gerçekleşti  i>
+
+218
+00:09:58,000 --> 00:10:02,500
+ve iletildi
+uzak kameralardan.
+
+219
+00:10:02,501 --> 00:10:04,600
+Bir sonraki adımımız
+bir uzman bulmaktı
+
+220
+00:10:04,601 --> 00:10:08,399
+  psikolojik zararı en aza indirmek için konularımızı seçme
+ sürecinde bana rehberlik etmeye istekli
+
+221
+00:10:08,400 --> 00:10:11,433
+
+.
+
+222
+00:10:11,434 --> 00:10:13,366
+Peki ne için
+endişelenmeliyim?
+
+223
+00:10:13,367 --> 00:10:16,733
+En kötüsü muhtemelen
+travma sonrası stres bozukluğu olurdu
+
+224
+00:10:16,734 --> 00:10:19,600
+ve o zaman
+
+travmayı yeniden yaşayacaklar.
+
+225
+00:10:19,601 --> 00:10:21,766
+Bunu tekrar tekrar düşünmeye devam
+
+
+226
+00:10:21,767 --> 00:10:25,466
+edecekler ve bu nedenle riski sınırlamak
+
+
+227
+00:10:25,467 --> 00:10:27,600
+için
+, travmatik tepkiye yatkın insanları elemek isteyeceksiniz
+
+228
+00:10:27,601 --> 00:10:29,733
+ve ardından
+bilgi almak isteyeceksiniz.
+
+229
+00:10:29,734 --> 00:10:32,867
+
+Oluşabilecek zararı sınırlamanın anahtarı budur
+.  Şu
+
+230
+00:10:32,868 --> 00:10:34,132
+anda nasıl hissediyorlar
+?
+
+231
+00:10:34,133 --> 00:10:35,633
+Onlara ne oluyor?
+
+232
+00:10:35,634 --> 00:10:37,666
+Onları
+
+
+233
+00:10:37,667 --> 00:10:40,533
+, düşündükleri şey
+yerine, olanın gerçekliğine alıştırmaya başlayabilirsiniz
+.  Bu deneyi
+
+234
+00:10:40,534 --> 00:10:43,933
+yapmamıza yardım etmek ister misiniz
+?
+
+235
+00:10:43,934 --> 00:10:45,967
+Oh, uh...
+
+236
+00:10:45,968 --> 00:10:47,967
+evet, yani,
+sanırım yapardım.
+
+237
+00:10:47,968 --> 00:10:49,466
+
+Bunun gerçekten büyüleyici
+
+238
+00:10:49,467 --> 00:10:52,566
+ve değerli bir deney olduğunu düşünüyorum,
+çünkü insanlar
+
+239
+00:10:52,567 --> 00:10:56,099
+
+daha sonra öğrenmeye başlayacakları çok rahatsız edici derslere sahip olabilirler.
+
+240
+00:10:56,100 --> 00:10:59,266
+Böyle bir şeyi yapmak
+
+için uygun olabilecek insanları aldığımızdan emin olabilirsem
+
+241
+00:10:59,267 --> 00:11:08,900
+,
+bundan onur duyacağım.
+
+242
+00:11:08,901 --> 00:11:11,333
+[kadın] Hızlı tren
+için yaptığımız bir çalışma için arıyorum
+
+243
+00:11:11,334 --> 00:11:12,700
+.
+
+244
+00:11:12,701 --> 00:11:13,900
+Gelecek hafta katılmak isteyip istemediğinizi bilmek istedim
+
+
+245
+00:11:13,901 --> 00:11:15,800
+.
+
+246
+00:11:15,801 --> 00:11:18,766
+[Michael]
+Deneyimizin gerçek doğasını gizlemek
+için 
+
+247
+00:11:18,767 --> 00:11:21,299
+çevrimiçi bir reklam yerleştirdik
+insanları işe almak
+
+248
+00:11:21,300 --> 00:11:23,600
+  sahte bir odak grubu için
+
+
+249
+00:11:23,601 --> 00:11:26,066
+Kaliforniya'nın yeni yüksek hızlı treni hakkında geri bildirimde bulunmak.
+
+250
+00:11:26,067 --> 00:11:29,500
+Bugün size sadece şunu soracağım.
+grubumuzda
+
+251
+00:11:29,501 --> 00:11:32,833
+
+bir dizi kişilik tipi olduğundan emin olmak
+
+252
+00:11:32,834 --> 00:11:36,399
+
+ve TSA güvenlik amaçları için birkaç form doldurmak.
+
+253
+00:11:36,400 --> 00:11:38,166
+[Michael]
+İşverenler tarafından sıklıkla kullanılan bu psikolojik anketler
+
+254
+00:11:38,167 --> 00:11:39,700
+depresyon, kaygı,
+
+255
+00:11:39,701 --> 00:11:42,299
+belirtilerini ortaya çıkarmaya çalışıyor
+
+
+256
+00:11:42,300 --> 00:11:44,233
+i>ve diğer koşullar
+birini bu
+
+257
+00:11:44,234 --> 00:11:46,967
+deneye katılmaya uygunsuz yapabilecek
+.
+
+258
+00:11:46,968 --> 00:11:48,733
+Çok teşekkür ederim.
+İyi günler.
+
+259
+00:11:48,734 --> 00:11:50,399
+Size.
+
+260
+00:11:50,400 --> 00:11:52,633
+Dr. Cason'ın ofisine döndüğünüzde,
+
+261
+00:11:52,634 --> 00:11:54,867
+potansiyelleri inceledik
+deneklerin yanıtlarını.
+
+262
+00:11:54,868 --> 00:11:58,700
+Bu özel kişi,
+Bu konuda endişeliydim.
+
+263
+00:11:58,701 --> 00:12:02,733
+Bazı yüksek intihar düşüncesi,
+yüksek oyunculuk.
+
+264
+00:12:02,734 --> 00:12:05,800
+Bu
+tür faktörler
+
+
+265
+00:12:05,801 --> 00:12:07,433
+
+
+
+266
+00:12:07,434 --> 00:12:09,700
+, travmanın bir kısmının
+gerçekleşmesini önlemeye çalışmak istediğiniz bir deneyde iyi olmayabilir.
+-Doğru.
+
+267
+00:12:09,701 --> 00:12:11,032
+Ancak bu insanlar
+
+268
+00:12:11,033 --> 00:12:12,733
+ve
+büyük bir grup var,
+
+269
+00:12:12,734 --> 00:12:14,633
+onlar daha dayanıklı.
+
+270
+00:12:14,634 --> 00:12:18,333
+Bu yüzden bu insanlarla daha rahat olurdum
+
+
+271
+00:12:18,334 --> 00:12:19,833
+çünkü zor durumlarda
+toparlanabilme yetenekleri onları travmaya
+
+272
+00:12:19,834 --> 00:12:22,333
+
+
+
+273
+00:12:22,334 --> 00:12:23,999
+karşı daha az duyarlı
+hale getirebilir.
+
+274
+00:12:24,000 --> 00:12:27,800
+[Michael] Sonunda,
+iki psikoloğa
+
+275
+00:12:27,801 --> 00:12:29,466
+ve bir üniversite etik kuruluna danıştıktan sonra
+
+276
+00:12:29,467 --> 00:12:46,566
+planımızı koymanın zamanı gelmişti
+eylemde.
+
+277
+00:12:46,567 --> 00:12:48,967
+[Michael] Gerçek hayatta tramvay
+problemini fiziksel olarak yaratacağımız yer burasıdır
+
+278
+00:12:48,968 --> 00:12:50,766
+
+
+
+279
+00:12:50,767 --> 00:12:53,433
+, bir tramvayla
+değil, bir trenle.
+
+280
+00:12:53,434 --> 00:12:55,433
+Deneklerimiz, aslında hiçbir zaman gerçekleşmeyecek olan
+
+
+281
+00:12:55,434 --> 00:12:56,666
+sahte odak testimiz için
+
+282
+00:12:56,667 --> 00:12:58,700
+bu stantta imza atacaklar
+.
+
+283
+00:12:58,701 --> 00:13:00,566
+Onlar
+için sıcak bir gün olacak.
+
+284
+00:13:00,567 --> 00:13:02,333
+Bu nedenle
+
+
+285
+00:13:02,334 --> 00:13:05,533
+, gerçek testin başlamasını beklerken onlara
+
+
+286
+00:13:05,534 --> 00:13:07,833
+bu güzel, klimalı
+uzaktan kumandalı anahtarlama istasyonunun içinde oturma şansını sunacağız.
+
+287
+00:13:07,834 --> 00:13:13,299
+İçeride, sözde California Demiryolu Otoritesinin bir çalışanı olan nazik bir
+tren şalter operatörüyle tanışacaklar
+
+288
+00:13:13,300 --> 00:13:15,433
+
+.
+
+289
+00:13:15,434 --> 00:13:17,800
+California Demiryolu
+Otoritesi gerçektir.
+
+290
+00:13:17,801 --> 00:13:19,433
+Gerçek sahte.
+
+291
+00:13:19,434 --> 00:13:22,666
+Var olmayan bu
+devlet teşkilatını
+
+292
+00:13:22,667 --> 00:13:26,633
+deneklerimizi
+buradaki her şeyin gerçek olduğuna ikna etmek için icat ettik
+
+293
+00:13:26,634 --> 00:13:30,333
+bu monitörler dahil   Kaliforniya bölgesindeki farklı raylardan gerçek trenlerin
+sözde canlı çekimlerini gösteriyor
+
+294
+00:13:30,334 --> 00:13:32,833
+
+
+
+295
+00:13:32,834 --> 00:13:34,633
+.
+
+296
+00:13:34,634 --> 00:13:38,666
+[korna çalar
+
+297
+00:13:38,667 --> 00:13:40,733
+] Katılımcı
+bu odanın içinde beklerken,
+
+298
+00:13:40,734 --> 00:13:42,733
+operatörün rayları nasıl değiştirdiğini öğrenecekler
+
+
+299
+00:13:42,734 --> 00:13:45,032
+bir kol kullanarak uzaktan kumandayı
+treni değiştir
+
+300
+00:13:45,033 --> 00:13:46,233
+bir raydan diğerine.
+
+301
+00:13:46,234 --> 00:13:47,666
+Bunun olduğunu görecekler.
+
+302
+00:13:47,667 --> 00:13:49,766
+Aslında
+
+
+303
+00:13:49,767 --> 00:13:52,700
+bu ekranlardaki videoyu
+farklı bir gizliden kontrol ediyoruz.  Kontrol odası.
+
+304
+00:13:52,701 --> 00:13:54,766
+Belirli bir zamanda,
+anahtar operatörü
+
+305
+00:13:54,767 --> 00:13:57,666
+konuyu anahtarlama istasyonunda kendi başına bırakır
+.
+
+306
+00:13:57,667 --> 00:14:02,299
+Ve o noktada  ,
+bir kriz meydana gelir.
+
+307
+00:14:02,300 --> 00:14:05,633
+-[frenler
+tıslıyor] -[korna çalıyor]
+
+308
+00:14:05,634 --> 00:14:07,967
+Bir tren
+raylardan aşağı iniyor olacak,
+
+309
+00:14:07,968 --> 00:14:09,967
+ve işçiler
+her iki raya da çıktılar
+
+310
+00:14:09,968 --> 00:14:15,132
+beş sonra  bir, bir işçi
+diğerinde telefonunda.
+
+311
+00:14:15,133 --> 00:14:17,266
+Etrafta
+
+
+312
+00:14:17,267 --> 00:14:19,500
+kimin herhangi bir kontrol veya yetkiye sahip olduğunu uyaracak kimse yok
+.
+
+313
+00:14:19,501 --> 00:14:21,999
+Treni değiştirmek
+yalnızca konuya bağlı.
+
+314
+00:14:22,000 --> 00:14:25,132
+ Yaptıklarının gerçek dünyada sonuçları olduğunu hissedecekler.
+i>
+
+315
+00:14:25,133 --> 00:14:27,800
+-[tren kornası çalar]
+-Beş kişi mi ölecek...
+
+316
+00:14:27,801 --> 00:14:30,733
+yoksa bir kişi mi ölecek?
+
+317
+00:14:30,734 --> 00:14:37,700
+[korna sesleri
+
+318
+00:14:37,701 --> 00:14:40,333
+] İlk
+katılımcımız neredeyse geldi,
+
+319
+00:14:40,334 --> 00:14:41,900
+bu yüzden hazırlanma zamanım geldi
+.
+
+320
+00:14:41,901 --> 00:14:44,500
+Doktor Cason,
+nasıl hissediyorsunuz?
+
+321
+00:14:44,501 --> 00:14:46,500
+-İyi.
+- Benim hipotezim
+
+322
+00:14:46,501 --> 00:14:49,500
+,
+
+
+323
+00:14:49,501 --> 00:14:51,099
+
+insanları ilk uyarıyı duyduklarında hemen göreceğimiz
+
+324
+00:14:51,100 --> 00:14:53,566
+, istasyonu terk edip
+tekrar içeri girmek istemeyeceği yönünde.
+
+325
+00:14:53,567 --> 00:14:56,132
+Diğer seçenek
+, elbette
+, dondurma eylemi olacaktır,
+
+326
+00:14:56,133 --> 00:14:57,700
+burada
+hiçbir
+
+327
+00:14:57,701 --> 00:14:59,666
+şey yapmazlar çünkü ne yapacaklarını bilemezler
+.
+
+328
+00:14:59,667 --> 00:15:01,900
+Bu durumda,
+onların düşünce sürecini bilmek istiyoruz
+.
+
+329
+00:15:01,901 --> 00:15:05,166
+Görmek ilginç
+olacak.  Bu daha
+önce hiç yapılmadı.
+
+330
+00:15:05,167 --> 00:15:07,967
+Pekala, işte başlıyoruz.
+
+331
+00:15:07,968 --> 00:15:11,333
+[uyarı çanları çalıyor]
+
+332
+00:15:11,334 --> 00:15:13,600
+[Michael]
+İlk konumuz Elsa.
+
+333
+00:15:13,601 --> 00:15:15,600
+[kadın] Burada gölgede durmak ister misin
+burada gölgede?
+
+334
+00:15:15,601 --> 00:15:17,867
+Merhaba,  Ben Elsa,
+tanıştığımıza memnun oldum.
+
+335
+00:15:17,868 --> 00:15:19,299
+Tanıştığıma memnun oldum, Elsa.
+
+336
+00:15:19,300 --> 00:15:21,333
+[Michael]
+Oyuncu olarak tanıştığı herkes
+
+337
+00:15:21,334 --> 00:15:23,466
+ve tüm kameralarımız
+gizlendi
+
+338
+00:15:23,467 --> 00:15:26,233
+bu yüzden hiçbir fikri yok
+İzleniyor olduğunu.
+
+339
+00:15:26,234 --> 00:15:27,399
+Oh, evet,
+çok teşekkür ederim,
+
+340
+00:15:27,400 --> 00:15:28,600
+ve
+eğer yapabilirsem telefonum.
+
+341
+00:15:28,601 --> 00:15:30,066
+Teşekkürler.
+
+342
+00:15:30,067 --> 00:15:31,733
+[Michael] Öğrencilerimize
+
+
+343
+00:15:31,734 --> 00:15:34,333
+görmek üzere oldukları teknolojinin
+özel olduğu söylendi.
+
+344
+00:15:34,334 --> 00:15:36,600
+  Bu bize
+telefonlarını almamız için bir bahane verdi
+
+345
+00:15:36,601 --> 00:15:39,800
+böylece onlar da yaklaşan kriz sırasında yardım isteyemediler
+.
+
+346
+00:15:39,801 --> 00:15:41,766
+-Teşekkürler
+Bugün dışarı çıkmak için çok fazla.
+-Teşekkür ederim.
+
+347
+00:15:41,767 --> 00:15:45,333
+Burada yaptığımız şey
+, California Demiryolu
+Otoritesi,
+
+348
+00:15:45,334 --> 00:15:47,733
+yüksek hızlı trenler geliştiriyorlar
+hızlı trenler. Bu
+
+349
+00:15:47,734 --> 00:15:50,500
+yüzden
+halkın gelip bize
+
+350
+00:15:50,501 --> 00:15:55,032
+biraz geri bildirim vermesini istiyoruz.  ne kadar
+rahat olduklarına
+, dekora, bilirsiniz.
+
+351
+00:15:55,033 --> 00:15:56,299
+-Vay canına.
+-Bütün bu tür şeyler.
+
+352
+00:15:56,300 --> 00:15:58,733
+-[cep telefonu cıvıltıları]
+-Um, oh, ateş et.
+
+353
+00:15:58,734 --> 00:16:01,233
+Sonuncusundan biraz
+geride kalıyorlar.
+
+354
+00:16:01,234 --> 00:16:04,433
+-Sorun yok.
+-Yani
+15, belki 20 dakika daha sürecek.
+
+355
+00:16:04,434 --> 00:16:06,700
+Evet, sorun değil, evet.
+Sorun yok.
+
+356
+00:16:06,701 --> 00:16:10,733
+Ne var biliyor musun?
+Bir fikrim var.
+
+357
+00:16:10,734 --> 00:16:11,833
+Peki.
+
+358
+00:16:11,834 --> 00:16:13,233
+Michael:
+Şimdi Elsa
+
+359
+00:16:13,234 --> 00:16:14,933
+ 20 dakika beklemesi gerektiğine inanıyor 
+.
+
+360
+00:16:14,934 --> 00:16:16,366
+-[kapıyı çal]
+-Evet?
+
+361
+00:16:16,367 --> 00:16:17,766
+
+Aktrisimiz hareket istasyonunun içinde beklemesi için izin istiyormuş gibi yapıyor 
+
+362
+00:16:17,767 --> 00:16:19,700
+
+.
+
+363
+00:16:19,701 --> 00:16:22,333
+Yani, aslında,
+bu '  t parçası.
+
+364
+00:16:22,334 --> 00:16:24,500
+Burası uzak bir
+tren değiştirme istasyonu,
+
+365
+00:16:24,501 --> 00:16:26,533
+ama biraz fazla olacağından
+
+
+366
+00:16:26,534 --> 00:16:28,299
+
+ve içerisi güzel, serin ve
+klimalı olduğundan,
+
+367
+00:16:28,300 --> 00:16:30,566
+Eddie ile az önce konuştum
+ve dedi ki
+
+368
+00:16:30,567 --> 00:16:32,299
+
+gelmen senin için harika olur...
+
+369
+00:16:32,300 --> 00:16:33,867
+-Oh, evet, tamam.
+-...ve
+
+370
+00:16:33,868 --> 00:16:39,066
+şuna bir bak... -Tamam, güzel.
+-...ve orada ne yaptıklarına bir bak
+.
+
+371
+00:16:39,067 --> 00:16:40,766
+Eddie, bu Elsa.
+
+372
+00:16:40,767 --> 00:16:43,399
+-Nasılsın Elsa?
+-İyiyim sen nasılsın?
+
+373
+00:16:43,400 --> 00:16:45,999
+Güzel, içeri gel
+, otur.
+
+374
+00:16:46,000 --> 00:16:48,233
+Peki seni bu hale getiren nedir?
+
+375
+00:16:48,234 --> 00:16:50,566
+Odak grubu.
+[gülüyor]
+
+376
+00:16:50,567 --> 00:16:51,900
+Odak grubu.
+
+377
+00:16:51,901 --> 00:16:55,366
+Evet, yüksek hızlı demiryolu.
+Lüks demiryolu.
+
+378
+00:16:55,367 --> 00:16:59,132
+Tamam.  Yani burada elde ettiğimiz şey
+bir uzak anahtarlama istasyonu.
+
+379
+00:16:59,133 --> 00:17:00,867
+Bunların hepsi canlı yayınlar.
+
+380
+00:17:00,868 --> 00:17:04,766
+Olan şu ki, devam
+eden bir sürü inşaat var.
+
+381
+00:17:04,767 --> 00:17:07,164
+
+Tüm yeni balastları buraya, bunların üzerine
+
+382
+00:17:07,165 --> 00:17:08,967
+yeni şerit
+rayları yerleştirmemiz gerekecek.
+
+383
+00:17:08,968 --> 00:17:11,030
+[Michael] Merak ediyorsanız
+bir aktör tuttuk
+
+384
+00:17:11,031 --> 00:17:13,766
+aslında 20 yılını demiryollarında çalışan
+.
+
+385
+00:17:13,767 --> 00:17:15,900
+Trenler hakkında çok
+şey bilmeyen bir aktörümüz bir aktörümüz olduğunu hayal edebiliyor
+
+386
+00:17:15,901 --> 00:17:17,633
+musunuz?
+
+387
+00:17:17,634 --> 00:17:20,266
+[Greg]
+O, ona bakabilmeniz için
+görünüş geçerliliği
+
+388
+00:17:20,267 --> 00:17:22,366
+bir şey teklif ediyor
+ve siz,
+
+389
+00:17:22,367 --> 00:17:23,833
+"Ah  , bu adam gerçek."
+
+390
+00:17:23,834 --> 00:17:26,967
+Buradaki işim
+
+
+391
+00:17:26,968 --> 00:17:29,366
+, şu anda bu
+iki parçadaki tüm geçişleri halletmek.
+
+392
+00:17:29,367 --> 00:17:31,999
+Yani burada sürekli birilerinin olması
+gerekiyor.
+
+393
+00:17:32,000 --> 00:17:33,666
+Şimdi,
+bununla ilgili diğer bir şey--
+
+394
+00:17:33,667 --> 00:17:36,266
+[kadın sesi]
+Dikkat, tren yaklaşıyor.
+
+395
+00:17:36,267 --> 00:17:39,700
+Bu muhtemelen
+bir iş birimi geliyor.
+
+396
+00:17:39,701 --> 00:17:42,999
+-HI-hı.
+- Onu
+ikinci ize yönlendireceğiz.
+
+397
+00:17:43,000 --> 00:17:44,466
+Tamam, bir tren geliyor.
+
+398
+00:17:44,467 --> 00:17:45,766
+Şimdi
+anahtarın nasıl çalıştığını öğrenmesi için bir şans.
+
+399
+00:17:45,767 --> 00:17:47,166
+Çok iyi.
+
+400
+00:17:47,167 --> 00:17:49,166
+Aslında, neden bunu yapan
+sen olmuyorsun?
+
+401
+00:17:49,167 --> 00:17:50,999
+Sadece devam et
+ve kendin at.
+
+402
+00:17:51,000 --> 00:17:52,967
+-Aşağı çek.
+-Şu anda?
+
+403
+00:17:52,968 --> 00:17:55,600
+Evet devam et.  İyi.
+
+404
+00:17:55,601 --> 00:17:57,967
+Düşündüğünden çok daha hızlı gidiyor
+.
+
+405
+00:17:57,968 --> 00:18:02,666
+Pekala,
+
+iki numaralı parçaya geçiş yapacak.
+
+406
+00:18:02,667 --> 00:18:06,800
+Pekala, sana ne diyeceğim.
+Artık bir anahtarcısın.
+
+407
+00:18:06,801 --> 00:18:08,666
+[ikisi de güler]
+
+408
+00:18:08,667 --> 00:18:11,766
+Pekala,
+şimdi arkadaki araba
+
+409
+00:18:11,767 --> 00:18:13,399
+geçiş noktalarından kurtulduğuna göre,
+
+410
+00:18:13,400 --> 00:18:15,600
+devam edin ve birinci
+ize geri dönün.
+
+411
+00:18:15,601 --> 00:18:18,266
+-Peki.
+-Bu biraz korkutucuydu.
+
+412
+00:18:18,267 --> 00:18:20,266
+Aman Tanrım,
+çevirmeliyim dedim.
+
+413
+00:18:20,267 --> 00:18:22,166
+Peki, sen bekle.
+
+414
+00:18:22,167 --> 00:18:24,666
+İşin iyi yanı, onu birinci
+hatta geri aldık
+
+415
+00:18:24,667 --> 00:18:27,399
+ve bu
+, gelen bir sonraki trenin birinci raydan
+geçeceği anlamına
+
+416
+00:18:27,400 --> 00:18:28,833
+geliyor.
+
+417
+00:18:28,834 --> 00:18:31,066
+[Michael]
+Elsa şimdi tam olarak anlıyor
+
+418
+00:18:31,067 --> 00:18:32,700
+trenlerin nereye gideceğini,
+
+419
+00:18:32,701 --> 00:18:35,800
+birini sola çevirin
+ikisini sağa çevirin.
+
+420
+00:18:35,801 --> 00:18:39,967
+Onu
+çok zor bir karar vermeye zorlamanın zamanı gelmişti.
+
+421
+00:18:39,968 --> 00:18:42,466
+-[cep telefonu çalar]
+-Bekle.
+
+422
+00:18:42,467 --> 00:18:45,700
+-Oh, bunu almalıyım.
+-Oh, evet, elbette, sorun değil.
+
+423
+00:18:45,701 --> 00:18:46,867
+Bana bir iyilik yap.
+
+424
+00:18:46,868 --> 00:18:48,299
+-Burada bekle.
+-Peki.
+
+425
+00:18:48,300 --> 00:18:49,967
+Birisi her zaman burada olmalı
+.
+
+426
+00:18:49,968 --> 00:18:51,333
+Tamam sorun yok.
+
+427
+00:18:51,334 --> 00:18:53,199
+Ben sadece dışarı
+çıkıp bununla ilgileneceğim.
+
+428
+00:18:53,200 --> 00:18:58,166
+-Tamam sorun yok.  Peki.
+-Bir saniye içinde dön.
+
+429
+00:18:58,167 --> 00:18:59,766
+[Greg]
+Gözlerine bakın
+
+430
+00:18:59,767 --> 00:19:01,199
+'çünkü endişeli
+hemen
+
+431
+00:19:01,200 --> 00:19:02,733
+biraz endişeli
+, "Ne?" gibi.
+
+432
+00:19:02,734 --> 00:19:05,633
+[Michael] Elsa'ya
+birkaç dakika
+
+433
+00:19:05,634 --> 00:19:08,433
+çevresine alışması
+ve sonra
+
+434
+00:19:08,434 --> 00:19:11,766
+  Sahnelenen çekimimizin
+oynatılmasına başladık.
+
+435
+00:19:11,767 --> 00:19:14,299
+[Michael] Pekala,
+işçiler geliyor.
+
+436
+00:19:14,300 --> 00:19:17,833
+[kadın sesi]
+Dikkat, yolda itiraz.
+
+437
+00:19:17,834 --> 00:19:19,466
+Evet, az önce onları fark etti.
+
+438
+00:19:19,467 --> 00:19:24,800
+Dikkat, yolda nesne.
+
+439
+00:19:24,801 --> 00:19:30,233
+Dikkat, yolda nesne.
+
+440
+00:19:30,234 --> 00:19:32,999
+Dikkat, yolda nesne.
+
+441
+00:19:33,000 --> 00:19:36,766
+[Greg]
+Bakıyor
+Çantasında bulmak için...
+
+442
+00:19:36,767 --> 00:19:38,299
+-[Michael] Telefon yok mu?
+-...telefon yok.
+
+443
+00:19:38,300 --> 00:19:41,900
+Dikkat, itiraz  yolda.
+
+444
+00:19:41,901 --> 00:19:45,366
+Dikkat, yolda itiraz et.
+
+445
+00:19:45,367 --> 00:19:47,466
+[Michael]
+Bence uyarı
+çok şey yapıyor.</i
+
+446
+00:19:47,467 --> 00:19:50,266
+> İçindeyseniz  o istasyon,
+bir şeyler yapman gerekiyor.
+
+447
+00:19:50,267 --> 00:19:55,266
+Dikkat, yolda nesne.
+
+448
+00:19:55,267 --> 00:19:57,066
+Tamam, işte tren geliyor.
+
+449
+00:19:57,067 --> 00:19:58,967
+[tren kornası ötüyor]
+
+450
+00:19:58,968 --> 00:20:01,266
+Dikkat, tren yaklaşıyor.
+
+451
+00:20:01,267 --> 00:20:03,132
+İşte "tren yaklaşıyor"
+uyarı.
+
+452
+00:20:03,133 --> 00:20:06,466
+Dikkat, yolda itiraz.
+
+453
+00:20:06,467 --> 00:20:08,399
+[Greg]
+Bunu düşünmüyorum--
+oh, işte gidiyor.
+
+454
+00:20:08,400 --> 00:20:09,967
+Dikkat,  tren yaklaşıyor.
+
+455
+00:20:09,968 --> 00:20:11,900
+Yaklaşan bir tren var.
+
+456
+00:20:11,901 --> 00:20:13,466
+[kadın] Ne?
+
+457
+00:20:13,467 --> 00:20:16,700
+Bir trenin yaklaştığını haber vermek istedim
+.
+
+458
+00:20:16,701 --> 00:20:18,500
+-Aman Tanrım, tamam.
+-Ona söyleyebilir misin?
+
+459
+00:20:18,501 --> 00:20:20,633
+Evet, şimdi onu aramaya gideceğim
+.
+
+460
+00:20:20,634 --> 00:20:23,132
+[Michael]
+Ama geçiş operatörü
+geri gelmeyecek.
+
+461
+00:20:23,133 --> 00:20:26,132
+Bu krizin tüm ağırlığı
+Elsa'da.
+
+462
+00:20:26,133 --> 00:20:30,766
+[kadın sesi]
+Dikkat, tren yaklaşıyor.
+
+463
+00:20:30,767 --> 00:20:33,766
+-Vay, dur, dur.
+-Dikkat, yolda itiraz.
+
+464
+00:20:33,767 --> 00:20:36,500
+-Dikkat, tren yaklaşıyor.
+-[Greg] Buna inanamıyorum.
+
+465
+00:20:36,501 --> 00:20:40,032
+Dikkat,  raydaki nesne.
+
+466
+00:20:40,033 --> 00:20:42,833
+Dikkat, tren yaklaşıyor.
+
+467
+00:20:42,834 --> 00:20:46,066
+Dikkat, raydaki nesne.
+
+468
+00:20:46,067 --> 00:20:48,900
+Dikkat, tren yaklaşıyor.
+
+469
+00:20:48,901 --> 00:20:52,633
+Dikkat,  nesne yolda.
+
+470
+00:20:52,634 --> 00:20:56,233
+Test sonu.
+Herkes güvende.
+
+471
+00:20:56,234 --> 00:20:59,766
+Test sonu.
+Herkes güvende.
+
+472
+00:20:59,767 --> 00:21:01,633
+-Tamam.
+-[Michael]
+
+473
+00:21:01,634 --> 00:21:04,366
+Katılımcıların
+birinin gerçekten incindiğini düşünmelerini istemedik .
+
+474
+00:21:04,367 --> 00:21:06,733
+Bu yüzden onlara bunu gösterdik  i>
+"herkes güvende" kartı
+
+475
+00:21:06,734 --> 00:21:08,867
+tren önce
+aslında herhangi birine çarpmadan önce.
+
+476
+00:21:08,868 --> 00:21:10,967
+-Elsa.
+-Ben Michael'ım.
+
+477
+00:21:10,968 --> 00:21:12,233
+-Merhaba,
+-Bu da Greg.
+
+478
+00:21:12,234 --> 00:21:14,032
+-Hepsi bir deneydi.
+-Peki.
+
+479
+00:21:14,033 --> 00:21:15,466
+İçeri girebilir miyiz?
+
+480
+00:21:15,467 --> 00:21:16,800
+Size
+birkaç soru sormak istiyoruz.
+
+481
+00:21:16,801 --> 00:21:18,766
+Evet tabi.
+Ben yanlış bir şey mi yaptım?
+
+482
+00:21:18,767 --> 00:21:21,032
+-Hiç de bile.
+-Şimdi nasıl hissediyorsun?
+
+483
+00:21:21,033 --> 00:21:24,099
+[kıkırdar]
+Um... sadece korktum.
+
+484
+00:21:24,100 --> 00:21:26,500
+- Devam et ve otur.
+-[Greg] Korkuyor musun?
+
+485
+00:21:26,501 --> 00:21:29,666
+-Evet.
+-Yani kimse tehlikede değildi.
+
+486
+00:21:29,667 --> 00:21:32,633
+Bu, karar
+
+
+487
+00:21:32,634 --> 00:21:35,500
+verilmesi gerektiğinde insanların nasıl davrandığına
+dair yürüttüğümüz psikolojik bir deneydir.
+
+488
+00:21:35,501 --> 00:21:38,199
+-Tamam.
+- Bana nasıl hissettiğini anlat.
+
+489
+00:21:38,200 --> 00:21:39,967
+baskıyı hissettim.
+Ben, "Aman Tanrım,
+
+490
+00:21:39,968 --> 00:21:41,500
+bu insanlar ölecek."
+
+491
+00:21:41,501 --> 00:21:44,366
+Çok hızlı
+ve sağlıklı bir karar vermem gerekiyordu, mesela
+
+492
+00:21:44,367 --> 00:21:46,366
+hemen, hemen,
+şu an.
+
+493
+00:21:46,367 --> 00:21:48,233
+Hayatları benim ellerimdeydi.
+
+494
+00:21:48,234 --> 00:21:50,032
+ İkisini takip etmek için onu değiştirmem gerekiyor
+.
+
+495
+00:21:50,033 --> 00:21:53,399
+[Michael] Motive eden şey neydi
+geçiş kararınız mı?
+
+496
+00:21:53,400 --> 00:21:56,533
+Böylece daha fazla hayat kurtarabilirim.
+
+497
+00:21:56,534 --> 00:22:00,032
+Doğru kararı verip vermediğimi bilmiyordum
+.
+
+498
+00:22:00,033 --> 00:22:04,900
+Yani,
+bir hayat bir hayattır, değil mi?
+
+499
+00:22:04,901 --> 00:22:07,533
+[Michael] Yani
+iki korkunç seçimle karşı karşıya kalındığında
+
+500
+00:22:07,534 --> 00:22:09,800
+en az bir kişi
+alabilecek durumdaydı
+
+501
+00:22:09,801 --> 00:22:13,867
+  kasıtlı eylem
+beş kişiyi kurtarmak için birini feda etmek.
+
+502
+00:22:13,868 --> 00:22:18,066
+Ama biz görmek istedik
+Elsa'nın tepkisinin tipik olup olmadığını.
+
+503
+00:22:18,067 --> 00:22:20,500
+-Need my  telefon?
+-Evet lütfen.
+
+504
+00:22:20,501 --> 00:22:22,700
+
+Yüksek hızlı ulaşımla ilgilenir misiniz?
+
+505
+00:22:22,701 --> 00:22:25,366
+-Oh, evet, araya
+giren her şey--
+-[cep telefonu çalar]
+
+506
+00:22:25,367 --> 00:22:27,999
+Vur, üzgünüm.  Bir mesaj aldım.
+Çok üzgünüm.
+
+507
+00:22:28,000 --> 00:22:29,433
+Neden
+oraya bir göz
+
+508
+00:22:29,434 --> 00:22:31,266
+atıp trenlerin çalıştığını görmüyorsun?
+
+509
+00:22:31,267 --> 00:22:33,500
+Oh,
+
+burası dışarıdakinden çok daha güzel.
+
+510
+00:22:33,501 --> 00:22:36,399
+İlk başladığımda
+, güneşin altında durmak zorundaydım.
+
+511
+00:22:36,400 --> 00:22:38,199
+-Ne?
+-
+Bir sonraki trenin ne zaman geleceğini biliyor musun?
+
+512
+00:22:38,200 --> 00:22:40,633
+- Tam şuraya gelen biri
+var.
+-Harika bir gözü var.
+
+513
+00:22:40,634 --> 00:22:43,466
+[kadın sesi]
+Dikkat, tren yaklaşıyor.
+
+514
+00:22:43,467 --> 00:22:46,099
+[Michael] Elsa'da olduğu gibi,
+her konu bir ders aldı
+
+515
+00:22:46,100 --> 00:22:47,700
+  izler.
+
+516
+00:22:47,701 --> 00:22:49,333
+Neden devam
+edip onları değiştirmiyorsunuz?
+
+517
+00:22:49,334 --> 00:22:51,032
+-Tam burada?
+-Evet.
+
+518
+00:22:51,033 --> 00:22:52,733
+Devam etmek.
+Bu nasıl hissettiriyor?
+
+519
+00:22:52,734 --> 00:22:55,999
+Heyecanlıydım.
+Ben, sanki-- Gergindim.
+
+520
+00:22:56,000 --> 00:22:57,266
+-[cep telefonu çalar]
+-Bir saniye.
+
+521
+00:22:57,267 --> 00:23:01,066
+Şunu kontrol edeyim.
+Bir saniye bekle.  Ah.
+
+522
+00:23:01,067 --> 00:23:02,666
+Biri sürekli
+burada olmalı.
+
+523
+00:23:02,667 --> 00:23:04,399
+-Anladım, evet, buradayım.
+-Peki.
+
+524
+00:23:04,400 --> 00:23:06,132
+-Merhaba?
+-[gülüyor]
+
+525
+00:23:06,133 --> 00:23:08,099
+Breaker, one-dokuz,
+tamam, kopyala şunu.
+
+526
+00:23:08,100 --> 00:23:10,733
+Aslında
+
+o pozisyonda olmanın gücünden faydalanıyor.
+
+527
+00:23:10,734 --> 00:23:13,933
+[kadın sesi]
+Dikkat, yolda itiraz.
+
+528
+00:23:13,934 --> 00:23:15,099
+[Michael]
+İşte test geliyor.
+
+529
+00:23:15,100 --> 00:23:18,366
+Dikkat, yolda nesne.
+
+530
+00:23:18,367 --> 00:23:21,233
+Dikkat, tren yaklaşıyor.
+
+531
+00:23:21,234 --> 00:23:22,867
+[Greg]
+Hareket etmiyor.
+
+532
+00:23:22,868 --> 00:23:25,266
+-Dikkat, tren yaklaşıyor.  i>
+-Sadece kaşlarını izle.
+
+533
+00:23:25,267 --> 00:23:26,466
+[Michael] Ah, evet.
+
+534
+00:23:26,467 --> 00:23:28,800
+Gözler dönüyor
+ileri geri.
+
+535
+00:23:28,801 --> 00:23:30,032
+Tren yaklaşıyor.
+
+536
+00:23:30,033 --> 00:23:31,900
+-Ah, endişeli.
+-Evet.
+
+537
+00:23:31,901 --> 00:23:33,633
+Tren yaklaşıyor.
+
+538
+00:23:33,634 --> 00:23:35,933
+Ne yaptığımı bilmiyorum
+bu tür bir senaryoda yapardı.
+
+539
+00:23:35,934 --> 00:23:40,199
+Tren yaklaşıyor.
+
+540
+00:23:40,200 --> 00:23:42,766
+Bu,
+gördüğümüz donmuş pozun bir türü.
+
+541
+00:23:42,767 --> 00:23:46,032
+Tehlike karşısında felç
+çok yaygın bir tepkidir.
+
+542
+00:23:46,033 --> 00:23:49,399
+Dikkat, nesne yolda.
+
+543
+00:23:49,400 --> 00:23:52,066
+Dikkat, tren yaklaşıyor.
+
+544
+00:23:52,067 --> 00:23:53,633
+Yolda itiraz.
+
+545
+00:23:53,634 --> 00:23:55,733
+[Michael] Trenle bile
+saniyeler sonra,
+
+546
+00:23:55,734 --> 00:23:58,633
+bazıları hala bakıyor
+  diğerlerinin kontrolü ele alması için.
+
+547
+00:23:58,634 --> 00:24:00,933
+Gidip
+onu bulmaya çalışacağım.  Peki.
+
+548
+00:24:00,934 --> 00:24:03,399
+-[yumuşak bir şekilde şarkı söylüyor]
+-Şarkı söylüyor.
+
+549
+00:24:03,400 --> 00:24:05,233
+Bu kendini
+rahatlatıyor, evet.
+
+550
+00:24:05,234 --> 00:24:08,199
+[kadın sesi]
+Yoldaki nesne.  Dikkat.
+
+551
+00:24:08,200 --> 00:24:10,433
+-Hareket etmiyor.
+-Aman Tanrım, vay.
+
+552
+00:24:10,434 --> 00:24:12,633
+-Tamam,
+-Dönüştürecek mi?
+
+553
+00:24:12,634 --> 00:24:18,833
+Tren yaklaşıyor.
+Dikkat, yolda itiraz.
+
+554
+00:24:18,834 --> 00:24:20,199
+  Dikkat.
+
+555
+00:24:20,200 --> 00:24:23,500
+Test sonu.
+Herkes güvende.
+
+556
+00:24:23,501 --> 00:24:25,666
+-Ne?
+-Pekala hadi gidelim.
+
+557
+00:24:25,667 --> 00:24:28,399
+[Michael] Bunlardan hiçbiri
+katılımcılar kolu çekmedi.
+
+558
+00:24:28,400 --> 00:24:29,933
+Nedenini bulmanın zamanı geldi.
+
+559
+00:24:29,934 --> 00:24:31,132
+[Michael] Merhaba, J.R.
+
+560
+00:24:31,133 --> 00:24:32,933
+Aman Tanrım!
+Nasılsınız?
+
+561
+00:24:32,934 --> 00:24:34,666
+-Benim adım Michael.
+-J.R.
+
+562
+00:24:34,667 --> 00:24:37,099
+Az önce olan her şey
+bir deneydi.
+
+563
+00:24:37,100 --> 00:24:39,967
+[gülüyor]
+
+564
+00:24:39,968 --> 00:24:41,132
+Bu bir deneydi.
+
+565
+00:24:41,133 --> 00:24:43,066
+-Aman Tanrım.
+-Peki.
+
+566
+00:24:43,067 --> 00:24:45,666
+Bunu
+izlerken ne hissettin?
+
+567
+00:24:45,667 --> 00:24:47,600
+korkmuş!  Ben-- ben sadece--
+
+568
+00:24:47,601 --> 00:24:49,266
+
+
+
+
+569
+00:24:49,267 --> 00:24:51,399
+Gelen treni görünce biraz endişelendim
+, "Aman Tanrım!"
+
+570
+00:24:51,400 --> 00:24:53,600
+-Kalbin hızlı mı atıyor?
+-Evet, biraz, evet.  Bir trenin yaklaşmakta olduğuna dair ilk
+
+571
+00:24:53,601 --> 00:24:55,333
+
+uyarıyı duyduğunda aklından ne geçtiğini söyle
+
+572
+00:24:55,334 --> 00:24:57,132
+
+?
+
+573
+00:24:57,133 --> 00:24:59,066
+
+Değiştirmeyi düşündüm
+
+574
+00:24:59,067 --> 00:25:01,666
+ama sonra
+harekete geçmek
+farklı bir şeydi.
+
+575
+00:25:01,667 --> 00:25:05,533
+Bir nevi
+sorumluluğumu askıya aldım.
+
+576
+00:25:05,534 --> 00:25:07,433
+Mesela ne yapacağımı
+
+bilmiyordum, bu yüzden
+
+577
+00:25:07,434 --> 00:25:09,433
+"Ah,
+dokunmasam iyi olur,
+çünkü bir şeyleri batırır mıyım bilmiyorum"
+
+578
+00:25:09,434 --> 00:25:10,766
+dedim
+.
+
+579
+00:25:10,767 --> 00:25:12,967
+
+
+
+580
+00:25:12,968 --> 00:25:16,132
+Bu beş adamdan
+birinin geriye dönüp bakacağını tahmin ediyorum.
+
+581
+00:25:16,133 --> 00:25:17,999
+Yoldan çıkacaklardı
+
+
+582
+00:25:18,000 --> 00:25:19,600
+, tren çoktan
+durmayı planlıyordu.
+
+583
+00:25:19,601 --> 00:25:21,132
+Sanırım bu trenleri muhtemelen bir
+
+
+584
+00:25:21,133 --> 00:25:22,766
+çeşit sensör
+veya buna benzer bir şeyle inşa ettiler.
+
+585
+00:25:22,767 --> 00:25:25,099
+[Michael] "Trende
+muhtemelen sensörler vardı."
+
+586
+00:25:25,100 --> 00:25:27,066
+"İşçiler fark ederdi."
+
+587
+00:25:27,067 --> 00:25:29,333
+"Ben istemedim.  dokunmak
+ekipmana."
+
+588
+00:25:29,334 --> 00:25:31,233
+Bunların tümü atıfın biçimleridir
+,
+
+589
+00:25:31,234 --> 00:25:33,366
+bir kişi varsayarsa
+başkalarının
+
+590
+00:25:33,367 --> 00:25:35,132
+hareket etmekten
+sorumlu oldukları
+
+591
+00:25:35,133 --> 00:25:37,266
+ya da zaten yapmış oldukları.
+
+592
+00:25:37,267 --> 00:25:39,066
+-Her iki pistte
+de insanlar vardı.
+-Doğru!
+
+593
+00:25:39,067 --> 00:25:42,233
+Ve kimin
+yaşaması ve kimin ölmesi gerektiğini bilmiyordum.
+
+594
+00:25:42,234 --> 00:25:44,099
+Değiştirir miyim,
+değiştirmez miyim?
+
+595
+00:25:44,100 --> 00:25:45,967
+Yani, her iki durumda da
+birileri
+gerçekten çok kötü yaralanacak.
+
+596
+00:25:45,968 --> 00:25:47,199
+Ben o gücü istemedim.
+
+597
+00:25:47,200 --> 00:25:50,700
+Oldukça--
+oldukça test, söyleyebilirim.
+
+598
+00:25:50,701 --> 00:25:52,266
+[Michael]
+Bu tam bir test.
+
+599
+00:25:52,267 --> 00:25:53,967
+Bu noktada,
+bir konu
+
+600
+00:25:53,968 --> 00:25:56,533
+parçaları değiştirmişti,
+ve beş kişi daha yapmamıştı.
+
+601
+00:25:56,534 --> 00:26:00,266
+Ama daha işimiz bitmemişti.
+Cory ile tanışın.
+
+602
+00:26:00,267 --> 00:26:03,800
+-Al, oturun.
+- Çok teşekkür ederim.
+
+603
+00:26:03,801 --> 00:26:05,166
+Bu havalı.
+
+604
+00:26:05,167 --> 00:26:06,967
+
+
+
+605
+00:26:06,968 --> 00:26:09,867
+
+Eğer istersek bu modül tüm ulusla bağlantı kuracak.
+
+606
+00:26:09,868 --> 00:26:13,032
+Ama şu
+anda soldaki bir ize bakıyoruz, oradan ikinci ize bakıyoruz
+
+607
+00:26:13,033 --> 00:26:14,766
+.
+
+608
+00:26:14,767 --> 00:26:17,233
+-Güzel.
+-Bunlar çok,
+çok mil uzakta.
+
+609
+00:26:17,234 --> 00:26:19,666
+-Evet,
+-Ama hepsi canlı yayınlar.
+
+610
+00:26:19,667 --> 00:26:22,333
+Olay yeri inceleme.
+Kartal'ın bakış açısı.
+
+611
+00:26:22,334 --> 00:26:25,733
+-[cep telefonu çalar]
+-Evet.  Bakalım bu neymiş.
+
+612
+00:26:25,734 --> 00:26:31,533
+-Tamam hemen dönerim
+-Tamam anladım.
+
+613
+00:26:31,534 --> 00:26:38,299
+[Greg]
+Nişanlı durumda.
+
+614
+00:26:38,300 --> 00:26:40,600
+[Michael]
+İşte işçiler geliyor.
+
+615
+00:26:40,601 --> 00:26:43,333
+Oh, hayır.
+
+616
+00:26:43,334 --> 00:26:46,733
+[kadın sesi]
+Dikkat, yolda itiraz.
+
+617
+00:26:46,734 --> 00:26:48,199
+Ah, evet.
+
+618
+00:26:48,200 --> 00:26:51,099
+Böylece
+potansiyel bir sorun olduğunu anlar.
+
+619
+00:26:51,100 --> 00:26:52,933
+Sanırım
+dışarı çıkacak.
+
+620
+00:26:52,934 --> 00:26:55,333
+Dikkat, tren yaklaşıyor.
+
+621
+00:26:55,334 --> 00:26:59,700
+Hmm, bir tren mi geliyor?
+Um...
+
+622
+00:26:59,701 --> 00:27:00,800
+[Greg] Tamam.
+
+623
+00:27:00,801 --> 00:27:02,833
+Dikkat, yolda itiraz.
+
+624
+00:27:02,834 --> 00:27:05,299
+Ah, evet.
+
+625
+00:27:05,300 --> 00:27:12,700
+Dikkat, tren yaklaşıyor.
+
+626
+00:27:12,701 --> 00:27:15,999
+Tamam, orada kimsenin olmadığını fark ediyor
+, çok acil.
+
+627
+00:27:16,000 --> 00:27:18,199
+Pekala,
+bu şuraya gitmeli...
+
+628
+00:27:18,200 --> 00:27:19,766
+Dikkat, pistte itiraz.
+
+629
+00:27:19,767 --> 00:27:21,666
+[Greg] Tamam, o
+ne yapacağını prova ediyor.
+
+630
+00:27:21,667 --> 00:27:26,233
+-Dikkat, tren yaklaşıyor.
+-Oh.  İkinci iz.
+
+631
+00:27:26,234 --> 00:27:27,833
+bilmiyorlar mı?
+
+632
+00:27:27,834 --> 00:27:30,032
+Dikkat, tren yaklaşıyor.
+
+633
+00:27:30,033 --> 00:27:32,800
+Biliyorum.
+Bunu görmeliler.
+
+634
+00:27:32,801 --> 00:27:36,733
+Pistte nesne.
+Dikkat, tren yaklaşıyor.
+
+635
+00:27:36,734 --> 00:27:41,466
+-Dikkat, yolda nesne.
+-[tren kornası çalar]
+
+636
+00:27:41,467 --> 00:27:44,500
+-Dikkat, yolda itiraz.
+-Aman Tanrım.
+
+637
+00:27:44,501 --> 00:27:47,933
+-Test sonu.
+-Tamam, güzel.
+
+638
+00:27:47,934 --> 00:27:55,766
+Herkes güvende.
+
+639
+00:27:55,767 --> 00:27:58,733
+-Alo?
+-Merhaba Cory, benim adım Michael.
+
+640
+00:27:58,734 --> 00:28:02,600
+Görünüşe göre
+neredeyse bir kaza oldu
+.
+
+641
+00:28:02,601 --> 00:28:05,600
+-Cory, az önce olan her
+şey bir deneydi.
+-Peki.
+
+642
+00:28:05,601 --> 00:28:07,299
+-Kimse tehlikede değildi.
+-Kesinlikle.
+
+643
+00:28:07,300 --> 00:28:09,733
+Bunlar daha
+önce çekilmiş video döngüleriydi.
+
+644
+00:28:09,734 --> 00:28:13,266
+Bu,
+insanların nasıl davrandığına bakan bir psikoloji deneyi...
+
+645
+00:28:13,267 --> 00:28:16,266
+-Tamam.  Tamam, evet.
+-...çeşitli durumlarda.
+
+646
+00:28:16,267 --> 00:28:18,099
+Bana
+nasıl hissettiğini söyle.
+
+647
+00:28:18,100 --> 00:28:21,633
+- Esas olarak bir grup terör.
+-[Greg] Terör.
+
+648
+00:28:21,634 --> 00:28:25,700
+Ve sorumluluk,
+çünkü ben dümendeydim.
+
+649
+00:28:25,701 --> 00:28:30,066
+Ve
+
+
+650
+00:28:30,067 --> 00:28:33,333
+
+bire kıyasla beş kişi arasında bir karar vermekten dehşete düştüm.
+
+651
+00:28:33,334 --> 00:28:37,199
+En hafif tabirle çok
+korkutucuydu.
+
+652
+00:28:37,200 --> 00:28:38,933
+-Korkunçtu, doğru.
+-Evet.  Ah evet.
+
+653
+00:28:38,934 --> 00:28:40,733
+
+
+
+654
+00:28:40,734 --> 00:28:42,933
+Tren
+raydan inerken aklınızdan neler geçiyordu?
+
+655
+00:28:42,934 --> 00:28:47,199
+Esas olarak onları uyarmaktı.
+
+656
+00:28:47,200 --> 00:28:48,733
+Orada--
+sadece tekrarlamak için--
+
+657
+00:28:48,734 --> 00:28:50,967
+Neler oluyor?
+Şu anda ne geliyor?
+
+658
+00:28:50,968 --> 00:28:54,466
+İnsanlar arasında seçim yapmak zorunda kalmak istemezsiniz
+.
+
+659
+00:28:54,467 --> 00:28:55,867
+Doğru.
+
+660
+00:28:55,868 --> 00:28:58,967
+Ve bu gerçekten zordu.
+
+661
+00:28:58,968 --> 00:29:01,600
+Altı
+aile mi yoksa bir aile mi?
+
+662
+00:29:01,601 --> 00:29:07,733
+Sanki... bana
+bağlıydı, sanki.  Evet.
+
+663
+00:29:07,734 --> 00:29:11,967
+Böyle bir aklın olması benim için ilginçti
+.
+
+664
+00:29:11,968 --> 00:29:14,633
+[Michael] Evet, yardım arayın
+ve bir karar verin.
+
+665
+00:29:14,634 --> 00:29:18,700
+Herkesin,
+bir ankette sorarsanız,
+
+666
+00:29:18,701 --> 00:29:20,733
+
+yapacak kadar cesur olmak istediklerini söylediği.
+
+667
+00:29:20,734 --> 00:29:24,166
+Evet, bu çok etkileyiciydi
+Cory, gerçekten öyleydi.
+
+668
+00:29:24,167 --> 00:29:25,533
+Teşekkürler.
+
+669
+00:29:25,534 --> 00:29:28,733
+Biliyor musun, bence
+seninle tanışmak iyi olur
+
+670
+00:29:28,734 --> 00:29:32,199
+-katılanlardan
+bazılarını görebilmen için.
+-Mükemmel.
+
+671
+00:29:32,200 --> 00:29:34,600
+Evet, hadi bunu yapalım,
+sadece bizi takip edin
+
+672
+00:29:34,601 --> 00:29:40,700
+- ve oyuncularla tanışın.
+-Mükemmel.
+
+673
+00:29:40,701 --> 00:29:42,700
+[Michael] Cory bize bu durumda
+bilgilendirmenin ne kadar önemli olduğunu gösterdi
+
+674
+00:29:42,701 --> 00:29:44,867
+
+.
+
+675
+00:29:44,868 --> 00:29:47,533
+Oyuncularla tanışmak  ,
+tüm deneklerimizin yaptığı
+
+676
+00:29:47,534 --> 00:29:53,366
+bunun
+gerçek olmadığını pekiştirdi.</i
+
+677
+00:29:53,367 --> 00:29:56,066
+> Greg, tramvay sorunu.
+
+678
+00:29:56,067 --> 00:29:57,967
+-Mm-hmm.
+-İnsan doğasıyla ilgili bazı genel
+
+679
+00:29:57,968 --> 00:30:01,333
+gerçekleri ortaya çıkaracağımızı düşünerek bu işe girdim
+
+.
+
+680
+00:30:01,334 --> 00:30:03,299
+Ancak,
+gerçekte gördüğümüz
+
+681
+00:30:03,300 --> 00:30:06,500
+
+şey, birey hakkında çok şey öğrendiğinizdir.
+
+682
+00:30:06,501 --> 00:30:10,266
+-Doğru.
+
+-Herkesin davranışları için bir açıklaması vardı.
+
+683
+00:30:10,267 --> 00:30:11,800
+-Evet.
+-Her biri farklıydı.
+
+684
+00:30:11,801 --> 00:30:14,733
+Evet, her bir kişi
+
+
+685
+00:30:14,734 --> 00:30:16,600
+
+, gerçeklere
+
+686
+00:30:16,601 --> 00:30:18,433
+ve
+çevre analizine
+
+687
+00:30:18,434 --> 00:30:20,766
+ve o anda neler olup bittiğine göre neler olduğu hakkında bir hikaye anlattı
+,
+
+688
+00:30:20,767 --> 00:30:23,333
+ama aynı zamanda
+kendi geçmişlerine
+ve deneyimlerine de dayanıyor.
+
+689
+00:30:23,334 --> 00:30:26,099
+Tamamen
+donup kalan,
+
+690
+00:30:26,100 --> 00:30:28,600
+bir şeylerin yanlış olduğunu fark eden
+ve hazırlıklı olmayan insanlar vardı.
+
+691
+00:30:28,601 --> 00:30:30,600
+[Greg] J.R.  buna harika bir örnekti
+.
+
+692
+00:30:30,601 --> 00:30:34,166
+Her şeyi değerlendirdi,
+ancak bir noktada,
+
+693
+00:30:34,167 --> 00:30:36,266
+"Biliyorsun,
+ne yapacağımı bilmiyorum" dedi.
+
+694
+00:30:36,267 --> 00:30:39,800
+Diğer insanlar
+,
+"Biliyor musun?
+
+695
+00:30:39,801 --> 00:30:41,867
+Bu benim suçum değil.
+Teknolojiyle ilgili.
+
+696
+00:30:41,868 --> 00:30:44,233
+Eminim ki hallediliyor
+başkaları tarafından."
+
+697
+00:30:44,234 --> 00:30:46,266
+Oysa Cory gibi biri,
+
+698
+00:30:46,267 --> 00:30:47,967
+-Elsa gibi biri dedi...
+-[tıklamaları değiştir]
+
+699
+00:30:47,968 --> 00:30:50,533
+  -..."Hayır, 
+ kontrolü ele almalıyım."
+-[tıkla]
+
+700
+00:30:50,534 --> 00:30:52,666
+
+Hâlâ aynı düşünceleri taşıyorlardı,
+
+701
+00:30:52,667 --> 00:30:54,933
+ama bence olan şey
+, bunu yaparlarsa fark
+
+702
+00:30:54,934 --> 00:30:57,299
+ettiler.  bir
+şey yapma,
+
+703
+00:30:57,300 --> 00:30:58,867
+daha fazla insan zarar görür.
+
+704
+00:30:58,868 --> 00:31:01,633
+İkisi de
+gerçekten bir şey yapmak istiyordu
+.
+
+705
+00:31:01,634 --> 00:31:04,333
+İkisi de bir
+şeyler yapmaya mecbur hissettiler
+
+706
+00:31:04,334 --> 00:31:06,132
+çünkü
+hayat kurtarmak zorundaydılar.
+
+707
+00:31:06,133 --> 00:31:09,132
+Öyleyse
+Tramvay deneyini yapmaya değer miydi?
+
+708
+00:31:09,133 --> 00:31:10,733
+Bence
+kesinlikle buna değdi.
+
+709
+00:31:10,734 --> 00:31:12,700
+Bazıları  bu katılımcılar,
+hepsi değilse de
+
+710
+00:31:12,701 --> 00:31:15,032
+ insan davranışı hakkında
+bir şeyler öğrendiler.
+
+711
+00:31:15,033 --> 00:31:16,600
+Her ne kadar
+zor bir deneyim,
+
+712
+00:31:16,601 --> 00:31:19,766
+Elsa
+içsel gücünün ne olduğunu öğrendi
+
+713
+00:31:19,767 --> 00:31:21,700
+ve sanırım bunu gördük
+  Cory ile de. Katılımcılarımızın
+
+714
+00:31:21,701 --> 00:31:24,533
+her biri, bir şeye
+
+
+715
+00:31:24,534 --> 00:31:26,566
+katkıda bulunmuş gibi hissettiler
+.
+-Doğru.
+
+716
+00:31:26,567 --> 00:31:28,633
+Ve
+az önce olanların değerini hissediyorlar.
+
+717
+00:31:28,634 --> 00:31:30,900
+-Evet.
+-Sadece biz değiliz.
+
+718
+00:31:30,901 --> 00:31:36,800
+Vay.
+
+719
+00:31:36,801 --> 00:31:39,466
+O zamandan beri
+deneklerimizi takip ettik
+
+720
+00:31:39,467 --> 00:31:43,533
+ve hepsi iyi gidiyor.
+
+721
+00:31:43,534 --> 00:31:45,633
+
+Savunmasız bireyleri önceden
+
+722
+00:31:45,634 --> 00:31:49,233
+tarayarak, katılımcılardan bilgi alarak
+ve yerinde danışmanlık sağlayarak riski en aza indirdiğimiz için memnunum
+
+723
+00:31:49,234 --> 00:31:51,500
+çünkü bunu yapmak
+bana insan psikolojisinin
+
+724
+00:31:51,501 --> 00:31:55,533
+bu yönünü etik olarak keşfedebileceğimize dair güven verdi
+.
+
+725
+00:31:55,534 --> 00:31:58,399
+İnsanların
+
+
+726
+00:31:58,400 --> 00:32:00,566
+
+
+
+727
+00:32:00,567 --> 00:32:02,867
+
+
+
+728
+00:32:02,868 --> 00:32:04,800
+zor bir ahlaki ikilemle karşılaştıklarında yapacaklarını düşündükleri ile gerçekte yaptıkları arasında büyük bir fark olduğunu öğrendik.  Katılımcılarımızın çoğu
+
+729
+00:32:04,801 --> 00:32:06,999
+beş hayat kurtarmak yerine
+
+730
+00:32:07,000 --> 00:32:10,199
+
+hiçbir şey yapmadı
+
+731
+00:32:10,200 --> 00:32:13,099
+ama donmak yanlış mı?
+
+732
+00:32:13,100 --> 00:32:16,800
+İnsanlar
+harekete geçemedikleri için kendilerini kötü hissetmeli mi?
+
+733
+00:32:16,801 --> 00:32:18,700
+İşte olay şu.
+
+734
+00:32:18,701 --> 00:32:21,733
+Bir tehdit karşısında donmak
+
+
+735
+00:32:21,734 --> 00:32:24,600
+
+, hayvanlar aleminin her yerinde bulunabilen bir davranıştır,
+
+736
+00:32:24,601 --> 00:32:29,700
+ancak
+nasıl davrandığımızı inceleyebilen, nasıl davranmamız gerektiği konusunda ahkam kesebilen ve programlayabilen tek hayvan biziz.
+
+737
+00:32:29,701 --> 00:32:32,566
+
+
+
+738
+00:32:32,567 --> 00:32:36,299
+
+Sadece bunu yapacak makineler.
+
+739
+00:32:36,300 --> 00:32:39,199
+Zihin
+
+
+740
+00:32:39,200 --> 00:32:41,600
+çalışmamızda ilerleme kaydetmek için zihni etkilememiz gerekir
+
+741
+00:32:41,601 --> 00:32:44,199
+ve bu
+hafife almamız gereken bir şey değildir.  Kendimizi sınıra götürerek
+
+742
+00:32:44,200 --> 00:32:46,733
+kim olduğumuzu anlamak
+
+
+743
+00:32:46,734 --> 00:32:50,366
+bir riskle birlikte gelir
+ve öğrendiğimiz gibi,
+
+744
+00:32:50,367 --> 00:32:52,900
+bu risk
+her zaman
+
+745
+00:32:52,901 --> 00:32:55,099
+daha iyi olana karşı dengelenmelidir.
+
+746
+00:32:55,100 --> 00:33:01,633
+Ve her zamanki gibi,
+izlediğiniz için teşekkürler.
+
+747
+00:33:01,634 --> 00:33:04,533
+Bu sezon
+Mind Field'da... Labirentte
+
+748
+00:33:04,534 --> 00:33:07,566
+
+bir laboratuvar faresi olacaksın
+.
+
+749
+00:33:07,567 --> 00:33:09,833
+Hiç kimse
+Bunu daha önce yapmamıştı.
+
+750
+00:33:09,834 --> 00:33:12,867
+Gerçekten de oldukça öncü bir çalışma
+.
+
+751
+00:33:12,868 --> 00:33:15,266
+Bana kalırsa,
+
+
+752
+00:33:15,267 --> 00:33:16,666
+bilimsel makalemizin ortak yazarlarından birisiniz.
+
+753
+00:33:16,667 --> 00:33:17,833
+- Hazır mısınız?
+- Hazır.
+
+754
+00:33:17,834 --> 00:33:20,266
+Ben burada Amazon'dayım,
+burada
+
+755
+00:33:20,267 --> 00:33:24,199
+eskilerin bir psychedelic uyuşturucusunu--
+ayahuasca'yı içeceğim.
+
+756
+00:33:24,200 --> 00:33:29,099
+Merak etmeyin,
+bu kendi kendini süren bir araba.
+
+757
+00:33:29,100 --> 00:33:32,433
+Bluetooth aracılığıyla
+bu yaşayan robota bağlanacağız.
+
+758
+00:33:32,434 --> 00:33:33,900
+Tamam,
+sonra sola.
+
+759
+00:33:33,901 --> 00:33:35,533
+-Vay canına.
+-Vay canına!
+
+760
+00:33:35,534 --> 00:33:38,466
+
+Senin gerçek bir insan olduğunu fark etmemiştim.
+
+761
+00:33:38,467 --> 00:33:41,600
+
+Bize bazı cevaplar vermezsen seni parçalara
+ayıracağım.
+
+762
+00:33:41,601 --> 00:33:44,333
+
+Yalan tespit testi yapacağım.
+
+763
+00:33:44,334 --> 00:33:46,366
+-[vızıltı]
+-[çatırtı]
+
+764
+00:33:46,367 --> 00:33:49,266
+Biliyorsun, Çin su işkencesi
+Çince bile değil.
+
+765
+00:33:49,267 --> 00:33:52,500
+Beş kişi mi ölecek
+? Yoksa bir kişi mi ölecek?
+
+766
+00:33:52,501 --> 00:33:54,600
+Bu bizim için büyük bir ilk.</i
+
+767
+00:33:54,601 --> 00:33:57,266
+> Aslında
+bunu gerçekten yapacağız.
+
+768
+00:33:57,267 --> 00:33:58,967
+Mind Field'e hoş geldiniz.
+
+769
+00:33:58,968 --> 00:34:01,766
+İzlediğiniz için teşekkürler!
+
+770
+00:34:01,767 --> 00:34:04,267
+[tema müziği çalıyor]
+

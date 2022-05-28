@@ -1,0 +1,753 @@
+1
+00:00:01,069 --> 00:00:03,608
+Hej, Vsosie.  Michael tutaj.
+
+2
+00:00:03,609 --> 00:00:06,989
+Ten punkt świetlny na niebie to
+
+3
+00:00:06,990 --> 00:00:10,888
+Ziemia widziana z powierzchni Marsa.
+
+4
+00:00:10,889 --> 00:00:14,629
+A to jest Ziemia widziana z Saturna.
+
+5
+00:00:14,630 --> 00:00:18,778
+Oto zdjęcie zrobione tylko 45 000 kilometrów dalej
+
+6
+00:00:18,779 --> 00:00:22,679
+, słynny Niebieski Marmur.  Ale jak
+
+7
+00:00:22,680 --> 00:00:25,599
+naprawdę wygląda Ziemia?
+
+8
+00:00:25,600 --> 00:00:29,229
+Cóż, to zależy od tego, jak zdefiniujesz „wygląd”.
+
+9
+00:00:29,230 --> 00:00:32,828
+Słowo wygląd pochodzi
+od starego bretońskiego słowa „lagud”,
+
+10
+00:00:32,829 --> 00:00:36,159
+oznaczającego oko, ludzkie oko.
+
+11
+00:00:36,160 --> 00:00:41,299
+I to jest część problemu.
+Obrazy takie jak ten są oparte na świetle
+
+12
+00:00:41,300 --> 00:00:44,558
+widzianym przez ludzi.  Ale nie widzimy
+
+13
+00:00:44,559 --> 00:00:48,909
+wszystkiego.
+Jest fantastyczny odcinek Radiolab, który wykorzystuje
+
+14
+00:00:48,910 --> 00:00:52,288
+dźwięk, aby zilustrować, jak różne są inne
+
+15
+00:00:52,289 --> 00:00:56,878
+przestrzenie wizualne stworzeń od naszej.
+Kiedy mówimy o tym, jak coś
+
+16
+00:00:56,879 --> 00:00:58,218
+wygląda fizycznie
+
+17
+00:00:58,219 --> 00:01:01,709
+, mówimy o wizualnej percepcji emitowanego
+
+18
+00:01:01,710 --> 00:01:05,169
+lub odbitego promieniowania elektromagnetycznego.
+
+19
+00:01:05,170 --> 00:01:07,839
+W szczególności światło widzialne.
+
+20
+00:01:07,840 --> 00:01:11,629
+Światło, które odbieramy jako czerwone, ma dłuższą długość fali
+
+21
+00:01:11,630 --> 00:01:15,489
+niż niebieskie lub fioletowe.
+Ale co, jeśli podkręcę fale
+
+22
+00:01:15,490 --> 00:01:18,709
+jeszcze krócej?  Czy przestaje być lekki?
+
+23
+00:01:18,710 --> 00:01:21,798
+Nie, po prostu staje się światłem
+
+24
+00:01:21,799 --> 00:01:25,438
+, którego nie możesz zobaczyć - ultrafiolet, promienie rentgenowskie,
+
+25
+00:01:25,439 --> 00:01:29,118
+promienie gamma.
+Idąc w drugą stronę, dostaniesz podczerwień,
+
+26
+00:01:29,119 --> 00:01:32,389
+mikrofale i wreszcie fale radiowe.
+
+27
+00:01:32,390 --> 00:01:35,508
+W zasadzie spektrum możliwych
+
+28
+00:01:35,509 --> 00:01:38,688
+długości fal elektromagnetycznych jest nieskończone.
+
+29
+00:01:38,689 --> 00:01:41,889
+Ale nawet w zakresie długości fal, które obserwujemy
+
+30
+00:01:41,890 --> 00:01:45,959
+, szerokość zapiera dech w piersiach.  Gdyby całe
+
+31
+00:01:45,960 --> 00:01:49,029
+praktyczne spektrum długości fal zostało ułożone
+
+32
+00:01:49,030 --> 00:01:54,078
+liniowo od Nowego Jorku do Los Angeles
+, wizualna część, którą widzimy,
+
+33
+00:01:54,079 --> 00:01:57,159
+miałaby tylko rozmiar
+
+34
+00:01:57,160 --> 00:02:00,669
+100 nanometrów.  Wystarczająco mały,
+
+35
+00:02:00,670 --> 00:02:04,269
+aby prześlizgnąć się przez maskę chirurgiczną.  Chodzi o to,
+
+36
+00:02:04,270 --> 00:02:07,859
+że jeśli chodzi o to, co mają zobaczyć, nasze
+
+37
+00:02:07,860 --> 00:02:10,939
+oczy tracą wiele.  Na
+
+38
+00:02:10,940 --> 00:02:15,869
+przykład spójrz na pilota.
+Wiele z tych rzeczy komunikuje się ze światłem
+
+39
+00:02:15,870 --> 00:02:20,429
+o długości fali, której nie możemy zobaczyć, ale kamery w telefonach komórkowych to
+
+40
+00:02:20,430 --> 00:02:25,769
+potrafią.  Wypróbuj to w domu.  Naciśnij przycisk na
+pilocie, a niewiele zobaczysz,
+
+41
+00:02:25,770 --> 00:02:29,469
+ale użyj aparatu w telefonie komórkowym,
+aby wykryć długości fal, których nie możesz zobaczyć
+
+42
+00:02:29,470 --> 00:02:32,679
+i sprawić, by były widoczne.
+Dużo się dzieje, za
+
+43
+00:02:32,680 --> 00:02:36,289
+czym tęsknimy.  Nasze nocne niebo jest pełne
+
+44
+00:02:36,290 --> 00:02:39,378
+częstotliwości, których nie możemy zobaczyć samymi oczami,
+
+45
+00:02:39,379 --> 00:02:42,958
+ale Chromoscope.net pozwala poszerzyć pole
+
+46
+00:02:42,959 --> 00:02:46,969
+widzenia.
+To jest Droga Mleczna, jaką widzimy
+
+47
+00:02:46,970 --> 00:02:49,969
+, widzialne światło, które ona emituje.  Ale przesuń,
+
+48
+00:02:49,970 --> 00:02:53,789
+aby zobaczyć, jak by to wyglądało, gdyby nasze oczy
+wyczuwały inne częstotliwości.
+
+49
+00:02:53,790 --> 00:02:57,518
+Oczywiście musimy reprezentować
+te inne częstotliwości za
+
+50
+00:02:57,519 --> 00:03:02,579
+pomocą widocznych kolorów, ponieważ nawet
+elektromagnetyczny czas udawania
+
+51
+00:03:02,580 --> 00:03:05,708
+jest ograniczony naszymi nikłymi granicami.
+
+52
+00:03:05,709 --> 00:03:11,128
+Jeśli chodzi o Ziemię, gdybyśmy widzieli tylko częstotliwości podczerwone,
+
+
+53
+00:03:11,129 --> 00:03:15,029
+w naszych umysłach mogłoby to wyglądać mniej więcej tak.  Widzenie w
+ultrafiolecie i skrajnym
+
+54
+00:03:15,030 --> 00:03:18,848
+ultrafiolecie zwróciłoby
+nierozpoznawalne sfery.
+
+55
+00:03:18,849 --> 00:03:23,139
+W przypadku widzenia rentgenowskiego zorze polarne wokół
+biegunów świeciłyby jasno,
+
+56
+00:03:23,140 --> 00:03:26,318
+a widzenie w promieniowaniu gamma dałoby
+Ziemi jasną krawędź
+
+57
+00:03:26,319 --> 00:03:29,889
+od wysokoenergetycznego promieniowania elektromagnetycznego
+uderzającego w atmosferę
+
+58
+00:03:29,890 --> 00:03:32,049
+pod płytkim kątem.
+
+59
+00:03:32,050 --> 00:03:36,429
+Więc który pogląd jest poprawny?  Czy istnieje
+
+60
+00:03:36,430 --> 00:03:41,359
+absolutny prawdziwy wygląd Ziemi?
+
+61
+00:03:41,360 --> 00:03:42,929
+Jeszcze nawet nie zaczęliśmy.
+
+62
+00:03:42,930 --> 00:03:46,949
+Spójrz wstecz na niebieski marmur.
+O co chodzi z
+
+63
+00:03:46,950 --> 00:03:50,369
+tyranią „północ” oznaczającą „górę”?  Być może dzieje się
+
+64
+00:03:50,370 --> 00:03:53,458
+tak dlatego, że często utożsamiamy „w górę” z „lepszym”,
+
+65
+00:03:53,459 --> 00:03:57,598
+a wielu wczesnych twórców map pochodziło z
+północy równika.
+
+66
+00:03:57,599 --> 00:04:00,929
+Ale mapy do góry nogami są równie prawdziwe,
+
+67
+00:04:00,930 --> 00:04:04,109
+bez względu na to, jak dziwny może nam się wydawać dzień.
+Zabawne,
+
+68
+00:04:04,110 --> 00:04:08,279
+że słynny Blue Marble sam w sobie jest
+produktem Northa, który równa
+
+69
+00:04:08,280 --> 00:04:12,128
+się stronniczości.  Pierwotnie tak nie wyglądał.
+
+70
+00:04:12,129 --> 00:04:15,438
+Załoga Apollo 17 początkowo
+
+71
+00:04:15,439 --> 00:04:18,857
+tak to przyjęła.  NASA obróciła go, aby
+
+72
+00:04:18,858 --> 00:04:22,619
+pasował do naszego tradycyjnego pomysłu po fakcie.
+
+73
+00:04:22,620 --> 00:04:26,619
+Oto wizualne narodziny, które pochodzą z animacji naszej planety prowadzonej
+na żywo przez Obserwatorium Marynarki Wojennej Stanów Zjednoczonych
+
+74
+00:04:26,620 --> 00:04:30,769
+.
+Możesz dokładnie zobaczyć, jakie części znajdują się
+
+75
+00:04:30,770 --> 00:04:34,888
+w tym momencie w jego cieniu.
+Inne cienie również padają
+
+76
+00:04:34,889 --> 00:04:38,448
+na Ziemię, jak cień Księżyca.
+
+77
+00:04:38,449 --> 00:04:44,089
+W zeszłym tygodniu @BadAstronomer udostępnił to
+zdjęcie.  Ciemne smugi po lewej to w
+
+78
+00:04:44,090 --> 00:04:47,698
+rzeczywistości cień Księżyca podczas zaćmienia Słońca
+
+79
+00:04:47,699 --> 00:04:51,829
+widziany z góry.
+Jest jeszcze jeden problem
+
+80
+00:04:51,830 --> 00:04:55,309
+z Niebieskim Marmurem – jest płaski, a Ziemia
+
+81
+00:04:55,310 --> 00:05:00,059
+jest trójwymiarowa.
+Globus to najlepszy sposób na przedstawienie Ziemi,
+
+82
+00:05:00,060 --> 00:05:04,719
+ale globusy są trudne do noszenia
+i nawet gdy są wyświetlane w dwóch
+
+83
+00:05:04,720 --> 00:05:05,839
+wymiarach
+
+84
+00:05:05,840 --> 00:05:08,999
+, po prostu nie można zobaczyć wszystkiego naraz.
+
+85
+00:05:09,000 --> 00:05:12,388
+Płaska mapa Ziemi jest naprawdę wygodna,
+
+86
+00:05:12,389 --> 00:05:15,758
+ale wymaga rzutowania kuli ziemskiej na coś
+
+87
+00:05:15,759 --> 00:05:20,288
+płaskiego.  A powierzchni kuli nie da się
+przedstawić na płaszczyźnie
+
+88
+00:05:20,289 --> 00:05:24,409
+bez zniekształceń.
+West Wing w słynny sposób zwrócił uwagę
+
+89
+00:05:24,410 --> 00:05:27,379
+na ograniczenia płaskich map.
+
+90
+00:05:27,380 --> 00:05:31,499
+Nie ma czegoś takiego jak idealnie płaska mapa całego
+
+91
+00:05:31,500 --> 00:05:36,379
+świata.  Niektóre mapy są przydatne
+do niektórych rzeczy, a inne do innych,
+
+92
+00:05:36,380 --> 00:05:40,038
+ale naprawdę fajnie jest wybrać projekcję Mercator,
+
+93
+00:05:40,039 --> 00:05:43,879
+głównie dlatego, że jest tak popularna i jest
+nawet używana przez Mapy Google,
+
+94
+00:05:43,880 --> 00:05:46,929
+głównie dlatego, że tak łatwo jest ją powiększyć.
+
+95
+00:05:46,930 --> 00:05:50,809
+Przyzwoicie zachowuje kształt,
+
+96
+00:05:50,810 --> 00:05:54,649
+ale cierpi na powierzchni.  Jak pokazałem wcześniej, Afryka
+
+97
+00:05:54,650 --> 00:05:59,888
+jest ogromna.  Jego obszar jest tak duży, że zmieściłyby się w nim
+całe sąsiednie Stany Zjednoczone
+
+98
+00:05:59,889 --> 00:06:03,149
+, a także całe Chiny,
+
+99
+00:06:03,150 --> 00:06:06,859
+Indie, Japonia i większa część Europy.
+
+100
+00:06:06,860 --> 00:06:10,369
+Jednak skala projekcji Mercatora w pobliżu biegunów
+
+101
+00:06:10,370 --> 00:06:13,609
+jest dość chwiejna, zniekształcona, co oznacza, że
+
+102
+00:06:13,610 --> 00:06:17,059
+ndia wydaje się być tak duża jak Afryka, mimo 
+
+103
+00:06:17,060 --> 00:06:21,059
+�e w rzeczywistości jest tylko 1/14 
+
+104
+00:06:21,060 --> 00:06:24,499
+ielkości.  Jest więcej.
+
+105
+00:06:24,500 --> 00:06:29,829
+Sprawdź Alaskę i Brazylię w
+projekcji Mercator.  Wydają się prawie
+
+106
+00:06:29,830 --> 00:06:33,228
+tego samego rozmiaru, ale w rzeczywistości Brazylia
+
+107
+00:06:33,229 --> 00:06:37,109
+jest prawie pięć razy większa niż Alaska.
+
+108
+00:06:37,110 --> 00:06:40,459
+Obszary w pobliżu równika są zminimalizowane, natomiast
+
+109
+00:06:40,460 --> 00:06:43,739
+obszary bliżej biegunów są przesadzone.
+
+110
+00:06:43,740 --> 00:06:47,249
+Aby dobrze się bawić z tym problemem, zagraj w łamigłówkę Google Maps
+
+111
+00:06:47,250 --> 00:06:51,899
+Mercator.  Czerwone elementy to
+kraje projektowane poza ich
+
+112
+00:06:51,900 --> 00:06:52,529
+zwykłymi
+
+113
+00:06:52,530 --> 00:06:55,848
+lokalizacjami.  Co to za
+
+114
+00:06:55,849 --> 00:07:00,709
+dziwny kształt?  Cóż, odciągnijmy go
+od bieguna północnego, gdzie skala jest bardzo zniekształcona,
+
+115
+00:07:00,710 --> 00:07:04,029
+a teraz jest to Australia.
+
+116
+00:07:04,030 --> 00:07:07,619
+Możesz zobaczyć, jak matematyka kryjąca się za
+projekcjami map zniekształca Ziemię
+
+117
+00:07:07,620 --> 00:07:10,638
+, wchodząc z nimi w interakcję na
+
+118
+00:07:10,639 --> 00:07:14,959
+genialnej stronie Jasona Daviesa.  Zwróć uwagę, jak mała
+Grenlandia pojawia się na
+
+119
+00:07:14,960 --> 00:07:17,239
+rzucie Mercator po pociągnięciu w dół do
+
+120
+00:07:17,240 --> 00:07:22,068
+równika i jak wyolbrzymiona staje się
+po przesunięciu do krawędzi.
+
+121
+00:07:22,069 --> 00:07:25,239
+Aby być uczciwym, projekcja Mercator doskonale nadaje się do nawigacji.
+
+122
+00:07:25,240 --> 00:07:28,918
+Jeśli chcesz czegoś bardziej sprawiedliwego,
+jeśli chodzi o obszar,
+
+123
+00:07:28,919 --> 00:07:32,168
+wypróbuj Gall-Peters.  Tutaj
+
+124
+00:07:32,169 --> 00:07:35,469
+lądy mają odpowiednią wielkość względną,
+
+125
+00:07:35,470 --> 00:07:38,508
+ale poświęca się kształt.  Wszystko wygląda na trochę
+
+126
+00:07:38,509 --> 00:07:40,839
+za wąskie.
+
+127
+00:07:40,840 --> 00:07:44,888
+Wejdź do Mollweide.  Ta projekcja pokazuje
+
+128
+00:07:44,889 --> 00:07:49,068
+równe obszary i jest nieco przyjemniejsza pod względem kształtu.
+
+129
+00:07:49,069 --> 00:07:53,478
+Jeśli przerwiesz Mollweide
+wokół oceanów, względny obszar zostaje zachowany,
+
+130
+00:07:53,479 --> 00:07:56,739
+a kształt mas lądowych staje się jeszcze
+
+131
+00:07:56,740 --> 00:08:01,279
+dokładniejszy.  Jeśli chodzi o najkrótszą
+drogę między dwoma miejscami na
+
+132
+00:08:01,280 --> 00:08:05,728
+powierzchni Ziemi, projekcje gnomoniczne są naprawdę fajne.
+
+133
+00:08:05,729 --> 00:08:10,909
+Każda prosta podróż po
+powierzchni Ziemi jest w rzeczywistości częścią wielkiego
+
+134
+00:08:10,910 --> 00:08:15,378
+koła.  Na odwzorowaniach Mercatora rzeczywiste ścieżki linii prostych
+
+135
+00:08:15,379 --> 00:08:18,478
+wyglądają na zakrzywione.  Ale każda linia prosta
+
+136
+00:08:18,479 --> 00:08:22,079
+w projekcji gnomonicznej jest również linią prostą
+
+137
+00:08:22,080 --> 00:08:25,448
+w prawdziwym życiu - najkrótszą drogą.  Jeśli
+
+138
+00:08:25,449 --> 00:08:29,969
+chcesz kompromisu między kształtem a powierzchnią,
+możesz wypróbować przyjemny
+
+139
+00:08:29,970 --> 00:08:35,058
+tripel Winkela, którego
+National Geographic Society używa do tworzenia map
+
+140
+00:08:35,059 --> 00:08:39,528
+od 1998 roku. Lub piękną mapę motyla,
+
+141
+00:08:39,529 --> 00:08:43,259
+która może być kulą, dopóki nie zostanie
+spłaszczona, powiedzmy, pod
+
+142
+00:08:43,260 --> 00:08:46,699
+tafla szkła.  Mapa Dymaxion może się rozwinąć,
+
+143
+00:08:46,700 --> 00:08:50,349
+aby pokazać, jak blisko połączone
+
+144
+00:08:50,350 --> 00:08:54,569
+są masy lądowe Ziemi.  To świetny sposób na wizualizację migracji ludzi w
+
+145
+00:08:54,570 --> 00:08:58,609
+godzinach nadliczbowych.  To imponujące, jak daleko i szeroko
+
+146
+00:08:58,610 --> 00:09:03,059
+ludzie podróżowali po Ziemi,
+ale trochę rozczarowaniem pozostaje
+
+147
+00:09:03,060 --> 00:09:06,179
+uświadomienie sobie, jak wąski jest nasz wycinek
+
+148
+00:09:06,180 --> 00:09:09,409
+percepcji wzrokowej.
+
+149
+00:09:09,410 --> 00:09:12,489
+Ale nie czuj się źle.
+To prowadzi nas do historii
+
+150
+00:09:12,490 --> 00:09:14,359
+Juliana Bayliss.
+
+151
+00:09:14,360 --> 00:09:16,489
+Tak, cześć, czy to lekarz Julian Bayliss?
+
+152
+00:09:16,490 --> 00:09:17,689
+[PO TELEFONIE:] Tak, mówię.
+
+153
+00:09:17,690 --> 00:09:20,768
+Bayliss opowiedział mi, jak
+pewnego dnia, korzystając z Google Earth,
+
+154
+00:09:20,769 --> 00:09:23,569
+zauważył ciemnozieloną roślinność.
+
+155
+00:09:23,570 --> 00:09:27,778
+Wyglądał jak las deszczowy.
+Zaplanowano ekspedycję
+
+156
+00:09:27,779 --> 00:09:31,088
+i okazało się, że właśnie to - las deszczowy
+
+157
+00:09:31,089 --> 00:09:34,768
+, którego nigdy wcześniej nie widzieliśmy.  Poprosiłem go o więcej.
+
+158
+00:09:34,769 --> 00:09:36,608
+Więc co tam znalazłeś?
+
+159
+00:09:36,609 --> 00:09:39,439
+[NA TELEFON:]
+Tego dnia znaleźliśmy około 12 nowych gatunków
+
+160
+00:09:39,440 --> 00:09:43,909
+tylko z Mabu.
+Znaleźliśmy więc około 3 węży, 2 kameleony i
+
+161
+00:09:43,910 --> 00:09:47,448
+około 4 motyle, 2 nowe gatunki roślin
+
+162
+00:09:47,449 --> 00:09:50,919
+i tak naprawdę dopiero znaleźliśmy się na
+skraju lasu.  Więc przeczytałem, przeczytałem
+
+163
+00:09:50,920 --> 00:09:54,628
+kiedyś artykuł, artykuł naukowy.
+Szacują, że na świecie jest może 8 milionów,
+
+164
+00:09:54,629 --> 00:09:58,998
+8,5 miliona gatunków,
+ale tak naprawdę odkryliśmy tylko
+
+165
+00:09:58,999 --> 00:10:03,119
+1,5 miliona, czyli od 1,5 do 2 milionów.
+
+166
+00:10:03,120 --> 00:10:08,548
+Więc właściwie odkryliśmy tylko jedną pięść wszystkiego, co żyje na tej
+
+167
+00:10:08,549 --> 00:10:09,088
+planecie.
+
+168
+00:10:09,089 --> 00:10:12,808
+Wow, nasze oczy widzą
+
+169
+00:10:12,809 --> 00:10:15,859
+tylko niewielki ułamek tego, co jest do zobaczenia.
+
+170
+00:10:15,860 --> 00:10:19,838
+Ale w tym maleńkim ułamku wciąż pozostaje
+
+171
+00:10:19,839 --> 00:10:24,739
+ogromna liczba rzeczy do odnalezienia.
+Więc szukaj dalej, szukaj dalej.
+
+172
+00:10:24,740 --> 00:10:25,539
+[NA TELEFON:]
+I jak zawsze
+
+173
+00:10:25,540 --> 00:10:26,640
+dzięki za oglądanie.
+

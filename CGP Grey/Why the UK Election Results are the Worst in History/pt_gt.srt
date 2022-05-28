@@ -1,0 +1,339 @@
+1
+00:00:00,250 --> 00:00:00,978
+Olá Internet
+
+2
+00:00:00,979 --> 00:00:05,059
+O Reino Unido teve uma eleição sobre a qual precisamos falar
+porque depois que os debates terminaram, as pessoas
+
+3
+00:00:05,060 --> 00:00:07,778
+votaram e as cédulas computadas os resultados
+foram estes:
+
+4
+00:00:07,779 --> 00:00:10,259
+Mas o parlamento acabou ficando assim: O
+
+5
+00:00:10,260 --> 00:00:14,899
+que não é, exatamente, representativo.  E
+por não exatamente, quero dizer em tudo.
+
+6
+00:00:14,900 --> 00:00:19,608
+Vermelho ganhou 30% dos votos e 36% dos
+assentos, o que é meio que perto, mas o resto
+
+7
+00:00:19,609 --> 00:00:24,698
+é uma loucura: Laranja ganhou 8% dos votos, mas
+obteve um oitavo disso, enquanto os 5% de Amarelo
+
+8
+00:00:24,699 --> 00:00:28,278
+quase dobraram e o roxo ganhou  13% e ficou de
+cócoras.
+
+9
+00:00:28,279 --> 00:00:33,669
+Enquanto isso, os 37% do povo azul chegaram
+a 51% dos assentos no parlamento.  O
+
+10
+00:00:33,670 --> 00:00:38,869
+impulso azul é ainda maior quando você considera que
+51% dos assentos dão basicamente 100% de
+
+11
+00:00:38,870 --> 00:00:39,799
+controle.
+
+12
+00:00:39,800 --> 00:00:40,529
+Como isso aconteceu?
+
+13
+00:00:40,530 --> 00:00:45,049
+No Reino Unido, as eleições nacionais não são realmente
+nacionais, são um monte de eleições locais.
+
+14
+00:00:45,050 --> 00:00:49,709
+O Reino Unido é dividido em círculos eleitorais, cada um
+dos quais elege um membro do parlamento (MP)
+
+15
+00:00:49,710 --> 00:00:54,218
+para representá-los.  Essa divisão local/nacional
+é onde o problema começa.
+
+16
+00:00:54,219 --> 00:00:58,339
+Imagine um parlamento com apenas três distritos eleitorais,
+e é fácil ver como nem sempre se
+
+17
+00:00:58,340 --> 00:01:03,159
+alinharia com os cidadãos.  Algumas pessoas acham que esse
+tipo de resultado é bom – “é tudo *sobre*
+
+18
+00:01:03,160 --> 00:01:07,199
+ganhar as eleições locais”, eles dirão.
+“Cada deputado  representa seu eleitorado”.
+
+19
+00:01:07,200 --> 00:01:11,919
+E enquanto o desequilíbrio neste exemplo é
+extremo, mas é o mesmo problema na eleição real
+
+20
+00:01:11,920 --> 00:01:16,429
+e este mesmo argumento é dado,
+mas há mais dois problemas com ele na
+
+21
+00:01:16,430 --> 00:01:17,539
+realidade terrestre.
+
+22
+00:01:17,540 --> 00:01:23,118
+1) Poucos cidadãos têm ideia de quem é o seu
+deputado, eles apenas sabem em que partido votaram
+
+23
+00:01:23,119 --> 00:01:27,959
+-- em que partido querem que represente as suas
+opiniões a nível nacional.  E fingir
+
+24
+00:01:27,960 --> 00:01:33,749
+que é uma eleição local é um pouco falso.
+-- na prática é uma eleição para saber como a
+
+25
+00:01:33,750 --> 00:01:38,429
+nação vai funcionar -- não para quem
+vai representar uma pequena parte dela.
+
+26
+00:01:38,430 --> 00:01:39,099
+e mesmo que fosse
+
+27
+00:01:39,100 --> 00:01:43,898
+2) Os círculos eleitorais individuais são piores
+em representar seus cidadãos do que o parlamento.
+
+28
+00:01:43,899 --> 00:01:46,449
+Satisfaça esse nerd amante de planilhas por um
+momento, sim?
+
+29
+00:01:46,450 --> 00:01:49,849
+A diferença entre o que um partido ganhou
+nas urnas e o que obteve no parlamento
+
+30
+00:01:49,850 --> 00:01:52,589
+é a quantidade de erro de deturpação.
+
+31
+00:01:52,590 --> 00:01:56,669
+Se calcularmos todos os erros para todos os
+partidos e os somarmos, podemos dizer que o Parlamento
+
+32
+00:01:56,670 --> 00:02:03,489
+como um todo tem 47% pontos percentuais de erro de deturpação
+.  Isso soa mal parece um
+
+33
+00:02:03,490 --> 00:02:08,738
+arco-íris utópico de diversidade em comparação com qualquer
+eleição local, porque as eleições locais têm
+
+34
+00:02:08,739 --> 00:02:17,669
+*um* vencedor.  Dos 650 círculos eleitorais,
+647 têm um erro de representação maior do que o
+
+35
+00:02:17,670 --> 00:02:22,429
+parlamento.  Estes são os únicos três que
+não o fazem e são realmente incomuns por terem
+
+36
+00:02:22,430 --> 00:02:26,269
+tantos eleitores de um único tipo em um só lugar.
+
+37
+00:02:26,270 --> 00:02:32,458
+A maioria dos lugares parece o Wrekin que está morto
+no meio a apenas cem e um pontos
+
+38
+00:02:32,459 --> 00:02:37,199
+de distância.  Observe que o candidato vencedor não
+alcançou a maioria aqui.  O que significa que mais da
+
+39
+00:02:37,200 --> 00:02:41,469
+metade dos círculos eleitorais elegeu seu MP com
+uma minoria de eleitores.
+
+40
+00:02:41,470 --> 00:02:47,659
+O pior é Belfast South na parte inferior
+da lista.  Hilariamente não representativo.  Menos
+
+41
+00:02:47,660 --> 00:02:51,909
+de um quarto dos eleitores consegue falar
+por todo o lugar no parlamento.  Esta
+
+42
+00:02:51,910 --> 00:02:56,119
+é a porcentagem mais baixa de um M.P.  já
+foi eleito por.
+
+43
+00:02:56,120 --> 00:02:59,818
+Então, quando as pessoas argumentam que as eleições do Reino Unido
+são um monte de eleições locais 1) as pessoas não
+
+44
+00:02:59,819 --> 00:03:03,639
+agem assim, e 2) é ainda mais um argumento
+que as eleições estão quebradas porque são
+
+45
+00:03:03,640 --> 00:03:05,139
+piores nesse nível.
+
+46
+00:03:05,140 --> 00:03:08,149
+Essas eleições locais não são representativas
+por causa do terrível sistema de votação 'First Past the Post'
+
+47
+00:03:08,150 --> 00:03:11,809
+- do qual reclamei
+muito e não vou repetir tudo aqui -
+
+48
+00:03:11,810 --> 00:03:16,318
+assista ao vídeo - mas TL;DR só 'funciona'
+quando  os cidadãos estão limitados a duas escolhas.
+
+49
+00:03:16,319 --> 00:03:21,719
+Votar em qualquer partido, exceto o maior,
+torna mais provável que o maior vença por uma minoria
+
+50
+00:03:21,720 --> 00:03:24,059
+– o que foi exatamente o que aconteceu.
+
+51
+00:03:24,060 --> 00:03:27,119
+O fato de os cidadãos continuarem votando em partidos menores,
+apesar de saberem que o resultado é contra seus
+
+52
+00:03:27,120 --> 00:03:32,619
+interesses estratégicos, demonstra que os cidadãos
+querem uma representação diversificada – mas esse sucesso
+
+53
+00:03:32,620 --> 00:03:37,298
+é exatamente o que fez deste o
+parlamento menos representativo da história
+
+54
+00:03:37,299 --> 00:03:38,939
+do Reino Unido.
+
+55
+00:03:38,940 --> 00:03:43,089
+As pessoas satisfeitas com os resultados argumentam que o sistema
+está funcionando bem - claro que sim.  O
+
+56
+00:03:43,090 --> 00:03:44,939
+time deles ganhou.
+
+57
+00:03:44,940 --> 00:03:48,539
+Mas o governo não é um esporte onde um
+'vencedor' singular deve ser determinado.  É um sistema
+
+58
+00:03:48,540 --> 00:03:54,229
+para fazer regras que todos seguem e, portanto,
+precisamos de um sistema em que todos possam concordar que
+
+59
+00:03:54,230 --> 00:03:58,048
+o processo é justo, mesmo que os resultados não
+sejam a seu favor.
+
+60
+00:03:58,049 --> 00:04:03,298
+Se você apóia um sistema que desprivilegia as
+pessoas que você não gosta e turbina as pessoas que você gosta
+
+61
+00:04:03,299 --> 00:04:08,339
+, então não parece que
+você apóia a democracia representativa, parece
+
+62
+00:04:08,340 --> 00:04:14,279
+que você apóia uma espécie de ditadura leve.
+Onde um pequeno grupo de pessoas (incluindo você)
+
+63
+00:04:14,280 --> 00:04:16,189
+faz as regras para todos.
+
+64
+00:04:16,190 --> 00:04:22,739
+Mas, como está agora, no dia da eleição, quanto mais as
+pessoas expressam o que querem, pior
+
+65
+00:04:22,740 --> 00:04:30,119
+fica o sistema, o que os deixa desengajados na
+melhor das hipóteses ou irritados na pior e GEE, NÃO POSSO IMAGINAR O
+
+66
+00:04:30,120 --> 00:04:30,499
+PORQUÊ.
+
+67
+00:04:30,500 --> 00:04:35,309
+Isso é corrigível, há muitas, muitas maneiras melhores de
+o Reino Unido votar - aqui estão duas que
+
+68
+00:04:35,310 --> 00:04:37,159
+até mantêm representantes locais.
+
+69
+00:04:37,160 --> 00:04:42,719
+E consertar a votação realmente importa, porque
+esse é um tipo de pontuação de ilegitimidade do governo
+
+70
+00:04:42,720 --> 00:04:47,989
+- e está subindo e pode continuar a subir,
+a menos que esse
+
+71
+00:04:47,990 --> 00:05:00,500
+sistema de votação fundamentalmente quebrado seja alterado.
+

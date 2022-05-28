@@ -1,0 +1,697 @@
+1
+00:00:07,220 --> 00:00:10,558
+Selam, Vsauce. Ben Michael. buradayım.
+
+2
+00:00:10,559 --> 00:00:13,959
+biçimsizleştim.Gördüğünüz pikseller
+
+3
+00:00:13,960 --> 00:00:18,179
+değişik zamanlı. Onlar bir gradyan üzerinden eşleştirildi
+
+4
+00:00:18,180 --> 00:00:21,778
+ve eşleştirildiği bölgeler koyulaştıkça,gecikmeleri
+
+5
+00:00:21,779 --> 00:00:25,589
+artıyor.Etkisi gerçekten eğlenceli ama kesinlikle
+
+6
+00:00:25,590 --> 00:00:31,229
+gerçekçi değil. Yoksa öyle mi?
+
+7
+00:00:31,230 --> 00:00:35,819
+Birçok popüler dijital kamera lag kaynaklı bozulmalardan yakınır,
+
+8
+00:00:35,820 --> 00:00:39,019
+az önce gördüğünüz gibi,aslında
+
+9
+00:00:39,020 --> 00:00:42,459
+çok daha ince.Genellikle tamamen
+
+10
+00:00:42,460 --> 00:00:45,709
+farkedilemez.Buna rolling shutter denir.
+
+11
+00:00:45,710 --> 00:00:48,789
+Tek seferde bir kare yakalamak yerine
+
+12
+00:00:48,790 --> 00:00:52,198
+hızlıca her sütundaki çizgiler taranır.
+
+13
+00:00:52,199 --> 00:00:56,709
+Genellikle farkedilmez.Ama ne zaman
+konu
+
+14
+00:00:56,710 --> 00:00:57,549
+kameranın tarayışından hızlı değişirse
+
+15
+00:00:57,550 --> 00:01:03,209
+Ünlü karışık,titrek rolling shutter
+etkisini görürsünüz.Titreşimli
+
+16
+00:01:03,210 --> 00:01:06,799
+gitar telleri,uçak pervaneleri gibi hızlı şeyler
+
+17
+00:01:06,800 --> 00:01:11,709
+ünlü kurbanlardır, ama insanlar da olabilir.
+Luke Mandel bu fotoğrafı Boing Boing. net için
+
+18
+00:01:11,710 --> 00:01:16,618
+çekti.Onun kamera taramaları soldan
+sağa doğru ve bu örnekte,
+
+19
+00:01:16,619 --> 00:01:20,209
+bir göz kırpması yakalamayı başardı.Tarama başladığında
+
+20
+00:01:20,210 --> 00:01:25,169
+gözler kapalı ve yansımada açık
+
+21
+00:01:25,170 --> 00:01:28,739
+bir saniye sonra da olsa.Ama rolling shutter etkisi
+
+22
+00:01:28,740 --> 00:01:32,699
+Sadece hoş bir merak değildir.Temel ve
+
+23
+00:01:32,700 --> 00:01:36,129
+kaçınılmaz bozulmayı temsil eder,
+
+24
+00:01:36,130 --> 00:01:39,709
+gördüğümüz herşeyi etkileyen.Rolling Shutter
+
+25
+00:01:39,710 --> 00:01:44,118
+ya da değil.İlk önce,bozulmalar hakkında konuşalım.
+
+26
+00:01:44,119 --> 00:01:47,408
+Halüsinasyon gerçekliğin hiçbir uyarıcı yokken
+
+27
+00:01:47,409 --> 00:01:51,389
+bozulmasıdır. Eğer sadece
+
+28
+00:01:51,390 --> 00:01:55,699
+uyaranı yanlış anımsıyorsanız, bu bir yanılsamadır.
+
+29
+00:01:55,700 --> 00:01:59,908
+Ancak bazı bozulmalar bizim duyu organlarımızdan önce gerçekleşir
+
+30
+00:01:59,909 --> 00:02:03,179
+ve aklımız o şekilde algılar. Buna
+
+31
+00:02:03,180 --> 00:02:08,339
+optik fenomen denir.Bunlar,duyunun ve algının yanlışlığının sonucu değildir.
+
+32
+00:02:08,340 --> 00:02:13,659
+Bunun yerine, optik fenomenler ışığın ve maddenin neden olduğu
+
+33
+00:02:13,660 --> 00:02:14,499
+bozulmalardır.
+
+34
+00:02:14,500 --> 00:02:17,969
+Eğer gökyüzüne bakarsanız
+
+35
+00:02:17,970 --> 00:02:21,639
+ve dev bir canlı,sarhoş bir kabak görürseniz
+
+36
+00:02:21,640 --> 00:02:24,899
+halisülasyon görüyorsunuz. Ama düz
+
+37
+00:02:24,900 --> 00:02:28,999
+iki boyutlu noktaları birleştiren bir Büyükayı görüyorsanız,
+
+38
+00:02:29,000 --> 00:02:32,289
+bir illüzyon görüyorsunuz. Bu bir illüzyon çünkü
+
+39
+00:02:32,290 --> 00:02:37,509
+tek başına görünen bu noktalar karanlık gökyüzünde ortaya çıkan deliklerle aynı ortamda.
+
+40
+00:02:37,510 --> 00:02:40,608
+Gerçekte, bu noktalar yıldızdır
+
+41
+00:02:40,609 --> 00:02:44,729
+birbirinden ışık yıllarınca uzak olan üç boyutlu yıldızlar.
+
+42
+00:02:44,730 --> 00:02:48,839
+Celestronun üç boyutlu gerçek zamanlı görüntülemesi gösterir ki
+
+43
+00:02:48,840 --> 00:02:52,439
+farklı perspektiflerden(bizimkide dahil olmak üzere)
+
+44
+00:02:52,440 --> 00:02:56,409
+derinlikleri ve çıkıntıları değişik gözüküyor.
+
+45
+00:02:56,410 --> 00:02:59,659
+Aslında, tüm takımyıldızları ve asterismler
+
+46
+00:02:59,660 --> 00:03:03,649
+jeosentrik yanılsamalardır. Daha geniş bir perspektiften bakıldığında
+
+47
+00:03:03,650 --> 00:03:06,729
+dış çizgileri içerde
+
+48
+00:03:06,730 --> 00:03:09,789
+Tek ve aşağı bir noktada
+
+49
+00:03:09,790 --> 00:03:13,559
+onlara isimlerini veren bir noktada merkezlenmiştir.Fakat bizim yüzümüzden değil.
+
+50
+00:03:13,560 --> 00:03:18,419
+Yani, Dünya,insanların elindeki tek perspektiftir.
+
+51
+00:03:18,420 --> 00:03:22,208
+Voyager 1 bile,
+(en uzağa gitmiş insan yapımı nesne)
+
+52
+00:03:22,209 --> 00:03:26,059
+hala hiçbir takımyıldıza dünyada göründüklerinden daha yakın
+
+53
+00:03:26,060 --> 00:03:29,759
+olarak bakacak kadar uzağa gidemedi.
+
+54
+00:03:29,760 --> 00:03:33,569
+O kadar uzak yıldızların noktaları birleştirme
+
+55
+00:03:33,570 --> 00:03:37,108
+numaramıza dahil olmaması bizimde,beynimizinde
+
+56
+00:03:37,109 --> 00:03:40,809
+gözlerimizinde suçu değil.
+
+57
+00:03:40,810 --> 00:03:44,078
+Tabii,gözlerimiz daha iyi olabilirdi
+
+58
+00:03:44,079 --> 00:03:47,129
+ancak optik fenomenler de masum değil.
+
+59
+00:03:47,130 --> 00:03:52,349
+Redshift,ters kare kanunu ve ışık sönmesi olmasaydı
+
+60
+00:03:52,350 --> 00:03:55,599
+uzak şeyler bütün görkemleriyle görülebilirdi.
+
+61
+00:03:55,600 --> 00:03:59,819
+Gece gökyüzü efsanevi gözükürdü.Ordaki birçok
+
+62
+00:03:59,820 --> 00:04:03,149
+oluşum,devasa. Onlar sadece
+
+63
+00:04:03,150 --> 00:04:06,849
+büyüklüklerini anlayabilmek için fala uzaktalar.
+
+64
+00:04:06,850 --> 00:04:11,869
+Hubble teleskobunun uzak nesnelerden aldığı fotoğrafları gördüğümüzde
+(Helix Bulutsusu gibi)
+
+65
+00:04:11,870 --> 00:04:15,509
+Teleskopla yakından görmeden
+
+66
+00:04:15,510 --> 00:04:19,289
+nesnelerin uzayda sadece küçük bir nokta gibi olduğunu düşünmek kolaydır
+
+67
+00:04:19,290 --> 00:04:23,418
+Ama gerçekte, Helix Bulutsusu bile
+
+68
+00:04:23,419 --> 00:04:26,679
+700 ışık yılı uzaklıktadır.
+
+69
+00:04:26,680 --> 00:04:31,159
+3 ışık yılı çapındadır.Eğer Helix Bulutsusunu
+
+70
+00:04:31,160 --> 00:04:34,339
+daha az loş görebilseydik,gözlerimiz onun devasa
+
+71
+00:04:34,340 --> 00:04:37,728
+perspektifini alabilseydi,
+Biz Helix Bulutsusunu
+
+72
+00:04:37,729 --> 00:04:42,839
+olduğu gibi görürdük-Ayın yüzde 70
+
+73
+00:04:42,840 --> 00:04:47,379
+çapıyla.Bu ciddi bir görüntü.
+İşte bu
+
+74
+00:04:47,380 --> 00:04:50,799
+Helix Nebulasının gökyüzünde görünen hali olurdu.
+
+75
+00:04:50,800 --> 00:04:54,359
+(tabii bu kadar loş olmasaydı).Aslında Ay
+
+76
+00:04:54,360 --> 00:04:59,199
+gökyüzünde küçücük.Beyzbol topu kadar görünen şeyin yanında
+
+77
+00:04:59,200 --> 00:05:02,909
+Ayın da bu kadar büyük olduğunu düşünmek kolay.Fakat bu bir illüzyon.
+
+78
+00:05:02,910 --> 00:05:06,959
+Ayı bir dahaki görüşünüzde şunu deneyin;Bir kağıt alın!
+
+79
+00:05:06,960 --> 00:05:10,299
+Göreceksiniz ki ayın çapı,
+
+80
+00:05:10,300 --> 00:05:14,839
+kolumuzun mesafesinde tutulan kağıttaki
+
+81
+00:05:14,840 --> 00:05:19,879
+delik kadar. Cidden, deneyin!
+Ayımızın ne kadar
+
+82
+00:05:19,880 --> 00:05:23,619
+tatlı ve ufak olduğunu gösteriyor.
+Orion Bulutsusu
+
+83
+00:05:23,620 --> 00:05:27,099
+(bütün ışığını görseydik)daha da büyük görünürdü
+
+84
+00:05:27,100 --> 00:05:30,179
+Andromeda Galaksisi?Gözlerimize göre
+
+85
+00:05:30,180 --> 00:05:34,969
+gökyüzünde bir leke. Ama eğer
+gözlerimiz loş ışığı algılamada
+
+86
+00:05:34,970 --> 00:05:38,419
+daha iyi olsaydı,Gökyüzünde
+
+87
+00:05:38,420 --> 00:05:41,689
+Andromedanın gerçek görüntüsünü görürdük.Tabii
+
+88
+00:05:41,690 --> 00:05:44,719
+Gökyüzü bu şekilde görünmüyor.Uzak nesneler daha loş,
+
+89
+00:05:44,720 --> 00:05:49,519
+bu çok can sıkıcı. Ama ışık hala konu hız olduğunda kazanıyor.
+
+90
+00:05:49,520 --> 00:05:55,329
+Işık en yüksek hızda hareket eder.
+Aslında vakumlu bir şekilde ışık
+
+91
+00:05:55,330 --> 00:05:58,539
+saniyede 300.000 kilometre yol kateder..
+
+92
+00:05:58,540 --> 00:06:01,069
+Bu hızlı.
+
+93
+00:06:01,070 --> 00:06:04,629
+Ama aslında değil.Tabii ki uzaydaki nesnelerin arasındaki
+
+94
+00:06:04,630 --> 00:06:08,199
+mesafelerden söz edersek. Sidney, Avustralya
+
+95
+00:06:08,200 --> 00:06:12,279
+Londradan ışık hızının 1/14 ü kadar uzakta.
+
+96
+00:06:12,280 --> 00:06:13,919
+Andromeda Galaksisi ise
+
+97
+00:06:13,920 --> 00:06:18,549
+Londradan 2,500,000 ışık yılı uzakta.
+
+98
+00:06:18,550 --> 00:06:22,829
+Bunu algılamak için Londradan Sidneye ışık hızında
+
+99
+00:06:22,830 --> 00:06:25,809
+bir yolculuğa çıkalım.Yolculuk bunun gibi görünürdü
+
+100
+00:06:25,810 --> 00:06:30,849
+Üç, iki, bir, gidin!
+
+101
+00:06:30,850 --> 00:06:35,229
+Güzel! Tamam.Sırada Andromeda Galaksisi var.
+
+102
+00:06:35,230 --> 00:06:40,519
+Tamam, şimdi, göreli etkileri bir yana,
+Andromedaya yolculuk
+
+103
+00:06:40,520 --> 00:06:43,179
+ışık hızında nasıl görünürdü
+
+104
+00:06:43,180 --> 00:06:46,019
+bir bakalım. Hazır mısınız? Peki.
+
+105
+00:06:46,020 --> 00:06:54,359
+Üç, iki, bir, gidin!
+
+106
+00:06:54,360 --> 00:06:57,449
+Evet. Cidden,bu çok
+
+107
+00:06:57,450 --> 00:07:01,349
+sıkıcı.Işık hızında bile(mümkün olan
+
+108
+00:07:01,350 --> 00:07:05,229
+(en büyük hız), bir yıl sonra bile
+
+109
+00:07:05,230 --> 00:07:08,999
+yolun milyonda birini bitiremeyecektik.
+
+110
+00:07:09,000 --> 00:07:11,329
+İşte Andromeda bu kadar
+
+111
+00:07:11,330 --> 00:07:14,979
+uzak.Aslında
+
+112
+00:07:14,980 --> 00:07:20,289
+bir bakıma üzücü. Ama bu bizi Rolling shutter efektine geri getiriyor.
+
+113
+00:07:20,290 --> 00:07:25,959
+Andromeda Galaksisi çok büyük.100 bin ışık yılından uzak ve
+
+114
+00:07:25,960 --> 00:07:29,589
+görüntüsü eğik.
+
+115
+00:07:29,590 --> 00:07:33,819
+Ki bu,arkadan ışıkla
+
+116
+00:07:33,820 --> 00:07:39,239
+Andromedanın yüzbinlerce ışık yılı öncesinde nasıl göründüğünü
+
+117
+00:07:39,240 --> 00:07:42,329
+temsil eder.
+
+118
+00:07:42,330 --> 00:07:45,689
+Görüntüsündeki değişiklik bizi ona önünden daha çok yaklaştırır
+
+119
+00:07:45,690 --> 00:07:50,269
+arkasına kıyasla.Andromeda bazı yerlerde saniye
+
+120
+00:07:50,270 --> 00:07:51,909
+yüzlerce kilometre dönüyor.
+
+121
+00:07:51,910 --> 00:07:55,669
+Şimdi,yakın ve uzak noktalardan gelen
+
+122
+00:07:55,670 --> 00:07:58,879
+gelen gecikmenin sonuçlarını
+
+123
+00:07:58,880 --> 00:08:03,689
+çarpık bir görüntüde görüyoruz.Kozmik bir ölçüde
+
+124
+00:08:03,690 --> 00:08:06,699
+rolling shutter efektinin uygulanması,(satranç tahtası gibi)
+
+125
+00:08:06,700 --> 00:08:11,259
+önünden arkasını görmek korkutucu ve dramatik.
+
+126
+00:08:11,260 --> 00:08:13,789
+Yani, bu Andromedanın ve diğer
+
+127
+00:08:13,790 --> 00:08:18,199
+galaksilerin titrek,rolling shutter efektli,eğlence evi aynalı
+
+128
+00:08:18,200 --> 00:08:21,669
+versiyonlarını görüyoruz demek mi?Yani teknik olarak
+
+129
+00:08:21,670 --> 00:08:26,659
+evet,fakat bozulma farkedilemeyecek derecede.
+
+130
+00:08:26,660 --> 00:08:30,019
+Hatta görmezden gelinmiş bile olabilir.Neden? Çünkü
+
+131
+00:08:30,020 --> 00:08:33,668
+görsellerdeki hızlar gerçek
+
+132
+00:08:33,669 --> 00:08:38,249
+değil.Ortalama bir galaksi,Evrenin merkezinde saniyede
+
+133
+00:08:38,250 --> 00:08:41,699
+yüzlerce kilometre döner.
+
+134
+00:08:41,700 --> 00:08:45,559
+ancak galaksiler o kadar büyük ki,sadece bir dönüşü tamamlamaları
+
+135
+00:08:45,560 --> 00:08:49,209
+yüz milyonlarca yıl alır.
+
+136
+00:08:49,210 --> 00:08:53,739
+Başka bir deyişle,bir galaksinin size ulaşan
+
+137
+00:08:53,740 --> 00:08:56,999
+uzak ve yakın noktalarındaki gecikme,
+
+138
+00:08:57,000 --> 00:09:00,289
+aynı uzaklığı katetmek için gereken zamanı
+
+139
+00:09:00,290 --> 00:09:03,859
+düşününce hiçbir şey.
+
+140
+00:09:03,860 --> 00:09:06,989
+Andromedanın durumda,onu olduğu gibi
+
+141
+00:09:06,990 --> 00:09:10,379
+görmek için ısrar ederseniz
+
+142
+00:09:10,380 --> 00:09:15,559
+Işık hızının sonlu olmasından kaynaklanan herhangi bir gecikmenin düzeltimesi
+
+143
+00:09:15,560 --> 00:09:18,799
+galaksinin en aşırı noktalarında
+
+144
+00:09:18,800 --> 00:09:23,039
+normal bir fotoğraf büyüklüğünün 10 bin defa
+
+145
+00:09:23,040 --> 00:09:26,419
+kadar değiştirilmesi gerekirdi. Bu durumda, bir pikselden daha az.
+
+146
+00:09:26,420 --> 00:09:30,799
+Yani, büyük bir sorun değil. Ama bu sorun yok demekte değil.
+
+147
+00:09:30,800 --> 00:09:34,529
+Bu gerçek. Aslında, baktığımız herşey
+
+148
+00:09:34,530 --> 00:09:37,669
+bir şekilde,(ışık hızı sonlu olduğu için)
+
+149
+00:09:37,670 --> 00:09:40,749
+bozuk.Kendi ayağınız gözlerinizden
+
+150
+00:09:40,750 --> 00:09:47,139
+5-6 nano-ışık saniyesi kadar uzakta,yani ayaklarınıza baktığınızda
+
+151
+00:09:47,140 --> 00:09:50,949
+onların 5-6 nano-ışık saniyesi önceki hallerini
+
+152
+00:09:50,950 --> 00:09:55,229
+görüyorsunuz.5-6 nano-ışık saniyesi öncesi.
+
+153
+00:09:55,230 --> 00:09:58,249
+Tabii bu kadar kısa bir gecikme anlaşılamaz fakat
+
+154
+00:09:58,250 --> 00:10:01,879
+hesap edilebilir.En keskin zekayla
+
+155
+00:10:01,880 --> 00:10:05,219
+veya en iyi aletlerle bile,görüntünün
+
+156
+00:10:05,220 --> 00:10:09,549
+sizin nerede olduğunuza bağlı olması sizi üzüyorsa,
+
+157
+00:10:09,550 --> 00:10:13,139
+Optik fenomen görüntünün her zaman göreceli
+
+158
+00:10:13,140 --> 00:10:17,679
+olduğunu garanti eder(?) Üzülmeyin.
+
+159
+00:10:17,680 --> 00:10:21,669
+En yakınımızdaki insanlara akraba,arkadaş deriz.
+
+160
+00:10:21,670 --> 00:10:25,069
+Aslında sadece büyük,çok büyük bir aile
+
+161
+00:10:25,070 --> 00:10:28,479
+ya da karşılaştırmlı bir çerçeveyiz.Bir aile gibi her şeyde anlaşmıyoruz
+
+162
+00:10:28,480 --> 00:10:31,569
+fakat bakmak için onlarca güzel şeyimiz var.
+
+163
+00:10:31,570 --> 00:10:35,489
+Bu videoda rolling shutter efekti için yardım eden
+
+164
+00:10:35,490 --> 00:10:51,888
+editörüme teşekkür ederim
+
+165
+00:10:51,889 --> 00:10:54,448
+Ve tabii ki her zamanki gibi
+
+166
+00:10:54,449 --> 00:11:21,969
+izlediğiniz için size de teşekkür ederim.
+
+167
+00:11:21,970 --> 00:11:23,009
+Oh,havalı bir şey daha.
+
+168
+00:11:23,010 --> 00:11:26,039
+HP ile birlikte Hindistanda
+
+169
+00:11:26,040 --> 00:11:29,579
+YouTube Fan Festivalinde olacağım.Daha fazla bilgi için açıklamayı okuyun.Eğer
+
+170
+00:11:29,580 --> 00:11:30,069
+gelebilirseniz.
+
+171
+00:11:30,070 --> 00:11:31,020
+Sizi orada görmeyi umuyorum
+
