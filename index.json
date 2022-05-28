@@ -9,18 +9,12 @@
    "fr_rw.lsubs"
   ],
   "language": "fr",
-  "link": "https://www.youtube.com/watch?v=DlJc2JvDCL0"
- },
- "Bizim": {
-  "srt": [
-   "en_gt.srt",
-   "tr_hm.srt"
+  "categories": [
+   "animation",
+   "history",
+   "family"
   ],
-  "language": "tr",
-  "link": "https://www.netflix.com/watch/81354496",
-  "lsubs": [
-   "tr_en.lsubs"
-  ]
+  "link": "https://www.youtube.com/watch?v=DlJc2JvDCL0"
  },
  "CGP Grey\\ Parallel and Cross Cousins Explained": {
   "srt": [
@@ -4065,18 +4059,6 @@
   ],
   "link": "https://www.youtube.com/watch?v=QAIy155xeh4"
  },
- "Deliha": {
-  "srt": [
-   "en_gt.srt",
-   "en_hm.srt",
-   "tr_hm.srt"
-  ],
-  "language": "tr",
-  "link": "https://www.netflix.com/watch/80134330",
-  "lsubs": [
-   "tr_en.lsubs"
-  ]
- },
  "enchufetv\\Types of Students": {
   "srt": [
    "en_gt.srt",
@@ -4087,6 +4069,9 @@
    "es_rw.lsubs"
   ],
   "language": "es",
+  "categories": [
+   "humor"
+  ],
   "link": "https://www.youtube.com/watch?v=X8Q4vPKDMpk"
  },
  "Kurzgesagt\\...And We'll Do it Again": {
@@ -9640,18 +9625,318 @@
   ],
   "link": "https://www.youtube.com/watch?v=Pj-h6MEgE7I"
  },
- "Recep": {
+ "Vsauce\\12 MORE Amazing Free Games! -- DONG!": {
   "srt": [
-   "en_gt.srt",
+   "ar_gt.srt",
+   "de_gt.srt",
    "en_hm.srt",
-   "tr_hm.srt"
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
   ],
-  "language": "tr",
-  "link": "https://www.netflix.com/watch/80038526",
   "lsubs": [
-   "tr_en.lsubs",
-   "tr_rw.lsubs"
-  ]
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=J2I2vQQwiyE"
+ },
+ "Vsauce\\15 AWESOME YouTube Tricks": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=LX07w8_uNtk"
+ },
+ "Vsauce\\200 VIDEOS": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=_tTwjDRa110"
+ },
+ "Vsauce\\4 FACTS": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=bA32J-dmtC4"
+ },
+ "Vsauce\\5 AMAZING Experiments and Sauciest of the Week !": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=UIcGn4RcvlU"
+ },
+ "Vsauce\\6 WORST Villains EVER!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=nKi7CzP9Dxs"
+ },
+ "Vsauce\\8 Surprising Facts": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=I9LbG3Y0_9M"
+ },
+ "Vsauce\\A Defense of Comic Sans": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=GUCcObwIsOs"
+ },
+ "Vsauce\\Amazing Art and MORE! IMG! #49": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=ySjk2_4kDQE"
+ },
+ "Vsauce\\Are We Ready For Aliens": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=gCBlAAtJA54"
  },
  "Vsauce\\Artificial Intelligence - Mind Field (Ep 4)": {
   "srt": [
@@ -9684,11 +9969,50 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=qZXpgf8N6hs"
+ },
+ "Vsauce\\Awesome Atmosphere SCIENCE!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Wa1eWChj-o4"
  },
  "Vsauce\\Ayahuasca": {
   "srt": [
@@ -9714,6 +10038,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -9745,11 +10077,300 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=BR-eMMCp7tg"
+ },
+ "Vsauce\\Best Doorstop EVER -- LÜT #15": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=R4sYp1FPw-0"
+ },
+ "Vsauce\\BEST IMAGES of the Week -- IMG! #42": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=7c9f9sr6BPg"
+ },
+ "Vsauce\\BIGGEST EXPLOSIONS": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=rdHRX7iIAQs"
+ },
+ "Vsauce\\BLOW YOUR MIND!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=I31pi-6NgqM"
+ },
+ "Vsauce\\BRA GUN -- Mind Blow #17": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=kwuwJURHgX4"
+ },
+ "Vsauce\\BUBBLE FAIL !! Best Images of the Week #37": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=KOFqBrwld3c"
+ },
+ "Vsauce\\Buy REAL Dino Teeth! ... and more! LÜT #20": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Hu73WFkxL6A"
+ },
+ "Vsauce\\Carrot Sharpener. LÜT #27": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=b2nqtiam25g"
+ },
+ "Vsauce\\COMPLEXITY! -- Vsauce Leanback #6": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=VYqQ-aShpBc"
  },
  "Vsauce\\Conformity - Mind Field (Ep 2)": {
   "srt": [
@@ -9782,11 +10403,186 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=fbyIYXEu-nQ"
+ },
+ "Vsauce\\Cool Things on YouTube and More! DONG #19": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=8pxH-wqtV2M"
+ },
+ "Vsauce\\COVERED IN CHICKS -- IMG! #41": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=qnJHn8_ER9g"
+ },
+ "Vsauce\\Crazy BABY Eyes ... and More  IMG! #44": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=V9R6zFpf9Gw"
+ },
+ "Vsauce\\CREEPY WOODY !!!  -- IMG! #31": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=FqsIQk0pT0M"
+ },
+ "Vsauce\\Cruel Bombs": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=SHZAaGidUbg"
  },
  "Vsauce\\Destruction - Mind Field (Ep 3)": {
   "srt": [
@@ -9819,11 +10615,60 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=zD68reVP0Ek"
+ },
+ "Vsauce\\Did The Past Really Happen": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=O2jkV4BsN6U"
  },
  "Vsauce\\DINOSAUR SCIENCE! feat. Chris Pratt and Jack Horner": {
   "srt": [
@@ -9843,11 +10688,58 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=L4AJmvzImbM"
+ },
+ "Vsauce\\DISTORTIONS": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=mQ0hS7l9ckY"
  },
  "Vsauce\\Divergent Minds": {
   "srt": [
@@ -9874,6 +10766,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -9896,6 +10796,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -9934,11 +10842,305 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=b2ng8HuPLTk"
+ },
+ "Vsauce\\Dog BUTT Floss! And More  LÜT #21": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Ya2D1ao_n2s"
+ },
+ "Vsauce\\DON'T SHOOT THE PUPPY!! .... and more  DONG #23": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=2eUDExCeayw"
+ },
+ "Vsauce\\Dord": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=nb0YoRMXIY0"
+ },
+ "Vsauce\\DOUBLE PUPILS and more! IMG #45": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=HiS1-l2xadg"
+ },
+ "Vsauce\\EAR Earrings -- LÜT #26": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=F981CD-8YEg"
+ },
+ "Vsauce\\ENGLISH": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=atI-JPGcF-k"
+ },
+ "Vsauce\\EPIC LEAPS": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=69HCbzffHAc"
+ },
+ "Vsauce\\FART SCIENCE": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Zt9rvaijpPY"
+ },
+ "Vsauce\\FIRST Photo on the INTERNET ... and other things too": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=kiQRPRkouAM"
  },
  "Vsauce\\Freedom of Choice - Mind Field (Ep 5)": {
   "srt": [
@@ -9971,11 +11173,811 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=lmI7NnMqwLQ"
+ },
+ "Vsauce\\FRENCH KISS A ROBOT!  Mind Blow #16": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=JVwYB0PY37k"
+ },
+ "Vsauce\\Fun GEEKY Games -- and more! [DONG]": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=WVt_LIbIN7M"
+ },
+ "Vsauce\\Fuzzy Pancakes and More! LÜT #19": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=OYx1wPSXkUw"
+ },
+ "Vsauce\\Gaga Tea FETISH  -- IMG! #33": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=6e1ydLyZYe8"
+ },
+ "Vsauce\\Guns in Space": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=hYf6av21x5c"
+ },
+ "Vsauce\\HACK Wheel of Fortune!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=5Dgkc3ret2w"
+ },
+ "Vsauce\\HAWAII FACTS!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=-v3R678Pvj8"
+ },
+ "Vsauce\\HE'S FOLLOWING YOU! -- DONG!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Gg-dGBo2D1U"
+ },
+ "Vsauce\\HIDDEN RAGE FACE ... and more! IMG! #35": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=z4RLbtgaWbQ"
+ },
+ "Vsauce\\HOT and COLD  SCIENCE!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=4Gs2ZIwkXSQ"
+ },
+ "Vsauce\\HOT BOBAS! -- IMG! #34": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=hP9zimdPXtk"
+ },
+ "Vsauce\\How Big Can a Person Get": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=DkzQxw16G9w"
+ },
+ "Vsauce\\How High Can We Build": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=GJ4Qp2xeRds"
+ },
+ "Vsauce\\How Hot Can It Get": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=4fuHzC9aTik"
+ },
+ "Vsauce\\How Many 5 Year-Olds Could You Fight -- And 18 Other DONGs!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=SBxHJI9syC8"
+ },
+ "Vsauce\\How Many Calories are on a Smudgy Screen": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=MVpkeBYZOrE"
+ },
+ "Vsauce\\How Many Dots IMG! #50": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=HFW70hUGRsk"
+ },
+ "Vsauce\\How Many Photos Have Been Taken": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=4e_kz79tjb8"
+ },
+ "Vsauce\\How Many Things Are There": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=C6eOcd06kdk"
+ },
+ "Vsauce\\How Much CAFFEINE KILLS .. and more  DONG!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=C7VxAOHeF4o"
+ },
+ "Vsauce\\How Much Does a Shadow Weigh": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Do1lm9IevYE"
+ },
+ "Vsauce\\How Much Does The Internet Weigh": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=WaUzu-iksi8"
+ },
+ "Vsauce\\How Much Is A Bird in The Hand Worth": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=hup_8uDXJx8"
+ },
+ "Vsauce\\How Much Money is LOVE Worth": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Jf7Uo6nqaIg"
+ },
+ "Vsauce\\How Much Money is There on Earth": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=w2tKg3E53DM"
  },
  "Vsauce\\How Much of the Earth Can You See at Once": {
   "srt": [
@@ -9999,11 +12001,187 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=mxhxL1LzKww"
+ },
+ "Vsauce\\How Old Can We Get": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=6LyCC6jjcx8"
+ },
+ "Vsauce\\How People Disappear": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=CPBJgpK0Ulc"
+ },
+ "Vsauce\\How Secure is Your Password And 21 Other DONGs": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=U_nHZ3YGT3w"
+ },
+ "Vsauce\\HOW TO  Animated Wallpaper! -- Up All Knight #6": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Z73FefuxtlM"
+ },
+ "Vsauce\\How to HACK Flash Games -- And More! DONG": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=1kGnCB5qpOw"
  },
  "Vsauce\\How to Make a Hero": {
   "srt": [
@@ -10029,6 +12207,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -10060,11 +12246,90 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=xna-kdXZQHQ"
+ },
+ "Vsauce\\Human Cow BREAST MILK -- Mind Blow #18": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=VeMNvRYstxQ"
+ },
+ "Vsauce\\Human Extinction": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=qXXZLoq2zFc"
  },
  "Vsauce\\I Watch 3 Episodes of Mind Field With Our Experts and Researchers": {
   "srt": [
@@ -10083,11 +12348,38 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=b0cakXwiZ8s"
+ },
+ "Vsauce\\If": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=QBK3QpQVnaw"
  },
  "Vsauce\\In Your Face - Mind Field (Ep 7)": {
   "srt": [
@@ -10125,6 +12417,250 @@
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=WY0j1cZtnp0"
+ },
+ "Vsauce\\INSANE BEATBOX and Other MOUTH NOISES -- BOAT": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=77tnUHpMQ1E"
+ },
+ "Vsauce\\INSIDE a Spherical Mirror": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=zRP82omMX0g"
+ },
+ "Vsauce\\Is All Fair In Love And War": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=oThh3_Srxtc"
+ },
+ "Vsauce\\Is Anything Real": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=L45Q1_psDqk"
+ },
+ "Vsauce\\Is Cereal Soup": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=O9ak89FwYeI"
+ },
+ "Vsauce\\Is Earth Actually Flat": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "th_hm.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=VNqNnUJVcVs"
+ },
+ "Vsauce\\Is The 5-Second Rule True": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=rYXdsOEWBj0"
+ },
+ "Vsauce\\Is This a PANDA --- IMG! #43": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=5e65WRAA3T0"
+ },
+ "Vsauce\\Is Your Red The Same as My Red": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=evQsOFQju08"
  },
  "Vsauce\\Isolation - Mind Field (Ep 1)": {
   "srt": [
@@ -10186,6 +12722,225 @@
   ],
   "link": "https://www.youtube.com/watch?v=LD0x7ho_IYc"
  },
+ "Vsauce\\KNOWLEDGE! --- LEANBACK #7": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=6SI-8yZSUPU"
+ },
+ "Vsauce\\last words": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Qig68IuPrbk"
+ },
+ "Vsauce\\LEGO TACO! And Other Great Images -- IMG! Episode #47": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=_UTZDR1Go24"
+ },
+ "Vsauce\\LICK DOOR KNOBS! ... IMG! #36": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=xPp9rvLvdxI"
+ },
+ "Vsauce\\LONELY": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=_QPcclYWOr4"
+ },
+ "Vsauce\\Long Distance KISSING and more! LÜT #22": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=L4-F_UakaA8"
+ },
+ "Vsauce\\MAKE YOUR CAT A DJ -- and more! LÜT #18": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Y45aema4iyM"
+ },
+ "Vsauce\\Mario Farts!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=4R1WPK3u8II"
+ },
+ "Vsauce\\MATH MAGIC and a NEW LEANBACK": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=tAj0B0g2F34"
+ },
  "Vsauce\\Messages For The Future": {
   "srt": [
    "ar_gt.srt",
@@ -10208,6 +12963,29 @@
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=GDrBIKOR01c"
+ },
+ "Vsauce\\Mind Blowing WATCHES ... and more! LÜT #17": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Kob0wwKtyC8"
  },
  "Vsauce\\Mind Field - Official Trailer": {
   "srt": [
@@ -10305,6 +13083,33 @@
   ],
   "link": "https://www.youtube.com/watch?v=AgbeGFYluEA"
  },
+ "Vsauce\\Misnomers": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=xn7ZaT3AgoU"
+ },
  "Vsauce\\Moral Licensing": {
   "srt": [
    "ar_gt.srt",
@@ -10335,6 +13140,393 @@
   ],
   "link": "https://www.youtube.com/watch?v=yZlOw3rsPBM"
  },
+ "Vsauce\\Moving Illusions": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Iw8idyw_N6Q"
+ },
+ "Vsauce\\m͏̺͓̲̥̪í͇͔̠ś̷͎̹̲̻̻̘̝t̞̖͍͚̤k̥̞à̸͕̮͍͉̹̰͚̰ẹ̶̢̪s͏̨͈̙̹̜͚̲ ̛̬͓͟": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=dvKeCcxD3rQ"
+ },
+ "Vsauce\\Names": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=p7THJoRYA2c"
+ },
+ "Vsauce\\Nintendo FURNITURE -- Mind Blow #15": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=y3x9hz1cGWE"
+ },
+ "Vsauce\\Our Narrow Slice": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=yNLdblFQqsw"
+ },
+ "Vsauce\\Picture of Everything -- DONG": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=kXLr_bIlz4A"
+ },
+ "Vsauce\\Princess! NOOOO! ... IMG! #32": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=xR1sLdupUDs"
+ },
+ "Vsauce\\Rainbow Science! ... AND Why Headphones Get So Tangled": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=7k85eD_tQZo"
+ },
+ "Vsauce\\REAL CYCLOPS SHARK and more great images -- IMG! #46": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=_di83KPJY3s"
+ },
+ "Vsauce\\REAL NYAN CAT ... and more! IMG #38": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=9MgctssX5vY"
+ },
+ "Vsauce\\RIDDLE CHALLENGE - 54321 #2": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=P_O3eeVGYik"
+ },
+ "Vsauce\\Risk": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=w-CK8VxMz9g"
+ },
+ "Vsauce\\SCARIEST DOGS and MORE! IMG! #48": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=UNmaARtB4Ws"
+ },
+ "Vsauce\\SCIENCE! What is the Rarest Precious Metal": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=3_7KYoO5qHk"
+ },
+ "Vsauce\\Shepard Tone Illusion .... and more!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=RQlrSvnG3dg"
+ },
  "Vsauce\\Should I Die": {
   "srt": [
    "ar_gt.srt",
@@ -10364,6 +13556,229 @@
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=zRxI0DaQrag"
+ },
+ "Vsauce\\Should You Eat Yourself": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=kdrTQlClb08"
+ },
+ "Vsauce\\Slow-Mo Hand in MOUSETRAP! ... And DONGs": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=yBs5yrDyGqc"
+ },
+ "Vsauce\\SOAP FOR ADULTS ... LÜT #16": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=t1g0uoBlQ68"
+ },
+ "Vsauce\\Some Surprising Things": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=_Oc9tKkH7WE"
+ },
+ "Vsauce\\SOUNDS": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=ghy-FMZSJR0"
+ },
+ "Vsauce\\SPACE STRAW": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=im7DzMr8Ygs"
+ },
+ "Vsauce\\Spooky Coincidences": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=sHCHEykUxP4"
+ },
+ "Vsauce\\SPOT THE FAKE !! -------- DONG": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=NT-fgaYKhVg"
+ },
+ "Vsauce\\STOPPED CLOCK ILLUSION": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=nNBTLbw1_2Q"
  },
  "Vsauce\\Supertasks": {
   "srt": [
@@ -10495,6 +13910,29 @@
   ],
   "link": "https://www.youtube.com/watch?v=_ArVh3Cj9rw"
  },
+ "Vsauce\\THE GAME OF LIFE and other DONGs!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=aNgE_hf41NY"
+ },
  "Vsauce\\The Moon Terminator Illusion": {
   "srt": [
    "ar_gt.srt",
@@ -10611,6 +14049,63 @@
   ],
   "link": "https://www.youtube.com/watch?v=QDCcuCHOIyY"
  },
+ "Vsauce\\The Science of Awkwardness": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=o268qbb_0BM"
+ },
+ "Vsauce\\The Science of the Friend Zone": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=IGK2KprU-To"
+ },
  "Vsauce\\The Stanford Prison Experiment": {
   "srt": [
    "ar_gt.srt",
@@ -10702,6 +14197,33 @@
   ],
   "link": "https://www.youtube.com/watch?v=1sl5KJ69qiA"
  },
+ "Vsauce\\The Web Is Not The Net": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=scWj1BMRHUA"
+ },
  "Vsauce\\The Zipf Mystery": {
   "srt": [
    "ar_gt.srt",
@@ -10724,6 +14246,123 @@
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=fCn8zs912OE"
+ },
+ "Vsauce\\Things To Do Online #18 -- DONG!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=93M3La8n8mw"
+ },
+ "Vsauce\\This Is Not Yellow": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=R3unPcJDbCc"
+ },
+ "Vsauce\\This Is Only Red": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=aHtjhCxRIa4"
+ },
+ "Vsauce\\Top 5 Video Game WTFs!!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=nid0tHZxBA0"
+ },
+ "Vsauce\\Top Hats for CATS! LÜT #25": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=UaA-ZeuEcQ0"
  },
  "Vsauce\\Touch - Mind Field (Ep 6)": {
   "srt": [
@@ -10762,6 +14401,55 @@
   ],
   "link": "https://www.youtube.com/watch?v=OUdXMoY6fLY"
  },
+ "Vsauce\\Travel INSIDE a Black Hole": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=3pAnRKD4raY"
+ },
+ "Vsauce\\TROLL LIPS and more! IMG! #51": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=ByQyW7wj5eQ"
+ },
  "Vsauce\\Truth Serums and False Confessions": {
   "srt": [
    "ar_gt.srt",
@@ -10793,6 +14481,601 @@
   ],
   "link": "https://www.youtube.com/watch?v=gWoPI-VoFV0"
  },
+ "Vsauce\\UGLY DANCE -- DONG": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=SLSviqKGxSA"
+ },
+ "Vsauce\\Unicorn FARTS on Your LIPS  -- LÜT #23": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=cOi2nyiWFmY"
+ },
+ "Vsauce\\WATER": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=YMTLkDrcr28"
+ },
+ "Vsauce\\Water Is Amazing -- World Water Day!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=9m3dQC6IfwY"
+ },
+ "Vsauce\\We Are All Related": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=BhtgINeaJWg"
+ },
+ "Vsauce\\WET DOGS ---- IMG! #40": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=6zvspznTdIM"
+ },
+ "Vsauce\\WHACK REBECCA BLACK! .. and more  DONG!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Gp_pB9UCnIQ"
+ },
+ "Vsauce\\What Can You Do Without a Brain": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=3teflb1QNN4"
+ },
+ "Vsauce\\What Color Is A Mirror": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=-yrZpTHBEss"
+ },
+ "Vsauce\\What Does Earth Look Like": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=2lR7s1Y6Zig"
+ },
+ "Vsauce\\What Does Human Taste Like": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=qWAF9PgDg2c"
+ },
+ "Vsauce\\What If Everyone JUMPED At Once": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=jHbyQ_AQP8c"
+ },
+ "Vsauce\\What If The Earth Stopped Spinning": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=K0-GxoJ_Pcg"
+ },
+ "Vsauce\\What if the Moon was a Disco Ball": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=w8I25H3bnNw"
+ },
+ "Vsauce\\What If The Sun Disappeared": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=rltpH6ck2Kc"
+ },
+ "Vsauce\\What if You Were Born in Space": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=jTL_sJycQAA"
+ },
+ "Vsauce\\What Is Consciousness": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=qjfaoe847qQ"
+ },
+ "Vsauce\\What is Cool": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Af3ZG47oT7I"
+ },
+ "Vsauce\\What is Déjà vu": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=CSf8i8bHIns"
+ },
+ "Vsauce\\What is Random": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=9rIy0xY99a0"
+ },
+ "Vsauce\\What Is The Earth Worth": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=nt6ab7BTlgE"
+ },
+ "Vsauce\\What Is The Greatest Honor": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=P85Fj8m6v84"
+ },
+ "Vsauce\\What Is The Resolution Of The Eye": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=4I5Q3UXkGd0"
+ },
  "Vsauce\\What Is The Scariest Thing": {
   "srt": [
    "ar_gt.srt",
@@ -10821,6 +15104,331 @@
    "Vsauce"
   ],
   "link": "https://www.youtube.com/watch?v=9Vmwsg8Eabo"
+ },
+ "Vsauce\\What is the Shortest Poem": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=6F7quI-MbzY"
+ },
+ "Vsauce\\What Is The Speed of Dark": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=JTvcpdfGUtQ"
+ },
+ "Vsauce\\WHAT IS THIS .......... IMG! #39": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=gLpUe2vVEdE"
+ },
+ "Vsauce\\What Is Video": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=buSaywCF6E8"
+ },
+ "Vsauce\\What Will We Miss": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=7uiv6tKtoKg"
+ },
+ "Vsauce\\WHAT'S A DONG": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=0tNFEXImX0o"
+ },
+ "Vsauce\\What's Left": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=DU3OdTLuHf0"
+ },
+ "Vsauce\\What's The Brightest Thing In the Universe": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=FJB7gbjiJKw"
+ },
+ "Vsauce\\What's The Most Dangerous Place on Earth": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=1T4XMNN4bNM"
+ },
+ "Vsauce\\When Will We Run Out Of Names": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=f8WsO__XcI0"
+ },
+ "Vsauce\\Where Do Deleted Files Go": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=G5s4-Kak49o"
+ },
+ "Vsauce\\Where Is This Video": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=VztSdwYPFCE"
+ },
+ "Vsauce\\Where to BUY Uranium and other DONGS!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Lx4YuW3bagE"
  },
  "Vsauce\\Which Way Is Down": {
   "srt": [
@@ -10878,6 +15486,710 @@
   ],
   "link": "https://www.youtube.com/watch?v=Ks8WH3xUo_E"
  },
+ "Vsauce\\Why Are Bad Words Bad": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Dd7dQh8u4Hc"
+ },
+ "Vsauce\\Why Are Things Creepy": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=PEikGKDVsCc"
+ },
+ "Vsauce\\Why Are Things Cute": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Z0zConOPZ8Y"
+ },
+ "Vsauce\\Why Are We Morbidly Curious": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=ZbdMMI6ty0o"
+ },
+ "Vsauce\\Why Are We Ticklish Why do We Laugh": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=ddV6jyDeCKA"
+ },
+ "Vsauce\\Why Did The Chicken Cross The Road": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=_6nSOgsI_vo"
+ },
+ "Vsauce\\Why Do We Clap": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=ZD037VSAG2I"
+ },
+ "Vsauce\\Why Do We Dream": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=7GGzc3x9WJU"
+ },
+ "Vsauce\\Why Do We Feel Nostalgia": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=coGfGmOeLjE"
+ },
+ "Vsauce\\Why Do We Get Bored": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Qwd25JV-jnU"
+ },
+ "Vsauce\\Why Do We Have Two Nostrils": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=eiAx2kqmUpQ"
+ },
+ "Vsauce\\Why Do We Kiss": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "ko_hm.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=ixQbCXLUUj8"
+ },
+ "Vsauce\\Why Do We Play Games": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=e5jDspIC4hY"
+ },
+ "Vsauce\\Why Do We Wear Clothes": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=E4HGfagANiQ"
+ },
+ "Vsauce\\Why Don't Any Animals Have Wheels": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=sAGEOKAG0zw"
+ },
+ "Vsauce\\Why Don't We All Have Cancer": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ja_hm.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "nl_hm.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt",
+   "tr_hm.srt",
+   "zh_hm.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=Qja4z1HGDQo"
+ },
+ "Vsauce\\Why Don't We Taxidermy Humans": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=L6S5amkCoyc"
+ },
+ "Vsauce\\WHY IS THERE A MOON .... and more!": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=YBi6gUbsz-E"
+ },
+ "Vsauce\\Why Is Yawning Contagious": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=jGIbUK4nw00"
+ },
+ "Vsauce\\Why Is Your BOTTOM in the MIDDLE": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=xKg9Vl_Wg5U"
+ },
+ "Vsauce\\Will We Ever Run Out of New Music": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=DAcjV60RnRw"
+ },
+ "Vsauce\\Will We Ever Visit Other Stars": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=lD08CuUi_Ek"
+ },
+ "Vsauce\\WORST PARENTS EVER ... and more! IMG! 19": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=SCognYXKTI4"
+ },
+ "Vsauce\\Would Headlights Work at Light Speed": {
+  "srt": [
+   "ar_gt.srt",
+   "ar_hm.srt",
+   "de_gt.srt",
+   "de_hm.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "fr_hm.srt",
+   "it_gt.srt",
+   "it_hm.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pl_hm.srt",
+   "pt_gt.srt",
+   "pt_hm.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=ACUuFg9Y9dY"
+ },
+ "Vsauce\\You Can't Touch Anything": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=yE8rkG9Dw4s"
+ },
+ "Vsauce\\You Don't Type Alone": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=pPXxhgdtcXs"
+ },
+ "Vsauce\\YOU LIVE IN THE PAST": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=BTOODPf-iuc"
+ },
  "Vsauce\\Your Brain on Tech": {
   "srt": [
    "ar_gt.srt",
@@ -10909,9 +16221,52 @@
   ],
   "link": "https://www.youtube.com/watch?v=1RHsAUyFCAM"
  },
- "Винни Пух\\1": {
-  "language": "ru",
-  "link": "https://www.youtube.com/watch?v=gT13BAAbGyA"
+ "Vsauce\\ZOMBIE BOTTLE-OPENER! ... LÜT #24": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=EqWaWyvuClc"
+ },
+ "Vsauce\\‌‌": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "es_hm.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "language": "en",
+  "categories": [
+   "Vsauce"
+  ],
+  "link": "https://www.youtube.com/watch?v=K93zcgFsynk"
  },
  "Гуссарская баллада": {
   "srt": [
@@ -10919,6 +16274,11 @@
    "ru_hm.srt"
   ],
   "language": "ru",
+  "categories": [
+   "history",
+   "film",
+   "comedy"
+  ],
   "link": "https://www.youtube.com/watch?v=929O4WzLRDg",
   "lsubs": [
    "ru_en.lsubs",
@@ -10934,6 +16294,11 @@
    "ru_ua.srt"
   ],
   "language": "ru",
+  "categories": [
+   "history",
+   "film",
+   "comedy"
+  ],
   "link": "https://www.youtube.com/watch?v=a50qT9bW2Qo",
   "lsubs": [
    "ru_en.lsubs",
@@ -10946,6 +16311,10 @@
    "ru_hm.srt"
   ],
   "language": "ru",
+  "categories": [
+   "film",
+   "comedy"
+  ],
   "link": "https://www.youtube.com/watch?v=lVpmZnRIMKs",
   "lsubs": [
    "ru_en.lsubs",
@@ -10958,6 +16327,10 @@
    "ru_hm.srt"
   ],
   "language": "ru",
+  "categories": [
+   "film",
+   "comedy"
+  ],
   "link": "https://www.youtube.com/watch?v=5TmGPeowN-0",
   "lsubs": [
    "ru_en.lsubs",
@@ -10974,6 +16347,10 @@
    "ru_ua.srt"
   ],
   "language": "ru",
+  "categories": [
+   "film",
+   "comedy"
+  ],
   "link": "https://www.youtube.com/watch?v=P2_sjEURwgo",
   "lsubs": [
    "ru_en.lsubs",
@@ -10986,6 +16363,11 @@
    "ru_hm.srt"
   ],
   "language": "ru",
+  "categories": [
+   "animation",
+   "family",
+   "fairytale"
+  ],
   "link": "https://www.youtube.com/watch?v=ZjvCMWjBwHo",
   "lsubs": [
    "ru_en.lsubs",
@@ -11011,9 +16393,14 @@
   ],
   "language": "ru",
   "categories": [
+   "linguistics",
    "Микитко сын Алексеев"
   ],
-  "link": "https://www.youtube.com/watch?v=Nfs44YXzNdE"
+  "link": "https://www.youtube.com/watch?v=Nfs44YXzNdE",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
  },
  "Микитко сын Алексеев\\Зачем раньше на конце слов писали Ъ": {
   "srt": [
@@ -11034,32 +16421,14 @@
   ],
   "language": "ru",
   "categories": [
+   "linguistics",
    "Микитко сын Алексеев"
   ],
-  "link": "https://www.youtube.com/watch?v=0tna4zsK9jo"
- },
- "Микитко сын Алексеев\\Моё имя СКЛОНЯЕТСЯ!": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_gt.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_hm.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "ru",
-  "categories": [
-   "Микитко сын Алексеев"
-  ],
-  "link": "https://www.youtube.com/watch?v=CacQLYj4GEU"
+  "link": "https://www.youtube.com/watch?v=0tna4zsK9jo",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
  },
  "Микитко сын Алексеев\\рн#1. ИХ — ИХНИЙ. История слова и история отношения к нему": {
   "srt": [
@@ -11080,9 +16449,14 @@
   ],
   "language": "ru",
   "categories": [
+   "linguistics",
    "Микитко сын Алексеев"
   ],
-  "link": "https://www.youtube.com/watch?v=fI4vUmA9fCM"
+  "link": "https://www.youtube.com/watch?v=fI4vUmA9fCM",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
  },
  "Микитко сын Алексеев\\рн#14. НЕТУ слова НЕТУ": {
   "srt": [
@@ -11103,9 +16477,14 @@
   ],
   "language": "ru",
   "categories": [
+   "linguistics",
    "Микитко сын Алексеев"
   ],
-  "link": "https://www.youtube.com/watch?v=HTMg9iH7aYs"
+  "link": "https://www.youtube.com/watch?v=HTMg9iH7aYs",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
  },
  "Микитко сын Алексеев\\рн#2. ЗВОНИТЬ с ударением на О. Безграмотность или языковая закономерность": {
   "srt": [
@@ -11126,9 +16505,14 @@
   ],
   "language": "ru",
   "categories": [
+   "linguistics",
    "Микитко сын Алексеев"
   ],
-  "link": "https://www.youtube.com/watch?v=Nd2ZKVqULHI"
+  "link": "https://www.youtube.com/watch?v=Nd2ZKVqULHI",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
  },
  "Микитко сын Алексеев\\рн#4. КОФЕ в среднем роде пить – ГРЕХ! (нет)": {
   "srt": [
@@ -11149,9 +16533,14 @@
   ],
   "language": "ru",
   "categories": [
+   "linguistics",
    "Микитко сын Алексеев"
   ],
-  "link": "https://www.youtube.com/watch?v=FT1wXU2_R-8"
+  "link": "https://www.youtube.com/watch?v=FT1wXU2_R-8",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
  },
  "Микитко сын Алексеев\\СТАРОМОСКОВСКОЕ ПРОИЗНОШЕНИЕ и что от него осталось": {
   "srt": [
@@ -11172,9 +16561,14 @@
   ],
   "language": "ru",
   "categories": [
+   "linguistics",
    "Микитко сын Алексеев"
   ],
-  "link": "https://www.youtube.com/watch?v=yY7zXn2FU3g"
+  "link": "https://www.youtube.com/watch?v=yY7zXn2FU3g",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
  },
  "Микитко сын Алексеев\\яф#2. Как ПУШКИН изменил русский язык НА САМОМ ДЕЛЕ": {
   "srt": [
@@ -11182,6 +16576,7 @@
   ],
   "language": "ru",
   "categories": [
+   "linguistics",
    "Микитко сын Алексеев"
   ],
   "link": "https://www.youtube.com/watch?v=FZr4MEAOXWI"
