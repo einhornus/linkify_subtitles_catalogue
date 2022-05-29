@@ -16,52 +16,6 @@
   ],
   "link": "https://www.youtube.com/watch?v=DlJc2JvDCL0"
  },
- "CGP Grey\\ Parallel and Cross Cousins Explained": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=U6ViKuXd5qQ"
- },
- "CGP Grey\\'Indian' or 'Native American'  [Reservations, Part 0]": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=kh88fVP2FWQ"
- },
  "CGP Grey\\10 Misconceptions Rundown": {
   "srt": [
    "ar_gt.srt",
@@ -85,35 +39,19 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=SCzXZfNIu3A"
- },
- "CGP Grey\\200,000 Subscribers.  Thank You": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=btDMr-13d3g"
  },
  "CGP Grey\\2012 and The End Of The World": {
   "srt": [
@@ -137,6 +75,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -168,45 +114,19 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=sYzfKiIWN4g"
- },
- "CGP Grey\\7 Ways to Maximize Misery 😞": {
-  "srt": [
-   "ar_gt.srt",
-   "ar_hm.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pl_hm.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "ru_hm.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "tr_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=LO1mTELoj6o"
  },
  "CGP Grey\\8 Animal Misconceptions Rundown": {
   "srt": [
@@ -229,6 +149,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -259,6 +187,14 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -281,6 +217,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -315,6 +259,14 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -348,36 +300,19 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=JEYh5WACqEk"
- },
- "CGP Grey\\Are Daddy Longlegs Spiders  (Re  8 Animal Misconceptions Rundown)": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=0JK2dR8ei5E"
  },
  "CGP Grey\\Are Hong Kong and Macau Countries": {
   "srt": [
@@ -402,34 +337,19 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=piEayQ0T-qA"
- },
- "CGP Grey\\Behind the Scenes of  💖 The Tale of Tiffany 💖": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=rbHQObTeLDM"
  },
  "CGP Grey\\Brexit, Briefly": {
   "srt": [
@@ -458,6 +378,14 @@
    "tr_gt.srt",
    "tr_hm.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -490,6 +418,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -517,6 +453,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -551,62 +495,19 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=qMkYlIA7mgw"
- },
- "CGP Grey\\Canada Gets Rid of the Penny (Huzzah!)": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=nU4E6SSy5Yg"
- },
- "CGP Grey\\CGP Grey was WRONG": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=ua4QMFQATco"
  },
  "CGP Grey\\Coffee  The Greatest Addiction Ever": {
   "srt": [
@@ -636,6 +537,14 @@
    "tr_gt.srt",
    "tr_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -662,6 +571,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -695,6 +612,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -726,6 +651,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -763,6 +696,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -791,6 +732,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -821,6 +770,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -843,6 +800,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -867,6 +832,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -890,6 +863,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -912,6 +893,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -946,259 +935,19 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=cZYNADOHhVY"
- },
- "CGP Grey\\Footnote  from How to Become Pope": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=S6QmhrtBTO0"
- },
- "CGP Grey\\Footnote  from STV  Proportional Systems vs STV": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=8DNtsjB7L_I"
- },
- "CGP Grey\\Footnote  from The Debt Ceiling Explained": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=YVJXRq7IfgQ"
- },
- "CGP Grey\\FOOTNOTE †   7 Ways to Maximize Misery": {
-  "srt": [
-   "ar_gt.srt",
-   "ar_hm.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "ru_hm.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "tr_hm.srt",
-   "zh_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=8qGCAE1jte8"
- },
- "CGP Grey\\Footnote †  Dollars Per Monetized View": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=l_wFE9kHSos"
- },
- "CGP Grey\\Footnote † from How to Become Pope": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=5hPsX3zQeX4"
- },
- "CGP Grey\\Footnote † from STV  Switch To STV": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=PukSDm0RD2E"
- },
- "CGP Grey\\Footnote † from The Debt Ceiling Explained": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=iOWC0g_1IxQ"
- },
- "CGP Grey\\Footnote ‡  YouTube Red": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "ru_hm.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=VvaxkpeSg_4"
- },
- "CGP Grey\\Footnote ‡ from How to Become Pope": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=uBcGdf4OjQw"
  },
  "CGP Grey\\Gerrymandering Explained": {
   "srt": [
@@ -1222,57 +971,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=Mky11UJb9AY"
- },
- "CGP Grey\\Grey Reads The 25th Amendment": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=TJlOb7n_iCI"
- },
- "CGP Grey\\Grey's Favorites Volume 4": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=AqwJXTyfNqU"
  },
  "CGP Grey\\Groundhog Day Explained": {
   "srt": [
@@ -1294,6 +1005,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -1318,6 +1037,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -1340,6 +1067,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -1371,6 +1106,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -1408,39 +1151,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=R9OHn5ZF4Uo"
- },
- "CGP Grey\\How Machines Really Learn.  [Footnote]": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "zh_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=wvWpdrfoEv0"
  },
  "CGP Grey\\How Many Countries Are There": {
   "srt": [
@@ -1466,6 +1189,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -1495,6 +1226,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -1523,13 +1262,21 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=OUS9mM8Xbbw"
  },
- "CGP Grey\\How to be a Pirate  Captain Edition 🏴‍☠️🌈": {
+ "CGP Grey\\How to be a Pirate  Captain Edition": {
   "srt": [
    "ar_gt.srt",
    "de_gt.srt",
@@ -1545,6 +1292,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -1552,7 +1307,7 @@
   ],
   "link": "https://www.youtube.com/watch?v=3YFeE1eDlD0"
  },
- "CGP Grey\\How to be a Pirate  Quartermaster Edition 📙📈": {
+ "CGP Grey\\How to be a Pirate  Quartermaster Edition": {
   "srt": [
    "ar_gt.srt",
    "de_gt.srt",
@@ -1568,6 +1323,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -1603,6 +1366,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -1633,6 +1404,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -1657,6 +1436,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -1695,6 +1482,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -1727,6 +1522,14 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -1757,6 +1560,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -1790,65 +1601,19 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=Z_2gbGXzFbs"
- },
- "CGP Grey\\Las Vegas isn't Las Vegas": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pl_hm.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "zh_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=naDCCW5TSpU"
- },
- "CGP Grey\\Looking for Lisa Holst (Re  10 Misconceptions Rundown)": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=NVmnLaTXylc"
  },
  "CGP Grey\\Mixed-Member Proportional Representation Explained": {
   "srt": [
@@ -1874,6 +1639,14 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -1896,6 +1669,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -1929,34 +1710,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=ULBCuHIpNgU"
- },
- "CGP Grey\\One Year and 100,000 Subscribers Later (Thank You!)": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=8CQ3qWgH4B0"
  },
  "CGP Grey\\Politics in the Animal Kingdom  Single Transferable Vote": {
   "srt": [
@@ -1981,6 +1747,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -2009,158 +1783,19 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=_95I_1rZiIs"
- },
- "CGP Grey\\QandA With Grey  500,000 Subscribers Edition": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=GOiIxqcbzyM"
- },
- "CGP Grey\\QandA With Grey  Favorites Edition": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=AM1-ecnQsm4"
- },
- "CGP Grey\\QandA With Grey  Just Because Edition": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "tr_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=jlLUuX2a0Cg"
- },
- "CGP Grey\\QandA With Grey  Meme Edition": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=QC-cMv0e3Dc"
- },
- "CGP Grey\\QandA With Grey  Millenia of Human Attention Edition": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=K63ZKa_tt3s"
- },
- "CGP Grey\\QandA With Grey  One Million Subscribers Edition": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "zh_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=tlsU_YT9n_g"
  },
  "CGP Grey\\Quick and Easy Voting for Normal People": {
   "srt": [
@@ -2188,6 +1823,14 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -2213,63 +1856,19 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=wpYtLcRKuPk"
- },
- "CGP Grey\\Re  The Trouble With The Electoral College – Cities, Metro Areas, Elections and The United States": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=G3wLQz-LgrM"
- },
- "CGP Grey\\Re  Which Planet is the Closest": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=LIS0IFmbZaI"
  },
  "CGP Grey\\Should all locks have keys Phones, Castles, Encryption, and You": {
   "srt": [
@@ -2299,6 +1898,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -2327,34 +1934,19 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=Erp8IAUouus"
- },
- "CGP Grey\\Someone Dead Ruined My Life… Again": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=qEV9qoup2mQ"
  },
  "CGP Grey\\Spaceship You": {
   "srt": [
@@ -2373,208 +1965,19 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=snAhsXyO3Ck"
- },
- "CGP Grey\\Summer of Grey  Parts 1 and 3": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=ZmD9RkCJgDI"
- },
- "CGP Grey\\Supreme Court Rules on Faithless Electors in the Electoral College": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=COmW6r23zas"
- },
- "CGP Grey\\Supreme Court Shenanigans !!!": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=dDYFiq1l5Dg"
- },
- "CGP Grey\\SURPRISE VLOG  Las Vegas": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=f-mHLBD64HM"
- },
- "CGP Grey\\Ten Years Later": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=qC5h9zcHmPA"
- },
- "CGP Grey\\Testing Tesla on the Deadliest Road in America 🐉": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=d6tgmGqXysM"
- },
- "CGP Grey\\The (Secret) City of London  Government Edition": {
-  "srt": [
-   "ar_gt.srt",
-   "ar_hm.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=z1ROpIKZe-c"
- },
- "CGP Grey\\The (Secret) City of London  History Edition": {
-  "srt": [
-   "ar_gt.srt",
-   "ar_hm.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=LrObZ_HZZUc"
  },
  "CGP Grey\\The Alternative Vote Explained": {
   "srt": [
@@ -2602,34 +2005,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=3Y3jE3B8HsE"
- },
- "CGP Grey\\The Battle of SHARKS!": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=_8xhdL8BPvU"
  },
  "CGP Grey\\The Better Boarding Method Airlines Won't Use": {
   "srt": [
@@ -2647,6 +2035,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -2676,6 +2072,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -2713,34 +2117,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=rNu8XDBSn10"
- },
- "CGP Grey\\The EU's 'SECRET' Brexit Negotiation EXPOSED 🙄": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=agZ0xISi40E"
  },
  "CGP Grey\\The European Union Explained": {
   "srt": [
@@ -2769,34 +2158,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=O37yJBFRrfg"
- },
- "CGP Grey\\The Future of the Channel, and You": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=aN44ETT6mUY"
  },
  "CGP Grey\\The Law You Won't Be Told": {
   "srt": [
@@ -2821,97 +2195,19 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=uqH_Y1TupoQ"
- },
- "CGP Grey\\The Lord of the Rings Mythology Explained (Part 1)": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pl_hm.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "ru_hm.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "tr_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=YxgsxaFWWHQ"
- },
- "CGP Grey\\The Most Deadly Job in America -- And What Happens Next": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=boezS4C_MFc"
- },
- "CGP Grey\\The One Ring Explained. (Lord of the Rings Mythology Part 2)": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pl_hm.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "ru_hm.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=WKU0qDpu3AM"
  },
  "CGP Grey\\The Problems with First Past the Post Voting Explained": {
   "srt": [
@@ -2941,6 +2237,14 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -2963,6 +2267,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -2999,6 +2311,14 @@
    "tr_gt.srt",
    "tr_hm.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -3037,6 +2357,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -3059,6 +2387,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -3086,6 +2422,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -3120,6 +2464,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -3142,6 +2494,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -3172,96 +2532,19 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=bhyYgnhhKFw"
- },
- "CGP Grey\\Thinking About Lockdowns": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=SVmEXdGqO-s"
- },
- "CGP Grey\\This Video is Worth $9,629": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "tr_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=KW0eUrUiyxo"
- },
- "CGP Grey\\This Video Will Hurt": {
-  "srt": [
-   "ar_gt.srt",
-   "ar_hm.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pl_hm.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "zh_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=O2hO4_UEe-4"
  },
  "CGP Grey\\This Video Will Make You Angry": {
   "srt": [
@@ -3291,34 +2574,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=rE3j_RHkqJc"
- },
- "CGP Grey\\Time Management for Teachers (v2)": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=SuhGwaZiNIk"
  },
  "CGP Grey\\Vatican City Explained": {
   "srt": [
@@ -3345,34 +2613,19 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=OPHRIjI3hXs"
- },
- "CGP Grey\\Weekend Wednesday": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=ALaTm6VzTBw"
  },
  "CGP Grey\\What are Continents": {
   "srt": [
@@ -3398,38 +2651,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=3uBcq1x7P34"
- },
- "CGP Grey\\What If the Electoral College is Tied": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=sHEDXzOfENI"
  },
  "CGP Grey\\What is a Leap Year": {
   "srt": [
@@ -3453,6 +2687,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -3478,66 +2720,19 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=LruaD7XhQ50"
- },
- "CGP Grey\\What is reddit": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pl_hm.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "ru_hm.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=tlI022aUWQQ"
- },
- "CGP Grey\\What Was TEKOI": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=PCeMCwxayp0"
  },
  "CGP Grey\\Where is Scandinavia": {
   "srt": [
@@ -3565,11 +2760,50 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=TsXMe8H6iyc"
+ },
+ "CGP Grey\\Which Planet is the Closest": {
+  "srt": [
+   "ar_gt.srt",
+   "de_gt.srt",
+   "en_hm.srt",
+   "es_gt.srt",
+   "fr_gt.srt",
+   "it_gt.srt",
+   "ja_gt.srt",
+   "ko_gt.srt",
+   "nl_gt.srt",
+   "pl_gt.srt",
+   "pt_gt.srt",
+   "ru_gt.srt",
+   "th_gt.srt",
+   "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "CGP Grey"
+  ],
+  "link": "https://www.youtube.com/watch?v=SumDHcnCRuU"
  },
  "CGP Grey\\Who Owns Antarctica": {
   "srt": [
@@ -3596,6 +2830,14 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -3620,46 +2862,19 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=SgZ1f4ACZBQ"
- },
- "CGP Grey\\Why Die": {
-  "srt": [
-   "ar_gt.srt",
-   "ar_hm.srt",
-   "de_gt.srt",
-   "de_hm.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "es_hm.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ja_hm.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pl_hm.srt",
-   "pt_gt.srt",
-   "pt_hm.srt",
-   "ru_gt.srt",
-   "ru_hm.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "tr_hm.srt",
-   "zh_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=C25qzDhGLx8"
  },
  "CGP Grey\\Why the UK Election Results are the Worst in History": {
   "srt": [
@@ -3687,6 +2902,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -3724,6 +2947,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
@@ -3753,57 +2984,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=PM79Epw_cp8"
- },
- "CGP Grey\\Your Theme": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=NVGuFdX5guE"
- },
- "CGP Grey\\YouTube vs Grey  A Ballad of Accidental Suspension": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=DIssymQvrbU"
  },
  "CGP Grey\\Zebra vs Horses  Animal Domestication": {
   "srt": [
@@ -3833,6 +3026,14 @@
    "tr_gt.srt",
    "tr_hm.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -3866,198 +3067,19 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "CGP Grey"
   ],
   "link": "https://www.youtube.com/watch?v=zcZTTB10_Vo"
- },
- "CGP Grey\\‡  Are US Military Bases and Embassies American Soil": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "nl_hm.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=0dU4IMex4FU"
- },
- "CGP Grey\\🇬🇧🔥 Brexit, Briefly  REVISITED! 🔥🇪🇺": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt",
-   "zh_hm.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=J1Yv24cM2os"
- },
- "CGP Grey\\🌍 Which Planet is the Closest": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=SumDHcnCRuU"
- },
- "CGP Grey\\🎃 Grey Reads The Monkey's Paw 🎃": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=aYYUZ9rj5dI"
- },
- "CGP Grey\\🎃 Grey Reads The Yellow Wallpaper 🎃": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=QSlJ98eLHUc"
- },
- "CGP Grey\\💖 The Tale of Tiffany 💖": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=9LMr5XTgeyI"
- },
- "CGP Grey\\🚛 🚗 The Interstate's Forgotten Code 🚗 🚛": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=8Fn_30AD7Pk"
- },
- "CGP Grey\\🦠 Grey Reads The Masque of the Red Death for Pandemicween 🦠": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "en",
-  "categories": [
-   "CGP Grey"
-  ],
-  "link": "https://www.youtube.com/watch?v=QAIy155xeh4"
  },
  "enchufetv\\Types of Students": {
   "srt": [
