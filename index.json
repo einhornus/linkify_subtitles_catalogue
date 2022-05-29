@@ -11033,7 +11033,12 @@
    "tr_gt.srt"
   ],
   "lsubs": [
-   "en_de.lsubs"
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11058,6 +11063,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11096,6 +11109,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11119,6 +11140,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11151,6 +11180,14 @@
    "tr_gt.srt",
    "tr_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11174,6 +11211,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11207,6 +11252,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11244,6 +11297,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11267,6 +11328,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11293,6 +11362,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11331,6 +11408,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11353,6 +11438,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11388,6 +11481,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11412,6 +11513,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11434,6 +11543,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11458,6 +11575,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11480,6 +11605,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11511,6 +11644,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11537,6 +11678,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11568,6 +11717,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11598,6 +11755,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "tr_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11631,6 +11796,14 @@
    "th_gt.srt",
    "tr_gt.srt",
    "zh_hm.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11666,6 +11839,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11695,6 +11876,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11718,6 +11907,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11746,6 +11943,14 @@
    "tr_gt.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11770,6 +11975,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11792,6 +12005,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11823,6 +12044,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11846,6 +12075,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11872,6 +12109,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11894,6 +12139,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11920,6 +12173,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -11954,6 +12215,14 @@
    "tr_gt.srt",
    "tr_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -11976,6 +12245,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12000,6 +12277,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12022,6 +12307,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12052,6 +12345,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12084,6 +12385,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12107,6 +12416,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12129,6 +12446,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12163,6 +12488,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12193,6 +12526,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12222,6 +12563,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12256,6 +12605,14 @@
    "tr_gt.srt",
    "tr_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12279,6 +12636,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12310,6 +12675,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12339,6 +12712,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12371,6 +12752,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12398,6 +12787,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12420,6 +12817,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12445,6 +12850,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12469,6 +12882,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12491,6 +12912,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12518,6 +12947,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12540,6 +12977,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12572,6 +13017,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12596,6 +13049,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12618,6 +13079,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12643,6 +13112,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12666,6 +13143,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12691,6 +13176,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12723,6 +13216,14 @@
    "tr_gt.srt",
    "tr_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12750,6 +13251,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12775,6 +13284,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12809,6 +13326,14 @@
    "tr_gt.srt",
    "tr_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12841,6 +13366,14 @@
    "tr_gt.srt",
    "tr_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12864,6 +13397,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12891,6 +13432,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12914,6 +13463,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12939,6 +13496,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -12962,6 +13527,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -12994,6 +13567,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13021,6 +13602,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13044,6 +13633,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13075,6 +13672,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13104,6 +13709,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13127,6 +13740,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13160,6 +13781,14 @@
    "tr_gt.srt",
    "tr_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13182,6 +13811,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13207,6 +13844,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13229,6 +13874,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13261,6 +13914,14 @@
    "tr_gt.srt",
    "tr_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13285,6 +13946,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13307,6 +13976,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13331,6 +14008,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13360,6 +14045,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13382,6 +14075,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13416,6 +14117,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13438,6 +14147,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13471,6 +14188,14 @@
    "ru_hm.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13508,6 +14233,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13531,6 +14264,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13560,6 +14301,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13582,6 +14331,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13606,6 +14363,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13634,6 +14399,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13658,6 +14431,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13681,6 +14462,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13708,6 +14497,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13731,6 +14528,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13766,6 +14571,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13792,6 +14605,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13816,6 +14637,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13839,6 +14668,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13874,6 +14711,14 @@
    "tr_hm.srt",
    "zh_hm.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13898,6 +14743,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13921,6 +14774,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13943,6 +14804,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -13969,6 +14838,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -13993,6 +14870,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -14016,6 +14901,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -14048,6 +14941,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -14071,6 +14972,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -14096,6 +15005,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -14119,6 +15036,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -14151,6 +15076,14 @@
    "th_gt.srt",
    "tr_gt.srt"
   ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
   "language": "en",
   "categories": [
    "Vsauce"
@@ -14174,6 +15107,14 @@
    "ru_gt.srt",
    "th_gt.srt",
    "tr_gt.srt"
+  ],
+  "lsubs": [
+   "en_de.lsubs",
+   "en_es.lsubs",
+   "en_fr.lsubs",
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
   ],
   "language": "en",
   "categories": [
@@ -14398,35 +15339,6 @@
    "Микитко сын Алексеев"
   ],
   "link": "https://www.youtube.com/watch?v=FT1wXU2_R-8",
-  "lsubs": [
-   "ru_en.lsubs",
-   "ru_rw.lsubs"
-  ]
- },
- "Микитко сын Алексеев\\СТАРОМОСКОВСКОЕ ПРОИЗНОШЕНИЕ и что от него осталось": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_dl.srt",
-   "en_gt.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "it_gt.srt",
-   "ja_gt.srt",
-   "ko_gt.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_hm.srt",
-   "th_gt.srt",
-   "tr_gt.srt"
-  ],
-  "language": "ru",
-  "categories": [
-   "linguistics",
-   "Микитко сын Алексеев"
-  ],
-  "link": "https://www.youtube.com/watch?v=yY7zXn2FU3g",
   "lsubs": [
    "ru_en.lsubs",
    "ru_rw.lsubs"
