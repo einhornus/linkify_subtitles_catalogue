@@ -3096,43 +3096,6 @@
   ],
   "link": "https://www.youtube.com/watch?v=X8Q4vPKDMpk"
  },
- "Kurzgesagt\\...And We'll Do it Again": {
-  "srt": [
-   "ar_gt.srt",
-   "de_gt.srt",
-   "en_hm.srt",
-   "es_gt.srt",
-   "fr_gt.srt",
-   "fr_hm.srt",
-   "it_gt.srt",
-   "it_hm.srt",
-   "ja_gt.srt",
-   "ja_hm.srt",
-   "ko_gt.srt",
-   "ko_hm.srt",
-   "nl_gt.srt",
-   "pl_gt.srt",
-   "pt_gt.srt",
-   "ru_gt.srt",
-   "th_gt.srt",
-   "th_hm.srt",
-   "tr_gt.srt",
-   "tr_hm.srt"
-  ],
-  "lsubs": [
-   "en_de.lsubs",
-   "en_es.lsubs",
-   "en_fr.lsubs",
-   "en_nl.lsubs",
-   "en_ru.lsubs",
-   "en_rw.lsubs"
-  ],
-  "language": "en",
-  "categories": [
-   "Kurzgesagt"
-  ],
-  "link": "https://www.youtube.com/watch?v=XFqn3uy238E"
- },
  "Kurzgesagt\\1,000km Cable to the Stars - The Skyhook": {
   "srt": [
    "ar_gt.srt",
@@ -3174,7 +3137,10 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=dqwpQarrDwk"
  },
@@ -3219,7 +3185,11 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal"
   ],
   "link": "https://www.youtube.com/watch?v=kP15q815Saw"
  },
@@ -3250,7 +3220,11 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal"
   ],
   "link": "https://www.youtube.com/watch?v=pVbLlnmxIbY"
  },
@@ -3279,7 +3253,12 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history"
   ],
   "link": "https://www.youtube.com/watch?v=HEYbgyL5n1g"
  },
@@ -3324,7 +3303,13 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art"
   ],
   "link": "https://www.youtube.com/watch?v=czgOWmtGVGs"
  },
@@ -3369,7 +3354,13 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art"
   ],
   "link": "https://www.youtube.com/watch?v=rvskMHn0sqQ"
  },
@@ -3414,7 +3405,13 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art"
   ],
   "link": "https://www.youtube.com/watch?v=M7CkdB5z9PY"
  },
@@ -3459,7 +3456,14 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology"
   ],
   "link": "https://www.youtube.com/watch?v=WPPPFqsECz0"
  },
@@ -3504,7 +3508,15 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food"
   ],
   "link": "https://www.youtube.com/watch?v=7TmcXYp8xu4"
  },
@@ -3542,8 +3554,15 @@
   ],
   "language": "en",
   "categories": [
-   "Space",
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food"
   ],
   "link": "https://www.youtube.com/watch?v=KRvv0QdruMQ"
  },
@@ -3588,7 +3607,15 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food"
   ],
   "link": "https://www.youtube.com/watch?v=e-P5IFTqB98"
  },
@@ -3633,7 +3660,15 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food"
   ],
   "link": "https://www.youtube.com/watch?v=uqKGREZs6-w"
  },
@@ -3678,8 +3713,16 @@
   ],
   "language": "en",
   "categories": [
-   "Geography",
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics"
   ],
   "link": "https://www.youtube.com/watch?v=yiw6_JakZFc"
  },
@@ -3724,7 +3767,16 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics"
   ],
   "link": "https://www.youtube.com/watch?v=JtUAAXe_0VI"
  },
@@ -3772,7 +3824,17 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature"
   ],
   "link": "https://www.youtube.com/watch?v=FfgT6zx4k3Q"
  },
@@ -3817,7 +3879,17 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature"
   ],
   "link": "https://www.youtube.com/watch?v=BtN-goy9VOY"
  },
@@ -3885,7 +3957,17 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature"
   ],
   "link": "https://www.youtube.com/watch?v=RLykC1VN7NY"
  },
@@ -3930,7 +4012,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=DHyUYg8X31c"
  },
@@ -3970,7 +4063,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=h6fcK_fRYaI"
  },
@@ -4015,7 +4119,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=16W7c0mb-rE"
  },
@@ -4060,7 +4175,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=yS1ibDImAYU"
  },
@@ -4128,7 +4254,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=mZsaaturR6E"
  },
@@ -4173,7 +4310,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=TnzcwTyr6cE"
  },
@@ -4218,7 +4366,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=jAhjPd4uNFY"
  },
@@ -4258,7 +4417,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=dSu5sXmsur4"
  },
@@ -4303,7 +4473,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=8HslUzw35mc"
  },
@@ -4348,7 +4529,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=VzPD009qTN4"
  },
@@ -4393,7 +4585,18 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=t7tA3NNKF0Q"
  },
@@ -4438,7 +4641,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=ZL4yYHdDSWs"
  },
@@ -4469,7 +4684,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=E1KkQrFEl2I"
  },
@@ -4515,8 +4742,19 @@
   ],
   "language": "en",
   "categories": [
-   "Biology",
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=lXfEK8G8CUI"
  },
@@ -4560,7 +4798,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=pP44EPBMb8A"
  },
@@ -4605,7 +4855,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=MjdpR-TY6QU"
  },
@@ -4650,7 +4912,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=uFk0mgljtns"
  },
@@ -4695,7 +4969,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=MUWUHf-rzks"
  },
@@ -4740,7 +5026,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=v3y8AIEX_dU"
  },
@@ -4780,8 +5078,19 @@
   ],
   "language": "en",
   "categories": [
-   "Space",
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=G-WO-z-QuWI"
  },
@@ -4826,7 +5135,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=NtQkz0aRDe8"
  },
@@ -4857,7 +5178,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=wbR-5mHI6bo"
  },
@@ -4902,7 +5235,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=ouAccsTzlGU"
  },
@@ -4941,8 +5286,19 @@
   ],
   "language": "en",
   "categories": [
-   "Biology",
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=F1Hq8eVOMHs"
  },
@@ -4987,7 +5343,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=8PmM6SUn7Es"
  },
@@ -5032,7 +5400,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=tlTKTTt47WE"
  },
@@ -5076,7 +5456,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=h4Uu5eyN6VU"
  },
@@ -5121,7 +5513,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=XxutY7ss1v4"
  },
@@ -5166,7 +5570,19 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=n3Xv_g3g-mA"
  },
@@ -5208,7 +5624,20 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=B3QTAgHlwEg"
  },
@@ -5253,7 +5682,20 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=oakWgLqCwUc"
  },
@@ -5298,7 +5740,20 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=udFxKZRyQt4"
  },
@@ -5343,7 +5798,20 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=MBRqu0YOH14"
  },
@@ -5372,7 +5840,20 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=NMo3nZHVrZ4"
  },
@@ -5417,7 +5898,20 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=QsBT5EQt348"
  },
@@ -5462,7 +5956,20 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=RS7IzU2VJIQ"
  },
@@ -5507,7 +6014,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=JhHMJCUmq28"
  },
@@ -5552,7 +6073,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=V9_PjdU3Mpo"
  },
@@ -5597,7 +6132,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=qPQQwqGWktE"
  },
@@ -5642,7 +6191,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=Da-2h2B4faU"
  },
@@ -5683,7 +6246,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=FaB41TtgS54"
  },
@@ -5728,7 +6305,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=f9uZ0REjIjo"
  },
@@ -5772,7 +6363,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=xxFqPNPJuU8"
  },
@@ -5817,7 +6422,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=xZbcwi7SfZE"
  },
@@ -5862,7 +6481,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=cqECNYmM23A"
  },
@@ -5907,7 +6540,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=ulCdoCfw-bY"
  },
@@ -5949,9 +6596,21 @@
   ],
   "language": "en",
   "categories": [
-   "biology",
+   "Kurzgesagt",
+   "engineering",
    "physics",
-   "Kurzgesagt"
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=dFCbJmgeHmA"
  },
@@ -5996,7 +6655,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=YI3tsmFsrOg"
  },
@@ -6041,7 +6714,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=GqA42M4RtxE"
  },
@@ -6086,7 +6773,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=1fQkVqno-uI"
  },
@@ -6127,8 +6828,21 @@
   ],
   "language": "en",
   "categories": [
+   "Kurzgesagt",
+   "engineering",
    "physics",
-   "Kurzgesagt"
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=0FH9cgRhQ-k"
  },
@@ -6173,7 +6887,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=3mnSDifDSxQ"
  },
@@ -6218,7 +6946,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=qsN1LglrX9s"
  },
@@ -6263,7 +7005,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=LS-VPyLaJFM"
  },
@@ -6298,7 +7054,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=Nv4Nk4AAgk8"
  },
@@ -6343,7 +7113,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=p_8yK2kmxoo"
  },
@@ -6388,7 +7172,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=ijFm6DxNVyI"
  },
@@ -6433,7 +7231,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=qNWWrDBRBqk"
  },
@@ -6470,7 +7282,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=7OPg-ksxZ4Y"
  },
@@ -6515,7 +7341,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=H6u0VBqNBQ8"
  },
@@ -6559,7 +7399,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=YbgnlkJPga4"
  },
@@ -6604,7 +7458,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=WSKi8HfcxEk"
  },
@@ -6649,7 +7517,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=zBkVCpbNnkU"
  },
@@ -6694,7 +7576,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=7_e0CA_nhaE"
  },
@@ -6738,7 +7634,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=4ClLMrfYmmw"
  },
@@ -6779,8 +7689,21 @@
   ],
   "language": "en",
   "categories": [
-   "Biology",
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=1-NxodiGPCU"
  },
@@ -6825,7 +7748,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=5TbUxGZtwGI"
  },
@@ -6870,7 +7807,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=BSypUV6QUNw"
  },
@@ -6909,7 +7860,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=uzkD5SeuwzM"
  },
@@ -6961,7 +7926,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=kl39KHS07Xc"
  },
@@ -7006,7 +7985,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=y8XvQNt26KI"
  },
@@ -7044,7 +8037,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=LxgMdjyw8uw"
  },
@@ -7089,7 +8096,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=JQVmkDUkZT4"
  },
@@ -7130,7 +8151,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=JXeJANDKwDc"
  },
@@ -7171,8 +8206,21 @@
   ],
   "language": "en",
   "categories": [
-   "Biology",
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=xaQJbozY_Is"
  },
@@ -7217,7 +8265,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=rhFK5_Nx9xY"
  },
@@ -7262,7 +8324,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=dGiQaabX3_o"
  },
@@ -7303,10 +8379,21 @@
   ],
   "language": "en",
   "categories": [
-   "Physics",
-   "Space",
-   "Astronomy",
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=lheapd7bgLA"
  },
@@ -7351,7 +8438,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=J0ldO87Pprc"
  },
@@ -7396,7 +8497,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=f7KSfjv4Oq0"
  },
@@ -7432,7 +8547,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=gLZJlf5rHVs"
  },
@@ -7470,7 +8599,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=VB_GWz25B3Q"
  },
@@ -7515,7 +8658,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=8nHBGFKLHZQ"
  },
@@ -7560,7 +8717,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=JyECrGp-Sw8"
  },
@@ -7605,7 +8776,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=5iPH-br_eJQ"
  },
@@ -7642,7 +8827,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=qEfPBt9dU60"
  },
@@ -7687,7 +8886,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=9tbxDgcv74c"
  },
@@ -7712,7 +8925,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=QqsLTNkzvaY"
  },
@@ -7757,7 +8984,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=QAa2O_8wBUQ"
  },
@@ -7801,7 +9042,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=ck4RGeoHFko"
  },
@@ -7846,7 +9101,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=IXxZRZxafEQ"
  },
@@ -7891,7 +9160,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=X9otDixAtFw"
  },
@@ -7936,7 +9219,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=PaErPyEnDvk"
  },
@@ -7981,7 +9278,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=CWu29PRCUvQ"
  },
@@ -8026,7 +9337,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=ipVxxxqwBQw"
  },
@@ -8071,7 +9396,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=GoJsr4IwCm4"
  },
@@ -8116,7 +9455,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=UjtOGPJ0URM"
  },
@@ -8161,7 +9514,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=-O5kNPlUV7w"
  },
@@ -8206,7 +9573,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=QImCld9YubE"
  },
@@ -8251,7 +9632,21 @@
   ],
   "language": "en",
   "categories": [
-   "Kurzgesagt"
+   "Kurzgesagt",
+   "engineering",
+   "physics",
+   "economics",
+   "legal",
+   "history",
+   "art",
+   "biology",
+   "food",
+   "politics",
+   "literature",
+   "programming",
+   "astronomy",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=yWO-cvGETRQ"
  },
@@ -14270,8 +15665,10 @@
   ],
   "language": "ru",
   "categories": [
+   "Микитко сын Алексеев",
    "linguistics",
-   "Микитко сын Алексеев"
+   "history",
+   "literature"
   ],
   "link": "https://www.youtube.com/watch?v=0tna4zsK9jo",
   "lsubs": [
@@ -14299,8 +15696,8 @@
   ],
   "language": "ru",
   "categories": [
-   "linguistics",
-   "Микитко сын Алексеев"
+   "Микитко сын Алексеев",
+   "linguistics"
   ],
   "link": "https://www.youtube.com/watch?v=fI4vUmA9fCM",
   "lsubs": [
