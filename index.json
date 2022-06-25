@@ -10066,7 +10066,9 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art"
   ],
   "link": "https://www.youtube.com/watch?v=GUCcObwIsOs"
  },
@@ -10099,7 +10101,10 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal"
   ],
   "link": "https://www.youtube.com/watch?v=gCBlAAtJA54"
  },
@@ -10130,7 +10135,11 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=Wa1eWChj-o4"
  },
@@ -10169,7 +10178,11 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming"
   ],
   "link": "https://www.youtube.com/watch?v=U3lWVLuc6CE"
  },
@@ -10207,7 +10220,12 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion"
   ],
   "link": "https://www.youtube.com/watch?v=BR-eMMCp7tg"
  },
@@ -10239,7 +10257,13 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics"
   ],
   "link": "https://www.youtube.com/watch?v=rdHRX7iIAQs"
  },
@@ -10271,7 +10295,14 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food"
   ],
   "link": "https://www.youtube.com/watch?v=I31pi-6NgqM"
  },
@@ -10314,7 +10345,15 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering"
   ],
   "link": "https://www.youtube.com/watch?v=SHZAaGidUbg"
  },
@@ -10355,7 +10394,15 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering"
   ],
   "link": "https://www.youtube.com/watch?v=O2jkV4BsN6U"
  },
@@ -10394,7 +10441,16 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=mQ0hS7l9ckY"
  },
@@ -10433,7 +10489,16 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=wcPzTr-BbAA"
  },
@@ -10464,7 +10529,16 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy"
   ],
   "link": "https://www.youtube.com/watch?v=fXW-QjBsruE"
  },
@@ -10498,7 +10572,17 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics"
   ],
   "link": "https://www.youtube.com/watch?v=nb0YoRMXIY0"
  },
@@ -10530,7 +10614,17 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics"
   ],
   "link": "https://www.youtube.com/watch?v=atI-JPGcF-k"
  },
@@ -10562,7 +10656,18 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports"
   ],
   "link": "https://www.youtube.com/watch?v=69HCbzffHAc"
  },
@@ -10594,7 +10699,19 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology"
   ],
   "link": "https://www.youtube.com/watch?v=Zt9rvaijpPY"
  },
@@ -10625,7 +10742,19 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology"
   ],
   "link": "https://www.youtube.com/watch?v=kiQRPRkouAM"
  },
@@ -10659,7 +10788,19 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology"
   ],
   "link": "https://www.youtube.com/watch?v=hYf6av21x5c"
  },
@@ -10690,7 +10831,19 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology"
   ],
   "link": "https://www.youtube.com/watch?v=5Dgkc3ret2w"
  },
@@ -10721,7 +10874,20 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=-v3R678Pvj8"
  },
@@ -10752,7 +10918,20 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=Gg-dGBo2D1U"
  },
@@ -10783,7 +10962,20 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=4Gs2ZIwkXSQ"
  },
@@ -10815,7 +11007,20 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=DkzQxw16G9w"
  },
@@ -10850,7 +11055,20 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=GJ4Qp2xeRds"
  },
@@ -10882,7 +11100,20 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=4fuHzC9aTik"
  },
@@ -10913,7 +11144,20 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=SBxHJI9syC8"
  },
@@ -10945,7 +11189,20 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography"
   ],
   "link": "https://www.youtube.com/watch?v=MVpkeBYZOrE"
  },
@@ -10976,7 +11233,21 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=4e_kz79tjb8"
  },
@@ -11012,7 +11283,21 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=C6eOcd06kdk"
  },
@@ -11043,7 +11328,21 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=C7VxAOHeF4o"
  },
@@ -11075,7 +11374,21 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=Do1lm9IevYE"
  },
@@ -11106,7 +11419,21 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics"
   ],
   "link": "https://www.youtube.com/watch?v=WaUzu-iksi8"
  },
@@ -11137,7 +11464,22 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature"
   ],
   "link": "https://www.youtube.com/watch?v=hup_8uDXJx8"
  },
@@ -11168,7 +11510,22 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature"
   ],
   "link": "https://www.youtube.com/watch?v=Jf7Uo6nqaIg"
  },
@@ -11200,7 +11557,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=w2tKg3E53DM"
  },
@@ -11236,7 +11609,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=mxhxL1LzKww"
  },
@@ -11268,7 +11657,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=6LyCC6jjcx8"
  },
@@ -11311,7 +11716,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=CPBJgpK0Ulc"
  },
@@ -11350,7 +11771,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=JMpuxLIgjPs"
  },
@@ -11388,7 +11825,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=xna-kdXZQHQ"
  },
@@ -11428,7 +11881,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=qXXZLoq2zFc"
  },
@@ -11459,7 +11928,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=b0cakXwiZ8s"
  },
@@ -11491,7 +11976,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=QBK3QpQVnaw"
  },
@@ -11536,7 +12037,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=WY0j1cZtnp0"
  },
@@ -11568,7 +12085,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=zRP82omMX0g"
  },
@@ -11607,7 +12140,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=oThh3_Srxtc"
  },
@@ -11639,7 +12188,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=L45Q1_psDqk"
  },
@@ -11680,7 +12245,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=O9ak89FwYeI"
  },
@@ -11724,7 +12305,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=VNqNnUJVcVs"
  },
@@ -11756,7 +12353,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=rYXdsOEWBj0"
  },
@@ -11790,7 +12403,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=evQsOFQju08"
  },
@@ -11835,7 +12464,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=iqKdEhx-dD4"
  },
@@ -11866,7 +12511,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=LD0x7ho_IYc"
  },
@@ -11908,7 +12569,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=Qig68IuPrbk"
  },
@@ -11940,7 +12617,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=_QPcclYWOr4"
  },
@@ -11971,7 +12664,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=4R1WPK3u8II"
  },
@@ -12002,7 +12711,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=tAj0B0g2F34"
  },
@@ -12033,7 +12758,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=GDrBIKOR01c"
  },
@@ -12071,7 +12812,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=AgbeGFYluEA"
  },
@@ -12106,7 +12863,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=xn7ZaT3AgoU"
  },
@@ -12144,7 +12917,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=yZlOw3rsPBM"
  },
@@ -12183,7 +12972,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=Iw8idyw_N6Q"
  },
@@ -12224,7 +13029,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=dvKeCcxD3rQ"
  },
@@ -12266,7 +13087,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=p7THJoRYA2c"
  },
@@ -12303,7 +13140,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=yNLdblFQqsw"
  },
@@ -12335,7 +13188,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=7k85eD_tQZo"
  },
@@ -12370,7 +13239,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=w-CK8VxMz9g"
  },
@@ -12402,7 +13287,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=3_7KYoO5qHk"
  },
@@ -12433,7 +13334,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=RQlrSvnG3dg"
  },
@@ -12471,7 +13388,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=zRxI0DaQrag"
  },
@@ -12503,7 +13436,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=kdrTQlClb08"
  },
@@ -12536,7 +13485,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=_Oc9tKkH7WE"
  },
@@ -12567,7 +13532,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=ghy-FMZSJR0"
  },
@@ -12601,7 +13582,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=im7DzMr8Ygs"
  },
@@ -12642,7 +13639,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=sHCHEykUxP4"
  },
@@ -12673,7 +13686,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=nNBTLbw1_2Q"
  },
@@ -12704,7 +13733,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=ffUnNaQTfZE"
  },
@@ -12735,7 +13780,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=s86-Z-CbaHA"
  },
@@ -12773,7 +13834,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=ktkjUjcZid0"
  },
@@ -12812,7 +13889,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=NXNGvDdkXZE"
  },
@@ -12843,7 +13936,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=_ArVh3Cj9rw"
  },
@@ -12874,7 +13983,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=Y2gTSjoEExc"
  },
@@ -12915,7 +14040,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=J51ncHP_BrY"
  },
@@ -12953,7 +14094,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=PJF-cbTC4Cg"
  },
@@ -12991,7 +14148,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=QDCcuCHOIyY"
  },
@@ -13032,7 +14205,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=o268qbb_0BM"
  },
@@ -13064,7 +14253,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=IGK2KprU-To"
  },
@@ -13102,7 +14307,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=KND_bBDE8RQ"
  },
@@ -13140,7 +14361,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=rA5qnZUXcqo"
  },
@@ -13179,7 +14416,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=1sl5KJ69qiA"
  },
@@ -13214,7 +14467,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=scWj1BMRHUA"
  },
@@ -13245,7 +14514,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=fCn8zs912OE"
  },
@@ -13277,7 +14562,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=R3unPcJDbCc"
  },
@@ -13309,7 +14610,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=aHtjhCxRIa4"
  },
@@ -13340,7 +14657,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=nid0tHZxBA0"
  },
@@ -13374,7 +14707,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=3pAnRKD4raY"
  },
@@ -13405,7 +14754,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=ByQyW7wj5eQ"
  },
@@ -13444,7 +14809,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=gWoPI-VoFV0"
  },
@@ -13476,7 +14857,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=YMTLkDrcr28"
  },
@@ -13507,7 +14904,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=9m3dQC6IfwY"
  },
@@ -13539,7 +14952,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=BhtgINeaJWg"
  },
@@ -13571,7 +15000,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=3teflb1QNN4"
  },
@@ -13604,7 +15049,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=-yrZpTHBEss"
  },
@@ -13643,7 +15104,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=2lR7s1Y6Zig"
  },
@@ -13678,7 +15155,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=qWAF9PgDg2c"
  },
@@ -13712,7 +15205,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=jHbyQ_AQP8c"
  },
@@ -13753,7 +15262,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=K0-GxoJ_Pcg"
  },
@@ -13793,7 +15318,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=w8I25H3bnNw"
  },
@@ -13825,7 +15366,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=rltpH6ck2Kc"
  },
@@ -13859,7 +15416,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=jTL_sJycQAA"
  },
@@ -13891,7 +15464,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=qjfaoe847qQ"
  },
@@ -13923,7 +15512,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=Af3ZG47oT7I"
  },
@@ -13955,7 +15560,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=CSf8i8bHIns"
  },
@@ -13994,7 +15615,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=9rIy0xY99a0"
  },
@@ -14029,7 +15666,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=nt6ab7BTlgE"
  },
@@ -14061,7 +15714,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=P85Fj8m6v84"
  },
@@ -14099,7 +15768,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=4I5Q3UXkGd0"
  },
@@ -14136,7 +15821,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=9Vmwsg8Eabo"
  },
@@ -14168,7 +15869,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=6F7quI-MbzY"
  },
@@ -14208,7 +15925,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=JTvcpdfGUtQ"
  },
@@ -14239,7 +15972,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=buSaywCF6E8"
  },
@@ -14271,7 +16020,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=7uiv6tKtoKg"
  },
@@ -14302,7 +16067,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=DU3OdTLuHf0"
  },
@@ -14341,7 +16122,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=FJB7gbjiJKw"
  },
@@ -14373,7 +16170,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=1T4XMNN4bNM"
  },
@@ -14404,7 +16217,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=f8WsO__XcI0"
  },
@@ -14436,7 +16265,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=G5s4-Kak49o"
  },
@@ -14472,7 +16317,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=VztSdwYPFCE"
  },
@@ -14503,7 +16364,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=Lx4YuW3bagE"
  },
@@ -14544,7 +16421,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=Xc4xYacTu-E"
  },
@@ -14575,7 +16468,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=Ks8WH3xUo_E"
  },
@@ -14616,7 +16525,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=Dd7dQh8u4Hc"
  },
@@ -14660,7 +16585,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=PEikGKDVsCc"
  },
@@ -14692,7 +16633,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=Z0zConOPZ8Y"
  },
@@ -14728,7 +16685,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=ZbdMMI6ty0o"
  },
@@ -14759,7 +16732,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=ddV6jyDeCKA"
  },
@@ -14791,7 +16780,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=_6nSOgsI_vo"
  },
@@ -14826,7 +16831,23 @@
   ],
   "language": "en",
   "categories": [
-   "Vsauce"
+   "Vsauce",
+   "history",
+   "art",
+   "legal",
+   "programming",
+   "religion",
+   "physics",
+   "food",
+   "engineering",
+   "astronomy",
+   "linguistics",
+   "sports",
+   "biology",
+   "geography",
+   "mathematics",
+   "literature",
+   "economics"
   ],
   "link": "https://www.youtube.com/watch?v=ZD037VSAG2I"
  },
@@ -15665,10 +17686,9 @@
   ],
   "language": "ru",
   "categories": [
-   "Микитко сын Алексеев",
    "linguistics",
-   "history",
-   "literature"
+   "literature",
+   "history"
   ],
   "link": "https://www.youtube.com/watch?v=0tna4zsK9jo",
   "lsubs": [
@@ -15696,8 +17716,9 @@
   ],
   "language": "ru",
   "categories": [
-   "Микитко сын Алексеев",
-   "linguistics"
+   "linguistics",
+   "literature",
+   "history"
   ],
   "link": "https://www.youtube.com/watch?v=fI4vUmA9fCM",
   "lsubs": [
@@ -15726,7 +17747,8 @@
   "language": "ru",
   "categories": [
    "linguistics",
-   "Микитко сын Алексеев"
+   "literature",
+   "history"
   ],
   "link": "https://www.youtube.com/watch?v=HTMg9iH7aYs",
   "lsubs": [
@@ -15755,9 +17777,28 @@
   "language": "ru",
   "categories": [
    "linguistics",
-   "Микитко сын Алексеев"
+   "literature",
+   "history"
   ],
   "link": "https://www.youtube.com/watch?v=FT1wXU2_R-8",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Операция Ы": {
+  "srt": [
+   "en_dl.srt",
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "film",
+   "comedy"
+  ],
+  "link": "https://www.youtube.com/watch?v=xJ5iHFSdAU4",
   "lsubs": [
    "ru_en.lsubs",
    "ru_rw.lsubs"
