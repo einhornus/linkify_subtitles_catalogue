@@ -17561,6 +17561,12 @@
   "link": "https://www.youtube.com/watch?v=K93zcgFsynk"
  },
  "Мельница\\Алеша Попович и Тугарин Змей": {
+  "srt": [
+   "en_dl.srt",
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
+  ],
   "language": "ru",
   "categories": [
    "animation",
@@ -17568,13 +17574,18 @@
    "fairytale"
   ],
   "link": "https://www.youtube.com/watch?v=8vPQKM5UOJU",
-  "srt": [
-   "ru_gn.srt",
-   "ru_hm.srt",
-   "ru_ua.srt"
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
   ]
  },
  "Мельница\\Илья Муромец и Соловей-Разбойник": {
+  "srt": [
+   "en_dl.srt",
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
+  ],
   "language": "ru",
   "categories": [
    "animation",
@@ -17582,10 +17593,9 @@
    "fairytale"
   ],
   "link": "https://www.youtube.com/watch?v=mMmTAh4_xDc",
-  "srt": [
-   "ru_gn.srt",
-   "ru_hm.srt",
-   "ru_ua.srt"
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
   ]
  },
  "Мельница\\Карлик Нос": {
@@ -17606,6 +17616,12 @@
   ]
  },
  "Мельница\\Три Богатыря на дальних берегах": {
+  "srt": [
+   "en_dl.srt",
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
+  ],
   "language": "ru",
   "categories": [
    "animation",
@@ -17613,10 +17629,9 @@
    "fairytale"
   ],
   "link": "https://www.youtube.com/watch?v=Lub8x-mMjyQ",
-  "srt": [
-   "ru_gn.srt",
-   "ru_hm.srt",
-   "ru_ua.srt"
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
   ]
  },
  "Микитко сын Алексеев\\Зачем раньше на конце слов писали Ъ": {
