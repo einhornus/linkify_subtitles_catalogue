@@ -17560,96 +17560,35 @@
   ],
   "link": "https://www.youtube.com/watch?v=K93zcgFsynk"
  },
- "Гуссарская баллада": {
-  "srt": [
-   "en_dl.srt",
-   "ru_hm.srt"
-  ],
+ "Мельница\\Алеша Попович и Тугарин Змей": {
   "language": "ru",
   "categories": [
-   "history",
-   "film",
-   "comedy"
+   "animation",
+   "family",
+   "fairytale"
   ],
-  "link": "https://www.youtube.com/watch?v=929O4WzLRDg",
-  "lsubs": [
-   "ru_en.lsubs",
-   "ru_rw.lsubs"
-  ]
- },
- "Иван Васильевич меняет профессию": {
+  "link": "https://www.youtube.com/watch?v=8vPQKM5UOJU",
   "srt": [
-   "en_dl.srt",
-   "en_hm.srt",
    "ru_gn.srt",
    "ru_hm.srt",
    "ru_ua.srt"
-  ],
-  "language": "ru",
-  "categories": [
-   "history",
-   "film",
-   "comedy"
-  ],
-  "link": "https://www.youtube.com/watch?v=a50qT9bW2Qo",
-  "lsubs": [
-   "ru_en.lsubs",
-   "ru_rw.lsubs"
   ]
  },
- "Ирония Судьбы\\1": {
-  "srt": [
-   "en_ya.srt",
-   "ru_hm.srt"
-  ],
+ "Мельница\\Илья Муромец и Соловей-Разбойник": {
   "language": "ru",
   "categories": [
-   "film",
-   "comedy"
+   "animation",
+   "family",
+   "fairytale"
   ],
-  "link": "https://www.youtube.com/watch?v=lVpmZnRIMKs",
-  "lsubs": [
-   "ru_en.lsubs",
-   "ru_rw.lsubs"
-  ]
- },
- "Ирония Судьбы\\2": {
+  "link": "https://www.youtube.com/watch?v=mMmTAh4_xDc",
   "srt": [
-   "en_ya.srt",
-   "ru_hm.srt"
-  ],
-  "language": "ru",
-  "categories": [
-   "film",
-   "comedy"
-  ],
-  "link": "https://www.youtube.com/watch?v=5TmGPeowN-0",
-  "lsubs": [
-   "ru_en.lsubs",
-   "ru_rw.lsubs"
-  ]
- },
- "Кавказская пленница": {
-  "srt": [
-   "en_dl.srt",
-   "en_hm.srt",
    "ru_gn.srt",
-   "ru_gt.srt",
    "ru_hm.srt",
    "ru_ua.srt"
-  ],
-  "language": "ru",
-  "categories": [
-   "film",
-   "comedy"
-  ],
-  "link": "https://www.youtube.com/watch?v=P2_sjEURwgo",
-  "lsubs": [
-   "ru_en.lsubs",
-   "ru_rw.lsubs"
   ]
  },
- "Карлик Нос": {
+ "Мельница\\Карлик Нос": {
   "srt": [
    "en_dl.srt",
    "ru_hm.srt"
@@ -17664,6 +17603,20 @@
   "lsubs": [
    "ru_en.lsubs",
    "ru_rw.lsubs"
+  ]
+ },
+ "Мельница\\Три Богатыря на дальних берегах": {
+  "language": "ru",
+  "categories": [
+   "animation",
+   "family",
+   "fairytale"
+  ],
+  "link": "https://www.youtube.com/watch?v=Lub8x-mMjyQ",
+  "srt": [
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
   ]
  },
  "Микитко сын Алексеев\\Зачем раньше на конце слов писали Ъ": {
@@ -17786,7 +17739,110 @@
    "ru_rw.lsubs"
   ]
  },
- "Операция Ы": {
+ "Советские комедии\\Бриллиантовая рука": {
+  "srt": [
+   "en_dl.srt",
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "film",
+   "comedy"
+  ],
+  "link": "https://www.youtube.com/watch?v=B-iVfLX2tv"
+ },
+ "Советские комедии\\Гуссарская баллада": {
+  "srt": [
+   "en_dl.srt",
+   "ru_hm.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "history",
+   "film",
+   "comedy"
+  ],
+  "link": "https://www.youtube.com/watch?v=929O4WzLRDg",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Советские комедии\\Иван Васильевич меняет профессию": {
+  "srt": [
+   "en_dl.srt",
+   "en_hm.srt",
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "history",
+   "film",
+   "comedy"
+  ],
+  "link": "https://www.youtube.com/watch?v=O5GBMset5Ms",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Советские комедии\\Ирония Судьбы\\1": {
+  "srt": [
+   "en_ya.srt",
+   "ru_hm.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "film",
+   "comedy"
+  ],
+  "link": "https://www.youtube.com/watch?v=lVpmZnRIMKs",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Советские комедии\\Ирония Судьбы\\2": {
+  "srt": [
+   "en_ya.srt",
+   "ru_hm.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "film",
+   "comedy"
+  ],
+  "link": "https://www.youtube.com/watch?v=5TmGPeowN-0",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Советские комедии\\Кавказская пленница": {
+  "srt": [
+   "en_dl.srt",
+   "en_hm.srt",
+   "ru_gn.srt",
+   "ru_gt.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "film",
+   "comedy"
+  ],
+  "link": "https://www.youtube.com/watch?v=P2_sjEURwgo",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Советские комедии\\Операция Ы": {
   "srt": [
    "en_dl.srt",
    "ru_gn.srt",
@@ -17803,5 +17859,19 @@
    "ru_en.lsubs",
    "ru_rw.lsubs"
   ]
+ },
+ "Советские комедии\\Полосатый рейс": {
+  "srt": [
+   "en_dl.srt",
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "ru_ua.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "film",
+   "comedy"
+  ],
+  "link": "https://www.youtube.com/watch?v=B-iVfLX2tvY"
  }
 }
