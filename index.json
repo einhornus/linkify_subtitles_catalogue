@@ -17751,7 +17751,11 @@
    "film",
    "comedy"
   ],
-  "link": "https://www.youtube.com/watch?v=B-iVfLX2tv"
+  "link": "https://www.youtube.com/watch?v=B-iVfLX2tv",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
  },
  "Советские комедии\\Гуссарская баллада": {
   "srt": [
@@ -17784,7 +17788,7 @@
    "film",
    "comedy"
   ],
-  "link": "https://www.youtube.com/watch?v=O5GBMset5Ms",
+  "link": "https://www.youtube.com/watch?v=a50qT9bW2Qo",
   "lsubs": [
    "ru_en.lsubs",
    "ru_rw.lsubs"
@@ -17872,6 +17876,10 @@
    "film",
    "comedy"
   ],
-  "link": "https://www.youtube.com/watch?v=B-iVfLX2tvY"
+  "link": "https://www.youtube.com/watch?v=O5GBMset5Ms",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
  }
 }
