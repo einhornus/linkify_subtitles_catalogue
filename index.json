@@ -10038,6 +10038,26 @@
   ],
   "link": "https://www.youtube.com/watch?v=Pj-h6MEgE7I"
  },
+ "Moana": {
+  "srt": [
+   "en_dl.srt",
+   "ru_cgn25.srt",
+   "ru_cgn50.srt",
+   "ru_gn.srt",
+   "ru_hm.srt",
+   "video.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "animation",
+   "music"
+  ],
+  "link": "https://www.youtube.com/watch?v=6k_BH9lZ0L4",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
  "Vsauce\\A Defense of Comic Sans": {
   "srt": [
    "ar_gt.srt",
