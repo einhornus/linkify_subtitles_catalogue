@@ -10038,7 +10038,49 @@
   ],
   "link": "https://www.youtube.com/watch?v=Pj-h6MEgE7I"
  },
- "Moana": {
+ "Music\\English\\MLP\\I will fly": {
+  "srt": [
+   "en_cgn100.srt",
+   "en_cgn200.srt",
+   "en_cgn50.srt",
+   "en_hm.srt",
+   "nl_dl.srt",
+   "ru_dl.srt",
+   "video.srt"
+  ],
+  "lsubs": [
+   "en_nl.lsubs",
+   "en_ru.lsubs",
+   "en_rw.lsubs"
+  ],
+  "language": "en",
+  "categories": [
+   "animation",
+   "music"
+  ],
+  "link": "https://www.youtube.com/watch?v=7QTedH2HYyE"
+ },
+ "Music\\Russian\\Disney\\Frozen, Let it go": {
+  "srt": [
+   "en_dl.srt",
+   "ru_cgn100.srt",
+   "ru_cgn200.srt",
+   "ru_cgn50.srt",
+   "ru_hm.srt",
+   "video.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "animation",
+   "music"
+  ],
+  "link": "https://www.youtube.com/watch?v=70M-mSxB2bU",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Music\\Russian\\Disney\\Moana": {
   "srt": [
    "en_dl.srt",
    "ru_cgn25.srt",
@@ -10053,6 +10095,26 @@
    "music"
   ],
   "link": "https://www.youtube.com/watch?v=6k_BH9lZ0L4",
+  "lsubs": [
+   "ru_en.lsubs",
+   "ru_rw.lsubs"
+  ]
+ },
+ "Music\\Russian\\Old\\Bremen musicians, Ничего на свете лучше нету": {
+  "srt": [
+   "en_dl.srt",
+   "ru_cgn100.srt",
+   "ru_cgn200.srt",
+   "ru_cgn50.srt",
+   "ru_hm.srt",
+   "video.srt"
+  ],
+  "language": "ru",
+  "categories": [
+   "animation",
+   "music"
+  ],
+  "link": "https://www.youtube.com/watch?v=DjeiLzaVQG0",
   "lsubs": [
    "ru_en.lsubs",
    "ru_rw.lsubs"
